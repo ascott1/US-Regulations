@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 46 CFR ]
-[Code of Federal Regulations (annual edition) - October 1, 2000 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2001 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -9,36 +9,29 @@
 
           
 <R02>
-                    46
+          46
+          Parts 156 to 165
+          Revised as of October 1, 2001
 
-
-                    Parts 156 to 165
-
-                    Revised as of October 1, 2000
-
-                    Shipping
+          Shipping
 
 <R03>
 
 
 
-                    Containing a Codification of documents 
-                    of general applicability and future effect
+          Containing a codification of documents 
+          of general applicability and future effect
 
+          As of October 1, 2001
 
-                    As of October 1, 2000
-          
+          With Ancillaries
 
-                    With Ancillaries
+          Published by
+          Office of the Federal Register
+          National Archives and Records
+          Administration
 
-
-                    Published by
-                    Office of the Federal Register
-                    National Archives and Records
-                    Administration
-
-
-As a Special Edition of the Federal Register
+          A Special Edition of the Federal Register
 
 
 
@@ -50,12 +43,14 @@ As a Special Edition of the Federal Register
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 2000
+                            WASHINGTON : 2001
 
 
 
-               For sale by U.S. Government Printing Office
- Superintendent of Documents, Mail Stop: SSOP, Washington, DC 20402-9328
+ For sale by the Superintendent of Documents, U.S. Government Printing Office
+    Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area 
+                              (202) 512-1800
+      Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001
 
 
 
@@ -69,7 +64,7 @@ As a Special Edition of the Federal Register
 
 <R03>
                                                                     Page
-  Explanation.................................................       0
+  Explanation.................................................       v
 
   Title 46:
           Chapter I--Coast Guard, Department of 
@@ -136,7 +131,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2000), consult the ``List of CFR 
+revision date (in this case, October 1, 2001), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -251,7 +246,7 @@ SALES
 
     The Government Printing Office (GPO) processes all sales and 
 distribution of the CFR. For payment by credit card, call 202-512-1800, 
-M-F, 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2233, 24 hours 
+M-F, 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2250, 24 hours 
 a day. For payment by check, write to the Superintendent of Documents, 
 Attn: New Orders, P.O. Box 371954, Pittsburgh, PA 15250-7954. For GPO 
 Customer Service call 202-512-1803.
@@ -276,7 +271,7 @@ site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-October 1, 2000.
+October 1, 2001.
 
 
 
@@ -295,14 +290,10 @@ II--Maritime Administration, DOT and chapter III--Coast Guard (Great
 Lakes Pilotage), DOT. The ninth volume, containing part 500 to End, 
 includes chapter IV--Federal Maritime Commission. The contents of these 
 volumes represent all current regulations codified under this title of 
-the CFR as of October 1, 2000.
+the CFR as of October 1, 2001.
 
     Subject indexes appear for subchapter A-I, I-A, J, K, L, and Q-W 
 following the subchapters.
-
-    For this volume, Shelley C. Featherson was Chief Editor. The Code of 
-Federal Regulations publication program is under the direction of 
-Frances D. McDonald, assisted by Alomha S. Morris.
 
 [[Page x]]
 
@@ -338,7 +329,7 @@ chapter i--Coast Guard, Department of Transportation--
 
   --------------------------------------------------------------------
 
-                    SUBCHAPTER P--MANNING OF VESSELS
+               SUBCHAPTER P--MANNING OF VESSELS [RESERVED]
 SUBCHAPTER Q--EQUIPMENT, CONSTRUCTION, AND MATERIALS: SPECIFICATIONS AND 
                                 APPROVAL
 Part                                                                Page
@@ -349,7 +340,6 @@ Part                                                                Page
 163             Construction................................         319
 164             Materials...................................         330
 165             [Reserved]
-
                 Index.......................................         367
 
 [[Page 5]]
@@ -565,6 +555,7 @@ Sec.  160.052-7.............................................   2115-0090
 
 [[Page 7]]
 
+ 
 Sec.  160.053-4.............................................   2115-0090
 Sec.  160.055-4.............................................   2115-0090
 Sec.  160.064-6.............................................   2115-0090
@@ -6599,6 +6590,7 @@ forth for core materials as follows:
 Core............................  Polystyrene.......  MIL-P-40619
                                                       MIL-P-19644
                                   Polyurethane        MIL-P-21929
+ 
 
     (m) Equipment stowage. (1) Provision lockers, water tanks, and 
 special equipment lockers shall be watertight and so designed and 
@@ -8283,7 +8275,7 @@ Subpart 160.039 [Reserved]
 
 
 <R04>
-Subpart 160.040--Line-Throwing Appliance, Impluse-Projected Rocket Type 
+Subpart 160.040--Line-Throwing Appliance, Impulse-Projected Rocket Type 
                              (and Equipment)
 
     Source: CGD 76-048a and 76-048b, 44 FR 73089, Dec. 17, 1979, unless 
@@ -8653,6 +8645,10 @@ Aspirin, phenacetin and caffeine compound, 6\1/  5........................  Doub
 Sterile petrolatum gauze, 3" x 18".............  4........................  Single...................          3
 ----------------------------------------------------------------------------------------------------------------
 
+(c) Instructions. Instructions for the use of the contents of the first-
+aid kit shall be printed in legible type on a durable surface and shall 
+be securely attached to the inside of the cover. The instructions for 
+the use of the contents are as follows:
 
                Directions for the Use of the First-Aid Kit
 ------------------------------------------------------------------------
@@ -8676,6 +8672,7 @@ Bandage, triangular, compressed.....  Use as arm sling, tourniquet, or
 
 [[Page 113]]
 
+ 
 Burn dressing.......................  The petrolatum gauze bandage is
                                        applied in at least two layers
                                        over the burned surface and an
@@ -13358,6 +13355,7 @@ closed by heat sealing.
 
 [[Page 168]]
 
+ 
 20......................................  Wrap in paper envelope.
 ------------------------------------------------------------------------
 
@@ -16111,6 +16109,7 @@ Total buoyancy (inflated
 
 [[Page 201]]
 
+ 
     Type I....................  130 N (30 lb).............  80 N (18 lb).............  67 N (15 lb)
     Type V....................  100 N (22 lb).............  67 N (15 lb).............  N/A
 ----------------------------------------------------------------------------------------------------------------
@@ -20922,6 +20921,7 @@ Tests:
 
 [[Page 265]]
 
+ 
     Tensile Strength \2\........................        1          1          1          1          1          1
     Waterproof marking..........................
                                             SEE NOTE (3) FOR SAMPLING
@@ -22180,10 +22180,10 @@ with 5 U.S.C. 552(a). To enforce any edition other than the one listed
 in paragraph (b) of this section, notice of change must be published in 
 the Federal Register and the material made available to the public. All 
 approved material is on file at the Office of the Federal Register, 800 
-North Capitol Street, NW., suite 700, Washington, DC, and at the U.S. 
-Coast Guard, Office of Design and Engineering Standards (G-MSE), 2100 
-Second Street SW., Washington, DC 20593-0001, and is available from the 
-sources indicated in paragraph (b) of this section.
+North Capitol Street, NW., suite 700, Washington, DC, and at the 
+Commanding Officer, USCG Marine Safety Center, 400 Seventh Street SW., 
+Washington, DC 20590-0001, and is available from the sources indicated 
+in paragraph (b) of this section.
     (b) The material approved for incorporation by reference in this 
 part, and the sections affected are:
 
@@ -22193,8 +22193,9 @@ ANSI/UL 1196, Standard for Floating Waterlights, Second Edition March
 23, 1987.  161.010-2; 161.010-4
 
 [CGD 85-208, 54 FR 27020, June 27, 1989, as amended by CGD 95-072, 60 FR 
-50467, Sept. 29, 1995; CGD 96-041, 61 FR 50733, Sept. 27, 1996; CGD 
-97ndash;057, 62 FR 51049, Sept. 30, 1997]]
+50467, Sept. 29, 1995; CGD 96-041, 61 FR 50733, Sept. 27, 1996; CGD 97-
+057, 62 FR 51049, Sept. 30, 1997; USCG 2001-10224, 66 FR 48620, Sept. 
+21, 2001]
 
 [[Page 280]]
 
@@ -22222,13 +22223,13 @@ furnished at no cost to the U.S. Coast Guard.
 Sec. 161.010-4  Procedure for approval.
 
     (a) A request for approval of an automatic floating electric 
-waterlight must be submitted to the Commandant (G-MSE), U.S. Coast 
-Guard, 2100 Second Street SW., Washington, DC 20593-0001.
+waterlight must be submitted to the Commanding Officer, USCG Marine 
+Safety Center, 400 Seventh Street SW., Washington, DC 20590-0001.
     (b) All inspections and tests must be performed by an independent 
 laboratory which meets the requirements of Sec. 159.010-3 of this 
 chapter. A list of independent laboratories accepted by the Coast Guard 
 as meeting Sec. 159.010-3 of this chapter may be obtained by contacting 
-the Commandant (G-MSE).
+the Commanding Officer, USCG Marine Safety Center.
     (c) Each request for approval must contain;
     (1) The name and address of the applicant,
     (2) One copy of all plans and specifications that meet the 
@@ -22240,7 +22241,8 @@ construction and test requirements of ANSI/UL 1196, and
 complies with the requirements of this subpart.
 
 [CGD 85-208, 54 FR 27020, June 27, 1989, as amended by CGD 95-072, 60 FR 
-50467, Sept. 29, 1995; CGD 96-041, 61 FR 50734, Sept. 27, 1996]
+50467, Sept. 29, 1995; CGD 96-041, 61 FR 50734, Sept. 27, 1996; USCG 
+2001-10224, 66 FR 48620, Sept. 21, 2001]
 
 
 <R04>
@@ -22784,23 +22786,24 @@ workmanship and shall be free from imperfections which may affect its
 serviceability.
     (b) Bodies of pressure-vacuum relief valves must be made of bronze 
 or such corrosion-resistant material as may be approved by the 
-Commandant (G-MSE).
+Commanding Officer, USCG Marine Safety Center.
     (c) Valve discs, spindles, and seats shall be made of bronze or such 
-corrosion--resistant material as may be approved by the Commandant.
+corrosion-resistant material as may be approved by the Commanding 
+Officer, USCG Marine Safety Center.
     (d) Where springs are employed to actuate the valve discs, the 
 springs shall be made of corrosion-resistant material. Springs plated 
 with corrosion-resistant material are not acceptable.
     (e) Flame screens shall be made of corrosion-resistant wire.
     (f) Nonmetallic materials will not be permitted in the construction 
 of the valves, except bushings used in way of moving parts and gaskets 
-may be made of nonmetallic material resistant to
+may be made
 
 [[Page 286]]
 
-attack by the product carried. Nonmetallic diaphragms will be allowed 
-where diaphragm failure will not result in unrestricted flow of cargo 
-vapors to the atmosphere nor in an increase in the pressure or vacuum at 
-which the valve normally releases.
+of nonmetallic material resistant to attack by the product carried. 
+Nonmetallic diaphragms will be allowed where diaphragm failure will not 
+result in unrestricted flow of cargo vapors to the atmosphere nor in an 
+increase in the pressure or vacuum at which the valve normally releases.
     (g) The design and construction of the valves shall permit 
 overhauling and repairs without removal from the line.
     (h) Valve discs shall be guided by a ribbed cage or other suitable 
@@ -22830,9 +22833,9 @@ atmosphere. The net free area through the flame screens shall not be
 less than 1\1/2\ times the cross-sectional area of the vent inlet from 
 the cargo tanks.
     (o) Valve bodies may have screwed or flanged pipe connections, or 
-such types of connections as may be approved by the Commandant. If 
-flanged, the thickness and drilling shall comply with USA standards for 
-150-pound bronze flanged fittings.
+such types of connections as may be approved by the Commanding Officer, 
+USCG Marine Safety Center. If flanged, the thickness and drilling shall 
+comply with USA standards for 150-pound bronze flanged fittings.
     (p) Where design of valve does not permit complete drainage of 
 condensate to attached cargo tank or vent line, the valve body shall be 
 fitted with a plugged drain opening on the side of the atmospheric 
@@ -22843,7 +22846,7 @@ secured by means of lockwires, locknuts, or other acceptable means.
 [CGFR 50-9, 15 FR 1680, Mar. 25, 1950, as amended by CGFR 68-82, 33 FR 
 18907, Dec. 18, 1968; CGD 88-032, 56 FR 35827, July 29, 1991; CGD 95-
 072, 60 FR 50467, Sept. 29, 1995; CGD 96-041, 61 FR 50734, Sept. 27, 
-1996]
+1996; USCG 2001-10224, 66 FR 48620, Sept. 21, 2001]
 
 
 <R05>
@@ -22867,41 +22870,46 @@ approval number. The minimum wording for showing the approval number
 shall be ``USCG/162.017/* *'' or ``USCG 162.017-* *''.
 ---------------------------------------------------------------------------
 
-    * * Number to be assigned by the Commandant.
+    * * Number to be assigned by the Commanding Officer, USCG Marine 
+Safety Center.
 ---------------------------------------------------------------------------
 
     (b) [Reserved]
 
-[CGFR 68-82, 33 FR 18908, Dec. 18, 1968]
+[CGFR 68-82, 33 FR 18908, Dec. 18, 1968, as amended by USCG 2001-10224, 
+66 FR 48620, Sept. 21, 2001]
 
 
 <R05>
 Sec. 162.017-6  Procedure for approval.
 
     (a) General. Pressure-vacuum relief valves intended for use on tank 
-vessels must be approved for such use by the Commandant (G-MSE), U.S. 
-Coast Guard, Washington, DC 20593-0001.
-    (b) Drawings and specifications. Manufacturers desiring approval of 
-a new design or type of pressure-vacuum relief
+vessels must be approved for such use by the
 
 [[Page 287]]
 
-valve shall submit drawings in quadruplicate showing the design of the 
-valve, the sizes for which approval is requested, method of operation, 
-thickness and material specification of component parts, diameter of 
-seat opening and lift of discs, mesh and size of wire of flame screens.
+Commanding Officer, USCG Marine Safety Center, 400 Seventh Street SW., 
+Washington, DC 20590-0001.
+    (b) Drawings and specifications. Manufacturers desiring approval of 
+a new design or type of pressure-vacuum relief valve shall submit 
+drawings in quadruplicate showing the design of the valve, the sizes for 
+which approval is requested, method of operation, thickness and material 
+specification of component parts, diameter of seat opening and lift of 
+discs, mesh and size of wire of flame screens.
     (c) Pre-approval tests. Before approval is granted, the manufacturer 
 shall have tests conducted, or submit evidence that such tests have been 
 conducted, by the Underwriters' Laboratories, the Factory Mutual 
 Laboratories, or by a properly supervised and inspected test laboratory 
-acceptable to the Commandant (G-MSE), relative to determining the lift, 
-relieving pressure and vacuum, and flow capacity of a representative 
-sample of the pressure-vacuum relief valve in each size for which 
-approval is desired. Test reports including flow capacity curves must be 
-submitted to the Commandant (G-MSE).
+acceptable to the Commanding Officer, USCG Marine Safety Center, 
+relative to determining the lift, relieving pressure and vacuum, and 
+flow capacity of a representative sample of the pressure-vacuum relief 
+valve in each size for which approval is desired. Test reports including 
+flow capacity curves must be submitted to the Commanding Officer, USCG 
+Marine Safety Center.
 
 [56 FR 35827, July 29, 1991, as amended by CGD 95-072, 60 FR 50467, 
-Sept. 29, 1995; CGD 96-041, 61 FR 50734, Sept. 27, 1996]
+Sept. 29, 1995; CGD 96-041, 61 FR 50734, Sept. 27, 1996; USCG 2001-
+10224, 66 FR 48620, Sept. 21, 2001]
 
 
 <R04>
@@ -22966,15 +22974,15 @@ Engineering) of this chapter, except as otherwise specified in this
 subpart, and shall be resistant to the corrosive or other action of the 
 liquefied compressed gas in the liquid or gas phase.
     (b) All pressure containing external parts of valves must be 
-constructed of materials melting above 1700  deg.F. for liquefied 
-flammable gas service. Consideration of lower melting materials for 
-internal pressure-containing parts will be given if their use provides 
-significant improvement to the general operation of the valve. Flange 
-gaskets
+constructed of
 
 [[Page 288]]
 
-shall be metal or spiral wound asbestos.
+materials melting above 1700  deg.F. for liquefied flammable gas 
+service. Consideration of lower melting materials for internal pressure-
+containing parts will be given if their use provides significant 
+improvement to the general operation of the valve. Flange gaskets shall 
+be metal or spiral wound asbestos.
     (c) Nonferrous materials shall not be used in the construction of 
 valves for anhydrous ammonia or other service where susceptible to 
 attack by the lading.
@@ -23049,27 +23057,30 @@ Sec. 162.018-6  Marking.
     (a) Each safety relief valve shall be plainly marked by the 
 manufacturer with the required data in such a way that the marking will 
 not be obliterated in service. The marking may be stamped on the valve 
-or stamped or cast on a plate securely fastened to the valve. The 
-marking shall include the following data:
----------------------------------------------------------------------------
-
-    * * Number to be assigned by the Commandant.
----------------------------------------------------------------------------
-
-    (1) The name or identifying trademark of the manufacturer.
-    (2) Manufacturer's design or type number.
-    (3) Size ____ inches. (The pipe size of the valve inlet).
+or stamped or
 
 [[Page 289]]
 
+cast on a plate securely fastened to the valve. The marking shall 
+include the following data:
+    (1) The name or identifying trademark of the manufacturer.
+    (2) Manufacturer's design or type number.
+    (3) Size ____ inches. (The pipe size of the valve inlet).
     (4) Set pressure ____ p.s.i.
     (5) Rated capacity ____ cubic feet per minute of the gas or vapor 
 (at 60  deg.F. and 14.7 p.s.i.a.).
     (6) Coast Guard approval number. The minimum wording for showing 
 approval shall be ``USCG 162.018/* *'' or ``USCG 162.018-* *''.
+---------------------------------------------------------------------------
+
+    * * Number to be assigned by the Commanding Officer, USCG Marine 
+Safety Center.
+---------------------------------------------------------------------------
+
     (b) [Reserved]
 
-[CGFR 68-82, 33 FR 18908, Dec. 18, 1968]
+[CGFR 68-82, 33 FR 18908, Dec. 18, 1968, as amended by USCG 2001-10224, 
+66 FR 48620, Sept. 21, 2001]
 
 
 <R05>
@@ -23077,10 +23088,12 @@ Sec. 162.018-7  Flow rating tests.
 
     (a) Flow rating of valves shall be conducted in accordance with UG-
 131 of section VIII of the ASME Code, S-1.2.5.2 of the Compressed Gas 
-Association Standards, or other procedure approved by the Commandant.
+Association Standards, or other procedure approved by the Commanding 
+Officer, USCG Marine Safety Center.
     (b) [Reserved]
 
-[CGFR 68-82, 33 FR 18908, Dec. 18, 1968]
+[CGFR 68-82, 33 FR 18908, Dec. 18, 1968, as amended by USCG 2001-10224, 
+66 FR 48620, Sept. 21, 2001]
 
 
 <R05>
@@ -23088,27 +23101,30 @@ Sec. 162.018-8  Procedure for approval.
 
     (a) General. Safety relief valves for use on pressure vessels 
 containing liquefied compressed gases shall be approved by the 
-Commandant (G-MSE), U.S. Coast Guard, Washington, DC 20593-0001.
+Commanding Officer, USCG Marine Safety Center, 400 Seventh Street SW., 
+Washington, DC 20590-0001.
     (b) Plan submittal. Manufacturers desiring to secure approval of a 
 new design or type of safety relief valve shall submit in quadruplicate 
 detail drawings showing the valve construction, and material 
 specifications of the component parts. In the event the design is 
-changed, amended drawings shall be submitted to the Commandant for re-
-approval.
+changed, amended drawings shall be submitted to the Commanding Officer, 
+USCG Marine Safety Center, for re-approval.
     (c) Pre-approval tests. (1) Prior to approval of safety relief 
-valves by the Commandant, manufacturers shall have capacity 
-certification tests conducted, in accordance with Sec. 162.018-7 or 
-submit satisfactory evidence that such tests have been conducted and 
-approved by The National Board of Boiler and Pressure Vessel Inspectors 
-or by a properly supervised and inspected test laboratory acceptable to 
-the Commandant.
+valves by the Commanding Officer, USCG Marine Safety Center, 
+manufacturers shall have capacity certification tests conducted, in 
+accordance with Sec. 162.018-7 or submit satisfactory evidence that such 
+tests have been conducted and approved by The National Board of Boiler 
+and Pressure Vessel Inspectors or by a properly supervised and inspected 
+test laboratory acceptable to the Commanding Officer, USCG Marine Safety 
+Center.
     (2) Reports of conducted tests on designs of safety relief valves 
 different from those previously approved shall be submitted by the 
 manufacturer when requesting approval for different designs.
 
 [CGFR 52-43, 17 FR 9540, Oct. 18, 1952, as amended by CGFR 68-82, 33 FR 
 18908, Dec. 18, 1968; CGD 88-070, 53 FR 34536, Sept. 7, 1982; CGD 96-
-041, 61 FR 50734, Sept. 27, 1996]
+041, 61 FR 50734, Sept. 27, 1996; USCG 2001-10224, 66 FR 48620, Sept. 
+21, 2001]
 
 
 <R04>
@@ -23138,6 +23154,9 @@ part and the sections affected are as follows:
 
 American Society for Testing and Materials (ASTM)
 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959.
+
+[[Page 290]]
+
 ASTM F 1546 [or] F 1546 M-96, Standard Specification for Firehose 
 Nozzles--162.027-2; 162.027-3
 
@@ -23153,11 +23172,8 @@ Sec. 162.027-2  Design, construction, testing and marking requirements.
     (a) Each combination solid stream and water spray firehose nozzle 
 required to be approved under the provisions of this subpart must be 
 designed, constructed, tested, and marked in accordance with the 
-requirements of
-
-[[Page 290]]
-
-ASTM F 1546 (incorporated by reference, see Sec. 162.027-1).
+requirements of ASTM F 1546 (incorporated by reference, see 
+Sec. 162.027-1).
     (b) All inspections and tests required by ASTM F 1546 (incorporated 
 by reference, see Sec. 162.027-1) must be performed by an independent 
 laboratory accepted by the Coast Guard under subpart 159.010 of this 
@@ -23238,6 +23254,9 @@ organic or metallic coatings for exposed non-working ferrous parts, when
 applied on properly prepared surfaces after all cutting, forming, and 
 bending operations are completed, are considered to provide suitable 
 corrosion resistance:
+
+[[Page 291]]
+
     (a) Bonderizing, followed by the application of zinc chromate 
 primer, followed by one or more applications of enamel; or,
     (b) Hot-dipped or electrodeposited zinc in thicknesses not less than 
@@ -23249,9 +23268,6 @@ inch; or,
     (e) Copper plus nickel in total thicknesses not less than 0.003 
 inch, of which the nickel is not less than 0.002 inch, plus any 
 thickness of chrome.
-
-[[Page 291]]
-
     (ii) The metallic platings of less than the thicknesses specified in 
 this paragraph are not acceptable for the protection against corrosion 
 of ferrous parts.
@@ -23311,6 +23327,9 @@ there shall be included the rated capacity of the extinguisher in
 gallons, quarts, or pounds, and complete instructions for recharging, 
 including the identification of the recharge materials and of the 
 pressure cartridge or separate container if one is used.
+
+[[Page 292]]
+
     (2) For extinguishers which are not ordinarily discharged or opened 
 during the regular maintenance inspections and tests, the weight of the 
 fully charged extinguisher shall be die-stamped, embossed, or cast in a 
@@ -23320,14 +23339,10 @@ extinguisher.
 for any of the required extinguisher markings.
     (4) For stored pressure type or cartridge operated type water or 
 antifreeze portable fire extinguishers, each extinguisher name plate 
-shall be
-
-[[Page 292]]
-
-marked to indicate whether the extinguisher is to be filled with plain 
-water or with anti-freeze solution. Combination type name plates showing 
-the charge may be either plain water or antifreeze solution will not be 
-permitted.
+shall be marked to indicate whether the extinguisher is to be filled 
+with plain water or with anti-freeze solution. Combination type name 
+plates showing the charge may be either plain water or antifreeze 
+solution will not be permitted.
     (5) Recharge packages shall be legibly marked with the name of the 
 recharge and the capacity of contents in gallons, quarts, or pounds, in 
 addition to the usual recharge package marking. Recharge pressure 
@@ -23386,6 +23401,8 @@ the Coast Guard or by the recognized laboratory.
 67, 29 FR 14742, Oct. 29, 1964; CGD 72-214R, 38 FR 6880, Mar. 14, 1973; 
 CGD 73-73R, 38 FR 27354, Oct. 3, 1973]
 
+[[Page 293]]
+
 
 <R05>
 Sec. 162.028-4  Marine type label.
@@ -23397,12 +23414,8 @@ classification of the extinguisher in accordance with the Coast Guard
 classification system, and the Coast Guard approval number, thus: 
 ``Marine Type USCG Type ________, Size ________, Approval No. 162.028/
 ________.'' All such labels are to be obtained from the recognized 
-laboratory and will remain under
-
-[[Page 293]]
-
-its control until attached to product found acceptable under its listing 
-and labeling program.
+laboratory and will remain under its control until attached to product 
+found acceptable under its listing and labeling program.
     (b) All such labels are to be obtained only from the recognized 
 laboratory and will remain under its control until attached to product 
 found acceptable under its inspection and labeling program.
@@ -23468,8 +23481,11 @@ work is being done on listed or labeled product, and either or both
 inspectors may take samples of parts or materials entering into 
 construction, or final assemblies, for further examinations, inspections 
 or tests. The manufacturer shall provide a suitable place and the 
-apparatus necessary for the performance of the tests which are done at 
-the place of manufacture.
+apparatus necessary for the performance of the tests
+
+[[Page 294]]
+
+which are done at the place of manufacture.
 
 
 <R05>
@@ -23480,11 +23496,8 @@ which they consider has characteristics suitable for general use on
 merchant vessels and motorboats may make application for listing and 
 labeling as a marine-type portable fire extinguisher by addressing a 
 request directly to a recognized laboratory. The laboratory will inform 
-the submitter as to the requirements for inspection, examinations,
-
-[[Page 294]]
-
-and testing necessary for such listing and labeling. The request shall 
+the submitter as to the requirements for inspection, examinations, and 
+testing necessary for such listing and labeling. The request shall 
 include permission for the laboratory to furnish a complete test report 
 together with a description of the quality control procedures to the 
 Commandant.
@@ -23564,7 +23577,10 @@ requirements specified in this section.
 hose of sufficient length to a nozzle or nozzles to provide for suitable 
 application of the extinguishing agent to any part of the space 
 protected (a length of pipe may connect the outlet of the supply to the 
-hose connection); shall weigh more than 55 pounds when fully charged; 
+hose connection); shall weigh more than 55 pounds when fully charged;
+
+[[Page 295]]
+
 shall be self-contained, i.e., when charged, it shall not require any 
 additional source of extinguishing agent or expellent energy for its 
 operation; and shall provide simple means for immediate operation by a 
@@ -23573,12 +23589,9 @@ reliability of operation and performance after non-use for long periods
 under conditions encountered in marine service.
     (c) Materials. Materials used for exposed working parts, except 
 those used for inversion mechanism or similar purposes, shall be 
-corrosion-resistant to salt water and spray. Materials used
-
-[[Page 295]]
-
-for other exposed parts shall be either corrsion-resistant or shall be 
-protected by a suitable corrosion-resistant coating.
+corrosion-resistant to salt water and spray. Materials used for other 
+exposed parts shall be either corrsion-resistant or shall be protected 
+by a suitable corrosion-resistant coating.
     (1) Corrosion-resistant materials. The materials which are 
 considered to be corrosion-resistant are copper, brass, bronze, certain 
 copper-nickel alloys, certain alloys of aluminum, certain plastics, and 
@@ -23637,22 +23650,22 @@ interior of the case during submergence 1 foot below the surface of
 water for a period of 2 hours. The gauge shall be constructed of 
 corrosion-resistant materials, so that the pointer or face lettering 
 will not be obliterated by the action of salt water if some leakage 
-should occur after rough handling or extended periods of service. The 
-gage, when attached to the extinguisher, shall pass the salt spray and 
-vibration tests prescribed by paragraphs (c)(6) and (e) of this section.
+should occur after rough handling or
+
+[[Page 296]]
+
+extended periods of service. The gage, when attached to the 
+extinguisher, shall pass the salt spray and vibration tests prescribed 
+by paragraphs (c)(6) and (e) of this section.
     (e) Vibration resistance. Either component parts, subassemblies, or 
 the complete, fully charged specimen extinguisher, shall be tested in 
 accordance with sections 3.1 through 3.1.4.4 of Military Standard MIL-
 STD-167. Following this test, there shall be no obvious failures of 
-parts or assemblies, and they
-
-[[Page 296]]
-
-shall be capable of being operated satisfactorily without undue effort 
-or special procedures on the part of the operator, and the extinguisher 
-shall be capable of being recharged satisfactorily in accordance with 
-the directions on the name plate without the use of extraordinary tools 
-or procedures.
+parts or assemblies, and they shall be capable of being operated 
+satisfactorily without undue effort or special procedures on the part of 
+the operator, and the extinguisher shall be capable of being recharged 
+satisfactorily in accordance with the directions on the name plate 
+without the use of extraordinary tools or procedures.
     (f) Carbon dioxide type. Every carbon dioxide type extinguisher 
 shall be fitted with a valve which will withstand a minimum bursting 
 pressure of 6,000 p.s.i., and a discharge hose or tube which will 
@@ -23715,17 +23728,18 @@ easily wiped off after rinsing with tapwater.
 Sec. 162.039-4  Marine type label.
 
     (a) In addition to all other marking, every semiportable 
-extinguisher shall bear a label containing the ``marine type'' listing 
-manifest issued by a recognized laboratory. This label will include the 
-classification of the extinguisher in accordance with the Coast Guard 
-classification system, and the Coast Guard approval number, thus: 
-``Marine Type USCG Type ____, Size ____, Approval No. 162.039/Ex__.'' 
-All such labels are to be obtained from the recognized laboratory and 
-will remain under its control until attached to
+extinguisher shall
 
 [[Page 297]]
 
-product found acceptable under its listing and labeling program.
+bear a label containing the ``marine type'' listing manifest issued by a 
+recognized laboratory. This label will include the classification of the 
+extinguisher in accordance with the Coast Guard classification system, 
+and the Coast Guard approval number, thus: ``Marine Type USCG Type ____, 
+Size ____, Approval No. 162.039/Ex__.'' All such labels are to be 
+obtained from the recognized laboratory and will remain under its 
+control until attached to product found acceptable under its listing and 
+labeling program.
     (b) [Reserved]
 
 
@@ -23796,8 +23810,12 @@ use on merchant vessels, by addressing a request directly to a
 recognized laboratory. The laboratory will inform the submitter as to 
 the requirements for inspections, examinations, and testing necessary 
 for such listing and labeling. All costs in connection with the 
-examinations, tests, and inspections, listings and labelings are payable 
-by the manufacturer.
+examinations,
+
+[[Page 298]]
+
+tests, and inspections, listings and labelings are payable by the 
+manufacturer.
     (b) [Reserved]
 
 
@@ -23806,14 +23824,10 @@ Sec. 162.039-8  Termination of listing or labeling.
 
     (a) Listing or labeling as a marine type semiportable fire 
 extinguisher acceptable to the Commandant as approved for use on 
-inspected vessels or
-
-[[Page 298]]
-
-motorboats may be terminated, withdrawn, canceled, or suspended by 
-written notice to the recognized laboratory from the Commandant, or by 
-written notice to the manufacturer from the recognized laboratory or 
-from the Commandant under the following conditions:
+inspected vessels or motorboats may be terminated, withdrawn, canceled, 
+or suspended by written notice to the recognized laboratory from the 
+Commandant, or by written notice to the manufacturer from the recognized 
+laboratory or from the Commandant under the following conditions:
     (1) When the manufacturer does not desire to retain the service.
     (2) When the listed product is no longer being manufactured.
     (3) When the manufacturer's own program does not provide suitable 
@@ -23888,16 +23902,16 @@ and Bias of Applicable Test Methods of Committee D-19 on Water--162.050-
     (b) The documents listed in this section may be obtained as follows:
     (1) The UL standard may be obtained from Underwriters Laboratories, 
 Inc., (UL), 12 Laboratory Drive, Research Triangle Park, NC 27709-3995.
-    (2) You may obtain the ASTM Standard from the American Society for 
+    (2) You may obtain the ASTM Standard from the American Society for
+
+[[Page 299]]
+
 Testing and Materials, 100 Barr Harbor Drive, West Conshohocken, PA 
 19428-2959.
     (3) The NBS handbook may be obtained from the Superintendent of 
 Documents, U.S. Government Printing Office, Washington, DC 20402.
     (c) The documents listed in this section are also on file in the 
 Federal Register library.
-
-[[Page 299]]
-
     (d) Approval to incorporate by reference the materials listed in 
 this section was obtained from the Director of the Federal Register on 
 August 21, 1979.
@@ -23945,8 +23959,9 @@ Oct. 1, 1999]
 Sec. 162.050-7  Approval procedures.
 
     (a) An application for approval of equipment under this subpart must 
-be sent to the Commandant (G-MSE), U.S. Coast Guard, Washington, DC 
-20593-0001.
+be sent to the Commanding Officer, U.S. Coast Guard Marine Safety 
+Center, Engineering Division, 400 Seventh Street SW., Washington, DC 
+20590-0001.
     (b) The application is examined by the Coast Guard to determine 
 whether the item complies with the design requirements and vibration 
 standard prescribed in this subpart and to determine what probability 
@@ -23971,17 +23986,18 @@ lowest quartile.
 under Sec. 162.050-15. The facility must perform each test in accordance 
 with the test conditions prescribed in this subpart for the test, 
 prepare a test report for the item if it completes all of the tests, and 
-send the report with four copies to the Commandant (G-MSE). The 
-applicant may observe the tests. (If an item does not complete testing, 
-a new application must be made before retesting.)
-    (g) The Commandant (G-MSE), sends a copy of the test report to the 
-applicant and advises him whether the item is approved. If the item is 
-approved, an approval certificate is sent to the applicant. The approval 
-certificate lists
+send the report with four copies to
 
 [[Page 300]]
 
-conditions of approval applicable to the item.
+the Commanding Officer, USCG Marine Safety Center. The applicant may 
+observe the tests. (If an item does not complete testing, a new 
+application must be made before retesting.)
+    (g) The Commanding Officer, USCG Marine Safety Center, sends a copy 
+of the test report to the applicant and advises him whether the item is 
+approved. If the item is approved, an approval certificate is sent to 
+the applicant. The approval certificate lists conditions of approval 
+applicable to the item.
     (h) A separator is approved under this subpart if--
     (1) It meets the design requirements in Sec. 162.050-21 and is 
 tested in accordance with this subpart;
@@ -24042,7 +24058,8 @@ stores or supplies has been certified.
 [44 FR 53359, Sept. 13, 1979, as amended by CGD 82-063b, 48 FR 4783, 
 Feb. 3, 1983; 48 FR 45114, Oct. 3, 1983; CGD 88-070, 53 FR 34537, Sept. 
 7, 1988; CGD 95-072, 60 FR 50467, Sept. 29, 1995; CGD 96-041, 61 FR 
-50734, Sept. 27, 1996; USCG-1999-6216, 64 FR 53228, Oct. 1, 1999]
+50734, Sept. 27, 1996; USCG-1999-6216, 64 FR 53228, Oct. 1, 1999; USCG 
+2001-10224, 66 FR 48621, Sept. 21, 2001]
 
 
 <R05>
@@ -24054,6 +24071,9 @@ Sec. 162.050-9  Test report.
     (3) Date of receiving the item for testing and the dates of the 
 tests conducted.
     (4) Trade name and brief description of the item.
+
+[[Page 301]]
+
     (5) A listing of the following properties of the test oils used:
     (i) Relative density at 15  deg.C.
     (ii) Viscosity in centistokes at 37.8  deg.C.
@@ -24062,9 +24082,6 @@ tests conducted.
     (v) Weight of water content.
     (vi) Relative density at 15  deg.C. the of water used during testing 
 and the weight of solid content in the water.
-
-[[Page 301]]
-
     (vii) The data recorded during each test.
     (b) [Reserved]
 
@@ -24101,9 +24118,12 @@ type described in the current certificate of approval issued for the
 equipment.
     (b) Equipment manufactured under Coast Guard approval is not 
 inspected on a regular schedule at the place of manufacture. However, 
-the Commandant may detail Coast Guard personnel at any time to visit a 
-factory where the equipment is manufactured to conduct an inspection of 
-the manufacturing process.
+the Commanding Officer, USCG Marine Safety Center, may detail Coast 
+Guard personnel at any time to visit a factory where the equipment is 
+manufactured to conduct an inspection of the manufacturing process.
+
+[44 FR 53359, Sept.13, 1979, as amended by USCG 2001-10224, 66 FR 48621, 
+Sept. 21, 2001]
 
 
 <R05>
@@ -24126,8 +24146,9 @@ delay between sample collection and analysis.
 Sec. 162.050-15  Designation of facilities.
 
     (a) Each request for designation as a facility authorized to perform 
-approval tests must be submitted to the Commandant (G-MSE), U.S. Coast 
-Guard, Washington, DC 20593-0001.
+approval tests must be submitted to the Commanding Officer, U.S. Coast 
+Guard Marine Safety Center, Engineering Division, 400 Seventh Street 
+SW., Washington, DC 20590-0001.
     (b) Each request must include the following:
     (1) Name and address of the facility.
     (2) Each type of equipment the facility proposes to test.
@@ -24138,19 +24159,21 @@ tests including detailed information on the following:
     (iii) Materials available for approval testing.
     (iv) Each of the facility's test rigs, if any.
     (c) The Coast Guard reviews each request submitted to determine 
-whether the facility meets the requirements of paragraphs (g)(1) through 
-(g)(4) of this section.
+whether
+
+[[Page 302]]
+
+the facility meets the requirements of paragraphs (g)(1) through (g)(4) 
+of this section.
     (d) If the facility meets the requirements in paragraphs (g)(1) 
 through (g)(4) of this section, it is then supplied with twelve samples 
 containing mixtures of oil in water that are within a 10 to 30 p.p.m. 
 range.
     (e) The facility must measure the oil content of each sample using 
 the method described in Sec. 162.050-39 and report the value of each of 
-the 12 measurements to the Commandant (G-MSE), U.S. Coast Guard, 
-Washington, DC 20593.
-
-[[Page 302]]
-
+the 12 measurements to the Commanding Officer, U.S. Coast Guard Marine 
+Safety Center, Engineering Division, 400 Seventh Street SW., Washington, 
+DC 20590-0001.
     (f) The measurements must meet the following criteria:
     (1) Except as provided in paragraph (f)(2) of this section, the 
 absolute value of Tn for each measurement, as determined by the American 
@@ -24183,13 +24206,15 @@ manufacturers, suppliers, and vendors of the equipment; and
 meet the criteria in paragraph (f) of this section.
     (h) A facility may not subcontract for approval testing unless 
 previously authorized by the Coast Guard. A request for authorization to 
-subcontract must be sent to the Commandant (G-MSE), U.S. Coast Guard, 
-Washington, DC 20593-0001.
+subcontract must be sent to the Commanding Officer, U.S. Coast Guard 
+Marine Safety Center, Engineering Division, 400 Seventh Street SW., 
+Washington, DC 20590-0001.
 
 [44 FR 53359, Sept. 13, 1979, as amended by CGD 82-063b, 48 FR 45114, 
 Oct. 3, 1983; CGD 88-070, 53 FR 34537, Sept. 7, 1988; CGD 95-072, 60 FR 
 50467, Sept. 29, 1995; CGD 96-041, 61 FR 50734, Sept. 27, 1996; USCG-
-1999-5151, 64 FR 67185, Dec. 1, 1999]
+1999-5151, 64 FR 67185, Dec. 1, 1999; USCG 2001-10224, 66 FR 48621, 
+Sept. 21, 2001]
 
 
 <R05>
@@ -24214,6 +24239,9 @@ valve or orifice on its discharge side.
 thousand;
     (2) The influent flow rate is between one and three meters per 
 second; and
+
+[[Page 303]]
+
     (3) Its length is at least twenty (20) times its inside diameter.
     (d) Each sample point on a test rig must meet the design 
 requirements described in Figure 162.050-17(e) and must be in a vertical 
@@ -24228,9 +24256,6 @@ approval testing of monitors and bilge alarms. A typical test rig is
 described in Figure 162.050-19. The mixture pipe shown in Figure 
 162.050-19 is the portion of test rig piping between the oil injection 
 point and the monitor or bilge alarm piping.
-
-[[Page 303]]
-
     (b) Each sample point on a test rig must be of the type described in 
 Figure 162.050-17(e) and must be in a vertical portion of the test rig 
 piping.
@@ -27619,6 +27644,7 @@ not exceed the following values:
 
 Flame spread classification..................................         20
 Smoke classification.........................................         10
+ 
 
     (b) [Reserved]
 
@@ -29175,7 +29201,8 @@ certification marking(s).
 
   Editorial Note: This listing is provided for informational purposes 
 only. It is compiled and kept current by the U.S. Coast Guard, 
-Department of Transportation. This index covers parts 150 and 160 only.
+Department of Transportation. This index covers parts 159 and 160 only. 
+This index is updated as of October 1, 2001.
 
                                                Part, subpart, or section
 
@@ -29373,6 +29400,8 @@ Distress Signal for Boats, Red Aerial Pyrotechnic Flare
 
                                  E
 
+Electrical equipment
+                                                                Part 161
 Equipment for impulse projected rocket type line-throwing 
 appliance
                                                                160.040-4
@@ -29839,7 +29868,7 @@ which is published separately and revised annually.
 
             Material Approved for Incorporation by Reference
 
-                     (Revised as of October 1, 2000)
+                     (Revised as of October 1, 2001)
 
   The Director of the Federal Register has approved under 5 U.S.C. 
 552(a) and 1 CFR part 51 the incorporation by reference of the following 
@@ -29857,8 +29886,8 @@ COAST GUARD, DEPARTMENT OF TRANSPORTATION
 
 American Bureau of Shipping
 
-  Publications Dept., Two World Trade Center, New 
-  York, NY 10048
+  Publications Department, 16855 Northchase Drive, 
+  Houston, Texas 77060
 Rules for Building and Classing Steel Vessels,       161.002-1; 161.002-
   1995.                                                             4(b)
 Rules for Building and Classing Steel Vessels,       161.002-1; 161.002-
@@ -30355,7 +30384,7 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
 
 <R04>
 
-                     (Revised as of October 1, 2000)
+                     (Revised as of October 1, 2001)
 
                       Title 1--General Provisions
 
@@ -30373,9 +30402,6 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                            Title 4--Accounts
 
          I  General Accounting Office (Parts 1--99)
-        II  Federal Claims Collection Standards (General 
-                Accounting Office--Department of Justice) (Parts 
-                100--299)
 
                    Title 5--Administrative Personnel
 
@@ -30399,11 +30425,11 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
        XVI  Office of Government Ethics (Parts 2600--2699)
        XXI  Department of the Treasury (Parts 3100--3199)
       XXII  Federal Deposit Insurance Corporation (Part 3201)
+     XXIII  Department of Energy (Part 3301)
+      XXIV  Federal Energy Regulatory Commission (Part 3401)
 
 [[Page 388]]
 
-     XXIII  Department of Energy (Part 3301)
-      XXIV  Federal Energy Regulatory Commission (Part 3401)
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
     XXVIII  Department of Justice (Part 3801)
@@ -30447,6 +30473,8 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
     LXXVII  Office of Management and Budget (Part 8701)
 
                           Title 6--[Reserved]
+
+              
 
                          Title 7--Agriculture
 
@@ -30728,8 +30756,6 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 1100--1199)
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
-      XIII  Board for International Broadcasting (Parts 1300--
-                1399)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
@@ -30816,14 +30842,14 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 and Indian Health Service, Department of Health 
                 and Human Services (Part 900)
         VI  Office of the Assistant Secretary-Indian Affairs, 
-                Department of the Interior (Part 1001)
+                Department of the Interior (Parts 1000--1199)
        VII  Office of the Special Trustee for American Indians, 
                 Department of the Interior (Part 1200)
 
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
-                (Parts 1--799)
+                (Parts 1--899)
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -30840,6 +30866,12 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
         VI  Offices of Independent Counsel, Department of Justice 
                 (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
+      VIII  Court Services and Offender Supervision Agency for the 
+                District of Columbia (Parts 800--899)
+        IX  National Crime Prevention and Privacy Compact Council 
+                (Parts 900--999)
+        XI  Department of Justice and Department of State (Parts 
+                1100--1199)
 
                             Title 29--Labor
 
@@ -30850,6 +30882,9 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
         II  Office of Labor-Management Standards, Department of 
                 Labor (Parts 200--299)
        III  National Railroad Adjustment Board (Parts 300--399)
+
+[[Page 396]]
+
         IV  Office of Labor-Management Standards, Department of 
                 Labor (Parts 400--499)
          V  Wage and Hour Division, Department of Labor (Parts 
@@ -30857,9 +30892,6 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
         IX  Construction Industry Collective Bargaining Commission 
                 (Parts 900--999)
          X  National Mediation Board (Parts 1200--1299)
-
-[[Page 396]]
-
        XII  Federal Mediation and Conciliation Service (Parts 
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
@@ -30909,6 +30941,10 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 the Treasury (Parts 700--799)
       VIII  Office of International Investment, Department of the 
                 Treasury (Parts 800--899)
+        IX  Federal Claims Collection Standards (Department of the 
+                Treasury--Department of Justice) (Parts 900--999)
+
+[[Page 397]]
 
                       Title 32--National Defense
 
@@ -30916,9 +30952,6 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
          I  Office of the Secretary of Defense (Parts 1--399)
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
-
-[[Page 397]]
-
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
@@ -30970,11 +31003,11 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
+[[Page 398]]
+
                         Title 35--Panama Canal
 
          I  Panama Canal Regulations (Parts 1--299)
-
-[[Page 398]]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -30997,6 +31030,8 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
+       XVI  Morris K. Udall Scholarship and Excellence in National 
+                Environmental Policy Foundation (Parts 1600--1699)
 
              Title 37--Patents, Trademarks, and Copyrights
 
@@ -31023,6 +31058,11 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
         IV  Environmental Protection Agency and Department of 
                 Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
+        VI  Chemical Safety and Hazard Investigation Board (Parts 
+                1600--1699)
+
+[[Page 399]]
+
        VII  Environmental Protection Agency and Department of 
                 Defense; Uniform National Discharge Standards for 
                 Vessels of the Armed Forces (Parts 1700--1799)
@@ -31033,9 +31073,6 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 Contracts
         50  Public Contracts, Department of Labor (Parts 50-1--50-
                 999)
-
-[[Page 399]]
-
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
         60  Office of Federal Contract Compliance Programs, Equal 
@@ -31075,10 +31112,12 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
 
          I  Public Health Service, Department of Health and Human 
                 Services (Parts 1--199)
-        IV  Health Care Financing Administration, Department of 
-                Health and Human Services (Parts 400--499)
+        IV  Centers for Medicare & Medicaid Services, Department 
+                of Health and Human Services (Parts 400--499)
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
+
+[[Page 400]]
 
                    Title 43--Public Lands: Interior
 
@@ -31089,9 +31128,6 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
-
-[[Page 400]]
-
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10005)
 
@@ -31137,13 +31173,14 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
+
+[[Page 401]]
+
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
-
-[[Page 401]]
 
                           Title 46--Shipping
 
@@ -31190,6 +31227,9 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
+
+[[Page 402]]
+
         21  Office of Personnel Management, Federal Employees 
                 Group Life Insurance Federal Acquisition 
                 Regulation (Parts 2100--2199)
@@ -31199,9 +31239,6 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
-
-[[Page 402]]
-
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
         35  Panama Canal Commission (Parts 3500--3599)
@@ -31246,6 +31283,9 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
       VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
+
+[[Page 403]]
+
         XI  Bureau of Transportation Statistics, Department of 
                 Transportation (Parts 1400--1499)
 
@@ -31253,9 +31293,6 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
 
          I  United States Fish and Wildlife Service, Department of 
                 the Interior (Parts 1--199)
-
-[[Page 403]]
-
         II  National Marine Fisheries Service, National Oceanic 
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 200--299)
@@ -31293,7 +31330,7 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
 
 <R04>
 
-                     (Revised as of October 1, 2000)
+                     (Revised as of October 1, 2001)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -31367,7 +31404,6 @@ Bilingual Education and Minority Languages        34, V
      Affairs, Office of
 Blind or Severely Disabled, Committee for         41, 51
      Purchase From People Who Are
-Board for International Broadcasting              22, XIII
 Broadcasting Board of Governors                   22, V
   Federal Acquisition Regulation                  48, 19
 Census Bureau                                     15, I
@@ -31420,17 +31456,19 @@ Copyright Office                                  37, II
 Corporation for National and Community Service    45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
+Court Services and Offender Supervision Agency    28, VIII
+     for the District of Columbia
 Customs Service, United States                    19, I
 Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
-  Army Department                                 32, V; 33, II; 36, III, 
-                                                  48, 51
 
 [[Page 407]]
 
+  Army Department                                 32, V; 33, II; 36, III, 
+                                                  48, 51
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
@@ -31443,6 +31481,8 @@ Defense Intelligence Agency                       32, I
 Defense Logistics Agency                          32, XII; 48, 54
 Defense Nuclear Facilities Safety Board           10, XVII
 Delaware River Basin Commission                   18, III
+District of Columbia, Court Services and          28, VIII
+     Offender Supervision Agency for the
 Drug Enforcement Administration                   21, II
 East-West Foreign Trade Board                     15, XIII
 Economic Affairs, Under Secretary                 37, V
@@ -31498,16 +31538,16 @@ Executive Office of the President                 3, I
 Export Administration, Bureau of                  15, VII
 Export-Import Bank of the United States           5, LII; 12, IV
 Family Assistance, Office of                      45, II
+
+[[Page 408]]
+
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
 Farm Service Agency                               7, VII, XVIII
 Federal Acquisition Regulation                    48, 1
-
-[[Page 408]]
-
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
-Federal Claims Collection Standards               4, II
+Federal Claims Collection Standards               31, IX
 Federal Communications Commission                 5, XXIX; 47, I
 Federal Contract Compliance Programs, Office of   41, 60
 Federal Crop Insurance Corporation                7, IV
@@ -31565,20 +31605,21 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-General Accounting Office                         4, I, II
+General Accounting Office                         4, I
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
-  Federal Property Management Regulations         41, 101
+  Federal Property Management Regulation          41, 101
   Federal Travel Regulation System                41, Subtitle F
+
+[[Page 409]]
+
   General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
        Expenses
   Payment of Expenses Connected With the Death    41, 303
-     of Certain Employees
-[[Page 409]]
-
+       of Certain Employees
   Relocation Allowances                           41, 302
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
@@ -31594,13 +31635,13 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Family Assistance, Office of                    45, II
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
-  Health Care Financing Administration            42, IV
+  Centers for Medicare & Medicaid Services        42, IV
   Human Development Services, Office of           45, XIII
   Indian Health Service                           25, V
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
-Health Care Financing Administration              42, IV
+Centers for Medicare & Medicaid Services          42, IV
 Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
   Community Planning and Development, Office of   24, V, VI
        Assistant Secretary for
@@ -31649,14 +31690,14 @@ Interior Department
   Federal Property Management Regulations System  41, 114
   Fish and Wildlife Service, United States        50, I, IV
   Geological Survey                               30, IV
+
+[[Page 410]]
+
   Indian Affairs, Bureau of                       25, I, V
   Indian Affairs, Office of the Assistant         25, VI
        Secretary
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
-
-[[Page 410]]
-
   Minerals Management Service                     30, II
   Mines, Bureau of                                30, VI
   National Indian Gaming Commission               25, III
@@ -31688,10 +31729,11 @@ Interstate Commerce Commission                    5, XL
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                5, XXVIII; 28, I; 40, IV
+Justice Department                                5, XXVIII; 28, I, XI; 40, 
+                                                  IV
   Drug Enforcement Administration                 21, II
   Federal Acquisition Regulation                  48, 28
-  Federal Claims Collection Standards             4, II
+  Federal Claims Collection Standards             31, IX
   Federal Prison Industries, Inc.                 28, III
   Foreign Claims Settlement Commission of the     45, V
        United States
@@ -31726,17 +31768,19 @@ Library of Congress                               36, VII
 Management and Budget, Office of                  5, III, LXXVII; 48, 99
 Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
+
+[[Page 411]]
+
 Merit Systems Protection Board                    5, II
 Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
 Mines, Bureau of                                  30, VI
-
-[[Page 411]]
-
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
+Morris K. Udall Scholarship and Excellence in     36, XVI
+     National Environmental Policy Foundation
 National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
@@ -31752,6 +31796,8 @@ National Commission on Libraries and Information  45, XVII
 National Council on Disability                    34, XII
 National Counterintelligence Center               32, XVIII
 National Credit Union Administration              12, VII
+National Crime Prevention and Privacy Compact     28, IX
+     Council
 National Drug Control Policy, Office of           21, III
 National Foundation on the Arts and the           45, XI
      Humanities
@@ -31796,6 +31842,9 @@ Overseas Private Investment Corporation           5, XXXIII; 22, VII
 Panama Canal Commission                           48, 35
 Panama Canal Regulations                          35, I
 Patent and Trademark Office, United States        37, I
+
+[[Page 412]]
+
 Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
@@ -31805,9 +31854,6 @@ Pennsylvania Avenue Development Corporation       36, IX
 Pension and Welfare Benefits Administration       29, XXV
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-
-[[Page 412]]
-
   Federal Acquisition Regulation                  48, 17
   Federal Employees Group Life Insurance Federal  48, 21
        Acquisition Regulation
@@ -31853,7 +31899,7 @@ Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
 Special Education and Rehabilitative Services,    34, III
      Office of
-State Department                                  22, I
+State Department                                  22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
 Surface Mining and Reclamation Appeals, Board of  30, III
 Surface Mining Reclamation and Enforcement,       30, VII
@@ -31873,6 +31919,9 @@ Transportation, Department of                     5, L
   Commercial Space Transportation                 14, III
   Contract Appeals, Board of                      48, 63
   Emergency Management and Assistance             44, IV
+
+[[Page 413]]
+
   Federal Acquisition Regulation                  48, 12
   Federal Aviation Administration                 14, I
   Federal Highway Administration                  23, I, II
@@ -31881,9 +31930,6 @@ Transportation, Department of                     5, L
   Federal Transit Administration                  49, VI
   Maritime Administration                         46, II
   National Highway Traffic Safety Administration  23, II, III; 49, V
-
-[[Page 413]]
-
   Research and Special Programs Administration    49, I
   Saint Lawrence Seaway Development Corporation   33, IV
   Secretary of Transportation, Office of          14, II; 49, Subtitle A
@@ -31892,7 +31938,8 @@ Transportation, Department of                     5, L
 Transportation, Office of                         7, XXXIII
 Transportation Statistics Brureau                 49, XI
 Travel Allowances, Temporary Duty (TDY)           41, 301
-Treasury Department                               5, XXI; 12, XV; 17, IV
+Treasury Department                               5, XXI; 12, XV; 17, IV; 
+                                                  31, IX
   Alcohol, Tobacco and Firearms, Bureau of        27, I
   Community Development Financial Institutions    12, XVIII
        Fund
@@ -32591,5 +32638,97 @@ Chapter I
 161.002-18  Regulation at 61 FR 28292 confirmed....................23906
 161.004-2--161.004-7 (Subpart 161.004)  Regulation at 61 FR 28293 
         confirmed..................................................23906
-161.010-1  (b) amended..
+161.010-1  (b) amended.............................................51049
+162.027-1  (b) amended.............................................51049
+164.013-1--164.013-7 (Subpart 164.013)  Revised; eff. 10-30-97.....51216
+
+                                  1998
+
+46 CFR
+                                                                   63 FR
+                                                                    Page
+Chapter I
+160.035-3  (l)(4) amended..........................................52191
+160.049-2  (b) revised.............................................52191
+160.064-4  (a)(1) amended..........................................52191
+160.151-15  (j) amended............................................52192
+160.151-17  (a)(2) and (c) amended.................................52192
+160.151-21  (s) amended............................................52192
+160.151-29  Introductory text amended..............................52192
+160.151-31  (g) introductory text amended; (h) removed.............52192
+160.151-57  (m)(2) and (3) introductory text amended...............52192
+164.012-12  Amended................................................52192
+
+                                  1999
+
+46 CFR
+                                                                   64 FR
+                                                                    Page
+Chapter I
+160.010-1  Heading revised.........................................53227
+160.021-1  Heading revised.........................................53227
+160.022-1  Heading revised.........................................53227
+160.023-1  Heading revised.........................................53227
+160.024-1  Heading revised.........................................53227
+160.032-1  (a)(1) revised; (b) amended.............................67183
+160.032-3  (c) amended.............................................67184
+160.035-1  (a)(1) revised; (b) amended.............................67184
+160.035-3  (b)(1) revised..........................................67184
+160.037-1  Heading revised.........................................53227
+160.040-1  Heading revised.........................................53227
+160.048-1  (c) amended.............................................53227
+160.049-1  (c) amended.............................................53228
+160.050-1  Revised.................................................53228
+160.055-1  (a)(4) revised..........................................67184
+160.057-1  Heading revised.........................................53228
+160.076-11  (b) amended............................................67184
+160.077-5  (b) amended.............................................67184
+160.151-5  (b) amended.............................................67184
+160.171-3  Heading revised.........................................53228
+    (b) amended....................................................67184
+160.174-3  Heading revised; (a) amended............................53228
+    (b) amended....................................................67184
+160.176-4  (b) amended.............................................67185
+161.002-1  (b) amended.............................................67185
+161.002-18  (d)(2) amended.........................................53228
+161.006-1  (a)(3) revised..........................................67185
+161.006-4  (h) amended.............................................67185
+161.006-5  (b)(3) amended..........................................67185
+162  Authority citation revised....................................67185
+162.027-1  (a) amended.............................................53228
+    (b) amended....................................................67185
+162.027-2  Amended.................................................67185
+162.027-3  (a) amended.............................................67185
+162.050-4  (b)(1) amended..........................................53228
+    (a)(3) and (b)(2) revised......................................67185
+162.050-5  (a) introductory text and (5) amended...................53228
+162.050-7  (h)(2) removed; (h)(3) through (6) redesignated as 
+        (h)(2) through (5).........................................53228
+162.050-15  (f)(1) amended.........................................67185
+163.003-3  Revised.................................................67185
+164.007-1  (b) revised.............................................67185
+164.008-1  (b) revised.............................................67185
+164.012-1  (a)(1) amended..........................................67185
+164.015-1  (a)(4) revised; (b)(3) amended..........................67186
+
+[[Page 423]]
+
+                                  2000
+
+46 CFR
+                                                                   65 FR
+                                                                    Page
+Chapter I
+160  Effective date confirmation...................................10943
+160.032-3  (c)(2) and (3) amended..................................58463
+160.035-3  (b)(2) amended..........................................58463
+160.076-25  (d)(2)(i) through (iv) amended.........................58463
+160.077-11  (a)(7)(ii) amended.....................................58463
+160.077-19  (d)(2) through (5) amended.............................58463
+160.151-21  (m) amended............................................58464
+160.171-17  (e)(1)(iii), (k) and (p) amended.......................58464
+160.174-17  (f), (g) and (i) amended...............................58464
+160.176-8  (a)(6)(ii) amended......................................58464
+160.176-13  (m), (r) and (y)(1) through (4) amended................58464
+161  Effective 
 </pre></body></html>

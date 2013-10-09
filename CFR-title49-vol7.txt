@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 49 CFR ]
-[Code of Federal Regulations (annual edition) - October 1, 2000 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2001 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -9,29 +9,29 @@
 
           
 <R02>
-                    49
-
-
+          49
           Part 1200 to End
+          Revised as of October 1, 2001
 
-                         Revised as of October 1, 2000
-
-Transportation
+          Transportation
 
 <R03>
 
 
 
-          Containing a Codification of documents of general 
-          applicability and future effect
-          As of October 1, 2000
+          Containing a codification of documents 
+          of general applicability and future effect
+
+          As of October 1, 2001
+
           With Ancillaries
+
           Published by
           Office of the Federal Register
           National Archives and Records
           Administration
 
-As a Special Edition of the Federal Register
+          A Special Edition of the Federal Register
 
 
 
@@ -43,12 +43,14 @@ As a Special Edition of the Federal Register
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 2000
+                             WASHINGTON: 2001
 
 
 
-               For sale by U.S. Government Printing Office
- Superintendent of Documents, Mail Stop: SSOP, Washington, DC 20402-9328
+ For sale by the Superintendent of Documents, U.S. Government Printing Office
+  Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area 
+                              (202) 512-1800
+      Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001
 
 
 
@@ -131,7 +133,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2000, consult the ``List of CFR 
+revision date (in this case, October 1, 2001, consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -210,7 +212,7 @@ SALES
 
     The Government Printing Office (GPO) processes all sales and 
 distribution of the CFR. For payment by credit card, call 202-512-1800, 
-M-F 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2233, 24 hours 
+M-F 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2250, 24 hours 
 a day. For payment by check, write to the Superintendent of Documents, 
 Attn: New Orders, P.O. Box 371954, Pittsburgh, PA 15250-7954. For GPO 
 Customer Service call 202-512-1803.
@@ -238,7 +240,7 @@ site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-October 1, 2000.
+October 1, 2001.
 
 
 
@@ -269,7 +271,7 @@ Transportation Board and the seventh volume (part 1200 to End) contains
 the current regulations issued under chapter X--Surface Transportation 
 Board and chapter XI--Bureau of Transportation Statistics, Department of 
 Transportation. The contents of these volumes represent all current 
-regulations codified under this title of the CFR as of October 1, 2000.
+regulations codified under this title of the CFR as of October 1, 2001.
 
     In the volume containing parts 100-185, see Sec. 172.101 for the 
 Hazardous Materials Table. The Federal Motor Vehicle Safety Standards 
@@ -278,10 +280,6 @@ appear in part 571.
     Redesignation tables for chapter X--Surface Transportation Board, 
 Department of Transportation appear in the Finding Aids section of the 
 sixth and seventh volumes.
-
-    For this volume Ann Worley was the Chief Editor. The Code of Federal 
-Regulations publication program is under the direction of Frances D. 
-McDonald, assisted by Alomha S. Morris.
 
 [[Page x]]
 
@@ -335,9 +333,8 @@ Part                                                                Page
                     Interstate Commerce Act.................           7
 1201            Railroad companies..........................           7
 1202-1219       [Reserved]
-
                 PARTS 1220-1239--PRESERVATION OF RECORDS
-1220            Preservation of records.....................         165
+1220            Preservation of records.....................         164
                         PARTS 1240-1259--REPORTS
 1241            Annual, special, or periodic reports--
                     Carriers subject to Part I of the 
@@ -345,35 +342,32 @@ Part                                                                Page
 1242            Separation of common operating expenses 
                     between freight service and passenger 
                     service for railroads...................         170
-1243            Quarterly operating reports--railroads......         184
+1243            Quarterly operating reports--railroads......         183
 1244            Waybill analysis of transportation of 
                     property--railroads.....................         184
 1245            Classification of railroad employees; 
                     reports of service and compensation.....         190
-1246            Number of railroad employees................         203
-1248            Freight commodity statistics................         203
+1246            Number of railroad employees................         202
+1247            Report of cars loaded and cars terminated...         202
+1248            Freight commodity statistics................         202
 1250-1252       [Reserved]
 
 [[Page 6]]
 
 1253            Rate-making organization; records and 
-                    reports.................................         209
+                    reports.................................         208
                        PARTS 1260-1269--VALUATION
 1260-1261       [Reserved]
-
     PARTS 1280-1299--CLASSIFICATION AND DECLASSIFICATION OF NATIONAL 
                     SECURITY INFORMATION AND MATERIAL
 1280            Handling of national security information 
-                    and classified material.................         210
+                    and classified material.................         209
 1281-1299       [Reserved]
-
               Subchapter D--Carrier Rates and Service Terms
-
 1300            Disclosure, publication, and notice of 
                     change of rates and other service terms 
                     for rail common carriage................         212
 1301            [Reserved]
-
 1302            Export and import shipments; railroads......         214
 1305            Disclosure and notice of change of rates and 
                     other service terms for pipeline common 
@@ -388,7 +382,6 @@ Part                                                                Page
                     agricultural products...................         224
 1319            Exemptions..................................         230
 1320-1324       [Reserved]
-
 1325            Extension of credit to candidates for 
                     Federal office or their representatives.         230
 1331            Applications under 49 U.S.C. 10706 and 13703         231
@@ -401,14 +394,11 @@ Part                                                                Page
 
 [[Page 7]]
 
-
-
-
 <R03>
                SUBCHAPTER C--ACCOUNTS, RECORDS AND REPORTS
 
 <R03>
-PARTS 1200-1219--UNIFORM SYSTEMS OF ACCOUNTS--Table of Contents
+PARTS 1200-1219--UNIFORM SYSTEMS OF ACCOUNTS
 
 
 <R03>
@@ -889,10 +879,7 @@ Appendix I to Part 1201-- Certification of Branch Line Accounting System
 
 
 <R03>
-REGULATIONS PRESCRIBED--Table of Contents
-
-<R05>
-
+REGULATIONS PRESCRIBED
 
     (i) Regulations prescribed. Carriers by railroad subject to 
 provisions of the Interstate Commerce Act and not independently operated 
@@ -1215,9 +1202,7 @@ FR 31110, May 12, 1980; 48 FR 7183, Feb. 18, 1983; 48 FR 33718, July 25,
 
 
 <R03>
-GENERAL INSTRUCTIONS--Table of Contents
-
-<R05>
+GENERAL INSTRUCTIONS
 
 
     1-1  Classification of carriers. (a) For purposes of accounting and 
@@ -1815,9 +1800,7 @@ and FASB Statements adopted by the Board are required.
 
 
 <R03>
-INSTRUCTIONS FOR PROPERTY ACCOUNTS--Table of Contents
-
-<R05>
+INSTRUCTIONS FOR PROPERTY ACCOUNTS
 
 
     2-1  Items to be charged. (a) To the road and equipment property 
@@ -3073,9 +3056,7 @@ transportation operations.
 
 
 <R03>
-INSTRUCTIONS FOR MAINTENANCE EXPENSES--Table of Contents
-
-<R05>
+INSTRUCTIONS FOR MAINTENANCE EXPENSES
 
 
     3-1  Items to be charged. (a) The accounts provided for maintenance 
@@ -3139,9 +3120,7 @@ based on the nature of the work performed.
 
 
 <R03>
-INSTRUCTIONS FOR DEPRECIATION ACCOUNTS--Table of Contents
-
-<R05>
+INSTRUCTIONS FOR DEPRECIATION ACCOUNTS
 
 
     4-1  Method. (a) There shall be charged monthly to operating 
@@ -3359,9 +3338,7 @@ retirement charges recorded in the accounts of the terminal companies.
 
 
 <R03>
-INSTRUCTIONS FOR INCOME AND BALANCE SHEET ACCOUNTS--Table of Contents
-
-<R05>
+INSTRUCTIONS FOR INCOME AND BALANCE SHEET ACCOUNTS
 
 
     5-1  Current assets. (a) In the group of accounts designated as 
@@ -3722,9 +3699,7 @@ of a liability.
 
 
 <R03>
-INSTRUCTIONS FOR CLEARING ACCOUNTS--Table of Contents
-
-<R05>
+INSTRUCTIONS FOR CLEARING ACCOUNTS
 
 
     6-1  Items to be charged. In recognition of the fact that certain 
@@ -3855,14 +3830,10 @@ to power plant operations.
 
 
 <R03>
-PROPERTY ACCOUNTS--Table of Contents
+PROPERTY ACCOUNTS
 
 
-
-<R03>
-Road--Table of Contents
-
-<R05>
+Road
 
 
 0  Road.
@@ -4729,12 +4700,13 @@ operations.''
     This account shall include the cost of systems for conveying 
 electricity, steam, and compressed air from producing plants to place or 
 building where used; also the cost of conduits and of poles, cross arms, 
-insulator pins, brackets, and other pole fixtures, and of other 
-structures for power-transmission and distribution systems, including 
-those for electric railway operation, and lighting systems for general 
-lighting purposes.
+insulator pins, brackets, and other pole fixtures, and
 
 [[Page 58]]
+
+of other structures for power-transmission and distribution systems, 
+including those for electric railway operation, and lighting systems for 
+general lighting purposes.
 
                      Power-Transmission System Items
 
@@ -4830,21 +4802,20 @@ Scarifier-inserters.
 Spike drivers.
 Spike pullers.
 Tie tampers.
-Timber trucks.
-Trackliners.
-    Note A: When an important addition and betterment project or the 
-construction of a
 
 [[Page 59]]
 
-new line necessitates the purchase of roadway machines to be used 
-exclusively thereon, the cost shall be included in the accounts to which 
-the cost of the work is charged. The amount realized from any subsequent 
-sale, or the appraised value of the machines retained after the 
-completion of the special work for which they were purchased, shall be 
-credited to the accounts charged with the cost thereof. The appraised 
-value of such machines retained shall be debited to this account and 
-thereafter considered as the cost of such property.
+Timber trucks.
+Trackliners.
+    Note A: When an important addition and betterment project or the 
+construction of a new line necessitates the purchase of roadway machines 
+to be used exclusively thereon, the cost shall be included in the 
+accounts to which the cost of the work is charged. The amount realized 
+from any subsequent sale, or the appraised value of the machines 
+retained after the completion of the special work for which they were 
+purchased, shall be credited to the accounts charged with the cost 
+thereof. The appraised value of such machines retained shall be debited 
+to this account and thereafter considered as the cost of such property.
     Note B: The cost of machines for the equipment of roadway shops 
 shall be included in account 17, ``Roadway buildings.''
     Note C: The cost of roadway machines, such as pile drivers, log 
@@ -4919,13 +4890,13 @@ allocated time shall be charged to Account 547, Interest on unfunded
 debt. Any related penalties shall be charged to Account 551, 
 Miscellaneous income charges.
     Note F: Assessments on noncarrier property for the cost of 
-constructing public improvements shall be charged to account 737, 
-``Property used in other than carrier operations.''
-
-[42 FR 35017, July 7, 1977, as amended at 52 FR 4326, Feb. 11, 1987]
+constructing public improvements shall be charged to account 737,
 
 [[Page 60]]
 
+``Property used in other than carrier operations.''
+
+[42 FR 35017, July 7, 1977, as amended at 52 FR 4326, Feb. 11, 1987]
 44  Shop machinery.
     This account shall include the cost of machinery and other apparatus 
 in shops and engine houses, including the cost of special foundations 
@@ -5034,16 +5005,15 @@ the building and not in this account.
 producing power both for operating purposes and for sale shall be 
 included in this account and in account 29, ``Power plants,'' 
 respectively. When plants are intended and used primarily for generating 
-power for sale to noncarriers the investment shall be included in 
-account 737, ``Property used in other than carrier operations.''
+power for sale to noncarriers the
 
 [[Page 61]]
 
+investment shall be included in account 737, ``Property used in other 
+than carrier operations.''
 
-<R03>
-Equipment--Table of Contents
 
-<R05>
+Equipment
 
 
 50  Equipment.
@@ -5146,11 +5116,12 @@ Water tanks.
 54  Passenger-train cars.
     This account shall include the cost of passenger-train cars of all 
 classes, such as motor-driven cars, purchased or built by the carrier, 
-including all appurtenances, furniture, and fixtures necessary to equip 
-them for service, and cost of inspection and transportation charges to 
-the carrier's line.
+including all appurtenances, furniture, and fixtures
 
 [[Page 62]]
+
+necessary to equip them for service, and cost of inspection and 
+transportation charges to the carrier's line.
 
                       List of Passenger-Train Cars
 
@@ -5266,12 +5237,12 @@ Tugboats.
                List f Appurtenances to Floating Equipment
 
 Anchors.
-Barometers.
-Beds and bedding.
-Binnacle lamps.
 
 [[Page 63]]
 
+Barometers.
+Beds and bedding.
+Binnacle lamps.
 Blocks and tackle.
 China, crockery, and glassware.
 Chronometers.
@@ -5387,12 +5358,12 @@ Automobiles.
 Buses.
 Emergency repair vehicles.
 Road dollies.
-Semi-trailers.
-Tractors.
-Trailers.
 
 [[Page 64]]
 
+Semi-trailers.
+Tractors.
+Trailers.
 Trucks.
 Wreckers.
 
@@ -5428,10 +5399,7 @@ supporting documents to the Board for consideration and decision.
 [52 FR 4326, Feb. 11, 1987]
 
 
-<R03>
-General Expenditures--Table of Contents
-
-<R05>
+General Expenditures
 
 
 70  General expenditures.
@@ -5475,16 +5443,15 @@ be included any interest accruing after the property with respect to
 which the proceeds are expended is received or becomes available for use 
 in connection with commercial service.
     Note B: If securities issued or assumed by the carrier are 
-subsequently sold or exchanged by or for the carrier, the excess of the 
-par value and accrued interest of the securities over the actual money 
-value of the
+subsequently sold or exchanged by or for the carrier, the excess of
 
 [[Page 65]]
 
-consideration received shall be deemed a discount. In no case (except as 
-provided in the third paragraph of this account) shall discount be 
-included as part of the cost of items included in the accounts 
-prescribed in this classification.
+the par value and accrued interest of the securities over the actual 
+money value of the consideration received shall be deemed a discount. In 
+no case (except as provided in the third paragraph of this account) 
+shall discount be included as part of the cost of items included in the 
+accounts prescribed in this classification.
     Note C: Whenever interest, premium, or discount assignable to the 
 construction period is incurred in connection with an expenditure 
 covered by some specific road and equipment account or accounts, such 
@@ -5502,10 +5469,7 @@ extensions, additions, and betterments.
 [42 FR 35017, July 7, 1977, as amended at 46 FR 10920, Feb. 5, 1981]
 
 
-<R03>
-Other Property Accounts--Table of Contents
-
-<R05>
+Other Property Accounts
 
 
 80  Other elements of investment.
@@ -5558,23 +5522,21 @@ projects. When a project is completed or when a segment of a large
 project is completed and placed in service, the cost of the completed 
 project or the completed segment thereof shall be transferred to the 
 appropriate road and equipment primary accounts. Separate subaccounts 
-may be maintained for road, equipment, or other classes of
+may be maintained
 
 [[Page 66]]
 
-expenditures. Expenditures for relatively unimportant projects may be 
-included directly in primary accounts.
+for road, equipment, or other classes of expenditures. Expenditures for 
+relatively unimportant projects may be included directly in primary 
+accounts.
 
 
 <R03>
-RAILWAY OPERATING REVENUE ACCOUNTS--Table of Contents
+RAILWAY OPERATING REVENUE ACCOUNTS
 
 
+Transportation Revenue Accounts
 
-<R03>
-Transportation Revenue Accounts--Table of Contents
-
-<R05>
 
 
 100  Transportation; rail line.
@@ -5831,10 +5793,7 @@ the carrier's transportation operations and from railway operations not
 provided for elsewhere.
 
 
-<R03>
-Joint Facility Revenue Accounts--Table of Contents
-
-<R05>
+Joint Facility Revenue Accounts
 
 
 120  Joint facility.
@@ -5884,7 +5843,7 @@ creditable by the operating company to primary accounts 101-103, 105 and
 
 
 <R03>
-OPERATING EXPENSE ACCOUNTS--Table of Contents
+OPERATING EXPENSE ACCOUNTS
 
 <R05>
 
@@ -5908,6 +5867,9 @@ natural expense and activity/subactivity (first four digits) and read
 the appropriate account text. Accounts that are assigned to functions 
 are appropriately listed. For further information, refer to section 2 
 and section 3.
+
+[[Page 70]]
+
     (3) All accounts listed in Table A and section 1 are for freight 
 only. Refer to Table F for applicable passenger or common account codes. 
 Account numbers designated with an asterisk in section 1 denote freight 
@@ -5917,7 +5879,7 @@ passenger or common accounts.
 allocated to freight and passenger accounts in accordance with Part 1242 
 of this chapter.
 
-[[Page 70]]
+[[Page 71]]
 
 
 
@@ -5971,7 +5933,7 @@ General...........................................    60-00  .......  ......... 
 \3\ Expenses shall be reported by applicable functions [see account text].
 
 
-[[Page 71]]
+[[Page 72]]
 
 
                                  Table B--Function Code Use--Way and Structures
@@ -6047,7 +6009,7 @@ General...........................................    60-00  .......  ......... 
 \1\ F--Freight; P--Passenger; C--Common.
 
 
-[[Page 72]]
+[[Page 73]]
 
 
                                    Table D--Function Code Use--Transportation
@@ -6100,7 +6062,7 @@ General...........................................    60-00  .......  ......... 
 ----------------------------------------------------------------------------------------------------------------
 
 
-[[Page 73]]
+[[Page 74]]
 
 
         Table E--Functional Code Use--General and Administrative
@@ -6151,7 +6113,7 @@ General and administrative.......           61           62           63
 
 
 <R03>
-OPERATING EXPENSE ACCOUNTS--Table of Contents
+OPERATING EXPENSE ACCOUNTS
 
 <R05>
 
@@ -6159,10 +6121,7 @@ OPERATING EXPENSE ACCOUNTS--Table of Contents
                 Section 1--Natural Expense Explanations*
 
 
-<R03>
-Personnel--Table of Contents
-
-<R05>
+Personnel
 
 
 Control--10-00-00
@@ -6196,7 +6155,7 @@ Repair and Maintenance:
     Tunnels and Subways.....................................    11-11-11
     Bridges and Culverts....................................    11-11-12
 
-[[Page 74]]
+[[Page 75]]
 
  
     Ties....................................................    11-11-13
@@ -6304,7 +6263,7 @@ technical and clerical employees, repair and maintenance employees, and
 others, who are associated with the repair and maintenance of equipment 
 other than locomotives and freight cars, whether
 
-[[Page 75]]
+[[Page 76]]
 
 owned by the carrier or by others. This account shall be subdivided by 
 the following functions:
@@ -6408,7 +6367,7 @@ Operations:
     Clerical and Accounting Employees.......................    11-35-76
     Communication Systems Operations........................    11-35-77
 
-[[Page 76]]
+[[Page 77]]
 
  
     Loss and Damage Claims Processing.......................    11-35-78
@@ -6493,7 +6452,7 @@ similar items. This account group excludes purchased services such as
 utilities, communications, postage and other items of similar nature. 
 Its components shall be distributed to the following accounts:
 
-[[Page 77]]
+[[Page 78]]
 
 Materials, Tools, Supplies, Fuels, Lubricants--Way and Structures--
 Running--21-11-XX
@@ -6602,7 +6561,7 @@ purchased standard stationery and forms, freight-in on materials and
 supplies, and similar items. Its components shall be distributed to the 
 following functions in accordance with Instruction 3-2:
 
-[[Page 78]]
+[[Page 79]]
 
 
 
@@ -6715,7 +6674,7 @@ Operations:
     Controlling Operations..................................    21-32-65
     Yard and Terminal Clerical..............................    21-32-66
 
-[[Page 79]]
+[[Page 80]]
 
  
     Locomotive Fuel.........................................    21-32-67
@@ -6761,7 +6720,6 @@ Operations:
 Other--Other................................................    21-34-99
  
 
-
 Materials, Tools, Supplies, Fuels, Lubricants--Transportation--
 Administrative Support--21-35-XX
 
@@ -6780,10 +6738,8 @@ Operations:
 Other--Other................................................    21-35-99
  
 
-
 Materials, Tools, Supplies, Fuels, Lubricants--General and 
 Administrative--21-61-XX
-
     This account includes the cost of items installed or commodities 
 consumed which are charged to expense, where such items are consumed in 
 providing overall administration or other general support for carrier 
@@ -6803,7 +6759,6 @@ General:
     Research and Development................................    21-61-94
     Other--Other............................................    21-61-99
  
-
 
                            Purchased Services
 
@@ -6826,14 +6781,14 @@ Lease Rentals--Debit--Control--31-00-00
     This account series includes the rentals of road property and 
 equipment with terms of 30 days or more. This account excludes joint 
 facility and joint trackage rents, insurance and maintenance elements of 
-lease payments, and
+lease payments, and all elements of capital leases as defined in FASB 
+Statement No. 13. Capitalized
 
-[[Page 80]]
+[[Page 81]]
 
-all elements of capital leases as defined in FASB Statement No. 13. 
-Capitalized leases shall be included in the applicable property account 
-for the particular asset leased [See Instruction 2-11b]. The components 
-of this natural expense will be distributed to the following accounts in 
+leases shall be included in the applicable property account for the 
+particular asset leased [See Instruction 2-11b]. The components of this 
+natural expense will be distributed to the following accounts in 
 accordance with Instruction 3-2:
 
 Lease Rentals--Dr.--Way and Structures--Running.............    31-11-00
@@ -6905,11 +6860,11 @@ by the creditor between this account and Joint Facility--Cr. (38-XX-00).
     The components of this account series shall be distributed to the 
 following accounts:
 
-[[Page 81]]
-
-
-
 Joint Facility Rents--Cr.--Way and Structures--Running......    34-11-00
+
+[[Page 82]]
+
+ 
 Joint Facility Rents--Cr.--Way and Structures--Switching....    34-12-00
 Joint Facility Rents--Cr.--Way and Structures--Other........    34-13-00
 Joint Facility Rents--Cr.--Equipment--Locomotives...........   *34-21-00
@@ -6986,7 +6941,7 @@ Joint Facility--Cr.--General and Administrative.............    38-61-00
  
 
 
-[[Page 82]]
+[[Page 83]]
 
 Repairs Billed by Others--Debit--Control--39-00-00
     This account group includes amounts payable by the railroad to 
@@ -6994,7 +6949,6 @@ others for repair and maintenance of the reporting railroad's property
 and equipment. The components of this account shall be distributed to 
 the following accounts in accordance with Instruction 3-2:
 Repairs Billed by Others--Dr.--Way and Structures--Running--39-11-XX
-
     This account includes amounts payable by the railroad to others for 
 repair and maintenance of the reporting railroad's property associated 
 with the carrier's roadway and track on the line of road and outside of 
@@ -7013,9 +6967,7 @@ Repair and Maintenance:
     Road Property and Equipment Damaged.....................    39-11-48
  
 
-
 Repairs Billed by Others--Dr.--Way and Structures--Switching--39-12-XX
-
     This account includes amounts payable by the railroad to others for 
 repair and maintenance of the reporting railroad's property associated 
 with the carrier's roadway and track within classification yards and 
@@ -7033,9 +6985,7 @@ Repair and Maintenance:
     Road Property and Equipment Damaged.....................    39-12-48
  
 
-
 Repairs Billed by Others--Dr.--Way and Structures--Other--39-13-XX
-
     This account includes amounts payable by the railroad to others for 
 repair and maintenance of the carrier's structures other than roadway 
 and track. This account shall be subdivided by the following functions:
@@ -7060,9 +7010,7 @@ Repair and Maintenance:
     Road Property and Equipment Damaged.....................    39-13-48
  
 
-
 Repairs Billed by Others--Dr.--Equipment--Locomotives--39-21-XX
-
     This account includes amounts payable by the railroad to others for 
 repair and maintenance under the Locomotive subactivity. This account 
 shall be subdivided by the following functions:
@@ -7072,9 +7020,7 @@ Repair and Maintenance:
     Road Property and Equipment Damaged.....................    39-21-48
  
 
-
 Repairs Billed by Others--Dr.--Equipment--Freight Cars--39-22-XX*
-
     This account includes amounts payable by the railroad to others for 
 repair and maintenance under the Freight Car subactivity. This account 
 shall be subdivided by the following functions:
@@ -7084,21 +7030,19 @@ Repair and Maintenance:
     Road Property and Equipment Damaged.....................    39-22-48
  
 
-
 Repairs Billed by Others--Dr.--Equipment Other Equipment--39-23-XX
-
     This account includes amounts payable by the railroad to others for 
-the repair and
-
-[[Page 83]]
-
-maintenance of equipment not pertaining to the Locomotive or Freight Car 
-subactivity. This account shall be subdivided by the following 
-functions:
+the repair and maintenance of equipment not pertaining to the Locomotive 
+or Freight Car subactivity. This account shall be subdivided by the 
+following functions:
 
 Repair and Maintenance:
     Trucks, Trailers, and Containers in Revenue Service.....   *39-23-43
     Floating Equipment--Revenue Service.....................   *39-23-44
+
+[[Page 84]]
+
+ 
     Passenger and Other Revenue Equipment...................    39-23-45
     Computer Systems and Word Processing Equipment..........    39-23-46
     Work and Other Non-Revenue Equipment....................    39-23-47
@@ -7108,14 +7052,12 @@ Repair and Maintenance:
     Shop Machinery--Other Equipment.........................    39-23-51
  
 
-
 Repairs Billed to Others--Cr.--Control 40-00-00
     This account series includes amounts payable by others to the 
 railroad for repair and maintenance of others' road property and 
 equipment. The components of this account shall be distributed to the 
 following accounts in accordance with Instruction 3-2:
 Repairs Billed to Others--Cr.--Way and Structures-- Running--40-11-XX
-
     This account includes amounts payable by others to the railroad for 
 repair and maintenance of other railroads' roadway and track on the line 
 of road and outside of classification yards. This account shall be 
@@ -7133,9 +7075,7 @@ Repair and Maintenance:
     Road Property and Equipment Damaged.....................    40-11-48
  
 
-
 Repairs Billed to Others--Cr.--Way and Structures Switching--40-12-XX
-
     This account includes amounts payable by others to the railroad for 
 repair and maintenance of other railroads' roadway and track within 
 classification yards and stations. This account shall be subdivided by 
@@ -7153,9 +7093,7 @@ Repair and Maintenance:
     Road Property and Equipment Damaged.....................    40-12-48
  
 
-
 Repairs Billed to Others--Cr.--Way and Structures-- Other--40-13-XX
-
     This account includes amounts payable by others to the railroad for 
 repair and maintenance of other railroads' structures other than roadway 
 and track. This account shall be subdivided by the following functions:
@@ -7180,9 +7118,7 @@ Repair and Maintenance:
     Road Property and Equipment Damaged.....................    40-13-48
  
 
-
 Repairs Billed to Others--Cr.--Equipment Locomotives--40-21-XX
-
     This account includes amounts payable by others to the railroad for 
 repair and maintenance of other railroads' locomotives. This account 
 shall be subdivided by the following functions:
@@ -7192,12 +7128,7 @@ Repair and Maintenance:
     Road Property and Equipment Damaged.....................    40-21-48
  
 
-
-
-[[Page 84]]
-
 Repairs Billed to Others--Cr.--Equipment--Freight Cars--40-22-XX*
-
     This account includes amounts payable by others to the railroad for 
 repair and maintenance of other railroads' freight cars. This account 
 shall be subdivided by the following functions:
@@ -7207,12 +7138,14 @@ Repair and Maintenance:
     Road Property and Equipment Damaged.....................    40-22-48
  
 
-
 Repairs Billed to Others--Cr.--Equipment--Other Equipment--40-23-XX
-
     This account includes amounts payable by others to the railroad for 
 repair and maintenance of other railroads' other equipment. Each account 
 shall be subdivided by the following functions:
+
+[[Page 85]]
+
+
 
 Repair and Maintenance:
     Trucks, Trailers, and Containers in Revenue Service.....   *40-23-43
@@ -7225,7 +7158,6 @@ Repair and Maintenance:
     Shop Machinery--Other Equipment.........................    40-23-51
  
 
-
 Other Purchased Services--Control-- 41-00-00
     This account group includes amounts charged or credited to operating 
 expenses for purchased advertising; purchased printing; outside 
@@ -7236,7 +7168,6 @@ train and locomotive propulsion; and other services purchased. The
 components of this account group shall be distributed to the following 
 accounts in accordance with Instruction 3-2:
 Other Purchased Services--Way and Structures--Running--41-11-XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7255,9 +7186,7 @@ Repair and Maintenance:
 Other--Other................................................    41-11-99
  
 
-
 Other Purchased Services--Way and Structures--Switching--41-12-XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7276,9 +7205,7 @@ Repair and Maintenance:
 Other--Other................................................    41-12-99
  
 
-
 Other Purchased Services--Way and Structures--Other--41-13-XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7299,10 +7226,6 @@ Repair and Maintenance:
     Locomotive Servicing Facilities.........................    41-13-27
     Miscellaneous Buildings and Structures..................    41-13-28
     Coal Terminals..........................................   *41-13-29
-
-[[Page 85]]
-
- 
     Ore Terminals...........................................   *41-13-30
     TOFC/COFC Terminals.....................................   *41-13-31
     Other Marine Terminals..................................   *41-13-32
@@ -7315,9 +7238,7 @@ Repair and Maintenance:
 Other--Other................................................    41-13-99
  
 
-
 Other Purchased Services--Equipment--Locomotives--41-21-XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7325,14 +7246,16 @@ expenses for other purchased services specified in control account 41-
 Administrative--General.....................................    41-21-01
 Repair and Maintenance:
     Dismantling Retired Property............................    41-21-39
+
+[[Page 86]]
+
+ 
     Locomotives.............................................    41-21-41
     Road Property and Equipment Damaged.....................    41-21-48
 Other--Other................................................    41-21-99
  
 
-
 Other Purchased Services--Equipment--Freight Cars--41-22-XX*
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7345,9 +7268,7 @@ Repair and Maintenance:
 Other--Other................................................    41-22-99
  
 
-
 Other Purchased Services--Equipment--Other Equipment--41-23-XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7367,9 +7288,7 @@ Repair and Maintenance:
 Other--Other................................................    41-23-99
  
 
-
 Other Purchased Services--Transportation--Train--41-31-XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7391,9 +7310,7 @@ Operations:
 Other--Other................................................    41-31-99
  
 
-
 Other Purchased Services--Transportation--Yard--41-32-XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7412,13 +7329,8 @@ Operations:
 Other--Other................................................    41-32-99
  
 
-
-
-[[Page 86]]
-
 Other Purchased Services--Transportation--Train and Yard Common--41-33-
 XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7429,9 +7341,7 @@ Operations:
     Car Loading Devices and Grain Doors.....................    41-33-72
  
 
-
 Other Purchased Services--Transportation--Specialized Services--41-34-XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7446,9 +7356,10 @@ Other--Other................................................    41-34-99
  
 
 
+[[Page 87]]
+
 Other Purchased Services--Transportation--Administrative Support--41-35-
 XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7461,9 +7372,7 @@ Operations:
 Other--Other................................................    41-35-99
  
 
-
 Other Purchased Services--General and Administrative--41-61-XX
-
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -7480,13 +7389,9 @@ General:
     Public Relations and Advertising........................    41-61-93
     Research and Development................................    41-61-94
 Other--Other................................................    41-61-99
- 
 
 
-<R03>
-Claims and Insurance--Table of Contents
-
-<R05>
+Claims and Insurance
 
 
 Control--50-00-00
@@ -7517,17 +7422,13 @@ Loss and Damage Claims--Transportation--Specialized Services   *51-34-00
 
 Other Casualties--Control--52-00-00
     This account includes amounts payable to employees or other parties 
-for
-
-[[Page 87]]
-
-injuries sustained or loss of life in connection with the construction, 
-maintenance, operations, and administration of railroad property and 
-equipment; for damage to real property, property of others or personal 
-property not carried in revenue service; all payments for other damages 
-of any kind. This account excludes freight and other goods carried in a 
-revenue service, and insurance premiums related to the casualties 
-chargeable to this account.
+for injuries sustained or loss of life in connection with the 
+construction, maintenance, operations, and administration of railroad 
+property and equipment; for damage to real property, property of others 
+or personal property not carried in revenue service; all payments for 
+other damages of any kind. This account excludes freight and other goods 
+carried in a revenue service, and insurance premiums related to the 
+casualties chargeable to this account.
     Note: The costs of clearing wrecks and repairing casualty-caused 
 damage to the railroad's property and equipment are properly classified 
 under other natural expense accounts as appropriate and further 
@@ -7542,6 +7443,10 @@ Other Casualties--Equipment--Freight Cars...................   *52-22-00
 Other Casualties--Equipment--Other Equipment................    52-34-00
 Other Casualties--Transportation--Train.....................    52-31-00
 Other Casualties--Transportation--Yard......................    52-32-00
+
+[[Page 88]]
+
+ 
 Other Casualties--Transportation--Specialized Services......   *52-34-00
 Other Casualties--Transportation--Administrative Support....    52-35-00
 Other Casualties--General and Administrative................    52-61-00
@@ -7563,13 +7468,9 @@ Insurance--Transportation--Yard.............................    53-32-00
 Insurance--Transportation--Specialized Services.............   *53-34-00
 Insurance--Transportation--Administrative Support...........    53-35-00
 Insurance--General and Administrative.......................    53-61-00
- 
 
 
-<R03>
-General--Table of Contents
-
-<R05>
+General
 
 
 Control--60-00-00
@@ -7583,7 +7484,6 @@ accounts, including travel and other expenses of employees, road
 property and equipment retirement losses, and other items of a general 
 nature.
 Other Expenses--Way and Structures--Running--61-11-XX
-
     Each account includes amounts charged to operating expenses for 
 items not otherwise provided for in the other natural expense accounts, 
 including travel and other expenses of employees, road property 
@@ -7606,19 +7506,13 @@ Repair Maintenance:
 Other--Other................................................    61-11-99
  
 
-
 Other Expenses--Way and Structures--Switching--61-12-XX
-
     Each account includes amount charged to operating expenses for items 
 not otherwise provided for in the other natural expense accounts, 
 including travel and other expenses of employees, road property 
-retirement
-
-[[Page 88]]
-
-losses, and other items of a general nature associated with the 
-carrier's roadway and track within classification yards and stations. 
-Each account shall be subdivided by the following functions:
+retirement losses, and other items of a general nature associated with 
+the carrier's roadway and track within classification yards and 
+stations. Each account shall be subdivided by the following functions:
 
 Repair and Maintenance:
     Roadway.................................................    61-12-10
@@ -7634,7 +7528,6 @@ Repair and Maintenance:
 Other--Other................................................    61-12-99
  
 
-
 Other Expenses--Way and Structures--Other--61-13-XX
     This account includes amounts charged to operating expenses for 
 items not otherwise provided for in the other natural expense accounts, 
@@ -7648,6 +7541,10 @@ Administration:
     Bridges and Buildings...................................    61-13-03
     Signals.................................................    61-13-04
     Communications..........................................    61-13-05
+
+[[Page 89]]
+
+ 
     Other...................................................    61-13-06
 Repair and Maintenance:
     Communication Systems...................................    61-13-20
@@ -7672,7 +7569,6 @@ Other--Other................................................    61-13-99
  
 
 Other Expenses--Equipment--Locomotives 61-21-XX
-
     This account includes amounts charged to operating expenses for 
 items not otherwise provided for in the other natural expense accounts, 
 including travel and other expenses of employees and equipment 
@@ -7688,9 +7584,7 @@ Repair and Maintenance:
 Other--Other................................................    61-21-99
  
 
-
 Other Expenses--Equipment--Freight Cars--61-22-XX*
-
     This account includes amounts charged to operating expenses for 
 items not otherwise provided for in the other natural expense accounts, 
 including travel and other expenses of employees, equipment retirement 
@@ -7706,9 +7600,7 @@ Repair and Maintenance:
 Other--Other................................................    61-22-99
  
 
-
 Other Expenses--Equipment--Other Equipment--61-23-XX
-
     This account includes amounts charged to operating expenses for 
 items not otherwise provided for in the other natural expense accounts, 
 including travel and other expenses of employees, equipment retirement 
@@ -7722,10 +7614,6 @@ Repair and Maintenance:
     Trucks, Trailers, Containers in Revenue Service.........   *61-23-43
     Floating Equipment--Revenue Service.....................   *61-23-44
     Passenger and Other Revenue Equipment...................    61-23-45
-
-[[Page 89]]
-
- 
     Computer Systems and Word Processing Equipment..........    61-23-46
     Work and Other Non-Revenue Equipment....................    61-23-47
     Road Property and Equipment Damaged.....................    61-23-48
@@ -7735,9 +7623,7 @@ Repair and Maintenance:
 Other--Other................................................    61-23-99
  
 
-
 Other Expenses--Transportation--Train--61-23-XX
-
     This account includes amounts charged to operating expenses for 
 items not otherwise provided for in the other natural expense accounts, 
 including travel and other expenses of employees, associated with the 
@@ -7763,8 +7649,9 @@ Other--Other................................................    61-31-99
  
 
 
-Other Expenses--Transportation--Yard--61-32-XX
+[[Page 90]]
 
+Other Expenses--Transportation--Yard--61-32-XX
     This account includes amounts charged to operating expenses for 
 items not otherwise provided for in the other natural expense accounts, 
 including travel and other expenses of employees, and other items of a 
@@ -7786,9 +7673,7 @@ Operations:
 Other--Other................................................    61-32-99
  
 
-
 Other Expenses--Transportation--Specialized Services--61-34-XX*
-
     This account includes amounts charged to operating expenses for 
 items not otherwise provided for in the other natural expense accounts, 
 including travel and other expenses of employees, and other items of a 
@@ -7806,9 +7691,7 @@ Operations:
 Other--Other................................................    61-34-99
  
 
-
 Other Expenses--Transportation--Administrative Support--61-35-XX
-
     This account includes amounts charged to operating expenses for 
 items not otherwise provided for in the other natural expense accounts, 
 including travel and other expenses of employees, and other items of a 
@@ -7825,7 +7708,6 @@ Other--Other................................................    61-35-99
  
 
 Other Expenses--General and Administrative--61-61-XX
-
     This account includes amounts charged to operating expenses for 
 items not otherwise provided for in the other natural expense accounts, 
 including travel and other expenses of employees, and other items of a 
@@ -7834,10 +7716,6 @@ support for carrier operations. This account shall be subdivided by the
 following functions:
 
 Administration--General.....................................    61-61-01
-
-[[Page 90]]
-
- 
 General:
     Accounting, Auditing, Finance...........................    61-61-86
     Management Services and Data Processing.................    61-61-87
@@ -7850,7 +7728,6 @@ General:
     Research and Development................................    61-61-94
 Other--Other................................................    61-61-99
  
-
 
 Depreciation--Control--62-00-00
     This account group includes the amounts charged to operating 
@@ -7870,14 +7747,18 @@ Depreciation--Equipment--Other Equipment....................    62-23-00
 Uncollectible Accounts--Control-- 63-00-00
     This account includes charges to operating expenses for the 
 writedown of accounts and notes due to the railroad, whether classified 
-as current or long-term. This account includes any credits to allowance 
-accounts for collectibility and total writeoff of receivables. This 
-account does not include writedowns of property, equipment, or 
-investments (except accounts, notes, or other receivables held as 
-investments). Proper adjustments of incorrect receivables are not to be 
-charged to this account. Collections of amounts previously written off 
-or down are to be credited to this account. The total of this account 
-shall be charged to the following account:
+as current or long-
+
+[[Page 91]]
+
+term. This account includes any credits to allowance accounts for 
+collectibility and total writeoff of receivables. This account does not 
+include writedowns of property, equipment, or investments (except 
+accounts, notes, or other receivables held as investments). Proper 
+adjustments of incorrect receivables are not to be charged to this 
+account. Collections of amounts previously written off or down are to be 
+credited to this account. The total of this account shall be charged to 
+the following account:
 
 Uncollectible Accounts--General and Administrative..........    63-61-00
  
@@ -7897,11 +7778,10 @@ and taxes chargeable as employee benefits. The total of this account
 shall be charged to the following account:
 
 Other Taxes--General and Administrative.....................    65-61-00
- 
 
 
 <R03>
-OPERATING EXPENSE ACCOUNTS--Table of Contents
+OPERATING EXPENSE ACCOUNTS
 
 <R05>
 
@@ -7925,11 +7805,7 @@ other equipment described in property accounts 44, 46 and 52 through 58,
 all of which should be charged to the Equipment activity. It also 
 excludes expenses in performance or support of Transportation, General 
 and Administrative activities, property used for noncarrier operations, 
-non-operating
-
-[[Page 91]]
-
-property, and interest or other fixed charges.
+non-operating property, and interest or other fixed charges.
 Running Subactivity--(XX-11-XX)
     (1) Running subactivity of the Way and Structures activity refers to 
 the functions of repairing, maintaining, leasing, renting, depreciating, 
@@ -7951,10 +7827,13 @@ team, industry, and other tracks switched by yard locomotives, and for
 station, team, industry, and other switching tracks for which no 
 separate switching service is maintained. It includes all natural 
 expense object subclassifications under the Way and Structures activity 
-that are applicable to right-of-way and trackage as defined above. This 
-subactivity specifically excludes expenses incurred in operating signals 
-and interlockers, and highway grade crossings, which are properly 
-charged to the Transportation activity.
+that are applicable to right-of-way and trackage as defined above.
+
+[[Page 92]]
+
+This subactivity specifically excludes expenses incurred in operating 
+signals and interlockers, and highway grade crossings, which are 
+properly charged to the Transportation activity.
 Other Subactivity--(XX-13-XX)
     (3) Other subactivity of the Way and Structures activity refers to 
 the function of repairing, maintaining, leasing, renting, depreciating, 
@@ -7993,12 +7872,9 @@ locomotives, such as locomotive fuel and lubricants, train crew wages,
 operating supplies, servicing (as opposed to maintaining or repairing), 
 and cleaning which are includable in the Transportation activity, except 
 when locomotive use is clearly in support of other activities or 
-subactivities. When
-
-[[Page 92]]
-
-locomotives are operated in support of repairing or maintaining 
-locomotives, the operating costs shall be charged to this subactivity.
+subactivities. When locomotives are operated in support of repairing or 
+maintaining locomotives, the operating costs shall be charged to this 
+subactivity.
 Freight Train Cars Subactivity--(XX-22-XX)
     (2) Freight Train Cars subactivity of the Equipment activity refers 
 to repairing, maintaining, leasing, renting, depreciating, and retiring 
@@ -8017,6 +7893,9 @@ maintaining freight cars, other activities or subactivities. When
 locomotives or trains are operated in support of repairing or 
 maintaining freight cars, the operating costs shall be charged to this 
 subactivity.
+
+[[Page 93]]
+
 Other Equipment Subactivity--(XX-23-XX)
     (3) Other Equipment subactivity of the Equipment activity refers to 
 repairing, maintaining, leasing, renting, depreciating, and retiring 
@@ -8062,9 +7941,6 @@ functions in terminals. It includes running trains in road or way
 service; switching trains except where such switching is performed 
 within yards or terminals; and making customer pick-ups and deliveries 
 except in yards and terminals.
-
-[[Page 93]]
-
     It also provides for dispatching, controlling, reporting, and 
 monitoring road train movements; inspecting and lubricating trains; 
 servicing, fueling, and cleaning (not repairing or maintaining) 
@@ -8085,9 +7961,13 @@ trains and specialized service facilities outside of terminal areas
 belongs to the Train Operations subactivity.
     Work and other nonrevenue train operating costs are to be charged to 
 the appropriate supported activity. Shipments of company materials 
-normally should be charged to this subactivity, except where the train 
-movement is exclusively or predominantly for such nonrevenue purpose 
-where the supported activity should bear the train operating costs.
+normally should be charged to this subactivity,
+
+[[Page 94]]
+
+except where the train movement is exclusively or predominantly for such 
+nonrevenue purpose where the supported activity should bear the train 
+operating costs.
 Yard Operations Subactivity--(XX-32-XX)
     (2) Yard Operations subactivity of the Transportation activity 
 refers to classifying cars to make-up or break-down trains; sorting and 
@@ -8128,11 +8008,7 @@ operations. It also includes salaries and wages, fringe benefits,
 material and supplies, purchased services, and other natural expense 
 elements incurred in performing the functions defined above. It excludes 
 the natural expense elements of casualties and insurance, which shall be 
-charged to the
-
-[[Page 94]]
-
-Train Operations and Yard Operations subactivities.
+charged to the Train Operations and Yard Operations subactivities.
 Specialized Services Operations Subactivity--(XX-34-XX)
     (4) Specialized Services Operations subactivity of the 
 Transportation activity refers to operating services which are 
@@ -8151,11 +8027,14 @@ handling trailers or containers, including related storage; and the
 highway movement of trailers or containers within a terminal area for 
 purposes of pick-up, delivery, or interchange.
     The service includes loading, tie-down, and/or unloading flat cars 
-or dollies and piggyback trailers to or from highway tractors; moving 
-trailers, dollies, or containers within the facility; servicing, 
-cleaning, and fueling (but not repairing or maintaining) facility 
-equipment; operating storage areas; and casualties, claims, and 
-insurance relating to the facility.
+or dollies and piggyback trailers to or from
+
+[[Page 95]]
+
+highway tractors; moving trailers, dollies, or containers within the 
+facility; servicing, cleaning, and fueling (but not repairing or 
+maintaining) facility equipment; operating storage areas; and 
+casualties, claims, and insurance relating to the facility.
     TOFC/COFC Operations do not include Plan V or other arrangements, 
 where there is a division of revenues between the rail and motor 
 carrier. They do not include switching services performed within the 
@@ -8195,12 +8074,9 @@ They also do not include costs appropriate to the Train Operations, Yard
 Operations, Train and Yard Operations Common, or Administrative Support 
 Services Operations subactivities. Switching transfer of cars between 
 general yards or trains and the facility or a dedicated yard serving the 
-facility and switching
-
-[[Page 95]]
-
-within the dedicated supporting terminal facility when performed by yard 
-crews should be charged to the Yard Operations subactivity.
+facility and switching within the dedicated supporting terminal facility 
+when performed by yard crews should be charged to the Yard Operations 
+subactivity.
     (d) Other Marine Terminal Operations refers to the operations of 
 marine terminals other than those for which a separate designated 
 specialized service operation category is provided.
@@ -8219,7 +8095,10 @@ transportation operating expenses of only those services listed above.
 Administrative Support Operations Subactivity--(XX-35-XX)
     (5) Administrative Support Operations subactivity refers to 
 operations providing direct administrative support to the overall 
-Transportation activity. It includes administrative support for the 
+Transportation activity. It includes administrative support for the
+
+[[Page 96]]
+
 Common, and the Specialized Services Operations subactivities. The 
 administrative support operations includes receiving and processing 
 customer orders, requesting cars, preparing waybills, rating shipments, 
@@ -8262,7 +8141,7 @@ the Administrative Support Operations subactivity.
 
 
 <R03>
-OPERATING EXPENSE ACCOUNTS--Table of Contents
+OPERATING EXPENSE ACCOUNTS
 
 <R05>
 
@@ -8271,13 +8150,9 @@ OPERATING EXPENSE ACCOUNTS--Table of Contents
 
     Note: Functions do not necessarily correlate to organizational 
 structure. A particular department may not have a specific USOA expense 
-function code. However, its
-
-[[Page 96]]
-
-costs may be includable under various function codes. Costs not properly 
-chargeable to specific functions should be assigned to Function Code 99, 
-Other.
+function code. However, its costs may be includable under various 
+function codes. Costs not properly chargeable to specific functions 
+should be assigned to Function Code 99, Other.
     (a) Functions Related to the Way and Structures Activity
     (1) Administration Functions.
     (02) Administration, Track--General administration and supervision 
@@ -8303,7 +8178,11 @@ Used only in Way and Structures--Other. Included are:
 functions.
 
     (04) Administration, Signals--General administration and supervision 
-of central, regional, and divisional engineering functions related to 
+of
+
+[[Page 97]]
+
+central, regional, and divisional engineering functions related to 
 repair and maintenance of signals. Used only in Way and Structures--
 Other. Included are:
 
@@ -8359,13 +8238,9 @@ repairing, filling, dredging, cleaning, watching these structures.
 track ties. This function includes expenses associated with unloading, 
 distributing and placing ties in tracks.
     (14) Repair and Maintenance, Rails and Other Track Material--All 
-track
-
-[[Page 97]]
-
-material used in repair of tracks except ballast and ties. This function 
-includes expenses associated with unloading and installing Rail and 
-Other Track Material.
+track material used in repair of tracks except ballast and ties. This 
+function includes expenses associated with unloading and installing Rail 
+and Other Track Material.
     (16) Repair and Maintenance, Ballast--Gravel, stone, slag, cinders, 
 sand, and like material.
     (19) Repair and Maintenance, Signals and Interlockers--Signals and 
@@ -8386,10 +8261,13 @@ maintenance and servicing of locomotives.
 buildings, fixtures, appurtenances, and grounds, used for the repair, 
 maintenance, and servicing of freight cars.
     (26) Repair and Maintenance, Shop Buildings--Other--Shops and 
-buildings, fixtures, appurtenances, and grounds, used for the repair, 
-maintenance, and servicing of revenue service equipment other than 
-locomotives and freight cars; roadway machines; work equipment and the 
-like.
+buildings,
+
+[[Page 98]]
+
+fixtures, appurtenances, and grounds, used for the repair, maintenance, 
+and servicing of revenue service equipment other than locomotives and 
+freight cars; roadway machines; work equipment and the like.
     (27) Repair and Maintenance, Locomotive Servicing Facilities--Fuel 
 and water stations, fixtures, appurtenances, and grounds.
     (28) Repair and Maintenance, Miscellaneous Buildings and Structures. 
@@ -8431,16 +8309,13 @@ addition or betterment.
     (48) Road Property Damaged--Repair of roadway property and 
 structures, used in revenue service, and all equipment not used in 
 revenue service, when damage is caused by derailments, collision, fire, 
-explosions, sabotage, other
-
-[[Page 98]]
-
-casualties, and excluding damage resulting through normal operations or 
-use; such as part failures, overloads, overheating, short circuits and 
-similar events. Part failures through normal operations are those where 
-the resulting damage is restricted to the unit of road property which 
-experienced the failure. When the damage extends to other units of road 
-property, related expenses shall be charged to this function.
+explosions, sabotage, other casualties, and excluding damage resulting 
+through normal operations or use; such as part failures, overloads, 
+overheating, short circuits and similar events. Part failures through 
+normal operations are those where the resulting damage is restricted to 
+the unit of road property which experienced the failure. When the damage 
+extends to other units of road property, related expenses shall be 
+charged to this function.
     (3) Other Function.
     (99) Other--All expenses not properly includable in the above 
 functions.
@@ -8466,8 +8341,11 @@ Administrative function.
     <bullet> Store expense and shop expense.
 
     (39) Dismantling Retired Property--Dismantling retired equipment 
-when the property is not to be replaced through normal maintenance, 
-addition or betterment.
+when the property is not to be replaced
+
+[[Page 99]]
+
+through normal maintenance, addition or betterment.
     (40) [Reserved]
     (41) Repair and Maintenance, Locomotives--Repair of locomotives in 
 revenue service.
@@ -8507,9 +8385,6 @@ the repair, maintenance and servicing of freight cars.
 of shop machinery and other apparatus, including special foundations for 
 the repair, maintenance and servicing of other equipment.
     (3) Other Function.
-
-[[Page 99]]
-
     (99) Other--All equipment expenses not properly includable in the 
 above functions.
     (c) Functions Related to the Transportation Activity
@@ -8543,7 +8418,11 @@ supplies, etc.
     (62) Train Inspection and Lubrication--Inspection and lubrication of 
 trains (cars and locomotives), including minor repairs made by 
 inspectors. This includes the inspection of train locomotives when 
-indistinguishable from the inspection and lubrication of train cars.
+indistinguishable from
+
+[[Page 100]]
+
+the inspection and lubrication of train cars.
     (63) Clearing Wrecks--Removal of equipment, freight or other goods, 
 and property of others damaged in wrecks; note that repair of wreck 
 damage caused to roadway property and equipment is classified as 
@@ -8587,9 +8466,6 @@ unloading, and tie down; coal and ore loading and unloading; and other
 similar functions.
     (75) Protective Services--Inspecting, servicing, cleaning, and 
 fueling protective equipment and devices.
-
-[[Page 100]]
-
     (76) Clerical and Accounting Employees--Direct administrative 
 support to the Transportation Activity, including receiving and 
 processing customer orders, requesting cars, preparing waybills, rating 
@@ -8620,6 +8496,10 @@ functions.
 functions. It includes the overall responsibility for two or more of the 
 General and Administrative functions listed below or the responsibility 
 that expands to more than one activity.
+
+
+[[Page 101]]
+
 
     (2) General Functions.
     (86) Accounting, Auditing, Finance--General and corporate 
@@ -8662,23 +8542,16 @@ known, with the intention of finding ways to improve maintenance,
 operations, administration, rates, productivity, environmental impact, 
 and similar items. Does not include specific studies or development 
 efforts for which an implementation decision has already been made.
-
-[[Page 101]]
-
     (3) Other Function.
     (99) Other--All general and administration expenses not properly 
 includable in the above functions.
 
 
 <R03>
-INCOME ACCOUNTS--Table of Contents
+INCOME ACCOUNTS
 
 
-
-<R03>
-Ordinary Items--Table of Contents
-
-<R05>
+Ordinary Items
 
 
 501  Railway operating revenues.
@@ -8703,8 +8576,11 @@ authorities to offset operating costs sustained on specific lines or in
 certain regions. Examples are: (1) Local Rail Service Assistance 
 Subsidies granted to the carrier under authority of the Railroad 
 Revitalization and Regulatory Reform Act of 1976, and (2) payments by 
-regional transit authorities in connection with specified operations 
-performed by the carrier.
+regional transit authorities
+
+[[Page 102]]
+
+in connection with specified operations performed by the carrier.
     This account shall also include indirect receipts which reduce 
 operating expenses, such as assumption of station maintenance costs, 
 abatement of taxes, or other indirect contributions by government 
@@ -8752,12 +8628,9 @@ lines or for additions and betterments shall be credited to the
 appropriate road and equipment accounts until the completion or coming 
 into service of the property.
     Note D: Rent and other income from real estate acquired for new 
-lines or for additions
-
-[[Page 102]]
-
-and betterments shall be credited to the appropriate road and equipment 
-accounts until the completion or coming into service of the property.
+lines or for additions and betterments shall be credited to the 
+appropriate road and equipment accounts until the completion or coming 
+into service of the property.
 
 [42 FR 35017, July 7, 1977, as amended at 52 FR 4346, Feb. 11, 1987]
 512  Separately operated properties; profit.
@@ -8785,6 +8658,9 @@ other stocks, the income from which is the property of the accounting
 company, whether such stocks are owned by the accounting company and 
 held in its treasury or deposited in trust, or are controlled through 
 lease or otherwise.
+
+[[Page 103]]
+
     (b) Dividends declared shall not be credited prior to actual 
 collection unless their payment is reasonably assured by past 
 experience, guaranty, anticipated provision, or otherwise. (See note C 
@@ -8829,9 +8705,6 @@ included in account 516, ``Income from sinking and other funds.''
     Note C: Discount on bills for material purchased shall be credited 
 to the accounts to which is charged the cost of the material with 
 respect to which the discount is allowed.
-
-[[Page 103]]
-
 516  Income from sinking and other funds.
     (a) This account shall include the income on cash, securities, and 
 other assets (not including securities issued or assumed by the 
@@ -8854,9 +8727,12 @@ other companies or individuals, representing the whole or a part of the
 net loss of the accounting company, when under the terms of agreements 
 or contract, no obligation for subsequent reimbursement is incurred.
     (b) In determining the amount receivable by the accounting company, 
-consideration shall be given not only to the operating revenues and 
-operating expenses, but also to other items of income or deduction which 
-affect that amount.
+consideration shall be given not only
+
+[[Page 104]]
+
+to the operating revenues and operating expenses, but also to other 
+items of income or deduction which affect that amount.
     Note: The amount payable shall be charged by the contributing 
 company to account 545, ``Separately operated properties--Loss.''
 
@@ -8899,10 +8775,7 @@ operations.
 elsewhere, such as taxes on securities owned, and taxes on income from 
 securities owned.
 545  Separately operated properties; loss.
-    (a) This account shall include amounts payable under the terms of
-
-[[Page 104]]
-
+    (a) This account shall include amounts payable under the terms of 
 agreements or contracts whereby the net loss resulting from the 
 operation by others of properties of other companies having a separate 
 corporate existence is to be paid, in whole or in part, by the 
@@ -8932,10 +8805,14 @@ funded debt obligations issued or assumed by the accounting company and
 owned by it, whether pledged as collateral or held in its treasury, in 
 special deposits, or in sinking or other funds.
     Note B: When funded debt is incurred for new lines or extensions, or 
-for addition and betterment purposes, the accruals of interest on such 
-funded debt (less interest received on unexpended balances), to the date 
-of completion or coming into service of the property so acquired shall 
-be includable in the road and equipment accounts.
+for addition and
+
+[[Page 105]]
+
+betterment purposes, the accruals of interest on such funded debt (less 
+interest received on unexpended balances), to the date of completion or 
+coming into service of the property so acquired shall be includable in 
+the road and equipment accounts.
     Note C: This account shall be maintained so as to show separately: 
 (a) Fixed interest which will be paid, or for which provision for 
 payment will be made, when the interest matures; (b) interest in 
@@ -8974,9 +8851,6 @@ applicable to any particular issue of obligations may be charged
 directly to this account at time of issue when the aggregate of such 
 amounts does not appreciably affect the accounts. (See instruction 5-
 3(b).)
-
-[[Page 105]]
-
 549  Maintenance of investment organization.
     This account shall include the directly assignable administration 
 expenses of the accounting company which are incident to its investments 
@@ -9009,6 +8883,9 @@ operating expenses, but also to other items of income or deduction which
 affect that amount.
     Note A: The amount receivable by the other company shall be credited 
 by it to account 512, ``Separately operated properties--Profit.''
+
+[[Page 106]]
+
     Note B: Dividends or other payments upon securities issued or 
 assumed by the accounting company shall not be included in this account.
 
@@ -9054,9 +8931,6 @@ FR 4347, Feb. 11, 1987]
     This account shall include losses on receivable, notes, or claims 
 that are not includible in account 63-61-00. ``General--Uncollectible 
 Accounts--General and Administrative.''
-
-[[Page 106]]
-
 555  Unusual or infrequent items (debit) credit.
     This account shall include material items unusual in nature or 
 infrequent in occurrence, but not both, accounted for in the current 
@@ -9086,6 +8960,9 @@ the text of instruction 1-2(d), upon approval by the Board.
 segment of a business, after giving effect to income tax consequences, 
 in accordance with the text of instruction 1-2(d), upon approval by the 
 Board.
+
+[[Page 107]]
+
 570  Extraordinary items (net).
     (a) This account shall include extraordinary items accounted for 
 during the current accounting year in accordance with the text of 
@@ -9125,10 +9002,6 @@ the Board.
  
 501  Railway operating revenues (exclusive of transfers from      ......
  government authorities)........................................
-
-[[Page 107]]
-
- 
 502  Railway operating revenues--transfers from government        ......
  authorities for current operations.............................
 502  Railway operating revenues (amortization of deferred         ......
@@ -9203,6 +9076,10 @@ the Board.
 556  Income taxes on ordinary income:
   Federal income taxes..........................................  ......
   State income taxes............................................  ......
+
+[[Page 108]]
+
+ 
   Other income taxes............................................  ......
 557  Provision for deferred income taxes........................  ......
   Income from continuing operations.............................  ......
@@ -9251,15 +9128,11 @@ the Board.
 
 
 <R03>
-RETAINED EARNINGS ACCOUNTS--Table of Contents
-
-<R05>
+RETAINED EARNINGS ACCOUNTS
 
 
 
-Credit--Table of Contents
-
-<R05>
+Credit
 
 
 601  Credit balance (at beginning of calendar year).
@@ -9273,9 +9146,6 @@ approval by the Board.
 602  Credit balance transferred from income.
     This account shall show the net credit balance brought forward from 
 the income account for the calendar year.
-
-[[Page 108]]
-
 603  Appropriations released.
     This account is provided to return to unappropriated retained 
 earnings the amount of appropriations no longer required. The account 
@@ -9287,10 +9157,7 @@ income taxes, not provided for elsewhere in this system but only after
 such inclusion has been authorized by the Board.
 
 
-<R03>
-Debit--Table of Contents
-
-<R05>
+Debit
 
 
 611  Debit balance (at beginning of calendar year).
@@ -9309,6 +9176,9 @@ of capital stock. See instruction 5-4.
     (b) This account shall also include other debit adjustments, net of 
 assigned income taxes, not provided for elsewhere in this system but 
 only after such inclusion has been authorized by the Board.
+
+[[Page 109]]
+
 620  Appropriations for sinking and other funds.
     This account shall be charged and account 797, ``Retained earnings; 
 Appropriated,'' shall be credited with amounts appropriated pursuant to 
@@ -9336,14 +9206,10 @@ sinking or other funds.
 
 
 <R03>
-GENERAL BALANCE SHEET ACCOUNTS EXPLANATIONS--Table of Contents
+GENERAL BALANCE SHEET ACCOUNTS EXPLANATIONS
 
 
-
-<R03>
-Assets--Table of Contents
-
-<R05>
+Assets
 
 
                              Current Assets
@@ -9356,9 +9222,6 @@ conductors for which such agents and conductors have received credit. It
 shall include, also, deposits with banks and trust companies available 
 for use on demand, and savings accounts subject to the usual clause 
 reserving the right to defer payment for a specified number of days.
-
-[[Page 109]]
-
     (b) The amount of checks and drafts, which have been transmitted to 
 payees and which remain unpaid at the close of the accounting period, 
 shall be credited to this account. When the amount of such checks and 
@@ -9389,7 +9252,11 @@ liquidation of other current liabilities, to guarantee fulfillment of
 current contract obligations to meet specific operating requirements, or 
 compensating balances (See definition 24) under an agreement which 
 legally restricts the use of such funds, and which constitute support 
-for short-term borrowing arrangements. Subaccounts may be set up, if 
+for
+
+[[Page 110]]
+
+short-term borrowing arrangements. Subaccounts may be set up, if 
 necessary, to account for special deposits for specific purposes.
     Note: Deposits available for general company purposes shall be 
 included in account 701, ``Cash.''
@@ -9427,14 +9294,11 @@ of current revenues.
 funds shall be included in account 710, ``Working funds.''
 707  Accounts receivable; other.
     This account shall include amounts due in audited accounts, such as 
-those due from the United States or other
-
-[[Page 110]]
-
-Governments for the transportation of mails and Government property, and 
-from express companies for express facilities furnished under contract; 
-miscellaneous bills against other railway companies, corporations, 
-firms, and individuals; and other similar items.
+those due from the United States or other Governments for the 
+transportation of mails and Government property, and from express 
+companies for express facilities furnished under contract; miscellaneous 
+bills against other railway companies, corporations, firms, and 
+individuals; and other similar items.
     Note A: The amount to be entered in this account is not the net 
 balance between this account and account 754, ``Accounts payable; 
 Other.''
@@ -9468,6 +9332,9 @@ companies shall be included in account 708.5, ``Receivables from
 affiliated companies,'' and noncurrent amounts receivable shall be 
 included in account 721, ``Investments and advances; Affiliated 
 companies.''
+
+[[Page 111]]
+
 708.5  Receivables from affiliated companies.
     This account shall include amounts due from affiliated companies 
 which are subject to current settlement such as deposits, demand or time 
@@ -9502,9 +9369,6 @@ account 636000, ``Uncollectible Accounts; General and administrative.''
     (b) Allowances for receivables not applicable to transportation 
 operations. Credits to this subdivision shall be concurrently charged to 
 account 553, ``Uncollectable accounts.''
-
-[[Page 111]]
-
 710  Working funds.
     This account shall include amounts advanced to general and special 
 agents, and to other officers and employees, as working funds from which 
@@ -9539,10 +9403,13 @@ followed. Taxes on gasoline, other motor fuel, and motor oil are also
 includible in this account.
     (b) Materials recovered for reuse in connection with construction, 
 maintenance, or the retirement of property shall be charged to this 
-account at cost, or average cost, estimated if not known, less 
-accumulated depreciation, if any, plus the cost to restore the materials 
-to a serviceable condition, or current market value, whichever is lower. 
-(See definition 17, Salvage value.)
+account at cost, or average cost, estimated if not
+
+[[Page 112]]
+
+known, less accumulated depreciation, if any, plus the cost to restore 
+the materials to a serviceable condition, or current market value, 
+whichever is lower. (See definition 17, Salvage value.)
     (c) Scrap and other nonusable materials, including obsolete parts, 
 shall be included in account 713, ``Other current assets,'' at the 
 estimated salvage value when the sale of the materials is imminent and 
@@ -9572,15 +9439,11 @@ progress.''
 713  Other current assets.
     This account shall include amounts for other current assets which 
 are not includible in the foregoing current asset accounts.
-
-[[Page 112]]
-
 714  Deferred income tax debits.
     This account shall include the current portion of deferred income 
 tax debits and credits determined in accordance with Instruction 1-10, 
 when the balance is a net debit. A net credit balance shall be included 
 in account 762, ``Deferred income tax credits''.
-
 
 (49 U.S.C. 10321, 11145; 5 U.S.C. 553)
 
@@ -9616,8 +9479,12 @@ of equipment obligations or other long-term obligations and not yet
 applied toward the specific purposes for which the obligations were 
 incurred, and (2) set aside in accordance with governmental, mortgage, 
 or contractual requirements in connection with reorganizations or 
-otherwise. This account shall also include funds deposited with trustees 
-to be held until mortgaged property sold is replaced.
+otherwise. This account shall also include funds
+
+[[Page 113]]
+
+deposited with trustees to be held until mortgaged property sold is 
+replaced.
     (b) An appropriate record shall be maintained for securities issued 
 or assumed by the accounting company and held in the funds, identifying 
 those that are nominally issued or nominally outstanding.
@@ -9650,11 +9517,7 @@ accounting company and held in the funds shall be shown in the short
 columns, and the net amount of the funds (total amount less securities 
 issued or assumed) shall be shown in the long column.
     Note C: This account shall not include funds held by the accounting 
-company solely
-
-[[Page 113]]
-
-as trustee and in which it has no beneficial interest.
+company solely as trustee and in which it has no beneficial interest.
     Note D: This account shall include compensating balances (see 
 definition 24) under an agreement which legally restricts the use of 
 such funds and which constitute support for long-term borrowing 
@@ -9698,6 +9561,9 @@ the accounting company under a joint arrangement.
 By control (also see definition 4) is meant the ability to determine the 
 action of a corporation. For the purposes of this account, the following 
 are to be considered forms of control:
+
+[[Page 114]]
+
     (a) Right through title to securities issued or assumed to exercise 
 the major part of the voting power in the controlled corporation.
     (b) Right through agreement or source other than title to 
@@ -9730,10 +9596,7 @@ value of investment securities and other assets included in account 721,
     (b) If provision is made for anticipated losses in specific assets, 
 when the assets are written down or written off, or are sold or 
 otherwise disposed of at a loss, the reduction in the book value or the 
-losses sustained shall be charged to this account to the extent of the
-
-[[Page 114]]
-
+losses sustained shall be charged to this account to the extent of the 
 credit balance in the account applicable to the particular items 
 involved, and the remainder, if any, shall be charged to account 551, 
 ``Miscellaneous income charges.'' Where a general provision for losses 
@@ -9774,6 +9637,9 @@ shall be kept.
 of security for funded debt or short-term loans shall be included in 
 accounts 715, ``Sinking funds,'' 716, ``Capital funds,'' or 717, ``Other 
 funds,'' as appropriate.
+
+[[Page 115]]
+
 723  Adjustments; other investments and advances.
     (a) This account shall be credited with amounts charged to account 
 551, ``Miscellaneous income charges,'' to provide for impairment in the 
@@ -9807,14 +9673,10 @@ market value if such differences are judged to be other than temporary.
 
 731  Road and equipment property.
     This account shall include the accounting company's investment in 
-road and equipment (including that held
-
-[[Page 115]]
-
-under contract for purchase), used or held for use as transportation 
-property in existence at the date of the balance sheet. When property is 
-retired from service, this account shall be credited with the ledger 
-value of the property retired.
+road and equipment (including that held under contract for purchase), 
+used or held for use as transportation property in existence at the date 
+of the balance sheet. When property is retired from service, this 
+account shall be credited with the ledger value of the property retired.
     Note A: This account shall not include any items representing titles 
 to securities.
     Note B: When equipment or other property is acquired under an 
@@ -9852,6 +9714,9 @@ time for the cost thereof, the lessee, pending settlement with the
 lessor, shall include the cost thereof in account 721, ``Investments and 
 advances; Affiliated companies,'' or 722, ``Other investments and 
 advances,'' as appropriate.
+
+[[Page 116]]
+
 733  Accumulated depreciation; improvements on leased property.
     (a) This account shall be credited with amounts concurrently charged 
 to operating expenses or other authorized accounts for depreciation 
@@ -9882,9 +9747,6 @@ include adjustments which the Board may authorize the accounting company
 to make such as adjustments for past accruals of depreciation, and 
 provision for material abandonment or other losses applicable to 
 nondepreciable property.
-
-[[Page 116]]
-
     (b) The service value of each unit of depreciable property retired 
 (and also of each minor item, less than a unit, retired and not 
 replaced) shall be charged to this account. This account shall also be 
@@ -9925,6 +9787,8 @@ Rails and other track material leased to others.
 Saw mills and other manufacturing plants not operated in connection with 
 transportation service.
 
+[[Page 117]]
+
 738  Accumulated depreciation; property used in other than carrier 
 operations.
     This account shall be credited with amounts charged to income or 
@@ -9958,9 +9822,6 @@ shall also include the estimated realizable amount for other assets of
 doubtful value, collection of which within one year is not assured; also 
 other deferred assets and miscellaneous assets not otherwise provided 
 for in general balance sheet accounts. (See instruction 5-1.)
-
-[[Page 117]]
-
 743  Other deferred debits.
     (a) This account shall include the amount of debit balances in 
 suspense accounts that cannot be cleared and disposed of until 
@@ -9982,16 +9843,12 @@ tax debits and credits determined in accordance with Instruction 1-10
 when the balance is a net debit. A net credit balance shall be included 
 in account 786, ``Accumulated deferred income tax credits''.
 
-
 (49 U.S.C. 10321, 11145; 5 U.S.C. 553)
 
 [47 FR 12350, Mar. 23, 1982]
 
 
-<R03>
-Liabilities and Shareholders' Equity--Table of Contents
-
-<R05>
+Liabilities and Shareholders' Equity
 
 
                            Current Liabilities
@@ -10008,6 +9865,9 @@ secured by collateral.
 subject to current settlement shall be included in account 757, 
 ``Payables to affiliated companies,'' and noncurrent obligations in 
 account 769, ``Accounts payable; Affiliated companies.''
+
+[[Page 118]]
+
     Note B: This account shall not include obligations due within one 
 year which are intended to be refinanced on a long-term basis. Long-term 
 refinancing of short-term obligations means: (1) Replacement with long-
@@ -10041,9 +9901,6 @@ other unpaid vouchered items.
     Note: The amount of checks and drafts, which have been transmitted 
 to payees and which remain unpaid at the close of the accounting period, 
 shall be credited to account 701, ``Cash.''
-
-[[Page 118]]
-
 754  Accounts payable; other.
     This account shall include outstanding drafts drawn by station 
 agents, conductors' refund and extra-fare checks not presented for 
@@ -10084,8 +9941,12 @@ account 757, ``Payables to affiliated companies.''
 757  Payables to affiliated companies.
     This account shall include amounts payable to affiliated companies 
 which are subject to current settlement such as deposits, demand or time 
-loans, notes payable, interest, dividends, miscellaneous bills, and 
-similar items.
+loans,
+
+[[Page 119]]
+
+notes payable, interest, dividends, miscellaneous bills, and similar 
+items.
     Note: Payables to affiliated companies, representing net credit 
 balances for items such as revenues, charges for equipment interchanged, 
 car repairs and claims, shall not be included in this account but in 
@@ -10107,7 +9968,6 @@ for injuries to persons, loss and damage, and similar items.
 Amounts payable (estimated if necessary) within one year pursuant to 
 agreements with labor organizations or otherwise for employees vacations 
 now earned.
-
 760  Federal income taxes accrued.
     This account shall be credited with the amount accrued for Federal 
 income taxes which has been concurrently charged to the appropriate 
@@ -10118,16 +9978,12 @@ carrier's unpaid liability for such taxes. Payments of taxes for which
 accruals have been made shall be debited to this account.
 761  State and other income taxes accrued.
     This account shall be credited with the amounts accrued for state 
-and other income taxes which have been
-
-[[Page 119]]
-
-concurrently charged to the appropriate income or other authorized 
-accounts. Credits to this account that are based upon estimates shall be 
-adjusted during the year so that this account may show, as nearly as 
-practicable, the approximate amount of the carrier's unpaid liability 
-for such taxes. Payments of taxes for which accruals have been made 
-shall be debited to this account.
+and other income taxes which have been concurrently charged to the 
+appropriate income or other authorized accounts. Credits to this account 
+that are based upon estimates shall be adjusted during the year so that 
+this account may show, as nearly as practicable, the approximate amount 
+of the carrier's unpaid liability for such taxes. Payments of taxes for 
+which accruals have been made shall be debited to this account.
 761.5  Other taxes accrued.
     (a) This account shall be credited with the accruals of all taxes, 
 other than income taxes, which have been concurrently charged to the 
@@ -10159,6 +10015,9 @@ fund debt obligations, and receivers' and trustees' securities which
 have matured (for which provision has been made for current settlement), 
 and other current liabilities not includible in the foregoing current 
 liability accounts.
+
+[[Page 120]]
+
 764  Equipment obligations and other long-term debt due within one year.
     This account shall include the total amount of bonds, equipment 
 obligations, and other long-term debt, including obligations maturing 
@@ -10190,9 +10049,6 @@ and actually outstanding, being those not held by the company, its
 agents or trustees, or subject to its control.
     (c) The amounts included herein shall be further divided so as to 
 show the amount of each class of funded debt, as follows:
-
-[[Page 120]]
-
     (1) Mortgage bonds. Bonds secured by lien on physical property and 
 not includible in the other subdivisions of this account.
     (2) Collateral trust bonds. Bonds and notes secured by a lien on 
@@ -10231,12 +10087,16 @@ year or less from date of issue shall be included in accounts 757,
 ``Payables to affiliated companies,'' 769, ``Accounts payable; 
 Affiliated companies,'' or 751, ``Loans and notes payable,'' as 
 appropriate, except that where an issue of securities maturing serially 
-over a period of years contains short-term obligations such obligations 
-may be included as funded debt. Mature funded debt shall be included in 
-account 763, ``Other current liabilities,'' if provision has been made 
-for current settlement. If no provision has been made for current 
-settlement, matured funded debt shall be included in account 768, ``Debt 
-in default,'' except that when the collection of matured funded debt of 
+over a period of years
+
+[[Page 121]]
+
+contains short-term obligations such obligations may be included as 
+funded debt. Mature funded debt shall be included in account 763, 
+``Other current liabilities,'' if provision has been made for current 
+settlement. If no provision has been made for current settlement, 
+matured funded debt shall be included in account 768, ``Debt in 
+default,'' except that when the collection of matured funded debt of 
 affiliated companies is not enforced by controlling companies, the 
 principal amount (to the extent held by a controlling company) shall be 
 included in account 769, ``Accounts payable; Affiliated companies.''
@@ -10264,9 +10124,6 @@ obligations and other long-term debt due within one year''); for
 explanation of long-term refinancing, see note B to account 751, ``Loans 
 and notes payable.''
     (b) The amounts included herein shall be divided as follows:
-
-[[Page 121]]
-
     (1) Principal amount of equipment securities including those 
 maturing serially, issued or assumed by the accounting company or by 
 receivers and trustees, which have been authorized by the Board under 
@@ -10308,7 +10165,11 @@ or deferred payment contracts shall be included in account 766,
     This account shall include amounts transferred from other accounts 
 representing matured funded securities or obligations, receivers' and 
 trustees' securities, equipment obligations and short-term notes, when 
-maturity dates of such obligations have not been extended
+maturity dates
+
+[[Page 122]]
+
+of such obligations have not been extended
     Note A: The principle amount of matured funded debt of affiliated 
 companies the collection of which is not enforced by the controlling 
 company shall (to the extent of the principal amount held by the 
@@ -10338,9 +10199,6 @@ time and collection is not enforced.
     (c) Open accounts not subject to current settlement.
     (d) Interest accrued on amounts included in this account when not 
 subject to current settlement.
-
-[[Page 124]]
-
     Note A: Accounts with affiliated companies which are subject to 
 current settlement shall be classed as current assets or current 
 liabilities, as appropriate.
@@ -10385,8 +10243,12 @@ each issue of such obligations. (See instruction 5-3.)
 be included in account 743, ``Other deferred debits.'' (See instruction 
 5-3.)
     Note B: When long-term obligations are refinanced the balance of 
-debt discount and expense pertaining to the old obligations shall be 
-transferred to account 551, ``Miscellaneous income charges.''
+debt discount and
+
+[[Page 123]]
+
+expense pertaining to the old obligations shall be transferred to 
+account 551, ``Miscellaneous income charges.''
 770.2  Unamortized premium on debt.
     This account shall include the total of all credit balances 
 representing the excess of the premium over the discount and expenses in 
@@ -10415,9 +10277,6 @@ be realized in subsequent years.
     (c) This account shall be charged when payments are made to retired 
 employees, or disbursements are made for the purposes for which 
 liability was provided.
-
-[[Page 125]]
-
     (d) Separate subaccounts shall be maintained to show the amount 
 provided for each liability and the nature of and amounts of debits and 
 credits to the subaccounts.
@@ -10453,6 +10312,9 @@ which have been or may be filed for actuarial occurrences.
     (d) Estimates of amounts payable within one year covering liability 
 for claims shall be transferred from this account to account 759, 
 ``Accrued accounts payable.''
+
+[[Page 124]]
+
 775  Other accrued liabilities.
     (a) This account shall be credited with the amounts accrued for 
 estimated liabilities or losses provided by charges to operating expense 
@@ -10484,15 +10346,11 @@ if not subject to current settlement, shall be included in account 769,
     This account shall include assessments for public improvements; 
 retained amounts due governmental agencies for construction work; 
 percentages due contractors to be paid upon completion of contracts; 
-deposits
-
-[[Page 124]]
-
-for construction of side tracks to be refunded on basis of an agreed 
-portion of the earnings from the traffic handled over the tracks and 
-similar liabilities not payable within one year: This account shall also 
-include other deferred and noncurrent liabilities not otherwise provided 
-for in general balance sheet accounts. Assessments for public 
+deposits for construction of side tracks to be refunded on basis of an 
+agreed portion of the earnings from the traffic handled over the tracks 
+and similar liabilities not payable within one year: This account shall 
+also include other deferred and noncurrent liabilities not otherwise 
+provided for in general balance sheet accounts. Assessments for public 
 improvements and amounts due governmental agencies and others for 
 payments to be made within one year, shall be included in account 763, 
 ``Other current liabilities,'' or other appropriate current liability 
@@ -10530,15 +10388,18 @@ depreciable and non-depreciable operating property.
 
 784  Other deferred credits.
     (a) This account shall include the amount of credit balances in 
-suspense accounts that cannot be disposed of until services are 
-performed or additional information is received, such as amounts 
-received from sale of mileage tickets, to be disposed of as mileage is 
-honored; amounts received from sales of excess baggage script, to be 
-disposed of as coupons are honored; interchangeable mileage credential 
-ticket redemption funds, amounts collected from the sale of damaged, 
-unclaimed, and over freight held pending final disposition, unadjusted 
-credit items not otherwise provided for; and similar items, the proper 
-disposition of which is uncertain.
+suspense accounts that cannot be disposed of
+
+[[Page 125]]
+
+until services are performed or additional information is received, such 
+as amounts received from sale of mileage tickets, to be disposed of as 
+mileage is honored; amounts received from sales of excess baggage 
+script, to be disposed of as coupons are honored; interchangeable 
+mileage credential ticket redemption funds, amounts collected from the 
+sale of damaged, unclaimed, and over freight held pending final 
+disposition, unadjusted credit items not otherwise provided for; and 
+similar items, the proper disposition of which is uncertain.
 786  Accumulated deferred income tax credits.
     (a) This account shall be credited with the noncurrent portions of 
 deferred income tax debits and credits when the balance is a net credit, 
@@ -10559,14 +10420,10 @@ of each year (2) the entries that affected the account balance, and (3)
 the current year's net credits or charges applicable to timing 
 differences and deferred investment tax credits.
     Note A: For definitions of income tax terminology see Definition 20. 
-Account 557, ``Provision for deferred taxes'', and account
-
-[[Page 125]]
-
-591, ``Provision for deferred taxes--Extraordinary item,'' shall 
-concurrently be charged (credited) with the net effect of material 
-timing effects. Other related deferred income tax balance sheet accounts 
-are:
+Account 557, ``Provision for deferred taxes'', and account 591, 
+``Provision for deferred taxes--Extraordinary item,'' shall concurrently 
+be charged (credited) with the net effect of material timing effects. 
+Other related deferred income tax balance sheet accounts are:
 Account 714, ``Deferred income tax debit.''
 Account 744, ``Accumulated deferred income tax debits.''
 Account 762, ``Deferred income tax credits.''
@@ -10605,9 +10462,12 @@ shares of no par stock, and the amount paid in or approved by the Board
 for no par stock without stated value (pledged or unpledged), held in 
 the company's treasury, by its agents or trustees, or otherwise subject 
 to its control, including shares nominally but never actually issued and 
-(2) par value of shares of par value stock, the stated value of shares 
-of no par stock, and the amount paid in or approved by the Board for 
-shares of no par stock without stated value, issued and actually 
+(2) par value of shares of par value stock, the stated value of
+
+[[Page 126]]
+
+shares of no par stock, and the amount paid in or approved by the Board 
+for shares of no par stock without stated value, issued and actually 
 outstanding, being the shares not held by the company, its agents, or 
 trustees, or subject to its control.
     (f) The amounts recorded shall be further divided so as to show the 
@@ -10639,15 +10499,12 @@ stock.''
     Note B: When no par stock without stated value is issued in exchange 
 for par stock, or no par stock with stated value, amounts included in 
 account 794, ``Premiums and assessments on capital stock,'' for the 
-retired stock, shall be transferred to this account,
-
-[[Page 126]]
-
-and any amounts icluded in the discount account for the retired stock 
-shall be charged to account 795, ``Other capital''; Provided, however, 
-That any excess over the amount of accumulated net gains applicable to 
-the subclass exchanged included in account 795 shall be charged to 
-account 616, ``Other debits to retained earnings.''
+retired stock, shall be transferred to this account, and any amounts 
+icluded in the discount account for the retired stock shall be charged 
+to account 795, ``Other capital''; Provided, however, That any excess 
+over the amount of accumulated net gains applicable to the subclass 
+exchanged included in account 795 shall be charged to account 616, 
+``Other debits to retained earnings.''
     Note C: An appropriate record shall be maintained with respect to 
 shares of capital stock showing the number of shares nominally issued, 
 nominally outstanding, actually issued and actually outstanding.
@@ -10680,6 +10537,9 @@ assessments on each class and series of stock.
     (c) When capital stock is retired and canceled, this account shall 
 be charged with the amount of assessments and premiums originally 
 recorded for the shares of stock retired and canceled.
+
+[[Page 127]]
+
 795  Other capital.
     (a) This account shall include all other capital not classified as 
 retained earnings. It shall include such items as the amount of consent 
@@ -10709,13 +10569,8 @@ government authorities, in accordance with the provisions of instruction
 1-15.
     (e) This account shall also be subdivided to show the cumulative 
 amounts representing the cost of depreciable and nondepreciable 
-operating
-
-[[Page 127]]
-
-property received by Amtrak or Conrail from the Federal Government. (See 
-instruction 1-15.)
-
+operating property received by Amtrak or Conrail from the Federal 
+Government. (See instruction 1-15.)
 
 (49 U.S.C. 304, 320)
 
@@ -10753,6 +10608,9 @@ canceled, nor properly includable in sinking or other funds.
 securities pledged and unpledged.
     (c) This account shall be shown on the balance sheet as a deduction 
 in arriving at stockholders' equity.
+
+[[Page 128]]
+
     Note: The accounting for the reacquisition and resale of capital 
 stock shall be in accordance with instruction 5-4, paragraphs (e) 
 through (g).
@@ -10825,10 +10683,6 @@ Tangible property:
 734.                               Accumulated amortization;
                                     Improvements on leased property--
                                     Defense projects.
-
-[[Page 128]]
-
- 
                                      Net improvements on leased
                                     property.
                                      Total carrier property.
@@ -10937,6 +10791,9 @@ Retained earnings:
 \1\ To be divided as to ``Total issued'' and ``Held by or for company.''
 
 
+[[Page 129]]
+
+
 (49 U.S.C. 12, 20, 304, 913 and 1012)
 
 [42 FR 35017, July 7, 1977, as amended at 42 FR 56611, Oct. 27, 1977; 43 
@@ -10944,9 +10801,7 @@ FR 30558, July 17, 1978]
 
 
 <R03>
-CONVERSION TABLES--Table of Contents
-
-<R05>
+CONVERSION TABLES
 
 
 Operating Expense Accounts.
@@ -10979,10 +10834,6 @@ Roadway maintenance.......................     202    11-11-10    21-11-10   39/
 Tunnels and subways.......................     206    11-11-11    21-11-11   39/40-11-11    41-11-11    61-11-11
                                                       11-12-11    21-12-11   39/40-12-11    41-12-11    61-12-11
                                                       11-11-48    21-11-48   39/40-11-48    41-12-48    61-12-48
-
-[[Page 129]]
-
- 
                                                       11-12-48    21-12-48   39/40-12-48    41-12-48    61-12-48
 Bridges, trestles and culverts............     208    11-11-12    21-11-12   39/40-11-12    41-11-12    61-11-12
                                                        1-12-12    21-12-12   39/40-12-12    41-12-12    61-12-12
@@ -11025,6 +10876,10 @@ Water stations............................     231    11-13-27    21-13-27   39/
 Fuel stations.............................     233    11-13-27    21-13-27   39/40-13-27    41-13-27    61-13-27
                                                       11-13-48    21-13-48   39/40-13-48    41-13-48    61-13-48
 Shops and enginehouses....................     235    11-13-24    21-13-24   39/40-13-24    41-13-24    61-13-24
+
+[[Page 130]]
+
+ 
                                                       11-13-25    21-13-25   39/40-13-25    41-13-25    61-13-25
                                                       11-13-26    21-13-26   39/40-13-26    41-13-26    61-13-26
                                                       11-13-48    21-13-48   39/40-13-48    41-13-48    61-13-48
@@ -11050,10 +10905,6 @@ Power plants..............................     253    11-13-21    21-13-21   39/
                                                       11-13-28    21-13-25   39/40-13-25    41-13-25    61-13-25
                                                       11-13-26    21-13-26   39/40-13-26    41-13-26    61-13-26
                                                       11-13-48    21-13-48   39/40-13-48    41-13-48    61-13-48
-
-[[Page 130]]
-
- 
 Power transmission systems................     257    11-13-21    21-13-21   39/40-13-21    41-13-21    61-13-21
                                                       11-13-24    21-13-24   39/40-13-24    41-13-24    61-13-24
                                                       11-13-25    21-13-25   39/40-13-25    41-13-25    61-13-25
@@ -11098,6 +10949,10 @@ Maintaining joint tracks, yards and other      278  ..........  ..........      
  facilities--Dr...........................
                                                     ..........  ..........      37-12-00  ..........  ..........
                                                     ..........  ..........      37-13-00  ..........  ..........
+
+[[Page 131]]
+
+ 
 Maintaining joint tracks, yards and other      279  ..........  ..........      38-11-00  ..........  ..........
  facilities--Cr...........................
                                                     ..........  ..........      38-12-00  ..........  ..........
@@ -11126,10 +10981,6 @@ Shop and power plant machinery;                305  ..........  ..........  ....
                                                     ..........  ..........  ............  ..........    62-21-00
                                                     ..........  ..........  ............  ..........    62-22-00
                                                     ..........  ..........  ............  ..........    62-23-00
-
-[[Page 131]]
-
- 
 Dismantling retired shop and power plant       306    11-13-39    21-13-39  ............    41-13-39    61-13-39
  machinery................................
                                                       11-21-39    21-21-39  ............    41-21-39    61-21-39
@@ -11173,6 +11024,10 @@ Insurance.................................     333  ..........  ..........  ....
 Stationery and printing...................     334  ..........  \2\21-21-x  ............  \2\41-21-x  ..........
                                                                          x                         x
                                                     ..........    21-22-xx  ............    41-22-xx  ..........
+
+[[Page 132]]
+
+ 
                                                     ..........    21-23-xx  ............    41-23-xx  ..........
 Employees health and welfare benefits.....     335    12-21-00  ..........  ............  ..........  ..........
                                                       12-22-00  ..........  ............  ..........  ..........
@@ -11202,10 +11057,6 @@ Traffic associations......................     354    11-61-93    21-61-93  ....
 Fast freight lines........................     355    11-61-99    21-61-99  ............    41-61-99    61-61-99
 Industrial and immigration bureaus........     356    11-61-90    21-61-90  ............    41-61-90    61-61-90
 Insurance.................................     357  ..........  ..........  ............  ..........    53-61-00
-
-[[Page 132]]
-
- 
 Stationery and printing...................     358  ..........  \2\21-61-x  ............  \2\ 41-61-  ..........
                                                                          x                        xx
 Employees health and welfare benefits.....     359    12-61-00  ..........  ............  ..........  ..........
@@ -11250,6 +11101,10 @@ Train power purchased.....................     396  ..........  ..........  ....
 Servicing train locomotives...............     400    11-31-69    21-31-69  ............    41-31-69    61-31-69
 Trainmen..................................     401    11-31-57  ..........  ............  ..........  ..........
 Train supplies and expenses...............     402  ..........    21-31-56  ............    41-31-56    61-31-56
+
+[[Page 133]]
+
+ 
                                                                   21-31-57  ............    41-31-57    61-31-57
                                                       11-31-62    21-31-62  ............    41-31-62    61-31-62
                                                       11-33-70    21-33-70  ............    41-33-70  ..........
@@ -11277,10 +11132,6 @@ Stationery and printing...................     410  ..........  \2\21-31-x  ....
                                                                          x                         x
                                                       21-32-xx  ..........      41-32-xx  ..........  ..........
                                                       21-34-xx  ..........      41-34-xx  ..........  ..........
-
-[[Page 133]]
-
- 
                                                       21-35-xx  ..........      41-35-xx  ..........  ..........
 Other expenses............................     411    11-31-99    21-31-99  ............    41-31-99    61-31-99
                                                       11-32-99    21-32-99  ............    41-32-99    61-32-99
@@ -11322,6 +11173,10 @@ Injuries to persons.......................     420    11-31-99  ..........  ....
                                                       11-61-92    21-61-92      41-61-92  ..........    61-35-99
                                                     ..........  ..........  ............  ..........    52-13-00
                                                     ..........  ..........  ............  ..........    52-32-00
+
+[[Page 134]]
+
+ 
                                                     ..........  ..........  ............  ..........    52-34-00
                                                     ..........  ..........  ............  ..........    52-35-00
                                                       11-35-78    21-35-78  ............    41-35-78    61-35-78
@@ -11352,10 +11207,6 @@ Operating joint miscellaneous facilities--     447  ..........  ..........      
 Operating joint miscellaneous facilities--     448  ..........  ..........      38-34-00  ..........  ..........
  Cr.......................................
                                                     ..........  ..........      38-35-00  ..........  ..........
-
-[[Page 134]]
-
- 
 Employees Health and Welfare Benefits.....     449    12-34-00  ..........  ............  ..........  ..........
  
 ----------------------------------------------------------------------------------------------------------------
@@ -11402,6 +11253,10 @@ General joint facilities--Cr..............     462  ..........  ..........      
 Various expenses..........................  ......    11-61-94    21-61-94  ............    41-61-94    61-61-94
 ----------------------------------------------------------------------------------------------------------------
 Footnotes:
+
+[[Page 135]]
+
+ 
 \1\ Freight account activity/subactivity numbers are shown except when old accounts are exclusively passenger
   expenses Passenger and common activity/subactivity numbers shall be used where appropriate.
 \2\ Account numbers with the last 2 digits ``xx'' indicates that the account is subdivided by applicable
@@ -11432,10 +11287,6 @@ Water transfers................    113    105  Water transfers.
 Incidental.....................    130    110  Incidental.
 Dining and buffet..............    131    103  Passenger-related.
 Hotel and restaurant...........    132    110  Incidental.
-
-[[Page 135]]
-
- 
 Station, train, and boat           133    110      Do.
  privileges.
 Storage; freight...............    135    110      Do.
@@ -11506,6 +11357,10 @@ Railway tax accruals...........    532    556  Income taxes on ordinary
                                                64-61-00 Property Taxes.
                                                12-xx-00 Fringe Benefits.
                                                65-61-00 Other Taxes.
+
+[[Page 136]]
+
+ 
 Provision for deferred taxes...    533    557  Provision for deferred
                                                 taxes.
 Expenses of miscellaneous          534    534  Expenses of property used
@@ -11534,10 +11389,6 @@ Taxes on property used in other    535
 Separately operated properties;    545    545  Separately operated
  loss.                                          properties; loss.
 Interest on funded debt........    546    546  Interest on funded debt.
-
-[[Page 136]]
-
- 
 Interest on unfunded debt......    547    547  Interest on unfunded
                                                 debt.
 Amortization of discount on        548    548  Amortization of discount
@@ -11622,6 +11473,10 @@ Dividends.....................     623     623  Dividends.
          Account title            No.     No.         Account title
 ------------------------------------------------------------------------
 Cash..........................     701     701  Cash.
+
+[[Page 137]]
+
+ 
 Temporary cash investments....     702     702  Temporary cash
                                                  investments.
 Special deposits..............     703     703  Special deposits.
@@ -11657,10 +11512,6 @@ Accrued accounts receivable...     709     709  Accrued accounts
                                                  receivable.
 Working fund advances.........     710     710  Working funds.
 Prepayments...................     711     711  Prepayments.
-
-[[Page 137]]
-
- 
 Material and supplies.........     712     712  Material and supplies.
 Other current assets..........     713     713  Other current assets.
 Deferred income tax charges...     714     714  Deferred income tax
@@ -11749,6 +11600,10 @@ Unmatured dividends declared..     758     756  Dividends payable.
                                                  companies.
 Accrued accounts payable......     759     759  Accrued accounts
                                                  payable.
+
+[[Page 138]]
+
+ 
 Federal income taxes accrued..     760     760  Federal income taxes
                                                  accrued.
 Other taxes accrued...........     761     711  Prepayments.
@@ -11780,10 +11635,6 @@ Interest in default...........     781     781  Interest in default.
 Other liabilities.............     782     782  Other liabilities.
 Unamortized premium on long-     790.2   770.2  Unamortized premium on
  term debt.                                      debt.
-
-[[Page 138]]
-
- 
 Other deferred credits........     784     784  Other deferred credits.
 Accrued liability; leased          785     772  Accrued liability;
  property.                                       leased property.
@@ -11841,6 +11692,9 @@ Transportation Board.
 93-236, 87 Stat. 985, as amended.
     4R Act means the Railroad Revitalization and Regulatory Reform Act 
 of 1976, Pub. L. 94-210, 90 Stat. 31.
+
+[[Page 139]]
+
     XX, when used in place of digits in a six-digit account number, 
 means that all accounts containing the remaining four-digits are 
 included. Example: 11-21-XX refers to all salary and wage accounts for 
@@ -11859,17 +11713,13 @@ information necessary to determine accurately the revenues attributable,
 avoidable costs, and service units of light-density lines scheduled for 
 abandonment. This accurate information is intended to facilitate the 
 determination of the revenues and avoidable costs in abandonment 
-proceedings
-
-[[Page 139]]
-
-and in potential offers of subsidy. This information is intended to be 
-compatible with the Regional Subsidy Standards (49 CFR Part 1155), for 
-those lines which were not conveyed to ConRail under the final system 
-plan and with the National Subsidy Standards (49 CFR Part 1152, Subpart 
-D), for all other lines. The purpose of the Branch Line Accounting 
-System regulations is to specify an accounting system for the collection 
-and publication of this information.
+proceedings and in potential offers of subsidy. This information is 
+intended to be compatible with the Regional Subsidy Standards (49 CFR 
+Part 1155), for those lines which were not conveyed to ConRail under the 
+final system plan and with the National Subsidy Standards (49 CFR Part 
+1152, Subpart D), for all other lines. The purpose of the Branch Line 
+Accounting System regulations is to specify an accounting system for the 
+collection and publication of this information.
     (b) For further information regarding the Branch Line Accounting 
 System, persons may contact the RSPO's Cost Evaluation Branch: Cost 
 Evaluation Branch, Rail Services Planning Office, 1900 L Street NW., 
@@ -11910,8 +11760,11 @@ Standards), shall be applied.
     (b) Data to be collected. The data collected shall include the items 
 of revenue, expense, and service units which are specified in Parts 1152 
 and 1155, Subchapter B (National and Regional Subsidy Standards), as 
-described in the account texts listed in section 950. The format for 
-presentation of these data is specified in section 940.
+described in the account texts listed in section 950. The
+
+[[Page 140]]
+
+format for presentation of these data is specified in section 940.
 
 [43 FR 1733, Jan. 11, 1978, as amended at 47 FR 49596, Nov. 1, 1982]
 930  Publication of data.
@@ -11929,13 +11782,10 @@ delineation of mileposts, and location of agency and terminal stations.
 other documents reflecting the revenues, cost, and service unit data of 
 each branch line for which the railroad must maintain data shall be made 
 available for inspection and examination by the Board and, for lines 
-situated within its State, by the designated State agency
-
-[[Page 140]]
-
-at a time and place mutually agreeable to the parties. The railroad 
-shall also reproduce such records for the designated State agency, 
-provided the agency pays the reasonable cost thereof.
+situated within its State, by the designated State agency at a time and 
+place mutually agreeable to the parties. The railroad shall also 
+reproduce such records for the designated State agency, provided the 
+agency pays the reasonable cost thereof.
     (d) Waivers and modifications. The Office may, with respect to 
 individual requests, upon good cause shown, waive or modify any 
 requirement of this section not required by law.
@@ -11999,6 +11849,10 @@ presented in section 950.
   017  Other Track Material--Switching................         N/A  ...............           N/A           N/A
   018  Ballast--Running...............................         N/A  ...............           N/A           N/A
   019  Ballast--Switching.............................         N/A  ...............           N/A           N/A
+
+[[Page 141]]
+
+ 
   020  Track Laying and Surfacing--Running............  ..........  ...............  .............  ............
   021  Track Laying and Surfacing--Switching..........  ..........  ...............  .............  ............
   022  Road Property Damaged--Running.................  ..........  ...............  .............  ............
@@ -12020,10 +11874,6 @@ presented in section 950.
   104  Ore Terminals..................................  ..........  ...............  .............  ............
   105  Other Marine Terminals.........................  ..........  ...............  .............  ............
   106  TOFC/COFC--Terminals...........................  ..........  ...............  .............  ............
-
-[[Page 141]]
-
- 
   107  Motor Vehicle Loading and Distribution           ..........  ...............  .............  ............
    Facilities.........................................
   108  Facilities for Other Specialized Service         ..........  ...............  .............  ............
@@ -12073,6 +11923,10 @@ presented in section 950.
   151      Total Way and Structures...................  ..........  ...............  .............  ............
   Equipment: Locomotives:
   201  Administration.................................  ..........  ...............  .............  ............
+
+[[Page 142]]
+
+ 
   202  Repair and Maintenance.........................  ..........  ...............  .............  ............
   203  Machinery Repair...............................  ..........  ...............  .............  ............
   204  Equipment Damaged..............................  ..........  ...............  .............  ............
@@ -12093,10 +11947,6 @@ presented in section 950.
   219      Total Locomotives..........................  ..........  ...............  .............  ............
   Freight cars:
   220  Administration.................................  ..........  ...............  .............  ............
-
-[[Page 142]]
-
- 
   221  Repair and Maintenance.........................  ..........  ...............  .............  ............
   222  Machinery Repair...............................  ..........  ...............  .............  ............
   223  Equipment Damaged..............................  ..........  ...............  .............  ............
@@ -12145,6 +11995,10 @@ presented in section 950.
   Transportation: Train operations:
   401  Administration.................................  ..........  ...............  .............  ............
   402  Engine Crews...................................  ..........  ...............  .............  ............
+
+[[Page 143]]
+
+ 
   403  Train Crews....................................  ..........  ...............  .............  ............
   404  Dispatching Trains.............................  ..........  ...............  .............  ............
   405  Operating Signals and Interlockers.............  ..........  ...............  .............  ............
@@ -12166,10 +12020,6 @@ presented in section 950.
   Yard Operations:
   420  Administration.................................  ..........  ...............  .............  ............
   421  Switch Crews...................................  ..........  ...............  .............  ............
-
-[[Page 143]]
-
- 
   422  Controlling Operations.........................  ..........  ...............  .............  ............
   423  Yard and Terminal Clerical.....................  ..........  ...............  .............  ............
   424  Operating Switches, Signals Retarders and Humps  ..........  ...............  .............  ............
@@ -12219,6 +12069,10 @@ presented in section 950.
   528      Total transportation.......................  ..........  ...............  .............  ............
   General and Administrative:
   601  Officers--General Administration...............  ..........  ...............  .............  ............
+
+[[Page 144]]
+
+ 
   602  Accounting, Auditing and Finance...............  ..........  ...............  .............  ............
   603  Management Services and Data Processing........  ..........  ...............  .............  ............
   604  Marketing......................................  ..........  ...............  .............  ............
@@ -12240,9 +12094,6 @@ presented in section 950.
   619      Total General and Administrative...........  ..........  ...............  .............  ............
   620      Total Carrier Operating Expenses...........  ..........  ...............  .............  ............
 ----------------------------------------------------------------------------------------------------------------
-
-
-[[Page 144]]
 
 
 ------------------------------------------------------------------------
@@ -12290,6 +12141,9 @@ presented in section 950.
 ------------------------------------------------------------------------
 
 
+[[Page 145]]
+
+
                             (C) Service Units
 ------------------------------------------------------------------------
                                                   Direct on-   Overhead
@@ -12328,10 +12182,6 @@ presented in section 950.
   10  Refrigerator--Nonmechanical...............  ..........  ..........
   11  Flat--TOFC/COFC...........................  ..........  ..........
   12  Flat--Multi-level.........................  ..........  ..........
-
-[[Page 145]]
-
- 
   13  Flat--General Service.....................  ..........  ..........
   14  Flat--Other...............................  ..........  ..........
   15  All other cars............................  ..........  ..........
@@ -12387,6 +12237,10 @@ presented in section 950.
   08  Hopper--covered...............  ..........  ..........  ..........
   09  Stock.........................  ..........  ..........  ..........
   10  Flat--General service.........  ..........  ..........  ..........
+
+[[Page 146]]
+
+ 
   11  Flat--Special service.........  ..........  ..........  ..........
   12  Flat--TOFC....................  ..........  ..........  ..........
   13  Autorack......................  ..........  ..........  ..........
@@ -12416,11 +12270,8 @@ section 940 of these regulations.
 include revenue from the transportation of freight and from transit, 
 stop, and recognizing privileges, upon the basis of lawful tariff rates.
     (2) This account shall include collections in excess of tariff 
-charges, except
-
-[[Page 146]]
-
-where such amounts are segregated and held subject to refund.
+charges, except where such amounts are segregated and held subject to 
+refund.
     (3) Proceeds derived from the sale of unclaimed and refused freight 
 which has been transported in accordance with the contract of shipment 
 shall be credited to this account in cases where such items can be 
@@ -12473,6 +12324,9 @@ of erroneous rates, weights, classifications or computations.
 routing and billing.
     (i) The carrier's proportion of uncollected revenue on freight lost 
 or destroyed in transit.
+
+[[Page 147]]
+
     (j) The carrier's proportion of uncollected tariff charges on 
 damaged shipments for which charges neither shipper nor consignee is 
 liable.
@@ -12508,11 +12362,8 @@ freight on the basis of freight tariff rates, further separated between
 payments for switching services when performed in connection with line-
 haul transportation of freight on the basis of switching tariffs and 
 allowances out of freight rates, including the switching of empty cars 
-in connection with a revenue movement, and (c) payments on
-
-[[Page 147]]
-
-basis of tariff rates for loading and unloading livestock.
+in connection with a revenue movement, and (c) payments on basis of 
+tariff rates for loading and unloading livestock.
     104 Switching. (1) This account shall include the revenue from 
 switching service upon the basis of lawful tariff rates. To this account 
 shall be credited the carrier's revenue upon the basis of tariff rates, 
@@ -12553,6 +12404,9 @@ stops in transit upon the basis of lawful tariffs for demurrage. This
 account shall also include the revenue from the detention of trailers 
 and containers used in TOFC/COFC service, incident to loading and 
 unloading, upon the basis of tariff rates.
+
+[[Page 148]]
+
     Note: This account shall be maintained so as to reflect separately 
 (1) revenue from detention of cars, and (2) revenue from detention of 
 trailers and containers used in TOFC/COFC service.
@@ -12582,11 +12436,7 @@ company against a debtor company for the latter's proportion of the
 expense of maintenance and operation of joint facilities, which includes 
 also a credit covering a proportion of the revenue to be paid over, 
 shall show the distribution of the credit for such proportion of the 
-revenue separately
-
-[[Page 148]]
-
-from the distribution of the expense of operation.
+revenue separately from the distribution of the expense of operation.
     Note B: No credits shall be made to this account representing 
 amounts creditable by the operating company to primary accounts 101-103, 
 105, and 110.
@@ -12633,8 +12483,11 @@ account shall be charged to account 553--``Taxes on property used in
 other than carrier operations.''
     Note C: The rent from property carried in balance-sheet account 
 737--``Property used in other than carrier operations,'' shall not be 
-included in this account, but in account 506--``Revenues from property 
-used in other than carrier operations.''
+included in this account, but in account
+
+[[Page 149]]
+
+506--``Revenues from property used in other than carrier operations.''
     Note D: Rent and other income from real estate acquired for new 
 lines or for additions and betterments shall be credited to the 
 appropriate road and equipment accounts until the completion or coming 
@@ -12666,12 +12519,8 @@ Control....................................................     10-00-00
  
 
     This account may be used as a control account for all accounts in 
-the PERSONNEL
-
-[[Page 149]]
-
-Series: Salaries and Wages; Fringe Benefits Not Included in 
-Compensation.
+the PERSONNEL Series: Salaries and Wages; Fringe Benefits Not Included 
+in Compensation.
     Salaries and Wages--Control. This control account includes the 
 compensation payable to employees for services performed. It includes 
 amounts payable in connection with profit sharing and stock option plans 
@@ -12739,6 +12588,10 @@ payable to all officers and technical and clerical employees associated
 with the Way and Structures Activity. This account shall be subdivided 
 by the following functions:
 
+[[Page 150]]
+
+
+
                        Administration
  
 Track......................................................     11-13-02
@@ -12801,10 +12654,6 @@ Administration--general....................................     11-22-01
                    Repair and maintenance
  
 Dismantling retired property...............................     11-22-39
-
-[[Page 150]]
-
- 
 Shop machinery.............................................     11-22-40
 Freight cars...............................................     11-22-42
 Road property and equipment damaged........................     11-22-48
@@ -12884,7 +12733,10 @@ Salaries and wages--transportation--train and yard common:      11-33-XX
  
 
     This account includes the compensation payable to all officers, 
-technical and clerical employees, engine and train crews, and other 
+technical and clerical employees, engine and train crews, and other
+
+[[Page 151]]
+
 operational employees performing functions incurred on behalf of both 
 train and yard operations. This account shall be subdivided by the 
 following functions:
@@ -12938,20 +12790,16 @@ Salaries and wages--general and administrative: Freight....     11-61-XX
  
 
     This account includes the compensation payable to all employees who 
-are associated with overall administration or other general
-
-[[Page 151]]
-
-support for carrier operations. Overall administration includes 
-executive, legal, financial, treasury, accounting, budgeting, taxation, 
-corporate planning, costing, marketing, advertising, traffic, corporate 
-secretary, public relations, real estate, insurance administration, 
-personnel administration, pension plan administration, general 
-purchasing, labor relations, internal auditing, industrial engineering, 
-and regulatory reporting. For further clarification refer to the 
-definition of the General and Administrative Activity contained in Part 
-1201, Subpart A. This account shall be subdivided by the following 
-functions:
+are associated with overall administration or other general support for 
+carrier operations. Overall administration includes executive, legal, 
+financial, treasury, accounting, budgeting, taxation, corporate 
+planning, costing, marketing, advertising, traffic, corporate secretary, 
+public relations, real estate, insurance administration, personnel 
+administration, pension plan administration, general purchasing, labor 
+relations, internal auditing, industrial engineering, and regulatory 
+reporting. For further clarification refer to the definition of the 
+General and Administrative Activity contained in Part 1201, Subpart A. 
+This account shall be subdivided by the following functions:
 
 Administration--general....................................     11-61-01
  
@@ -13018,10 +12866,13 @@ Fringe benefits not included in compensation--equipment--       12-21-00
  
 
     This account includes amounts payable to others, or other costs 
-charged to expense, for employee benefits which are not considered part 
-of direct compensation for employees who are associated with the repair 
-and maintenance of locomotives, whether owned by the carrier or by 
-others.
+charged to expense, for employee benefits which are not considered
+
+[[Page 152]]
+
+part of direct compensation for employees who are associated with the 
+repair and maintenance of locomotives, whether owned by the carrier or 
+by others.
 
 Fringe benefits not included in compensation--equipment--       12-22-00
  freight cars: Freight.....................................
@@ -13068,13 +12919,9 @@ Fringe benefits not included in compensation--                  12-33-00
  
 
     This account includes the amounts payable to others, or other costs 
-charged to expense,
-
-[[Page 152]]
-
-for employee benefits which are not considered part of direct 
-compensation for employees performing functions incurred on behalf of 
-both train and yard operations.
+charged to expense, for employee benefits which are not considered part 
+of direct compensation for employees performing functions incurred on 
+behalf of both train and yard operations.
 
 Fringe benefits not included in compensation--                  12-34-00
  transportation--specialized services: Freight.............
@@ -13144,8 +12991,12 @@ carrier's roadway and track on the line of the road and outside of
 classification yards. This account includes charges to expense for all 
 materials, small tools, supplies, fuels, lubricants, purchased standard 
 stationery and forms, freight-in on materials, and supplies, and similar 
-items. Its components shall be distributed to the following functions in 
-accordance with instruction 1-8 of Part 1201, Subpart A:
+items. Its components shall be
+
+[[Page 153]]
+
+distributed to the following functions in accordance with instruction 1-
+8 of Part 1201, Subpart A:
 
                    Repair and maintenance
  
@@ -13194,9 +13045,6 @@ Other--other...............................................     21-12-99
 Materials, tools, supplies, fuels, lubricants--way and          21-13-XX
  structures--other: Freight................................
  
-
-
-[[Page 153]]
 
     This account includes the cost of items installed or commodities 
 consumed which are charged to expense, where such items are consumed in 
@@ -13288,6 +13136,9 @@ Materials, tools, supplies, fuels, lubricants--equipment--      21-23-XX
  other equipment: Freight..................................
  
 
+
+[[Page 154]]
+
     This account includes the cost of items installed or commodities 
 consumed which are charged to expense, where such items are consumed in 
 the performance or support of the repair and maintenance of equipment 
@@ -13331,10 +13182,6 @@ Administration--general....................................     21-31-01
  
 Engine crews...............................................     21-31-56
 Train crews................................................     21-31-57
-
-[[Page 154]]
-
- 
 Dispatching trains.........................................     21-31-58
 Operating switches, signals, interlockers, retarders, humps     21-31-59
 Operating drawbridges......................................     21-31-60
@@ -13419,8 +13266,12 @@ consumed which are charged to expense, where such items are consumed in
 association with providing direct administrative support for the 
 Transportation Activity. For further clarification refer to the 
 definition of the Administrative Support Operations Subactivity 
-contained in Part 1201, Subpart A. This account shall be subdivided by 
-the following functions.
+contained in
+
+[[Page 155]]
+
+Part 1201, Subpart A. This account shall be subdivided by the following 
+functions.
 
 Administration--general....................................     21-35-01
  
@@ -13475,10 +13326,6 @@ Joint facility--Credit.....................................  ...........
 Repairs billed by others--Debit............................  ...........
 Repairs billed to others--Credit...........................  ...........
 Other purchased services...................................  ...........
-
-[[Page 155]]
-
- 
 Lease rentals--debit--control..............................     31-00-00
  
 
@@ -13547,6 +13394,10 @@ Joint facility rents--debit--equipment--locomotives:            33-21-00
  Freight...................................................
 Joint facility rents--debit--equiment--freight cars:            33-22-00
  Freight...................................................
+
+[[Page 156]]
+
+ 
 Joint facility rents--debit--equipment--other equipment:        33-23-00
  Freight...................................................
 Joint facility rents--credit--control......................     34-00-00
@@ -13591,10 +13442,6 @@ Subpart A:
 Other rents--debit--way and structures--running: Freight:       35-11-00
  Freight...................................................
 Other rents--debit--way and structures--switching: Freight.     35-12-00
-
-[[Page 156]]
-
- 
 Other rents--debit--way and structures--other: Freight.....     35-13-00
 Other rents--debit--equipment--locomotives: Freight........     35-21-00
 Other rents--debit--equipment--freight cars: Freight.......     35-22-00
@@ -13665,8 +13512,11 @@ Repairs billed by others--debit--control...................     39-00-00
     This account includes amounts payable by the railroad to others for 
 repair and maintenance of the reporting railroad's property and 
 equipment. The components of this account shall be distributed to the 
-following accounts in accordance with instruction 1-8 of Part 1201, 
-Subpart A:
+following
+
+[[Page 157]]
+
+accounts in accordance with instruction 1-8 of Part 1201, Subpart A:
 
 Repairs billed by others--debit--way and structures--           39-11-XX
  running: Freight..........................................
@@ -13717,10 +13567,6 @@ and track. This account shall be subdivided by the following functions:
  
 Communication systems......................................     39-13-20
 Electric power systems.....................................     39-13-21
-
-[[Page 157]]
-
- 
 Station and office buildings...............................     39-13-23
 Shop buildings--locomotives................................     39-13-24
 Shop buildings--freight cars...............................     39-13-25
@@ -13817,6 +13663,10 @@ repair and maintenance of other railroads' roadway and track within
 classification yards and stations. This account shall be subdivided by 
 the following functions:
 
+[[Page 158]]
+
+
+
                    Repair and maintenance
  
 Roadway....................................................     40-12-10
@@ -13870,9 +13720,6 @@ Road property and equipment damaged........................     40-21-48
 Repairs billed to others--credit--equipment--freight cars:      40-22-XX
  Freight...................................................
  
-
-
-[[Page 158]]
 
     This account includes amounts payable by others to the railroad for 
 repair and maintenance of other railroads' freight cars. This account 
@@ -13969,6 +13816,10 @@ Other......................................................     41-13-06
                    Repair and maintenance
  
 Communication systems......................................     41-13-20
+
+[[Page 159]]
+
+ 
 Electric power systems.....................................     41-13-21
 Station and office buildings...............................     41-13-23
 Shop buildings--locomotives................................     41-13-24
@@ -14020,10 +13871,6 @@ Machinery..................................................     41-22-40
 Freight cars...............................................     41-22-42
 Road property and equipment damaged........................     41-22-48
 Other--other...............................................     41-22-99
-
-[[Page 159]]
-
- 
 Other purchased services--equipment--other equipment:           41-23-XX
  Freight...................................................
  
@@ -14122,6 +13969,9 @@ Other purchased services--transportation--administrative        41-35-XX
  support: freight..........................................
  
 
+
+[[Page 160]]
+
     This account includes amounts charged or credited to operating 
 expenses for other purchased services specified in control account 41-
 00-00. This account shall be subdivided by the following functions:
@@ -14175,11 +14025,7 @@ damage of freight or other goods carried in revenue service. This
 account excludes amounts payable to employees or other parties for 
 injuries sustained or loss of life; for damage to real property of 
 others or personal property not carried in revenue service; all payments 
-for
-
-[[Page 160]]
-
-other damages of any kind; and related insurance premiums.
+for other damages of any kind; and related insurance premiums.
 
 Loss and damage claims--transportation--train: freight.....     51-31-00
  
@@ -14257,6 +14103,10 @@ Insurance--way and structures--other: freight..............     53-13-00
 Insurance--equipment--locomotives: freight.................     53-21-00
 Insurance--equipment--freight cars: freight................     53-22-00
 Insurance--equipment--other equipment: freight.............     53-23-00
+
+[[Page 161]]
+
+ 
 Insurance--transportation--train: freight..................     53-31-00
 Insurance--transportation--yard: freight...................     53-32-00
 Insurance--transportation--specialized services: freight...     53-34-00
@@ -14268,7 +14118,6 @@ Insurance--general and administrative: freight.............     53-61-00
                                  General
 Control....................................................     60-00-00
  
-
 
     This account may be used as a control account for all accounts in 
 the GENERAL series: other expenses; depreciation; uncollectible 
@@ -14306,9 +14155,6 @@ Road property and equipment damaged........................     61-11-48
 Other--other...............................................     61-11-99
 Other expenses--way and structures--switching: freight.....     61-12-XX
  
-
-
-[[Page 161]]
 
     This account includes amount charged to operating expenses for items 
 not otherwise provided for in the other natural expense accounts, 
@@ -14397,6 +14243,10 @@ losses, associated with the repair and maintenance of freight cars,
 whether owned by the carrier or by others. This account shall be 
 subdivided by the following functions:
 
+[[Page 162]]
+
+
+
 Administration--general....................................     61-22-01
  
                    Repair and maintenance
@@ -14447,10 +14297,6 @@ Engine crews...............................................     61-31-56
 Train crews................................................     61-31-57
 Dispatching trains.........................................     61-31-58
 Operating switches, signals, interlockers, retarders, humps     61-31-59
-
-[[Page 162]]
-
- 
 Operating drawbridges......................................     61-31-60
 Highway crossing protection................................     61-31-61
 Train inspection and lubrication...........................     61-31-62
@@ -14541,6 +14387,10 @@ Management services and data processing....................     61-61-87
 Marketing..................................................     61-61-88
 Sales......................................................     61-61-89
 Industrial development.....................................     61-61-90
+
+[[Page 163]]
+
+ 
 Personnel labor relations..................................     61-61-91
 Legal and secretarial......................................     61-61-92
 Public relations and advertising...........................     61-61-93
@@ -14580,11 +14430,8 @@ Property taxes--control....................................     64-00-00
  
 
     This account includes only taxes based on the value of real estate 
-and personal property used in railroad operations. The total of
-
-[[Page 163]]
-
-this account shall be charged to the following account:
+and personal property used in railroad operations. The total of this 
+account shall be charged to the following account:
 
 Property taxes--general and administrative: Freight........     64-61-00
 Other taxes--control.......................................     65-00-00
@@ -14668,8 +14515,12 @@ of (Title of officer in charge of accounts)_____________________________
 
 certify that during the calendar year 19---- the branch line accounting 
 system data were collected and maintained for each line that met the 
-criteria set forth in 49 CFR 1201, Subpart B, section 920(a), Lines For 
-Which Data Collection Is Required, (Docket No. 36366).
+criteria set forth in 49 CFR 1201,
+
+[[Page 164]]
+
+Subpart B, section 920(a), Lines For Which Data Collection Is Required, 
+(Docket No. 36366).
 
                 Signature_______________________________________________
 
@@ -14690,17 +14541,11 @@ and
 
 [44 FR 9730, Feb. 14, 1979, as amended at 47 FR 49596, Nov. 1, 1982]
 
+                      PARTS 1202--1219  [RESERVED]
+
 
 <R03>
-PARTS 1202--1219  [RESERVED]
-
-<R05>
-
-
-
-PARTS 1220-1239--PRESERVATION OF RECORDS--Table of Contents
-
-<R05>
+PARTS 1220-1239--PRESERVATION OF RECORDS
 
 
     Note: Section 20(7)(b) of the Interstate Commerce Act includes the 
@@ -14711,12 +14556,8 @@ report required under this section to be filed, or in the accounts of
 any book of accounts or in any records or memoranda kept by a carrier, 
 or required under this section to be kept by a lessor or other person, 
 or who shall knowingly and willfully destroy, mutilate, alter, or by any 
-other
-
-[[Page 164]]
-
-means or device falsify the record of any such accounts, records, or 
-memoranda, * * * shall be deemed guilty of a misdemeanor and shall be 
+other means or device falsify the record of any such accounts, records, 
+or memoranda, * * * shall be deemed guilty of a misdemeanor and shall be 
 subject, upon conviction in any court of the United States of competent 
 jurisdiction to a fine of not more than five thousand dollars or 
 imprisonment for not more than two years, or both such fine and 
@@ -14783,8 +14624,12 @@ shall be the obligation of the subject company to maintain records that
 adequately support financial and operational data required by the Board. 
 The company may request a ruling from the Board on the retention of any 
 record. The provisions of this part shall not be construed as excusing 
-compliance with the lawful requirements of any other governmental body 
-prescribing longer retention periods for any category of records.
+compliance with the lawful requirements of
+
+[[Page 165]]
+
+any other governmental body prescribing longer retention periods for any 
+category of records.
 
 
 <R05>
@@ -14815,12 +14660,8 @@ be indexed and retained in such a manner as will render them readily
 accessible. The company shall have facilities available to locate, 
 identify and produce legible paper copies of the records.
     (c) Any significant characteristic, feature or other attribute that 
-a particular medium will not preserve shall
-
-[[Page 165]]
-
-be clearly indicated at the beginning of the applicable records as 
-appropriate.
+a particular medium will not preserve shall be clearly indicated at the 
+beginning of the applicable records as appropriate.
     (d) The printed side of forms, such as instructions, need not be 
 preserved for each record as long as the printed matter is common to all 
 such forms and an identified specimen of the form is maintained on the 
@@ -14872,6 +14713,10 @@ be retained as determined by the management of each company.
 1. Incorporation and reorganization:
     (a) Charter or certificate of incorporation   Note A.
      and amendments.
+
+[[Page 166]]
+
+ 
     (b) Legal documents related to mergers,           Do.
      consolidations, reorganization,
      receiverships and similar actions which
@@ -14917,10 +14762,6 @@ be retained as determined by the management of each company.
     (b) Reports of examinations and audits            Do.
      conducted by internal auditors, time
      inspectors, and others.
-
-[[Page 166]]
-
- 
 7. Other: (See Note A)
                                B. Treasury
 1. Capital stock records:
@@ -14981,6 +14822,10 @@ be retained as determined by the management of each company.
      status of receivables.
 6. Records of accounting codes and instructions.  3 years after
                                                    discontinuance.
+
+[[Page 167]]
+
+ 
 7. Other: (Note A)
                         D. Property and Equipment
 Note.-- All accounts, records, and memoranda necessary for making a
@@ -15021,10 +14866,6 @@ Note.-- All accounts, records, and memoranda necessary for making a
      and other records which record personal       settlement.
      injury, fire and other claims against the
      company, together with all supporting data.
-
-[[Page 167]]
-
- 
     (b) Claims registers, card or book indexes,       Do.
      and other records which record overcharges,
      damages, and other claims filed by the
@@ -15089,6 +14930,10 @@ Note.-- All accounts, records, and memoranda necessary for making a
     (b) Remittance records, bank deposit slips        Do.
      and supporting papers.
     (c) Balance sheets and supporting papers....      Do.
+
+[[Page 168]]
+
+ 
     (d) Statements of corrections in agents'          Do.
      accounts.
     (e) Other records and reports pertaining to       Do.
@@ -15133,10 +14978,6 @@ Note.-- All accounts, records, and memoranda necessary for making a
  freight and steamship engagements.
 6. Records, reports, orders and tickets           3 years.
  pertaining to weighting of freight.
-
-[[Page 168]]
-
- 
 7. Records of loading and unloading of            2 years.
  transportation equipment.
 8. Records pertaining to the diversion or             Do.
@@ -15202,12 +15043,11 @@ Note A: Records referenced to this note shall be maintained as
 
 [50 FR 10775, Mar. 18, 1985, as amended at 51 FR 22083, June 18, 1986]
 
+[[Page 169]]
+
 
 <R03>
-PARTS 1240-1259--REPORTS--Table of Contents
-
-<R05>
-
+PARTS 1240-1259--REPORTS
 
     Note: The report forms prescribed by parts 1241-1259 are available 
 upon request from the Office of the Secretary, Surface Transportation 
@@ -15252,13 +15092,9 @@ Sec. 1241.2  Reporting companies defined.
 
     (a) Every common carrier by rail which is required by the act to 
 regulate commerce to file with the Board any tariff or schedule of 
-rates, fares, or
-
-[[Page 169]]
-
-charges, or any concurrence in such tariff or schedule, shall be 
-required to keep operating accounts and to file an annual operating 
-report unless specifically excused by the Board.
+rates, fares, or charges, or any concurrence in such tariff or schedule, 
+shall be required to keep operating accounts and to file an annual 
+operating report unless specifically excused by the Board.
     (b) Every railway corporation owning but not operating a railway 
 used in interstate or foreign commerce shall be required to file with 
 the Board an annual nonoperating report unless relieved therefrom under 
@@ -15308,6 +15144,8 @@ before March 31.
 
 [48 FR 2544, Jan. 20, 1983]
 
+[[Page 170]]
+
 
 <R03>
 PART 1242--SEPARATION OF COMMON OPERATING EXPENSES BETWEEN FREIGHT SERVICE AND PASSENGER SERVICE FOR RAILROADS\1\ --Table of Contents
@@ -15343,8 +15181,7 @@ Sec.
 1242.13  Administration--communications (account XX-19-05).
 1242.14  Administration--other (account XX-19-06).
 1242.15  Roadway, tunnels and subways, bridges and culverts, ties, 
-          rails, other track material, ballast, track laying and
- 
+          rails, other track material, ballast, track laying and 
           surfacing, and road property damaged (accounts XX-17-10 to XX-
           18-12, inclusive; 21-17-13 to 21-18-16, inclusive, XX-17-17, 
           XX-18-17, XX-17-48, and XX- 18-48).
@@ -15352,9 +15189,6 @@ Sec.
 1242.17  Signals and interlockers (accounts XX-17-19 and XX-18-19).
 1242.18  Communication systems (account XX-19-20).
 1242.19  Electric power systems (account XX-19-21).
-
-[[Page 170]]
-
 1242.20  Highway grade crossings (accounts XX-17-22 and XX-18-22).
 1242.21  Station and office buildings (account XX-19-23).
 1242.22  Shop buildings--locomotives (account XX-19-24).
@@ -15413,6 +15247,8 @@ Sec.
           42, XX-22-40, XX-22-48, XX-22-39, 12-22-00, 50-22-00, 31-22-00 
           to 38-22-00 inclusive, 62-22-00, 40-22-98, and XX-22-99).
 
+[[Page 171]]
+
                              other equipment
 
 1242.43  Administration (account XX-27-01).
@@ -15453,9 +15289,6 @@ Sec.
           51-00).
 1242.62  Clearing wrecks (account XX-51-63).
 1242.63  Fringe benefits (account 12-51-00).
-
-[[Page 171]]
-
 1242.64  Joint facility--debit and credit (accounts 37-51-00 and 38-51-
           00).
 1242.65  Other and casualties and insurance (accounts XX-51-99 and 50-
@@ -15523,6 +15356,9 @@ Sec.
           (accounts XX-63-88, XX-63-89, and XX-63-93).
 1242.85  Fringe benefits (account 12-63-00).
 1242.86  Industrial development (account XX-61-90).
+
+[[Page 172]]
+
 1242.87  Joint facility--debit and credit and casualties and insurance 
           (accounts 37-63-00, 38-63-00, and 50-63-00).
 
@@ -15561,8 +15397,6 @@ Sec. 1242.01  Expenses solely related to freight service and passenger service.
 passenger service, including allied services, the expenses, taxes, and 
 purchased services incurred solely for the benefit of either freight or 
 passenger service.
-
-[[Page 172]]
 
 
 <R05>
@@ -15622,6 +15456,10 @@ represented by ``XX'' include:
     41--Other purchased services;
 61--General.
 
+
+[[Page 173]]
+
+
     (d) The ``30'' natural expense designation indicates a summation of 
 specific purchased service accounts that are reported in total rather 
 than individually. The specific accounts under the way and structures 
@@ -15647,13 +15485,10 @@ item, ``Casualties and Insurance,'' (50-XX-XX).
     (h) The number ``98'' in the function account group (last two 
 digits) is used in the separation rules to designate the summation of a 
 natural expense consisting of more than one functional assignment that 
-is reported as one item. This includes Repairs Billed to Others,
-
-[[Page 173]]
-
-Cr.--Equipment (40-2X-XX). For example, the locomotive subactivity 
-contains accounts 40-(21/24/26)-40, 40-(21/24/26)-41, and 40-(21/24/26)-
-48 which are treated as 40-(21/24/26)-98.
+is reported as one item. This includes Repairs Billed to Others, Cr.--
+Equipment (40-2X-XX). For example, the locomotive subactivity contains 
+accounts 40-(21/24/26)-40, 40-(21/24/26)-41, and 40-(21/24/26)-48 which 
+are treated as 40-(21/24/26)-98.
 
 
 <R05>
@@ -15704,6 +15539,9 @@ following accounts are separated between freight and passenger services:
 Roadway:
     Running (XX-17-10)
     Switching (XX-18-10)
+
+[[Page 174]]
+
 Ties:
     Running (21-17-13)
     Switching (21-18-13)
@@ -15751,8 +15589,6 @@ Shop Buildings:
 Locomotive Servicing Facilities (XX-19-27)
 Miscellaneous Buildings and Structures (XX-19-28)
 
-[[Page 174]]
-
 
 <R05>
 Sec. 1242.12  Administration--signals (account XX-19-04).
@@ -15792,9 +15628,8 @@ Administration:
 
 
 <R05>
-Sec. 1242.15  Roadway, tunnels and subways, bridges and culverts, ties, rails,
+Sec. 1242.15  Roadway, tunnels and subways, bridges and culverts, ties, rails, other track material, ballast, track laying and surfacing, and road property 
 
- other track material, ballast, track laying and surfacing, and road property 
           damaged (accounts XX-17-10 to XX-18-12 inclusive, 21-17-13 to 
           21-18-16 inclusive, XX-17-17, XX-18-17, XX-17-48, and XX-18-
           48).
@@ -15811,6 +15646,8 @@ service which makes the dominant use of them.
 services shall be apportioned on the basis of gross ton-miles (including 
 locomotive ton-miles) handled over these tracks in the respective 
 services.
+
+[[Page 175]]
 
 
 <R05>
@@ -15854,8 +15691,6 @@ Sec. 1242.19  Electric power systems (account XX-19-21).
     Separate common expenses on basis of common expenses of electric 
 power purchased or produced for motive power (accounts XX-51-68 and XX-
 52-68).
-
-[[Page 175]]
 
 
 <R05>
@@ -15925,14 +15760,16 @@ Servicing Locomotives (XX-51-69 and XX-52-69)
 Sec. 1242.26  Miscellaneous building and structures (account XX-19-28).
 
     Separate common expenses as specific facts indicate or according to 
-distribution of common expenses listed in Sec. 1242.10, Administration-
-Track (account XX-19-02).
+distribution of common expenses listed in
+
+[[Page 176]]
+
+Sec. 1242.10, Administration-Track (account XX-19-02).
 
 
 <R05>
-Sec. 1242.27  Coal marine terminals, ore marine terminals, TOFC/COFC terminals,
+Sec. 1242.27  Coal marine terminals, ore marine terminals, TOFC/COFC terminals, other marine terminals, motor vehicle loading and distribution facilities, and 
 
- other marine terminals, motor vehicle loading and distribution facilities, and 
           facilities for other specialized service operations (accounts 
           XX-13-29 to XX-13-35, inclusive).
 
@@ -15960,8 +15797,6 @@ a designated switching activity. Separate common expenses in the other
 subactivity in the same proportion as the salaries and wages, way and 
 structures, common expenses in all accounts with a designated other 
 subactivity.
-
-[[Page 176]]
 
 
 <R05>
@@ -16009,6 +15844,8 @@ administrative--other (account XX-19-06).
 percentages calculated for the separation of administration--other 
 (account XX-19-06).
 
+[[Page 177]]
+
 
 <R05>
 Sec. 1242.33  Other expenses and casualties and insurance (accounts XX-17-99, XX-18-99, XX-19-99, 50-17-00, 50-18-00, and 50-19-00).
@@ -16049,11 +15886,8 @@ services on the basis of run-out unit miles of individual locomotive
 units or classes of locomotive units since the previous shopping; and 
 separate the cost of running repairs between such services on the basis 
 of the miles run by the individual locomotive unit or class of 
-locomotive unit in each service during the
-
-[[Page 177]]
-
-accounting period for which the separation is being made.
+locomotive unit in each service during the accounting period for which 
+the separation is being made.
     (b) Where the carrier maintains records of heavy shop repair costs 
 by individual locomotive units or classes of locomotive units, but does 
 not maintain records of the cost of running repairs by individual 
@@ -16098,6 +15932,8 @@ machinery repair, equipment damaged, and dismantling retired road
 property (accounts 11-26-01, 11-26-41, 11-26-40, 11-26-48, and 11-26-
 39).
 
+[[Page 178]]
+
 
 <R05>
 Sec. 1242.39  Lease rentals--debit and credit, other rents--debit and credit, and repairs billed to others (accounts 31-26-00, 32-26-00, 35-26-00, 36-26-00 and 
@@ -16137,18 +15973,14 @@ Sec. 1242.41  Other and casualties and insurance (accounts XX-26-99 and 50-26-00
     Separate common expenses on the basis of percentages calculated for 
 the separation of administration (account XX-26-01).
 
-[[Page 178]]
-
                               freight cars
 
 
 <R05>
-Sec. 1242.42  Administration, repair and maintenance, machinery repair, equipment
- damaged, dismantling retired property, fringe benefits, other casualties and
- 
+Sec. 1242.42  Administration, repair and maintenance, machinery repair, equipment damaged, dismantling retired property, fringe benefits, other casualties and 
+
           insurance, lease rentals, joint facility rents, other rents, 
           depreciation, joint facility, repairs billed to others, and 
-
           other (accounts XX-22-01, XX-22-42, XX-22-40, XX-22-48, XX-22-
           39, 12-22-00, 50-22-00, 31-22-00 to 38-22-00 inclusive, 62-22-
           00, 40-22-98 and XX-22-99).
@@ -16190,14 +16022,17 @@ is more than 50 percent of the total charges to this account for an
 accounting division, separate the common expenses on the basis of the 
 directly assigned expenses in this account for the accounting division 
 involved. If the sum of the direct freight and the direct passenger 
-expenses does not aggregate 50 percent of the total charges for an 
-accounting division, the common expenses shall be separated on the basis 
-of a special test. If common expenses exist in an accounting division 
-but the direct expenses are applicable to only one service, i.e., 
-freight or passenger, the common expenses shall be separated on the 
-basis of a special test. If the accounting is performed on a system 
-basis rather than by accounting divisions, follow the intent of the 
-above instructions.
+expenses does not aggregate 50 percent
+
+[[Page 179]]
+
+of the total charges for an accounting division, the common expenses 
+shall be separated on the basis of a special test. If common expenses 
+exist in an accounting division but the direct expenses are applicable 
+to only one service, i.e., freight or passenger, the common expenses 
+shall be separated on the basis of a special test. If the accounting is 
+performed on a system basis rather than by accounting divisions, follow 
+the intent of the above instructions.
 
 
 <R05>
@@ -16238,8 +16073,6 @@ Sec. 1242.51  Dismantling retired property and depreciation (accounts XX-27-39 a
 repair and maintenance expenses associated with the particular common 
 property depreciated and/or dismantled.
 
-[[Page 179]]
-
 
 <R05>
 Sec. 1242.52  Lease rentals--debit and credit, other rents--debit and credit, repairs billed to others--credit (accounts 31-27-00, 32-27-00, 35-27-00, 36-27-00, 
@@ -16278,6 +16111,8 @@ Sec. 1242.54  Other and casualties and insurance (accounts XX-27-99 and 50-27-00
 
     Separate common expenses on the basis of the percentages calculated 
 for the separation of administration (account XX-27-01).
+
+[[Page 180]]
 
                    Operating Expenses--Transportation
 
@@ -16334,8 +16169,6 @@ Sec. 1242.59  Train inspection and lubrication (account XX-51-62).
 there are no directly assignable expenses, separate on the basis of 
 train miles.
 
-[[Page 180]]
-
 
 <R05>
 Sec. 1242.60  Locomotive fuel, electric power purchased/produced for motive power and servicing locomotives (accounts XX-51-67, XX-51-68 and XX-51-69).
@@ -16383,6 +16216,8 @@ administration (account XX-51-01).
 percentages calculated for the separation of administration (account XX-
 51-01).
 
+[[Page 181]]
+
 
 <R05>
 Sec. 1242.65  Other and casualties and insurance (accounts XX-51-99 and 50-51-00).
@@ -16410,10 +16245,8 @@ Clearing Wrecks (XX-52-63)
 
 
 <R05>
-Sec. 1242.67  Switch crews; controlling operations; yard and terminal clerical;
+Sec. 1242.67  Switch crews; controlling operations; yard and terminal clerical; locomotive fuel; electric power purchased/produced for motive power; operating 
 
- locomotive fuel; electric power purchased/produced for motive power; operating
- 
           switches signals, retarders, and humps; and servicing 
           locomotives (accounts XX-52-64, XX-52-65, XX-52-66, XX-52-59, 
           XX-52-67, XX-52-68 and XX-52-69).
@@ -16442,8 +16275,6 @@ Sec. 1242.70  Fringe benefits (account 12-52-00).
     Separate common expenses in proportion to the percentage separation 
 calculated for the salaries and wages administration account (account 
 11-52-01).
-
-[[Page 181]]
 
 
 <R05>
@@ -16493,14 +16324,14 @@ Sec. 1242.75  Fringe benefits (account 12-53-00).
 separation calculated for the salaries and wages--cleaning car interiors 
 common account (account 11-53-70).
 
+[[Page 182]]
+
                      specialized service operations
 
 
 <R05>
-Sec. 1242.76  Administration; pickup and delivery, marine line haul, and rail
+Sec. 1242.76  Administration; pickup and delivery, marine line haul, and rail substitute service; loading, unloading and local marine; protective services; 
 
- substitute service; loading, unloading and local marine; protective services;
- 
           freight lost or damaged--solely related; fringe benefits; 
           casualties and insurance; joint facility, and other (accounts 
           XX-34-01, XX-34-73, XX-34-74, XX-34-75, 51-34-00, 12-34-00, 
@@ -16538,8 +16369,6 @@ total charges, the common expenses shall be separated on the basis of a
 special test. If the accounting is performed on a system basis rather 
 than by accounting division, follow the intent of the above 
 instructions.
-
-[[Page 182]]
 
 
 <R05>
@@ -16581,15 +16410,18 @@ Sec. 1242.82  Other and casualties and insurance (accounts XX-55-99 and 50-55-00
     Separate common expenses on the basis of the percentages calculated 
 for the separation of administration (account XX-55-01).
 
+[[Page 183]]
+
                            Operating Expenses
 
                        general and administration
 
 
 <R05>
-Sec. 1242.83  Officers--general superintendence; accounting, auditing and
+Sec. 1242.83  Officers--general superintendence; accounting, auditing 
+          and finance; management services and data processing; personnel 
 
- finance; management services and data processing; personnel and labor relations; legal 
+          and labor relations; legal 
           and secretarial; research and development; writedown of 
           uncollectible accounts; property taxes; other taxes except on 
           corporate income or payrolls; and other (accounts XX-63-01, 
@@ -16632,10 +16464,7 @@ above.
 separation rules results in an undue burden in accounting expense, the 
 carrier may request relief from such rules by letter to the Director, 
 Bureau of Accounts. If reliable data can be developed through other 
-methods and procedures, the carrier may request substitution of such
-
-[[Page 183]]
-
+methods and procedures, the carrier may request substitution of such 
 methods also by letter to the Director, Bureau of Accounts. In both 
 cases, the carrier shall support the request with full details.
 
@@ -16686,6 +16515,8 @@ quarterly report Form CBS, and instructions thereon. Such quarterly
 reports shall be filed, in duplicate, with the Bureau of Accounts, 
 Surface Transportation Board, Washington, DC 20423, within 30 days after 
 the end of the quarter to which they relate.
+
+[[Page 184]]
 
 
 <R03>
@@ -16739,9 +16570,6 @@ the three preceding years, or if it terminates at least 5% of the
 revenue carloads terminating in any state in any of the three preceding 
 years. A railroad required to file waybill sample information under this 
 section shall herein be referred to as subject railroad.
-
-[[Page 184]]
-
     (b) Waybill terminations shall include all line-haul revenue 
 movements terminating for waybilling purposes on the subject railroad's 
 line whether the lading is destined for the terminating station as 
@@ -16778,7 +16606,11 @@ Sec. 1244.3  Reporting contract shipment waybills.
     (b) The revenue associated with contract shipments may be encrypted 
 (masked) to safeguard the confidentiality of the contract rates.
     (1) Upon written request, the Board will provide a masking procedure 
-for a railroad's use or will mask the contract revenues when the Waybill 
+for a
+
+[[Page 185]]
+
+railroad's use or will mask the contract revenues when the Waybill 
 Sample is filed with the Board.
     (2) When a railroad intends to use its own proprietary masking 
 procedure, those procedures, and any changes in those procedures, must 
@@ -16793,10 +16625,6 @@ Environmental Analysis, and Administration, Surface Transportation
 Board, Washington, DC 20423-0001, ATTN: WAYBILL COORDINATOR.
 
 [65 FR 37711, June 16, 2000]
-
-    Effective Date Note: At 65 FR 37711, June 16, 2000, Sec. 1244.3 was 
-redesignated as Sec. 1244.4 and a new Sec. 1244.3 was added, effective 
-Jan. 1, 2001.
 
 
 <R05>
@@ -16827,9 +16655,6 @@ follows:
 6 to 25.......................................................     1/10
 26 and over...................................................      1/5
 ------------------------------------------------------------------------
-
-
-[[Page 185]]
 
     (3) Upon giving the subject roads 60 days notice, the Board may 
 require random serial number endings in lieu of the respective endings 
@@ -16872,6 +16697,9 @@ in each reporting period for the following three categories:
     (i) Waybills, with less than six carloads per waybill,
     (ii) Waybills with 6 to 25 carloads per waybill, and
     (iii) Waybills with 26 or more carloads per waybill.
+
+[[Page 186]]
+
     (4) All subject railroads on the computerized system of reporting 
 shall furnish the Board the control counts and tape specification 
 information as required by the Statement No. 81-1.
@@ -16882,9 +16710,6 @@ OPAD-2.
 
 [46 FR 26784, May 15, 1981, as amended at 46 FR 45141, Sept. 10, 1981. 
 Redesignated at 65 FR 37711, June 16, 2000]
-
-    Effective Date Note: At 65 FR 37711, June 16, 2000, Sec. 1244.3 was 
-redesignated as Sec. 1244.4, effective Jan. 1, 2001.
 
 
 <R05>
@@ -16913,12 +16738,6 @@ tape submission.
 
 [46 FR 26784, May 15, 1981. Redesignated at 65 FR 37711, June 16, 2000]
 
-[[Page 186]]
-
-
-    Effective Date Note: At 65 FR 37711, June 16, 2000, Sec. 1244.4 was 
-redesignated as Sec. 1244.5, effective Jan. 1, 2001.
-
 
 <R05>
 Sec. 1244.6  Retention of files.
@@ -16935,9 +16754,6 @@ the submitted computerized waybill record.
 
 [46 FR 26784, May 15, 1981. Redesignated at 65 FR 37711, June 16, 2000]
 
-    Effective Date Note: At 65 FR 37711, June 16, 2000, Sec. 1244.5 was 
-redesignated as Sec. 1244.6, effective Jan. 1, 2001.
-
 
 <R05>
 Sec. 1244.7  Special studies.
@@ -16951,9 +16767,6 @@ data for submitted waybill copies or records for special studies.
 
 [46 FR 26784, May 15, 1981. Redesignated at 65 FR 37711, June 16, 2000]
 
-    Effective Date Note: At 65 FR 37711, June 16, 2000, Sec. 1244.6 was 
-redesignated as Sec. 1244.7, effective Jan. 1, 2001.
-
 
 <R05>
 Sec. 1244.8  Analysis of waybill data.
@@ -16964,9 +16777,6 @@ applied to account for the stratified sampling. See Statement 81-1 for
 guidelines for weighting waybill data and for computing sampling errors.
 
 [46 FR 26784, May 15, 1981. Redesignated at 65 FR 37711, June 16, 2000]
-
-    Effective Date Note: At 65 FR 37711, June 16, 2000, Sec. 1244.7 was 
-redesignated as Sec. 1244.8, effective Jan. 1, 2001.
 
 
 <R05>
@@ -16979,8 +16789,11 @@ the applicable requirements for the data's release. They also formalize
 notice and protest procedures for the possible release of waybill data 
 to other users to protect against the inappropriate release of 
 confidential data. The Director of the Office of Transportation Analysis 
-shall be responsible for releasing waybill data in accordance with these 
-procedures.
+shall be responsible for releasing waybill
+
+[[Page 187]]
+
+data in accordance with these procedures.
     (b) Class of user, available data, and applicable release 
 requirements. (1) Railroads. Each requesting railroad may obtain any 
 waybill record from the STB Waybill Sample covering traffic that 
@@ -17003,11 +16816,7 @@ unless the data elements are aggregated to contain at least three
 shippers and to prevent identification of an individual railroad.
     (iv) The Federal agency will refer any requests for waybill data and 
 accompanying documentation to the STB for processing and will so inform 
-the
-
-[[Page 187]]
-
-requesting party of such referral to the Board.
+the requesting party of such referral to the Board.
     (v) The Federal agency must sign an agreement annually with the 
 Board agreeing to these restrictions.
     (3) States. Each requesting State may obtain any waybill record 
@@ -17050,6 +16859,9 @@ the ``Public Use Waybill File''. Reports produced from the Public Use
 Waybill File may be used, published, or released. The Public Use Waybill 
 File contains the following nonconfidential items:
     (i)  Waybill Date (Month, Day, Year).
+
+[[Page 188]]
+
     (ii)  Accounting Period (Month, Year).
     (iii)  Number of Carloads.
     (iv)  Car Ownership (Rail or Private).
@@ -17085,9 +16897,6 @@ Codes, except STCC 19).
 competitively sensitive shipper data).
     (xxxiii)  Origin STB Rate Territory.
     (xxxiv)  States of Interchanges (first through ninth).
-
-[[Page 188]]
-
     (xxxv)  Termination BEA (omitted if STCC and BEA pair reveals 
 competitively sensitive shipper data).
     (xxxvi)  Termination STB Rate Territory.
@@ -17132,7 +16941,10 @@ disclosure of the requested data.
     (4) Board determination. (i) The Director of the Office of 
 Transportation Analysis will consider all objections in determining 
 whether to release the requested waybill data. Each railroad or shipper 
-who filed objections will be sent written notice of the Director's 
+who filed objections will be sent written notice of the Director's
+
+[[Page 189]]
+
 decision not less than 14 calendar days prior to the disclosure date.
     (ii) The Board reserves the right to deny the release of waybill 
 data although no objections may be filed.
@@ -17158,12 +16970,9 @@ three shippers.
     (2) To aggregate the waybill data to the level of three shippers, 
 the three-FSAC Rule shall be used. Under this rule, there must be at 
 least three different freight stations as identified by the Freight 
-Station Accounting Code
-
-[[Page 189]]
-
-(FSAC) on one railroad or there must be at least two more FSAC's than 
-there are railroads present in the waybill data being aggregated.
+Station Accounting Code (FSAC) on one railroad or there must be at least 
+two more FSAC's than there are railroads present in the waybill data 
+being aggregated.
     (3) The three-FSAC Rule shall apply to every number and calculation 
 publicly released.
     (4) The Director of OTA will consider requests to apply an 
@@ -17204,8 +17013,7 @@ this type of information without MTMC's consent.
 
 [52 FR 12416, Apr. 16, 1987. Redesignated at 65 FR 37711, June 16, 2000]
 
-    Effective Date Note: At 65 FR 37711, June 16, 2000, Sec. 1244.8 was 
-redesignated as Sec. 1244.9, effective Jan. 1, 2001.
+[[Page 190]]
 
 
 <R03>
@@ -17244,8 +17052,6 @@ the forms adopted for such returns (Sec. 1245.2); and also with respect
 to any other matters covered by these rules.
 
 [47 FR 53867, Nov. 30, 1982]
-
-[[Page 190]]
 
 
 <R05>
@@ -17296,7 +17102,11 @@ recorded for every class of employee. For enginemen and trainmen, the
 actual number of miles run and miles paid for but not run are to be 
 recorded, as well as the number of hours on duty and the number of hours 
 paid for. (The service time of all classes of employees shall be 
-recorded in hours instead of days or hours as heretofore.)
+recorded in
+
+[[Page 191]]
+
+hours instead of days or hours as heretofore.)
     (2) Whenever an employee works at more than one occupation, or in 
 more than one class of service, both the number of hours worked and the 
 compensation paid, should be separated and reported under the proper 
@@ -17318,8 +17128,6 @@ contemplated for the position.
     (e) Compensation. The compensation of employees as defined in the 
 rules in this part is to be stated in such manner and detail as the 
 forms adopted for periodical returns require.
-
-[[Page 191]]
 
 
 <R05>
@@ -17712,16 +17520,16 @@ Sec. 1245.5  Classification of job titles.
                                                       Chief Train Dispatcher.
     502  Train Dispatchers...  Title is descriptive  Train Dispatcher...................  Corresponds with
                                                                                            present STB No. 76.
-
-[[Page 196]]
-
- 
     503  Station, Freight and  Occupations with      Supervising Station Agent,           Consolidates present
           Passenger Agents.     responsibility for    Assistant Supervising Station        STB Nos. 12, 78, 79,
                                 station operations.   Agent, Station Agent, Freight        and 80.
                                                       Agent, Passenger Agent, Ticket
                                                       Agent, Traveling Agent, Agent
                                                       Operators.
+
+[[Page 196]]
+
+ 
     504  Chief Operators and   Title is descriptive  Supervising Operator, Chief          Corresponds with
           Wire Chiefs.                                Operator, Assistant Supervising      present STB No. 81.
                                                       Operator, Wire Chief.
@@ -17786,18 +17594,14 @@ Sec. 1245.5  Classification of job titles.
     521  Yard Clerks.........  Clerical occupations  Yard Clerk, Yard Clerk Caller, Yard  New classification.
                                 situated in yards     Demurrage Clerk, Yard Dispatcher
                                 and yard offices.     Clerk, Piggyback Clerk.
+    522  Crew Dispatchers....  Title is descriptive  Crew Dispatcher, Crew Caller.......  New classification.
+    523  Yardmasters and       Title is descriptive  Yardmaster, Assistant Yardmaster...  Consolidates present
+          Assistant                                                                        STB No. 105 and 106.
+          Yardmasters.
 
 [[Page 197]]
 
  
-    522  Crew Dispatchers....  Title is descriptive  Crew Dispatcher, Crew Caller.......  New classification.
-
-[[Page 198]]
-
- 
-    523  Yardmasters and       Title is descriptive  Yardmaster, Assistant Yardmaster...  Consolidates present
-          Assistant                                                                        STB No. 105 and 106.
-          Yardmasters.
     600     Transportation,
             Train and Engine
     601  Switchtenders.......  Title is descriptive  Switchtender.......................  Corresponds to present
@@ -17874,7 +17678,7 @@ Sec. 1245.5  Classification of job titles.
  
 
 
-[[Page 199]]
+[[Page 198]]
 
 
 <R05>
@@ -18027,7 +17831,7 @@ Sec. 1245.6  Cross reference to standard occupational classification manual.
   District Freight Claim Agent...........  4528.
   Chief Claim Investigator...............  4783.
 
-[[Page 200]]
+[[Page 199]]
 
  
 208  Lieutenants and Sergeants of Police:
@@ -18171,7 +17975,7 @@ Sec. 1245.6  Cross reference to standard occupational classification manual.
  Train Laborers):
   Gang Foreman (Track)...................  6318.
 
-[[Page 201]]
+[[Page 200]]
 
  
   Assist. Foreman........................  6318.
@@ -18318,7 +18122,7 @@ Sec. 1245.6  Cross reference to standard occupational classification manual.
   Freight Agent..........................  4644.
   Passenger Agent........................  4644.
 
-[[Page 202]]
+[[Page 201]]
 
  
   Ticket Agent...........................  4644.
@@ -18468,7 +18272,7 @@ Sec. 1245.6  Cross reference to standard occupational classification manual.
   Freight Brakeman.......................  8233.
   Freight Flagman........................  5142.
 
-[[Page 203]]
+[[Page 202]]
 
  
   Work Train Brakeman....................  8233.
@@ -18529,6 +18333,31 @@ Transportation Board, Washington, DC 20423.
 
 
 <R03>
+PART 1247--REPORT OF CARS LOADED AND CARS TERMINATED--Table of Contents
+
+<R05>
+
+
+    Authority: 49 U.S.C. 721, 10707, 11144, 11145.
+
+    Source: 66 FR 1052, Jan. 5, 2001, unless otherwise noted.
+
+
+<R05>
+Sec. 1247.1  Annual Report of Cars Loaded and Cars Terminated.
+
+    Beginning with the reporting period commencing January 1, 2001, and 
+annually thereafter, each Class I railroad shall file Form STB-54, 
+Annual Report of Cars Loaded and Cars Terminated, together with the 
+accompanying certification, with the Office of Economics, Environmental 
+Analysis, and Administration (OEEAA), Surface Transportation Board, 
+Washington, DC 20243, within 90 days after the end of the reporting 
+year. Blank forms and instructions are available on the Board's web site 
+(http://www.stb.dot.gov/infoex1.htmforms) or can be obtained by 
+contacting OEEAA.
+
+
+<R03>
 PART 1248--FREIGHT COMMODITY STATISTICS--Table of Contents
 
 <R05>
@@ -18568,9 +18397,12 @@ report freight commodity statistics on the basis of the commodity codes
 named in Sec. 1248.101. Carriers shall report quarterly on the basis of 
 the 3, 4 and 5-digit commodity codes named in that section. Such reports 
 shall be made in conformity with the outline of terms set forth in 
-Secs. 1248.2 to 1248.5, inclusive, as supplemented by instructions 
-included in the appropriate report form to be supplied to the reporting 
-railroads.
+Secs. 1248.2 to 1248.5, inclusive, as supplemented by
+
+[[Page 203]]
+
+instructions included in the appropriate report form to be supplied to 
+the reporting railroads.
 
 [47 FR 6880, Feb. 17, 1982]
 
@@ -18595,9 +18427,6 @@ Number of tons (2,000 pounds).
 Revenue freight received from connecting rail carriers:
     Terminating on line:
 Number of carloads.
-
-[[Page 204]]
-
 Number of tons (2,000 pounds).
     Delivered to connecting rail carriers:
 Number of carloads.
@@ -18667,6 +18496,9 @@ originating or terminating at the port of entry or exit.
     (h) Traffic interchanged with connecting rail lines operating in 
 Canada and Mexico shall be reported as delivered to or received from 
 connecting rail carriers.
+
+[[Page 204]]
+
     (i) Lake cargo coal delivered to lower Lake and St. Lawrence River 
 ports for transshipment by vessel shall be reported as delivered to 
 connecting rail carrier. Lake cargo coal received at upper Lake ports 
@@ -18682,9 +18514,6 @@ ports shall be reported as ``received from connecting rail carriers.''
 ``originated on respondent's road'' at the transit point, even though 
 the outbound shipment may move under transit balances or proportional 
 rates.
-
-[[Page 205]]
-
     (m) ``Gross freight revenue'' means respondent's gross revenue from 
 freight without adjustment for absorptions or corrections.
     (n) Commodity codes 44 and 441, ``Freight forwarder traffic,'' as 
@@ -18762,6 +18591,10 @@ part, are as follows:
 01                                Farm Products.
 011                                 Field Crops.
 0112                                  Cotton, raw.
+
+[[Page 205]]
+
+ 
 01121                                   Cotton in bales.
 01131                                   Barley.
 01132                                   Corn, except popcorn.
@@ -18799,10 +18632,6 @@ part, are as follows:
 01335                                   Lettuce.
 0134                                  Dry ripe vegetable seeds, etc.
                                    (except artifically dried).
-
-[[Page 206]]
-
- 
 01341                                   Beans, dry ripe.
 01342                                   Peas, dry.
 0139                                  Miscellaneous fresh vegetables:
@@ -18929,6 +18758,10 @@ part, are as follows:
                                    cream and other fluid products.
 203                                 Canned and Preserved Fruits,
                                    Vegetables and Sea Foods.
+
+[[Page 206]]
+
+ 
 2031                                  Canned and cured sea foods.
 2032                                  Canned specialties.
 2033                                  Canned fruits and vegetables.
@@ -18972,10 +18805,6 @@ part, are as follows:
 208                                 Beverages and flavoring extracts.
 20821                                   Beer, ale, porter, stout:
                                    Bottled, barrels, kegs.
-
-[[Page 207]]
-
- 
 20823                                   Malt extract and brewers's spent
                                    grains.
 2083                                  Malt.
@@ -19115,6 +18944,10 @@ part, are as follows:
                                    liquefied).
 2814                                  Crude products from coal tar,
                                    petroleum and natural gas.
+
+[[Page 207]]
+
+ 
 2816                                  Inorganic pigments.
 2818                                  Miscellaneous industrial organic
                                    chemicals.
@@ -19159,10 +18992,6 @@ part, are as follows:
                                    volatile petroleum fuels.
 29119                                   Products of petroleum refining,
                                    n.e.c.
-
-[[Page 208]]
-
- 
 2912                                  Liquefied petroleum gases and coal
                                    gases.
 295                                 Paving and Roofing Materials.
@@ -19302,6 +19131,10 @@ part, are as follows:
 3532                                  Mining machinery and equipment,
                                    except oil field machinery and
                                    equipment.
+
+[[Page 208]]
+
+ 
 3533                                  Oil field machinery and equipment.
 3537                                  Industrial trucks, tractors,
                                    trailers, and stackers.
@@ -19354,10 +19187,6 @@ part, are as follows:
                                    accessories.
 3715                                  Truck trailers.
 372                                 Aircraft and Parts.
-
-[[Page 209]]
-
- 
 373                                 Ships and Boats.
 374                                 Railroad Equipment.
 375                                 Motorcycles, Bicycles, and Parts.
@@ -19445,10 +19274,7 @@ part, are as follows:
 [32 FR 20466, Dec. 20, 1967. Redesignated at 46 FR 9116, Jan. 28, 1981, 
 and 46 FR 10745, Feb. 4, 1981]
 
-
-<R03>
-PARTS 1250-1252--[RESERVED]
-
+                       PARTS 1250-1252--[RESERVED]
 
 
 <R03>
@@ -19476,10 +19302,14 @@ other organization subject to sections 5a or 5b to record all receipts
 and expenditures of moneys. Such accounts shall be kept with sufficient 
 particularity to show the facts pertaining to all transactions reflected 
 in the entries made in the accounts. All receipts shall be supported by 
-records, including records showing the basis for charges to members. All 
-disbursements shall be supported by vouchers, payrolls, canceled checks, 
-and other evidences of expenditures, including the basis for any 
-apportionment of expense items to members.
+records, including records
+
+[[Page 209]]
+
+showing the basis for charges to members. All disbursements shall be 
+supported by vouchers, payrolls, canceled checks, and other evidences of 
+expenditures, including the basis for any apportionment of expense items 
+to members.
 
 [32 FR 20474, Dec. 20, 1967]
 
@@ -19498,12 +19328,8 @@ any other correspondence respecting the matter proposed. Also reports or
 minutes of all proceedings at any oral, committee or public hearing held 
 thereon and the determination relating thereto;
     (2) a file covering each petition or protest filed by the 
-organization against tariff publications of a member
-
-[[Page 210]]
-
-for suspension of rates or other matters published for such member 
-carrier;
+organization against tariff publications of a member for suspension of 
+rates or other matters published for such member carrier;
     (3) a file covering each instruction or request for publication by 
 independent action.
     (b) All accounts and other records covered by this part shall be 
@@ -19512,7 +19338,6 @@ representatives of the Board.
     (c) All rate bureaus are required to (1) advise the Board of any 
 change in legal address by notifying the Office of the Secretary and (2) 
 submit information to the Board when requested.
-
 
 (49 U.S.C. 10706, 11145; 5 U.S.C. 553)
 
@@ -19530,27 +19355,18 @@ with part 1220, Preservation of Records, of this chapter.
 
 
 <R03>
-PARTS 1260-1269--VALUATION--Table of Contents
-
-<R05>
+PARTS 1260-1269--VALUATION
 
 
     Note: Forms prescribed in parts 1260-1269 are available upon request 
 from the Office of the Secretary, Surface Transportation Board, 
 Washington, DC 20423.
 
+                       PARTS 1260-1261--[RESERVED]
+
 
 <R03>
-PARTS 1260-1261--[RESERVED]
-
-<R05>
-
-
-
-PARTS 1280-1299--CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL--Table of Contents
-
-<R05>
-
+PARTS 1280-1299--CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY INFORMATION AND MATERIAL
 
 
 <R03>
@@ -19598,6 +19414,8 @@ which are classified as confidential, secret, or top secret are those
 generated by Executive Branch Agencies with original classification 
 authority.
 
+[[Page 210]]
+
 
 <R05>
 Sec. 1280.4  Responsibility for handling of classified documents.
@@ -19618,13 +19436,9 @@ of Compliance and Consumer Assistance, and secured, unopened, in the
 combination safe located in Room 5325 of the headquarters building until 
 the Emergency Coordinator or alternate is available. All material not 
 immediately deliverable to either the Emergency Coordinator, alternate, 
-or the
-
-[[Page 211]]
-
-Associate Director, Office of Compliance and Consumer Assistance, shall 
-be delivered at the earliest opportunity. Under no circumstances shall 
-classified material that cannot be delivered to the Emergency 
+or the Associate Director, Office of Compliance and Consumer Assistance, 
+shall be delivered at the earliest opportunity. Under no circumstances 
+shall classified material that cannot be delivered to the Emergency 
 Coordinator be stored other than in the designated safe in Room 5325 of 
 the STB headquarters building.
     (b) The alternate to the Emergency Coordinator for the receipt and 
@@ -19676,6 +19490,8 @@ Sec. 1280.6  Storage of classified documents.
 Emergency Coordinator is not available to receive classified documents, 
 they may be stored, unopened, in the safe located in Room 5325.
 
+[[Page 211]]
+
 
 <R05>
 Sec. 1280.7  Education of employees.
@@ -19698,24 +19514,15 @@ requests made for mandatory review shall be coordinated by the Emergency
 Coordinator with appropriate officials of the Department or Agency 
 responsible for issuance of the document involved.
 
-
-<R03>
-PARTS 1281--1299 [RESERVED]
-
-<R05>
-
+                       PARTS 1281--1299 [RESERVED]
 
 [[Page 212]]
 
---Table of Contents
-
-<R05>
 
 
 
+<R03>
               SUBCHAPTER D--CARRIER RATES AND SERVICE TERMS
-
-
 
 <R03>
 PART 1300--DISCLOSURE, PUBLICATION, AND NOTICE OF CHANGE OF RATES AND OTHER SERVICE TERMS FOR RAIL COMMON CARRIAGE--Table of Contents
@@ -19874,11 +19681,7 @@ accordingly.
 
 [[Page 214]]
 
-
-<R03>
-PART 1301 [RESERVED]
-
-
+                          PART 1301 [RESERVED]
 
 
 <R03>
@@ -21150,14 +20953,13 @@ including:
     (A) The nature and volume of petitioner's relevant business.
     (B) The relevant commodities that petitioner ships or receives.
     (C) Comparisons of the petitioner's commodities, locations of 
-shipping facilities and serving carriers, actual or potential traffic 
-patterns and serving
+shipping facilities and serving carriers, actual or
 
 [[Page 229]]
 
-carrier(s), with the traffic patterns and serving carrier(s) identified 
-in the contract summary. State whether petitioner is a consignor or 
-consignee.
+potential traffic patterns and serving carrier(s), with the traffic 
+patterns and serving carrier(s) identified in the contract summary. 
+State whether petitioner is a consignor or consignee.
     (D) The petitioner's ability to ship the commodity in question at a 
 time generally simultaneous with the challenged contract.
     (E) The potential effect of the contract on the petitioner's 
@@ -21271,12 +21073,7 @@ Sec. 1319.1  Exemption of freight forwarders in the noncontiguous domestic trade
 U.S.C. 13531 are exempted from the tariff filing requirements of 49 
 U.S.C. 13702.
 
-
-<R03>
-PARTS 1320--1324 [RESERVED]
-
-<R05>
-
+                       PARTS 1320--1324 [RESERVED]
 
 
 <R03>
@@ -21541,8 +21338,6 @@ Part                                                                Page
 1420            Reports of motor carriers...................         235
 
 [[Page 235]]
-
-
 
 
 <R03>
@@ -22025,7 +21820,7 @@ published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2000)
+                     (Revised as of October 1, 2001)
 
                       Title 1--General Provisions
 
@@ -22963,7 +22758,7 @@ published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2000)
+                     (Revised as of October 1, 2001)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -23609,6 +23404,10 @@ World Agricultural Outlook Board                  7, XXXVIII
 
 <R04>
 
+At 51 FR 45899, Dec. 23, 1986, Part 1039 was amended, Sec. 1312.41 was 
+removed, and Part 1313 was added. In order to enable readers to check 
+the completeness and accuracy of these parts, the following 
+Redesignation and Derivation Tables are set out as follows.
 
 ------------------------------------------------------------------------
                 Old section                          New section
@@ -23913,5 +23712,19 @@ Chapter X
 1314.4  (a) existing text amended; (a)(1) through (4) added.........7756
 1321  Removed......................................................40601
 
-                            
+                                  1994
+
+49 CFR
+                                                                   59 FR
+                                                                    Page
+Chapter X
+1207  Removed.......................................................5110
+1249.1  Revised.....................................................5110
+1249.2  (a), (b)(1), (a) and (c) revised; (b)(5) added..............5111
+    (a) corrected..................................................49848
+1312  Authority citation revised..............................2304, 4844
+    Technical correction...........................................11557
+    Interpretation.................................................14570
+1312.14  (a)(4) added...............................................2304
+    Heading revised.........
 </pre></body></html>

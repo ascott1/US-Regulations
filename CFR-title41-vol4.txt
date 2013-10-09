@@ -1,37 +1,37 @@
 <html><body><pre>
 [Title 41 CFR ]
-[Code of Federal Regulations (annual edition) - July 1, 2000 Edition]
+[Code of Federal Regulations (annual edition) - July 1, 2001 Edition]
 [From the U.S. Government Printing Office]
 
 
 
-[[Page i]]
+[[Page 1]]
 
-
+          
 <R02>
-41
-
-
+          41
           Chapter 201 to End
+          Revised as of July 1, 2001
 
-                         Revised as of July 1, 2000
-
-Public Contracts and Property Management
+          Public Contracts and Property Management
 
 <R03>
 
 
 
-          Containing a Codification of documents of general 
-          applicability and future effect
-          As of July 1, 2000
+          Containing a codification of documents 
+          of general applicability and future effect
+
+          As of July 1, 2001
+
           With Ancillaries
+
           Published by
           Office of the Federal Register
           National Archives and Records
           Administration
 
-As a Special Edition of the Federal Register
+          A Special Edition of the Federal Register
 
 
 
@@ -43,12 +43,13 @@ As a Special Edition of the Federal Register
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 2000
+                            WASHINGTON : 2001
 
 
 
-               For sale by U.S. Government Printing Office
- Superintendent of Documents, Mail Stop: SSOP, Washington, DC 20402-9328
+ For sale by the Superintendent of Documents, U.S. Government Printing Office
+  Internet: bookstore.gpo.gov   Phone: (202) 512-1800   Fax: (202) 512-2250
+                  Mail: Stop SSOP, Washington, DC 20402-0001
 
 
 
@@ -73,13 +74,13 @@ As a Special Edition of the Federal Register
           Chapter 301--Temporary Duty (TDY) Travel Allowances       17
           Chapter 302--Relocation Allowances                       115
           Chapter 303--Payment of Expenses Connected With the 
-          Death of Certain Employees                               241
+          Death of Certain Employees                               247
           Chapter 304--Payment From a Non-Federal Source for 
-          Travel Expenses                                          247
+          Travel Expenses                                          253
   Finding Aids:
-      Table of CFR Titles and Chapters........................     259
-      Alphabetical List of Agencies Appearing in the CFR......     277
-      List of CFR Sections Affected...........................     287
+      Table of CFR Titles and Chapters........................     265
+      Alphabetical List of Agencies Appearing in the CFR......     283
+      List of CFR Sections Affected...........................     293
 
 
 
@@ -95,7 +96,7 @@ As a Special Edition of the Federal Register
                      To cite the regulations in 
                        this volume use title, 
                        part and section number. 
-                       Thus,  41 CFR 300-1.1 
+                       Thus, 41 CFR 300-1.1 
                        refers to title 41, part 
                        300-1, section 1.
 
@@ -137,7 +138,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, July 1, 2000, consult the ``List of CFR 
+revision date (in this case, July 1, 2001, consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -216,7 +217,7 @@ SALES
 
     The Government Printing Office (GPO) processes all sales and 
 distribution of the CFR. For payment by credit card, call 202-512-1800, 
-M-F 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2233, 24 hours 
+M-F 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2250, 24 hours 
 a day. For payment by check, write to the Superintendent of Documents, 
 Attn: New Orders, P.O. Box 371954, Pittsburgh, PA 15250-7954. For GPO 
 Customer Service call 202-512-1803.
@@ -244,7 +245,7 @@ site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-July 1, 2000.
+July 1, 2001.
 
 
 
@@ -282,14 +283,10 @@ F is issued by the General Services Administration.
     Title 41 is composed of four volumes. The chapters in these volumes 
 are arranged as follows: Chapters 1--100, chapter 101, chapters 102--
 200, and chapter 201 to End. These volumes represent all current 
-regulations codified under this title of the CFR as of July 1, 2000.
+regulations codified under this title of the CFR as of July 1, 2001.
 
     Redesignation tables appear in the finding aids section of the 
 volumes containing chapter 101 and chapters 102 to 200.
-
-    For this volume, Jonn V. Lilyea was Chief Editor. The Code of 
-Federal Regulations publication program is under the direction of 
-Frances D. McDonald, assisted by Alomha S. Morris.
 
 [[Page x]]
 
@@ -369,7 +366,6 @@ Part                                                                Page
 
 <R03>
                        SUBCHAPTER A--INTRODUCTION
-
 
 <R03>
 PART 300-1--THE FEDERAL TRAVEL REGULATION (FTR)--Table of Contents
@@ -804,8 +800,6 @@ FTR Amdt. 75, 63 FR 66674, Dec. 2, 1998; FTR Amdt. 76, 64 FR 2434, Jan.
 <R03>
                     SUBCHAPTER B--AGENCY REQUIREMENTS
 
-
-
 <R03>
 PART 300-70--AGENCY REPORTING REQUIREMENTS--Table of Contents
 
@@ -1113,40 +1107,37 @@ SUBCHAPTER C--ARRANGING FOR TRAVEL SERVICES, PAYING TRAVEL EXPENSES, AND
 
 301-50          Arranging for travel services...............          52
 301-51          Paying travel expenses......................          52
-301-52          Claiming reimbursement......................          56
+301-52          Claiming reimbursement......................          55
 301-53          Using promotional materials and frequent 
                     traveler programs.......................          59
 301-54          Collection of undisputed delinquent amounts 
                     owed to the contractor issuing the 
-                    individually billed travel charge card..          61
+                    individually billed travel charge card..          60
 
                   SUBCHAPTER D--AGENCY RESPONSIBILITIES
 
-301-70          Internal policy and procedure requirements..          63
-301-71          Agency travel accountability requirements...          69
+301-70          Internal policy and procedure requirements..          62
+301-71          Agency travel accountability requirements...          68
 301-72          Agency responsibilities related to common 
-                    carrier transportation..................          75
-301-73          Travel programs.............................          78
-301-74          Conference planning.........................          80
-301-75          Pre-employment interview travel.............          83
+                    carrier transportation..................          74
+301-73          Travel programs.............................          77
+301-74          Conference planning.........................          79
+301-75          Pre-employment interview travel.............          82
 
 [[Page 18]]
 
 301-76          Collection of undisputed delinquent amounts 
                     owed to the contractor issuing the 
-                    individually billed travel charge card..          86
-                Appendix A to Chapter 301--Prescribed 
-                    Maximum Per Diem Rates for CONUS........          87
-                Appendix B to Chapter 301--Allocation of 
-                    M&IE Rates to Be Used in Making 
-                    Deductions From the M&IE Allowance......         105
-                Appendix C to Chapter 301--Standard Data 
-                    Elements for Federal Travel [Traveler 
-                    Identification].........................         107
-                Appendix D to Chapter 301--Glossary of 
-                    Acronyms................................         110
-                Appendix E to Chapter 301--Suggested 
-                    Guidance for Conference Planning........         110
+                    individually billed travel charge card..          85
+Appendix A to Chapter 301--Prescribed Maximum Per Diem Rates 
+  for CONUS.................................................          86
+Appendix B to Chapter 301--Allocation of M&IE Rates to Be 
+  Used in Making Deductions From the M&IE Allowance.........         104
+Appendix C to Chapter 301--Standard Data Elements for 
+  Federal Travel [Traveler Identification]..................         105
+Appendix D to Chapter 301--Glossary of Acronyms.............         109
+Appendix E to Chapter 301--Suggested Guidance for Conference 
+  Planning..................................................         109
 
 [[Page 19]]
 
@@ -1155,8 +1146,6 @@ SUBCHAPTER C--ARRANGING FOR TRAVEL SERVICES, PAYING TRAVEL EXPENSES, AND
 
 <R03>
                        SUBCHAPTER A--INTRODUCTION
-
-
 
 <R03>
 PART 301-1--APPLICABILITY--Table of Contents
@@ -1315,8 +1304,6 @@ section require a written or electronic advance authorization.
 
 <R03>
                  SUBCHAPTER B--ALLOWABLE TRAVEL EXPENSES
-
-
 
 <R03>
 PART 301-10--TRANSPORTATION EXPENSES--Table of Contents
@@ -1638,12 +1625,13 @@ general public, the use of which will result in a lower total trip cost
 to the Government, to include the combined costs of transportation, 
 lodging, meals, and related expenses.
 
-    Note to paragraph (c): This exception does not apply if the contract 
-carrier offers a comparable fare and has seats available at that fare, 
-or if the lower fare offered by a noncontract carrier is restricted to 
-Government and military travelers on official business and may only be 
-purchased with a GTR, contractor-issued charge card, or centrally billed 
-account (e.g., YDG, MDG, ODG, VDG, and similar fares); or
+    Note to paragraph (c):
+    This exception does not apply if the contract carrier offers a 
+comparable fare and has seats available at that fare, or if the lower 
+fare offered by a noncontract carrier is restricted to Government and 
+military travelers on official business and may only be purchased with a 
+GTR, contractor-issued charge card, or centrally billed account (e.g., 
+YDG, MDG, ODG, VDG, and similar fares); or
 
     (d) Rail service is available and such service is cost effective and 
 consistent with mission requirements; or
@@ -2361,19 +2349,23 @@ Privately-owned aircraft (e.g., helicopter,    Actual cost of operation
                                                 the additional expenses
                                                 listed in Sec.  301-
                                                 10.304).
-Privately owned airplane.....................  \1\ 88.0
-Privately owned automobile...................  \1\ 32.5
-Privately owned motorcycle...................  \1\ 26.0
+Privately owned airplane.....................  \1\ 96.5
+Privately owned automobile...................  \1\ 34.5
+Privately owned motorcycle...................  \1\ 27.5
 ------------------------------------------------------------------------
 \1\ Cents per mile.
 
 [FTR Amdt. 70, 63 FR 15955, Apr. 1, 1998, as amended by FTR Amdt. 73, 63 
 FR 47438, Sept. 8, 1998; FTR Amdt. 78, 64 FR 15630, Mar. 31, 1999; FTR 
-Amdt. 88, 65 FR 1268, Jan. 7, 2000]
+Amdt. 88, 65 FR 1268, Jan. 7, 2000; FTR Amdt. 95, 66 FR 6482, Jan. 22, 
+2001]
 
 
 Sec. 301-10.304    What expenses are allowable in addition to the 
         allowances prescribed in Sec. 301-10.303?
+
+Following is a chart listing the reimbursable and non-reimbursable 
+expenses:
 
 ------------------------------------------------------------------------
          Reimbursable expenses              Non-reimbursable expenses
@@ -2435,14 +2427,15 @@ Sec. 301-10.310  What will I be reimbursed if I am authorized to use a Governmen
     (a) Reimbursement based on Government costs--Unless you are 
 committed to using a Government vehicle as provided in paragraph (b) of 
 this section, your reimbursement will be limited to the cost that would 
-be incurred for use of a Government automobile, which in CONUS is 23.5 
-cents per mile. If your agency determines the cost of providing a 
-Government automobile would be higher because of unusual circumstances, 
-it may allow reimbursement not to exceed the mileage rate provided in 
-Sec. 301-10.303 for a privately owned automobile.
+be incurred for use of a Government automobile, which in CONUS is 28.5 
+cents per mile. If your
 
 [[Page 33]]
 
+agency determines the cost of providing a Government automobile would be 
+higher because of unusual circumstances, it may allow reimbursement not 
+to exceed the mileage rate provided in Sec. 301-10.303 for a privately 
+owned automobile.
     In addition, you may be reimbursed other allowable expenses as 
 provided in Sec. 301-10.304.
     (b) Partial reimbursement when you are committed to use a Government 
@@ -2453,6 +2446,9 @@ nevertheless request to use a privately owned automobile, you will be
 reimbursed 10.5 cents per mile. This is the approximate cost of 
 operating a Government automobile, fixed costs excluded. In addition, 
 parking fees, bridge, road and tunnel fees are reimbursable.
+
+[FTR Amdt. 70, 63 FR 15955, Apr. 1, 1998, as amended by FTR Amdt. 95, 66 
+FR 6482, Jan. 22, 2001]
 
 
 <R04>
@@ -2523,15 +2519,16 @@ or lodging at a TDY station; or
     (ii) Between the carrier terminal and shuttle terminal.
     (2) Courtesy transportation. You should use courtesy transportation 
 service furnished by hotels/motels to the maximum extent possible as a 
-first source of transportation between a place of lodging at the TDY 
-station and a common carrier terminal. You will be reimbursed for tips 
-when you use courtesy transportation service.
-    (3) Restrictions. When appropriate, your agency will restrict or 
-place a monetary limit on the amount of reimbursement for the use of 
-taxicabs under this paragraph when:
+first
 
 [[Page 34]]
 
+source of transportation between a place of lodging at the TDY station 
+and a common carrier terminal. You will be reimbursed for tips when you 
+use courtesy transportation service.
+    (3) Restrictions. When appropriate, your agency will restrict or 
+place a monetary limit on the amount of reimbursement for the use of 
+taxicabs under this paragraph when:
     (i) Suitable Government or common carrier transportation service, 
 including shuttle service, is available for all or part of the distance 
 involved; or
@@ -2617,6 +2614,9 @@ PART 301-11--PER DIEM EXPENSES--Table of Contents
 Sec.
 301-11.1  When am I eligible for an allowance (per diem or actual 
           expense)?
+
+[[Page 35]]
+
 301-11.2  Will I be reimbursed for per diem expenses if my official 
           travel is 12 hours or less?
 301-11.3  Must my agency pay an allowance (either a per diem allowance 
@@ -2628,9 +2628,6 @@ Sec.
 301-11.7  What determines my maximum per diem reimbursement rate?
 301-11.8  What is the maximum per diem rate I will receive if lodging is 
           not available at my TDY location?
-
-[[Page 35]]
-
 301-11.9  When does per diem or actual expense entitlement start/stop?
 301-11.10  Am I required to record departure/arrival dates and times on 
           my travel claim?
@@ -2715,6 +2712,9 @@ Subpart E--Income Tax Reimbursement Allowance (ITRA), Tax Years 1993 and
                                  General
 
 301-11.501  What is the Income Tax Reimbursement Allowance (ITRA)?
+
+[[Page 36]]
+
 301-11.502  Who is eligible to receive the ITRA?
 301-11.503  Are Federal Insurance Contribution Act (FICA) and Medicare 
           deductions included in any reimbursement under this part?
@@ -2727,9 +2727,6 @@ Subpart E--Income Tax Reimbursement Allowance (ITRA), Tax Years 1993 and
           payment due to incorrect income tax withholdings, are those 
           payments reimbursable?
 301-11.523  What documentation must I submit to substantiate my claim?
-
-[[Page 36]]
-
 301-11.524  What steps must my agency take to determine my ITRA?
 301-11.525  Is the ITRA I receive taxable income?
 301-11.526  May I receive a lump sum payment of the additional tax 
@@ -2815,6 +2812,9 @@ Subpart F--Income Tax Reimbursement Allowance (ITRA), Tax Years 1995 and
 Sec. 301-11.1  When am I eligible for an allowance (per diem or actual expense)?
 
     When:
+
+[[Page 37]]
+
     (a) You perform official travel away from your official station, or 
 other areas defined by your agency;
     (b) You incur per diem expenses while performing official travel; 
@@ -2826,8 +2826,6 @@ and
 Sec. 301-11.2  Will I be reimbursed for per diem expenses if my official travel is 12 hours or less?
 
     No.
-
-[[Page 37]]
 
 
 <R05>
@@ -2935,7 +2933,11 @@ Sec. 301-11.9  When does per diem or actual expense entitlement start/stop?
 
     Your per diem or actual expense entitlement starts on the day you 
 depart your home, office, or other authorized point and ends on the day 
-you return to your home, office or other authorized point.
+you return
+
+[[Page 38]]
+
+to your home, office or other authorized point.
 
 
 <R05>
@@ -2946,13 +2948,9 @@ official station or any other place travel begins or ends. You must show
 this same information for points where you perform TDY or for a stopover 
 or official rest stop location when the arrival or departure affects 
 your per diem allowance or other travel expenses. You also should show 
-the dates for other points
-
-[[Page 38]]
-
-visited. You do not have to record departure/arrival times, but you must 
-annotate your travel claim when your travel is more than 12 hours but 
-not exceeding 24 hours to reflect that fact.
+the dates for other points visited. You do not have to record departure/
+arrival times, but you must annotate your travel claim when your travel 
+is more than 12 hours but not exceeding 24 hours to reflect that fact.
 
 
 <R05>
@@ -3021,8 +3019,12 @@ exceed the maximum daily per diem rate for the TDY location.
 Sec. 301-11.15  What expenses may be considered part of the daily lodging cost when I rent on a long-term basis?
 
     When you rent a room, apartment, house, or other lodging on a long-
-term basis (e.g., weekly, monthly), the following expenses may be 
-considered part of the lodging cost:
+term
+
+[[Page 39]]
+
+basis (e.g., weekly, monthly), the following expenses may be considered 
+part of the lodging cost:
     (a) The rental cost for a furnished dwelling; if unfurnished, the 
 rental cost of the dwelling and the cost of appropriate and necessary 
 furniture and appliances (e.g., stove, refrigerator, chairs, tables, 
@@ -3031,9 +3033,6 @@ bed, sofa, television, or vacuum cleaner);
     (c) Cost of reasonable maid fees and cleaning charges;
     (d) Monthly telephone use fee (does not include installation and 
 long-distance calls); and,
-
-[[Page 39]]
-
     (e) If ordinarily included in the price of a hotel/motel room in the 
 area concerned, the cost of special user fees (e.g., cable TV charges 
 and plug-in charges for automobile head bolt heaters).
@@ -3113,8 +3112,11 @@ requires your stay to include a non-workday, (e.g., if you are on travel
 through Friday and again starting Monday you will be reimbursed for 
 Saturday and Sunday), however, your agency should determine the most 
 cost effective situation (i.e., remaining in a travel status and paying 
-per diem or actual expenses or permitting your return to your official 
-station).
+per diem or actual expenses
+
+[[Page 40]]
+
+or permitting your return to your official station).
     (b) Your agency will determine whether you will be reimbursed for 
 non-workdays when you take leave immediately (e.g., Friday or Monday) 
 before of after the non-workday(s).
@@ -3122,8 +3124,6 @@ before of after the non-workday(s).
     Note to Sec. 301-11.21: If emergency travel is involved due to an 
 incapacitating illness or injury, the rules in part 301-30 of this 
 chapter govern.
-
-[[Page 40]]
 
 
 <R05>
@@ -3186,7 +3186,7 @@ General Services              Department of         Department of State,
  Attn: Travel and              Transportation,       Annex 29, Room 262,
  Transportation, Management    Allowance Committee   Washington, DC
  Policy Division (MTT),        (PDTATAC), Hoffman    20522-2902.
- Washington, DC 20405.         Building #1, Room
+ Washington, DC 20405.         Building 1, Room
                                836, 2461
                                Eisenhower Ave,
                                Alexandria, VA
@@ -3212,15 +3212,14 @@ Sec. 301-11.28  As a traveler on official business, am I required to pay applica
 
     Yes, unless exempted by the State or local jurisdiction.
 
+[[Page 41]]
+
 
 <R05>
 Sec. 301-11.29  Are lodging facilities required to accept a generic federal, state or local tax exempt certificate?
 
     Exemptions from taxes for Federal travelers, and the forms required 
-to claim them, vary from location to location. The GSA Travel Homepage
-
-[[Page 41]]
-
+to claim them, vary from location to location. The GSA Travel Homepage 
 (http://policyworks.gov/travel) lists jurisdictions where tax exempt 
 certificates should be honored.
 
@@ -3317,6 +3316,9 @@ Do not require lodging, and.  Travel is more than   The M&IE rate
 ------------------------------------------------------------------------
 
 
+[[Page 42]]
+
+
 <R04>
                        Subpart C--Reduced Per Diem
 
@@ -3329,8 +3331,6 @@ Sec. 301-11.200  Under what circumstances may my agency prescribe a reduced per 
 meal costs will be lower than the per diem rate; and
     (b) The lowest authorized per diem rate must be stated in your 
 travel authorization in advance of your travel.
-
-[[Page 42]]
 
 
 <R04>
@@ -3409,6 +3409,8 @@ may not require M&IE itemization at its discretion.
 
 [63 FR 15961, Apr. 1, 1998; 63 FR 35537, June 30, 1998]
 
+[[Page 43]]
+
 
 <R04>
 Subpart E--Income Tax Reimbursement Allowance (ITRA), Tax Years 1993 and 
@@ -3432,11 +3434,8 @@ Sec. 301-11.502  Who is eligible to receive the ITRA?
 
     An employee (and spouse, if filing jointly) who was in a TDY status 
 for an extended period at one location, and who incurred Federal, State, 
-or local income taxes on amounts received as
-
-[[Page 43]]
-
-reimbursement for official travel expenses.
+or local income taxes on amounts received as reimbursement for official 
+travel expenses.
 
 
 <R05>
@@ -3522,9 +3521,13 @@ for any income taxes due on $19,307.
 Sec. 301-11.528  If I do not elect lump sum payment is there any additional reimbursement?
 
     Yes. You are reimbursed for the tax on the tax reimbursement 
-received. Your agency will calculate the tax on the tax reimbursement 
-using the formulas developed for the Year 2 reimbursements of the 
-relocation income tax allowance (see Sec. 302-11.8 of this title).
+received. Your agency will calculate the tax on
+
+[[Page 44]]
+
+the tax reimbursement using the formulas developed for the Year 2 
+reimbursements of the relocation income tax allowance (see Sec. 302-11.8 
+of this title).
 
                          Agency Responsibilities
 
@@ -3539,11 +3542,7 @@ title or copies of completed Federal, State and local tax return for the
 tax year in which the taxes were withheld and paid.
     (b) Copies of W-2's and Form 1099's.
     (c) Any documentation received from the IRS identifying any interest 
-or
-
-[[Page 44]]
-
-penalty payment (tax years 1993 and 1994 only).
+or penalty payment (tax years 1993 and 1994 only).
     (d) Any other documentation necessary to substantiate the claim.
 
 
@@ -3619,6 +3618,9 @@ Total 6 and 7a and b = ITRA--$14,345**
   at the appropriate Federal, State and local income tax rates.
 
 
+[[Page 45]]
+
+
 <R05>
 Sec. 301-11.536  Is the ITRA reimbursement considered to be income to the employee?
 
@@ -3631,8 +3633,6 @@ Sec. 301-11.537  Are income taxes to be withheld from the ITRA?
 
     Yes, as determined by your internal tax withholding procedures 
 established for your agency pursuant to IRS procedures.
-
-[[Page 45]]
 
 
 <R05>
@@ -3730,8 +3730,12 @@ in Sec. 301-11.535.
 Sec. 301-11.625  Is the ITRA I receive taxable income?
 
     Yes. The amount received must be reported as taxable income in the 
-year in which received, but you are eligible to receive an allowance to 
-cover the taxes assessed on the ITRA under Sec. 301-11.628.
+year in which received, but you are eligible to
+
+[[Page 46]]
+
+receive an allowance to cover the taxes assessed on the ITRA under 
+Sec. 301-11.628.
 
 
 <R05>
@@ -3746,10 +3750,6 @@ without further reimbursement.
 Sec. 301-11.627  If I elect a lump sum payment, how is the ITRA paid?
 
     (a) Reimbursement is as illustrated:
-
-[[Page 46]]
-
-
 
                    Lump Sum ITRA Tax Paid to Employee
 ------------------------------------------------------------------------
@@ -3837,6 +3837,10 @@ tax rate schedules in Appendix B to part 302-11 of this title:
 2. Subtract travel reimbursement:.......  ..............        (15,482)
 3. Subtract personal exemptions and             (12,689)        (12,689)
  itemized or standard deductions........
+
+[[Page 47]]
+
+ 
 4. Adjusted taxable income..............          62,557          47,075
 5. Tax liability on adjusted taxable
  income:
@@ -3850,10 +3854,6 @@ tax rate schedules in Appendix B to part 302-11 of this title:
  total of column 2: Additional Taxes
  Incurred due to travel reimbursement--
  $11,345
-
-[[Page 47]]
-
- 
 Total = ITRA--$11,345**
 ------------------------------------------------------------------------
 *Adjusted taxable income places employee in lower tax bracket.
@@ -3939,6 +3939,10 @@ Services of typists, data     Transaction fees for  Foreign country exit
                                (ATMs)-Government
                                contractor-issued
                                charge card.
+
+[[Page 48]]
+
+ 
 Storage of property used on                         Costs of birth,
  official business..                                 health, and
                                                      identity
@@ -3954,10 +3958,6 @@ Faxes, telegrams,
  cablegrams, or radiograms..
 Lodging taxes as prescribed
  in Sec.  301-11.27..
-
-[[Page 48]]
-
- 
 Laundry, cleaning and
  pressing of clothing
  expenses as prescribed in
@@ -4051,6 +4051,9 @@ Sec.
           travel?
 301-30.4  When an illness or injury occurs on TDY, what expenses may be 
           allowed?
+
+[[Page 49]]
+
 301-30.5  Are there any limitations to the payment of these expenses?
 
     Authority: 5 U.S.C. 5707.
@@ -4064,9 +4067,6 @@ Sec. 301-30.1  What is emergency travel?
     Travel which results from:
     (a) Your becoming incapacitated by illness or injury not due to your 
 own misconduct; or
-
-[[Page 49]]
-
     (b) The death or serious illness of a member of your family; or
     (c) A catastrophic occurrence or impending disaster, such as fire, 
 flood, or act of God, which directly affects your home.
@@ -4152,6 +4152,8 @@ Sec.
 
     Source: 63 FR 15966, Apr. 1, 1998, unless otherwise noted.
 
+[[Page 50]]
+
 
 <R05>
 Sec. 301-31.1  Why pay subsistence and transportation expenses for threatened law enforcement/investigative employees?
@@ -4168,8 +4170,6 @@ Sec. 301-31.2  What is ``family'' with respect to threatened law enforcement/inv
 as defined in Sec. 300-3.1 of this title. However, your agency may, on a 
 case-by-case basis, expand this definition to include other members of 
 you and/or your spouse's extended family.
-
-[[Page 50]]
 
 
 <R05>
@@ -4241,6 +4241,10 @@ number of days authorized. The ``maximum daily amount'' is determined by
 adding the rates in the following table for you and each member of your 
 family authorized to occupy temporary living accommodations:
 
+[[Page 51]]
+
+
+
 ----------------------------------------------------------------------------------------------------------------
                                                  The ``maximum daily amount'' of per diem expenses that
                                       --------------------------------------------------------------------------
@@ -4259,9 +4263,6 @@ Payment for lodging, meals, and other  The maximum per diem     .75 times the ma
                                         locality.                applicable to the        applicable to the
                                                                  locality..               locality.
 ----------------------------------------------------------------------------------------------------------------
-
-
-[[Page 51]]
 
 
 <R05>
@@ -4314,9 +4315,7 @@ waive these requirements.
 SUBCHAPTER C--ARRANGING FOR TRAVEL SERVICES, PAYING TRAVEL EXPENSES, AND 
                          CLAIMING REIMBURSEMENT
 
-<R05>
-
-
+<R03>
 PART 301-50--ARRANGING FOR TRAVEL SERVICES--Table of Contents
 
 <R05>
@@ -4671,6 +4670,9 @@ Sec. 301-51.200  For what expenses may I receive a travel advance?
 
 Sec. 301-51.201    What is the maximum amount that my agency may 
         advance?
+
+The amount your agency advances you may not exceed the following 
+amounts:
 
 ------------------------------------------------------------------------
                                    The maximum amount your agency may
@@ -5305,8 +5307,6 @@ percentage.
 
 <R03>
                   SUBCHAPTER D--AGENCY RESPONSIBILITIES
-
-
 
 <R03>
 PART 301-70--INTERNAL POLICY AND PROCEDURE REQUIREMENTS--Table of Contents
@@ -7557,7 +7557,7 @@ otherwise noted.
 <R04>
                         Subpart A--General Rules
 
-    Note to Subpart A:  Use of pronouns ``we'', ``you'', and their 
+    Note to subpart A: Use of pronouns ``we'', ``you'', and their 
 variants throughout this part refers to the agency.
 
 
@@ -7588,9 +7588,8 @@ pay.
 <R04>
                    Subpart B--Policies and Procedures
 
-    Note to Subpart B:
-     Use of pronouns ``we'', ``you'', and their variants throughout this 
-part refers to the agency.
+    Note to Subpart B:  Use of pronouns ``we'', ``you'', and their 
+variants throughout this part refers to the agency.
 
 
 <R05>
@@ -7641,137 +7640,173 @@ writing to deduction of a greater percentage.
 
  Appendix A to Chapter 301--Prescribed Maximum Per Diem Rates for CONUS
 
-    The maximum rates listed in this appendix are prescribed under part 
-301-11 of this chapter for reimbursement of per diem expenses incurred 
-during official travel within CONUS (the continental United States). The 
-amount shown in column (a) is the maximum that will be reimbursed for 
-lodging expenses excluding taxes. The M&IE rate shown in column (b) is a 
-fixed amount allowed for meals and incidental expenses covered by per 
-diem. The per diem payment calculated in accordance with part 301-11 of 
-this chapter for lodging expenses plus the M&IE rate may not exceed the 
+    The maximum rates listed below are prescribed under part 301-11 of 
+this chapter for reimbursement of per diem expenses incurred during 
+official travel within CONUS (the continental United States). The amount 
+shown in column (a) is the maximum that will be reimbursed for lodging 
+expenses excluding taxes. The M&IE rate shown in column (b) is a fixed 
+amount allowed for meals and incidental expenses covered by per diem. 
+The per diem payment calculated in accordance with part 301-11 of this 
+chapter for lodging expenses plus the M&IE rate may not exceed the 
 maximum per diem rate shown in column (c). Seasonal rates apply during 
 the periods indicated. It is the policy of the Government, as reflected 
 in the Hotel Motel Fire Safety Act of 1990 (Public Law 101-391, 
 September 25, 1990 as amended by Public Law 105-85, November 18, 1997), 
-referred to as ``the Act'' in this paragraph, to save lives and protect 
+referred to as ``the Act'' in this appendix, to save lives and protect 
 property by promoting fire safety in hotels, motels, and all places of 
 public accommodation affecting commerce. In furtherance of the Act's 
 goals, employees are encouraged to stay in a facility which is fire-
 safe, i.e., an approved accommodation, when commercial lodging is 
 required. Lodgings that meet the Government requirements are listed on 
 the U.S. Fire Administration's Internet site at http://
-www.usfa.fema.gov/hotel/index.htm.
-
+www.usfa.fema.gov/hotel/index.cfm. 
 
 [[Page 87]]
 
-
-[GRAPHIC] [TIFF OMITTED] TR02DE99.011
+[GRAPHIC] [TIFF OMITTED] TR01SE00.054
 
 
 [[Page 88]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.012
+[GRAPHIC] [TIFF OMITTED] TR01SE00.055
 
 
 [[Page 89]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR13JN00.000
+[GRAPHIC] [TIFF OMITTED] TR01SE00.056
 
 
 [[Page 90]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.014
+[GRAPHIC] [TIFF OMITTED] TR01SE00.057
 
 
 [[Page 91]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.015
+[GRAPHIC] [TIFF OMITTED] TR19OC00.126
 
 
 [[Page 92]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.016
+[GRAPHIC] [TIFF OMITTED] TR01SE00.059
 
 
 [[Page 93]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR19MY00.001
+[GRAPHIC] [TIFF OMITTED] TR01SE00.060
 
 
 [[Page 94]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.018
+[GRAPHIC] [TIFF OMITTED] TR01SE00.061
 
 
 [[Page 95]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.019
+[GRAPHIC] [TIFF OMITTED] TR01SE00.062
 
 
 [[Page 96]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.020
+[GRAPHIC] [TIFF OMITTED] TR19OC00.127
 
 
 [[Page 97]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.021
+[GRAPHIC] [TIFF OMITTED] TR19OC00.128
 
 
 [[Page 98]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.022
+[GRAPHIC] [TIFF OMITTED] TR19OC00.129
 
 
 [[Page 99]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.023
+[GRAPHIC] [TIFF OMITTED] TR19OC00.130
 
 
 [[Page 100]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.024
+[GRAPHIC] [TIFF OMITTED] TR01SE00.067
 
 
 [[Page 101]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.025
+[GRAPHIC] [TIFF OMITTED] TR19OC00.131
 
 
 [[Page 102]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.026
+[GRAPHIC] [TIFF OMITTED] TR19OC00.132
 
 
 [[Page 103]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR02DE99.027
+[GRAPHIC] [TIFF OMITTED] TR01SE00.070
 
-
-[FTR Amdt. 87, 64 FR 67671, Dec. 2, 1999; 65 FR 3392, Jan. 21, 2000; 65 
-FR 31824, May 19, 2000; 65 FR 37053, June 13, 2000]
+\1\ Unless otherwise specified, the per diem locality is defined as 
+``all locations within, or entirely surrounded by, the corporate limits 
+of the key city, including independent entities located within those 
+boundaries.''
+\2\ Per diem localities with county definitions shall include ``all 
+locations within, or entirely surrounded by, the corporate limits of the 
+key city as well as the boundaries of the listed counties, including 
+independent entities located within the boundaries of the key city and 
+the listed counties (unless otherwise listed separately).''
+\3\ When a military installation or Government-related facility (whether 
+or not specifically named) is located partially within more than one 
+city or county boundary, the applicable per diem rate for the entire 
+installation or facility is the higher of the two rates which apply to 
+the cities and/or counties, even though part(s) of such activities may 
+be located outside the defined per diem locality.
+\4\ Federal agencies may submit a request to GSA for review of the costs 
+covered by per diem in a particular city or area where the standard 
+CONUS rate applies when travel to that location is repetitive or on a 
+continuing basis and travelers' experiences indicate that the prescribed 
+rate is inadequate. Other per diem localities listed in this appendix 
+will be reviewed on an annual basis by GSA to determine whether rates 
+are adequate. Requests for per diem rate adjustments shall be submitted 
+by the agency headquarters office to the General Services 
+Administration, Office of Governmentwide Policy, Attn: Travel Management 
+Policy Division (MTT), Washington, DC 20405. Agencies should designate 
+an individual responsible for reviewing, coordinating, and submitting to 
+GSA any requests from bureaus or subagencies. Requests for rate 
+adjustments shall include a city designation, a description of the 
+surrounding location involved (county or other defined area), and a 
+recommended rate supported by a statement explaining the circumstances 
+that cause the existing rate to be inadequate. The request also must 
+contain an estimate of the annual number of trips to the location, the 
+average duration of such trips, and the primary purpose of travel to the 
+location.
+\5\ The standard CONUS rate of $85 ($55 for lodging and $30 for M&IE) 
+applies to all per diem localities in the State of North Dakota.
+    Note: Recognizing that all locations are incorporated cities, the 
+term ``city limits'' has been used as a general phrase to denote the 
+commonly recognized local boundaries of the location cited.
+[FTR Amdt. 94, 65 FR 53472, Sept. 1, 2000; 65 FR 62637, Oct. 19, 2000]
 
 [[Page 104]]
 
-       Appendix B to Chapter 301--Allocation of M&IE Rates to Be 
-           Used in Making Deductions From the M&IE Allowance
+Appendix B to Chapter 301--Allocation of M&IE Rates to Be Used in Making 
+                   Deductions From the M&IE Allowance
+
     M&IE rates for localities in nonforeign areas (prescribed in 
 Civilian Personnel Per Diem Bulletins published periodically in the 
 Federal Register by the Secretary of Defense) and for localities in 
@@ -7908,14 +7943,14 @@ $1................................................................      $0      
 122...............................................................      18         31         49          24
 123...............................................................      18         31         49          25
 124...............................................................      19         31         49          25
-
-[[Page 105]]
-
- 
 125...............................................................      19         31         50          25
 126...............................................................      19         32         50          25
 127...............................................................      19         32         51          25
 128...............................................................      19         32         51          26
+
+[[Page 105]]
+
+ 
 129...............................................................      19         32         52          26
 130...............................................................      20         32         52          26
 131...............................................................      20         33         52          26
@@ -8061,10 +8096,13 @@ the incidental expense allowance.
 
 [FTR Amdt. 10, 55 FR 41535, Oct. 12, 1990]
 
+  Appendix C to Chapter 301--Standard Data Elements for Federal Travel 
+                        [Traveler Identification]
+
 [[Page 106]]
 
 
-         Appendix C to Chapter 301--Standard Data Elements for Federal Travel [Traveler Identification]
+
 ----------------------------------------------------------------------------------------------------------------
              Group name                     Data elements                           Description
 ----------------------------------------------------------------------------------------------------------------
@@ -8694,6 +8732,7 @@ speakers, printers, photographers, and other special contributors.
     <bullet> Summary to acknowledge the accomplishments, and to convey 
 the information discussed to a wider audience, may be an excellent 
 promotional tool.
+
     Note to Appendix E: Use of pronouns ``we'', ``you'', and their 
 variants throughout this appendix refers to the agency.
 
@@ -8729,9 +8768,9 @@ Part                                                                Page
 302-10          Allowances for transportation and emergency 
                     storage of a privately owned vehicle....         176
 302-11          Relocation income tax (RIT) allowance.......         184
-302-12          Use of a relocation services company........         232
-302-14          Home marketing incentive payments...........         236
-302-15          Allowance for property management services..         238
+302-12          Use of a relocation services company........         237
+302-14          Home marketing incentive payments...........         241
+302-15          Allowance for property management services..         243
 
 [[Page 117]]
 
@@ -10554,6 +10593,7 @@ duration of the long-term assignment.
 
 <R05>
 Sec. 302-1.226  If I have been authorized successive temporary changes of station and reassigned from one temporary official station to another, what expenses 
+
           will my agency pay upon completion of my last assignment or my 
           separation from Government service?
 
@@ -11331,6 +11371,9 @@ Your spouse.......................  The earlier of:
 Sec. 302-4.13    What methods may my agency use to reimburse me for 
         househunting trip expenses?
 
+Your agency will reimburse your househunting trip expenses as indicated 
+in the following table:
+
 ------------------------------------------------------------------------
                 For                          You are reimbursed
 ------------------------------------------------------------------------
@@ -11795,6 +11838,9 @@ reduce the maximum allowable amount to your expected expenses.
 
 Sec. 302-5.102    What is the ``applicable per diem rate'' under the 
         actual TQSE reimbursement method?
+
+The ``applicable per diem rate'' under the actual TQSE reimbursement 
+method is as follows:
 
 ------------------------------------------------------------------------
                                                The applicable per diem
@@ -14053,6 +14099,7 @@ several States and the District of Columbia.
 
 <R05>
 Sec. 302-10.175  When I am authorized to transport a POV, including a replacement POV, to my post of duty subsequent to the time of my assignment to that post 
+
           of duty, may I have the manufacturer or the manufacturer's 
           agent transport a new POV from the factory or other shipping 
           point directly to my post of duty?
@@ -16164,8 +16211,13 @@ Year 1 occurred during calendar year 1998.]
 39.6....................................................     299,410                 321,683                 308,061                 152,715
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-Federal Marginal Tax Rates by Earned Income Level and Filing Status-Tax 
+Federal Marginal Tax Rates by Earned Income Level and Filing Status--Tax 
                                 Year 1999
+
+The following table is to be used to determine the Federal marginal tax 
+rate for Year 1 for computation of the RIT allowance as prescribed in 
+Sec. 302-11.8(e)(1). This table is to be used for employees whose Year 1 
+occurred during calendar year 1999.
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                      Single taxpayer     Heads of household      Married filing        Married filing
@@ -16186,13 +16238,44 @@ Federal Marginal Tax Rates by Earned Income Level and Filing Status-Tax
 39.6............................................................    300,782  .........    324,383  .........    309,316  .........    164,417  .........
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+Federal Marginal Tax Rates by Earned Income Level and Filing Status--Tax 
+                                Year 2000
+
+The following table is to be used to determine the Federal marginal tax 
+rate for Year 1 for computation of the RIT allowance as prescribed in 
+Sec. 302-11.8(e)(1). This table is to be used for employees whose Year 1 
+occurred during calendar year 2000.
+
+[[Page 207]]
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+               Marginal  tax rate                     Single  taxpayer         Heads of  household    Married filing  jointly/       Married  filing
+-----------------------------------------------------------------------------------------------------   qualifying  widows &           separately
+                                                                                                              widowers         -------------------------
+                                                                 But not                   But not   --------------------------
+                     Percent                          Over         over         Over         over                    But not        Over       But not
+                                                                                                          Over         over                      over
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+15..............................................       $7,417      $34,638      $13,375      $49,734      $17,421      $63,297       $8,603      $31,342
+28..............................................       34,638       75,764       49,734      113,413       63,297      131,334       31,342       63,448
+31..............................................       75,764      148,990      113,413      180,742      131,334      189,826       63,448       99,219
+36..............................................      148,990      306,111      180,742      326,450      189,826      315,957       99,219      170,524
+39.6............................................      306,111  ...........      326,450  ...........      315,957  ...........      170,524  ...........
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+[[Page 208]]
+
 [54 FR 20332, May 10, 1989, as amended by FTR Amdt. 5, 55 FR 1674, Jan. 
 18, 1990; FTR Amdt. 15, 56 FR 10378, Mar. 12, 1991; FTR Amdt. 24, 57 FR 
 1112, Jan. 10, 1992; FTR Amdt. 28, 58 FR 8547, Feb. 16, 1993; FTR Amdt. 
 35, 59 FR 22520, May 2, 1994; FTR Amdt. 43, 60 FR 2536, Jan. 10, 1995; 
 FTR Amdt. 46, 61 FR 3838, Feb. 2, 1996; FTR Amdt. 57, 62 FR 8174, Feb. 
 24, 1997; FTR Amdt. 71, 63 FR 14637, Mar. 26, 1998; FTR Amdt. 80, 64 FR 
-17106, Apr. 8, 1999; FTR Amdt. 91, 65 FR 8658, Feb. 22, 2000]
+17106, Apr. 8, 1999; FTR Amdt. 91, 65 FR 8658, Feb. 22, 2000; FTR Amdt. 
+96, 66 FR 23178, May 8, 2001]
           Appendix B to Part 302-11--State Tax Tables for RIT 
                                Allowance
 
@@ -16253,10 +16336,6 @@ Sec. 302-11.8(e)(2).
 35. North Dakota....................              6                  8                  9                  9
 36. Ohio............................              4.75               5.7                6.65               9.5
 37. Oklahoma........................              6                  6                  6                  6
-
-[[Page 207]]
-
- 
 38. Oregon..........................             10.8               10.8               10.8               10.8
 39. Pennsylvania....................              2.35               2.35               2.35               2.35
  
@@ -16270,6 +16349,10 @@ Sec. 302-11.8(e)(2).
 46. Vermont                                              * 26 percent of Federal income tax liability \4\
 47. Virginia........................              5.75               5.75               5.75               5.75
 48. Washington......................              0                  0                  0                  0
+
+[[Page 209]]
+
+ 
 49. West Virginia...................              3.5                7.4               10.5               13
     If single status \3\............              8.2               12.6               13                 13
 50. Wisconsin.......................              8.7                9.5               10                 10
@@ -16337,10 +16420,6 @@ covered taxable reimbursements during calendar year 1985.
 31. New Jersey......................              2                  2.5                3.5                3.5
 32. New Mexico......................              3.5                5.6                6.5                7.8
     If single status \3\............              6.1                6.9                7.4                7.8
-
-[[Page 208]]
-
- 
 33. New York........................             11                 14                 14                 14
     If single status \3\............             13                 14                 14                 14
 34. North Carolina..................              7                  7                  7                  7
@@ -16354,6 +16433,10 @@ covered taxable reimbursements during calendar year 1985.
  
 41. South Carolina..................              7                  7                  7                  7
 42. South Dakota....................              0                  0                  0                  0
+
+[[Page 210]]
+
+ 
 43. Tennessee.......................              0                  0                  0                  0
 44. Texas...........................              0                  0                  0                  0
 45. Utah............................              7.75               7.75               7.75               7.75
@@ -16421,10 +16504,6 @@ covered taxable reimbursements during calendar year 1986.
     If single status \3\............             14                 14                 14                 14
 25. Mississippi.....................              5                  5                  5                  5
 26. Missouri........................              6                  6                  6                  6
-
-[[Page 209]]
-
- 
 27. Montana.........................              9                 10                 11                 11
  
 28. Nebraska                                              * 19 percent of Federal income tax liability \4\
@@ -16438,6 +16517,10 @@ covered taxable reimbursements during calendar year 1986.
 35. North Dakota....................              6                  8                  9                  9
 36. Ohio............................              4.513              5.415              6.318              9.025
 37. Oklahoma........................              6                  6                  6                  6
+
+[[Page 211]]
+
+ 
 38. Oregon..........................              9.75               9.75               9.75               9.75
 39. Pennsylvania....................              2.167              2.167              2.167              2.167
  
@@ -16506,10 +16589,6 @@ covered taxable reimbursements during calendar year 1987.
 20. Maine...........................              3                  9.2               10                 10
     If single status \3\............              9.2               10                 10                 10
 21. Maryland........................              5                  5                  5                  5
-
-[[Page 210]]
-
- 
 22. Massachusetts...................              5                  5                  5                  5
 23. Michigan........................              4.6                4.6                4.6                4.6
 24. Minnesota.......................              8                  9                  9                  9
@@ -16521,6 +16600,10 @@ covered taxable reimbursements during calendar year 1987.
     If single status \3\............              5                  5.9                5.9                5.9
 29. Nevada..........................              0                  0                  0                  0
 30. New Hampshire...................              0                  0                  0                  0
+
+[[Page 212]]
+
+ 
 31. New Jersey......................              2                  2.5                3.5                3.5
 32. New Mexico......................              3.8                5.9                7.7                8.5
     If single status \3\............              5.8                7.7                8.5                8.5
@@ -16590,10 +16673,6 @@ covered taxable reimbursements during calendar year 1988.
     If single status \3\............              6                  7.7                7.7                7.7
  9. District of Columbia............              8                  9.5                9.5                9.5
 10. Florida.........................              0                  0                  0                  0
-
-[[Page 211]]
-
- 
 11. Georgia.........................              6                  6                  6                  6
 12. Hawaii..........................              8.25               9.75              10                 10
     If single status \3\............              9.75              10                 10                 10
@@ -16605,6 +16684,10 @@ covered taxable reimbursements during calendar year 1988.
     If single status \3\............              7.2                8.8                9.98               9.98
 17. Kansas..........................              4.05               5.3                5.3                5.3
     If single status \3\............              4.8                6.1                6.1                6.1
+
+[[Page 213]]
+
+ 
 18. Kentucky........................              6                  6                  6                  6
 19. Louisiana.......................              2                  4                  4                  6
     If single status \3\............              4                  4                  6                  6
@@ -16677,10 +16760,6 @@ tax rates for calculation of the RIT allowance as prescribed in
 Sec. 302-11.8(e)(2). This table is to be used for employees who received 
 covered taxable reimbursements during calendar year 1989.
 
-[[Page 212]]
-
-
-
 ----------------------------------------------------------------------------------------------------------------
                                          Marginal tax rates (stated in percents) for the earned income amounts
                                                            specified in each column \1,\ \2\
@@ -16691,6 +16770,10 @@ covered taxable reimbursements during calendar year 1989.
 2. Alaska...........................              0                  0                  0                  0
 3. Arizona..........................              6                  8                  8                  8
     If single status \3\............              8                  8                  8                  8
+
+[[Page 214]]
+
+ 
 4. Arkansas.........................              4.5                7                  7                  7
     If single status \3\............              6                  7                  7                  7
 5. California.......................              2                  6                  9.3                9.3
@@ -16758,10 +16841,6 @@ covered taxable reimbursements during calendar year 1989.
     If single status \3\............              4                  6                  6.5                6.5
 50. Wisconsin.......................              6.55               6.93               6.93               6.93
     If single status \3\............              6.93               6.93               6.93               6.93
-
-[[Page 213]]
-
- 
 51. Wyoming.........................              0                  0                  0                 0
 ----------------------------------------------------------------------------------------------------------------
 \1\ Earned income amounts that fall between the income brackets shown in this table (e.g., $24,999.45,
@@ -16769,6 +16848,10 @@ covered taxable reimbursements during calendar year 1989.
   calculating the RIT allowance.
 \2\ If the earned income amount is less than the lowest income bracket shown in this table, the employing agency
   shall establish an appropriate marginal tax rate as provided in Sec.  302-11.8(e)(2)(ii).
+
+[[Page 215]]
+
+ 
 \3\ This rate applies only to those individuals certifying that they will file under a single status within the
   States where they will pay income taxes. All other taxpayers, regardless of filing status, will use the other
   rate shown.
@@ -16839,10 +16922,6 @@ covered taxable reimbursements during calendar year 1990.
     If single status \3\............              7                  7                  7                  7
 38. Oregon..........................              9                  9                  9                  9
 39. Pennsylvania....................              2.1                2.1                2.1                2.1
-
-[[Page 214]]
-
- 
 40. Rhode Island                                              * 22.96 percent of Federal income tax liability
  \4\
 41. South Carolina..................              7                  7                  7                  7
@@ -16854,6 +16933,10 @@ covered taxable reimbursements during calendar year 1990.
 47. Virginia........................              5                  5.75               5.75               5.75
 48. Washington......................              0                  0                  0                  0
 49. West Virginia...................              4                  4.5                6.5                6.5
+
+[[Page 216]]
+
+ 
     If single status \3\............              4                  6                  6.5                6.5
 50. Wisconsin.......................              6.55               6.93               6.93               6.93
 51. Wyoming.........................              0                  0                  0                 0
@@ -16921,10 +17004,6 @@ covered taxable reimbursements during calendar year 1991.
 26. Missouri........................              5.5                6                  6                  6
 27. Montana.........................              5                 10                 10                 11
     If single status \3\............              8                 10                 11                 11
-
-[[Page 215]]
-
- 
 28. Nebraska........................              3.63               5.62               6.92               6.92
     If single status \3\............              5.62               6.92               6.92               6.92
 29. Nevada..........................              0                  0                  0                  0
@@ -16935,6 +17014,10 @@ covered taxable reimbursements during calendar year 1991.
     If single status \3\............              5.8                7.7                8.5                8.5
 33. New York........................              4                  7.875              7.875              7.875
     If single status \3\............              7.875              7.875              7.875              7.875
+
+[[Page 217]]
+
+ 
 34. North Carolina..................              6                  7                  7                  7.75
 35. North Dakota....................              6.67               9.33              12                 12
     If Single status \3\............              8                 10.67              12                 12
@@ -17007,10 +17090,6 @@ covered taxable reimbursements during calendar year 1992.
     If single status \3\............              8                  9.5                9.5                9.5
 10. Florida.........................              0                  0                  0                  0
 11. Georgia.........................              5                  6                  6                  6
-
-[[Page 216]]
-
- 
 12. Hawaii..........................              7.25               9.5               10                 10
     If single status \3\............              9.5               10                 10                 10
 13. Idaho...........................              6.5                7.8                8.2                8.2
@@ -17021,6 +17100,10 @@ covered taxable reimbursements during calendar year 1992.
 17. Kansas..........................              3.5                6.25               6.25               6.45
     If single status \3\............              4.4                7.75               7.75               7.75
 18. Kentucky........................              6                  6                  6                  6
+
+[[Page 218]]
+
+ 
 19. Louisiana.......................              2                  4                  6                  6
     If single status \3\............              4                  4                  6                  6
 20. Maine...........................              4.725              8.925              8.925              9.89
@@ -17089,10 +17172,6 @@ covered taxable reimbursements during calendar year 1992.
   employees whose earned income amounts are between $20,000-$49,999; and 29.75 percent of Federal income tax
   liability for employees whose earned income amounts are $50,000 and over. Rates shown as a percent of Federal
   income tax liability must be converted to a percent of income as provided in Sec.  302-11.8(e)(2)(iii).
-
-[[Page 217]]
-
- 
 \6\ The income tax rate for Vermont (for other than single status) is 28 percent of Federal income tax liability
   for employees whose earned income amounts are between $20,000-$24,999; 31 percent of Federal income tax
   liability for employees whose earned income amounts are between $25,000-$74,999; and 34 percent of Federal
@@ -17104,6 +17183,9 @@ covered taxable reimbursements during calendar year 1992.
   for employees whose earned income amounts are between $25,000-$49,999; and 34 percent of Federal income tax
   liability for employees whose earned income amounts are $50,000 and over. Rates shown as a percent of Federal
   income tax liability must be converted to a percent of income as provided in Sec.  302-11.8(e)(2)(iii).
+
+
+[[Page 219]]
 
      State Marginal Tax Rates by Earned Income Level--Tax Year 1993
 
@@ -17175,10 +17257,6 @@ covered taxable reimbursements during calendar year 1993.
  
 40. Rhode Island....................                               (See footnote 4)
  
-
-[[Page 218]]
-
- 
     If single status \3\                                           (See footnote 5)
 41. South Carolina..................              7                  7                  7                  7
 42. South Dakota....................              0                  0                  0                  0
@@ -17191,6 +17269,10 @@ covered taxable reimbursements during calendar year 1993.
  
 47. Virginia........................              5                  5.75               5.75               5.75
 48. Washington......................              0                  0                  0                  0
+
+[[Page 220]]
+
+ 
 49. West Virginia...................              4                  4.5                6                  6.5
 50. Wisconsin.......................              6.55               6.93               6.93               6.93
 51. Wyoming.........................              0                  0                  0                 0
@@ -17263,10 +17345,6 @@ covered taxable reimbursements during calendar year 1994.
 15. Indiana.........................               3.4                 3.4                 3.4             3.4
 16. Iowa............................               6.8                 8.8                 9.98            9.98
 17. Kansas..........................               3.5                 6.25                6.25            6.45
-
-[[Page 219]]
-
- 
     If single status \3\............               4.4                 7.75                7.75            7.75
 18. Kentucky........................               6                   6                   6               6
 19. Louisiana.......................               2                   4                   6               6
@@ -17278,6 +17356,10 @@ covered taxable reimbursements during calendar year 1994.
 23. Michigan........................               4.4                 4.4                 4.4             4.4
 24. Minnesota.......................               6                   8                   8               8.5
     If single status \3\............               8                   8                   8.5             8.5
+
+[[Page 221]]
+
+ 
 25. Mississippi.....................               5                   5                   5               5
 26. Missouri........................               6                   6                   6               6
 27. Montana.........................               6                   9                  10              11
@@ -17346,10 +17428,6 @@ tax rates for calculation of the RIT allowance as prescribed in
 Sec. 302-11.8(e)(2). This table is to be used for employees who received 
 covered taxable reimbursements during calendar year 1995.
 
-[[Page 220]]
-
-
-
 ----------------------------------------------------------------------------------------------------------------
                                          Marginal tax rates (stated in percents) for the earned income amounts
                                                            specified in each column \1,\ \2\
@@ -17363,6 +17441,10 @@ covered taxable reimbursements during calendar year 1995.
  4. Arkansas........................              4.5                7                  7                  7
     If single status \3\............              6                  7                  7                  7
  5. California......................              2                  4                  8                 11
+
+[[Page 222]]
+
+ 
     If single status \3\............              4                  9.3                9.3               11
  6. Colorado........................              5                  5                  5                  5
  7. Connecticut.....................              4.5                4.5                4.5                4.5
@@ -17431,10 +17513,6 @@ covered taxable reimbursements during calendar year 1995.
   calculating the RIT allowance.
 \2\ If the earned income amount is less than the lowest income bracket shown in this table, the employing agency
   shall establish an appropriate marginal tax rate as provided in Sec.  302-11.8(e)(2)(ii).
-
-[[Page 221]]
-
- 
 \3\ This rate applies only to those individuals certifying that they will file under a single status within the
   States where they will pay income taxes. All other taxpayers, regardless of filing status, will use the other
   rate shown.
@@ -17447,6 +17525,9 @@ covered taxable reimbursements during calendar year 1995.
 \6\ The income tax rate for Vermont is 25 percent of Federal income tax liability for all employees. Rates shown
   as a percent of Federal income tax liability must be converted to a percent of income as provided in Sec.  302-
   11.8(e)(2)(iii).
+
+
+[[Page 223]]
 
      State Marginal Tax Rates by Earned Income Level--Tax Year 1996
 
@@ -17519,10 +17600,6 @@ covered taxable reimbursements during calendar year 1996.
  ...................................                               (See footnote 4)
 41. South Carolina..................              7                  7                  7                  7
 42. South Dakota....................              0                  0                  0                  0
-
-[[Page 222]]
-
- 
 43. Tennessee.......................              0                  0                  0                  0
 44. Texas...........................              0                  0                  0                  0
 45. Utah............................              7                  7                  7                  7
@@ -17532,6 +17609,10 @@ covered taxable reimbursements during calendar year 1996.
 48. Washington......................              0                  0                  0                  0
 49. West Virginia...................              4                  4.5                6                  6.5
 50. Wisconsin.......................              6.55               6.93               6.93               6.93
+
+[[Page 224]]
+
+ 
 51. Wyoming.........................              0                  0                  0                 0
 ----------------------------------------------------------------------------------------------------------------
 \1\ Earned income amounts that fall between the income brackets shown in this table (e.g., $24,999.45,
@@ -17603,10 +17684,6 @@ Nebraska.......................................           3.65             5.24 
 Nevada.........................................           0                0                0              0
 New Hampshire..................................           0                0                0              0
 New Jersey.....................................           1.4              1.75             2.45           6.37
-
-[[Page 223]]
-
- 
     If single status \3\.......................           1.4              3.50             5.525          6.37
 New Mexico.....................................           3.2              6                7.1            8.5
     If single status \3\.......................           6                7.1              7.9            8.5
@@ -17620,6 +17697,10 @@ Oklahoma.......................................           4                7    
     If single status \3\.......................           7                7                7              7
 Oregon.........................................           9                9                9              9
 Pennsylvania...................................           2.8              2.8              2.8            2.8
+
+[[Page 225]]
+
+ 
 Rhode Island...................................          27.5             27.5             27.5           27.5
 ----------------------------------------------------------------------------------------------------------------
                                          (Rhode Island--See Footnote 4)
@@ -17662,7 +17743,7 @@ Sec. 302-11.8(e)(2). This table is to be used for employees who received
 covered taxable reimbursements during calendar year 1998.]
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-                           Marginal tax rates (stated in percents) for the earned income amounts specified in each column.<SUP>1,</SUP> <SUP>2</SUP>
+                          Marginal tax rates (stated in percents) for the earned income amounts specified in each column. <SUP>1,</SUP> <SUP>2</SUP>
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
                        State (or district)                           $20,000-$24,999       $25,000-$49,999       $50,000-$74,999       $75,000 & Over
 --------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -17687,10 +17768,6 @@ Illinois........................................................                
 Indiana.........................................................                 3.4                   3.4                   3.4                   3.4
 Iowa............................................................                 6.8                   7.55                  9.98                  9.98
 If single status <SUP>3</SUP>..............................................                 7.2                   8.8                   9.98                  9.98
-
-[[Page 224]]
-
- 
 Kansas..........................................................                 3.5                   6.25                  6.25                  6.45
 If single status <SUP>3</SUP>..............................................                 4.1                   7.75                  7.75                  7.75
 Kentucky........................................................                 6                     6                     6                     6
@@ -17704,6 +17781,10 @@ Michigan........................................................                
 Minnesota.......................................................                 6                     8                     8                     8.5
 If single status <SUP>3</SUP>..............................................                 8                     8                     8.5                   8.5
 Mississippi.....................................................                 5                     5                     5                     5
+
+[[Page 226]]
+
+ 
 Missouri........................................................                 6                     6                     6                     6
 Montana.........................................................                 6                     9                    10                    11
 Nebraska........................................................                 3.49                  5.01                  6.68                  6.68
@@ -17750,6 +17831,11 @@ Wyoming.........................................................                
 
      State Marginal Tax Rates by Earned Income Level--Tax Year 1999
 
+The following table is to be used to determine the State marginal tax 
+rates for calculation of the RIT allowance as prescribed in Sec. 302-
+11.8(e)(2). This table is to be used for employees who received covered 
+taxable reimbursements during calendar year 1999.
+
 ----------------------------------------------------------------------------------------------------------------
        Marginal tax rates (stated in percents) for the earned income amounts specified In each column <SUP>1,2</SUP>
 -----------------------------------------------------------------------------------------------------------------
@@ -17761,10 +17847,6 @@ Alaska.........................................           0                0    
 Arizona........................................           2.87             3.2              3.74           5.04
 Arkansas.......................................           4.5              7                7              7
   If single status \3\.........................           6                7                7              7
-
-[[Page 225]]
-
- 
 California.....................................           2                4                8              9.3
   If single status \3\.........................           4                8                8              9.3
 Colorado.......................................           4.75             4.75             4.75           4.75
@@ -17778,6 +17860,10 @@ Hawaii.........................................           7.2              8.2  
 Idaho..........................................           7.8              8.2              8.2            8.2
 Illinois.......................................           3                3                3              3
 Indiana........................................           3.4              3.4              3.4            3.4
+
+[[Page 227]]
+
+ 
 Iowa...........................................           6.48             7.92             8.98           8.98
   If single status \3\.........................           6.8              7.92             8.98           8.98
 Kansas.........................................           3.5              6.25             6.25           6.45
@@ -17841,18 +17927,117 @@ Wyoming........................................           0                0    
   as a percent of Federal income tax liability must be converted to a percent of income as provided in Sec.  302-
   11.8(e)(2)(iii).
 
+     State Marginal Tax Rates by Earned Income Level--Tax Year 2000
+
+The following table is to be used to determine the State marginal tax 
+rates for calculation of the RIT allowance as prescribed in Sec. 302-
+11.8(e)(2). This table is to be used for employees who received covered 
+taxable reimbursements during calendar year 2000.
+
+       Marginal Tax Rates (Stated in Percents) for the Earned Income Amounts Specified in Each Column.<SUP>1,</SUP> <SUP>2</SUP>
+----------------------------------------------------------------------------------------------------------------
+                                                                                                      $75,000 &
+              State (or District)                $20,000-$24,999  $25,000-$49,999  $50,000-$74,999      Over
+----------------------------------------------------------------------------------------------------------------
+Alabama........................................           5                5                5              5
+
+[[Page 228]]
+
+ 
+Alaska.........................................           0                0                0              0
+Arizona........................................           2.87             3.2              3.74           5.04
+Arkansas.......................................           4.5              7                7              7
+  If single status \3\.........................           6                7                7              7
+California.....................................           2                4                8              9.3
+  If single status \3\.........................           4                8                8              9.3
+Colorado.......................................           4.75             4.75             4.75           4.75
+Connecticut....................................           4.5              4.5              4.5            4.5
+Delaware.......................................           5.2              5.95             6.4            6.4
+District of Columbia...........................           8                9.5              9.5            9.5
+Florida........................................           0                0                0              0
+Georgia........................................           6                6                6              6
+Hawaii.........................................           7.2              8.2              8.75           8.75
+  If single status \3\.........................           8.2              8.75             8.75           8.75
+Idaho..........................................           7.8              8.2              8.2            8.2
+Illinois.......................................           3                3                3              3
+Indiana........................................           3.4              3.4              3.4            3.4
+Iowa...........................................           6.48             7.92             8.98           8.98
+  If single status \3\.........................           6.8              7.92             8.98           8.98
+Kansas.........................................           3.5              6.25             6.25           6.45
+  If single status \3\.........................           6.25             6.45             6.45           6.45
+Kentucky.......................................           6                6                6              6
+Louisiana......................................           2                4                4              6
+  If single status \3\.........................           4                4                6              6
+Maine..........................................           4.5              7                8.5            8.5
+  If single status \3\.........................           7                8.5              8.5            8.5
+Maryland.......................................           4.85             4.85             4.85           4.85
+Massachusetts..................................           5.95             5.95             5.95           5.95
+Michigan.......................................           4.4              4.4              4.4            4.4
+Minnesota......................................           5.5              7.25             7.25           8
+  If single status \3\.........................           7.25             7.25             8              8
+Mississippi....................................           5                5                5              5
+Missouri.......................................           6                6                6              6
+Montana........................................           9               10               11             11
+Nebraska.......................................           3.65             5.24             6.99           6.99
+  If single status \3\.........................           5.24             6.99             6.99           6.99
+Nevada.........................................           0                0                0              0
+New Hampshire..................................           0                0                0              0
+New Jersey.....................................           1.4              1.75             2.45           6.37
+  If single status \3\.........................           1.4              3.5              5.525          6.37
+New Mexico.....................................           3.2              6                7.1            8.2
+  If single status \3\.........................           6                7.1              7.9            8.2
+New York.......................................           4                5.25             6.85           6.85
+  If single status \3\.........................           5.25             6.85             6.85           6.85
+North Carolina.................................           6                7                7              7.75
+North Dakota...................................           6.67             9.33            12             12
+  If single status \3\.........................           8               10.67            12             12
+Ohio...........................................           3.580            4.295            5.012          7.228
+Oklahoma.......................................           5                6.75             6.75           6.75
+  If single status \3\.........................           6.75             6.75             6.75           6.75
+Oregon.........................................           9                9                9              9
+Pennsylvania...................................           2.8              2.8              2.8            2.8
+Rhode Island \4\...............................          26.5             26.5             26.5           26.5
+South Carolina.................................           7                7                7              7
+South Dakota...................................           0                0                0              0
+Tennessee......................................           0                0                0              0
+Texas..........................................           0                0                0              0
+Utah...........................................           7                7                7              7
+Vermont \5\....................................          25               25               25             25
+Virginia.......................................           5                5.75             5.75           5.75
+Washington.....................................           0                0                0              0
+West Virginia..................................           4                4.5              6              6.5
+Wisconsin......................................           6.37             6.77             6.77           6.77
+Wyoming........................................           0                0                0             0
+----------------------------------------------------------------------------------------------------------------
+\1\ Earned income amounts that fall between the income brackets shown in this table (e.g., $24,999.45,
+  $49,999.75) should be rounded to the nearest dollar to determine the marginal tax rate to be used in
+  calculating the RIT allowance.
+\2\ If the earned income amount is less than the lowest income bracket shown in this table, the employing agency
+  shall establish an appropriate marginal tax rate as provided in Sec.  302-11.8(e)(2)(ii).
+\3\ This rate applies only to those individuals certifying that they will file under a single status within the
+  States where they will pay income taxes. All other taxpayers, regardless of filing status, will use the other
+  rate shown.
+
+[[Page 229]]
+
+ 
+\4\ The income tax rate for Rhode Island is 26.5 percent of Federal income tax liability for all employees.
+  Rates shown as a percent of Federal income tax liability must be converted to a percent of income as provided
+  in Sec.  302-11.8(e)(2)(iii).
+\5\ The income tax rate for Vermont is 25 percent of Federal income tax liability for all employees. Rates shown
+  as a percent of Federal income tax liability must be converted to a percent of income as provided in Sec.  302-
+  11.8(e)(2)(iii).
+
 [54 FR 20332, May 10, 1989, as amended by FTR Amdt. 5, 55 FR 1674, Jan. 
 18, 1990; 55 FR 5945, Feb. 20, 1990; 55 FR 10866, Mar. 23, 1990; FTR 
-Amdt. 15, 56 FR 10379, Mar. 12, 1991; FTR Amdt.
-
-[[Page 226]]
-
-24, 57 FR 1112, Jan. 10, 1992; FTR Amdt. 26, 57 FR 28636, June 26, 1992; 
-FTR Amdt. 28, 58 FR 8547, Feb. 16, 1993; FTR Amdt. 35, 59 FR 10997, Mar. 
-9, 1994; FTR Amdt. 43, 60 FR 2536, Jan. 10, 1995; FTR Amdt. 46, 61 FR 
-3838, Feb. 2, 1996; FTR Amdt. 57, 62 FR 8174, Feb. 24, 1997; FTR Amdt. 
-71, 63 FR 14638, Mar. 26, 1998; FTR Amdt. 80, 64 FR 17106, Apr. 8, 1999; 
-64 FR 18659, Apr. 15, 1999; FTR Amdt. 91, 65 FR 8658, Feb. 22, 2000]
+Amdt. 15, 56 FR 10379, Mar. 12, 1991; FTR Amdt. 24, 57 FR 1112, Jan. 10, 
+1992; FTR Amdt. 26, 57 FR 28636, June 26, 1992; FTR Amdt. 28, 58 FR 
+8547, Feb. 16, 1993; FTR Amdt. 35, 59 FR 10997, Mar. 9, 1994; FTR Amdt. 
+43, 60 FR 2536, Jan. 10, 1995; FTR Amdt. 46, 61 FR 3838, Feb. 2, 1996; 
+FTR Amdt. 57, 62 FR 8174, Feb. 24, 1997; FTR Amdt. 71, 63 FR 14638, Mar. 
+26, 1998; FTR Amdt. 80, 64 FR 17106, Apr. 8, 1999; 64 FR 18659, Apr. 15, 
+1999; FTR Amdt. 91, 65 FR 8658, Feb. 22, 2000; FTR Amdt. 96, 66 FR 
+23178, May 8, 2001]
          Appendix C to Part 302-11--Federal Tax Tables for RIT 
                            Allowance--Year 2
 
@@ -17924,6 +18109,9 @@ Year 1 occurred during calendar years 1983, 1984, 1985, 1986, 1987,
 28..............................................................    110,883  .........    164,538  .........    198,284  .........    145,523  .........
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+[[Page 230]]
+
 Federal Marginal Tax Rates by Earned Income Level and Filing Status--Tax 
                                 Year 1990
 
@@ -17932,10 +18120,6 @@ tax rate for Year 2 for computation of the RIT allowance as prescribed
 in Sec. 302-11.8(e)(1). This table is to be used for employees whose 
 Year 1 occurred during calendar years 1983, 1984, 1985, 1986, 1987, 
 1988, or 1989.
-
-[[Page 227]]
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                      Single taxpayer     Heads of household      Married filing        Married filing
@@ -18017,6 +18201,9 @@ Year 1 occurred during calendar years 1985, 1986, 1987, 1988, 1989,
 31..............................................................     60,303  .........     85,315  .........    103,223  .........     52,226  .........
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+[[Page 231]]
+
 Federal Marginal Tax Rates by Earned Income Level and Filing Status--Tax 
                                 Year 1994
 
@@ -18025,10 +18212,6 @@ tax rate for Year 2 for computation of the RIT allowance as prescribed
 in Sec. 302-11.8(e)(1). This table is to be used for employees whose 
 Year 1 occurred during calendar years 1985, 1986, 1987, 1988, 1989, 
 1990, 1991, 1992, or 1993.
-
-[[Page 228]]
-
-
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                      Single taxpayer     Heads of household      Married filing        Married filing
@@ -18102,6 +18285,10 @@ in Sec. 302-11.8(e)(1). This table is to be used for employees whose
 Year 1 occurred during calendar years 1987, 1988, 1989, 1990, 1991, 
 1992, 1993, 1994, 1995, or 1996.
 
+[[Page 232]]
+
+
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                      Single taxpayer     Heads of household      Married filing        Married filing
                                                                  --------------------------------------------  jointly/qualifying        separately
@@ -18116,9 +18303,6 @@ Year 1 occurred during calendar years 1987, 1988, 1989, 1990, 1991,
 36..............................................................    141,006    288,900    161,381    293,567    180,221    299,695     92,072    152,835
 39.6............................................................    288,900  .........    293,567  .........    299,695  .........    152,835  .........
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-
-
-[[Page 229]]
 
 Federal Marginal Tax Rates by Earned Income Level and Filing Status--Tax 
                                 Year 1998
@@ -18171,6 +18355,12 @@ Year 1 occurred during calendar years 1989, 1990, 1991, 1992, 1993,
 Federal Marginal Tax Rates by Earned Income Level and Filing Status--Tax 
                                 Year 2000
 
+The following table is to be used to determine the Federal marginal tax 
+rate for Year 2 for computation of the RIT allowance as prescribed in 
+Sec. 302-11.8(e)(1). This table is to be used for employees whose Year 1 
+occurred during calendar years 1990, 1991, 1992, 1993, 1994, 1995, 1996, 
+1997, 1998, or 1999.
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                      Single taxpayer     Heads of household      Married filing        Married filing
                                                                  --------------------------------------------  jointly/qualifying        separately
@@ -18186,16 +18376,48 @@ Federal Marginal Tax Rates by Earned Income Level and Filing Status--Tax
 39.6............................................................    306,111  .........    326,450  .........    315,957  .........    170,524  .........
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 
+
+[[Page 233]]
+
+Federal Marginal Tax Rates by Earned Income Level and Filing Statu--Tax 
+                                Year 2001
+
+The following table is to be used to determine the Federal marginal tax 
+rate for Year 2 for computation of the RIT allowance as prescribed in 
+Sec. 302-11.8(e)(1). This table is to be used for employees whose Year 1 
+occurred during calendar years 1991, 1992, 1993, 1994, 1995, 1996, 1997, 
+1998, 1999 or 2000.
+
+[[Page 234]]
+
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+               Marginal  tax rate                     Single  taxpayer         Heads of  household    Married filing  jointly/       Married  filing
+-----------------------------------------------------------------------------------------------------   qualifying  widows &           separately
+                                                                                                              widowers         -------------------------
+                                                                 But not                   But not   --------------------------
+                     Percent                          Over         over         Over         over                    But not        Over       But not
+                                                                                                          Over         over                      over
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+15..............................................       $7,582      $35,363      $13,905      $51,016      $18,061      $65,011       $8,742      $32,028
+28..............................................      $35,363      $77,472      $51,016     $116,612      $65,011     $133,818      $32,028      $65,470
+31..............................................      $77,472     $154,524     $116,612     $180,660     $133,818     $193,566      $65,470      $99,363
+36..............................................     $154,524     $317,548     $180,660     $324,522     $193,566     $323,455      $99,363     $169,100
+39.6............................................     $317,548  ...........     $324,522  ...........     $323,455  ...........     $169,100  ...........
+--------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+[[Page 235]]
+
 [54 FR 20332, May 10, 1989, as amended by FTR Amdt. 5, 55 FR 1676, Jan. 
 18, 1990; FTR Amdt. 15, 56 FR 10380, Mar. 12, 1991; FTR Amdt. 24, 57 FR 
 1114, Jan. 10, 1992; FTR Amdt. 28, 58 FR 8549, Feb 16, 1993; FTR Amdt. 
 35, 59 FR 10997, Mar. 9, 1994; FTR Amdt. 43, 60 FR 2536, Jan. 10, 1995; 
 FTR Amdt. 46, 61 FR 3840, Feb. 2, 1996; FTR Amdt. 57, 62 FR 8174, Feb. 
 24, 1997; 63 FR 14639, Mar. 26, 1998; FTR Amdt. 80, 64 FR 17107, Apr. 8, 
-1999; FTR Amdt. 91, 65 FR 8659, Feb. 22, 2000]
-
-[[Page 230]]
-
+1999; FTR Amdt. 91, 65 FR 8659, Feb. 22, 2000; FTR Amdt. 96, 66 FR 
+23178, May 8, 2001]
        Appendix D to Part 302-11--Puerto Rico Tax Tables for RIT 
                                Allowance
 
@@ -18281,6 +18503,10 @@ Sec. 302-11.8(e)(4)(i).
                                                                   Over         over         Over         over
 ----------------------------------------------------------------------------------------------------------------
 15..........................................................  ...........      $25,000  ...........  ...........
+
+[[Page 236]]
+
+ 
 25..........................................................  ...........  ...........  ...........      $25,000
 36..........................................................      $25,000  ...........      $25,000  ...........
 ----------------------------------------------------------------------------------------------------------------
@@ -18290,10 +18516,6 @@ Sec. 302-11.8(e)(4)(i).
     The following table is to be used to determine the Puerto Rico 
 marginal tax rate for computation of the RIT allowance as prescribed in 
 Sec. 302-11.8(e)(4)(i).
-
-[[Page 231]]
-
-
 
 ----------------------------------------------------------------------------------------------------------------
                                                                 Single filing status     Any other filing status
@@ -18376,6 +18598,9 @@ Sec. 302-11.8(e)(4)(i).
 33..........................................................      $50,000  ...........      $50,000  ...........
 ----------------------------------------------------------------------------------------------------------------
 
+
+[[Page 237]]
+
   Puerto Rico Marginal Tax Rates by Earned Income Level--Tax Year 1997
 
     The following table is to be used to determine the Puerto Rico 
@@ -18391,10 +18616,6 @@ Sec. 302-11.8(e)(4)(i).
 12..........................................................  ...........  ...........  ...........      $25,000
 18..........................................................  ...........      $25,000  ...........  ...........
 31..........................................................      $25,000       50,000      $25,000       50,000
-
-[[Page 232]]
-
- 
 33..........................................................       50,000  ...........       50,000  ...........
 ----------------------------------------------------------------------------------------------------------------
 
@@ -18417,6 +18638,10 @@ Sec. 302-11.8(e)(4)(i).]
 
   Puerto Rico Marginal Tax Rates by Earned Income Level--Tax Year 1999
 
+The following table is to be used to determine the Puerto Rico marginal 
+tax rate for computation of the RIT allowance as prescribed in Sec. 302-
+11.8(e)(4)(i).
+
 ----------------------------------------------------------------------------------------------------------------
                                                                 Single filing status     Any other filing status
                                                              ---------------------------------------------------
@@ -18429,11 +18654,30 @@ Sec. 302-11.8(e)(4)(i).]
 33..........................................................       50,000  ...........       50,000  ...........
 ----------------------------------------------------------------------------------------------------------------
 
+  Puerto Rico Marginal Tax Rates by Earned Income Level--Tax Year 2000
+
+The following table is to be used to determine the Puerto Rico marginal 
+tax rate for computation of the RIT allowance as prescribed in Sec. 302-
+11.8(e)(4)(i).
+
+----------------------------------------------------------------------------------------------------------------
+                      Marginal tax rate                         Single filing status     Any other filing status
+----------------------------------------------------------------------------------------------------------------
+                                                                             But not                   But not
+                           Percent                                Over         over         Over         over
+----------------------------------------------------------------------------------------------------------------
+11..........................................................  ...........  ...........  ...........      $25,000
+16.5........................................................  ...........      $25,000  ...........  ...........
+29.5........................................................      $25,000      $50,000      $25,000      $50,000
+33..........................................................      $50,000  ...........      $50,000  ...........
+----------------------------------------------------------------------------------------------------------------
+
 [FTR Amdt. 30, 58 FR 15438, Mar. 23, 1993, as amended by FTR Amdt. 35, 
 59 FR 10997, Mar. 9, 1994; FTR Amdt. 43, 60 FR 2536, Jan. 10, 1995; FTR 
 Amdt. 46, 61 FR 3840, Feb. 2, 1996; FTR Amdt. 57, 62 FR 8176, Feb. 24, 
 1997; FTR Amdt. 71, 63 FR 14639, Mar. 26, 1998; FTR Amdt. 80, 64 FR 
-17108, Apr. 8, 1999; FTR Amdt. 91, 65 FR 8659, Feb. 22, 2000]
+17108, Apr. 8, 1999; FTR Amdt. 91, 65 FR 8659, Feb. 22, 2000; FTR Amdt. 
+96, 66 FR 23178, May 8, 2001]
 
 
 <R03>
@@ -18453,6 +18697,9 @@ Sec.
 302-12.4  May we separately contract for each type of relocation 
           service?
 302-12.5  What is the purpose of contracting for relocation services?
+
+[[Page 238]]
+
 302-12.6  How must we administer a relocation services contract?
 302-12.7  What policies must we establish when offering our employees 
           the services of a relocation services company?
@@ -18481,9 +18728,6 @@ Sec.
           company?
 302-12.102  Under what conditions may I use a relocation services 
           company?
-
-[[Page 233]]
-
 302-12.103  For what relocation services expenses will my agency pay?
 302-12.104  If I use a contracted-for relocation service that is a 
           substitute for reimbursable relocation allowance, will I be 
@@ -18558,8 +18802,11 @@ Sec. 302-12.6  How must we administer a relocation services contract?
 
     You must balance the positive effects that availability of 
 relocation services has on employee mobility and morale with any 
-increased costs your agency may experience as a result of providing 
-relocation services.
+increased costs your agency
+
+[[Page 239]]
+
+may experience as a result of providing relocation services.
 
 
 <R05>
@@ -18587,17 +18834,13 @@ Sec. 302-12.9  What are the income tax consequences that we must consider when o
 
     Amounts you pay to a relocation services company on behalf of an 
 employee may be taxable to the employee. In some cases, such as with 
-certain
-
-[[Page 234]]
-
-homesale programs, the amounts may not be taxable. You must determine 
-the taxability of such payments, and pay a relocation income tax (RIT) 
-allowance in accordance with part 302-11 of this chapter on payments you 
-determine to be taxable to the employee. You may contact the Assistant 
-Chief Counsel (Income Tax & Accounting), Internal Revenue Service, 1111 
-Constitution Avenue, NW., Room 5501, Washington, DC 20224, for 
-information on the income tax consequences of payments you make to a 
+certain homesale programs, the amounts may not be taxable. You must 
+determine the taxability of such payments, and pay a relocation income 
+tax (RIT) allowance in accordance with part 302-11 of this chapter on 
+payments you determine to be taxable to the employee. You may contact 
+the Assistant Chief Counsel (Income Tax & Accounting), Internal Revenue 
+Service, 1111 Constitution Avenue, NW., Room 5501, Washington, DC 20224, 
+for information on the income tax consequences of payments you make to a 
 relocation services company.
 
 
@@ -18631,6 +18874,8 @@ contracting method, you must obligate funds based on an estimate of the
 costs that will be incurred. When opting for cost-reimbursable 
 contracting you, therefore, should establish a reliable method of 
 computing fund obligation estimates.
+
+[[Page 240]]
 
 
 <R05>
@@ -18666,8 +18911,6 @@ Sec. 302-12.14  Under a homesale program, may we direct the relocation services 
     No. Under a homesale program you may not direct the relocation 
 services company to pay an employee more than the fair market value (as 
 determined by the residence appraisal process) of his/her home.
-
-[[Page 235]]
 
 
 <R05>
@@ -18727,6 +18970,8 @@ Sec. 302-12.104  If I use a contracted-for relocation service that is a substitu
 
     No.
 
+[[Page 241]]
+
 
 <R05>
 Sec. 302-12.105  What expenses will my agency pay if I use a relocation services company to ship household goods in excess of the maximum weight allowance?
@@ -18765,11 +19010,8 @@ expenses of moving from one residence to another residence which is
 attributable to employment. You will receive a relocation income tax 
 (RIT) allowance if your agency determines that such expenses are 
 taxable. The Government does not assume responsibility for payment of 
-your taxes, however, and you may wish to
-
-[[Page 236]]
-
-consult a tax professional on income tax reporting.
+your taxes, however, and you may wish to consult a tax professional on 
+income tax reporting.
 
 
 <R03>
@@ -18824,6 +19066,8 @@ company purchases a transferred employee s residence at fair market
 (appraised) value and then independently markets and sells the 
 residence.
 
+[[Page 242]]
+
 
 <R05>
 Sec. 302-14.2  What is the purpose of a home marketing incentive payment?
@@ -18865,8 +19109,6 @@ services company as a result of your independent marketing efforts; and
     (f) You meet any additional conditions your agency has established, 
 including but not limited to, mandatory marketing periods, list price 
 guidelines, closing requirements, and residence value caps.
-
-[[Page 237]]
 
 
 <R05>
@@ -18918,6 +19160,9 @@ incentive payment for an employee;
     (b) The amount of the home marketing incentive payment(s) you will 
 offer (or the method you will use to compute your home marketing 
 incentive payments); and
+
+[[Page 243]]
+
     (c) Who will determine in each case whether a home marketing 
 incentive payment is authorized.
 
@@ -18951,8 +19196,6 @@ services company.
 home marketing incentive payment program is to encourage a transferred 
 employee who participates in a homesale program to independently and 
 aggressively market his/her residence and find a bona fide buyer.
-
-[[Page 238]]
 
 
 <R03>
@@ -19014,6 +19257,8 @@ noted.
     Note to Subpart A:  Use of the pronouns ``I'' and ``you'' throughout 
 this subpart refers to the employee.
 
+[[Page 244]]
+
 
 <R05>
 Sec. 302-15.1  What are ``property management services''?
@@ -19055,14 +19300,11 @@ Sec. 302-15.4  Who is not eligible for payment for property management services?
 
     New appointees, employees assigned under the Government Employees 
 Training Act (5 U.S.C. 4109), and employees transferring wholly outside 
-the
-
-[[Page 239]]
-
-United States are not eligible. However, relocations wholly outside the 
-United States do not affect previously authorized property management 
-services as long as the employee continues to meet the requirements of 
-Sec. 302-15.6 and any other conditions established by the agency.
+the United States are not eligible. However, relocations wholly outside 
+the United States do not affect previously authorized property 
+management services as long as the employee continues to meet the 
+requirements of Sec. 302-15.6 and any other conditions established by 
+the agency.
 
 
 <R05>
@@ -19104,13 +19346,17 @@ Sec. 302-15.8  When my agency authorizes payment for me under this part, am I ob
           Government expense?
 
     You are not obligated to use your authorized property management 
-services allowance. You have the option of choosing to sell your 
-residence at Government expense or to use the property management 
-services allowance.
+services allowance. You have the option of
+
+[[Page 245]]
+
+choosing to sell your residence at Government expense or to use the 
+property management services allowance.
 
 
 <R05>
 Sec. 302-15.9  Must I repay property management expenses my agency paid under this part if I elect to sell my former residence in the United States at 
+
           Government expense when I am transferred from my current 
           foreign post of duty to an official station in the United 
           States other than the one I left?
@@ -19138,8 +19384,6 @@ of the following occurs:
     (2) You complete a service agreement at your post of duty and remain 
 there, but do not sign a new service agreement; or
     (3) You separate from Government service.
-
-[[Page 240]]
 
 
 <R05>
@@ -19193,8 +19437,11 @@ Sec. 302-15.70  What governing policies must we establish for the allowance for 
 for an employee who transfers in the interest of the Government;
     (b) Who will determine, for relocations to official stations in the 
 United States, whether payment for property management services is more 
-advantageous and cost effective than sale of an employee's residence at 
-Government expense;
+advantageous and cost effective than sale of
+
+[[Page 246]]
+
+an employee's residence at Government expense;
     (c) If and when you will allow an employee who was offered and 
 accepted payment for property management services to change his/her mind 
 and elect instead to sell his/her residence at Government expense in 
@@ -19205,7 +19452,7 @@ residence when an eligible employee who elected payment for property
 management services later changes his/her mind and elects instead to 
 sell his/her residence at Government expense.
 
-[[Page 241]]
+[[Page 247]]
 
 
 <R02>
@@ -19219,9 +19466,9 @@ sell his/her residence at Government expense.
 Part                                                                Page
 303-70          Agency requirements for payment of expenses 
                     connected with the death of certain 
-                    employees...............................         243
+                    employees...............................         249
 
-[[Page 243]]
+[[Page 249]]
 
 
 <R03>
@@ -19327,7 +19574,7 @@ Sec. 303-70.1  When must we authorize payment of expenses related to an employee
     (b) Performing official duties outside CONUS; or
     (c) Absent from duty as provided in Sec. 303-70.3; or
 
-[[Page 244]]
+[[Page 250]]
 
     (d) Reassigned away from his/her home of record under a mandatory 
 mobility agreement.
@@ -19431,7 +19678,7 @@ Sec. 303-70.301  Are there any limitations on the baggage we may transport?
     Yes. You may only transport government property and the employee's 
 personal property.
 
-[[Page 245]]
+[[Page 251]]
 
 
 <R05>
@@ -19459,9 +19706,12 @@ orders. (See Sec. 303-70.305.)
 
 
 <R05>
-Sec. 303-70.304  Must we continue payment of relocation expenses for an employee's immediate family if the employee dies after reporting to the new duty station 
-          within CONUS, but the family was in transit to the new duty 
-          station or had not begun its en route travel?
+Sec. 303-70.304  Must we continue payment of relocation expenses for 
+          an employee's immediate family if the employee dies after 
+
+          reporting to the new duty station within CONUS, but the 
+          family was in transit to the new duty station or had not 
+          begun its en route travel?
 
     Yes, if the immediate family chooses to continue the relocation, you 
 must continue payment of relocation expenses for the immediate family if 
@@ -19470,7 +19720,8 @@ orders. (See Sec. 303-70.305.)
 
 
 <R05>
-Sec. 303-70.305  What relocation expenses must we authorize for the immediate family under Sec. Sec. 303-70.303 and 303-70.304?
+Sec. 303-70.305  What relocation expenses must we authorize for the 
+        immediate family under Sec. Sec. 303-70.303 and 303-70.304?
 
     When the immediate family chooses to continue the relocation, the 
 following expenses must be authorized:
@@ -19520,7 +19771,7 @@ Sec. 303-70.401  When an immediate family member, residing with the employee, di
 the remains to the residence of the immediate family member. The 
 employee may elect an alternate destination,
 
-[[Page 246]]
+[[Page 252]]
 
 which must be approved by your agency head or his/her designated 
 representative. In that case, the allowable expenses cannot exceed the 
@@ -19594,7 +19845,7 @@ of this title that are necessary for the escort of remains to:
     (b) Any other place appropriate for interment as determined by the 
 head of your agency.
 
-[[Page 247]]
+[[Page 253]]
 
 
 <R02>
@@ -19606,11 +19857,11 @@ head of your agency.
   --------------------------------------------------------------------
 Part                                                                Page
 304-1           Acceptance of payment from a non-Federal 
-                    source for travel expenses..............         249
+                    source for travel expenses..............         255
 304-2           Reductions in meeting and training allowance 
-                    payments................................         254
+                    payments................................         260
 
-[[Page 249]]
+[[Page 255]]
 
 
 <R03>
@@ -19701,7 +19952,7 @@ conduct regulation.
 entity other than the Government of the United States. The term includes 
 any
 
-[[Page 250]]
+[[Page 256]]
 
 individual, private or commercial entity, nonprofit organization or 
 association or international or multinational organization (irrespective 
@@ -19778,7 +20029,7 @@ employee (and/or the accompanying spouse of such employee when
 applicable) under this part are not subject to the transportation class 
 of service limitations applicable to premium-class other than
 
-[[Page 251]]
+[[Page 257]]
 
 first-class accommodations, as prescribed in chapter 301 of this 
 subtitle or the JFTR. Acceptance of payment for first-class 
@@ -19861,7 +20112,7 @@ such payment received by the employee on behalf of the agency for his/
 her travel and/or that of the accompanying spouse is accepted on behalf 
 of the agency and is to be submitted as soon
 
-[[Page 252]]
+[[Page 258]]
 
 as practicable for credit to the agency appropriation applicable to such 
 expenses. When the acceptance of payment has been approved in advance by 
@@ -19938,7 +20189,7 @@ accompanying spouse to attend a meeting or similar function. However,
 nothing in this part prohibits an agency or employee from accepting 
 payment as follows:
 
-[[Page 253]]
+[[Page 259]]
 
     (1) When authorized under 5 U.S.C. 4111 or 5 U.S.C. 7342;
     (2) When payment is for travel to be performed for a partisan rather 
@@ -20015,7 +20266,7 @@ instrument);
     (C) The individual for whom payment was accepted (employee or 
 spouse);
 
-[[Page 254]]
+[[Page 260]]
 
     (D) The non-Federal source that provided the benefit; and
     (E) The amount of the payment; and
@@ -20095,7 +20346,7 @@ Sec. 304-2.1  Authority.
 
     This part is issued under the authority of 5 U.S.C. 4111(b).
 
-[[Page 255]]
+[[Page 261]]
 
 
 <R05>
@@ -20170,7 +20421,7 @@ this part.
 26, 1992]
 
 
-[[Page 257]]
+[[Page 263]]
 
 
 <R02>
@@ -20192,7 +20443,7 @@ which is published separately and revised annually.
 
 
 
-[[Page 259]]
+[[Page 265]]
 
 
 <R03>
@@ -20201,7 +20452,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of June 23, 2000)
+                      (Revised as of July 1, 2001)
 
                       Title 1--General Provisions
 
@@ -20219,9 +20470,6 @@ which is published separately and revised annually.
                            Title 4--Accounts
 
          I  General Accounting Office (Parts 1--99)
-        II  Federal Claims Collection Standards (General 
-                Accounting Office--Department of Justice) (Parts 
-                100--299)
 
                    Title 5--Administrative Personnel
 
@@ -20245,11 +20493,11 @@ which is published separately and revised annually.
        XVI  Office of Government Ethics (Parts 2600--2699)
        XXI  Department of the Treasury (Parts 3100--3199)
       XXII  Federal Deposit Insurance Corporation (Part 3201)
-
-[[Page 260]]
-
      XXIII  Department of Energy (Part 3301)
       XXIV  Federal Energy Regulatory Commission (Part 3401)
+
+[[Page 266]]
+
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
     XXVIII  Department of Justice (Part 3801)
@@ -20294,6 +20542,8 @@ which is published separately and revised annually.
 
                           Title 6--[Reserved]
 
+              
+
                          Title 7--Agriculture
 
             Subtitle A--Office of the Secretary of Agriculture 
@@ -20301,7 +20551,7 @@ which is published separately and revised annually.
             Subtitle B--Regulations of the Department of 
                 Agriculture
 
-[[Page 261]]
+[[Page 267]]
 
          I  Agricultural Marketing Service (Standards, 
                 Inspections, Marketing Practices), Department of 
@@ -20358,7 +20608,7 @@ which is published separately and revised annually.
      XXXII  Office of Procurement and Property Management, 
                 Department of Agriculture (Parts 3200--3299)
 
-[[Page 262]]
+[[Page 268]]
 
     XXXIII  Office of Transportation, Department of Agriculture 
                 (Parts 3300--3399)
@@ -20414,7 +20664,7 @@ which is published separately and revised annually.
          I  Comptroller of the Currency, Department of the 
                 Treasury (Parts 1--199)
 
-[[Page 263]]
+[[Page 269]]
 
         II  Federal Reserve System (Parts 200--299)
        III  Federal Deposit Insurance Corporation (Parts 300--399)
@@ -20471,7 +20721,7 @@ which is published separately and revised annually.
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
 
-[[Page 264]]
+[[Page 270]]
 
         IV  Foreign-Trade Zones Board, Department of Commerce 
                 (Parts 400--499)
@@ -20525,7 +20775,7 @@ which is published separately and revised annually.
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
 
-[[Page 265]]
+[[Page 271]]
 
                      Title 20--Employees' Benefits
 
@@ -20585,7 +20835,7 @@ which is published separately and revised annually.
                 1600--1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
 
-[[Page 266]]
+[[Page 272]]
 
                           Title 23--Highways
 
@@ -20646,7 +20896,7 @@ which is published separately and revised annually.
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
 
-[[Page 267]]
+[[Page 273]]
 
                            Title 25--Indians
 
@@ -20662,7 +20912,7 @@ which is published separately and revised annually.
                 and Indian Health Service, Department of Health 
                 and Human Services (Part 900)
         VI  Office of the Assistant Secretary-Indian Affairs, 
-                Department of the Interior (Part 1001)
+                Department of the Interior (Parts 1000--1199)
        VII  Office of the Special Trustee for American Indians, 
                 Department of the Interior (Part 1200)
 
@@ -20686,6 +20936,10 @@ which is published separately and revised annually.
         VI  Offices of Independent Counsel, Department of Justice 
                 (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
+      VIII  Court Services and Offender Supervision Agency for the 
+                District of Columbia (Parts 800--899)
+        IX  National Crime Prevention and Privacy Compact Council 
+                (Parts 900--999)
 
                             Title 29--Labor
 
@@ -20698,14 +20952,14 @@ which is published separately and revised annually.
        III  National Railroad Adjustment Board (Parts 300--399)
         IV  Office of Labor-Management Standards, Department of 
                 Labor (Parts 400--499)
+
+[[Page 274]]
+
          V  Wage and Hour Division, Department of Labor (Parts 
                 500--899)
         IX  Construction Industry Collective Bargaining Commission 
                 (Parts 900--999)
          X  National Mediation Board (Parts 1200--1299)
-
-[[Page 268]]
-
        XII  Federal Mediation and Conciliation Service (Parts 
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
@@ -20755,6 +21009,10 @@ which is published separately and revised annually.
                 the Treasury (Parts 700--799)
       VIII  Office of International Investment, Department of the 
                 Treasury (Parts 800--899)
+        IX  Federal Claims Collection Standards (Department of the 
+                Treasury--Department of Justice) (Parts 900--999)
+
+[[Page 275]]
 
                       Title 32--National Defense
 
@@ -20762,9 +21020,6 @@ which is published separately and revised annually.
          I  Office of the Secretary of Defense (Parts 1--399)
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
-
-[[Page 269]]
-
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
@@ -20816,11 +21071,11 @@ which is published separately and revised annually.
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
+[[Page 276]]
+
                         Title 35--Panama Canal
 
          I  Panama Canal Regulations (Parts 1--299)
-
-[[Page 270]]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -20842,13 +21097,14 @@ which is published separately and revised annually.
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
-       XIV  Assassination Records Review Board (Parts 1400--1499)
         XV  Oklahoma City National Memorial Trust (Part 1501)
+       XVI  Morris K. Udall Scholarship and Excellence in National 
+                Environmental Policy Foundation (Parts 1600--1699)
 
              Title 37--Patents, Trademarks, and Copyrights
 
-         I  Patent and Trademark Office, Department of Commerce 
-                (Parts 1--199)
+         I  United States Patent and Trademark Office, Department 
+                of Commerce (Parts 1--199)
         II  Copyright Office, Library of Congress (Parts 200--299)
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
@@ -20867,7 +21123,14 @@ which is published separately and revised annually.
                   Title 40--Protection of Environment
 
          I  Environmental Protection Agency (Parts 1--799)
+        IV  Environmental Protection Agency and Department of 
+                Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
+        VI  Chemical Safety and Hazard Investigation Board (Parts 
+                1600--1699)
+
+[[Page 277]]
+
        VII  Environmental Protection Agency and Department of 
                 Defense; Uniform National Discharge Standards for 
                 Vessels of the Armed Forces (Parts 1700--1799)
@@ -20878,9 +21141,6 @@ which is published separately and revised annually.
                 Contracts
         50  Public Contracts, Department of Labor (Parts 50-1--50-
                 999)
-
-[[Page 271]]
-
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
         60  Office of Federal Contract Compliance Programs, Equal 
@@ -20925,6 +21185,8 @@ which is published separately and revised annually.
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
 
+[[Page 278]]
+
                    Title 43--Public Lands: Interior
 
             Subtitle A--Office of the Secretary of the Interior 
@@ -20934,9 +21196,6 @@ which is published separately and revised annually.
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
-
-[[Page 272]]
-
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10005)
 
@@ -20982,13 +21241,14 @@ which is published separately and revised annually.
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
+
+[[Page 279]]
+
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
-
-[[Page 273]]
 
                           Title 46--Shipping
 
@@ -21035,6 +21295,9 @@ which is published separately and revised annually.
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
+
+[[Page 280]]
+
         21  Office of Personnel Management, Federal Employees 
                 Group Life Insurance Federal Acquisition 
                 Regulation (Parts 2100--2199)
@@ -21044,9 +21307,6 @@ which is published separately and revised annually.
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
-
-[[Page 274]]
-
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
         35  Panama Canal Commission (Parts 3500--3599)
@@ -21091,6 +21351,9 @@ which is published separately and revised annually.
       VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
+
+[[Page 281]]
+
         XI  Bureau of Transportation Statistics, Department of 
                 Transportation (Parts 1400--1499)
 
@@ -21098,9 +21361,6 @@ which is published separately and revised annually.
 
          I  United States Fish and Wildlife Service, Department of 
                 the Interior (Parts 1--199)
-
-[[Page 275]]
-
         II  National Marine Fisheries Service, National Oceanic 
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 200--299)
@@ -21127,7 +21387,7 @@ which is published separately and revised annually.
 
 
 
-[[Page 277]]
+[[Page 283]]
 
 
 
@@ -21138,7 +21398,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of June 23, 2000)
+                      (Revised as of July 1, 2001)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -21200,14 +21460,13 @@ Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 Architectural and Transportation Barriers         36, XI
    Compliance Board
-[[Page 278]]
+[[Page 284]]
 
 Arctic Research Commission                        45, XXIII
 Armed Forces Retirement Home                      5, XI
 Army Department                                   32, V
   Engineers, Corps of                             33, II; 36, III
   Federal Acquisition Regulation                  48, 51
-Assassination Records Review Board                36, XIV
 Benefits Review Board                             20, VII
 Bilingual Education and Minority Languages        34, V
      Affairs, Office of
@@ -21243,7 +21502,7 @@ Commerce Department                               44, IV
   National Telecommunications and Information     15, XXIII; 47, III
        Administration
   National Weather Service                        15, IX
-  Patent and Trademark Office                     37, I
+  Patent and Trademark Office, United States      37, I
   Productivity, Technology and Innovation,        37, IV
        Assistant Secretary for
   Secretary of Commerce, Office of                15, Subtitle A
@@ -21266,15 +21525,17 @@ Copyright Office                                  37, II
 Corporation for National and Community Service    45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
+Court Services and Offender Supervision Agency    28, VIII
+     for the District of Columbia
 Customs Service, United States                    19, I
 Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
   Advanced Research Projects Agency               32, I
+
+[[Page 285]]
+
   Air Force Department                            32, VII
-
-[[Page 279]]
-
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
   Defense Intelligence Agency                     32, I
@@ -21289,6 +21550,8 @@ Defense Intelligence Agency                       32, I
 Defense Logistics Agency                          32, XII; 48, 54
 Defense Nuclear Facilities Safety Board           10, XVII
 Delaware River Basin Commission                   18, III
+District of Columbia, Court Services and          28, VIII
+     Offender Supervision Agency for the
 Drug Enforcement Administration                   21, II
 East-West Foreign Trade Board                     15, XIII
 Economic Affairs, Under Secretary                 37, V
@@ -21324,7 +21587,7 @@ Energy, Department of                             5, XXIII; 10, II, III, X
 Energy, Office of                                 7, XXIX
 Engineers, Corps of                               33, II; 36, III
 Engraving and Printing, Bureau of                 31, VI
-Environmental Protection Agency                   5, LIV; 40, I, VII
+Environmental Protection Agency                   5, LIV; 40, I, IV, VII
   Federal Acquisition Regulation                  48, 15
   Property Management Regulations                 41, 115
 Environmental Quality, Office of                  7, XXXI
@@ -21343,17 +21606,17 @@ Executive Office of the President                 3, I
        States
 Export Administration, Bureau of                  15, VII
 Export-Import Bank of the United States           5, LII; 12, IV
+
+[[Page 286]]
+
 Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
-
-[[Page 280]]
-
 Farm Service Agency                               7, VII, XVIII
 Federal Acquisition Regulation                    48, 1
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
-Federal Claims Collection Standards               4, II
+Federal Claims Collection Standards               31, IX
 Federal Communications Commission                 5, XXIX; 47, I
 Federal Contract Compliance Programs, Office of   41, 60
 Federal Crop Insurance Corporation                7, IV
@@ -21411,18 +21674,19 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-General Accounting Office                         4, I, II
+General Accounting Office                         4, I
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
   Federal Property Management Regulations         41, 101
+
+[[Page 287]]
+
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
-     Expenses
-[[Page 281]]
-
+       Expenses
   Payment of Expenses Connected With the Death    41, 303
        of Certain Employees
   Relocation Allowances                           41, 302
@@ -21458,14 +21722,16 @@ Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
   Government National Mortgage Association        24, III
   Housing--Federal Housing Commissioner, Office   24, II, VIII, X, XX
        of Assistant Secretary for
+  Housing, Office of, and Multifamily Housing     24, IV
+       Assistance Restructuring, Office of
   Inspector General, Office of                    24, XII
-  Multifamily Housing Assistance Restructuring,   24, IV
-       Office of
   Public and Indian Housing, Office of Assistant  24, IX
        Secretary for
   Secretary, Office of                            24, Subtitle A, VII
 Housing--Federal Housing Commissioner, Office of  24, II, VIII, X, XX
      Assistant Secretary for
+Housing, Office of, and Multifamily Housing       24, IV
+     Assistance Restructuring, Office of
 Human Development Services, Office of             45, XIII
 Immigration and Naturalization Service            8, I
 Independent Counsel, Office of                    28, VII
@@ -21492,6 +21758,9 @@ Interior Department
   Federal Acquisition Regulation                  48, 14
   Federal Property Management Regulations System  41, 114
   Fish and Wildlife Service, United States        50, I, IV
+
+[[Page 288]]
+
   Geological Survey                               30, IV
   Indian Affairs, Bureau of                       25, I, V
   Indian Affairs, Office of the Assistant         25, VI
@@ -21499,9 +21768,6 @@ Interior Department
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
   Minerals Management Service                     30, II
-
-[[Page 282]]
-
   Mines, Bureau of                                30, VI
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
@@ -21532,10 +21798,10 @@ Interstate Commerce Commission                    5, XL
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                5, XXVIII; 28, I
+Justice Department                                5, XXVIII; 28, I; 40, IV
   Drug Enforcement Administration                 21, II
   Federal Acquisition Regulation                  48, 28
-  Federal Claims Collection Standards             4, II
+  Federal Claims Collection Standards             31, IX
   Federal Prison Industries, Inc.                 28, III
   Foreign Claims Settlement Commission of the     45, V
        United States
@@ -21570,19 +21836,19 @@ Library of Congress                               36, VII
 Management and Budget, Office of                  5, III, LXXVII; 48, 99
 Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
+
+[[Page 289]]
+
 Merit Systems Protection Board                    5, II
 Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
 Mines, Bureau of                                  30, VI
 Minority Business Development Agency              15, XIV
-
-[[Page 283]]
-
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
-Multifamily Housing Assistance Restructuring,     24, IV
-     Office of
+Morris K. Udall Scholarship and Excellence in     36, XVI
+     National Environmental Policy Foundation
 National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
@@ -21598,6 +21864,8 @@ National Commission on Libraries and Information  45, XVII
 National Council on Disability                    34, XII
 National Counterintelligence Center               32, XVIII
 National Credit Union Administration              12, VII
+National Crime Prevention and Privacy Compact     28, IX
+     Council
 National Drug Control Policy, Office of           21, III
 National Foundation on the Arts and the           45, XI
      Humanities
@@ -21641,7 +21909,10 @@ Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
 Panama Canal Commission                           48, 35
 Panama Canal Regulations                          35, I
-Patent and Trademark Office                       37, I
+Patent and Trademark Office, United States        37, I
+
+[[Page 290]]
+
 Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
@@ -21651,9 +21922,6 @@ Pennsylvania Avenue Development Corporation       36, IX
 Pension and Welfare Benefits Administration       29, XXV
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-
-[[Page 284]]
-
   Federal Acquisition Regulation                  48, 17
   Federal Employees Group Life Insurance Federal  48, 21
        Acquisition Regulation
@@ -21719,6 +21987,9 @@ Transportation, Department of                     5, L
   Commercial Space Transportation                 14, III
   Contract Appeals, Board of                      48, 63
   Emergency Management and Assistance             44, IV
+
+[[Page 291]]
+
   Federal Acquisition Regulation                  48, 12
   Federal Aviation Administration                 14, I
   Federal Highway Administration                  23, I, II
@@ -21727,9 +21998,6 @@ Transportation, Department of                     5, L
   Federal Transit Administration                  49, VI
   Maritime Administration                         46, II
   National Highway Traffic Safety Administration  23, II, III; 49, V
-
-[[Page 285]]
-
   Research and Special Programs Administration    49, I
   Saint Lawrence Seaway Development Corporation   33, IV
   Secretary of Transportation, Office of          14, II; 49, Subtitle A
@@ -21738,7 +22006,8 @@ Transportation, Department of                     5, L
 Transportation, Office of                         7, XXXIII
 Transportation Statistics Brureau                 49, XI
 Travel Allowances, Temporary Duty (TDY)           41, 301
-Treasury Department                               5, XXI; 12, XV; 17, IV
+Treasury Department                               5, XXI; 12, XV; 17, IV; 
+                                                  31, IX
   Alcohol, Tobacco and Firearms, Bureau of        27, I
   Community Development Financial Institutions    12, XVIII
        Fund
@@ -21773,7 +22042,7 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 287]]
+[[Page 293]]
 
 
 <R03>
@@ -21863,7 +22132,7 @@ Chapter 201
 201-33.012  Added...................................................9960
 Chapter 201 (Appendix A)  Temporary Reg. 13 added..................45887
 
-[[Page 288]]
+[[Page 294]]
 
                                   1987
 
@@ -21959,7 +22228,7 @@ Chapter 201
 201-6.103-1  (a) amended; eff. 8-29-88.............................24723
 201-11.001  (b) revised............................................29052
 
-[[Page 289]]
+[[Page 295]]
 
 201-11.003  Revised................................................29052
 201-20  Text removed; eff. 8-29-88.................................24723
@@ -22030,7 +22299,7 @@ Chapter 201
 201-41  Authority citation revised.................................28639
 201-41.005  Added..................................................28639
 
-[[Page 290]]
+[[Page 296]]
 
 201-45  Authority citation revised.................................24724
 201-45.101-1  (b)(2) amended; eff. 8-29-88.........................24724
@@ -22118,7 +22387,7 @@ Chapter 301
 301-12  Added......................................................20295
 301-14  Added......................................................20297
 
-[[Page 291]]
+[[Page 297]]
 
 301  Appendix A added..............................................20299
 Chapter 302
@@ -22204,7 +22473,7 @@ Chapter 201  Revised...............................................53387
     Regulation at 55 FR 30710 effective date delayed to 10-1-90....34719
 201-39.5202-3  Added...............................................30710
 
-[[Page 292]]
+[[Page 298]]
 
     Regulation at 55 FR 30710 effective date delayed to 10-1-90....34719
 201-41  Authority citation revised.................................30710
@@ -22293,7 +22562,7 @@ Chapter 201
 201-18.002  (c) corrected...........................................4948
 201-20.103-7  (c) corrected.........................................4948
 
-[[Page 293]]
+[[Page 299]]
 
 201-20.203-1  (a)(3) corrected......................................4948
 201-20.305-1  (a)(1) introductory text corrected....................4948
@@ -22377,7 +22646,7 @@ Chapter 302
     Introductory text corrected....................................28796
 302-1.104  Revised.................................................15050
 
-[[Page 294]]
+[[Page 300]]
 
 302-1.105  (a) and (c) revised.....................................15050
     (a) corrected..................................................28796
@@ -22466,7 +22735,7 @@ Chapter 301
 301-5.1  (a) amended...............................................28633
 301-6  Authority citation revised..................................28633
 
-[[Page 295]]
+[[Page 301]]
 
 301-6.4  (c) amended...............................................28633
 301-7  Authority citation revised..................................28633
@@ -22543,7 +22812,7 @@ amended............................................................28635
 302-5.1  Amended...................................................28635
 302-5.2  (e) and (i) amended.......................................28635
 
-[[Page 296]]
+[[Page 302]]
 
 302-5.3  Amended...................................................28635
 302-5.5  Amended...................................................28635
@@ -22635,7 +22904,7 @@ Chapter 301
     amended........................................................58502
     revised........................................................67950
 
-[[Page 297]]
+[[Page 303]]
 
 Chapter 302
 302-1  Authority citation revised..................................58243
@@ -22727,7 +22996,7 @@ Chapter 301
 301  Appendix A amended............................................15119
       Appendix A revised...........................................65682
 
-[[Page 298]]
+[[Page 304]]
 
 Chapter 302
 302-1  Authority citation revised..................................58243
@@ -22831,7 +23100,7 @@ Chapter 201  Removed...............................................39359
 201-21.403  (a)(2)(ii) amended........................................16
 201-21.601  (c)(3) introductory text amended..........................16
 
-[[Page 299]]
+[[Page 305]]
 
 201-21.603  (d)(1) and (2) revised; (d)(3) and (6) removed; (d)(4) 
         and (5) redesignated as (d)(3) and (4)........................16
@@ -22919,7 +23188,7 @@ Chapter 301
         correctly redesignated as (a)(3)............................6878
 301-7  Appendix A amended..........................................33753
 
-[[Page 300]]
+[[Page 306]]
 
 301-8  Authority citation corrected.................................6878
 301-8.2  (b) amended...............................................30279
@@ -23010,7 +23279,7 @@ Chapter  301 Heading revised.......................................15954
         added......................................................63419
 301-10.164  Corrected..............................................35537
 
-[[Page 301]]
+[[Page 307]]
 
 301-10.181  Corrected..............................................35537
 301-10.200  (a) corrected..........................................35537
@@ -23111,10 +23380,10 @@ Chapter 300
 Chapter 301
 301-10.107  Revised................................................29162
 301-10.124  Introductory text revised; (i) amended; (j) added......67670
-
-[[Page 302]]
-
 301-10.303  Table amended..........................................15630
+
+[[Page 308]]
+
 301-11  Authority citation revised.................................32813
 301-11.501--301-11.540 (Subpart E)  Added; interim.................32813
 301-11.601--301-11.640 (Subpart F)  Added; interim.................32815
@@ -23145,4 +23414,60 @@ Chapter 302
 302-1.13  (b)(3) and (d)(1)(iv)(A) amended.........................29163
 302-1.105  (a) amended.............................................29163
 302-1.228  (c) amended.............................................29163
+302-5  Authority citation revised..................................29163
+302-5.4  (a) amended...............................................29163
+302-5.17  Amended..................................................29163
+302-6  Authority citation revised..................................29163
+302-6.1  (a) and (g)(1)(ii) amended................................29163
+302-8  Authority citation revised..................................29163
+302-8.5  (b)(2) amended............................................29163
+302-10.174  Amended................................................29163
+302-11  Authority citation revised.................................29164
+302-11.8  (e)(4)(i) amended........................................29164
+302-11.10  (c) amended.............................................29164
+302-11.11  Amended.................................................29164
+302-11  Appendixes A through D amended.............................17106
+    Appendix B corrected...........................................18659
+302-15  Revised....................................................29164
+Chapter 303
+303-1  Removed......................................................2434
+303-2  Removed......................................................2434
+303-70  Added.......................................................2434
+303-70.100  Revised................................................45891
+303-70.403  Heading revised........................................45891
+303-70.600--303-70.602 (Subpart G)  Added..........................45891
+
+                                  2000
+
+41 CFR
+                                                                   65 FR
+                                                                    Page
+Chapter 301
+301-10.303  Table amended...........................................1268
+301-11.5  Revised...................................................1327
+301-51  Authority citation revised..................................3055
+    Applicability date delay.......................................16828
+301-51.1--301-51.7 (Subpart A)  Heading correctly revised; 
+        authority citation correctly removed........................2542
+301-51.2  (l) added................................................21365
+    Revised.........................................................3055
+301-52  Authority citation revised..................................3055
+    Applicability date delay.......................................16828
+301-52.17  Revised...........................................3055, 21365
+301-52.18  Revised...........................................3055, 21366
+301-52.19  Revised..................................................3056
+301-52.20  Revised...........................................3056, 21366
+301-52.21  Revised..................................................3056
+301-52.22  Added....................................................3056
+301-52.23  Added....................................................3056
+301-52.24  Added....................................................3056
+301-54  Technical correction.......................................43254
+    Revised.........................................................3056
+    Applicability date delay.......................................16828
+301-54.2  Revised..................................................21366
+301-70  Authority citation revised..................................3056
+    Applicability date delay.......................................16828
+301-70.700--301-70.706 (Subpart H)  Revised.........................3056
+301-70.704  Note added.............................................21366
+301-71  Authority citation revised..................
 </pre></body></html>

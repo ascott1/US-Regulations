@@ -1,54 +1,57 @@
 <html><body><pre>
 [Title 18 CFR ]
-[Code of Federal Regulations (annual edition) - April 1, 2000 Edition]
+[Code of Federal Regulations (annual edition) - April 1, 2001 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-
+          
 <R02>
-                    18
+          18
+          Part 400 to End
+          Revised as of April 1, 2001
 
-
-          Part 400 to end
-
-                         Revised as of April 1, 2000
-
-Conservation of Power and Water Resources
+          Conservation of Power and Water Resources
 
 <R03>
 
 
 
-          Containing a Codification of documents of general 
-          applicability and future effect
-          As of April 1, 2000
+          Containing a codification of documents
+          of general applicability and future effect
+
+          As of April 1, 2001
+
           With Ancillaries
+
           Published by
           Office of the Federal Register
           National Archives and Records
           Administration
 
-As a Special Edition of the Federal Register
+          A Special Edition of the Federal Register
 
 
 
 [[Page ii]]
 
-
+                                      
 
 
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 2000
+                            WASHINGTON : 2001
 
 
 
-               For sale by U.S. Government Printing Office
- Superintendent of Documents, Mail Stop: SSOP, Washington, DC 20402-9328
+  For sale by the Superintendent of Documents, U.S. Government Printing 
+                                  Office
+ Internet: bookstore.gpo.gov    Phone: (202) 512-1800    Fax: (202) 512-
+                                   2250
+                Mail: Stop SSOP, Washington, DC 20402-0001
 
 
 
@@ -65,29 +68,21 @@ As a Special Edition of the Federal Register
   Explanation.................................................       v
 
   Title 18:
-
-          Chapter III--Delaware River Basin Commission........       3
-
-          Chapter VI--Water Resources Council.................      49
-
-          Chapter VIII--Susquehanna River Basin Commission....     101
-
-          Chapter XIII--Tennessee Valley Authority............     129
-
+          Chapter III--Delaware River Basin Commission               3
+          Chapter VI--Water Resources Council                       49
+          Chapter VIII--Susquehanna River Basin Commission         101
+          Chapter XIII--Tennessee Valley Authority                 129
   Finding Aids:
-
-      Table of CFR Titles and Chapters........................     251
-
-      Alphabetical List of Agencies Appearing in the CFR......     269
-
-      List of CFR Sections Affected...........................     279
+      Table of CFR Titles and Chapters........................     269
+      Alphabetical List of Agencies Appearing in the CFR......     287
+      List of CFR Sections Affected...........................     297
 
 
 
 [[Page iv]]
 
 
-
+      
 
 
                      ----------------------------
@@ -138,7 +133,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, April 1, 2000), consult the ``List of CFR 
+revision date (in this case, April 1, 2001), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -210,13 +205,14 @@ volume, contact the issuing agency. The issuing agency's name appears at
 the top of odd-numbered pages.
     For inquiries concerning CFR reference assistance, call 202-523-5227 
 or write to the Director, Office of the Federal Register, National 
-Archives and Records Administration, Washington, DC 20408.
+Archives and Records Administration, Washington, DC 20408 or e-mail 
+info@fedreg.nara.gov.
 
 SALES
 
     The Government Printing Office (GPO) processes all sales and 
 distribution of the CFR. For payment by credit card, call 202-512-1800, 
-M-F 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2233, 24 hours 
+M-F 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2250, 24 hours 
 a day. For payment by check, write to the Superintendent of Documents, 
 Attn: New Orders, P.O. Box 371954, Pittsburgh, PA 15250-7954. For GPO 
 Customer Service call 202-512-1803.
@@ -225,12 +221,12 @@ ELECTRONIC SERVICES
 
     The full text of the Code of Federal Regulations, the LSA (List of 
 CFR Sections Affected), The United States Government Manual, the Federal 
-Register, Public Laws, Weekly Compilation of Presidential Documents and 
-the Privacy Act Compilation are available in electronic format at 
-www.access.gpo.gov/nara (``GPO Access''). For more information, contact 
-Electronic Information Dissemination Services, U.S. Government Printing 
-Office. Phone 202-512-1530, or 888-293-6498 (toll-free). E-mail, 
-gpoaccess@gpo.gov.
+Register, Public Laws, Public Papers, Weekly Compilation of Presidential 
+Documents and the Privacy Act Compilation are available in electronic 
+format at www.access.gpo.gov/nara (``GPO Access''). For more 
+information, contact Electronic Information Dissemination Services, U.S. 
+Government Printing Office. Phone 202-512-1530, or 888-293-6498 (toll-
+free). E-mail, gpoaccess@gpo.gov.
 
 [[Page vii]]
 
@@ -244,7 +240,7 @@ site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-April 1, 2000.
+April 1, 2001.
 
 
 
@@ -260,46 +256,40 @@ current regulations of the Federal Energy Regulatory Commission,
 Department of Energy. The second volume, containing part 400 to end, 
 includes all current regulations issued by the Delaware River Basin 
 Commission, the Water Resources Council, the Susquehanna River Basin 
-Commission, and the Tennessee Valley Authority as of April 1, 2000.
+Commission, and the Tennessee Valley Authority as of April 1, 2001.
 
     The OMB control numbers for the Federal Energy Regulatory 
 Commission, Department of Energy, appear in Sec. 389.101 of chapter I.
-
-    For this volume, Jonn V. Lilyea was Chief Editor. The Code of 
-Federal Regulations publication program is under the direction of 
-Frances D. McDonald, assisted by Alomha S. Morris.
 
 [[Page x]]
 
 <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
 
-
 
 [[Page 1]]
 
 
 <R01>
-
            TITLE 18--CONSERVATION OF POWER AND WATER RESOURCES
+
 
 <R02>
 
                   (This book contains part 400 to End)
 
------------------------------------------------------------------------
+  --------------------------------------------------------------------
                                                                     Part
 
-Chapter III--Delaware River Basin Commission................         401
+chapter iii--Delaware River Basin Commission................         401
 
 
-Chapter VI--Water Resources Council.........................         701
+chapter vi--Water Resources Council.........................         701
 
 
-Chapter VIII--Susquehanna River Basin Commission............         801
+chapter viii--Susquehanna River Basin Commission............         801
 
 
-Chapter XIII--Tennessee Valley Authority....................        1300
-
+chapter xiii--Tennessee Valley Authority....................        1300
 
 
 Cross References: Applications and entries conflicting with lands 
@@ -329,12 +319,13 @@ Exchanges, 17 CFR chapter II.
 
 
 <R02>
+                    CHAPTER III--DELAWARE RIVER BASIN
+                               COMMISSION
 
-             CHAPTER III--DELAWARE RIVER BASIN COMMISSION              
 
 <R03>
 
------------------------------------------------------------------------
+  --------------------------------------------------------------------
 
                    SUBCHAPTER A--ADMINISTRATIVE MANUAL
 Part                                                                Page
@@ -344,7 +335,6 @@ Part                                                                Page
                     quality regulations.....................          26
 415             Basin regulations--flood plain regulations..          27
 420             Basin regulations--water supply charges.....          33
-
                     SUBCHAPTER B--SPECIAL REGULATIONS
 
 430             Ground water protection area: Pennsylvania..          38
@@ -356,9 +346,6 @@ Part                                                                Page
 
 <R03>
                    SUBCHAPTER A--ADMINISTRATIVE MANUAL
-
-<R05>
-
 
 <R03>
 PART 401--RULES OF PRACTICE AND PROCEDURE--Table of Contents
@@ -1348,7 +1335,7 @@ employment. June 25, 1948, C.645, 62 Stat. 791.
 <R05>
 Sec. 401.76   Failure to furnish report.
 
-    The Executive Director may, upon five days' notice to the objector 
+    The Executive Director may, upon five days` notice to the objector 
 dismiss the request for a hearing as to any objector who fails to file a 
 complete report within such time as shall be prescribed in the 
 Director's notice.
@@ -3145,9 +3132,6 @@ than a year.
 <R03>
                     SUBCHAPTER B--SPECIAL REGULATIONS
 
-<R05>
-
-
 <R03>
 PART 430--GROUND WATER PROTECTION AREA: PENNSYLVANIA--Table of Contents
 
@@ -4329,11 +4313,11 @@ Committee (hereafter referred to as ILC).
 Associate Member, and Observer. Additional agency representatives may 
 participate in the ILC meeting whenever necessary.
     (b) The chairmanship of the ILC shall rotate quarterly among the 
-Members' representatives. Secretarial assistance shall be the 
+Members` representatives. Secretarial assistance shall be the 
 responsibility of the ILC Chairman.
     (c) The function of the ILC will be to provide a forum for 
 discussion of agenda items prior to Council meetings to advise the 
-Director of the Members' views on such agenda items, and with the 
+Director of the Members` views on such agenda items, and with the 
 Director, to develop the final agenda. It shall be the duty of the 
 Director or his representative to brief the ILC on each agenda item at 
 these meetings.
@@ -5334,6 +5318,8 @@ Subparts A-D  [Reserved]
 
 [[Page 66]]
 
+
+<R04>
         Subpart E--Standards for Plan Formulation and Evaluation
 
     Authority: Sec. 402, 79 Stat. 254; 42 U.S.C. 1962d-1.
@@ -6031,7 +6017,7 @@ Sec.
 706.403  Form of statements.
 706.404  Time for submission of statements.
 706.405  Supplementary statements.
-706.406  Interests of employees' relatives.
+706.406  Interests of employees` relatives.
 706.407  Information not known by employees.
 706.408  Information not required.
 706.409  Opportunity for explanation of conflict or appearance of 
@@ -6562,7 +6548,7 @@ of this part.
 
 
 <R05>
-Sec. 706.406  Interests of employees' relatives.
+Sec. 706.406  Interests of employees` relatives.
 
     The interests of a spouse, minor child, or other member of an 
 employee's immediate household are considered to be interests of the 
@@ -10222,6 +10208,9 @@ Part                                                                Page
 1316            General conditions and certifications for 
                     incorporation in contract documents or 
                     actions.................................         244
+1317            Nondiscrimination on the basis of sex in 
+                    education programs or activities 
+                    receiving federal financial assistance..         248
 
 [[Page 131]]
 
@@ -10345,7 +10334,7 @@ Sec. 1300.107  Financial interest exemptions.
 exempted the following financial interests of its employees from the 
 requirements of 18 U.S.C. 208(a) upon the ground that such interests are 
 too remote or too inconsequential to affect the integrity of such 
-employees' services. When any of the following exemptions applies only 
+employees` services. When any of the following exemptions applies only 
 to a limited range of official actions, rather than all official acts, 
 the range of actions will be specified within the language of the 
 exemption.
@@ -10615,7 +10604,7 @@ completed. Where the extension is for more than ten working days, TVA
 shall provide the requester with an opportunity either to modify the 
 request so that it may be processed within the time limits or to arrange 
 an alternative time period with TVA for processing the request or a 
-modified request. As used in this paragraph, `unusual circumstances' 
+modified request. As used in this paragraph, `unusual circumstances` 
 means, but only to the extent reasonably necessary to the proper 
 processing of the particular requests:
     (i) The need to search for and collect the requested records from 
@@ -13699,17 +13688,16 @@ because of plans providing for the use of wire mesh or similar screening
 which leaves the interior of the structure open to the weather, and 
 nothing contained in this subsection shall be construed as prohibiting 
 enclosure of the boat well or mooring slip proper. Plans for any new 
-floating boathouses will also be disapproved if the proposed flotation 
-device includes metal drums in any form.
-    (e) Applications for mooring outside designated harbor limits will 
-be disapproved if TVA determines that such proposed mooring location 
-will be contrary to the intent of this subpart, of
+floating boathouses will also be disapproved if the proposed flotation
 
 [[Page 174]]
 
-Sec. 1304.2, or of any applicable law. Applications will also be 
-disapproved if marine toilets not in compliance with Sec. 1304.4 are 
-proposed.
+device includes metal drums in any form.
+    (e) Applications for mooring outside designated harbor limits will 
+be disapproved if TVA determines that such proposed mooring location 
+will be contrary to the intent of this subpart, of Sec. 1304.2, or of 
+any applicable law. Applications will also be disapproved if marine 
+toilets not in compliance with Sec. 1304.4 are proposed.
     (f) Approvals of applications shall contain such conditions as may 
 be required by law and may contain such other conditions as TVA 
 determines to be necessary or desirable to carry out the intent of this 
@@ -13796,10 +13784,11 @@ hour is permitted unless posted for reduced speeds.
 Sec. 1305.2  Motorcycles.
 
     Motorcycles of all types shall be equipped with properly functioning 
-spark arresters. Safety requirements for motorcycle riders on improved 
-roads are safety helmets and protective eyewear.
+spark arresters. Safety requirements for motorcycle riders on improved
 
 [[Page 175]]
+
+roads are safety helmets and protective eyewear.
 
 
 <R05>
@@ -13888,20 +13877,20 @@ Sec.
 1306.2  Uniform real property acquisition policy.
 1306.3  Surrender of possession.
 1306.4  Rent after acquisition.
-1306.5  Tenants' rights in improvements.
+1306.5  Tenants` rights in improvements.
 1306.6  Expense of transfer of title and proration of taxes.
 
 Subpart B  [Reserved]
 
     Authority: Sec. 213, Uniform Relocation Assistance and Real Property 
-Acquisition Policies Act of 1970, Pub. L. 91-646, 84 Stat. 1894 (42 
-U.S.C. 4601) as amended by the Surface Transportation and Uniform 
-Relocation
+Acquisition
 
 [[Page 176]]
 
-Assistance Act of 1987, Title IV of Pub. L. 100-17, 101 Stat. 246-256 
-(42 U.S.C. 4601 note); 48 Stat. 58, as amended (16 U.S.C. 831-831dd).
+Policies Act of 1970, Pub. L. 91-646, 84 Stat. 1894 (42 U.S.C. 4601) as 
+amended by the Surface Transportation and Uniform Relocation Assistance 
+Act of 1987, Title IV of Pub. L. 100-17, 101 Stat. 246-256 (42 U.S.C. 
+4601 note); 48 Stat. 58, as amended (16 U.S.C. 831-831dd).
 
 
 <R04>
@@ -13957,7 +13946,7 @@ Sec. 1306.3  Surrender of possession.
 been paid the agreed purchase price or TVA's estimate of just 
 compensation has been deposited in court in a condemnation proceeding. 
 To the greatest extent practicable, no person will be required to move 
-from property acquired by TVA without at least 90 days' written notice 
+from property acquired by TVA without at least 90 days` written notice 
 thereof.
 
 [38 FR 3592, Feb. 8, 1973. Redesignated at 52 FR 48019, Dec. 17, 1987]
@@ -13974,7 +13963,7 @@ on a short-term basis.
 
 
 <R05>
-Sec. 1306.5  Tenants' rights in improvements.
+Sec. 1306.5  Tenants` rights in improvements.
 
     Tenants of real property being acquired by TVA will be paid just 
 compensation for any improvements owned by them, whether or not they 
@@ -13993,12 +13982,12 @@ Sec. 1306.6  Expense of transfer of title and proration of taxes.
 
     In connection with the acquisition of real property by TVA:
     (a) TVA will, to the extent it deems fair and reasonable, bear all 
-expenses incidental to the transfer of title to the United States, 
-including penalty costs for the prepayment of any valid preexisting 
-recorded mortgage;
+expenses incidental to the transfer of title to the
 
 [[Page 177]]
 
+United States, including penalty costs for the prepayment of any valid 
+preexisting recorded mortgage;
     (b) Real property taxes shall be prorated to relieve the seller from 
 paying taxes which are allocable to a period subsequent to vesting of 
 title in the United States or the date of possession, whichever is 
@@ -14084,11 +14073,11 @@ or mental illness, and specific learning disabilities. The term physical
 or mental impairment includes, but is not limited to, such diseases and 
 conditions as orthopedic, visual, speech, and hearing impairments; 
 cerebral palsy; epilepsy; muscular dystrophy; multiple sclerosis; 
-cancer; heart disease; diabetes; mental retardation; emotional illness; 
-and drug addiction and alcoholism.
+cancer; heart disease; diabetes; mental
 
 [[Page 178]]
 
+retardation; emotional illness; and drug addiction and alcoholism.
     (2) Major life activities means functions such as caring for one's 
 self, performing manual tasks, walking, seeing, hearing, speaking, 
 breathing, learning, and working.
@@ -14166,14 +14155,13 @@ under the program;
     (ii) Afford a qualified handicapped person an opportunity to 
 participate in or benefit from the aid, benefit, or service that is not 
 equal to that afforded others under the program;
-    (iii) Provide a qualified handicapped person with an aid, benefit, 
-or service
 
 [[Page 179]]
 
-that is not as effective in affording equal opportunity to obtain the 
-same result, to gain the same benefit, or to reach the same level of 
-achievement as that provided to others under the program;
+    (iii) Provide a qualified handicapped person with an aid, benefit, 
+or service that is not as effective in affording equal opportunity to 
+obtain the same result, to gain the same benefit, or to reach the same 
+level of achievement as that provided to others under the program;
     (iv) Provide different or separate aid, benefits, or services to 
 handicapped persons or to any class of handicapped persons than is 
 provided to others, unless such action is necessary to provide qualified 
@@ -14241,11 +14229,11 @@ the following activities:
     (1) Recruitment, advertising, and processing of applications for 
 employment;
     (2) Hiring, upgrading, promotion, award of tenure, demotion, 
-transfer, layoff, termination, right of return from layoff, and 
-rehiring;
+transfer,
 
 [[Page 180]]
 
+layoff, termination, right of return from layoff, and rehiring;
     (3) Rates of pay or any other form of compensation and changes in 
 compensation;
     (4) Job assignments, job classifications, organizational structures, 
@@ -14879,7 +14867,7 @@ Sec. 1308.1  Purpose and organization.
     The regulations in this part implement the Contract Disputes Act of 
 1978 as it relates to TVA. This part consists of 5 subparts. Subpart A 
 deals with matters applicable throughout the part, incuding definitions. 
-Subpart B deals with Contracting Officers' decisions. Subpart C deals 
+Subpart B deals with Contracting Officers` decisions. Subpart C deals 
 with general matters concerning the TVA Board of Contract Appeals. 
 Subpart D deals with hearing and prehearing procedures, including 
 discovery. Subpart E deals with subpoenas.
@@ -15520,7 +15508,7 @@ appearance at the hearing of the person to be subpoenaed, which request
 should normally be filed at least 30 days in advance of the scheduled 
 hearing. The request should state:
     (1) The name and address of the witness;
-    (2) The general scope of the witness' testimony;
+    (2) The general scope of the witness` testimony;
     (3) The books, records, papers, and other tangible things sought to 
 be produced; and
     (4) The general relevance of the matters sought to the case.
@@ -16215,7 +16203,7 @@ to be
 awarded the costs of the action, including reasonable attorney's fees, 
 but that these costs must be demanded in the complaint;
     (iii) That before commencing the action the complainant shall give 
-30 days' notice by registered mail to the Secretary, the Attorney 
+30 days` notice by registered mail to the Secretary, the Attorney 
 General of the United States, TVA, and the recipient;
     (iv) That the notice shall state: the alleged violation of the Act; 
 the relief requested; the court in which the action will be brought; and 
@@ -18194,7 +18182,7 @@ of, and transactions in, all TVA Power Securities issued by TVA in book-
 entry form through the Reserve Banks.
     (b) Effect. The TVA Power Securities to which the regulations in 
 this part apply are obligations which, by the terms of their issue, are 
-available exclusively in book-entry form through the Reserve Banks' 
+available exclusively in book-entry form through the Reserve Banks` 
 Book-entry System.
 
 
@@ -18313,7 +18301,7 @@ accounts established for such purposes;
     (2) To make payments with respect to such securities, as directed by 
 TVA;
     (3) To effect transfer of Book-entry TVA Power Securities between 
-Participants' Security Accounts as directed by the Participants;
+Participants` Security Accounts as directed by the Participants;
     (4) To perform such other duties as fiscal agent as may be requested 
 by TVA.
     (b) Each Reserve Bank may issue Reserve Bank Operating Circulars not 
@@ -19178,9 +19166,10 @@ $100,000 for each such failure.
 
 [[Page 241]]
 
-       Appendix B to Part 1315--Disclosure Form to Report Lobbying
-[GRAPHIC] [TIFF OMITTED] TC05OC91.023
 
+       Appendix B to Part 1315--Disclosure Form to Report Lobbying
+      [GRAPHIC] [TIFF OMITTED] TC05OC91.023
+      
 
 [[Page 242]]
 
@@ -19667,9 +19656,1413 @@ contract, and TVA shall have the right to exercise all remedies provided
 in this contract or at law.
 
                              (End of clause)
-
+
+
+<R03>
+PART 1317--NONDISCRIMINATION ON THE BASIS OF SEX IN EDUCATION PROGRAMS OR ACTIVITIES RECEIVING FEDERAL FINANCIAL ASSISTANCE--Table of Contents
+
+<R05>
+
+
+                         Subpart A--Introduction
+
+Sec.
+1317.100  Purpose and effective date.
+1317.105  Definitions.
+1317.110  Remedial and affirmative action and self-evaluation.
+1317.115  Assurance required.
+1317.120  Transfers of property.
+1317.125  Effect of other requirements.
+1317.130  Effect of employment opportunities.
+1317.135  Designation of responsible employee and adoption of grievance 
+          procedures.
+1317.140  Dissemination of policy.
+
+                           Subpart B--Coverage
+
+1317.200  Application.
+1317.205  Educational institutions and other entities controlled by 
+          religious organizations.
 
 [[Page 249]]
+
+1317.210  Military and merchant marine educational institutions.
+1317.215  Membership practices of certain organizations.
+1317.220  Admissions.
+1317.225  Educational institutions eligible to submit transition plans.
+1317.230  Transition plans.
+1317.235  Statutory amendments.
+
+     Subpart C--Discrimination on the Basis of Sex in Admission and 
+               Recruitment Prohibited 1317.300 Admission.
+
+1317.305  Preference in admission.
+1317.310  Recruitment.
+
+ Subpart D--Discrimination on the Basis of Sex in Education Programs or 
+                          Activities Prohibited
+
+1317.400  Education programs or activities.
+1317.405  Housing.
+1317.410  Comparable facilities.
+1317.415  Access to course offerings.
+1317.420  Access to schools operated by LEAs.
+1317.425  Counseling and use of appraisal and counseling materials.
+1317.430  Financial assistance.
+1317.435  Employment assistance to students.
+1317.440  Health and insurance benefits and services.
+1317.445  Marital or parental status.
+1317.450  Athletics.
+1317.455  Textbooks and curricular material.
+
+Subpart E--Discrimination on the Basis of Sex in Employment in Education 
+                    Programs or Activities Prohibited
+
+1317.500  Employment.
+1317.505  Employment criteria.
+1317.510  Recruitment.
+1317.515  Compensation.
+1317.520  Job classification and structure.
+1317.525  Fringe benefits.
+1317.530  Marital or parental status.
+1317.535  Effect of state or local law or other requirements.
+1317.540  Advertising.
+1317.545  Pre-employment inquiries.
+1317.550  Sex as a bona fide occupational qualification.
+
+                          Subpart F--Procedures
+
+1317.600  Notice of covered programs.
+1317.605  Enforcement procedures.
+
+    Authority: 20 U.S.C. 1681, 1682, 1683, 1685, 1686, 1687, 1688.
+
+    Source: 65 FR 52865, 52877, Aug. 30, 2000, unless otherwise noted.
+
+
+<R04>
+                         Subpart A--Introduction
+
+
+<R05>
+Sec. 1317.100  Purpose and effective date.
+
+    The purpose of these Title IX regulations is to effectuate Title IX 
+of the Education Amendments of 1972, as amended (except sections 904 and 
+906 of those Amendments) (20 U.S.C. 1681, 1682, 1683, 1685, 1686, 1687, 
+1688), which is designed to eliminate (with certain exceptions) 
+discrimination on the basis of sex in any education program or activity 
+receiving Federal financial assistance, whether or not such program or 
+activity is offered or sponsored by an educational institution as 
+defined in these Title IX regulations. The effective date of these Title 
+IX regulations shall be September 29, 2000.
+
+
+<R05>
+Sec. 1317.105  Definitions.
+
+    As used in these Title IX regulations, the term:
+    Administratively separate unit means a school, department, or 
+college of an educational institution (other than a local educational 
+agency) admission to which is independent of admission to any other 
+component of such institution.
+    Admission means selection for part-time, full-time, special, 
+associate, transfer, exchange, or any other enrollment, membership, or 
+matriculation in or at an education program or activity operated by a 
+recipient.
+    Applicant means one who submits an application, request, or plan 
+required to be approved by an official of the Federal agency that awards 
+Federal financial assistance, or by a recipient, as a condition to 
+becoming a recipient.
+    Designated agency official means Manager, Supplier and Diverse 
+Business Relations.
+    Educational institution means a local educational agency (LEA) as 
+defined by 20 U.S.C. 8801(18), a preschool, a private elementary or 
+secondary school, or an applicant or recipient that is an institution of 
+graduate higher education, an institution of undergraduate higher 
+education, an institution of professional education, or an institution 
+of vocational education, as defined in this section.
+    Federal financial assistance means any of the following, when 
+authorized or extended under a law administered by
+
+[[Page 250]]
+
+the Federal agency that awards such assistance:
+    (1) A grant or loan of Federal financial assistance, including funds 
+made available for:
+    (i) The acquisition, construction, renovation, restoration, or 
+repair of a building or facility or any portion thereof; and
+    (ii) Scholarships, loans, grants, wages, or other funds extended to 
+any entity for payment to or on behalf of students admitted to that 
+entity, or extended directly to such students for payment to that 
+entity.
+    (2) A grant of Federal real or personal property or any interest 
+therein, including surplus property, and the proceeds of the sale or 
+transfer of such property, if the Federal share of the fair market value 
+of the property is not, upon such sale or transfer, properly accounted 
+for to the Federal Government.
+    (3) Provision of the services of Federal personnel.
+    (4) Sale or lease of Federal property or any interest therein at 
+nominal consideration, or at consideration reduced for the purpose of 
+assisting the recipient or in recognition of public interest to be 
+served thereby, or permission to use Federal property or any interest 
+therein without consideration.
+    (5) Any other contract, agreement, or arrangement that has as one of 
+its purposes the provision of assistance to any education program or 
+activity, except a contract of insurance or guaranty.
+    Institution of graduate higher education means an institution that:
+    (1) Offers academic study beyond the bachelor of arts or bachelor of 
+science degree, whether or not leading to a certificate of any higher 
+degree in the liberal arts and sciences;
+    (2) Awards any degree in a professional field beyond the first 
+professional degree (regardless of whether the first professional degree 
+in such field is awarded by an institution of undergraduate higher 
+education or professional education); or
+    (3) Awards no degree and offers no further academic study, but 
+operates ordinarily for the purpose of facilitating research by persons 
+who have received the highest graduate degree in any field of study.
+    Institution of professional education means an institution (except 
+any institution of undergraduate higher education) that offers a program 
+of academic study that leads to a first professional degree in a field 
+for which there is a national specialized accrediting agency recognized 
+by the Secretary of Education.
+    Institution of undergraduate higher education means:
+    (1) An institution offering at least two but less than four years of 
+college-level study beyond the high school level, leading to a diploma 
+or an associate degree, or wholly or principally creditable toward a 
+baccalaureate degree; or
+    (2) An institution offering academic study leading to a 
+baccalaureate degree; or
+    (3) An agency or body that certifies credentials or offers degrees, 
+but that may or may not offer academic study.
+    Institution of vocational education means a school or institution 
+(except an institution of professional or graduate or undergraduate 
+higher education) that has as its primary purpose preparation of 
+students to pursue a technical, skilled, or semiskilled occupation or 
+trade, or to pursue study in a technical field, whether or not the 
+school or institution offers certificates, diplomas, or degrees and 
+whether or not it offers full-time study.
+    Recipient means any State or political subdivision thereof, or any 
+instrumentality of a State or political subdivision thereof, any public 
+or private agency, institution, or organization, or other entity, or any 
+person, to whom Federal financial assistance is extended directly or 
+through another recipient and that operates an education program or 
+activity that receives such assistance, including any subunit, 
+successor, assignee, or transferee thereof.
+    Student means a person who has gained admission.
+    Title IX means Title IX of the Education Amendments of 1972, Public 
+Law 92-318, 86 Stat. 235, 373 (codified as amended at 20 U.S.C. 1681-
+1688) (except sections 904 and 906 thereof), as amended by section 3 of 
+Public Law 93-568, 88 Stat. 1855, by section 412 of the Education 
+Amendments of 1976, Public Law 94-482, 90 Stat. 2234, and by Section 3 
+of
+
+[[Page 251]]
+
+Public Law 100-259, 102 Stat. 28, 28-29 (20 U.S.C. 1681, 1682, 1683, 
+1685, 1686, 1687, 1688).
+    Title IX regulations means the provisions set forth at 
+Secs. 1317.100 through 1317.605.
+    Transition plan means a plan subject to the approval of the 
+Secretary of Education pursuant to section 901(a)(2) of the Education 
+Amendments of 1972, 20 U.S.C. 1681(a)(2), under which an educational 
+institution operates in making the transition from being an educational 
+institution that admits only students of one sex to being one that 
+admits students of both sexes without discrimination.
+
+[65 FR 52865, 52877, and 52878, Aug. 30, 2000]
+
+
+<R05>
+Sec. 1317.110  Remedial and affirmative action and self-evaluation.
+
+    (a) Remedial action. If the designated agency official finds that a 
+recipient has discriminated against persons on the basis of sex in an 
+education program or activity, such recipient shall take such remedial 
+action as the designated agency official deems necessary to overcome the 
+effects of such discrimination.
+    (b) Affirmative action. In the absence of a finding of 
+discrimination on the basis of sex in an education program or activity, 
+a recipient may take affirmative action consistent with law to overcome 
+the effects of conditions that resulted in limited participation therein 
+by persons of a particular sex. Nothing in these Title IX regulations 
+shall be interpreted to alter any affirmative action obligations that a 
+recipient may have under Executive Order 11246, 3 CFR, 1964-1965 Comp., 
+p. 339; as amended by Executive Order 11375, 3 CFR, 1966-1970 Comp., p. 
+684; as amended by Executive Order 11478, 3 CFR, 1966-1970 Comp., p. 
+803; as amended by Executive Order 12086, 3 CFR, 1978 Comp., p. 230; as 
+amended by Executive Order 12107, 3 CFR, 1978 Comp., p. 264.
+    (c) Self-evaluation. Each recipient education institution shall, 
+within one year of September 29, 2000:
+    (1) Evaluate, in terms of the requirements of these Title IX 
+regulations, its current policies and practices and the effects thereof 
+concerning admission of students, treatment of students, and employment 
+of both academic and non-academic personnel working in connection with 
+the recipient's education program or activity;
+    (2) Modify any of these policies and practices that do not or may 
+not meet the requirements of these Title IX regulations; and
+    (3) Take appropriate remedial steps to eliminate the effects of any 
+discrimination that resulted or may have resulted from adherence to 
+these policies and practices.
+    (d) Availability of self-evaluation and related materials. 
+Recipients shall maintain on file for at least three years following 
+completion of the evaluation required under paragraph (c) of this 
+section, and shall provide to the designated agency official upon 
+request, a description of any modifications made pursuant to paragraph 
+(c)(2) of this section and of any remedial steps taken pursuant to 
+paragraph (c)(3) of this section.
+
+
+<R05>
+Sec. 1317.115  Assurance required.
+
+    (a) General. Either at the application stage or the award stage, 
+Federal agencies must ensure that applications for Federal financial 
+assistance or awards of Federal financial assistance contain, be 
+accompanied by, or be covered by a specifically identified assurance 
+from the applicant or recipient, satisfactory to the designated agency 
+official, that each education program or activity operated by the 
+applicant or recipient and to which these Title IX regulations apply 
+will be operated in compliance with these Title IX regulations. An 
+assurance of compliance with these Title IX regulations shall not be 
+satisfactory to the designated agency official if the applicant or 
+recipient to whom such assurance applies fails to commit itself to take 
+whatever remedial action is necessary in accordance with 
+Sec. 1317.110(a) to eliminate existing discrimination on the basis of 
+sex or to eliminate the effects of past discrimination whether occurring 
+prior to or subsequent to the submission to the designated agency 
+official of such assurance.
+    (b) Duration of obligation. (1) In the case of Federal financial 
+assistance extended to provide real property or structures thereon, such 
+assurance shall obligate the recipient or, in the
+
+[[Page 252]]
+
+case of a subsequent transfer, the transferee, for the period during 
+which the real property or structures are used to provide an education 
+program or activity.
+    (2) In the case of Federal financial assistance extended to provide 
+personal property, such assurance shall obligate the recipient for the 
+period during which it retains ownership or possession of the property.
+    (3) In all other cases such assurance shall obligate the recipient 
+for the period during which Federal financial assistance is extended.
+    (c) Form. (1) The assurances required by paragraph (a) of this 
+section, which may be included as part of a document that addresses 
+other assurances or obligations, shall include that the applicant or 
+recipient will comply with all applicable Federal statutes relating to 
+nondiscrimination. These include but are not limited to: Title IX of the 
+Education Amendments of 1972, as amended (20 U.S.C. 1681-1683, 1685-
+1688).
+    (2) The designated agency official will specify the extent to which 
+such assurances will be required of the applicant's or recipient's 
+subgrantees, contractors, subcontractors, transferees, or successors in 
+interest.
+
+
+<R05>
+Sec. 1317.120  Transfers of property.
+
+    If a recipient sells or otherwise transfers property financed in 
+whole or in part with Federal financial assistance to a transferee that 
+operates any education program or activity, and the Federal share of the 
+fair market value of the property is not upon such sale or transfer 
+properly accounted for to the Federal Government, both the transferor 
+and the transferee shall be deemed to be recipients, subject to the 
+provisions of Secs. 1317.205 through 1317.235(a).
+
+
+<R05>
+Sec. 1317.125  Effect of other requirements.
+
+    (a) Effect of other Federal provisions. The obligations imposed by 
+these Title IX regulations are independent of, and do not alter, 
+obligations not to discriminate on the basis of sex imposed by Executive 
+Order 11246, 3 CFR, 1964-1965 Comp., p. 339; as amended by Executive 
+Order 11375, 3 CFR, 1966-1970 Comp., p. 684; as amended by Executive 
+Order 11478, 3 CFR, 1966-1970 Comp., p. 803; as amended by Executive 
+Order 12087, 3 CFR, 1978 Comp., p. 230; as amended by Executive Order 
+12107, 3 CFR, 1978 Comp., p. 264; sections 704 and 855 of the Public 
+Health Service Act (42 U.S.C. 295m, 298b-2); Title VII of the Civil 
+Rights Act of 1964 (42 U.S.C. 2000e et seq.); the Equal Pay Act of 1963 
+(29 U.S.C. 206); and any other Act of Congress or Federal regulation.
+    (b) Effect of State or local law or other requirements. The 
+obligation to comply with these Title IX regulations is not obviated or 
+alleviated by any State or local law or other requirement that would 
+render any applicant or student ineligible, or limit the eligibility of 
+any applicant or student, on the basis of sex, to practice any 
+occupation or profession.
+    (c) Effect of rules or regulations of private organizations. The 
+obligation to comply with these Title IX regulations is not obviated or 
+alleviated by any rule or regulation of any organization, club, athletic 
+or other league, or association that would render any applicant or 
+student ineligible to participate or limit the eligibility or 
+participation of any applicant or student, on the basis of sex, in any 
+education program or activity operated by a recipient and that receives 
+Federal financial assistance.
+
+
+<R05>
+Sec. 1317.130  Effect of employment opportunities.
+
+    The obligation to comply with these Title IX regulations is not 
+obviated or alleviated because employment opportunities in any 
+occupation or profession are or may be more limited for members of one 
+sex than for members of the other sex.
+
+
+<R05>
+Sec. 1317.135  Designation of responsible employee and adoption of grievance procedures.
+
+    (a) Designation of responsible employee. Each recipient shall 
+designate at least one employee to coordinate its efforts to comply with 
+and carry out its responsibilities under these Title IX regulations, 
+including any investigation of any complaint communicated to such 
+recipient alleging its noncompliance
+
+[[Page 253]]
+
+with these Title IX regulations or alleging any actions that would be 
+prohibited by these Title IX regulations. The recipient shall notify all 
+its students and employees of the name, office address, and telephone 
+number of the employee or employees appointed pursuant to this 
+paragraph.
+    (b) Complaint procedure of recipient. A recipient shall adopt and 
+publish grievance procedures providing for prompt and equitable 
+resolution of student and employee complaints alleging any action that 
+would be prohibited by these Title IX regulations.
+
+
+<R05>
+Sec. 1317.140  Dissemination of policy.
+
+    (a) Notification of policy. (1) Each recipient shall implement 
+specific and continuing steps to notify applicants for admission and 
+employment, students and parents of elementary and secondary school 
+students, employees, sources of referral of applicants for admission and 
+employment, and all unions or professional organizations holding 
+collective bargaining or professional agreements with the recipient, 
+that it does not discriminate on the basis of sex in the educational 
+programs or activities that it operates, and that it is required by 
+Title IX and these Title IX regulations not to discriminate in such a 
+manner. Such notification shall contain such information, and be made in 
+such manner, as the designated agency official finds necessary to 
+apprise such persons of the protections against discrimination assured 
+them by Title IX and these Title IX regulations, but shall state at 
+least that the requirement not to discriminate in education programs or 
+activities extends to employment therein, and to admission thereto 
+unless Secs. 1317.300 through 1317.310 do not apply to the recipient, 
+and that inquiries concerning the application of Title IX and these 
+Title IX regulations to such recipient may be referred to the employee 
+designated pursuant to Sec. 1317.135, or to the designated agency 
+official.
+    (2) Each recipient shall make the initial notification required by 
+paragraph (a)(1) of this section within 90 days of September 29, 2000 or 
+of the date these Title IX regulations first apply to such recipient, 
+whichever comes later, which notification shall include publication in:
+    (i) Newspapers and magazines operated by such recipient or by 
+student, alumnae, or alumni groups for or in connection with such 
+recipient; and
+    (ii) Memoranda or other written communications distributed to every 
+student and employee of such recipient.
+    (b) Publications. (1) Each recipient shall prominently include a 
+statement of the policy described in paragraph (a) of this section in 
+each announcement, bulletin, catalog, or application form that it makes 
+available to any person of a type, described in paragraph (a) of this 
+section, or which is otherwise used in connection with the recruitment 
+of students or employees.
+    (2) A recipient shall not use or distribute a publication of the 
+type described in paragraph (b)(1) of this section that suggests, by 
+text or illustration, that such recipient treats applicants, students, 
+or employees differently on the basis of sex except as such treatment is 
+permitted by these Title IX regulations.
+    (c) Distribution. Each recipient shall distribute without 
+discrimination on the basis of sex each publication described in 
+paragraph (b)(1) of this section, and shall apprise each of its 
+admission and employment recruitment representatives of the policy of 
+nondiscrimination described in paragraph (a) of this section, and shall 
+require such representatives to adhere to such policy.
+
+
+<R04>
+                           Subpart B--Coverage
+
+
+<R05>
+Sec. 1317.200  Application.
+
+    Except as provided in Secs. 1317.205 through 1317.235(a), these 
+Title IX regulations apply to every recipient and to each education 
+program or activity operated by such recipient that receives Federal 
+financial assistance.
+
+
+<R05>
+Sec. 1317.205  Educational institutions and other entities controlled by religious organizations.
+
+    (a) Exemption. These Title IX regulations do not apply to any 
+operation of an educational institution or other entity that is 
+controlled by a religious organization to the extent that application of 
+these Title IX regulations
+
+[[Page 254]]
+
+would not be consistent with the religious tenets of such organization.
+    (b) Exemption claims. An educational institution or other entity 
+that wishes to claim the exemption set forth in paragraph (a) of this 
+section shall do so by submitting in writing to the designated agency 
+official a statement by the highest-ranking official of the institution, 
+identifying the provisions of these Title IX regulations that conflict 
+with a specific tenet of the religious organization.
+
+
+<R05>
+Sec. 1317.210  Military and merchant marine educational institutions.
+
+    These Title IX regulations do not apply to an educational 
+institution whose primary purpose is the training of individuals for a 
+military service of the United States or for the merchant marine.
+
+
+<R05>
+Sec. 1317.215  Membership practices of certain organizations.
+
+    (a) Social fraternities and sororities. These Title IX regulations 
+do not apply to the membership practices of social fraternities and 
+sororities that are exempt from taxation under section 501(a) of the 
+Internal Revenue Code of 1954, 26 U.S.C. 501(a), the active membership 
+of which consists primarily of students in attendance at institutions of 
+higher education.
+    (b) YMCA, YWCA, Girl Scouts, Boy Scouts, and Camp Fire Girls. These 
+Title IX regulations do not apply to the membership practices of the 
+Young Men's Christian Association (YMCA), the Young Women's Christian 
+Association (YWCA), the Girl Scouts, the Boy Scouts, and Camp Fire 
+Girls.
+    (c) Voluntary youth service organizations. These Title IX 
+regulations do not apply to the membership practices of a voluntary 
+youth service organization that is exempt from taxation under section 
+501(a) of the Internal Revenue Code of 1954, 26 U.S.C. 501(a), and the 
+membership of which has been traditionally limited to members of one sex 
+and principally to persons of less than nineteen years of age.
+
+
+<R05>
+Sec. 1317.220  Admissions.
+
+    (a) Admissions to educational institutions prior to June 24, 1973, 
+are not covered by these Title IX regulations.
+    (b) Administratively separate units. For the purposes only of this 
+section, Secs. 1317.225 and 1317.230, and Secs. 1317.300 through 
+1317.310, each administratively separate unit shall be deemed to be an 
+educational institution.
+    (c) Application of Secs. 1317.300 through 1317.310. Except as 
+provided in paragraphs (d) and (e) of this section, Secs. 1317.300 
+through 1317.310 apply to each recipient. A recipient to which 
+Secs. 1317.300 through 1317.310 apply shall not discriminate on the 
+basis of sex in admission or recruitment in violation of Secs. 1317.300 
+through 1317.310.
+    (d) Educational institutions. Except as provided in paragraph (e) of 
+this section as to recipients that are educational institutions, 
+Secs. 1317.300 through 1317.310 apply only to institutions of vocational 
+education, professional education, graduate higher education, and public 
+institutions of undergraduate higher education.
+    (e) Public institutions of undergraduate higher education. 
+Secs. 1317.300 through 1317.310 do not apply to any public institution 
+of undergraduate higher education that traditionally and continually 
+from its establishment has had a policy of admitting students of only 
+one sex.
+
+
+<R05>
+Sec. 1317.225  Educational institutions eligible to submit transition plans.
+
+    (a) Application. This section applies to each educational 
+institution to which Secs. 1317.300 through 1317.310 apply that:
+    (1) Admitted students of only one sex as regular students as of June 
+23, 1972; or
+    (2) Admitted students of only one sex as regular students as of June 
+23, 1965, but thereafter admitted, as regular students, students of the 
+sex not admitted prior to June 23, 1965.
+    (b) Provision for transition plans. An educational institution to 
+which this section applies shall not discriminate on the basis of sex in 
+admission or recruitment in violation of Secs. 1317.300 through 
+1317.310.
+
+
+<R05>
+Sec. 1317.230  Transition plans.
+
+    (a) Submission of plans. An institution to which Sec. 1317.225 
+applies and that is composed of more than one administratively separate 
+unit may submit either
+
+[[Page 255]]
+
+a single transition plan applicable to all such units, or a separate 
+transition plan applicable to each such unit.
+    (b) Content of plans. In order to be approved by the Secretary of 
+Education, a transition plan shall:
+    (1) State the name, address, and Federal Interagency Committee on 
+Education Code of the educational institution submitting such plan, the 
+administratively separate units to which the plan is applicable, and the 
+name, address, and telephone number of the person to whom questions 
+concerning the plan may be addressed. The person who submits the plan 
+shall be the chief administrator or president of the institution, or 
+another individual legally authorized to bind the institution to all 
+actions set forth in the plan.
+    (2) State whether the educational institution or administratively 
+separate unit admits students of both sexes as regular students and, if 
+so, when it began to do so.
+    (3) Identify and describe with respect to the educational 
+institution or administratively separate unit any obstacles to admitting 
+students without discrimination on the basis of sex.
+    (4) Describe in detail the steps necessary to eliminate as soon as 
+practicable each obstacle so identified and indicate the schedule for 
+taking these steps and the individual directly responsible for their 
+implementation.
+    (5) Include estimates of the number of students, by sex, expected to 
+apply for, be admitted to, and enter each class during the period 
+covered by the plan.
+    (c) Nondiscrimination. No policy or practice of a recipient to which 
+Sec. 1317.225 applies shall result in treatment of applicants to or 
+students of such recipient in violation of Secs. 1317.300 through 
+1317.310 unless such treatment is necessitated by an obstacle identified 
+in paragraph (b)(3) of this section and a schedule for eliminating that 
+obstacle has been provided as required by paragraph (b)(4) of this 
+section.
+    (d) Effects of past exclusion. To overcome the effects of past 
+exclusion of students on the basis of sex, each educational institution 
+to which Sec. 1317.225 applies shall include in its transition plan, and 
+shall implement, specific steps designed to encourage individuals of the 
+previously excluded sex to apply for admission to such institution. Such 
+steps shall include instituting recruitment programs that emphasize the 
+institution's commitment to enrolling students of the sex previously 
+excluded.
+
+
+<R05>
+Sec. 1317.235  Statutory amendments.
+
+    (a) This section, which applies to all provisions of these Title IX 
+regulations, addresses statutory amendments to Title IX.
+    (b) These Title IX regulations shall not apply to or preclude:
+    (1) Any program or activity of the American Legion undertaken in 
+connection with the organization or operation of any Boys State 
+conference, Boys Nation conference, Girls State conference, or Girls 
+Nation conference;
+    (2) Any program or activity of a secondary school or educational 
+institution specifically for:
+    (i) The promotion of any Boys State conference, Boys Nation 
+conference, Girls State conference, or Girls Nation conference; or
+    (ii) The selection of students to attend any such conference;
+    (3) Father-son or mother-daughter activities at an educational 
+institution or in an education program or activity, but if such 
+activities are provided for students of one sex, opportunities for 
+reasonably comparable activities shall be provided to students of the 
+other sex;
+    (4) Any scholarship or other financial assistance awarded by an 
+institution of higher education to an individual because such individual 
+has received such award in a single-sex pageant based upon a combination 
+of factors related to the individual's personal appearance, poise, and 
+talent. The pageant, however, must comply with other nondiscrimination 
+provisions of Federal law.
+    (c) Program or activity or program means:
+    (1) All of the operations of any entity described in paragraphs 
+(c)(1)(i) through (iv) of this section, any part of which is extended 
+Federal financial assistance:
+
+[[Page 256]]
+
+    (i)(A) A department, agency, special purpose district, or other 
+instrumentality of a State or of a local government; or
+    (B) The entity of such State or local government that distributes 
+such assistance and each such department or agency (and each other State 
+or local government entity) to which the assistance is extended, in the 
+case of assistance to a State or local government;
+    (ii)(A) A college, university, or other postsecondary institution, 
+or a public system of higher education; or
+    (B) A local educational agency (as defined in section 8801 of title 
+20), system of vocational education, or other school system;
+    (iii)(A) An entire corporation, partnership, or other private 
+organization, or an entire sole proprietorship--
+    (1) If assistance is extended to such corporation, partnership, 
+private organization, or sole proprietorship as a whole; or
+    (2) Which is principally engaged in the business of providing 
+education, health care, housing, social services, or parks and 
+recreation; or
+    (B) The entire plant or other comparable, geographically separate 
+facility to which Federal financial assistance is extended, in the case 
+of any other corporation, partnership, private organization, or sole 
+proprietorship; or
+    (iv) Any other entity that is established by two or more of the 
+entities described in paragraphs (c)(1)(i), (ii), or (iii) of this 
+section.
+    (2)(i) Program or activity does not include any operation of an 
+entity that is controlled by a religious organization if the application 
+of 20 U.S.C. 1681 to such operation would not be consistent with the 
+religious tenets of such organization.
+    (ii) For example, all of the operations of a college, university, or 
+other postsecondary institution, including but not limited to 
+traditional educational operations, faculty and student housing, campus 
+shuttle bus service, campus restaurants, the bookstore, and other 
+commercial activities are part of a ``program or activity'' subject to 
+these Title IX regulations if the college, university, or other 
+institution receives Federal financial assistance.
+    (d)(1) Nothing in these Title IX regulations shall be construed to 
+require or prohibit any person, or public or private entity, to provide 
+or pay for any benefit or service, including the use of facilities, 
+related to an abortion. Medical procedures, benefits, services, and the 
+use of facilities, necessary to save the life of a pregnant woman or to 
+address complications related to an abortion are not subject to this 
+section.
+    (2) Nothing in this section shall be construed to permit a penalty 
+to be imposed on any person or individual because such person or 
+individual is seeking or has received any benefit or service related to 
+a legal abortion. Accordingly, subject to paragraph (d)(1) of this 
+section, no person shall be excluded from participation in, be denied 
+the benefits of, or be subjected to discrimination under any academic, 
+extracurricular, research, occupational training, employment, or other 
+educational program or activity operated by a recipient that receives 
+Federal financial assistance because such individual has sought or 
+received, or is seeking, a legal abortion, or any benefit or service 
+related to a legal abortion.
+
+
+<R04>
+     Subpart C--Discrimination on the Basis of Sex in Admission and 
+                         Recruitment Prohibited
+
+
+<R05>
+Sec. 1317.300  Admission.
+
+    (a) General. No person shall, on the basis of sex, be denied 
+admission, or be subjected to discrimination in admission, by any 
+recipient to which Secs. 1317.300 through Secs. 1317.310 apply, except 
+as provided in Secs. 1317.225 and Secs. 1317.230.
+    (b) Specific prohibitions. (1) In determining whether a person 
+satisfies any policy or criterion for admission, or in making any offer 
+of admission, a recipient to which Secs. 1317.300 through 1317.310 apply 
+shall not:
+    (i) Give preference to one person over another on the basis of sex, 
+by ranking applicants separately on such basis, or otherwise;
+    (ii) Apply numerical limitations upon the number or proportion of 
+persons of either sex who may be admitted; or
+
+[[Page 257]]
+
+    (iii) Otherwise treat one individual differently from another on the 
+basis of sex.
+    (2) A recipient shall not administer or operate any test or other 
+criterion for admission that has a disproportionately adverse effect on 
+persons on the basis of sex unless the use of such test or criterion is 
+shown to predict validly success in the education program or activity in 
+question and alternative tests or criteria that do not have such a 
+disproportionately adverse effect are shown to be unavailable.
+    (c) Prohibitions relating to marital or parental status. In 
+determining whether a person satisfies any policy or criterion for 
+admission, or in making any offer of admission, a recipient to which 
+Secs. 1317.300 through 1317.310 apply:
+    (1) Shall not apply any rule concerning the actual or potential 
+parental, family, or marital status of a student or applicant that 
+treats persons differently on the basis of sex;
+    (2) Shall not discriminate against or exclude any person on the 
+basis of pregnancy, childbirth, termination of pregnancy, or recovery 
+therefrom, or establish or follow any rule or practice that so 
+discriminates or excludes;
+    (3) Subject to Sec. 1317.235(d), shall treat disabilities related to 
+pregnancy, childbirth, termination of pregnancy, or recovery therefrom 
+in the same manner and under the same policies as any other temporary 
+disability or physical condition; and
+    (4) Shall not make pre-admission inquiry as to the marital status of 
+an applicant for admission, including whether such applicant is ``Miss'' 
+or ``Mrs.'' A recipient may make pre-admission inquiry as to the sex of 
+an applicant for admission, but only if such inquiry is made equally of 
+such applicants of both sexes and if the results of such inquiry are not 
+used in connection with discrimination prohibited by these Title IX 
+regulations.
+
+
+<R05>
+Sec. 1317.305  Preference in admission.
+
+    A recipient to which Secs. 1317.300 through 1317.310 apply shall not 
+give preference to applicants for admission, on the basis of attendance 
+at any educational institution or other school or entity that admits as 
+students only or predominantly members of one sex, if the giving of such 
+preference has the effect of discriminating on the basis of sex in 
+violation of Secs. 1317.300 through 1317.310.
+
+
+<R05>
+Sec. 1317.310  Recruitment.
+
+    (a) Nondiscriminatory recruitment. A recipient to which 
+Secs. 1317.300 through 1317.310 apply shall not discriminate on the 
+basis of sex in the recruitment and admission of students. A recipient 
+may be required to undertake additional recruitment efforts for one sex 
+as remedial action pursuant to Sec. 1317.110(a), and may choose to 
+undertake such efforts as affirmative action pursuant to 
+Sec. 1317.110(b).
+    (b) Recruitment at certain institutions. A recipient to which 
+Secs. 1317.300 through 1317.310 apply shall not recruit primarily or 
+exclusively at educational institutions, schools, or entities that admit 
+as students only or predominantly members of one sex, if such actions 
+have the effect of discriminating on the basis of sex in violation of 
+Secs. 1317.300 through 1317.310.
+
+
+<R04>
+ Subpart D--Discrimination on the Basis of Sex in Education Programs or 
+                          Activities Prohibited
+
+
+<R05>
+Sec. 1317.400  Education programs or activities.
+
+    (a) General. Except as provided elsewhere in these Title IX 
+regulations, no person shall, on the basis of sex, be excluded from 
+participation in, be denied the benefits of, or be subjected to 
+discrimination under any academic, extracurricular, research, 
+occupational training, or other education program or activity operated 
+by a recipient that receives Federal financial assistance. Sections 
+1317.400 through 1317.455 do not apply to actions of a recipient in 
+connection with admission of its students to an education program or 
+activity of a recipient to which Secs. 1317.300 through 1317.310 do not 
+apply, or an entity, not a recipient, to which Secs. 1317.300 through 
+1317.310 would not apply if the entity were a recipient.
+    (b) Specific prohibitions. Except as provided in Secs. 1317.400 
+through 1317.455, in providing any aid, benefit, or service to a 
+student, a recipient shall not, on the basis of sex:
+
+[[Page 258]]
+
+    (1) Treat one person differently from another in determining whether 
+such person satisfies any requirement or condition for the provision of 
+such aid, benefit, or service;
+    (2) Provide different aid, benefits, or services or provide aid, 
+benefits, or services in a different manner;
+    (3) Deny any person any such aid, benefit, or service;
+    (4) Subject any person to separate or different rules of behavior, 
+sanctions, or other treatment;
+    (5) Apply any rule concerning the domicile or residence of a student 
+or applicant, including eligibility for in-state fees and tuition;
+    (6) Aid or perpetuate discrimination against any person by providing 
+significant assistance to any agency, organization, or person that 
+discriminates on the basis of sex in providing any aid, benefit, or 
+service to students or employees;
+    (7) Otherwise limit any person in the enjoyment of any right, 
+privilege, advantage, or opportunity.
+    (c) Assistance administered by a recipient educational institution 
+to study at a foreign institution. A recipient educational institution 
+may administer or assist in the administration of scholarships, 
+fellowships, or other awards established by foreign or domestic wills, 
+trusts, or similar legal instruments, or by acts of foreign governments 
+and restricted to members of one sex, that are designed to provide 
+opportunities to study abroad, and that are awarded to students who are 
+already matriculating at or who are graduates of the recipient 
+institution; Provided, that a recipient educational institution that 
+administers or assists in the administration of such scholarships, 
+fellowships, or other awards that are restricted to members of one sex 
+provides, or otherwise makes available, reasonable opportunities for 
+similar studies for members of the other sex. Such opportunities may be 
+derived from either domestic or foreign sources.
+    (d) Aids, benefits or services not provided by recipient. (1) This 
+paragraph (d) applies to any recipient that requires participation by 
+any applicant, student, or employee in any education program or activity 
+not operated wholly by such recipient, or that facilitates, permits, or 
+considers such participation as part of or equivalent to an education 
+program or activity operated by such recipient, including participation 
+in educational consortia and cooperative employment and student-teaching 
+assignments.
+    (2) Such recipient:
+    (i) Shall develop and implement a procedure designed to assure 
+itself that the operator or sponsor of such other education program or 
+activity takes no action affecting any applicant, student, or employee 
+of such recipient that these Title IX regulations would prohibit such 
+recipient from taking; and
+    (ii) Shall not facilitate, require, permit, or consider such 
+participation if such action occurs.
+
+
+<R05>
+Sec. 1317.405  Housing.
+
+    (a) Generally. A recipient shall not, on the basis of sex, apply 
+different rules or regulations, impose different fees or requirements, 
+or offer different services or benefits related to housing, except as 
+provided in this section (including housing provided only to married 
+students).
+    (b) Housing provided by recipient. (1) A recipient may provide 
+separate housing on the basis of sex.
+    (2) Housing provided by a recipient to students of one sex, when 
+compared to that provided to students of the other sex, shall be as a 
+whole:
+    (i) Proportionate in quantity to the number of students of that sex 
+applying for such housing; and
+    (ii) Comparable in quality and cost to the student.
+    (c) Other housing. (1) A recipient shall not, on the basis of sex, 
+administer different policies or practices concerning occupancy by its 
+students of housing other than that provided by such recipient.
+    (2)(i) A recipient which, through solicitation, listing, approval of 
+housing, or otherwise, assists any agency, organization, or person in 
+making housing available to any of its students, shall take such 
+reasonable action as may be necessary to assure itself that such housing 
+as is provided to students of one sex, when compared to that provided to 
+students of the other sex, is as a whole:
+
+[[Page 259]]
+
+    (A) Proportionate in quantity; and
+    (B) Comparable in quality and cost to the student.
+    (ii) A recipient may render such assistance to any agency, 
+organization, or person that provides all or part of such housing to 
+students of only one sex.
+
+
+<R05>
+Sec. 1317.410  Comparable facilities.
+
+    A recipient may provide separate toilet, locker room, and shower 
+facilities on the basis of sex, but such facilities provided for 
+students of one sex shall be comparable to such facilities provided for 
+students of the other sex.
+
+
+<R05>
+Sec. 1317.415  Access to course offerings.
+
+    (a) A recipient shall not provide any course or otherwise carry out 
+any of its education program or activity separately on the basis of sex, 
+or require or refuse participation therein by any of its students on 
+such basis, including health, physical education, industrial, business, 
+vocational, technical, home economics, music, and adult education 
+courses.
+    (b)(1) With respect to classes and activities in physical education 
+at the elementary school level, the recipient shall comply fully with 
+this section as expeditiously as possible but in no event later than one 
+year from September 29, 2000. With respect to physical education classes 
+and activities at the secondary and post-secondary levels, the recipient 
+shall comply fully with this section as expeditiously as possible but in 
+no event later than three years from September 29, 2000.
+    (2) This section does not prohibit grouping of students in physical 
+education classes and activities by ability as assessed by objective 
+standards of individual performance developed and applied without regard 
+to sex.
+    (3) This section does not prohibit separation of students by sex 
+within physical education classes or activities during participation in 
+wrestling, boxing, rugby, ice hockey, football, basketball, and other 
+sports the purpose or major activity of which involves bodily contact.
+    (4) Where use of a single standard of measuring skill or progress in 
+a physical education class has an adverse effect on members of one sex, 
+the recipient shall use appropriate standards that do not have such 
+effect.
+    (5) Portions of classes in elementary and secondary schools, or 
+portions of education programs or activities, that deal exclusively with 
+human sexuality may be conducted in separate sessions for boys and 
+girls.
+    (6) Recipients may make requirements based on vocal range or quality 
+that may result in a chorus or choruses of one or predominantly one sex.
+
+
+<R05>
+Sec. 1317.420  Access to schools operated by LEAs.
+
+    A recipient that is a local educational agency shall not, on the 
+basis of sex, exclude any person from admission to:
+    (a) Any institution of vocational education operated by such 
+recipient; or
+    (b) Any other school or educational unit operated by such recipient, 
+unless such recipient otherwise makes available to such person, pursuant 
+to the same policies and criteria of admission, courses, services, and 
+facilities comparable to each course, service, and facility offered in 
+or through such schools.
+
+
+<R05>
+Sec. 1317.425  Counseling and use of appraisal and counseling materials.
+
+    (a) Counseling. A recipient shall not discriminate against any 
+person on the basis of sex in the counseling or guidance of students or 
+applicants for admission.
+    (b) Use of appraisal and counseling materials. A recipient that uses 
+testing or other materials for appraising or counseling students shall 
+not use different materials for students on the basis of their sex or 
+use materials that permit or require different treatment of students on 
+such basis unless such different materials cover the same occupations 
+and interest areas and the use of such different materials is shown to 
+be essential to eliminate sex bias. Recipients shall develop and use 
+internal procedures for ensuring that such materials do not discriminate 
+on the basis of sex. Where the use of a counseling test or other 
+instrument results in a substantially disproportionate number of members 
+of one sex in any particular course of study or classification, the 
+recipient shall take such action as is
+
+[[Page 260]]
+
+necessary to assure itself that such disproportion is not the result of 
+discrimination in the instrument or its application.
+    (c) Disproportion in classes. Where a recipient finds that a 
+particular class contains a substantially disproportionate number of 
+individuals of one sex, the recipient shall take such action as is 
+necessary to assure itself that such disproportion is not the result of 
+discrimination on the basis of sex in counseling or appraisal materials 
+or by counselors.
+
+
+<R05>
+Sec. 1317.430  Financial assistance.
+
+    (a) General. Except as provided in paragraphs (b) and (c) of this 
+section, in providing financial assistance to any of its students, a 
+recipient shall not:
+    (1) On the basis of sex, provide different amounts or types of such 
+assistance, limit eligibility for such assistance that is of any 
+particular type or source, apply different criteria, or otherwise 
+discriminate;
+    (2) Through solicitation, listing, approval, provision of 
+facilities, or other services, assist any foundation, trust, agency, 
+organization, or person that provides assistance to any of such 
+recipient's students in a manner that discriminates on the basis of sex; 
+or
+    (3) Apply any rule or assist in application of any rule concerning 
+eligibility for such assistance that treats persons of one sex 
+differently from persons of the other sex with regard to marital or 
+parental status.
+    (b) Financial aid established by certain legal instruments. (1) A 
+recipient may administer or assist in the administration of 
+scholarships, fellowships, or other forms of financial assistance 
+established pursuant to domestic or foreign wills, trusts, bequests, or 
+similar legal instruments or by acts of a foreign government that 
+require that awards be made to members of a particular sex specified 
+therein; Provided, that the overall effect of the award of such sex-
+restricted scholarships, fellowships, and other forms of financial 
+assistance does not discriminate on the basis of sex.
+    (2) To ensure nondiscriminatory awards of assistance as required in 
+paragraph (b)(1) of this section, recipients shall develop and use 
+procedures under which:
+    (i) Students are selected for award of financial assistance on the 
+basis of nondiscriminatory criteria and not on the basis of availability 
+of funds restricted to members of a particular sex;
+    (ii) An appropriate sex-restricted scholarship, fellowship, or other 
+form of financial assistance is allocated to each student selected under 
+paragraph (b)(2)(i) of this section; and
+    (iii) No student is denied the award for which he or she was 
+selected under paragraph (b)(2)(i) of this section because of the 
+absence of a scholarship, fellowship, or other form of financial 
+assistance designated for a member of that student's sex.
+    (c) Athletic scholarships. (1) To the extent that a recipient awards 
+athletic scholarships or grants-in-aid, it must provide reasonable 
+opportunities for such awards for members of each sex in proportion to 
+the number of students of each sex participating in interscholastic or 
+intercollegiate athletics.
+    (2) A recipient may provide separate athletic scholarships or 
+grants-in-aid for members of each sex as part of separate athletic teams 
+for members of each sex to the extent consistent with this paragraph (c) 
+and Sec. 1317.450.
+
+
+<R05>
+Sec. 1317.435  Employment assistance to students.
+
+    (a) Assistance by recipient in making available outside employment. 
+A recipient that assists any agency, organization, or person in making 
+employment available to any of its students:
+    (1) Shall assure itself that such employment is made available 
+without discrimination on the basis of sex; and
+    (2) Shall not render such services to any agency, organization, or 
+person that discriminates on the basis of sex in its employment 
+practices.
+    (b) Employment of students by recipients. A recipient that employs 
+any of its students shall not do so in a manner that violates 
+Secs. 1317.500 through 1317.550.
+
+
+<R05>
+Sec. 1317.440  Health and insurance benefits and services.
+
+    Subject to Sec. 1317.235(d), in providing a medical, hospital, 
+accident, or life insurance benefit, service, policy, or plan
+
+[[Page 261]]
+
+to any of its students, a recipient shall not discriminate on the basis 
+of sex, or provide such benefit, service, policy, or plan in a manner 
+that would violate Secs. 1317.500 through 1317.550 if it were provided 
+to employees of the recipient. This section shall not prohibit a 
+recipient from providing any benefit or service that may be used by a 
+different proportion of students of one sex than of the other, including 
+family planning services. However, any recipient that provides full 
+coverage health service shall provide gynecological care.
+
+
+<R05>
+Sec. 1317.445  Marital or parental status.
+
+    (a) Status generally. A recipient shall not apply any rule 
+concerning a student's actual or potential parental, family, or marital 
+status that treats students differently on the basis of sex.
+    (b) Pregnancy and related conditions. (1) A recipient shall not 
+discriminate against any student, or exclude any student from its 
+education program or activity, including any class or extracurricular 
+activity, on the basis of such student's pregnancy, childbirth, false 
+pregnancy, termination of pregnancy, or recovery therefrom, unless the 
+student requests voluntarily to participate in a separate portion of the 
+program or activity of the recipient.
+    (2) A recipient may require such a student to obtain the 
+certification of a physician that the student is physically and 
+emotionally able to continue participation as long as such a 
+certification is required of all students for other physical or 
+emotional conditions requiring the attention of a physician.
+    (3) A recipient that operates a portion of its education program or 
+activity separately for pregnant students, admittance to which is 
+completely voluntary on the part of the student as provided in paragraph 
+(b)(1) of this section, shall ensure that the separate portion is 
+comparable to that offered to non-pregnant students.
+    (4) Subject to Sec. 1317.235(d), a recipient shall treat pregnancy, 
+childbirth, false pregnancy, termination of pregnancy and recovery 
+therefrom in the same manner and under the same policies as any other 
+temporary disability with respect to any medical or hospital benefit, 
+service, plan, or policy that such recipient administers, operates, 
+offers, or participates in with respect to students admitted to the 
+recipient's educational program or activity.
+    (5) In the case of a recipient that does not maintain a leave policy 
+for its students, or in the case of a student who does not otherwise 
+qualify for leave under such a policy, a recipient shall treat 
+pregnancy, childbirth, false pregnancy, termination of pregnancy, and 
+recovery therefrom as a justification for a leave of absence for as long 
+a period of time as is deemed medically necessary by the student's 
+physician, at the conclusion of which the student shall be reinstated to 
+the status that she held when the leave began.
+
+
+<R05>
+Sec. 1317.450  Athletics.
+
+    (a) General. No person shall, on the basis of sex, be excluded from 
+participation in, be denied the benefits of, be treated differently from 
+another person, or otherwise be discriminated against in any 
+interscholastic, intercollegiate, club, or intramural athletics offered 
+by a recipient, and no recipient shall provide any such athletics 
+separately on such basis.
+    (b) Separate teams. Notwithstanding the requirements of paragraph 
+(a) of this section, a recipient may operate or sponsor separate teams 
+for members of each sex where selection for such teams is based upon 
+competitive skill or the activity involved is a contact sport. However, 
+where a recipient operates or sponsors a team in a particular sport for 
+members of one sex but operates or sponsors no such team for members of 
+the other sex, and athletic opportunities for members of that sex have 
+previously been limited, members of the excluded sex must be allowed to 
+try out for the team offered unless the sport involved is a contact 
+sport. For the purposes of these Title IX regulations, contact sports 
+include boxing, wrestling, rugby, ice hockey, football, basketball, and 
+other sports the purpose or major activity of which involves bodily 
+contact.
+    (c) Equal opportunity. (1) A recipient that operates or sponsors 
+interscholastic, intercollegiate, club, or intramural athletics shall 
+provide equal athletic opportunity for members of both sexes. In 
+determining whether equal opportunities are available, the
+
+[[Page 262]]
+
+designated agency official will consider, among other factors:
+    (i) Whether the selection of sports and levels of competition 
+effectively accommodate the interests and abilities of members of both 
+sexes;
+    (ii) The provision of equipment and supplies;
+    (iii) Scheduling of games and practice time;
+    (iv) Travel and per diem allowance;
+    (v) Opportunity to receive coaching and academic tutoring;
+    (vi) Assignment and compensation of coaches and tutors;
+    (vii) Provision of locker rooms, practice, and competitive 
+facilities;
+    (viii) Provision of medical and training facilities and services;
+    (ix) Provision of housing and dining facilities and services;
+    (x) Publicity.
+    (2) For purposes of paragraph (c)(1) of this section, unequal 
+aggregate expenditures for members of each sex or unequal expenditures 
+for male and female teams if a recipient operates or sponsors separate 
+teams will not constitute noncompliance with this section, but the 
+designated agency official may consider the failure to provide necessary 
+funds for teams for one sex in assessing equality of opportunity for 
+members of each sex.
+    (d) Adjustment period. A recipient that operates or sponsors 
+interscholastic, intercollegiate, club, or intramural athletics at the 
+elementary school level shall comply fully with this section as 
+expeditiously as possible but in no event later than one year from 
+September 29, 2000. A recipient that operates or sponsors 
+interscholastic, intercollegiate, club, or intramural athletics at the 
+secondary or postsecondary school level shall comply fully with this 
+section as expeditiously as possible but in no event later than three 
+years from September 29, 2000.
+
+
+<R05>
+Sec. 1317.455  Textbooks and curricular material.
+
+    Nothing in these Title IX regulations shall be interpreted as 
+requiring or prohibiting or abridging in any way the use of particular 
+textbooks or curricular materials.
+
+
+<R04>
+Subpart E--Discrimination on the Basis of Sex in Employment in Education 
+                    Programs or Activities Prohibited
+
+
+<R05>
+Sec. 1317.500  Employment.
+
+    (a) General. (1) No person shall, on the basis of sex, be excluded 
+from participation in, be denied the benefits of, or be subjected to 
+discrimination in employment, or recruitment, consideration, or 
+selection therefor, whether full-time or part-time, under any education 
+program or activity operated by a recipient that receives Federal 
+financial assistance.
+    (2) A recipient shall make all employment decisions in any education 
+program or activity operated by such recipient in a nondiscriminatory 
+manner and shall not limit, segregate, or classify applicants or 
+employees in any way that could adversely affect any applicant's or 
+employee's employment opportunities or status because of sex.
+    (3) A recipient shall not enter into any contractual or other 
+relationship which directly or indirectly has the effect of subjecting 
+employees or students to discrimination prohibited by Secs. 1317.500 
+through 1317.550, including relationships with employment and referral 
+agencies, with labor unions, and with organizations providing or 
+administering fringe benefits to employees of the recipient.
+    (4) A recipient shall not grant preferences to applicants for 
+employment on the basis of attendance at any educational institution or 
+entity that admits as students only or predominantly members of one sex, 
+if the giving of such preferences has the effect of discriminating on 
+the basis of sex in violation of these Title IX regulations.
+    (b) Application. The provisions of Secs. 1317.500 through 1317.550 
+apply to:
+    (1) Recruitment, advertising, and the process of application for 
+employment;
+    (2) Hiring, upgrading, promotion, consideration for and award of 
+tenure, demotion, transfer, layoff, termination, application of nepotism 
+policies, right of return from layoff, and rehiring;
+    (3) Rates of pay or any other form of compensation, and changes in 
+compensation;
+
+[[Page 263]]
+
+    (4) Job assignments, classifications, and structure, including 
+position descriptions, lines of progression, and seniority lists;
+    (5) The terms of any collective bargaining agreement;
+    (6) Granting and return from leaves of absence, leave for pregnancy, 
+childbirth, false pregnancy, termination of pregnancy, leave for persons 
+of either sex to care for children or dependents, or any other leave;
+    (7) Fringe benefits available by virtue of employment, whether or 
+not administered by the recipient;
+    (8) Selection and financial support for training, including 
+apprenticeship, professional meetings, conferences, and other related 
+activities, selection for tuition assistance, selection for sabbaticals 
+and leaves of absence to pursue training;
+    (9) Employer-sponsored activities, including social or recreational 
+programs; and
+    (10) Any other term, condition, or privilege of employment.
+
+
+<R05>
+Sec. 1317.505  Employment criteria.
+
+    A recipient shall not administer or operate any test or other 
+criterion for any employment opportunity that has a disproportionately 
+adverse effect on persons on the basis of sex unless:
+    (a) Use of such test or other criterion is shown to predict validly 
+successful performance in the position in question; and
+    (b) Alternative tests or criteria for such purpose, which do not 
+have such disproportionately adverse effect, are shown to be 
+unavailable.
+
+
+<R05>
+Sec. 1317.510  Recruitment.
+
+    (a) Nondiscriminatory recruitment and hiring. A recipient shall not 
+discriminate on the basis of sex in the recruitment and hiring of 
+employees. Where a recipient has been found to be presently 
+discriminating on the basis of sex in the recruitment or hiring of 
+employees, or has been found to have so discriminated in the past, the 
+recipient shall recruit members of the sex so discriminated against so 
+as to overcome the effects of such past or present discrimination.
+    (b) Recruitment patterns. A recipient shall not recruit primarily or 
+exclusively at entities that furnish as applicants only or predominantly 
+members of one sex if such actions have the effect of discriminating on 
+the basis of sex in violation of Secs. 1317.500 through 1317.550.
+
+
+<R05>
+Sec. 1317.515  Compensation.
+
+    A recipient shall not make or enforce any policy or practice that, 
+on the basis of sex:
+    (a) Makes distinctions in rates of pay or other compensation;
+    (b) Results in the payment of wages to employees of one sex at a 
+rate less than that paid to employees of the opposite sex for equal work 
+on jobs the performance of which requires equal skill, effort, and 
+responsibility, and that are performed under similar working conditions.
+
+
+<R05>
+Sec. 1317.520  Job classification and structure.
+
+    A recipient shall not:
+    (a) Classify a job as being for males or for females;
+    (b) Maintain or establish separate lines of progression, seniority 
+lists, career ladders, or tenure systems based on sex; or
+    (c) Maintain or establish separate lines of progression, seniority 
+systems, career ladders, or tenure systems for similar jobs, position 
+descriptions, or job requirements that classify persons on the basis of 
+sex, unless sex is a bona fide occupational qualification for the 
+positions in question as set forth in Sec. 1317.550.
+
+
+<R05>
+Sec. 1317.525  Fringe benefits.
+
+    (a) ``Fringe benefits'' defined. For purposes of these Title IX 
+regulations, fringe benefits means: Any medical, hospital, accident, 
+life insurance, or retirement benefit, service, policy or plan, any 
+profit-sharing or bonus plan, leave, and any other benefit or service of 
+employment not subject to the provision of Sec. 1317.515.
+    (b) Prohibitions. A recipient shall not:
+    (1) Discriminate on the basis of sex with regard to making fringe 
+benefits available to employees or make fringe benefits available to 
+spouses, families, or dependents of employees differently upon the basis 
+of the employee's sex;
+
+[[Page 264]]
+
+    (2) Administer, operate, offer, or participate in a fringe benefit 
+plan that does not provide for equal periodic benefits for members of 
+each sex and for equal contributions to the plan by such recipient for 
+members of each sex; or
+    (3) Administer, operate, offer, or participate in a pension or 
+retirement plan that establishes different optional or compulsory 
+retirement ages based on sex or that otherwise discriminates in benefits 
+on the basis of sex.
+
+
+<R05>
+Sec. 1317.530  Marital or parental status.
+
+    (a) General. A recipient shall not apply any policy or take any 
+employment action:
+    (1) Concerning the potential marital, parental, or family status of 
+an employee or applicant for employment that treats persons differently 
+on the basis of sex; or
+    (2) Which is based upon whether an employee or applicant for 
+employment is the head of household or principal wage earner in such 
+employee's or applicant's family unit.
+    (b) Pregnancy. A recipient shall not discriminate against or exclude 
+from employment any employee or applicant for employment on the basis of 
+pregnancy, childbirth, false pregnancy, termination of pregnancy, or 
+recovery therefrom.
+    (c) Pregnancy as a temporary disability. Subject to 
+Sec. 1317.235(d), a recipient shall treat pregnancy, childbirth, false 
+pregnancy, termination of pregnancy, recovery therefrom, and any 
+temporary disability resulting therefrom as any other temporary 
+disability for all job-related purposes, including commencement, 
+duration, and extensions of leave, payment of disability income, accrual 
+of seniority and any other benefit or service, and reinstatement, and 
+under any fringe benefit offered to employees by virtue of employment.
+    (d) Pregnancy leave. In the case of a recipient that does not 
+maintain a leave policy for its employees, or in the case of an employee 
+with insufficient leave or accrued employment time to qualify for leave 
+under such a policy, a recipient shall treat pregnancy, childbirth, 
+false pregnancy, termination of pregnancy, and recovery therefrom as a 
+justification for a leave of absence without pay for a reasonable period 
+of time, at the conclusion of which the employee shall be reinstated to 
+the status that she held when the leave began or to a comparable 
+position, without decrease in rate of compensation or loss of 
+promotional opportunities, or any other right or privilege of 
+employment.
+
+
+<R05>
+Sec. 1317.535  Effect of state or local law or other requirements.
+
+    (a) Prohibitory requirements. The obligation to comply with 
+Secs. 1317.500 through 1317.550 is not obviated or alleviated by the 
+existence of any State or local law or other requirement that imposes 
+prohibitions or limits upon employment of members of one sex that are 
+not imposed upon members of the other sex.
+    (b) Benefits. A recipient that provides any compensation, service, 
+or benefit to members of one sex pursuant to a State or local law or 
+other requirement shall provide the same compensation, service, or 
+benefit to members of the other sex.
+
+
+<R05>
+Sec. 1317.540  Advertising.
+
+    A recipient shall not in any advertising related to employment 
+indicate preference, limitation, specification, or discrimination based 
+on sex unless sex is a bona fide occupational qualification for the 
+particular job in question.
+
+
+<R05>
+Sec. 1317.545  Pre-employment inquiries.
+
+    (a) Marital status. A recipient shall not make pre-employment 
+inquiry as to the marital status of an applicant for employment, 
+including whether such applicant is ``Miss'' or ``Mrs.''
+    (b) Sex. A recipient may make pre-employment inquiry as to the sex 
+of an applicant for employment, but only if such inquiry is made equally 
+of such applicants of both sexes and if the results of such inquiry are 
+not used in connection with discrimination prohibited by these Title IX 
+regulations.
+
+
+<R05>
+Sec. 1317.550  Sex as a bona fide occupational qualification.
+
+    A recipient may take action otherwise prohibited by Secs. 1317.500 
+through 1317.550 provided it is shown that sex is a bona fide 
+occupational qualification for that action, such that consideration of 
+sex with regard to such action
+
+[[Page 265]]
+
+is essential to successful operation of the employment function 
+concerned. A recipient shall not take action pursuant to this section 
+that is based upon alleged comparative employment characteristics or 
+stereotyped characterizations of one or the other sex, or upon 
+preference based on sex of the recipient, employees, students, or other 
+persons, but nothing contained in this section shall prevent a recipient 
+from considering an employee's sex in relation to employment in a locker 
+room or toilet facility used only by members of one sex.
+
+
+<R04>
+                          Subpart F--Procedures
+
+
+<R05>
+Sec. 1317.600  Notice of covered programs.
+
+    Within 60 days of September 29, 2000, each Federal agency that 
+awards Federal financial assistance shall publish in the Federal 
+Register a notice of the programs covered by these Title IX regulations. 
+Each such Federal agency shall periodically republish the notice of 
+covered programs to reflect changes in covered programs. Copies of this 
+notice also shall be made available upon request to the Federal agency's 
+office that enforces Title IX.
+
+
+<R05>
+Sec. 1317.605  Enforcement procedures.
+
+    The investigative, compliance, and enforcement procedural provisions 
+of Title VI of the Civil Rights Act of 1964 (42 U.S.C. 2000d) (``Title 
+VI'') are hereby adopted and applied to these Title IX regulations. 
+These procedures may be found at 18 CFR part 1302.
+
+[65 FR 52878, Aug. 30, 2000]
+
+[[Page 267]]
 
 
 <R02>
@@ -19691,7 +21084,7 @@ which is published separately and revised annually.
 
 
 
-[[Page 251]]
+[[Page 269]]
 
 
 <R03>
@@ -19700,62 +21093,59 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of April 1, 2000)
+                      (Revised as of April 1, 2001)
 
                       Title 1--General Provisions
 
          I  Administrative Committee of the Federal Register 
-                (Parts 1-49)
-        II  Office of the Federal Register (Parts 50-299)
-        IV  Miscellaneous Agencies (Parts 400-500)
+                (Parts 1--49)
+        II  Office of the Federal Register (Parts 50--299)
+        IV  Miscellaneous Agencies (Parts 400--500)
 
-                          Title 2 [Reserved]
+                          Title 2--[Reserved]
 
                         Title 3--The President
 
-         I  Executive Office of the President (Parts 100-199)
+         I  Executive Office of the President (Parts 100--199)
 
                            Title 4--Accounts
 
-         I  General Accounting Office (Parts 1-99)
-        II  Federal Claims Collection Standards (General 
-                Accounting Office--Department of Justice) (Parts 
-                100-299)
+         I  General Accounting Office (Parts 1--99)
 
                    Title 5--Administrative Personnel
 
-         I  Office of Personnel Management (Parts 1-1199)
-        II  Merit Systems Protection Board (Parts 1200-1299)
-       III  Office of Management and Budget (Parts 1300-1399)
+         I  Office of Personnel Management (Parts 1--1199)
+        II  Merit Systems Protection Board (Parts 1200--1299)
+       III  Office of Management and Budget (Parts 1300--1399)
          V  The International Organizations Employees Loyalty 
-                Board (Parts 1500-1599)
+                Board (Parts 1500--1599)
         VI  Federal Retirement Thrift Investment Board (Parts 
-                1600-1699)
+                1600--1699)
        VII  Advisory Commission on Intergovernmental Relations 
-                (Parts 1700-1799)
-      VIII  Office of Special Counsel (Parts 1800-1899)
-        IX  Appalachian Regional Commission (Parts 1900-1999)
+                (Parts 1700--1799)
+      VIII  Office of Special Counsel (Parts 1800--1899)
+        IX  Appalachian Regional Commission (Parts 1900--1999)
         XI  Armed Forces Retirement Home (Part 2100)
        XIV  Federal Labor Relations Authority, General Counsel of 
                 the Federal Labor Relations Authority and Federal 
-                Service Impasses Panel (Parts 2400-2499)
+                Service Impasses Panel (Parts 2400--2499)
         XV  Office of Administration, Executive Office of the 
-                President (Parts 2500-2599)
-       XVI  Office of Government Ethics (Parts 2600-2699)
-       XXI  Department of the Treasury (Parts 3100-3199)
+                President (Parts 2500--2599)
+       XVI  Office of Government Ethics (Parts 2600--2699)
+       XXI  Department of the Treasury (Parts 3100--3199)
       XXII  Federal Deposit Insurance Corporation (Part 3201)
-
-[[Page 252]]
-
      XXIII  Department of Energy (Part 3301)
       XXIV  Federal Energy Regulatory Commission (Part 3401)
+
+[[Page 270]]
+
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
     XXVIII  Department of Justice (Part 3801)
-      XXIX  Federal Communications Commission (Parts 3900-3999)
-       XXX  Farm Credit System Insurance Corporation (Parts 4000-
+      XXIX  Federal Communications Commission (Parts 3900--3999)
+       XXX  Farm Credit System Insurance Corporation (Parts 4000--
                 4099)
-      XXXI  Farm Credit Administration (Parts 4100-4199)
+      XXXI  Farm Credit Administration (Parts 4100--4199)
     XXXIII  Overseas Private Investment Corporation (Part 4301)
       XXXV  Office of Personnel Management (Part 4501)
         XL  Interstate Commerce Commission (Part 5001)
@@ -19768,7 +21158,7 @@ which is published separately and revised annually.
     XLVIII  Nuclear Regulatory Commission (Part 5801)
          L  Department of Transportation (Part 6001)
        LII  Export-Import Bank of the United States (Part 6201)
-      LIII  Department of Education (Parts 6300-6399)
+      LIII  Department of Education (Parts 6300--6399)
        LIV  Environmental Protection Agency (Part 6401)
       LVII  General Services Administration (Part 6701)
      LVIII  Board of Governors of the Federal Reserve System (Part 
@@ -19791,334 +21181,339 @@ which is published separately and revised annually.
      LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
     LXXVII  Office of Management and Budget (Part 8701)
 
-                          Title 6 [Reserved]
+                          Title 6--[Reserved]
 
               
-
-[[Page 253]]
 
                          Title 7--Agriculture
 
             Subtitle A--Office of the Secretary of Agriculture 
-                (Parts 0-26)
+                (Parts 0--26)
             Subtitle B--Regulations of the Department of 
                 Agriculture
+
+[[Page 271]]
+
          I  Agricultural Marketing Service (Standards, 
                 Inspections, Marketing Practices), Department of 
-                Agriculture (Parts 27-209)
+                Agriculture (Parts 27--209)
         II  Food and Nutrition Service, Department of Agriculture 
-                (Parts 210-299)
+                (Parts 210--299)
        III  Animal and Plant Health Inspection Service, Department 
-                of Agriculture (Parts 300-399)
+                of Agriculture (Parts 300--399)
         IV  Federal Crop Insurance Corporation, Department of 
-                Agriculture (Parts 400-499)
+                Agriculture (Parts 400--499)
          V  Agricultural Research Service, Department of 
-                Agriculture (Parts 500-599)
+                Agriculture (Parts 500--599)
         VI  Natural Resources Conservation Service, Department of 
-                Agriculture (Parts 600-699)
+                Agriculture (Parts 600--699)
        VII  Farm Service Agency, Department of Agriculture (Parts 
-                700-799)
+                700--799)
       VIII  Grain Inspection, Packers and Stockyards 
                 Administration (Federal Grain Inspection Service), 
-                Department of Agriculture (Parts 800-899)
+                Department of Agriculture (Parts 800--899)
         IX  Agricultural Marketing Service (Marketing Agreements 
                 and Orders; Fruits, Vegetables, Nuts), Department 
-                of Agriculture (Parts 900-999)
+                of Agriculture (Parts 900--999)
          X  Agricultural Marketing Service (Marketing Agreements 
                 and Orders; Milk), Department of Agriculture 
-                (Parts 1000-1199)
+                (Parts 1000--1199)
         XI  Agricultural Marketing Service (Marketing Agreements 
                 and Orders; Miscellaneous Commodities), Department 
-                of Agriculture (Parts 1200-1299)
-      XIII  Northeast Dairy Compact Commission (Parts 1300-1399)
+                of Agriculture (Parts 1200--1299)
+      XIII  Northeast Dairy Compact Commission (Parts 1300--1399)
        XIV  Commodity Credit Corporation, Department of 
-                Agriculture (Parts 1400-1499)
+                Agriculture (Parts 1400--1499)
         XV  Foreign Agricultural Service, Department of 
-                Agriculture (Parts 1500-1599)
+                Agriculture (Parts 1500--1599)
        XVI  Rural Telephone Bank, Department of Agriculture (Parts 
-                1600-1699)
+                1600--1699)
       XVII  Rural Utilities Service, Department of Agriculture 
-                (Parts 1700-1799)
+                (Parts 1700--1799)
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
-                Agency, Department of Agriculture (Parts 1800-
+                Agency, Department of Agriculture (Parts 1800--
                 2099)
       XXVI  Office of Inspector General, Department of Agriculture 
-                (Parts 2600-2699)
+                (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
-                of Agriculture (Parts 2700-2799)
+                of Agriculture (Parts 2700--2799)
     XXVIII  Office of Operations, Department of Agriculture (Parts 
-                2800-2899)
+                2800--2899)
       XXIX  Office of Energy, Department of Agriculture (Parts 
-                2900-2999)
+                2900--2999)
        XXX  Office of the Chief Financial Officer, Department of 
-                Agriculture (Parts 3000-3099)
+                Agriculture (Parts 3000--3099)
       XXXI  Office of Environmental Quality, Department of 
-                Agriculture (Parts 3100-3199)
-
-[[Page 254]]
-
+                Agriculture (Parts 3100--3199)
      XXXII  Office of Procurement and Property Management, 
-                Department of Agriculture (Parts 3200-3299)
+                Department of Agriculture (Parts 3200--3299)
+
+[[Page 272]]
+
     XXXIII  Office of Transportation, Department of Agriculture 
-                (Parts 3300-3399)
+                (Parts 3300--3399)
      XXXIV  Cooperative State Research, Education, and Extension 
-                Service, Department of Agriculture (Parts 3400-
+                Service, Department of Agriculture (Parts 3400--
                 3499)
       XXXV  Rural Housing Service, Department of Agriculture 
-                (Parts 3500-3599)
+                (Parts 3500--3599)
      XXXVI  National Agricultural Statistics Service, Department 
-                of Agriculture (Parts 3600-3699)
+                of Agriculture (Parts 3600--3699)
     XXXVII  Economic Research Service, Department of Agriculture 
-                (Parts 3700-3799)
+                (Parts 3700--3799)
    XXXVIII  World Agricultural Outlook Board, Department of 
-                Agriculture (Parts 3800-3899)
+                Agriculture (Parts 3800--3899)
        XLI  [Reserved]
       XLII  Rural Business-Cooperative Service and Rural Utilities 
-                Service, Department of Agriculture (Parts 4200-
+                Service, Department of Agriculture (Parts 4200--
                 4299)
 
                     Title 8--Aliens and Nationality
 
          I  Immigration and Naturalization Service, Department of 
-                Justice (Parts 1-599)
+                Justice (Parts 1--599)
 
                  Title 9--Animals and Animal Products
 
          I  Animal and Plant Health Inspection Service, Department 
-                of Agriculture (Parts 1-199)
+                of Agriculture (Parts 1--199)
         II  Grain Inspection, Packers and Stockyards 
                 Administration (Packers and Stockyards Programs), 
-                Department of Agriculture (Parts 200-299)
+                Department of Agriculture (Parts 200--299)
        III  Food Safety and Inspection Service, Department of 
-                Agriculture (Parts 300-599)
+                Agriculture (Parts 300--599)
 
                            Title 10--Energy
 
-         I  Nuclear Regulatory Commission (Parts 0-199)
-        II  Department of Energy (Parts 200-699)
-       III  Department of Energy (Parts 700-999)
-         X  Department of Energy (General Provisions) (Parts 1000-
-                1099)
-      XVII  Defense Nuclear Facilities Safety Board (Parts 1700-
+         I  Nuclear Regulatory Commission (Parts 0--199)
+        II  Department of Energy (Parts 200--699)
+       III  Department of Energy (Parts 700--999)
+         X  Department of Energy (General Provisions) (Parts 
+                1000--1099)
+      XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
+     XVIII  Northeast Interstate Low-Level Radioactive Waste 
+                Commission (Part 1800)
 
                       Title 11--Federal Elections
 
-         I  Federal Election Commission (Parts 1-9099)
+         I  Federal Election Commission (Parts 1--9099)
 
                       Title 12--Banks and Banking
 
          I  Comptroller of the Currency, Department of the 
-                Treasury (Parts 1-199)
+                Treasury (Parts 1--199)
 
-[[Page 255]]
+[[Page 273]]
 
-        II  Federal Reserve System (Parts 200-299)
-       III  Federal Deposit Insurance Corporation (Parts 300-399)
-        IV  Export-Import Bank of the United States (Parts 400-
+        II  Federal Reserve System (Parts 200--299)
+       III  Federal Deposit Insurance Corporation (Parts 300--399)
+        IV  Export-Import Bank of the United States (Parts 400--
                 499)
          V  Office of Thrift Supervision, Department of the 
-                Treasury (Parts 500-599)
-        VI  Farm Credit Administration (Parts 600-699)
-       VII  National Credit Union Administration (Parts 700-799)
-      VIII  Federal Financing Bank (Parts 800-899)
-        IX  Federal Housing Finance Board (Parts 900-999)
+                Treasury (Parts 500--599)
+        VI  Farm Credit Administration (Parts 600--699)
+       VII  National Credit Union Administration (Parts 700--799)
+      VIII  Federal Financing Bank (Parts 800--899)
+        IX  Federal Housing Finance Board (Parts 900--999)
         XI  Federal Financial Institutions Examination Council 
-                (Parts 1100-1199)
-       XIV  Farm Credit System Insurance Corporation (Parts 1400-
+                (Parts 1100--1199)
+       XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
-        XV  Department of the Treasury (Parts 1500-1599)
+        XV  Department of the Treasury (Parts 1500--1599)
       XVII  Office of Federal Housing Enterprise Oversight, 
                 Department of Housing and Urban Development (Parts 
-                1700-1799)
+                1700--1799)
      XVIII  Community Development Financial Institutions Fund, 
-                Department of the Treasury (Parts 1800-1899)
+                Department of the Treasury (Parts 1800--1899)
 
                Title 13--Business Credit and Assistance
 
-         I  Small Business Administration (Parts 1-199)
+         I  Small Business Administration (Parts 1--199)
        III  Economic Development Administration, Department of 
-                Commerce (Parts 300-399)
-        IV  Emergency Steel Guarantee Loan Board (Parts 400-499)
+                Commerce (Parts 300--399)
+        IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
          V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
-                500-599)
+                500--599)
 
                     Title 14--Aeronautics and Space
 
          I  Federal Aviation Administration, Department of 
-                Transportation (Parts 1-199)
+                Transportation (Parts 1--199)
         II  Office of the Secretary, Department of Transportation 
-                (Aviation Proceedings) (Parts 200-399)
+                (Aviation Proceedings) (Parts 200--399)
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
-                (Parts 400-499)
+                (Parts 400--499)
          V  National Aeronautics and Space Administration (Parts 
-                1200-1299)
+                1200--1299)
 
                  Title 15--Commerce and Foreign Trade
 
             Subtitle A--Office of the Secretary of Commerce (Parts 
-                0-29)
+                0--29)
             Subtitle B--Regulations Relating to Commerce and 
                 Foreign Trade
          I  Bureau of the Census, Department of Commerce (Parts 
-                30-199)
+                30--199)
         II  National Institute of Standards and Technology, 
-                Department of Commerce (Parts 200-299)
+                Department of Commerce (Parts 200--299)
        III  International Trade Administration, Department of 
-                Commerce (Parts 300-399)
+                Commerce (Parts 300--399)
 
-[[Page 256]]
+[[Page 274]]
 
         IV  Foreign-Trade Zones Board, Department of Commerce 
-                (Parts 400-499)
+                (Parts 400--499)
        VII  Bureau of Export Administration, Department of 
-                Commerce (Parts 700-799)
+                Commerce (Parts 700--799)
       VIII  Bureau of Economic Analysis, Department of Commerce 
-                (Parts 800-899)
+                (Parts 800--899)
         IX  National Oceanic and Atmospheric Administration, 
-                Department of Commerce (Parts 900-999)
+                Department of Commerce (Parts 900--999)
         XI  Technology Administration, Department of Commerce 
-                (Parts 1100-1199)
-      XIII  East-West Foreign Trade Board (Parts 1300-1399)
-       XIV  Minority Business Development Agency (Parts 1400-1499)
+                (Parts 1100--1199)
+      XIII  East-West Foreign Trade Board (Parts 1300--1399)
+       XIV  Minority Business Development Agency (Parts 1400--
+                1499)
             Subtitle C--Regulations Relating to Foreign Trade 
                 Agreements
         XX  Office of the United States Trade Representative 
-                (Parts 2000-2099)
+                (Parts 2000--2099)
             Subtitle D--Regulations Relating to Telecommunications 
                 and Information
      XXIII  National Telecommunications and Information 
                 Administration, Department of Commerce (Parts 
-                2300-2399)
+                2300--2399)
 
                     Title 16--Commercial Practices
 
-         I  Federal Trade Commission (Parts 0-999)
-        II  Consumer Product Safety Commission (Parts 1000-1799)
+         I  Federal Trade Commission (Parts 0--999)
+        II  Consumer Product Safety Commission (Parts 1000--1799)
 
              Title 17--Commodity and Securities Exchanges
 
-         I  Commodity Futures Trading Commission (Parts 1-199)
-        II  Securities and Exchange Commission (Parts 200-399)
-        IV  Department of the Treasury (Parts 400-499)
+         I  Commodity Futures Trading Commission (Parts 1--199)
+        II  Securities and Exchange Commission (Parts 200--399)
+        IV  Department of the Treasury (Parts 400--499)
 
           Title 18--Conservation of Power and Water Resources
 
          I  Federal Energy Regulatory Commission, Department of 
-                Energy (Parts 1-399)
-       III  Delaware River Basin Commission (Parts 400-499)
-        VI  Water Resources Council (Parts 700-799)
-      VIII  Susquehanna River Basin Commission (Parts 800-899)
-      XIII  Tennessee Valley Authority (Parts 1300-1399)
+                Energy (Parts 1--399)
+       III  Delaware River Basin Commission (Parts 400--499)
+        VI  Water Resources Council (Parts 700--799)
+      VIII  Susquehanna River Basin Commission (Parts 800--899)
+      XIII  Tennessee Valley Authority (Parts 1300--1399)
 
                        Title 19--Customs Duties
 
          I  United States Customs Service, Department of the 
-                Treasury (Parts 1-199)
+                Treasury (Parts 1--199)
         II  United States International Trade Commission (Parts 
-                200-299)
+                200--299)
        III  International Trade Administration, Department of 
-                Commerce (Parts 300-399)
+                Commerce (Parts 300--399)
 
-[[Page 257]]
+[[Page 275]]
 
-                          Employees' Benefits
+                     Title 20--Employees' Benefits
 
          I  Office of Workers' Compensation Programs, Department 
-                of Labor (Parts 1-199)
-        II  Railroad Retirement Board (Parts 200-399)
-       III  Social Security Administration (Parts 400-499)
+                of Labor (Parts 1--199)
+        II  Railroad Retirement Board (Parts 200--399)
+       III  Social Security Administration (Parts 400--499)
         IV  Employees' Compensation Appeals Board, Department of 
-                Labor (Parts 500-599)
+                Labor (Parts 500--599)
          V  Employment and Training Administration, Department of 
-                Labor (Parts 600-699)
+                Labor (Parts 600--699)
         VI  Employment Standards Administration, Department of 
-                Labor (Parts 700-799)
-       VII  Benefits Review Board, Department of Labor (Parts 800-
-                899)
+                Labor (Parts 700--799)
+       VII  Benefits Review Board, Department of Labor (Parts 
+                800--899)
       VIII  Joint Board for the Enrollment of Actuaries (Parts 
-                900-999)
+                900--999)
         IX  Office of the Assistant Secretary for Veterans' 
                 Employment and Training, Department of Labor 
-                (Parts 1000-1099)
+                (Parts 1000--1099)
 
                        Title 21--Food and Drugs
 
          I  Food and Drug Administration, Department of Health and 
-                Human Services (Parts 1-1299)
+                Human Services (Parts 1--1299)
         II  Drug Enforcement Administration, Department of Justice 
-                (Parts 1300-1399)
-       III  Office of National Drug Control Policy (Parts 1400-
+                (Parts 1300--1399)
+       III  Office of National Drug Control Policy (Parts 1400--
                 1499)
 
                       Title 22--Foreign Relations
 
-         I  Department of State (Parts 1-199)
-        II  Agency for International Development (Parts 200-299)
-       III  Peace Corps (Parts 300-399)
+         I  Department of State (Parts 1--199)
+        II  Agency for International Development (Parts 200--299)
+       III  Peace Corps (Parts 300--399)
         IV  International Joint Commission, United States and 
-                Canada (Parts 400-499)
-         V  Broadcasting Board of Governors (Parts 500-599)
-       VII  Overseas Private Investment Corporation (Parts 700-
+                Canada (Parts 400--499)
+         V  Broadcasting Board of Governors (Parts 500--599)
+       VII  Overseas Private Investment Corporation (Parts 700--
                 799)
         IX  Foreign Service Grievance Board Regulations (Parts 
-                900-999)
-         X  Inter-American Foundation (Parts 1000-1099)
+                900--999)
+         X  Inter-American Foundation (Parts 1000--1099)
         XI  International Boundary and Water Commission, United 
                 States and Mexico, United States Section (Parts 
-                1100-1199)
+                1100--1199)
        XII  United States International Development Cooperation 
-                Agency (Parts 1200-1299)
-      XIII  Board for International Broadcasting (Parts 1300-1399)
+                Agency (Parts 1200--1299)
+      XIII  Board for International Broadcasting (Parts 1300--
+                1399)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
-                Service Impasse Disputes Panel (Parts 1400-1499)
-        XV  African Development Foundation (Parts 1500-1599)
-       XVI  Japan-United States Friendship Commission (Parts 1600-
-                1699)
-      XVII  United States Institute of Peace (Parts 1700-1799)
+                Service Impasse Disputes Panel (Parts 1400--1499)
+        XV  African Development Foundation (Parts 1500--1599)
+       XVI  Japan-United States Friendship Commission (Parts 
+                1600--1699)
+      XVII  United States Institute of Peace (Parts 1700--1799)
 
-[[Page 258]]
+[[Page 276]]
 
                           Title 23--Highways
 
          I  Federal Highway Administration, Department of 
-                Transportation (Parts 1-999)
+                Transportation (Parts 1--999)
         II  National Highway Traffic Safety Administration and 
                 Federal Highway Administration, Department of 
-                Transportation (Parts 1200-1299)
+                Transportation (Parts 1200--1299)
        III  National Highway Traffic Safety Administration, 
-                Department of Transportation (Parts 1300-1399)
+                Department of Transportation (Parts 1300--1399)
 
                 Title 24--Housing and Urban Development
 
             Subtitle A--Office of the Secretary, Department of 
-                Housing and Urban Development (Parts 0-99)
+                Housing and Urban Development (Parts 0--99)
             Subtitle B--Regulations Relating to Housing and Urban 
                 Development
          I  Office of Assistant Secretary for Equal Opportunity, 
                 Department of Housing and Urban Development (Parts 
-                100-199)
+                100--199)
         II  Office of Assistant Secretary for Housing-Federal 
                 Housing Commissioner, Department of Housing and 
-                Urban Development (Parts 200-299)
+                Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
-                of Housing and Urban Development (Parts 300-399)
+                of Housing and Urban Development (Parts 300--399)
         IV  Office of Housing and Office of Multifamily Housing 
                 Assistance Restructuring, Department of Housing 
-                and Urban Development (Parts 400-499)
+                and Urban Development (Parts 400--499)
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
-                Development (Parts 500-599)
+                Development (Parts 500--599)
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
-                Development (Parts 600-699) [Reserved]
+                Development (Parts 600--699) [Reserved]
        VII  Office of the Secretary, Department of Housing and 
                 Urban Development (Housing Assistance Programs and 
-                Public and Indian Housing Programs) (Parts 700-
+                Public and Indian Housing Programs) (Parts 700--
                 799)
       VIII  Office of the Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
@@ -20126,250 +21521,258 @@ which is published separately and revised annually.
                 Programs, Section 202 Direct Loan Program, Section 
                 202 Supportive Housing for the Elderly Program and 
                 Section 811 Supportive Housing for Persons With 
-                Disabilities Program) (Parts 800-899)
+                Disabilities Program) (Parts 800--899)
         IX  Office of Assistant Secretary for Public and Indian 
                 Housing, Department of Housing and Urban 
-                Development (Parts 900-999)
+                Development (Parts 900--999)
          X  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Interstate Land Sales 
-                Registration Program) (Parts 1700-1799)
+                Registration Program) (Parts 1700--1799)
        XII  Office of Inspector General, Department of Housing and 
-                Urban Development (Parts 2000-2099)
+                Urban Development (Parts 2000--2099)
         XX  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
-                Urban Development (Parts 3200-3899)
-       XXV  Neighborhood Reinvestment Corporation (Parts 4100-
+                Urban Development (Parts 3200--3899)
+       XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
 
-[[Page 259]]
+[[Page 277]]
 
                            Title 25--Indians
 
          I  Bureau of Indian Affairs, Department of the Interior 
-                (Parts 1-299)
+                (Parts 1--299)
         II  Indian Arts and Crafts Board, Department of the 
-                Interior (Parts 300-399)
+                Interior (Parts 300--399)
        III  National Indian Gaming Commission, Department of the 
-                Interior (Parts 500-599)
+                Interior (Parts 500--599)
         IV  Office of Navajo and Hopi Indian Relocation (Parts 
-                700-799)
+                700--799)
          V  Bureau of Indian Affairs, Department of the Interior, 
                 and Indian Health Service, Department of Health 
                 and Human Services (Part 900)
         VI  Office of the Assistant Secretary-Indian Affairs, 
-                Department of the Interior (Part 1001)
+                Department of the Interior (Parts 1000--1199)
        VII  Office of the Special Trustee for American Indians, 
                 Department of the Interior (Part 1200)
 
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
-                (Parts 1-799)
+                (Parts 1--799)
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
          I  Bureau of Alcohol, Tobacco and Firearms, Department of 
-                the Treasury (Parts 1-299)
+                the Treasury (Parts 1--299)
 
                    Title 28--Judicial Administration
 
-         I  Department of Justice (Parts 0-199)
+         I  Department of Justice (Parts 0--199)
        III  Federal Prison Industries, Inc., Department of Justice 
-                (Parts 300-399)
-         V  Bureau of Prisons, Department of Justice (Parts 500-
+                (Parts 300--399)
+         V  Bureau of Prisons, Department of Justice (Parts 500--
                 599)
         VI  Offices of Independent Counsel, Department of Justice 
-                (Parts 600-699)
-       VII  Office of Independent Counsel (Parts 700-799)
+                (Parts 600--699)
+       VII  Office of Independent Counsel (Parts 700--799)
+      VIII  Court Services and Offender Supervision Agency for the 
+                District of Columbia (Parts 800--899)
 
                             Title 29--Labor
 
-            Subtitle A--Office of the Secretary of Labor (Parts 0-
-                99)
+            Subtitle A--Office of the Secretary of Labor (Parts 
+                0--99)
             Subtitle B--Regulations Relating to Labor
-         I  National Labor Relations Board (Parts 100-199)
+         I  National Labor Relations Board (Parts 100--199)
         II  Office of Labor-Management Standards, Department of 
-                Labor (Parts 200-299)
-       III  National Railroad Adjustment Board (Parts 300-399)
+                Labor (Parts 200--299)
+       III  National Railroad Adjustment Board (Parts 300--399)
         IV  Office of Labor-Management Standards, Department of 
-                Labor (Parts 400-499)
+                Labor (Parts 400--499)
          V  Wage and Hour Division, Department of Labor (Parts 
-                500-899)
+                500--899)
+
+[[Page 278]]
+
         IX  Construction Industry Collective Bargaining Commission 
-                (Parts 900-999)
-         X  National Mediation Board (Parts 1200-1299)
-
-[[Page 260]]
-
+                (Parts 900--999)
+         X  National Mediation Board (Parts 1200--1299)
        XII  Federal Mediation and Conciliation Service (Parts 
-                1400-1499)
-       XIV  Equal Employment Opportunity Commission (Parts 1600-
+                1400--1499)
+       XIV  Equal Employment Opportunity Commission (Parts 1600--
                 1699)
       XVII  Occupational Safety and Health Administration, 
-                Department of Labor (Parts 1900-1999)
+                Department of Labor (Parts 1900--1999)
         XX  Occupational Safety and Health Review Commission 
-                (Parts 2200-2499)
+                (Parts 2200--2499)
        XXV  Pension and Welfare Benefits Administration, 
-                Department of Labor (Parts 2500-2599)
+                Department of Labor (Parts 2500--2599)
      XXVII  Federal Mine Safety and Health Review Commission 
-                (Parts 2700-2799)
-        XL  Pension Benefit Guaranty Corporation (Parts 4000-4999)
+                (Parts 2700--2799)
+        XL  Pension Benefit Guaranty Corporation (Parts 4000--
+                4999)
 
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
-                Labor (Parts 1-199)
+                Labor (Parts 1--199)
         II  Minerals Management Service, Department of the 
-                Interior (Parts 200-299)
+                Interior (Parts 200--299)
        III  Board of Surface Mining and Reclamation Appeals, 
-                Department of the Interior (Parts 300-399)
+                Department of the Interior (Parts 300--399)
         IV  Geological Survey, Department of the Interior (Parts 
-                400-499)
+                400--499)
         VI  Bureau of Mines, Department of the Interior (Parts 
-                600-699)
+                600--699)
        VII  Office of Surface Mining Reclamation and Enforcement, 
-                Department of the Interior (Parts 700-999)
+                Department of the Interior (Parts 700--999)
 
                  Title 31--Money and Finance: Treasury
 
             Subtitle A--Office of the Secretary of the Treasury 
-                (Parts 0-50)
+                (Parts 0--50)
             Subtitle B--Regulations Relating to Money and Finance
          I  Monetary Offices, Department of the Treasury (Parts 
-                51-199)
-        II  Fiscal Service, Department of the Treasury (Parts 200-
-                399)
-        IV  Secret Service, Department of the Treasury (Parts 400-
-                499)
+                51--199)
+        II  Fiscal Service, Department of the Treasury (Parts 
+                200--399)
+        IV  Secret Service, Department of the Treasury (Parts 
+                400--499)
          V  Office of Foreign Assets Control, Department of the 
-                Treasury (Parts 500-599)
+                Treasury (Parts 500--599)
         VI  Bureau of Engraving and Printing, Department of the 
-                Treasury (Parts 600-699)
+                Treasury (Parts 600--699)
        VII  Federal Law Enforcement Training Center, Department of 
-                the Treasury (Parts 700-799)
+                the Treasury (Parts 700--799)
       VIII  Office of International Investment, Department of the 
-                Treasury (Parts 800-899)
+                Treasury (Parts 800--899)
+        IX  Federal Claims Collection Standards (Department of the 
+                Treasury--Department of Justice) (Parts 900--999)
+
+[[Page 279]]
 
                       Title 32--National Defense
 
             Subtitle A--Department of Defense
-         I  Office of the Secretary of Defense (Parts 1-399)
-         V  Department of the Army (Parts 400-699)
-        VI  Department of the Navy (Parts 700-799)
-
-[[Page 261]]
-
-       VII  Department of the Air Force (Parts 800-1099)
+         I  Office of the Secretary of Defense (Parts 1--399)
+         V  Department of the Army (Parts 400--699)
+        VI  Department of the Navy (Parts 700--799)
+       VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
-       XII  Defense Logistics Agency (Parts 1200-1299)
-       XVI  Selective Service System (Parts 1600-1699)
-     XVIII  National Counterintelligence Center (Parts 1800-1899)
-       XIX  Central Intelligence Agency (Parts 1900-1999)
+       XII  Defense Logistics Agency (Parts 1200--1299)
+       XVI  Selective Service System (Parts 1600--1699)
+     XVIII  National Counterintelligence Center (Parts 1800--1899)
+       XIX  Central Intelligence Agency (Parts 1900--1999)
         XX  Information Security Oversight Office, National 
-                Archives and Records Administration (Parts 2000-
+                Archives and Records Administration (Parts 2000--
                 2099)
-       XXI  National Security Council (Parts 2100-2199)
-      XXIV  Office of Science and Technology Policy (Parts 2400-
+       XXI  National Security Council (Parts 2100--2199)
+      XXIV  Office of Science and Technology Policy (Parts 2400--
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
-                2700-2799)
+                2700--2799)
     XXVIII  Office of the Vice President of the United States 
-                (Parts 2800-2899)
-      XXIX  Presidential Commission on the Assignment of Women in 
-                the Armed Forces (Part 2900)
+                (Parts 2800--2899)
 
                Title 33--Navigation and Navigable Waters
 
-         I  Coast Guard, Department of Transportation (Parts 1-
+         I  Coast Guard, Department of Transportation (Parts 1--
                 199)
-        II  Corps of Engineers, Department of the Army (Parts 200-
-                399)
+        II  Corps of Engineers, Department of the Army (Parts 
+                200--399)
         IV  Saint Lawrence Seaway Development Corporation, 
-                Department of Transportation (Parts 400-499)
+                Department of Transportation (Parts 400--499)
 
                           Title 34--Education
 
             Subtitle A--Office of the Secretary, Department of 
-                Education (Parts 1-99)
+                Education (Parts 1--99)
             Subtitle B--Regulations of the Offices of the 
                 Department of Education
          I  Office for Civil Rights, Department of Education 
-                (Parts 100-199)
+                (Parts 100--199)
         II  Office of Elementary and Secondary Education, 
-                Department of Education (Parts 200-299)
+                Department of Education (Parts 200--299)
        III  Office of Special Education and Rehabilitative 
-                Services, Department of Education (Parts 300-399)
+                Services, Department of Education (Parts 300--399)
         IV  Office of Vocational and Adult Education, Department 
-                of Education (Parts 400-499)
+                of Education (Parts 400--499)
          V  Office of Bilingual Education and Minority Languages 
-                Affairs, Department of Education (Parts 500-599)
+                Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
-                Education (Parts 600-699)
+                Education (Parts 600--699)
        VII  Office of Educational Research and Improvement, 
-                Department of Education (Parts 700-799)
-        XI  National Institute for Literacy (Parts 1100-1199)
+                Department of Education (Parts 700--799)
+        XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
-       XII  National Council on Disability (Parts 1200-1299)
+       XII  National Council on Disability (Parts 1200--1299)
 
-[[Page 262]]
+[[Page 280]]
 
                         Title 35--Panama Canal
 
-         I  Panama Canal Regulations (Parts 1-299)
+         I  Panama Canal Regulations (Parts 1--299)
 
              Title 36--Parks, Forests, and Public Property
 
          I  National Park Service, Department of the Interior 
-                (Parts 1-199)
-        II  Forest Service, Department of Agriculture (Parts 200-
+                (Parts 1--199)
+        II  Forest Service, Department of Agriculture (Parts 200--
                 299)
-       III  Corps of Engineers, Department of the Army (Parts 300-
-                399)
-        IV  American Battle Monuments Commission (Parts 400-499)
-         V  Smithsonian Institution (Parts 500-599)
-       VII  Library of Congress (Parts 700-799)
-      VIII  Advisory Council on Historic Preservation (Parts 800-
+       III  Corps of Engineers, Department of the Army (Parts 
+                300--399)
+        IV  American Battle Monuments Commission (Parts 400--499)
+         V  Smithsonian Institution (Parts 500--599)
+       VII  Library of Congress (Parts 700--799)
+      VIII  Advisory Council on Historic Preservation (Parts 800--
                 899)
         IX  Pennsylvania Avenue Development Corporation (Parts 
-                900-999)
-         X  Presidio Trust (Parts 1000-1099)
+                900--999)
+         X  Presidio Trust (Parts 1000--1099)
         XI  Architectural and Transportation Barriers Compliance 
-                Board (Parts 1100-1199)
+                Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
-                1200-1299)
-       XIV  Assassination Records Review Board (Parts 1400-1499)
+                1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
+       XVI  Morris K. Udall Scholarship and Excellence in National 
+                Environmental Policy Foundation (Parts 1600--1699)
 
              Title 37--Patents, Trademarks, and Copyrights
 
-         I  Patent and Trademark Office, Department of Commerce 
-                (Parts 1-199)
-        II  Copyright Office, Library of Congress (Parts 200-299)
+         I  United States Patent and Trademark Office, Department 
+                of Commerce (Parts 1--199)
+        II  Copyright Office, Library of Congress (Parts 200--299)
         IV  Assistant Secretary for Technology Policy, Department 
-                of Commerce (Parts 400-499)
+                of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
-                (Parts 500-599)
+                (Parts 500--599)
 
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
-         I  Department of Veterans Affairs (Parts 0-99)
+         I  Department of Veterans Affairs (Parts 0--99)
 
                        Title 39--Postal Service
 
-         I  United States Postal Service (Parts 1-999)
-       III  Postal Rate Commission (Parts 3000-3099)
+         I  United States Postal Service (Parts 1--999)
+       III  Postal Rate Commission (Parts 3000--3099)
 
                   Title 40--Protection of Environment
 
-         I  Environmental Protection Agency (Parts 1-799)
-         V  Council on Environmental Quality (Parts 1500-1599)
+         I  Environmental Protection Agency (Parts 1--799)
+        IV  Environmental Protection Agency and Department of 
+                Justice (Parts 1400--1499)
+         V  Council on Environmental Quality (Parts 1500--1599)
+        VI  Chemical Safety and Hazard Investigation Board (Parts 
+                1600--1699)
+
+[[Page 281]]
+
        VII  Environmental Protection Agency and Department of 
                 Defense; Uniform National Discharge Standards for 
-                Vessels of the Armed Forces (Parts 1700-1799)
-
-[[Page 263]]
+                Vessels of the Armed Forces (Parts 1700--1799)
 
           Title 41--Public Contracts and Property Management
 
@@ -20403,7 +21806,7 @@ which is published separately and revised annually.
        201  Federal Information Resources Management Regulation 
                 (Parts 201-1--201-99) [Reserved]
             Subtitle F--Federal Travel Regulation System
-       300  General (Parts 300-1--300.99)
+       300  General (Parts 300-1--300-99)
        301  Temporary Duty (TDY) Travel Allowances (Parts 301-1--
                 301-99)
        302  Relocation Allowances (Parts 302-1--302-99)
@@ -20415,203 +21818,203 @@ which is published separately and revised annually.
                         Title 42--Public Health
 
          I  Public Health Service, Department of Health and Human 
-                Services (Parts 1-199)
+                Services (Parts 1--199)
         IV  Health Care Financing Administration, Department of 
-                Health and Human Services (Parts 400-499)
+                Health and Human Services (Parts 400--499)
          V  Office of Inspector General-Health Care, Department of 
-                Health and Human Services (Parts 1000-1999)
+                Health and Human Services (Parts 1000--1999)
+
+[[Page 282]]
 
                    Title 43--Public Lands: Interior
 
             Subtitle A--Office of the Secretary of the Interior 
-                (Parts 1-199)
+                (Parts 1--199)
             Subtitle B--Regulations Relating to Public Lands
-
-[[Page 264]]
-
          I  Bureau of Reclamation, Department of the Interior 
-                (Parts 200-499)
+                (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
-                (Parts 1000-9999)
+                (Parts 1000--9999)
        III  Utah Reclamation Mitigation and Conservation 
-                Commission (Parts 10000-10005)
+                Commission (Parts 10000--10005)
 
              Title 44--Emergency Management and Assistance
 
-         I  Federal Emergency Management Agency (Parts 0-399)
+         I  Federal Emergency Management Agency (Parts 0--399)
         IV  Department of Commerce and Department of 
-                Transportation (Parts 400-499)
+                Transportation (Parts 400--499)
 
                        Title 45--Public Welfare
 
             Subtitle A--Department of Health and Human Services 
-                (Parts 1-199)
+                (Parts 1--199)
             Subtitle B--Regulations Relating to Public Welfare
         II  Office of Family Assistance (Assistance Programs), 
                 Administration for Children and Families, 
                 Department of Health and Human Services (Parts 
-                200-299)
+                200--299)
        III  Office of Child Support Enforcement (Child Support 
                 Enforcement Program), Administration for Children 
                 and Families, Department of Health and Human 
-                Services (Parts 300-399)
+                Services (Parts 300--399)
         IV  Office of Refugee Resettlement, Administration for 
                 Children and Families Department of Health and 
-                Human Services (Parts 400-499)
+                Human Services (Parts 400--499)
          V  Foreign Claims Settlement Commission of the United 
-                States, Department of Justice (Parts 500-599)
-        VI  National Science Foundation (Parts 600-699)
-       VII  Commission on Civil Rights (Parts 700-799)
-      VIII  Office of Personnel Management (Parts 800-899)
+                States, Department of Justice (Parts 500--599)
+        VI  National Science Foundation (Parts 600--699)
+       VII  Commission on Civil Rights (Parts 700--799)
+      VIII  Office of Personnel Management (Parts 800--899)
          X  Office of Community Services, Administration for 
                 Children and Families, Department of Health and 
-                Human Services (Parts 1000-1099)
+                Human Services (Parts 1000--1099)
         XI  National Foundation on the Arts and the Humanities 
-                (Parts 1100-1199)
+                (Parts 1100--1199)
        XII  Corporation for National and Community Service (Parts 
-                1200-1299)
+                1200--1299)
       XIII  Office of Human Development Services, Department of 
-                Health and Human Services (Parts 1300-1399)
-       XVI  Legal Services Corporation (Parts 1600-1699)
+                Health and Human Services (Parts 1300--1399)
+       XVI  Legal Services Corporation (Parts 1600--1699)
       XVII  National Commission on Libraries and Information 
-                Science (Parts 1700-1799)
-     XVIII  Harry S. Truman Scholarship Foundation (Parts 1800-
+                Science (Parts 1700--1799)
+     XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
-       XXI  Commission on Fine Arts (Parts 2100-2199)
+       XXI  Commission on Fine Arts (Parts 2100--2199)
+
+[[Page 283]]
+
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
-                2400-2499)
-
-[[Page 265]]
-
+                2400--2499)
        XXV  Corporation for National and Community Service (Parts 
-                2500-2599)
+                2500--2599)
 
                           Title 46--Shipping
 
-         I  Coast Guard, Department of Transportation (Parts 1-
+         I  Coast Guard, Department of Transportation (Parts 1--
                 199)
         II  Maritime Administration, Department of Transportation 
-                (Parts 200-399)
+                (Parts 200--399)
        III  Coast Guard (Great Lakes Pilotage), Department of 
-                Transportation (Parts 400-499)
-        IV  Federal Maritime Commission (Parts 500-599)
+                Transportation (Parts 400--499)
+        IV  Federal Maritime Commission (Parts 500--599)
 
                       Title 47--Telecommunication
 
-         I  Federal Communications Commission (Parts 0-199)
+         I  Federal Communications Commission (Parts 0--199)
         II  Office of Science and Technology Policy and National 
-                Security Council (Parts 200-299)
+                Security Council (Parts 200--299)
        III  National Telecommunications and Information 
-                Administration, Department of Commerce (Parts 300-
-                399)
+                Administration, Department of Commerce (Parts 
+                300--399)
 
            Title 48--Federal Acquisition Regulations System
 
-         1  Federal Acquisition Regulation (Parts 1-99)
-         2  Department of Defense (Parts 200-299)
-         3  Department of Health and Human Services (Parts 300-
+         1  Federal Acquisition Regulation (Parts 1--99)
+         2  Department of Defense (Parts 200--299)
+         3  Department of Health and Human Services (Parts 300--
                 399)
-         4  Department of Agriculture (Parts 400-499)
-         5  General Services Administration (Parts 500-599)
-         6  Department of State (Parts 600-699)
+         4  Department of Agriculture (Parts 400--499)
+         5  General Services Administration (Parts 500--599)
+         6  Department of State (Parts 600--699)
          7  United States Agency for International Development 
-                (Parts 700-799)
-         8  Department of Veterans Affairs (Parts 800-899)
-         9  Department of Energy (Parts 900-999)
-        10  Department of the Treasury (Parts 1000-1099)
-        12  Department of Transportation (Parts 1200-1299)
-        13  Department of Commerce (Parts 1300-1399)
-        14  Department of the Interior (Parts 1400-1499)
-        15  Environmental Protection Agency (Parts 1500-1599)
+                (Parts 700--799)
+         8  Department of Veterans Affairs (Parts 800--899)
+         9  Department of Energy (Parts 900--999)
+        10  Department of the Treasury (Parts 1000--1099)
+        12  Department of Transportation (Parts 1200--1299)
+        13  Department of Commerce (Parts 1300--1399)
+        14  Department of the Interior (Parts 1400--1499)
+        15  Environmental Protection Agency (Parts 1500--1599)
         16  Office of Personnel Management Federal Employees 
                 Health Benefits Acquisition Regulation (Parts 
-                1600-1699)
-        17  Office of Personnel Management (Parts 1700-1799)
+                1600--1699)
+        17  Office of Personnel Management (Parts 1700--1799)
         18  National Aeronautics and Space Administration (Parts 
-                1800-1899)
-        19  Broadcasting Board of Governors (Parts 1900-1999)
-        20  Nuclear Regulatory Commission (Parts 2000-2099)
+                1800--1899)
+        19  Broadcasting Board of Governors (Parts 1900--1999)
+        20  Nuclear Regulatory Commission (Parts 2000--2099)
+
+[[Page 284]]
+
         21  Office of Personnel Management, Federal Employees 
                 Group Life Insurance Federal Acquisition 
-                Regulation (Parts 2100-2199)
-        23  Social Security Administration (Parts 2300-2399)
+                Regulation (Parts 2100--2199)
+        23  Social Security Administration (Parts 2300--2399)
         24  Department of Housing and Urban Development (Parts 
-                2400-2499)
-
-[[Page 266]]
-
-        25  National Science Foundation (Parts 2500-2599)
-        28  Department of Justice (Parts 2800-2899)
-        29  Department of Labor (Parts 2900-2999)
+                2400--2499)
+        25  National Science Foundation (Parts 2500--2599)
+        28  Department of Justice (Parts 2800--2899)
+        29  Department of Labor (Parts 2900--2999)
         34  Department of Education Acquisition Regulation (Parts 
-                3400-3499)
-        35  Panama Canal Commission (Parts 3500-3599)
-        44  Federal Emergency Management Agency (Parts 4400-4499)
+                3400--3499)
+        35  Panama Canal Commission (Parts 3500--3599)
+        44  Federal Emergency Management Agency (Parts 4400--4499)
         51  Department of the Army Acquisition Regulations (Parts 
-                5100-5199)
+                5100--5199)
         52  Department of the Navy Acquisition Regulations (Parts 
-                5200-5299)
+                5200--5299)
         53  Department of the Air Force Federal Acquisition 
-                Regulation Supplement (Parts 5300-5399)
+                Regulation Supplement (Parts 5300--5399)
         54  Defense Logistics Agency, Department of Defense (Part 
                 5452)
-        57  African Development Foundation (Parts 5700-5799)
+        57  African Development Foundation (Parts 5700--5799)
         61  General Services Administration Board of Contract 
-                Appeals (Parts 6100-6199)
+                Appeals (Parts 6100--6199)
         63  Department of Transportation Board of Contract Appeals 
-                (Parts 6300-6399)
+                (Parts 6300--6399)
         99  Cost Accounting Standards Board, Office of Federal 
                 Procurement Policy, Office of Management and 
-                Budget (Parts 9900-9999)
+                Budget (Parts 9900--9999)
 
-                        Title 49-Transportation
+                       Title 49--Transportation
 
             Subtitle A--Office of the Secretary of Transportation 
-                (Parts 1-99)
+                (Parts 1--99)
             Subtitle B--Other Regulations Relating to 
                 Transportation
          I  Research and Special Programs Administration, 
-                Department of Transportation (Parts 100-199)
+                Department of Transportation (Parts 100--199)
         II  Federal Railroad Administration, Department of 
-                Transportation (Parts 200-299)
+                Transportation (Parts 200--299)
        III  Federal Motor Carrier Safety Administration, 
-                Department of Transportation (Parts 300-399)
-        IV  Coast Guard, Department of Transportation (Parts 400-
+                Department of Transportation (Parts 300--399)
+        IV  Coast Guard, Department of Transportation (Parts 400--
                 499)
          V  National Highway Traffic Safety Administration, 
-                Department of Transportation (Parts 500-599)
+                Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
-                Transportation (Parts 600-699)
+                Transportation (Parts 600--699)
        VII  National Railroad Passenger Corporation (AMTRAK) 
-                (Parts 700-799)
-      VIII  National Transportation Safety Board (Parts 800-999)
+                (Parts 700--799)
+      VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
-                Transportation (Parts 1000-1399)
-        XI  Bureau of Transportation Statistics, Department of 
-                Transportation (Parts 1400-1499)
+                Transportation (Parts 1000--1399)
 
-[[Page 267]]
+[[Page 285]]
+
+        XI  Bureau of Transportation Statistics, Department of 
+                Transportation (Parts 1400--1499)
 
                    Title 50--Wildlife and Fisheries
 
          I  United States Fish and Wildlife Service, Department of 
-                the Interior (Parts 1-199)
+                the Interior (Parts 1--199)
         II  National Marine Fisheries Service, National Oceanic 
                 and Atmospheric Administration, Department of 
-                Commerce (Parts 200-299)
+                Commerce (Parts 200--299)
        III  International Fishing and Related Activities (Parts 
-                300-399)
+                300--399)
         IV  Joint Regulations (United States Fish and Wildlife 
                 Service, Department of the Interior and National 
                 Marine Fisheries Service, National Oceanic and 
                 Atmospheric Administration, Department of 
                 Commerce); Endangered Species Committee 
-                Regulations (Parts 400-499)
-         V  Marine Mammal Commission (Parts 500-599)
+                Regulations (Parts 400--499)
+         V  Marine Mammal Commission (Parts 500--599)
         VI  Fishery Conservation and Management, National Oceanic 
                 and Atmospheric Administration, Department of 
-                Commerce (Parts 600-699)
+                Commerce (Parts 600--699)
 
                       CFR Index and Finding Aids
 
@@ -20623,7 +22026,7 @@ which is published separately and revised annually.
 
 
 
-[[Page 269]]
+[[Page 287]]
 
 
 
@@ -20634,7 +22037,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of April 1, 2000)
+                      (Revised as of April 1, 2001)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -20696,14 +22099,13 @@ Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 Architectural and Transportation Barriers         36, XI
    Compliance Board
-[[Page 270]]
+[[Page 288]]
 
 Arctic Research Commission                        45, XXIII
 Armed Forces Retirement Home                      5, XI
 Army Department                                   32, V
   Engineers, Corps of                             33, II; 36, III
   Federal Acquisition Regulation                  48, 51
-Assassination Records Review Board                36, XIV
 Benefits Review Board                             20, VII
 Bilingual Education and Minority Languages        34, V
      Affairs, Office of
@@ -20739,7 +22141,7 @@ Commerce Department                               44, IV
   National Telecommunications and Information     15, XXIII; 47, III
        Administration
   National Weather Service                        15, IX
-  Patent and Trademark Office                     37, I
+  Patent and Trademark Office, United States      37, I
   Productivity, Technology and Innovation,        37, IV
        Assistant Secretary for
   Secretary of Commerce, Office of                15, Subtitle A
@@ -20768,11 +22170,11 @@ Defense Department                                5, XXVI; 32, Subtitle A;
                                                   40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
-
-[[Page 271]]
-
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
+
+[[Page 289]]
+
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
@@ -20820,7 +22222,7 @@ Energy, Department of                             5, XXIII; 10, II, III, X
 Energy, Office of                                 7, XXIX
 Engineers, Corps of                               33, II; 36, III
 Engraving and Printing, Bureau of                 31, VI
-Environmental Protection Agency                   5, LIV; 40, I, VII
+Environmental Protection Agency                   5, LIV; 40, I, IV, VII
   Federal Acquisition Regulation                  48, 15
   Property Management Regulations                 41, 115
 Environmental Quality, Office of                  7, XXXI
@@ -20842,14 +22244,14 @@ Export-Import Bank of the United States           5, LII; 12, IV
 Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
-
-[[Page 272]]
-
 Farm Service Agency                               7, VII, XVIII
 Federal Acquisition Regulation                    48, 1
+
+[[Page 290]]
+
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
-Federal Claims Collection Standards               4, II
+Federal Claims Collection Standards               31, IX
 Federal Communications Commission                 5, XXIX; 47, I
 Federal Contract Compliance Programs, Office of   41, 60
 Federal Crop Insurance Corporation                7, IV
@@ -20881,7 +22283,6 @@ Federal Motor Carrier Safety Administration       49, III
 Federal Prison Industries, Inc.                   28, III
 Federal Procurement Policy Office                 48, 99
 Federal Property Management Regulations           41, 101
-Federal Property Management Regulations System    41, 101, 102, 105
 Federal Railroad Administration                   49, II
 Federal Register, Administrative Committee of     1, I
 Federal Register, Office of                       1, II
@@ -20908,19 +22309,20 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-General Accounting Office                         4, I, II
-General Services Administration                   5, LVII
+General Accounting Office                         4, I
+General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
-  Federal Property Management Regulations System  41, 101, 102, 105
+  Federal Management Regulation                   41, 102
+  Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
-     Expenses
-[[Page 273]]
-
+       Expenses
   Payment of Expenses Connected With the Death    41, 303
-       of Certain Employees
+     of Certain Employees
+[[Page 291]]
+
   Relocation Allowances                           41, 302
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
@@ -20954,14 +22356,16 @@ Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
   Government National Mortgage Association        24, III
   Housing--Federal Housing Commissioner, Office   24, II, VIII, X, XX
        of Assistant Secretary for
+  Housing, Office of, and Multifamily Housing     24, IV
+       Assistance Restructuring, Office of
   Inspector General, Office of                    24, XII
-  Multifamily Housing Assistance Restructuring,   24, IV
-       Office of
   Public and Indian Housing, Office of Assistant  24, IX
        Secretary for
   Secretary, Office of                            24, Subtitle A, VII
 Housing--Federal Housing Commissioner, Office of  24, II, VIII, X, XX
      Assistant Secretary for
+Housing, Office of, and Multifamily Housing       24, IV
+     Assistance Restructuring, Office of
 Human Development Services, Office of             45, XIII
 Immigration and Naturalization Service            8, I
 Independent Counsel, Office of                    28, VII
@@ -20994,10 +22398,10 @@ Interior Department
        Secretary
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
+
+[[Page 292]]
+
   Minerals Management Service                     30, II
-
-[[Page 274]]
-
   Mines, Bureau of                                30, VI
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
@@ -21028,10 +22432,10 @@ Interstate Commerce Commission                    5, XL
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                5, XXVIII; 28, I
+Justice Department                                5, XXVIII; 28, I; 40, IV
   Drug Enforcement Administration                 21, II
   Federal Acquisition Regulation                  48, 28
-  Federal Claims Collection Standards             4, II
+  Federal Claims Collection Standards             31, IX
   Federal Prison Industries, Inc.                 28, III
   Foreign Claims Settlement Commission of the     45, V
        United States
@@ -21071,14 +22475,12 @@ Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
 Mines, Bureau of                                  30, VI
+
+[[Page 293]]
+
 Minority Business Development Agency              15, XIV
-
-[[Page 275]]
-
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
-Multifamily Housing Assistance Restructuring,     24, IV
-     Office of
 National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
@@ -21125,6 +22527,8 @@ Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Dairy Compact Commission                7, XIII
+Northeast Interstate Low-Level Radioactive Waste  10, XVIII
+     Commission
 Nuclear Regulatory Commission                     5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
@@ -21135,7 +22539,7 @@ Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
 Panama Canal Commission                           48, 35
 Panama Canal Regulations                          35, I
-Patent and Trademark Office                       37, I
+Patent and Trademark Office, United States        37, I
 Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
@@ -21145,11 +22549,12 @@ Pennsylvania Avenue Development Corporation       36, IX
 Pension and Welfare Benefits Administration       29, XXV
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
+
+[[Page 294]]
+
   Federal Acquisition Regulation                  48, 17
   Federal Employees Group Life Insurance Federal  48, 21
-     Acquisition Regulation
-[[Page 276]]
-
+       Acquisition Regulation
   Federal Employees Health Benefits Acquisition   48, 16
        Regulation
 Postal Rate Commission                            5, XLVI; 39, III
@@ -21157,8 +22562,6 @@ Postal Service, United States                     5, LX; 39, I
 Postsecondary Education, Office of                34, VI
 President's Commission on White House             1, IV
      Fellowships
-Presidential Commission on the Assignment of      32, XXIX
-     Women in the Armed Forces
 Presidential Documents                            3
 Presidio Trust                                    36, X
 Prisons, Bureau of                                28, V
@@ -21222,10 +22625,10 @@ Transportation, Department of                     5, L
   Federal Transit Administration                  49, VI
   Maritime Administration                         46, II
   National Highway Traffic Safety Administration  23, II, III; 49, V
+
+[[Page 295]]
+
   Research and Special Programs Administration    49, I
-
-[[Page 277]]
-
   Saint Lawrence Seaway Development Corporation   33, IV
   Secretary of Transportation, Office of          14, II; 49, Subtitle A
   Surface Transportation Board                    49, X
@@ -21233,7 +22636,8 @@ Transportation, Department of                     5, L
 Transportation, Office of                         7, XXXIII
 Transportation Statistics Brureau                 49, XI
 Travel Allowances, Temporary Duty (TDY)           41, 301
-Treasury Department                               5, XXI; 12, XV; 17, IV
+Treasury Department                               5, XXI; 12, XV; 17, IV; 
+                                                  31, IX
   Alcohol, Tobacco and Firearms, Bureau of        27, I
   Community Development Financial Institutions    12, XVIII
        Fund
@@ -21268,9 +22672,7 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 279]]
-
-
+[[Page 297]]
 
 
 <R03>
@@ -21349,7 +22751,7 @@ Chapter XIII
 1306.3  Removed; new 1306.3 redesignated from 1306.19; interim; 
         eff. 4-2-89................................................48019
 
-[[Page 280]]
+[[Page 298]]
 
 1306.4  Removed; new 1306.4 redesignated from 1306.20; interim; 
         eff. 4-2-89................................................48019
@@ -21437,7 +22839,7 @@ Chapter XIII
 1300.735-12  (b) revised...........................................40217
 1300.735-14  (c) added.............................................40217
 
-[[Page 281]]
+[[Page 299]]
 
 1300.735-41b  Amended..............................................40218
 1300.735-43  Amended...............................................40218
@@ -21496,5 +22898,81 @@ Chapter XIII
                                   1991
 
 18 CFR
-                                              
+                                                                   56 FR
+                                                                    Page
+Chapter III
+401.35  (a)(17) through (19) added.................................30502
+    (a)(17) and (18) corrected.....................................37954
+Chapter XIII
+1301.12  (d) revised................................................9288
+1301.24  (b)(1) and (c)(1) amended..................................9288
+1301.48  (a), (c) and (d) revised; (b) amended.....................55452
+
+                                  1992
+
+18 CFR
+                                                                   57 FR
+                                                                    Page
+
+Chapter III
+
+401.35  (a)(4) and (5) revised.....................................60470
+    (b)(17) added..................................................59908
+
+Chapter XIII
+
+1301.1  (b) introductory text revised; (c)(1)(i), (ii), (2)(i), 
+        (ii), (3)(i) and (ii) amended..............................59908
+1301.3  Added......................................................23532
+1301.12  (f) revised...............................................33634
+    (d) revised....................................................59803
+1301.19  (a) introductory text revised.............................33634
+
+[[Page 300]]
+
+                                  1993
+
+18 CFR
+                                                                   58 FR
+                                                                    Page
+
+Chapter XIII
+
+1301.2  (c)(1) revised; (d)(2) amended.............................53656
+1316  Added........................................................25930
+
+                                  1994
+
+18 CFR
+                                                                   59 FR
+                                                                    Page
+
+Chapter III
+
+401.35  (b)(18) added; eff. 6-1-94.................................11458
+420  Authority citation revised....................................64571
+420.31  (d) and (f) revised........................................64571
+
+                                  1995
+
+18 CFR
+                                                                   60 FR
+                                                                    Page
+
+Chapter VIII
+
+803  Revised.......................................................31394
+804  Added.........................................................31401
+805  Added.........................................................31401
+
+Chapter XIII
+
+1301.1  (b) introductory text, (c)(1)(i), (2)(i), (ii) and (3)(ii) 
+        revised; (c)(2)(iii) added.................................38479
+1310  Revised.......................................................8196
+1312  Authority citation revised....................................5259
+1312.1  (a) amended...........................................5259, 5260
+1312.3  (a)(6) added; (i) revised.............................5259, 5260
+1312.4  Heading and (a) revised; (c) added....................5259, 5260
+1312.7  (b)(4) added....................................
 </pre></body></html>

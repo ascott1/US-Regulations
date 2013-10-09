@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 32 CFR ]
-[Code of Federal Regulations (annual edition) - July 1, 2000 Edition]
+[Code of Federal Regulations (annual edition) - July 1, 2001 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -14,7 +14,7 @@
 
           Parts 630 to 699
 
-                         Revised as of July 1, 2000
+                         Revised as of July 1, 2001
 
 National Defense
 
@@ -22,16 +22,16 @@ National Defense
 
 
 
-          Containing a Codification of documents of general 
+          Containing a codification of documents of general 
           applicability and future effect
-          As of July 1, 2000
+          As of July 1, 2001
           With Ancillaries
           Published by
           the Office of the Federal Register
           National Archives and Records
           Administration
 
-As a Special Edition of the Federal Register
+A Special Edition of the Federal Register
 
 
 
@@ -43,12 +43,15 @@ As a Special Edition of the Federal Register
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 2000
+                            WASHINGTON : 2001
 
 
 
-               For sale by U.S. Government Printing Office
- Superintendent of Documents, Mail Stop: SSOP, Washington, DC 20402-9328
+  For sale by the Superintendent of Documents, U.S. Government Printing 
+                                  Office
+ Internet: bookstore.gpo.gov    Phone: (202) 512-1800    Fax: (202) 512-
+                                   2250
+                Mail: Stop SSOP, Washington, DC 20402-0001
 
 
 
@@ -68,9 +71,9 @@ As a Special Edition of the Federal Register
     Subtitle A--Department of Defense (Continued):
           Chapter V--Department of the Army (Continued)              5
   Finding Aids:
-      Table of CFR Titles and Chapters........................     433
-      Alphabetical List of Agencies Appearing in the CFR......     451
-      List of CFR Sections Affected...........................     461
+      Table of CFR Titles and Chapters........................     437
+      Alphabetical List of Agencies Appearing in the CFR......     455
+      List of CFR Sections Affected...........................     465
 
 
 
@@ -128,7 +131,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, July 1, 2000, consult the ``List of CFR 
+revision date (in this case, July 1, 2001, consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -207,7 +210,7 @@ SALES
 
     The Government Printing Office (GPO) processes all sales and 
 distribution of the CFR. For payment by credit card, call 202-512-1800, 
-M-F 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2233, 24 hours 
+M-F 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2250, 24 hours 
 a day. For payment by check, write to the Superintendent of Documents, 
 Attn: New Orders, P.O. Box 371954, Pittsburgh, PA 15250-7954. For GPO 
 Customer Service call 202-512-1803.
@@ -235,7 +238,7 @@ site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-July 1, 2000.
+July 1, 2001.
 
 
 
@@ -249,7 +252,7 @@ July 1, 2000.
 these volumes are arranged in the following order: parts 1-190, parts 
 191-399, parts 400-629, parts 630-699, parts 700-799, and part 800 to 
 End. The contents of these volumes represent all current regulations 
-codified under this title of the CFR as of July 1, 2000.
+codified under this title of the CFR as of July 1, 2001.
 
     The current regulations issued by the Department of Defense appear 
 in the volumes containing parts 1-189 and parts 190-399; those issued by 
@@ -263,15 +266,10 @@ Council, Office of Science and Technology Policy, Office for Micronesian
 Status Negotiations, and Office of the Vice President of the United 
 States appear in the volume containing parts 800 to end.
 
-    For this volume, Bonnie J. Fritts was Chief Editor. The Code of 
-Federal Regulations is published under the direction of Frances D. 
-McDonald, assisted by Alomha S. Morris.
-
 [[Page x]]
 
 <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
 
-
 
 [[Page 1]]
 
@@ -304,9 +302,7 @@ Relief, 38 CFR, chapter I.
 
 [[Page 3]]
 
-                        Subtitle A--Department of
-
-                           Defense (Continued)
+              Subtitle A--Department of Defense (Continued)
 
 [[Page 5]]
 
@@ -32143,12 +32139,9 @@ Deputy for Environment,
 Safety and Occupational Health
 OASA (I&L)
 
+                 Figure 6. Sample Notice of Intent (NOI)
 
 [[Page 401]]
-
-
-
-                 Figure 6. Sample Notice of Intent (NOI)
 
     (b) Lead and cooperating agency determination. As soon as possible 
 after the decision is made to prepare an EIS, the proponent, if 
@@ -34299,89 +34292,335 @@ PART 668--CONTRACTOR MANHOUR REPORTING REQUIREMENT--Table of Contents
 
 
 Sec.
-668.1   General.
-668.2   Contract administration data.
+668.1  General.
+668.2  Contract reporting requirements.
 
-    Authority: Sec. 343 of Pub. L. 106-65, 113 Stat. 569 (10 U.S.C. 
-2461(g)).
+    Authority: Sec 343 of Pub.L. 106-65, 113 Stat. 569 (10 U.S.C. 129a 
+and 2461(g)).
 
-    Source: 65 FR 13908, Mar. 15, 2000, unless otherwise noted.
+    Source: 65 FR 81360, Dec. 26, 2000, unless otherwise noted.
 
 
 <R05>
 Sec. 668.1  General.
 
-    (a) Purpose. This part sets forth policies and procedures for 
-reporting requirements on labor work year equivalents performed by 
-contractors in support of the Army.
-    (b) Applicability. This requirement applies to all Department of the 
-Army agencies, commands, and activities.
-    (1) The following applies to all Army solicitations issued and 
-contracts awarded, and to all bilateral modifications of existing Army 
-contracts, after March 15, 2000 except the following:
-    (i) Contracts awarded under the authority of Part 12 of the Federal 
-Acquisition Regulation (48 CFR part 12).
-    (ii) Contracts valued at $100,000 or below.
-    (iii) When the contractor does not have an internal system for 
-aggregating billable hours in the direct and indirect pools, or an 
-internal payroll accounting system, and does not otherwise have to 
-provide this information to the Government.
-    (iv) Contracts awarded by the Army contracting office solely as a 
-contracting agent in support of non-Army customer(s).
-    (2) We are interested in labor hour data in support of Army at this 
-time. For this purpose, if the name and address of the organization 
-receiving the benefit of the services is an Army organization, then the 
-labor hour data is reportable as an Army requirement, even though the 
-appropriations funding all or part of the requirement are not Army 
-appropriations.
-
-
-<R05>
-Sec. 668.2  Contract administration data.
-
-    The requirement in this section will be cited in Part I--The 
-Schedule, in Section G, Contract Administration Data, or its equivalent, 
-in solicitations or contracts not employing the standard contract 
-format:
-    (a) Report on Use of Employees of Non-Federal Entities to Provide 
-Services to Department of the Army. The contractor is required to submit 
-direct labor hours and a relevant composite indirect labor rate 
-associated with the reporting period (generally contemporaneous with 
-submission of a request for payment (e.g., voucher, invoice or request 
-for progress payment)). The composite indirect labor rate will be used 
-to grossly calculate the number of indirect hours associated with 
-services reported in each period.
-    (b) The information submitted will be treated as contractor 
-proprietary information when associated with a contractor name or 
-contract number. The Assistant Secretary of the Army (Manpower and 
-Reserve Affairs) will oversee the aggregation of this information and 
-will exclude contract number and contractor name from any use of this 
-data. The planning factor(s) derived from this data by ASA (M&RA) and 
-its contract support (if any) will be used solely for manpower planning 
-purposes and will not be applied to specific acquisitions. Detailed data 
-by contract number and name will not be released to any other 
-governmental entity other than ASA (M&RA) and will only be used for the 
-stated purposes (reporting and planning).
-    (c) Reporting format: The information required should be reported 
-electronically to the M&RA data collection point. The following 
-information, per contract and/or task/delivery order, will be needed to 
-complete all of the data fields under this data collection program:
-
+    (a) Scope. This part sets forth reporting requirements, and related 
+policies and procedures, for labor work year equivalents performed by 
+contractors (also called Contractor Man-year Equivalents (CMEs)) in 
+support of the Army, pursuant to 10 U.S.C. 129a, 10 U.S.C. 2461(g), and 
+Section 343 of Public Law 106-65.
+    (b) Purpose and Background. (1) Purpose. The purpose of this data 
+collection and related contractor reporting is to respond to 
+Congressional requests, and to internal Army manpower and force 
+management planning information requirements, to quantify the extent of 
+CMEs used to support Army operations and management broadly under the 
+Federal Supply Class and Service Codes for ``Research and Development'' 
+and ``Other Services and Construction.'' The data collected will provide 
+unprecedented Departmental level visibility of the missions supported 
+and functions performed by contractors in support of major Army 
+organizational elements at the tactical level and higher, by linking the 
+Federal Supply Class and Service Code data to appropriation data and 
+organizational data on an Army-wide basis. This information will also 
+provide visibility of contractor manpower capabilities and labor costs 
+in support of Army missions and functions.
+    (2) Background. The lack of adequate and reliable data on the 
+missions supported and functions performed by service contractors, as 
+well as the resources expended by the Department on those contractors on 
+an Army-wide basis, has resulted in uninformed assumptions and 
+decisionmaking in the Planning, Programming and Budgeting System 
+process. This, in turn, results in a failure to properly prioritize or 
+validate the relative importance of missions performed or supported by 
+contractors, as opposed to the very intense prioritization and mission 
+validation decisions made with regard to the Department's expenditures 
+on the more visible in-house performance of similar functions. This can 
+unduly skew the prioritization of in-house resources and manpower. In 
+addition, the CME data will provide information needed at HQDA to assess 
+whether, and to what extent, contractors may be performing functions 
+that the Army senior leadership has determined to be inherently 
+Governmental, or commercial functions, which, when contracted out beyond 
+a certain level of reliance, increase operational risks to overall Army 
+mission capabilities and readiness. When evaluating military 
+capabilities in the generating forces and operating forces under the 
+Quadrennial Defense Review and Total Army Analysis simulations, a 
+critical unit of analysis for assessing military capability is the 
+manpower available to perform a function as linked to major Army 
+organizational elements. The capabilities provided by service 
+contractors consume at least one third of the Department's obligation 
+authority; and yet, due to lack of reliable data, senior Army planners 
+lack the ability to assess the total manpower capabilities within a 
+function and major Army organization to the extent that the organization 
+and function may rely heavily on contractor support. The data collected 
+under this reporting requirement will remedy these defects by compiling 
+and integrating contractor manpower and cost data in aggregated 
+functional categories associated with the major Army organizational 
+elements, in order to make this critical information visible to HQDA 
+planning and programming officials.
+    (c) Applicability. These reporting requirements apply to all 
+Department of the Army agencies, commands, and activities and to 
+contracting actions
 
 [[Page 430]]
 
-
-[GRAPHIC] [TIFF OMITTED] TR15MR00.000
-
-    (d) The information required shall be reported electronically to the 
-ASA (M&RA) data collection point at the following secure web site 
-drawing on the relevant data elements cited in paragraph (c) of this 
-section: http://contractormanpower.us.army.mil
-
-                        PARTS 669-699 [RESERVED]
-
+awarded by such activities Army-wide, except as set forth in paragraph 
+(c)(3) of this section.
+    (1) Policy. These requirements shall be cited and further 
+implemented as necessary in the Army Federal Acquisition Regulation 
+Supplement, and shall be promulgated to procurement and manpower 
+channels Army-wide. Changes to the administrative aspects of this 
+section (such as reporting formats, methods of incorporation of the 
+requirements into solicitations and contracts, waivers and exemptions), 
+may be published in the Army FAR Supplement after coordination with the 
+Deputy Assistant Secretary of the Army (Force Management, Manpower and 
+Resources). The objective of this reporting requirement is to collect as 
+much significant CME data as possible to allow accurate reporting to 
+Congress and for Army planning purposes. The reporting should not be 
+viewed as an ``all or nothing'' requirement. Even partial reporting, 
+e.g., direct labor hours, appropriation data, place of performance, Army 
+customer, etc., will be helpful.
+    (2) Contracting office responsibilities. Contracting officers shall 
+ensure that the reporting requirements set forth herein are included in 
+all covered contract actions. Although every effort has been made to 
+facilitate reporting and to reduce administrative burden on both 
+contractors and contracting offices, there may be situations when a 
+contractor is properly exempt in part or cannot comply with the 
+requirement (e.g., foreign contractor who has no internet access or 
+capability; or is unable to comply without extraordinary costs or effort 
+not recoverable in normal overhead). At the discretion of the 
+contracting officer, contractor self-exemption may be more liberally 
+construed and applied in the case of small foreign contractors not 
+reporting as sub-contactors, with contract values generally less than 
+$200,000, if they lack internet access or are a non-English speaking 
+firm that would have to employ a translator and/or an English speaking 
+financial specialist to calculate, collect and report all of the data. 
+In such cases, and in those situations where the contracting officer 
+failed to timely include this requirement in solicitations and 
+contracts, the contracting office is required to report the required 
+information, to the best of their ability, by the end of the reporting 
+period (end of contract period or end of fiscal year). Army Heads of 
+Contracting Activities and their Principal Assistants Responsible for 
+Contracting shall ensure that contracting offices found to be 
+significantly non-compliant with these requirements, are tasked to 
+directly report the required data to the Army website. The secure Army 
+website will support surrogate reporting of contract(or) data by 
+contracting offices. Classified contract actions are not, per se, exempt 
+from reporting (guidance at DoD FAR Supplement 48 CFR 202.670-8 
+applies). No classified information will be included in a contracting 
+office report.
+    (3) Covered actions. The contract reporting requirements specified 
+in Sec. 668.2 below shall be included in all Army solicitations issued 
+and contract actions awarded (including orders under GSA Schedule 
+contracts and contracts awarded by other agencies that allow direct 
+ordering by the Army), and all bilateral modifications of existing Army 
+contracts, after March 15, 2000, except the following:
+    (i) Contracts valued at $100,000 or below. Indefinite Delivery 
+contracts estimated to exceed $100,000 in value shall contain the 
+requirement for reporting, for all orders placed in excess of $25,000. 
+Orders placed against GSA Schedule contracts or contracts awarded by 
+non-Army agencies, shall contain the requirement if the value of the 
+order exceeds $100,000.
+    (ii) Contracts awarded by an Army contracting office solely as a 
+contracting agent in support of non-Army customer(s) and requirements. 
+The reporting requirement is limited to contractor labor hour and cost 
+data in support of Army customers and requirements. If the organization 
+receiving the benefit of the services is an Army organization, then the 
+contractor labor hour data is reportable as an Army requirement, even 
+though the appropriations funding all or part of the requirement may be 
+other than Army appropriations.
+    (iii) Contracts for the acquisition of supplies and equipment. The 
+reporting
 
 [[Page 431]]
+
+requirement applies only to services covered by Federal Supply Class or 
+Service codes for ``Research and Development,'' and ``Other Services and 
+Construction.'' However, when non-incidental services are discretely 
+included in a contract for supplies and equipment, and can be 
+characterized as ``Research and Development,'' or ``Other Services and 
+Construction,'' contractors shall be required to characterize and report 
+such services under this requirement. (Example: Ongoing facility 
+management or maintenance and quality assurance services separately 
+priced under the contract.)
+    (4) Effective dates for reporting. For covered contracts in effect 
+prior to March 15, 2000, including previously exempt contract actions 
+(such as those entered into under FAR Part 12 (48 CFR Part 12) 
+procedures prior to December 31, 2000), once a contract is modified to 
+include this reporting requirement, reporting is required retroactive to 
+October 1, 1999, or the start of the contract/order, whichever is later.
+
+
+<R05>
+Sec. 668.2  Contract Reporting Requirements.
+
+    The below requirement will be included in all solicitations and 
+contract actions (including orders) as specified in Sec. 668.1:
+
+             Reporting of Contractor Manpower Data Elements
+
+    (a) Scope. The following sets forth contractual requirements, and 
+related policies and procedures, for reporting of contractor labor work 
+year equivalents (also called Contractor Man-year Equivalents (CMEs)) in 
+support of the Army, pursuant to 10 U.S.C. 129a, 10 U.S.C. 2461(g), and 
+Section 343 of Public Law 106-65. Reporting shall be accomplished 
+electronically by direct contractor submission to a secure Army Web 
+Site: https://contractormanpower.us.army.mil/.
+    (b) Purpose. The purpose of this reporting requirement is to respond 
+to Congressional requests; significantly improve reports to Congress and 
+to internal Army manpower and force management planners and 
+decisionmakers; and, to broadly quantify the extent of CMEs used to 
+support Army operations and management under the Federal Supply Class 
+and Service Codes for ``Research and Development'' and ``Other Services 
+and Construction.'' The Army's objective is to collect as much 
+significant CME data as possible to allow accurate reporting to Congress 
+and for Army planning purposes. The reporting data elements should not 
+be viewed as an ``all or nothing'' requirement. Even partial reporting, 
+e.g., direct labor hours, appropriation data, place of performance, Army 
+customer, etc., will be helpful.
+    (c) Applicability. This reporting requirement applies only to 
+services covered by Federal Supply Class or Service codes for ``Research 
+and Development,'' and ``Other Services and Construction.'' If the 
+contractor is uncertain of the coding of the services performed under 
+this contract/order, or the scope and frequency of reporting, guidance 
+may be obtained from the Army Web Site Help Desk, other HQDA contacts 
+cited at the Web Site, or from the contracting officer. Classified 
+contract actions are not, per se, exempt from this requirement. Report 
+submissions shall not contain classified information.
+    (d) Requirements. The contractor is required to report the following 
+contractor manpower information, associated with performance of this 
+contract action in support of Army requirements, to the Office, 
+Assistant Secretary of the Army (Manpower and Reserve Affairs), using 
+the secure Army data collection web-site at https://
+contractormanpower.us.army.mil/:
+    (1) Direct Labor. Direct labor hours and the value of those hours;
+    (2) Indirect Labor. Composite indirect labor hours associated with 
+the reported direct hours, and the value of those indirect labor hours 
+plus compensation related costs for direct labor hours ordinarily 
+included in the indirect pools; or two distinct, relevant annual 
+composite or average indirect labor rates. If used in lieu of raw 
+indirect labor hours and the value of those indirect hours, the rates 
+may be annualized average estimates for the reporting contractor and 
+need not be developed for each reporting period.
+    (i) Composite Indirect Rate for Indirect Manhours. If provided, the 
+composite indirect labor rate will be used to grossly estimate the 
+number of indirect hours associated with services reported in each 
+period, when multiplied by the reported direct labor hours.
+    (ii) Composite Indirect Rate for Compensation Value. If provided, a 
+different composite indirect labor rate will be used to grossly estimate 
+the value of compensation related charges not included in the value of 
+direct labor charges, when multiplied by the reported direct labor 
+value. This rate shall include: salaries and wages for indirect labor 
+hours; directors' fees; bonuses (including stock); incentive awards; 
+employee stock options; stock appreciation rights; employee insurance, 
+fringe benefits (e.g., vacation, sick leave, holidays, military leave, 
+supplemental unemployment benefit plans); contributions to pension plans 
+(defined benefit, defined contribution); other post-retirement benefits, 
+annuity, and employee incentive
+
+[[Page 432]]
+
+compensation and deferred compensation plans; early retirement plans; 
+off-site pay; incentive pay; hardship pay; severance pay; and COLA 
+differential;
+    (iii) Actual Estimated Indirect Labor Hours and Value(s). 
+Contractors may choose to report estimated total hours and dollars for 
+indirect labor (related to the reported direct labor) and compensation 
+charges not reported as direct labor charges (as opposed to providing 
+average composite rates). Either method chosen should be consistently 
+reported.
+    (e) Reporting Exemption(s). In the rare event the contractor is 
+unable to comply with these reporting requirements without creating a 
+whole new cost allocation system or system of records (such as a payroll 
+accounting system), or due to similar insurmountable practical or 
+economic reasons, the contractor may claim an exemption to at least a 
+portion of the reporting requirement by certifying in writing to the 
+contracting officer the clear underlying reason(s) for exemption from 
+the specified report data elements, and further certifying that they do 
+not otherwise have to provide the exempted information, in any form, to 
+the United States Government. This certification is subject to audit and 
+potential legal action under Title 18, United States Code. The 
+contractor may not claim an exemption on the sole basis that they are a 
+foreign contractor; that services are provided pursuant to a firm fixed 
+price or time and materials contract or similar instrument; or on the 
+basis that they have sub-contracted their payroll system, or have too 
+many subcontractors. If the contracting officer, by written notice, 
+determines that the ``self-exemption'' is lacking in basis or 
+credibility, the contractor shall comply with the subsequent direction 
+of the contracting officer, whose decision is final in this matter.
+    (f) Uses and Safeguarding of Information. The information submitted 
+will be treated as contractor proprietary information when associated 
+with a contractor name or contract number. The Assistant Secretary of 
+the Army (Manpower and Reserve Affairs) will oversee the aggregation of 
+this information and will exclude contract number and contractor name 
+from any use of this data (except as necessary for internal Army 
+verification and validation measures). The planning factor(s) derived 
+from this data by ASA (M&RA) and its contract support (if any) will be 
+used solely for Army manpower planning purposes and will not be applied 
+to any specific acquisition(s). Detailed data by contract number and 
+name will not be released to any Governmental entity other than ASA 
+(M&RA), except for purposes of assessing compliance with the reporting 
+requirement itself, and will only be used for the stated purposes 
+(reporting and planning). Any potentially sensitive data released within 
+the Army or to its contractor will be clearly marked as Contractor 
+Proprietary. Non-sensitive roll-up information may eventually be 
+published for public inspection after such data has been validated as 
+deemed appropriate.
+    (g) Sub-Contractor(s). The contractor shall ensure that all 
+reportable sub-contractor data is timely reported to the data collection 
+web site (citing this contract/order number). At the discretion of the 
+prime contractor, this reporting may be done directly by subcontractors 
+to the data collection site; or by the prime contractor after 
+consolidating and rationalizing all significant data from their sub-
+contractors.
+    (h) Report schedule. The contractor is required to report the 
+required information to the Office of the Assistant Secretary of the 
+Army (Manpower and Reserve Affairs) data collection web site generally 
+contemporaneous with submission of a request for payment (for example, 
+voucher, invoice, or request for progress payment), but not less 
+frequently than quarterly, retroactive to October 1, 1999, or the start 
+of the contract/order, whichever is later. Deviation from this schedule 
+requires approval of the contracting officer.
+    (i) Reporting format. The information required should be reported 
+electronically to the M&RA data collection point, at https://
+contractormanpower.us.army.mil. This web site identifies and explains 
+all the mandatory data elements and format required to assure reliable 
+and consistent collection of the data required by law, and includes, but 
+is not limited to, identification of the information collected pursuant 
+to Sec. 668.2(d)(1) and (2) as related to:
+    (1) Reporting to Congress or Army Leadership. Data elements required 
+for reports to Congress and Army manpower planning, such as: the 
+applicable federal supply class or service code, appropriation data (and 
+estimated value for each appropriation where more than one appropriation 
+funds a contract), major Army organizational element receiving or 
+reviewing the work, and place of performance/theater of operation where 
+contractor performs the work.
+    (2) Data Credibility. Data elements required for purposes of 
+assuring credible and consistent reporting and general compliance with 
+the reporting requirement, such as: beginning and ending dates for 
+reporting period; contract number (including task or delivery order 
+number); name and address of contracting office; name, address and point 
+of contact for contractor; and total estimated value of contract.
+    (j) Reporting Flexibility. Contractors are encouraged to communicate 
+with the help desk identified at the data collection web site to resolve 
+reporting difficulties. The web site reporting pages include a 
+``Remarks'' field to accommodate non-standard data entries if
+
+[[Page 433]]
+
+needed to facilitate simplified reporting and to minimize reporting 
+burdens arising out of unique circumstances. For example, contractors 
+may use the remarks field to identify multiple delivery orders 
+associated with a single data submission or record, so long as the 
+contract number, federal supply or service code, major Army 
+organizational element receiving or reviewing the work, and contracting 
+office are the same for the reporting period for that set of delivery 
+orders, rather than entering a separate data submission or record for 
+each individual delivery order. Subcontract data may also be 
+consolidated in a single report for a reporting period. Other changes to 
+facilitate reporting may be authorized by the contracting officer or the 
+Help Desk (under Army policy direction and oversight).
+
+                        PARTS 669-699 [RESERVED]
+
+[[Page 435]]
 
 
 <R02>
@@ -34403,7 +34642,7 @@ which is published separately and revised annually.
 
 
 
-[[Page 433]]
+[[Page 437]]
 
 
 <R03>
@@ -34412,7 +34651,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of June 23, 2000)
+                      (Revised as of July 1, 2001)
 
                       Title 1--General Provisions
 
@@ -34430,9 +34669,6 @@ which is published separately and revised annually.
                            Title 4--Accounts
 
          I  General Accounting Office (Parts 1--99)
-        II  Federal Claims Collection Standards (General 
-                Accounting Office--Department of Justice) (Parts 
-                100--299)
 
                    Title 5--Administrative Personnel
 
@@ -34456,11 +34692,11 @@ which is published separately and revised annually.
        XVI  Office of Government Ethics (Parts 2600--2699)
        XXI  Department of the Treasury (Parts 3100--3199)
       XXII  Federal Deposit Insurance Corporation (Part 3201)
-
-[[Page 434]]
-
      XXIII  Department of Energy (Part 3301)
       XXIV  Federal Energy Regulatory Commission (Part 3401)
+
+[[Page 438]]
+
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
     XXVIII  Department of Justice (Part 3801)
@@ -34505,6 +34741,8 @@ which is published separately and revised annually.
 
                           Title 6--[Reserved]
 
+              
+
                          Title 7--Agriculture
 
             Subtitle A--Office of the Secretary of Agriculture 
@@ -34512,7 +34750,7 @@ which is published separately and revised annually.
             Subtitle B--Regulations of the Department of 
                 Agriculture
 
-[[Page 435]]
+[[Page 439]]
 
          I  Agricultural Marketing Service (Standards, 
                 Inspections, Marketing Practices), Department of 
@@ -34569,7 +34807,7 @@ which is published separately and revised annually.
      XXXII  Office of Procurement and Property Management, 
                 Department of Agriculture (Parts 3200--3299)
 
-[[Page 436]]
+[[Page 440]]
 
     XXXIII  Office of Transportation, Department of Agriculture 
                 (Parts 3300--3399)
@@ -34625,7 +34863,7 @@ which is published separately and revised annually.
          I  Comptroller of the Currency, Department of the 
                 Treasury (Parts 1--199)
 
-[[Page 437]]
+[[Page 441]]
 
         II  Federal Reserve System (Parts 200--299)
        III  Federal Deposit Insurance Corporation (Parts 300--399)
@@ -34682,7 +34920,7 @@ which is published separately and revised annually.
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
 
-[[Page 438]]
+[[Page 442]]
 
         IV  Foreign-Trade Zones Board, Department of Commerce 
                 (Parts 400--499)
@@ -34736,7 +34974,7 @@ which is published separately and revised annually.
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
 
-[[Page 439]]
+[[Page 443]]
 
                      Title 20--Employees' Benefits
 
@@ -34796,7 +35034,7 @@ which is published separately and revised annually.
                 1600--1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
 
-[[Page 440]]
+[[Page 444]]
 
                           Title 23--Highways
 
@@ -34857,7 +35095,7 @@ which is published separately and revised annually.
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
 
-[[Page 441]]
+[[Page 445]]
 
                            Title 25--Indians
 
@@ -34873,7 +35111,7 @@ which is published separately and revised annually.
                 and Indian Health Service, Department of Health 
                 and Human Services (Part 900)
         VI  Office of the Assistant Secretary-Indian Affairs, 
-                Department of the Interior (Part 1001)
+                Department of the Interior (Parts 1000--1199)
        VII  Office of the Special Trustee for American Indians, 
                 Department of the Interior (Part 1200)
 
@@ -34897,6 +35135,10 @@ which is published separately and revised annually.
         VI  Offices of Independent Counsel, Department of Justice 
                 (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
+      VIII  Court Services and Offender Supervision Agency for the 
+                District of Columbia (Parts 800--899)
+        IX  National Crime Prevention and Privacy Compact Council 
+                (Parts 900--999)
 
                             Title 29--Labor
 
@@ -34909,14 +35151,14 @@ which is published separately and revised annually.
        III  National Railroad Adjustment Board (Parts 300--399)
         IV  Office of Labor-Management Standards, Department of 
                 Labor (Parts 400--499)
+
+[[Page 446]]
+
          V  Wage and Hour Division, Department of Labor (Parts 
                 500--899)
         IX  Construction Industry Collective Bargaining Commission 
                 (Parts 900--999)
          X  National Mediation Board (Parts 1200--1299)
-
-[[Page 442]]
-
        XII  Federal Mediation and Conciliation Service (Parts 
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
@@ -34966,6 +35208,10 @@ which is published separately and revised annually.
                 the Treasury (Parts 700--799)
       VIII  Office of International Investment, Department of the 
                 Treasury (Parts 800--899)
+        IX  Federal Claims Collection Standards (Department of the 
+                Treasury--Department of Justice) (Parts 900--999)
+
+[[Page 447]]
 
                       Title 32--National Defense
 
@@ -34973,9 +35219,6 @@ which is published separately and revised annually.
          I  Office of the Secretary of Defense (Parts 1--399)
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
-
-[[Page 443]]
-
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
@@ -35027,11 +35270,11 @@ which is published separately and revised annually.
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
+[[Page 448]]
+
                         Title 35--Panama Canal
 
          I  Panama Canal Regulations (Parts 1--299)
-
-[[Page 444]]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -35053,13 +35296,14 @@ which is published separately and revised annually.
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
-       XIV  Assassination Records Review Board (Parts 1400--1499)
         XV  Oklahoma City National Memorial Trust (Part 1501)
+       XVI  Morris K. Udall Scholarship and Excellence in National 
+                Environmental Policy Foundation (Parts 1600--1699)
 
              Title 37--Patents, Trademarks, and Copyrights
 
-         I  Patent and Trademark Office, Department of Commerce 
-                (Parts 1--199)
+         I  United States Patent and Trademark Office, Department 
+                of Commerce (Parts 1--199)
         II  Copyright Office, Library of Congress (Parts 200--299)
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
@@ -35078,7 +35322,14 @@ which is published separately and revised annually.
                   Title 40--Protection of Environment
 
          I  Environmental Protection Agency (Parts 1--799)
+        IV  Environmental Protection Agency and Department of 
+                Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
+        VI  Chemical Safety and Hazard Investigation Board (Parts 
+                1600--1699)
+
+[[Page 449]]
+
        VII  Environmental Protection Agency and Department of 
                 Defense; Uniform National Discharge Standards for 
                 Vessels of the Armed Forces (Parts 1700--1799)
@@ -35089,9 +35340,6 @@ which is published separately and revised annually.
                 Contracts
         50  Public Contracts, Department of Labor (Parts 50-1--50-
                 999)
-
-[[Page 445]]
-
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
         60  Office of Federal Contract Compliance Programs, Equal 
@@ -35136,6 +35384,8 @@ which is published separately and revised annually.
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
 
+[[Page 450]]
+
                    Title 43--Public Lands: Interior
 
             Subtitle A--Office of the Secretary of the Interior 
@@ -35145,9 +35395,6 @@ which is published separately and revised annually.
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
-
-[[Page 446]]
-
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10005)
 
@@ -35193,13 +35440,14 @@ which is published separately and revised annually.
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
+
+[[Page 451]]
+
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
-
-[[Page 447]]
 
                           Title 46--Shipping
 
@@ -35246,6 +35494,9 @@ which is published separately and revised annually.
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
+
+[[Page 452]]
+
         21  Office of Personnel Management, Federal Employees 
                 Group Life Insurance Federal Acquisition 
                 Regulation (Parts 2100--2199)
@@ -35255,9 +35506,6 @@ which is published separately and revised annually.
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
-
-[[Page 448]]
-
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
         35  Panama Canal Commission (Parts 3500--3599)
@@ -35302,6 +35550,9 @@ which is published separately and revised annually.
       VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
+
+[[Page 453]]
+
         XI  Bureau of Transportation Statistics, Department of 
                 Transportation (Parts 1400--1499)
 
@@ -35309,9 +35560,6 @@ which is published separately and revised annually.
 
          I  United States Fish and Wildlife Service, Department of 
                 the Interior (Parts 1--199)
-
-[[Page 449]]
-
         II  National Marine Fisheries Service, National Oceanic 
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 200--299)
@@ -35338,7 +35586,7 @@ which is published separately and revised annually.
 
 
 
-[[Page 451]]
+[[Page 455]]
 
 
 
@@ -35349,7 +35597,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of June 23, 2000)
+                      (Revised as of July 1, 2001)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -35411,14 +35659,13 @@ Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 Architectural and Transportation Barriers         36, XI
    Compliance Board
-[[Page 452]]
+[[Page 456]]
 
 Arctic Research Commission                        45, XXIII
 Armed Forces Retirement Home                      5, XI
 Army Department                                   32, V
   Engineers, Corps of                             33, II; 36, III
   Federal Acquisition Regulation                  48, 51
-Assassination Records Review Board                36, XIV
 Benefits Review Board                             20, VII
 Bilingual Education and Minority Languages        34, V
      Affairs, Office of
@@ -35454,7 +35701,7 @@ Commerce Department                               44, IV
   National Telecommunications and Information     15, XXIII; 47, III
        Administration
   National Weather Service                        15, IX
-  Patent and Trademark Office                     37, I
+  Patent and Trademark Office, United States      37, I
   Productivity, Technology and Innovation,        37, IV
        Assistant Secretary for
   Secretary of Commerce, Office of                15, Subtitle A
@@ -35477,15 +35724,17 @@ Copyright Office                                  37, II
 Corporation for National and Community Service    45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
+Court Services and Offender Supervision Agency    28, VIII
+     for the District of Columbia
 Customs Service, United States                    19, I
 Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
   Advanced Research Projects Agency               32, I
+
+[[Page 457]]
+
   Air Force Department                            32, VII
-
-[[Page 453]]
-
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
   Defense Intelligence Agency                     32, I
@@ -35500,6 +35749,8 @@ Defense Intelligence Agency                       32, I
 Defense Logistics Agency                          32, XII; 48, 54
 Defense Nuclear Facilities Safety Board           10, XVII
 Delaware River Basin Commission                   18, III
+District of Columbia, Court Services and          28, VIII
+     Offender Supervision Agency for the
 Drug Enforcement Administration                   21, II
 East-West Foreign Trade Board                     15, XIII
 Economic Affairs, Under Secretary                 37, V
@@ -35535,7 +35786,7 @@ Energy, Department of                             5, XXIII; 10, II, III, X
 Energy, Office of                                 7, XXIX
 Engineers, Corps of                               33, II; 36, III
 Engraving and Printing, Bureau of                 31, VI
-Environmental Protection Agency                   5, LIV; 40, I, VII
+Environmental Protection Agency                   5, LIV; 40, I, IV, VII
   Federal Acquisition Regulation                  48, 15
   Property Management Regulations                 41, 115
 Environmental Quality, Office of                  7, XXXI
@@ -35554,17 +35805,17 @@ Executive Office of the President                 3, I
        States
 Export Administration, Bureau of                  15, VII
 Export-Import Bank of the United States           5, LII; 12, IV
+
+[[Page 458]]
+
 Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
-
-[[Page 454]]
-
 Farm Service Agency                               7, VII, XVIII
 Federal Acquisition Regulation                    48, 1
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
-Federal Claims Collection Standards               4, II
+Federal Claims Collection Standards               31, IX
 Federal Communications Commission                 5, XXIX; 47, I
 Federal Contract Compliance Programs, Office of   41, 60
 Federal Crop Insurance Corporation                7, IV
@@ -35622,18 +35873,19 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-General Accounting Office                         4, I, II
+General Accounting Office                         4, I
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
   Federal Property Management Regulations         41, 101
+
+[[Page 459]]
+
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
-     Expenses
-[[Page 455]]
-
+       Expenses
   Payment of Expenses Connected With the Death    41, 303
        of Certain Employees
   Relocation Allowances                           41, 302
@@ -35669,14 +35921,16 @@ Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
   Government National Mortgage Association        24, III
   Housing--Federal Housing Commissioner, Office   24, II, VIII, X, XX
        of Assistant Secretary for
+  Housing, Office of, and Multifamily Housing     24, IV
+       Assistance Restructuring, Office of
   Inspector General, Office of                    24, XII
-  Multifamily Housing Assistance Restructuring,   24, IV
-       Office of
   Public and Indian Housing, Office of Assistant  24, IX
        Secretary for
   Secretary, Office of                            24, Subtitle A, VII
 Housing--Federal Housing Commissioner, Office of  24, II, VIII, X, XX
      Assistant Secretary for
+Housing, Office of, and Multifamily Housing       24, IV
+     Assistance Restructuring, Office of
 Human Development Services, Office of             45, XIII
 Immigration and Naturalization Service            8, I
 Independent Counsel, Office of                    28, VII
@@ -35703,6 +35957,9 @@ Interior Department
   Federal Acquisition Regulation                  48, 14
   Federal Property Management Regulations System  41, 114
   Fish and Wildlife Service, United States        50, I, IV
+
+[[Page 460]]
+
   Geological Survey                               30, IV
   Indian Affairs, Bureau of                       25, I, V
   Indian Affairs, Office of the Assistant         25, VI
@@ -35710,9 +35967,6 @@ Interior Department
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
   Minerals Management Service                     30, II
-
-[[Page 456]]
-
   Mines, Bureau of                                30, VI
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
@@ -35743,10 +35997,10 @@ Interstate Commerce Commission                    5, XL
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                5, XXVIII; 28, I
+Justice Department                                5, XXVIII; 28, I; 40, IV
   Drug Enforcement Administration                 21, II
   Federal Acquisition Regulation                  48, 28
-  Federal Claims Collection Standards             4, II
+  Federal Claims Collection Standards             31, IX
   Federal Prison Industries, Inc.                 28, III
   Foreign Claims Settlement Commission of the     45, V
        United States
@@ -35781,19 +36035,19 @@ Library of Congress                               36, VII
 Management and Budget, Office of                  5, III, LXXVII; 48, 99
 Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
+
+[[Page 461]]
+
 Merit Systems Protection Board                    5, II
 Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
 Mines, Bureau of                                  30, VI
 Minority Business Development Agency              15, XIV
-
-[[Page 457]]
-
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
-Multifamily Housing Assistance Restructuring,     24, IV
-     Office of
+Morris K. Udall Scholarship and Excellence in     36, XVI
+     National Environmental Policy Foundation
 National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
@@ -35809,6 +36063,8 @@ National Commission on Libraries and Information  45, XVII
 National Council on Disability                    34, XII
 National Counterintelligence Center               32, XVIII
 National Credit Union Administration              12, VII
+National Crime Prevention and Privacy Compact     28, IX
+     Council
 National Drug Control Policy, Office of           21, III
 National Foundation on the Arts and the           45, XI
      Humanities
@@ -35852,7 +36108,10 @@ Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
 Panama Canal Commission                           48, 35
 Panama Canal Regulations                          35, I
-Patent and Trademark Office                       37, I
+Patent and Trademark Office, United States        37, I
+
+[[Page 462]]
+
 Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
@@ -35862,9 +36121,6 @@ Pennsylvania Avenue Development Corporation       36, IX
 Pension and Welfare Benefits Administration       29, XXV
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-
-[[Page 458]]
-
   Federal Acquisition Regulation                  48, 17
   Federal Employees Group Life Insurance Federal  48, 21
        Acquisition Regulation
@@ -35929,18 +36185,5 @@ Transportation, Department of                     5, L
   Coast Guard (Great Lakes Pilotage)              46, III
   Commercial Space Transportation                 14, III
   Contract Appeals, Board of                      48, 63
-  Emergency Management and Assistance             44, IV
-  Federal Acquisition Regulation                  48, 12
-  Federal Aviation Administration                 14, I
-  Federal Highway Administration                  23, I, II
-  Federal Motor Carrier Safety Administration     49, III
-  Federal Railroad Administration                 49, II
-  Federal Transit Administration                  49, VI
-  Maritime Administration                         46, II
-  National Highway Traffic Safety Administration  23, II, III; 49, V
-
-[[Page 459]]
-
-  Research and Special Programs Administration    49, I
-  Saint Lawrence Seaway Develo
+ 
 </pre></body></html>

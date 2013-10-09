@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 46 CFR ]
-[Code of Federal Regulations (annual edition) - October 1, 2000 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2001 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -14,7 +14,7 @@
 
           Parts 90 to 139
 
-                         Revised as of October 1, 2000
+                         Revised as of October 1, 2001
 
 Shipping
 
@@ -22,16 +22,16 @@ Shipping
 
 
 
-          Containing a Codification of documents of general 
+          Containing a codification of documents of general 
           applicability and future effect
-          As of October 1, 2000
+          As of October 1, 2001
           With Ancillaries
           Published by
           Office of the Federal Register
           National Archives and Records
           Administration
 
-As a Special Edition of the Federal Register
+A Special Edition of the Federal Register
 
 
 
@@ -43,12 +43,15 @@ As a Special Edition of the Federal Register
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 2000
+                            WASHINGTON : 2001
 
 
 
-               For sale by U.S. Government Printing Office
- Superintendent of Documents, Mail Stop: SSOP, Washington, DC 20402-9328
+  For sale by the Superintendent of Documents, U.S. Government Printing 
+                                  Office
+  Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area 
+                              (202) 512-1800
+      Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001
 
 
 
@@ -87,7 +90,7 @@ As a Special Edition of the Federal Register
                      To cite the regulations in 
                        this volume use title, 
                        part and section number. 
-                       Thus,  46 CFR 90.01-1 
+                       Thus, 46 CFR 90.01-1 
                        refers to title 46, part 
                        90, section 01-1.
 
@@ -129,7 +132,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2000), consult the ``List of CFR 
+revision date (in this case, October 1, 2001), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -244,7 +247,7 @@ SALES
 
     The Government Printing Office (GPO) processes all sales and 
 distribution of the CFR. For payment by credit card, call 202-512-1800, 
-M-F, 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2233, 24 hours 
+M-F, 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2250, 24 hours 
 a day. For payment by check, write to the Superintendent of Documents, 
 Attn: New Orders, P.O. Box 371954, Pittsburgh, PA 15250-7954. For GPO 
 Customer Service call 202-512-1803.
@@ -269,7 +272,7 @@ site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-October 1, 2000.
+October 1, 2001.
 
 
 
@@ -288,14 +291,10 @@ II--Maritime Administration, DOT and chapter III--Coast Guard (Great
 Lakes Pilotage), DOT. The ninth volume, containing part 500 to End, 
 includes chapter IV--Federal Maritime Commission. The contents of these 
 volumes represent all current regulations codified under this title of 
-the CFR as of October 1, 2000.
+the CFR as of October 1, 2001.
 
     Subject indexes appear in subchapters A--I, I-A, J, K, L, and Q--W 
 following the subchapters.
-
-    For this volume, Ann Worley was Chief Editor. The Code of Federal 
-Regulations publication program is under the direction of Frances D. 
-McDonald, assisted by Alomha S. Morris.
 
 [[Page x]]
 
@@ -326,6 +325,8 @@ chapter i--Coast Guard, Department of Transportation
 <R02>
                   CHAPTER I--COAST GUARD, DEPARTMENT OF
 
+
+<R03>
 
 
 <R02>
@@ -364,10 +365,10 @@ Part                                                                Page
                   SUBCHAPTER J--ELECTRICAL ENGINEERING
 
 110             General provisions..........................         200
-111             Electric systems--general requirements......         209
-112             Emergency lighting and power systems........         251
+111             Electric systems--general requirements......         210
+112             Emergency lighting and power systems........         252
 113             Communication and alarm systems and 
-                    equipment...............................         261
+                    equipment...............................         262
                 Index.......................................         275
 
 SUBCHAPTER K--SMALL PASSENGER VESSELS CARRYING MORE THAN 150 PASSENGERS 
@@ -415,9 +416,8 @@ SUBCHAPTER K--SMALL PASSENGER VESSELS CARRYING MORE THAN 150 PASSENGERS
 <R03>
               SUBCHAPTER I--CARGO AND MISCELLANEOUS VESSELS
 
-<R05>
 
-
+<R03>
 PART 90--GENERAL PROVISIONS--Table of Contents
 
 <R05>
@@ -2360,7 +2360,7 @@ years may elapse between any two examinations.
 
 
 
-                                      Table 91.40-3(a).--Salt Water Service Vessels Examination Intervals in Years
+                                       Table 91.40-3(a)--Salt Water Service Vessels Examination Intervals in Years
 --------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                        Double hull   Double hull   Single hull                                Unmanned
                                                          Single hull   barge with    barge with    barge with     Wood hull     Unmanned     double hull
@@ -2399,7 +2399,7 @@ examinations.
 
 
 
-                                      Table 91.40-3(b).--Fresh Water Service Vessels Examination Intervals in Years
+                                      Table 91.40-3(b)--Fresh Water Service Vessels Examination Intervals in Years
 --------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                        Double hull   Double hull   Single hull                                Unmanned
                                                          Single hull   barge with    barge with    barge with     Wood hull     Unmanned     double hull
@@ -3232,10 +3232,10 @@ Sec. 92.07-5  Definitions.
 develops in the test furnace a series of time temperature relationships 
 as follows:
 
-5 minutes--1,000 deg. F.
-10 minutes--1,300 deg. F.
-30 minutes--1,550 deg. F.
-60 minutes--1,700 deg. F.
+5 minutes--1,000  deg.F.
+10 minutes--1,300  deg.F.
+30 minutes--1,550  deg.F.
+60 minutes--1,700  deg.F.
 
     (b) ``A'' Class divisions. Bulkheads or decks of the ``A'' Class 
 shall be composed of steel or equivalent metal construction, suitably 
@@ -6090,11 +6090,11 @@ Resolution A.654(16), Graphical Symbols for Fire Control Plans--97.36-1
 Sec. 97.05-1  Duty of officers.
 
     (a) Licensed deck officers are required to acquaint themselves with 
-the latest information published by the Coast Guard and the U.S. Navy 
-regarding aids to navigation. Neglect to do so is evidence of neglect of 
-duty. It is desirable that vessels other than motorboats shall have 
-available in the pilothouse for convenient reference at all times a file 
-of the applicable Notice to Mariners.
+the latest information published by the Coast Guard and the National 
+Imagery and Mapping Agency regarding aids to navigation. Neglect to do 
+so is evidence of neglect of duty. It is desirable that vessels other 
+than motorboats shall have available in the pilothouse for convenient 
+reference at all times a file of the applicable Notice to Mariners.
     (b) Weekly Notices to Mariners (Great Lakes Edition), published by 
 the Commander, 9th Coast Guard District, contain announcements and 
 information on changes in aids to navigation and other marine 
@@ -6102,19 +6102,19 @@ information affecting the safety of navigation on the Great Lakes. These
 notices may be obtained free of charge, by making application to 
 Commander, 9th Coast Guard District.
     (c) Weekly Notices to Mariners (world-wide coverage) are prepared 
-jointly by the U.S. Naval Oceanographic Office, the U.S. Coast and 
-Geodetic Survey and the U.S. Coast Guard. They include changes in aids 
-to navigation in assembled form for the 1st, 5th, 7th, Greater Antilles 
+jointly by the National Imagery and Mapping Agency, National Ocean 
+Service and the U.S. Coast Guard. They include changes in aids to 
+navigation in assembled form for the 1st, 5th, 7th, Greater Antilles 
 Section 8th, 11th, 13th, 14th, and 17th Coast Guard Districts. Foreign 
 marine information is also included in these notices. These notices are 
-available without charge from the U.S. Naval Oceanographic Office, 
-Washington, DC 20390, Branch Oceanographic Offices, U.S. Collector of 
-Customs of the major seaports in the United States and are also on file 
-in the U.S. Consulates where they may be inspected.
+available without charge from the National Imagery and Mapping Agency, 
+U.S. Collector of Customs of the major seaports in the United States and 
+are also on file in the U.S. Consulates where they may be inspected.
 
 [CGFR 66-33, 31 FR 15286, Dec. 6, 1966, as amended by CGFR 68-32, 33 FR 
 5720, Apr. 12, 1968; CGFR 69-116, 35 FR 6861, Apr. 30, 1970; CGD 95-072, 
-60 FR 50464, Sept. 29, 1995]
+60 FR 50464, Sept. 29, 1995; USCG-2001-10224, 66 FR 48620, Sept. 21, 
+2001]
 
 
 <R05>
@@ -6174,14 +6174,17 @@ bridge while underway, all persons not connected with the navigation of
 the vessel. However, licensed officers of vessels, persons regularly 
 engaged in training, regulating, evaluating, or learning the profession 
 of pilot, officials of the United States Coast Guard, United States 
-Navy, United States Coast and Geodetic Survey, United States Army Corps 
-of Engineers, Maritime Administration, and National Transportation 
-Safety Board may be allowed in the pilothouse or upon the navigation 
-bridge upon the responsibility of the master or pilot.
-
-[CGD 91-023, 59 FR 16779, Apr. 8, 1994]
+Navy, National Imagery and Mapping Agency, National Ocean Service, 
+United States Army Corps of Engineers, Maritime Administration, and 
+National Transportation Safety Board may be allowed in the pilothouse
 
 [[Page 69]]
+
+or upon the navigation bridge upon the responsibility of the master or 
+pilot.
+
+[CGD 91-023, 59 FR 16779, Apr. 8, 1994. as amended by USCG-2001-10224, 
+66 FR 48620, Sept. 21, 2001]
 
 
 <R04>
@@ -6288,21 +6291,20 @@ vessel is then floating.
 which the vessel is floating, this density is to be noted in the 
 official logbook.
 
+[[Page 70]]
+
 
 <R05>
 Sec. 97.15-7  Verification of vessel compliance with applicable stability requirements.
 
     (a) Except as provided in paragraph (d) of this section, after 
-loading and
-
-[[Page 70]]
-
-prior to departure and at all other times necessary to assure the safety 
-of the vessel, the master or person in charge shall determine that the 
-vessel complies with all applicable stability requirements in the 
-vessel's trim and stability book, stability letter, Certificate of 
-Inspection, and Load Line Certificate, as the case may be. The vessel 
-may not depart until it is in compliance with these requirements.
+loading and prior to departure and at all other times necessary to 
+assure the safety of the vessel, the master or person in charge shall 
+determine that the vessel complies with all applicable stability 
+requirements in the vessel's trim and stability book, stability letter, 
+Certificate of Inspection, and Load Line Certificate, as the case may 
+be. The vessel may not depart until it is in compliance with these 
+requirements.
     (b) When determining compliance with applicable stability 
 requirements the vessel's draft, trim, and stability must be determined 
 as necessary.
@@ -6382,16 +6384,17 @@ before leaving protected waters.
 and having 6 feet or more of freeboard, measured vertically from the 
 water's edge at the lowest point of sheer to the top of deck at the 
 ship's side, may, at the master's discretion, omit tarpaulins on the 
-ship's hatches from 16 May through 15 September (both dates inclusive). 
-This exemption does not relieve the master of any responsibility for the 
-securing and protection of his hatches during the interval of exemption 
-and, in case of indications of bad
+ship's hatches from 16 May
 
 [[Page 71]]
 
-weather or other threatening conditions, he shall not leave protected 
-waters until the exposed cargo hatches and other openings in the hull of 
-his vessel are properly covered, secured and protected.
+through 15 September (both dates inclusive). This exemption does not 
+relieve the master of any responsibility for the securing and protection 
+of his hatches during the interval of exemption and, in case of 
+indications of bad weather or other threatening conditions, he shall not 
+leave protected waters until the exposed cargo hatches and other 
+openings in the hull of his vessel are properly covered, secured and 
+protected.
     (b) The openings to which this section applies are as follows:
     (1) Exposed cargo hatches.
     (2) Gangway, cargo and coaling ports fitted below the freeboard 
@@ -6472,12 +6475,13 @@ exhausted.
 Sec. 97.15-60  Firefighting equipment, general.
 
     (a) It shall be the duty of the owner, master, or person in charge 
-to see that the vessel's firefighting equipment is at all times ready 
-for use and that all such equipment required by the regulations in this 
-subchapter is provided, maintained, and replaced as indicated.
+to see that the vessel's firefighting equipment is
 
 [[Page 72]]
 
+at all times ready for use and that all such equipment required by the 
+regulations in this subchapter is provided, maintained, and replaced as 
+indicated.
     (b) It shall be the duty of the owner, master, or person in charge 
 to require and have performed at least once in every twelve months the 
 tests and inspections of all hand portable fire extinguishers, 
@@ -6559,15 +6563,16 @@ revolutions per minute for a representative range of speeds.
 control settings or a representative range of speeds.
     (5) For each vessel that is fitted with an auxiliary device to 
 assist in maneuvering, such as a bow thruster, a table of vessel speeds 
-at which the auxiliary device is effective in maneuvering the vessel.
+at which the auxiliary
+
+[[Page 73]]
+
+device is effective in maneuvering the vessel.
     (b) The maneuvering information must be provided in the normal load 
 and normal light condition with normal trim for a particular condition 
 of loading assuming the following--
     (1) Calm weather--wind 10 knots or less, calm sea;
     (2) No current;
-
-[[Page 73]]
-
     (3) Deep water conditions--water depth twice the vessel's draft or 
 greater; and
     (4) Clean hull.
@@ -6667,23 +6672,22 @@ Sec. 97.30-5  Accidents to machinery.
     (a) In the event of an accident to a boiler, unfired pressure 
 vessel, or machinery tending to render the further use of the item 
 unsafe until repairs are made, or if by ordinary wear such items become 
-unsafe, a report shall be made, by the chief engineer immediately to the 
-Officer in Charge, Marine Inspection, or if at sea immediately upon 
-arrival at port.
+unsafe, a report shall be
+
+[[Page 74]]
+
+made, by the chief engineer immediately to the Officer in Charge, Marine 
+Inspection, or if at sea immediately upon arrival at port.
 
 
 <R05>
 Sec. 97.30-10  Notice required before repair.
 
     (a) No repairs or alterations, except in an emergency, shall be made 
-to any
-
-[[Page 74]]
-
-lifesaving or fire detecting or extinguishing equipment without advance 
-notice to the Officer in Charge, Marine Inspection. When emergency 
-repairs or alterations have been made, notice shall be given to the 
-Officer in Charge, Marine Inspection, as soon as practicable.
+to any lifesaving or fire detecting or extinguishing equipment without 
+advance notice to the Officer in Charge, Marine Inspection. When 
+emergency repairs or alterations have been made, notice shall be given 
+to the Officer in Charge, Marine Inspection, as soon as practicable.
 
 
 <R04>
@@ -6774,6 +6778,8 @@ operation as each other hybrid PFD carried on board.
 
 [CGD 78-174A, 51 FR 4350, Feb. 4, 1986]
 
+[[Page 75]]
+
 
 <R04>
                      Subpart 97.35--Logbook Entries
@@ -6786,8 +6792,6 @@ Sec. 97.35-1  Application.
 shall apply to all vessels other than motorboats and barges. Motorboats 
 on an international or intercoastal voyage may be required to carry a 
 logbook in accordance with Sec. 97.35-10.
-
-[[Page 75]]
 
 
 <R05>
@@ -6867,20 +6871,19 @@ ventilating systems including particulars of the master fan controls,
 the positions of dampers, the location of the remote means of stopping 
 fans, and identification numbers of the ventilating fans serving each 
 section. If cargo compartments are ``specially suitable for vehicles,'' 
-they shall be so indicated on the plan. Alternatively, at the discretion 
-of the Commandant, the aforementioned details may be set out in any 
-other medium, such as a booklet or on computer software, provided that 
-the aforementioned details are available to each officer and a copy is 
-retained on board at all times and is accessible during emergencies. For 
-vessels constructed on or after September 30, 1997 or for existing 
-vessels which have their plans redrawn, the symbols
+they shall be so indicated on the plan. Alternatively, at
 
 [[Page 76]]
 
-used to identify the aforementioned details shall be in accordance with 
-IMO Assembly resolution A.654(16). These identical symbols can also be 
-found in ASTM Adjunct F 1626 (incorporated by reference, see Sec. 97.01-
-2).
+the discretion of the Commandant, the aforementioned details may be set 
+out in any other medium, such as a booklet or on computer software, 
+provided that the aforementioned details are available to each officer 
+and a copy is retained on board at all times and is accessible during 
+emergencies. For vessels constructed on or after September 30, 1997 or 
+for existing vessels which have their plans redrawn, the symbols used to 
+identify the aforementioned details shall be in accordance with IMO 
+Assembly resolution A.654(16). These identical symbols can also be found 
+in ASTM Adjunct F 1626 (incorporated by reference, see Sec. 97.01-2).
     (b) Plans showing clearly for each deck and hold the boundaries of 
 the watertight compartments, the openings therein with the means of 
 closure and position of any controls thereof, and the arrangements for 
@@ -6971,6 +6974,8 @@ conspicuous red letters at least 2 inches high:
 FIRE APPARATUS,'' or ``WATER SPRAY FIRE APPARATUS'' as the case may be.
     (b) [Reserved]
 
+[[Page 77]]
+
 
 <R05>
 Sec. 97.37-15  Fire hose stations.
@@ -6980,9 +6985,6 @@ at least two inches high ``FIRE STATION NO. 1,'' ``2,'' ``3,'' etc.
 Where the hose is not stowed in the open or behind glass so as to be 
 readily seen, this identification shall be so placed as to be readily 
 seen from a distance.
-
-[[Page 77]]
-
     (b) [Reserved]
 
 
@@ -7090,14 +7092,14 @@ Sec. 97.37-90  Vessels contracted for prior to November 19, 1952.
     (a) Vessels contracted for prior to November 19, 1952, shall meet 
 the requirements of this paragraph.
     (1) The requirements of Secs. 97.37-5 through 97.37-50 shall be met 
-with the exception that existing signs and markings containing the same 
-general intent, but not necessarily identical wording or exact letter 
-type, size, or color, may be retained so long as they
+with the
 
 [[Page 78]]
 
-are in good condition to the satisfaction of the Officer in Charge, 
-Marine Inspection.
+exception that existing signs and markings containing the same general 
+intent, but not necessarily identical wording or exact letter type, 
+size, or color, may be retained so long as they are in good condition to 
+the satisfaction of the Officer in Charge, Marine Inspection.
     (2) [Reserved]
     (b) [Reserved]
 
@@ -7203,16 +7205,16 @@ competent naval authority.
 Sec. 97.50-1  Master or person in charge responsible.
 
     (a) It shall be the duty of the master or other person in charge of 
-the vessel to see that all of the provisions of the certificate of 
-inspection are strictly adhered to. Nothing in this subpart shall be 
-construed as limiting the master or other person in charge of the 
-vessel, at his own responsibility, from
+the vessel to see that all of the provisions of the
 
 [[Page 79]]
 
-diverting from the route prescribed in the certificate of inspection or 
-taking such other steps as he deems necessary and prudent to assist 
-vessels in distress or for other similar emergencies.
+certificate of inspection are strictly adhered to. Nothing in this 
+subpart shall be construed as limiting the master or other person in 
+charge of the vessel, at his own responsibility, from diverting from the 
+route prescribed in the certificate of inspection or taking such other 
+steps as he deems necessary and prudent to assist vessels in distress or 
+for other similar emergencies.
     (b) [Reserved]
 
 
@@ -7305,14 +7307,14 @@ pilot boarding operations:
     (2) The pilot boarding equipment must rest firmly against the hull 
 of the vessel and be clear of overboard discharges.
     (3) Two man ropes, a safety line and an approved lifebuoy with an 
-approved water light must be at the point of access and be immediately 
-available for use during boarding operations.
-    (4) Rigging of the equipment and embarkation/debarkation of a pilot 
-must
+approved
 
 [[Page 80]]
 
-be supervised in person by a deck officer.
+water light must be at the point of access and be immediately available 
+for use during boarding operations.
+    (4) Rigging of the equipment and embarkation/debarkation of a pilot 
+must be supervised in person by a deck officer.
     (5) Both the equipment over the side and the point of access must be 
 adequately lit during night operations.
     (6) If a pilot hoist is used, a pilot ladder must be kept on deck 
@@ -7423,10 +7425,11 @@ Sec.
 App. 1804; E.O. 12234, 45 FR 58801, 3 CFR, 1980 Comp., p. 277; 49 CFR 
 1.46.
 
+[[Page 81]]
+
+
     Source: CGFR 65-50, 30 FR 17022, Dec. 30, 1965, unless otherwise 
 noted.
-
-[[Page 81]]
 
 
 <R04>
@@ -7537,7 +7540,7 @@ ammonia is maintained below the normal atmospheric temperatures, shall
 be designed for a pressure of not less than the vapor pressure 
 corresponding to the temperature of the liquid at which the system is to 
 be maintained, plus 25 pounds per square inch gage.
-    (e) Each tank shall be provided with not less than a 15'' x 18'' 
+    (e) Each tank shall be provided with not less than a 15" x 18" 
 diameter manhole, fitted with a cover located above the maximum liquid 
 level and as close as possible to the top of the tank. Where access 
 trunks are fitted to tanks, the diameter of the trunks shall be not less 
@@ -9289,7 +9292,7 @@ with water to accomplish the 5 pounds per square inch test.
 Sec. 105.20-5  Piping systems.
 
     (a) Piping shall be copper, nickel copper, or copper nickel having a 
-minimum wall thickness of 0.035''; except that seamless steel pipe or 
+minimum wall thickness of 0.035"; except that seamless steel pipe or 
 tubing which provides equivalent safety may be used for diesel cargo 
 systems.
     (b) Valves shall be of a suitable nonferrous metallic Union Bonnet 
@@ -9374,7 +9377,7 @@ pump, but not through working or crew spaces of vessel.
 <R05>
 Sec. 105.25-15  Spacings around tanks.
 
-    (a) Tanks shall be located so as to provide at least 15'' space 
+    (a) Tanks shall be located so as to provide at least 15" space 
 around tank, including top and bottom to permit external examination.
 
 
@@ -9614,8 +9617,6 @@ Extinguishing Equipment), and 105.45 (Special Operating Requirements).
 
 <R03>
              SUBCHAPTER I-A--MOBILE OFFSHORE DRILLING UNITS
-
-<R05>
 
 
 <R03>
@@ -16736,6 +16737,8 @@ Tests and inspections...........................................98.25-95
 Valves, fittings, and accessories...............................98.25-40
 Ventilation.....................................................98.25-75
 Venting.........................................................98.25-70
+Anniversary date
+                                                                 107.111
 Appeal, right of
                                                        90.01-7, 107.01-3
 Applicability of subchapter I to vessels
@@ -16753,11 +16756,11 @@ Applicator: For combination nozzle
 Approved:
 Definition of...........................................90.10-1, 107.111
 Fire protection equipment to be...........................95.01-5, 95.05
-Plans to be........................................................91.55
-Arrangements:
 
 [[Page 183]]
 
+Plans to be........................................................91.55
+Arrangements:
 Equivalents for....................................................90.15
 Initial inspection.................................................91.20
 Plans required...................................................91.55-5
@@ -16827,11 +16830,11 @@ Type system required..........................................95.15-1(b)
 Where required...................................................95.15-1
 Cargo, bulk grain
                                                                    93.20
-Cargo in bulk, dangerous. (See Dangerous cargoes in bulk)
-Cargo gear:
 
 [[Page 184]]
 
+Cargo in bulk, dangerous. (See Dangerous cargoes in bulk)
+Cargo gear:
 Definition....................................................91.37-3(a)
 Inspection of........................................91.25-25(a)(3), (b)
 Plans approved by a recognized cargo gear organization..........91.37-23
@@ -16875,6 +16878,7 @@ Initial inspection prerequisite for..............................91.20-1
 Inspection of certification........................................91.25
 MODUs....................................................107.201 et seq.
 Period of validity..............................................91.01-10
+Renewal..........................................................107.215
 Certificates Under International Convention for Safety of Life at 
 Sea, 1960
                                                   91.60, 107.401 et seq.
@@ -16900,13 +16904,13 @@ Combustible and flammable liquids in bulk
 Commandant, defined
                                                         90.10-7, 107.111
 Commercial fishing vessels dispensing petroleum products
-                                                                     105
+                                                                Part 105
 Communication system:
-Details..........................................................96.05-1
-Testing.................................................97.15-3, 109.201
 
 [[Page 185]]
 
+Details..........................................................96.05-1
+Testing.................................................97.15-3, 109.201
 Compass: MODUs
                                                                  108.715
 Construction:
@@ -16976,12 +16980,12 @@ Lifesaving equipment...........................................Subpart E
 Muster list....................................................Subpart J
 Substitutes for required fittings, material, apparatus, equipment, 
 arrangements, calculations, tests................................108.105
-Detecting, fire
-                                                                   95.05
-Discharge, overboard. (See Overboard discharge)
 
 [[Page 186]]
 
+Detecting, fire
+                                                                   95.05
+Discharge, overboard. (See Overboard discharge)
 Disassembling of gear, defined
                                                               91.37-3(b)
 Dismantling of gear, defined
@@ -17048,12 +17052,12 @@ Emergency loudspeaker system
                                                                    96.05
 Emergency position indicating radiobeacon (EPRIB)
                                                                  108.650
-Engine order telegraph system
-                                                                   96.05
-Equipment:
 
 [[Page 187]]
 
+Engine order telegraph system
+                                                                   96.05
+Equipment:
 Equivalents for....................................................90.15
 Installations made during unlimited emergency....................90.30-5
 Lifesaving. (See Lifesaving equipment)
@@ -17119,11 +17123,11 @@ Generally......................................................105.35-15
 Inspection......................................................91.25-20
 MODUs..........................................107.257, 108.425, 109.331
 Size, length, and stowage.......................................95.10-10
-When and where required............................................95.10
-Firehose nozzle:
 
 [[Page 188]]
 
+When and where required............................................95.10
+Firehose nozzle:
 Additional combination nozzles required when foam extinguishing 
 system under....................................................95.17-25
 Combination nozzles required.................................95.10-10(i)
@@ -17188,11 +17192,11 @@ Controls........................................................95.17-10
 Discharge outlets...............................................95.17-20
 General details....................................................95.17
 Inspection......................................................91.25-20
-Markings.....................................................95.17-10(d)
-Piping..........................................................95.17-15
 
 [[Page 189]]
 
+Markings.....................................................95.17-10(d)
+Piping..........................................................95.17-15
 Quantity of foam required........................................95.17-5
 Where required..................................................95.05-10
 Freight:
@@ -17264,11 +17268,11 @@ Helicopter facilities on MODUs
 Hose:
 Fire............................................................95.10-10
 Nozzle..........................................................95.10-10
-Outlets.........................................................95.10-10
-Rack.........................................................95.10-10(g)
 
 [[Page 190]]
 
+Outlets.........................................................95.10-10
+Rack.........................................................95.10-10(g)
 Semi-portable fire extinguishing systems. (See Semi-portable fire 
 extinguishing system)
 Hospital, crew
@@ -17293,6 +17297,7 @@ Initial inspection
 Inspection:
 After accident.....................................................91.30
 Alterations and repairs............................................91.45
+Annual and periodic................................................91.27
 Carbon dioxide cylinders.....................................95.15-20(i)
 Certificate of. (See Certificate of inspection)
 Commercial fishing vessels.....................................105.15(a)
@@ -17332,11 +17337,11 @@ Marking of booms and cranes.....................................91.37-45
 Proof test of cargo gear as a unit..............................91.37-40
 Records regarding cargo gear....................................91.37-75
 Responsibility for conducting required tests and examinations...91.37-85
-Test and certification of wire rope.............................91.37-35
-Use of wire rope and chains.....................................91.37-50
 
 [[Page 191]]
 
+Test and certification of wire rope.............................91.37-35
+Use of wire rope and chains.....................................91.37-50
 When made........................................................91.37-1
 Instructions:
 For changing steering gear.............................97.37-33, 108.641
@@ -17406,11 +17411,11 @@ Inspection for certification....................................91.25-15
 Installations made during unlimited emergency....................90.30-5
 Lifeboat launching and recovery arrangements.....................108.555
 Line-throwing appliance..........................................108.597
-Marine evaluation system: launching arrangements.................108.545
-MODUs...................................................107.231, 107.305
 
 [[Page 192]]
 
+Marine evaluation system: launching arrangements.................108.545
+MODUs...................................................107.231, 107.305
 On vessel acquired or documented under Act of August 9, 1954.....90.30-1
 Personal lifesaving appliances...................................108.580
 Relationship to international standards..........................108.503
@@ -17481,11 +17486,11 @@ Maritime Administration, U.S.: Vessels subject to inspection
                                                            90.05-1(a)(4)
 Markings:
 Carbon dioxide alarm.............................................97.37-9
-Draft...........................................................97.40-10
-Equipment on MODUs.......................................108.621 et seq.
 
 [[Page 193]]
 
+Draft...........................................................97.40-10
+Equipment on MODUs.......................................108.621 et seq.
 Fire extinguishing system branch lines..........................97.37-10
 Fire extinguishing system controls..............................97.37-13
 Firehose stations...............................................97.37-15
@@ -17561,13 +17566,13 @@ Ocean, definition of
 Ocean or unlimited coastwise vessels on inland and Great Lakes 
 Routes
                                                                  90.05-7
+
+[[Page 194]]
+
 Officer accommodations: General
                                                                    92.20
 Officer in charge, marine inspection, defined
                                                        90.10-27, 107.111
-
-[[Page 194]]
-
 Official log
                                                                    97.35
 OSVs in foreign ports reinspection of
@@ -17633,11 +17638,11 @@ Person in charge, defined
                                                                  107.111
 Pilot boarding equipment
 Defined..........................................................107.111
-MODUs...................................................108.719, 109.347
-Pilothouse (Also see Safety area):
 
 [[Page 195]]
 
+MODUs...................................................108.719, 109.347
+Pilothouse (Also see Safety area):
 Persons allowed in.................................................97.10
 Piping:
 Fire extinguishing systems:
@@ -17703,11 +17708,11 @@ Radio room. (See Safety area)
 Radioactive material, prohibition of usage on MODUs
                                                                  109.559
 Rail:
-MODUs...................................................108.217, 108.219
-Type and size required.............................................92.25
 
 [[Page 196]]
 
+MODUs...................................................108.217, 108.219
+Type and size required.............................................92.25
 Recognized classification society, definition of
                                                                 90.10-35
 Records:
@@ -17780,12 +17785,12 @@ Search and Rescue transponders (SARTs)
 Searchlight:
 Class A motor lifeboat equipment:
 Improper use prohibited..........................................97.25-1
-Self-contained breathing apparatus
-                           96.30-5, 96.30-15, 96.30-90, 108.635, 108.703
-Marking of stowage space for....................................97.37-20
 
 [[Page 197]]
 
+Self-contained breathing apparatus
+                           96.30-5, 96.30-15, 96.30-90, 108.635, 108.703
+Marking of stowage space for....................................97.37-20
 Self-elevating unit, defined
                                                                  107.111
 Self-propelled unit, defined
@@ -17862,11 +17867,11 @@ Inspection.........................................................91.25
 Steering system:
 Details............................................................96.03
 Instructions for changing gear..................................97.37-33
-Notice for rudder orders........................................97.37-35
-Rudder angle indicating system.....................................96.05
 
 [[Page 198]]
 
+Notice for rudder orders........................................97.37-35
+Rudder angle indicating system.....................................96.05
 Testing.................................................97.15-3, 109.201
 Store space, fire detection requirements
                                                                    95.05
@@ -17936,11 +17941,11 @@ Verification of vessel compliance with applicable stability
 requirements
                                                         97.15-7, 109.227
 Vessel:
-Acquired or documented under act of August 9, 1954...............90.30-1
-Control..........................................................Part 96
 
 [[Page 199]]
 
+Acquired or documented under act of August 9, 1954...............90.30-1
+Control..........................................................Part 96
 Definition of...................................................90.10-37
 Foreign..........................................................90.05-1
 Includes motor boats............................................90.10-23
@@ -18018,8 +18023,6 @@ Use.............................................................97.34-10
 
 <R03>
                   SUBCHAPTER J--ELECTRICAL ENGINEERING
-
-<R05>
 
 
 <R03>
@@ -18266,10 +18269,9 @@ International Association of Drilling
      Industrial System DC Cable for Mobile
      Offshore Drilling Units, 1991.
 International Electrotechnical Commission
- (IEC), (Also available from ANSI--address
- above.) International Electrotechnical
- Commission, 3, rue de Varembe, Geneva,
- Switzerland:
+ (IEC) 3, rue de Varembe, Geneva,
+ Switzerland. (Also available from ANSI--
+ address above.)
     IEC 56, High-Voltage Alternating-Current   111.54-1.
      Circuit-Breakers, 1987, (Including
      Amendment 1, 1992, Amendment 2, 1995,
@@ -18309,14 +18311,14 @@ International Electrotechnical Commission
     IEC 79-11, Electrical Apparatus for        111.105-3; 111.105-5;
      Explosive Gas Atmospheres, Part 11:        111.105-11(a); 111.105-
      Intrinsic Safety ``i'', 1991.              15(b); 111.105-17(b).
-
-[[Page 203]]
-
- 
     IEC 79-15, Electrical Apparatus for        111.105-3; 111.105-5;
      Explosive Gas Atmospheres, Part 15:        111.105-15(a); 111.105-
      Electrical Apparatus with Type of          5(b); 111.105-17(b).
      Protection ``n'', 1987.
+
+[[Page 203]]
+
+ 
     IEC 79-18, Electrical Apparatus for        111.105-3; 111.105-5;
      Explosive Gas Atmospheres, Part 18:        111.105-15(a); 111.105-
      Encapsulation ``m'', 1992.                 15(b); 111.105-17(b).
@@ -18355,11 +18357,22 @@ International Electrotechnical Commission
     IEC 92-306, Electrical Installations in    111.75-20(a); 111.81-
      Ships, Part 306: Equipment--Luminaires     1(d).
      and Accessories, 1980.
+     IEC 92-350, Electrical Installations in   111.60-1.
+     Ships, Part 350: Low-Voltage Shipboard
+     Power Cables--General Construction and
+     Test Requirements, 1988, Amendment 1
+     (1994).
     IEC 92-352, Electrical Installations in    111.60-3(a); 111.60-3(c);
      Ships, Part 352: Choice and Installation   111.60-5; 111.81-1(d).
      of Cables for Low-Voltage Power Systems,
      1979, (Including Amendment 1, 1987, and
      Amendment 2, 1994).
+    IEC 92-353, Electrical Installations in    111.60-1, 111.60-3.
+     Ships, Part 353: Single and Multicore
+     Non-radial Field Power Cables with
+     Extruded Solid Insulation for Rated
+     Voltages 1 kV and 3 kV, Second edition,
+     1995-01.
     IEC 92-401, Electrical Installations in    111.05-9.
      Ships, Part 401: Installation and Test
      of Completed Installation, 1987.
@@ -18397,6 +18410,10 @@ International Electrotechnical Commission
                                                 113.25-11; 113.30-25(c);
                                                 113.30-25(h); 113.40-
                                                 10(b).
+
+[[Page 204]]
+
+ 
     IEC 533, Electromagnetic Compatibility of  113.05-7.
      Electrical and Electronic Installations
      in Ships, 1977.
@@ -18404,10 +18421,6 @@ International Electrotechnical Commission
      Controlgear, Part 2: Circuit Breakers,
      1989 (Including Amendment 1, 1992 and
      Amendment 2, 1993).
-
-[[Page 204]]
-
- 
     IEC IP Code, see IEC 529.
 International Maritime Organization (IMO),
  International Maritime Organization,
@@ -18486,6 +18499,10 @@ National Fire Protection Association (NFPA),
     NFPA 496, Standard for Purged and          111.105-7(b).
      Pressurized Enclosures for Electrical
      Equipment, 1993.
+
+[[Page 205]]
+
+ 
 Naval Publications and Forms Center (NPFC),
  Naval Publications and Forms Center,
  Customer Service--Code 1052, 5801 Tabor
@@ -18494,10 +18511,6 @@ Naval Publications and Forms Center (NPFC),
      and Cable, Hook-up, Electrical,
      Insulated, General Specification For,
      1992.
-
-[[Page 205]]
-
- 
     MIL-W-16878F, Military Specification,      111.60-11(c).
      Wire, Electrical, Insulated, General
      Specification For, 1992.
@@ -18519,10 +18532,9 @@ Naval Sea Systems Command (NAVSEA), Naval Sea
      Pertaining to Electric Shipboard Cable,
      1989.
 NEC, see NFPA 70.
-Underwriters Laboratories Inc. (UL),
- Underwriters Laboratories, Inc., 12
+Underwriters Laboratories, Inc. (UL) 12
  Laboratory Drive, Research Triangle Park, NC
- 27709-3995:
+ 27709-3995.
     UL 44, Standard for Rubber-Insulated Wire  111.60-11(c).
      and Cable, 1991 (including revisions
      through February, 1996).
@@ -18574,12 +18586,18 @@ Underwriters Laboratories Inc. (UL),
      for Use in Hazardous (Classified)
      Locations, 1994 (including revisions
      through October, 1995).
+    UL 1309, Standard for Marine Shipboard     111.60-1, 111.60-3.
+     Cable, First edition, July 14, 1995.
     UL 1569, Standard for Metal-Clad Cables,   111.60-23(a).
      1995 (including revisions through April,
      1996).
     UL 1570, Standard for Fluorescent          111.75-20.
      Lighting Fixtures, 1988 (including
      revisions through April, 1996).
+
+[[Page 206]]
+
+ 
     UL 1571, Standard for Incandescent         111.75-20.
      Lighting Fixtures, 1995 (including
      revisions through April, 1996).
@@ -18592,10 +18610,6 @@ Underwriters Laboratories Inc. (UL),
     UL 1574, Standard for Track Lighting       111.75-20.
      Systems, 1995 (including revisions
      through July, 1995).
-
-[[Page 206]]
-
- 
     ANSI/UL 1581, Reference Standard for       111.30-19(b); 111.60-2;
      Electrical Wires, Cables, and Flexible     111.60-6(a).
      Cords, 1991 (including revisions through
@@ -18610,7 +18624,7 @@ reference, is to be construed the same as the words ``must'' or
 FR 36786-36787, July 12, 1996; 61 FR 49691, Sept. 23, 1996, as amended 
 at 62 FR 23906, May 1, 1997; CGD 97-057, 62 FR 51046, Sept. 30, 1997; 
 USCG 1999-5151, 64 FR 67182, Dec. 1, 1999; USCG-2000-7790, 65 FR 58462, 
-Sept. 29, 2000]
+Sept. 29, 2000; USCG-1999-6096, 66 FR 29911, June 4, 2001]
 
 
 <R04>
@@ -18666,6 +18680,9 @@ Sec. 111.01-9 (c) or (d) of this chapter. These locations include--
     (1) An accommodation space;
     (2) A dry store room;
     (3) A passageway adjacent to quarters;
+
+[[Page 207]]
+
     (4) A water closet without a shower or bath;
     (5) A radio, gyro and chart room; and
     (6) A location with similar environmental conditions.
@@ -18677,9 +18694,6 @@ or similar moisture conditions. These locations include--
     (3) A cargo space;
     (4) A location within a galley or pantry area, laundry, or water 
 closet which contains a shower or bath; and
-
-[[Page 207]]
-
     (5) Other spaces with similar environmental conditions.
     Marine inspector or inspector means a civilian employee or military 
 member of the Coast Guard assigned by an Officer in Charge, Marine 
@@ -18748,6 +18762,9 @@ branch circuit cables;
     (3) Power, lighting, and interior communication panelboards with 
 number of circuits and rating of energy consuming devices;
     (4) Type and capacity of storage batteries;
+
+[[Page 208]]
+
     (5) Rating of circuit breakers and switches, interrupting capacity 
 of circuit breakers, and rating or setting of overcurrent devices;
     (6) Computations of short circuit currents in accordance with 
@@ -18762,9 +18779,6 @@ computed operating loads for each condition of operation.
     (c) Elementary and isometric or deck wiring plans, including the 
 location of each cable splice, a list of symbols, and the manufacturer's 
 name and identification of each item of electrical equipment, of each--
-
-[[Page 208]]
-
     (1) Steering gear circuit and steering motor controller;
     (2) General emergency alarm system;
     (3) Sound-powered telephone or other fixed communication system;
@@ -18833,6 +18847,10 @@ require third-party testing and listing or certification, proof of
 listing or certification by an independent laboratory must also be 
 submitted.
 
+
+[[Page 209]]
+
+
     (o) Detailed analysis showing compliance with the MC cable 
 requirements in Sec. 111.60-23(b) of this chapter.
 
@@ -18854,9 +18872,6 @@ where the vessel is to be built.
     (c) Three copies of each plan are required so that one can be 
 returned to the submitter. If the submitter desires additional copies of 
 approved plans, he should submit enough for the necessary distribution.
-
-[[Page 209]]
-
     Note: The Coast Guard and the American Bureau of Shipping (ABS) 
 coordinate plan review for vessels classed by the ABS in order to 
 eliminate duplication of effort. An applicant for plan review of a 
@@ -18873,7 +18888,7 @@ CGD 95-072, 60 FR 50465, Sept. 29, 1995; CGD 94-108, 61 FR 28275, June
     Editorial Note: By CGD 96-041, 61 FR 50730, Sept. 27, 1996, 
 paragraph (a)(1) of Sec. 110.25-3 was amended by removing the word ``(G-
 MSC)''. However, by CGD 94-108, 61 FR 28275, June 4, 1996, the word 
-``(G-MSC)'' was removed and the word ``(MSC)'' was addded in its place.
+``(G-MSC)'' was removed and the word ``(MSC)'' was added in its place.
 
 
 <R04>
@@ -18931,6 +18946,9 @@ Sec. 110.30-7  Repairs or alterations.
     The Officer in Charge, Marine Inspection must be notified before--
     (a) Alterations or modifications that deviate from approved plans; 
 or
+
+[[Page 210]]
+
     (b) Repairs, alterations, or modifications that affect the safety of 
 the vessel.
 
@@ -18966,8 +18984,6 @@ Subpart 111.05--Equipment Ground, Ground Detection, and Grounded Systems
 111.05-3  Design, construction, and installation; general.
 111.05-7  Armored and metallic-sheathed cable.
 111.05-9  Masts.
-
-[[Page 210]]
 
                             System Grounding
 
@@ -19010,7 +19026,7 @@ Subpart 111.05--Equipment Ground, Ground Detection, and Grounded Systems
 111.12-11  Generator protection.
 111.12-13  Propulsion generator protection.
 
-Subpart 111.15--Storage Batteries and Battery Chargers: Contruction and 
+Subpart 111.15--Storage Batteries and Battery Chargers: Construction and 
                               Installation
 
 111.15-1  General.
@@ -19050,6 +19066,8 @@ Subpart 111.15--Storage Batteries and Battery Chargers: Contruction and
 111.30-27  Direct current ship's service switchboards.
 111.30-29  Emergency switchboards.
 
+[[Page 211]]
+
           Subpart 111.33--Power Semiconductor Rectifier Systems
 
 111.33-1  General.
@@ -19085,9 +19103,6 @@ Subpart 111.15--Storage Batteries and Battery Chargers: Contruction and
      Subpart 111.51--Coordination of Overcurrent Protective Devices
 
 111.51-1  Purpose.
-
-[[Page 211]]
-
 111.51-3  Protection of vital equipment.
 
           Subpart 111.52--Calculation of Short-Circuit Currents
@@ -19168,6 +19183,8 @@ Subpart 111.15--Storage Batteries and Battery Chargers: Contruction and
 111.81-1  Outlet boxes and junction boxes; general.
 111.81-3  Cables entering boxes.
 
+[[Page 212]]
+
                  Subpart 111.83--Shore Connection Boxes
 
 111.83-1  General.
@@ -19199,8 +19216,6 @@ Subpart 111.15--Storage Batteries and Battery Chargers: Contruction and
 111.97-5  Electric and hydraulic power supply.
 111.97-7  Distribution.
 111.97-9  Overcurrent protection.
-
-[[Page 212]]
 
           Subpart 111.99--Fire Door Holding and Release Systems
 
@@ -19280,6 +19295,8 @@ electrical equipment.
 [CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28275, June 4, 1996; 62 FR 23907, May 1, 1997]
 
+[[Page 213]]
+
 
 <R05>
 Sec. 111.01-3  Placement of equipment.
@@ -19313,13 +19330,10 @@ Sec. 111.01-7  Accessibility and spacing.
 accessibility to each part as needed to facilitate proper inspection, 
 adjustment, maintenance, or replacement.
     (b) Within an enclosure, the spacing between energized components 
-(or between an energized component and
-
-[[Page 213]]
-
-ground) must be to the appropriate industry standard for the voltage and 
-current utilized in the circuit. Additionally, spacing within any 
-enclosure must be sufficient to facilitate servicing.
+(or between an energized component and ground) must be to the 
+appropriate industry standard for the voltage and current utilized in 
+the circuit. Additionally, spacing within any enclosure must be 
+sufficient to facilitate servicing.
 
 [CGD 94-108, 61 FR 28275, June 4, 1996]
 
@@ -19382,8 +19396,11 @@ temperature will not be exceeded in these spaces.
     (c) A 45 deg.C ambient temperature is assumed for cable and all 
 other non-rotating electrical equipment in boiler rooms, in engine 
 rooms, in auxiliary machinery rooms, and on weather decks. For 
-installations using UL 489 SA marine type circuit breakers the ambient 
-temperature for that component is assumed to be 40 deg.C. For 
+installations using UL 489 SA marine type circuit breakers the
+
+[[Page 214]]
+
+ambient temperature for that component is assumed to be 40 deg.C. For 
 installations using Navy type circuit breakers the ambient temperature 
 for that component is assumed to be 50 deg.C.
     (d) Unless otherwise indicated in this subchapter, a 55 deg.C 
@@ -19409,8 +19426,6 @@ percent to -10 percent of rated voltage. This limitation does not
 address transient conditions.
 
 [CGD 94-108, 61 FR 28276, June 4, 1996]
-
-[[Page 214]]
 
 
 <R05>
@@ -19466,7 +19481,7 @@ must be grounded through a conductor in the supply cable to the
 grounding pole in the receptacle.
     (d) If the installation of the electrical equipment does not ensure 
 a positive ground to the metal hull or equivalent conducting body, the 
-apparatus must be grounded to the the hull with a grounding conductor.
+apparatus must be grounded to the hull with a grounding conductor.
 
 
 <R05>
@@ -19485,6 +19500,8 @@ Sec. 111.05-9  Masts.
 conductor in accordance with section 10 of IEC 92-401.
 
 [CGD 94-108, 62 FR 23907, May 1, 1997]
+
+[[Page 215]]
 
                             System Grounding
 
@@ -19519,8 +19536,6 @@ Sec. 111.05-15  Neutral grounding.
 a neutral bus or conductor must have the neutral grounded.
     (b) The neutral of a dual-voltage system must be solidly grounded at 
 the generator switchboard.
-
-[[Page 215]]
 
 
 <R05>
@@ -19591,6 +19606,8 @@ device for local troubleshooting, is allowed.
 [CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28276, June 4, 1996; 62 FR 23907, May 1, 1997]
 
+[[Page 216]]
+
 
 <R05>
 Sec. 111.05-25  Ungrounded systems.
@@ -19623,11 +19640,8 @@ Sec. 111.05-29  Dual voltage direct current systems.
 
     Each dual voltage direct current system must have a suitably 
 sensitive ground detection system which indicates current in the ground 
-connection, has a range of at least 150 percent of
-
-[[Page 216]]
-
-neutral current rating and indicates the polarity of the fault.
+connection, has a range of at least 150 percent of neutral current 
+rating and indicates the polarity of the fault.
 
 [CGD 94-108, 61 FR 28276, June 4, 1996]
 
@@ -19697,15 +19711,18 @@ must not have a switch or circuit breaker.
 Sec. 111.10-1  Definitions.
 
     As used in this Subpart:
-    (a) Ships's service loads mean electrical equipment for all 
-auxiliary services necessary for maintaining the vessel in a normal, 
-operational and habitable condition. Ship's service loads include, but 
-are not limited to, all safety, lighting, ventilation, navigational, 
-communications, habitability, and propulsion auxiliary loads. Electrical 
-propulsion motor, bow thruster motor, cargo transfer, drilling, cargo 
-refrigeration for other than Class 5.2 organic peroxides and Class 4.1 
-self-reactive substances, and other industrial type loads are not 
-included.
+    (a) Ship's service loads mean electrical equipment for all auxiliary 
+services necessary for maintaining the vessel in a normal, operational 
+and habitable condition. Ship's service loads include, but are not 
+limited to, all safety, lighting, ventilation, navigational, 
+communications, habitability, and propulsion
+
+[[Page 217]]
+
+auxiliary loads. Electrical propulsion motor, bow thruster motor, cargo 
+transfer, drilling, cargo refrigeration for other than Class 5.2 organic 
+peroxides and Class 4.1 self-reactive substances, and other industrial 
+type loads are not included.
     (b) Drilling loads means all loads associated exclusively with the 
 drilling operation including power to the drill table, mud system, and 
 positioning equipment.
@@ -19738,9 +19755,6 @@ propulsion and safety, and minimum comfortable conditions of
 habitability. Habitability services include cooking, heating, air 
 conditioning (where installed), domestic refrigeration, mechanical 
 ventilation, sanitation, and fresh water.
-
-[[Page 217]]
-
     (c) The capacity of the ship's service generating sources must be 
 sufficient for supplying the ship's service loads without the use of a 
 generating source which is dependent upon the speed or direction of the 
@@ -19789,9 +19803,12 @@ from a dead ship condition.
 electric power necessary to start the main propulsion plant from a dead 
 ship condition, the emergency generator must be capable of providing 
 power to all emergency lighting, emergency internal communications 
-systems, and fire detection and alarm systems in addition to the power 
-utilized for starting the main propulsion plant. Additional requirements 
-are in Sec. 112.05-3(c) of this chapter.
+systems, and fire detection and alarm systems in addition
+
+[[Page 218]]
+
+to the power utilized for starting the main propulsion plant. Additional 
+requirements are in Sec. 112.05-3(c) of this chapter.
 
 [CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28277, June 4, 1996]
@@ -19828,9 +19845,6 @@ Classing Steel Vessels and, for mobile offshore drilling units, section
 4/3.21 of the ABS Rules for Building and Classing Mobile Offshore 
 Drilling Units. Additional requirements for prime movers for emergency 
 generators are in part 112, subpart 112.50, of this chapter.
-
-[[Page 218]]
-
     (b) Each generator prime mover must have an overspeed device that is 
 independent of the normal operating governor and adjusted so that the 
 speed cannot exceed the maximum rated speed by more than 15 percent.
@@ -19885,6 +19899,8 @@ Classing Mobile Offshore Drilling Units.
 [CGD 94-108, 61 FR 28277, June 4, 1996; 61 FR 33045, June 26, 1996, as 
 amended at 62 FR 23908, May 1, 1997]
 
+[[Page 219]]
+
 
 <R05>
 Sec. 111.12-9  Generator cables.
@@ -19917,11 +19933,8 @@ instantaneous trip is required if:
 or
     (ii) The circuit breaker is for a direct current generator.
     (d) Setting of longtime overcurrent trips. The pickup setting of the 
-longtime
-
-[[Page 219]]
-
-overcurrent trip of a generator circuit breaker must not be larger than:
+longtime overcurrent trip of a generator circuit breaker must not be 
+larger than:
     (1) 115 percent of the generator rating for a continuous rated 
 machine; or
     (2) 115 percent of the overload rating for a machine with a 2-hour 
@@ -19969,6 +19982,8 @@ Sec. 111.12-13  Propulsion generator protection.
 
     For general requirements, see Sec. 111.35-1 of this chapter.
 
+[[Page 220]]
+
 
 <R04>
 Subpart 111.15--Storage Batteries and Battery Chargers: Construction and 
@@ -20010,11 +20025,8 @@ highest possible charging current and the rated voltage of the battery
 installation.
     (2) Moderate. A moderate battery installation is one connected to a 
 battery charger that has an output of between 0.2 kw and 2 kw computed 
-from the highest possible charging current and
-
-[[Page 220]]
-
-the rated voltage of the battery installation.
+from the highest possible charging current and the rated voltage of the 
+battery installation.
     (3) Small. A small battery installation is one connected to a 
 battery charger that has an output of less than 0.2 kw computed from the 
 highest possible charging current and the rated voltage of the battery 
@@ -20061,6 +20073,9 @@ information must be permanently fixed to the battery.
     (f) Lining in battery rooms and lockers. (1) Each battery room and 
 locker must have a watertight lining that is--
     (i) On each shelf to a height of at least 76 mm (3 inches); or
+
+[[Page 221]]
+
     (ii) On the deck to a height of at least 152 mm (6 inches).
     (2) For lead-acid batteries, the lining must be 1.6 mm (\1/16\ inch) 
 thick lead or other material that is corrosion-resistant to the 
@@ -20094,9 +20109,6 @@ location; or
     (4) The power ventilation system must be interlocked with the 
 battery charger so that the battery cannot be charged without 
 ventilation.
-
-[[Page 221]]
-
     (c) Large battery installations. Each battery room for large battery 
 installations must have a power exhaust ventilation system and have 
 openings for intake air near the floor that allow the passage of the 
@@ -20149,8 +20161,12 @@ watertight.
     (b) The termination of each cable must be sealed to prevent the 
 entrance of electrolyte by spray or creepage.
     (c) Each connecting cable must have sufficient capacity to carry the 
-maximum charging current or maximum discharge current, whichever is 
-greater, while maintaining the proper voltage at the load end.
+maximum charging current or maximum
+
+[[Page 222]]
+
+discharge current, whichever is greater, while maintaining the proper 
+voltage at the load end.
 
 [CGD 94-108, 61 FR 28278, June 4, 1996, as amended at 62 FR 23908, May 
 1, 1997]
@@ -20180,8 +20196,6 @@ a voltage exceeding 20 percent of the line voltage must be provided with
 automatic protection against reversal of current.
 
 [CGD 94-108, 61 FR 28278, June 4, 1996; 61 FR 36787, July 12, 1996]
-
-[[Page 222]]
 
 
 <R04>
@@ -20262,6 +20276,10 @@ Sec. 111.25-15  Duty cycle.
 application listed in Table 111.25-15 or a similar duty must meet the 
 minimum short-time rating stated in the table.
 
+[[Page 223]]
+
+
+
                              Table 111.25-15
 ------------------------------------------------------------------------
                                             Minimum short-time rating of
@@ -20312,15 +20330,11 @@ Sec. 111.30-4  Circuit breakers removable from the front.
 
     Circuit breakers, when installed on generator or distribution 
 switchboards, must be mounted or arranged in such a manner that the 
-circuit breaker may
-
-[[Page 223]]
-
-be removed from the front without unbolting bus or cable connections or 
-deenergizing the supply, unless the switchboard is divided into 
-sections, such that each section is capable of providing power to 
-maintain the vessel in a navigable condition, and meets Sec. 111.30-24 
-(a) and (b).
+circuit breaker may be removed from the front without unbolting bus or 
+cable connections or deenergizing the supply, unless the switchboard is 
+divided into sections, such that each section is capable of providing 
+power to maintain the vessel in a navigable condition, and meets 
+Sec. 111.30-24 (a) and (b).
 
 [CGD 94-108, 61 FR 28278, June 4, 1996]
 
@@ -20382,6 +20396,8 @@ and the circuit from a current transformer to a device that is not in
 the switchboard must have a high voltage protector to short the 
 transformer during an open circuit.
 
+[[Page 224]]
+
 
 <R05>
 Sec. 111.30-19  Buses and wiring.
@@ -20416,11 +20432,7 @@ system is more than 3000 kW, the switchboard must have the following:
     (2) A disconnect switch; or
     (3) Removable links.
     (b) As far as practicable, the connection of generators and 
-duplicated
-
-[[Page 224]]
-
-equipment equalized between the sections of the main bus.
+duplicated equipment equalized between the sections of the main bus.
 
 [CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28279, June 4, 1996]
@@ -20474,6 +20486,9 @@ each generator.
     (3) An exciter field rheostat.
     (f) For each shore power connection each switchboard must have:
     (1) A circuit breaker or fused switch;
+
+[[Page 225]]
+
     (2) A pilot light connected to the shore side of the circuit breaker 
 or fused switch; and
     (3) One of the voltmeters under paragraph (b)(5) of this section 
@@ -20504,9 +20519,6 @@ equipment required by paragraphs (b) through (f) of this section.
     (b) For each connected generator, each switchboard must have the 
 following:
     (1) A circuit breaker that meets Sec. 111.12-11 and Sec. 111.50-5.
-
-[[Page 225]]
-
     (2) A disconnect switch or link for each generator conductor, except 
 a switchboard having a draw-out or plug-in type generator circuit 
 breaker that disconnects--
@@ -20560,7 +20572,10 @@ loads to be supplied from the emergency power source.
     (c) The emergency switchboard must be as near as practicable to the 
 emergency power source but not in the same space as a battery emergency 
 power source.
-    (d) Each alternating-current emergency switchboard must have the 
+    (d) Each alternating-current emergency switchboard must have the
+
+[[Page 226]]
+
 equipment required by paragraphs (c) through (e) of this section.
     (e) For each connected emergency generator, each emergency 
 switchboard must have:
@@ -20591,9 +20606,6 @@ to show:
     (3) Ground detection that meets subpart 111.05 for the emergency 
 lighting system.
     (4) A frequency meter.
-
-[[Page 226]]
-
     (5) An exciter field rheostat.
     (6) A voltage regulator and a voltage regulator functional cut-out 
 switch.
@@ -20661,6 +20673,8 @@ requirements, as appropriate, of--
 
 [CGD 94-108, 61 FR 28279, June 4, 1996]
 
+[[Page 227]]
+
 
 <R05>
 Sec. 111.33-7  Alarms and shutdowns.
@@ -20702,11 +20716,7 @@ Sec. 111.35-1  Electrical propulsion installations.
 5D2.5, 4/5D2.11, 4/5D2.13, 4/5D2.17.8e, 4/5D2.17.9, and 4/5D2.17.10 of 
 ABS Rules for Building and Classing Steel Vessels or, for mobile 
 offshore drilling units, sections 4/3.79, 4/3.81, 4/3.83, and 4/3.84 of 
-ABS
-
-[[Page 227]]
-
-Rules for Building and Classing Steel Vessels.
+ABS Rules for Building and Classing Steel Vessels.
 
 [CGD 94-108, 61 FR 28279, June 4, 1996, as amended at 62 FR 23908, May 
 1, 1997]
@@ -20793,6 +20803,8 @@ listed subparts of this chapter:
     (c) Motors, motor circuits, and controllers, Subpart 111.70.
     (d) Transformers, Subpart 111.20.
 
+[[Page 228]]
+
 
 <R05>
 Sec. 111.50-2  Systems integration.
@@ -20827,9 +20839,6 @@ listed subparts of this chapter:
     (3) Motor circuits, Subpart 111.70.
     (4) Flexible cord and fixture wire for lighting circuits, Subpart 
 111.75.
-
-[[Page 228]]
-
     (5) Switchboard circuits, Subpart 111.30.
     (c) Fuses and circuit breakers. If the allowable current carrying 
 capacity of the conductor does not correspond to a standard fuse or 
@@ -20882,8 +20891,12 @@ single phase transformer (two wire with single-voltage secondary) also
 protects the conductors connected to the secondary side, as determined 
 by multiplying the current-carrying capacity of the secondary conductor 
 by the secondary to primary transformer voltage ratio, and this 
-protection meets Sec. 111.20-15 of this chapter, an overcurrent device 
-is not required at the supply to the secondary side conductors.
+protection meets
+
+[[Page 229]]
+
+Sec. 111.20-15 of this chapter, an overcurrent device is not required at 
+the supply to the secondary side conductors.
     (b) Location on vessel. Each overcurrent device:
     (1) Must be:
     (i) Readily accessible; and
@@ -20909,8 +20922,6 @@ Sec. 111.50-9  Disconnecting and guarding.
 
     Disconnecting and guarding of overcurrent protective devices must 
 meet Part D of Article 240 of the National Electrical Code.
-
-[[Page 229]]
 
 
 <R04>
@@ -20980,6 +20991,8 @@ alternating-current system must be assumed to be 8\1/2\ times the
 aggregate normal rated generator currents plus 3\1/2\ times the 
 aggregate normal rated currents of all motors that may be in operation.
 
+[[Page 230]]
+
 
 <R05>
 Sec. 111.52-5  Systems 1500 kilowatts or above.
@@ -21012,9 +21025,6 @@ Sec. 111.53-1  General.
 asymmetrical RMS short-circuit current at the point of application; and
     (3) Be listed by an independent laboratory.
     (b) Renewable link cartridge-type fuses must not be used.
-
-[[Page 230]]
-
     (c) Each fuse installation must provide for ready access to test the 
 condition of the fuse.
 
@@ -21083,6 +21093,8 @@ operation.
 
 [CGD 81-030, 53 FR 17847, May 18, 1988]
 
+[[Page 231]]
+
 
 <R04>
                         Subpart 111.55--Switches
@@ -21125,8 +21137,6 @@ rating.
 
 [CGD 94-108, 61 FR 28280, June 4, 1996]
 
-[[Page 231]]
-
 
 <R04>
               Subpart 111.60--Wiring Materials and Methods
@@ -21135,22 +21145,22 @@ rating.
 <R05>
 Sec. 111.60-1  Cable construction and testing.
 
-    (a) Each marine shipboard cable must meet all the construction and 
-identification requirements of either IEEE Std 45, IEC 92-3, MIL-C-
-24640A, or MIL-C-24643A and the respective flammability tests contained 
-therein and be of a copper stranded type.
-
-    Note to paragraph (a):
-    MIL-C-915 cable is acceptable only for repairs and replacements in 
-kind. MIL-C-915 cable is no longer acceptable for alterations, 
-modifications, conversions, or new construction. (See Sec. 110.01-3 of 
-this chapter).
-
-    (b) Each cable constructed to IEC 92-3 must meet the flammability 
-requirements of IEC 332-3, Category A.
-    (c) Electric cable that has a polyvinyl chloride insulation with a 
-nylon jacket (Type T/N) must meet the requirements for polyvinyl 
-chloride insulated cable in section 18 of IEEE Std 45, except--
+    (a) Each marine shipboard cable must meet all of the construction 
+and identification requirements of either IEEE Std 45, IEC 92-3, IEC 92-
+350, IEC 92-353, UL 1309, MIL-C-24640A, or MIL-C-24643A (incorporated by 
+reference, see Sec. 110.10-1 of this chapter), and the respective 
+flammability tests contained in them and be of a copper stranded type.
+    Note to Paragraph (a): MIL-C-915 cable is acceptable only for 
+repairs and replacements in kind. MIL-C-915 cable is no longer 
+acceptable for alterations, modifications, conversions, or new 
+construction. (See Sec. 110.01-3 of this chapter).
+    (b) Each cable constructed to IEC 92-3 or IEC 92-353 must meet the 
+flammability requirements of IEC 332-3, Category A.
+    (c) Electrical cable that has a polyvinyl chloride insulation with a 
+nylon jacket (Type T/N) must meet UL 1309 or must meet the requirements 
+for polyvinyl chloride insulated cable in section 18 of IEEE Std 45. If 
+meeting the requirements for polyvinyl chloride insulated cable in IEEE 
+Std 45, section 18, the following exceptions apply--
     (1) The thickness of the polyvinyl chloride insulation must meet UL 
 83 for type THWN wire;
     (2) Each conductor must have a nylon jacket;
@@ -21174,7 +21184,8 @@ volts.
 may be applied in accordance with IADC-DCCS-1/1991.
 
 [CGD 94-108, 61 FR 28280, June 4, 1996, as amended at 62 FR 23908, May 
-1, 1997; USCG 1999-5151, 64 FR 67182, Dec. 1, 1999]
+1, 1997; USCG 1999-5151, 64 FR 67182, Dec. 1, 1999; USCG-1999-6096, 66 
+FR 29911, June 4, 2001]
 
 
 <R05>
@@ -21188,6 +21199,9 @@ coaxial cables, must--
     (b) Have fire stops installed--
     (1) At least every 7 meters (21.5 feet) vertically, up to a maximum 
 of 2 deck heights;
+
+[[Page 232]]
+
     (2) At least every 15 meters (46 feet) horizontally;
     (3) At each penetration of an A or B Class boundary;
     (4) At each location where the cable enters equipment; or
@@ -21199,37 +21213,34 @@ of 2 deck heights;
 <R05>
 Sec. 111.60-3  Cable application.
 
-    (a) Cable constructed in accordance with IEEE Std 45 must meet the 
-cable application section 19 of IEEE Std 45. Cable constructed in 
-accordance with IEC 92-3 must meet the requirements of section 19 of 
-IEEE Std 45 except 19.6.1, 19.6.4, and 19.8. Cable constructed in 
-accordance with IEC 92-3 must comply with the ampacity values of IEC 92-
-352, Table 1.
+    (a) Cable constructed according to IEEE Std 45 must meet the cable 
+application provisions of section 19 of IEEE Std 45. Cable constructed 
+according to IEC 92-3, IEC 92-353, or UL 1309 must meet the provisions 
+of section 19 of IEEE Std 45, except 19.6.1, 19.6.4, and 19.8. Cable 
+constructed according to IEC 92-3 and IEC 92-353 must comply with the 
+ampacity values of IEC 92-352, Table 1.
     (b) Type T/N cables must meet section 19 of IEEE Std 45 for Type T 
 insulation.
-    (c) Cables constructed in accordance with IEEE Std 45 must be 
-derated in accordance with Table A6, Note 6 of IEEE Std 45. Cables 
-constructed in accordance with IEC 92-3 must be derated in accordance 
-with IEC 92-352, paragraph 8. MIL-C-24640A and MIL-C-24643A cable must 
-be derated in accordance with MIL-HDBK-299(SH).
-
-[[Page 232]]
-
+    (c) Cable constructed according to IEEE Std 45 must be derated 
+according to Table A6, Note 6, of IEEE Std 45. Cable constructed 
+according to IEC 92-3 or IEC 92-353 must be derated according to IEC 92-
+352, paragraph 8. MIL-C-24640A and MIL-C-24643A cable must be derated 
+according to MIL-HDBK-299(SH).
     (d) Cables for special applications defined in section 19 of IEEE 
 Std 45 must meet the provisions of that section.
 
 [CGD 94-108, 61 FR 28280, June 4, 1996, as amended at 62 FR 23908, May 
-1, 1997]
+1, 1997; USCG-1999-6096, 66 FR 29911, June 4, 2001]
 
 
 <R05>
 Sec. 111.60-4  Minimum cable conductor size.
 
-    Each cable conductor must be #18 AWG (0.82 mm\2\) or larger except--
-    (a) Each power and lighting cable conductor must be #14 AWG (2.10 
+    Each cable conductor must be 18 AWG (0.82 mm\2\) or larger except--
+    (a) Each power and lighting cable conductor must be 14 AWG (2.10 
 mm\2\) or larger; and
     (b) Each thermocouple, pyrometer, or instrumentation cable conductor 
-must be #22 AWG (0.33 mm\2\) or larger.
+must be 22 AWG (0.33 mm\2\) or larger.
 
 [CGD 94-108, 61 FR 28280, June 4, 1996]
 
@@ -21268,7 +21279,7 @@ or
 
 
 <R05>
-Sec. 111.60-7  Demand loads.
+Sec. -  Demand loads.
 
     Generator, feeder, and bus-tie cables must be selected on the basis 
 of a computed load of not less than the demand load given in Table 
@@ -21287,6 +21298,10 @@ Emergency switchboard bus-tie.........  115 percent of continuous rating
                                          of emergency generator.
 Motor feeders.........................  Article 430, National Electrical
                                          Code.
+
+[[Page 233]]
+
+ 
 Galley equipment feeder...............  100 percent of either the first
                                          50 KW or one-half the connected
                                          load, whichever is the larger,
@@ -21303,7 +21318,7 @@ Lighting feeder.......................  100 percent of the connected
                                          the distribution panels.
 Grounded neutral of a dual voltage      100 percent of the capacity of
  feeder.                                 the ungrounded conductors when
-                                         grounded netural is not
+                                         grounded neutral is not
                                          protected by a circuit breaker
                                          overcurrent trip, or not less
                                          than 50 percent of the capacity
@@ -21327,8 +21342,6 @@ arranged so that fire in a main fire zone does not interfere with
 essential services in another main fire zone.
     (2) Main and emergency feeders passing through a main fire zone must 
 be separated vertically and horizontally as much as practicable.
-
-[[Page 233]]
 
 
 <R05>
@@ -21383,8 +21396,11 @@ devices must be suitable for copper stranded conductors.
 made within an enclosure and the insulated cap of the connector must be 
 secured to prevent loosening due to vibration.
     (c) Twist-on type of connectors may not be used for making joints in 
-cables, facilitating a conductor splice, or extending the length of a 
-circuit.
+cables,
+
+[[Page 234]]
+
+facilitating a conductor splice, or extending the length of a circuit.
 
 [CGD 94-108, 61 FR 28281, June 4, 1996]
 
@@ -21426,11 +21442,8 @@ PVC or thermoset material; and
 the requirements of UL 1569.
     (c) The cable is not allowed in areas or applications exposed to 
 high vibration, festooning, repeated flexing, excessive movement, or 
-twisting, such as in engine rooms, on elevators, or in the
-
-[[Page 234]]
-
-area of drill floors, draw works, shakers, and mud pits.
+twisting, such as in engine rooms, on elevators, or in the area of drill 
+floors, draw works, shakers, and mud pits.
     (d) The cable must be installed in accordance with article 334 of 
 the NEC. The ampacity values found in table A6 of IEEE Std 45 may not be 
 used.
@@ -21477,6 +21490,9 @@ circuits:
 motor-running protective devices (overload coil or heater type relay 
 within the motor and controller) need be used in any two ungrounded 
 conductors, except when a wye-delta or a delta-wye transformer is used.
+
+[[Page 235]]
+
     (c) The motor disconnecting means must be an externally operable 
 switch or circuit breaker.
 
@@ -21507,9 +21523,6 @@ service generator. Automatic sequential starting of low-voltage release
 controllers is acceptable to meet this paragraph.
     (c) Low-voltage protection. Each motor controller must have low-
 voltage protection, except for the following motor controllers:
-
-[[Page 235]]
-
     (1) A motor controller that has low-voltage release under paragraph 
 (b) of this section.
     (2) A motor controller for a motor of less than 2 horsepower (1.5 
@@ -21564,6 +21577,9 @@ Sec. 111.70-7  Remote control, interlock, and indicator circuits.
     (a) Overcurrent protection. A conductor of a control, interlock, or 
 indicator circuit of a motor controller must be protected against 
 overcurrent unless:
+
+[[Page 236]]
+
     (1) The conductor is wholly within the controller enclosure;
     (2) The rating or setting of the branch circuit overcurrent device 
 is not more than 300 percent of the current-carrying capacity of the 
@@ -21589,14 +21605,11 @@ arrangement in paragraph (d) of this section must be met.
     (d) Switching. In the design of a control, interlock, or indicator 
 circuit, all practicable steps must be taken to eliminate all but one 
 source of power in an enclosure. If the control functions make it 
-impracticable to energize
-
-[[Page 236]]
-
-a control interlock or indicator circuit from the load side of a motor 
-and controller disconnect device and the voltage of the control, 
-interlock, or indicator circuit is more than 24 volts, there must be one 
-of the following alternative methods of switching:
+impracticable to energize a control interlock or indicator circuit from 
+the load side of a motor and controller disconnect device and the 
+voltage of the control, interlock, or indicator circuit is more than 24 
+volts, there must be one of the following alternative methods of 
+switching:
     (1) Each conductor of a control, interlock, or indicator circuit 
 must be disconnected from all sources of potential by a disconnect 
 device independent of the motor and controller disconnect device. The 
@@ -21643,6 +21656,8 @@ branch circuits are in subpart 112.43 of this chapter.
 [CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28282, June 4, 1996; 61 FR 33045, June 26, 1996]
 
+[[Page 237]]
+
 
 <R05>
 Sec. 111.75-5  Lighting branch circuits.
@@ -21679,9 +21694,6 @@ The supply to lights in each passageway, public space, or berthing
 compartment accommodating more than 25 persons must be divided between 
 two or more branch circuits, one of which may be an emergency branch 
 circuit.
-
-[[Page 237]]
-
     (b) Lights in machinery spaces. Alternate groups of lights in an 
 engineroom, boilerroom, or auxiliary machinery space must be arranged so 
 that the failure of one branch circuit does not leave an area without 
@@ -21731,12 +21743,16 @@ rated or set at a value of at least twice that of the navigation light
 panel main fuses.
     (b) Navigation light indicator panel. Each self-propelled vessel 
 must have a navigation light indicator panel in the navigating bridge to 
-control side, masthead, and stern lights. The panel must visually and 
-audibly signal the failure of each of these navigation lights. Each 
-light source must be connected to a separate fused branch circuit. The 
-panel must have a fused feeder disconnect switch, and the fuses must 
-have at least twice the rating of the largest branch circuit fuse and 
-must be greater than the maximum panel load.
+control side,
+
+[[Page 238]]
+
+masthead, and stern lights. The panel must visually and audibly signal 
+the failure of each of these navigation lights. Each light source must 
+be connected to a separate fused branch circuit. The panel must have a 
+fused feeder disconnect switch, and the fuses must have at least twice 
+the rating of the largest branch circuit fuse and must be greater than 
+the maximum panel load.
     (c) Dual light sources. Each self-propelled vessel must have 
 duplicate light sources for the side, masthead, and stern lights.
     (d) Navigation lights. Each navigation light must meet the 
@@ -21758,9 +21774,6 @@ to the standard under paragraph (d)(2) of this section).
     (v) Visibility of the light in nautical miles.
     (vi) Date on which the fixture was type-tested.
     (vii) Identification of bulb used in the compliance test.
-
-[[Page 238]]
-
     (4) If it is a flashing light, have its intensity determined by the 
 formula:
 
@@ -21817,6 +21830,9 @@ location must meet--
     (2) UL 1570, UL 1571, or UL 1572, as applicable, including marine 
 supplement; or
     (3) IEC 92-306.
+
+[[Page 239]]
+
     (b) Each fixture globe, lens, or diffuser must have a high strength 
 guard or be made of high strength material, except in an accommodation 
 space, navigating bridge, gyro room, radio room, galley, or similar 
@@ -21845,8 +21861,6 @@ mounting of glassware, and rigid mounting.
 [CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28283, June 4, 1996; 61 FR 36787, July 12, 1996; 62 FR 23909, May 1, 
 1997]
-
-[[Page 239]]
 
 
 <R04>
@@ -21912,8 +21926,11 @@ Sec. 111.79-9  Transmitting power between receptacles.
     (a) If it is necessary to transmit current in one direction between 
 two receptacle outlets by a flexible cable with a plug on each end, such 
 as a battery charging lead between a receptacle outlet on a ship and a 
-receptacle outlet in a lifeboat, the plug that may be energized when not 
-in the receptacle outlet must be female.
+receptacle outlet in a lifeboat, the plug that may
+
+[[Page 240]]
+
+be energized when not in the receptacle outlet must be female.
     (b) If a receptacle outlet may be used as a source of power and as a 
 receiver of power, such as the receptacles on barges that may have to 
 supply power to adjoining barges in some makeup and receive power from 
@@ -21948,10 +21965,7 @@ Sec. 111.79-15  Receptacles for refrigerated containers.
 
     Receptacles for refrigerated containers must meet one of the 
 following:
-    (a) Each receptacle for refrigerated containers must have a switch
-
-[[Page 240]]
-
+    (a) Each receptacle for refrigerated containers must have a switch 
 interlocked in such a way that the receptacle's contacts are deenergized 
 before the making or breaking of the connection between the plug and 
 receptacle contacts.
@@ -22013,6 +22027,8 @@ Sec. 111.83-1  General.
     Each shore connection box must be of a size that accommodates the 
 connections of the flexible and fixed cables.
 
+[[Page 241]]
+
 
 <R05>
 Sec. 111.83-5  Bottom entrance and protected enclosures.
@@ -22055,13 +22071,9 @@ is inadequate flow.
 Sec. 111.87-1  Applicability.
 
     This subpart applies to electrically energized units or panels for 
-heating a
-
-[[Page 241]]
-
-room or compartment. This subpart does not apply to electrically 
-energized units for heating the air in an enclosed apparatus, such as a 
-motor or controller.
+heating a room or compartment. This subpart does not apply to 
+electrically energized units for heating the air in an enclosed 
+apparatus, such as a motor or controller.
 
 
 <R05>
@@ -22118,7 +22130,11 @@ switches must be adapted to the installation if there are no gravity
 davits.
     (b) The provisions of this subpart supplement the requirements for 
 boat winches in other parts of this chapter under which vessels are 
-certificated and in subchapter Q, Equipment approvals.
+certificated
+
+[[Page 242]]
+
+and in subchapter Q, Equipment approvals.
 
 [CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28283, June 4, 1996]
@@ -22151,13 +22167,10 @@ be ahead of the motor controller. The main line emergency switch must be
 the motor and controller disconnect required by Subpart 111.70 and must 
 have a horsepower rating of at least that of the winch motor.
     (b) If the motor controller of a boat winch power unit is remote 
-from the winch, there must be a switch at the
-
-[[Page 242]]
-
-controller that can disconnect the entire winch electric installation 
-from all sources of potential. The switch must be in series with and on 
-the supply side of the main line emergency switch.
+from the winch, there must be a switch at the controller that can 
+disconnect the entire winch electric installation from all sources of 
+potential. The switch must be in series with and on the supply side of 
+the main line emergency switch.
     (c) Each davit arm limit switch, whether connected in the power 
 circuit or in the control circuit, must disconnect all ungrounded 
 conductors of the circuit controlled.
@@ -22211,8 +22224,12 @@ Sec. 111.97-5  Electric and hydraulic power supply.
     (a) Each electric motor-driven door operating system must have the 
 same source of power as the emergency lighting and power system.
     (b) The temporary emergency power source and the final emergency 
-power source must each be capable of operating all doors simultaneously 
-or sequentially as allowed by Sec. 170.270(c) of this chapter.
+power
+
+[[Page 243]]
+
+source must each be capable of operating all doors simultaneously or 
+sequentially as allowed by Sec. 170.270(c) of this chapter.
     (c) The power supply for each hydraulically operated watertight door 
 system that uses a hydraulic system common to more than one watertight 
 door must be an accumulator tank with enough capacity to open all doors 
@@ -22234,8 +22251,6 @@ must be accepted by the Commandant.
 
 [CGD 74-125A, 47 FR 15236, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28283, June 4, 1996; USCG-2000-7790, 65 FR 58462, Sept. 29, 2000]
-
-[[Page 243]]
 
 
 <R05>
@@ -22287,7 +22302,7 @@ fire doors.
     Fire door means a door that is in a fire boundary, such as a 
 stairway enclosure or main vertical zone bulkhead, that is not usually 
 kept closed.
-    Fire door holding magnet means an electronmagnet for holding a fire 
+    Fire door holding magnet means an electromagnet for holding a fire 
 door open.
     Local control panel means a manually-operated device next to a fire 
 door for releasing the door so that the fire door self-closing mechanism 
@@ -22315,6 +22330,8 @@ Sec. 111.101-1  Applicability.
     This subpart applies to each submersible motor-driven bilge pump 
 required on certain vessels under Sec. 56.50-55(a)(2)(i) of this 
 chapter.
+
+[[Page 244]]
 
 
 <R05>
@@ -22350,9 +22367,6 @@ Sec. 111.103-1  Power ventilation systems except machinery space ventilation sys
     Each power ventilation system must have:
     (a) A control to stop the ventilation that is:
     (1) Outside the space ventilated; and
-
-[[Page 244]]
-
     (2) Grouped with the controls for every power ventilation system to 
 which this section is applicable; and
     (b) In addition to the control required by paragraph (a), a stop 
@@ -22419,6 +22433,8 @@ O of this chapter.
 
 [CGD 94-108, 61 FR 28284, June 4, 1996]
 
+[[Page 245]]
+
 
 <R05>
 Sec. 111.105-3  General requirements.
@@ -22457,9 +22473,6 @@ electrical equipment must be tested or approved in order to comply with
 IEC 79 series publications, that item must be--
     (a) Listed or certified by an independent laboratory as approved for 
 use in the hazardous locations in which it is installed; or
-
-[[Page 245]]
-
     (b) Purged and pressurized equipment that meets NFPA No. 496 or IEC 
 79-2.
 
@@ -22517,6 +22530,9 @@ Sec. 111.105-15  Additional methods of protection.
 article 500-2;
     (c) Type of protection ``e'' must meet IEC 79-7;
     (d) Type of protection ``n'' must meet IEC 79-15; and
+
+[[Page 246]]
+
     (e) Type of protection ``m'' must meet IEC 79-18.
 
 [CGD 94-108, 61 FR 28284, June 4, 1996]
@@ -22550,8 +22566,6 @@ explosionproof or flameproof equipment, under Sec. 111.105-19 must have
 a pole for each ungrounded conductor.
 
 [CGD 94-108, 61 FR 28284, June 4, 1996]
-
-[[Page 246]]
 
 
 <R05>
@@ -22612,8 +22626,11 @@ explosionproof lighting fixtures must:
     (2) Be arranged so that there is light for relamping any deenergized 
 lighting circuit; and
     (3) Not have the switch within the space for those spaces containing 
-explosionproof lighting fixtures under paragraphs (g), (i) and (j) of 
-this section.
+explosionproof lighting fixtures under
+
+[[Page 247]]
+
+paragraphs (g), (i) and (j) of this section.
     (d) Submerged cargo pump motors. If a submerged cargo pump motor is 
 in a cargo tank:
     (1) Low liquid level, motor current, or pump discharge pressure must 
@@ -22639,13 +22656,10 @@ fixtures that are in the cargo handling room.
     (g) Lighting of cargo handling rooms. Lighting for a cargo handling 
 room except a cargo handling room under paragraph (h) of this section, 
 must be lighted through fixed glass lenses in the bulkhead or overhead. 
-Each fixed glass lens must be wire-inserted glass that is
-
-[[Page 247]]
-
-at least .025 inches (6.35 mm) thick and arranged to maintain the 
-watertight and gastight integrity of the structure. The fixed glass lens 
-may form a part of a listing fixture if the following are met:
+Each fixed glass lens must be wire-inserted glass that is at least .025 
+inches (6.35 mm) thick and arranged to maintain the watertight and 
+gastight integrity of the structure. The fixed glass lens may form a 
+part of a listing fixture if the following are met:
     (1) There is no access to the interior of the fixture from the cargo 
 handling room.
     (2) The fixture is vented to the engineroom or a similar 
@@ -22687,6 +22701,9 @@ cable if the location is--
     (iv) A cargo valve;
     (v) A cargo handling room entrance; or
     (vi) A cargo handling room ventilation opening; or
+
+[[Page 248]]
+
     (2) On a tankship and on the open deck over the cargo area and 10 
 feet (3 m) forward and aft of the cargo area on the open deck and up to 
 8 feet (2.4 m) above the deck.
@@ -22720,9 +22737,6 @@ Sec. 111.105-32  Bulk liquefied flammable gas and ammonia carriers.
 ammonia as a cargo, cargo residue, or vapor must meet the requirements 
 of this section.
     (b) As used in this section:
-
-[[Page 248]]
-
     (1) The terms ``gas-safe'' and ``gas-dangerous'' spaces are used as 
 defined in Sec. 154.7 of this chapter.
     (2) The term ``gas-dangerous'' does not include the weather deck of 
@@ -22764,6 +22778,9 @@ ballast system valves;
 equipment, except explosionproof lighting fixtures.
     (i) A space for cargo hose storage or a space that has cargo piping 
 must not have any installed electrical equipment, except:
+
+[[Page 249]]
+
     (1) Explosionproof lighting fixtures; and
     (2) Through runs of marine shipboard cable.
     (j) A gas dangerous zone on the open deck must not have any 
@@ -22796,9 +22813,6 @@ drilling unit.
     (b) Definitions. As used in this section:
     (1) ``Enclosed spaces'' are locations delineated by floors, 
 bulkheads, or decks which may have doors or windows.
-
-[[Page 249]]
-
     (2) ``Semi-enclosed spaces'' are locations where natural conditions 
 of ventilation are notably different from those on open deck due to the 
 presence of structures such as roofs, windbreaks, and bulkheads which 
@@ -22842,6 +22856,9 @@ possible source of release, such as the top of a drilling nipple; or
     (iii) Within 5 feet (1.5m) of the boundaries of any ventilation 
 outlet, access, or other opening to a Class I, Division 2 space.
     (3) A location that is:
+
+[[Page 250]]
+
     (i) Within 5 feet (1.5m) of a semi-enclosed Class I, Division 1 
 location indicated in paragraph (d)(2) of this section; or
     (ii) Within 5 feet (1.5m) of a Class I, Division 1 space indicated 
@@ -22872,9 +22889,6 @@ the space and that has no hold-back device;
 space into the Division 1 location; and
     (iii) Loss of ventilation is alarmed at a manned control station; 
 and
-
-[[Page 250]]
-
     (3) An enclosed space that has direct access to a Division 2 
 location is not a hazardous location if:
     (i) The access has a self-closing, gas-tight door that opens into 
@@ -22930,8 +22944,12 @@ electrical equipment must be suitable for a Class I, Division 1; Zone 0;
 or Zone 1 hazardous location.
     (b) If the vessel is fitted with an approved fixed gas detection 
 system set at 25 percent the LEL, each item of the installed electrical 
-equipment must meet the requirements for a Class I, Division 1; Class I, 
-Division 2; Zone 0; Zone 1; or Zone 2 hazardous location.
+equipment must
+
+[[Page 251]]
+
+meet the requirements for a Class I, Division 1; Class I, Division 2; 
+Zone 0; Zone 1; or Zone 2 hazardous location.
 
 [CGD 94-108, 61 FR 28285, June 4, 1996, as amended at 62 FR 23909, May 
 1, 1997]
@@ -22968,8 +22986,6 @@ Sec. 111.105-41  Battery rooms.
 111.15 of this part and IEEE Std 45.
 
 [CGD 94-108, 61 FR 28285, June 4, 1996]
-
-[[Page 251]]
 
 
 <R05>
@@ -23030,6 +23046,9 @@ subchapter.
 the NEC must meet only the following:
     (1) The switchgear standards in part 110, subpart 110.10, of this 
 chapter.
+
+[[Page 252]]
+
     (2) Part 110, subpart 110.25, of this chapter--Plan Submittal.
     (3) Subpart 111.01 of this part--General.
     (4) Subpart 111.05 of this part--Equipment Ground, Ground Detection, 
@@ -23072,9 +23091,6 @@ Sec.
 
 112.15-1  Temporary emergency loads.
 112.15-5  Final emergency loads.
-
-[[Page 252]]
-
 112.15-10  Loads on systems without a temporary emergency power source.
 
     Subpart 112.20--Emergency Systems Having a Temporary and a Final 
@@ -23136,6 +23152,8 @@ Sec.
 112.43-13  Navigation light indicator panel supply.
 112.43-15  Emergency lighting feeders.
 
+[[Page 253]]
+
                    Subpart 112.45--Visible Indicators
 
 112.45-1  Visible indicators.
@@ -23186,11 +23204,8 @@ Sec. 112.01-10  Automatic emergency lighting and power system.
 
     An automatic emergency lighting and power system is one in which a 
 reduction in potential from the ship's service power and lighting plant 
-causes
-
-[[Page 253]]
-
-the emergency power source to supply power to the emergency loads.
+causes the emergency power source to supply power to the emergency 
+loads.
 
 
 <R05>
@@ -23242,6 +23257,8 @@ The automatic load shedding circuit breakers must be manually reset.
 [CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28286, June 4, 1996; 61 FR 36787, July 12, 1996]
 
+[[Page 254]]
+
 
 <R05>
 Sec. 112.05-3  Main-emergency bus-tie.
@@ -23289,10 +23306,6 @@ Passenger vessels:
                                  battery or an           is less.\2\
                                  automatically started
                                  generator).
-
-[[Page 254]]
-
- 
 Cargo vessels; miscellaneous
  self-propelled vessels;
  tankships; barges with
@@ -23347,11 +23360,15 @@ equipment, and the emergency switchboard must be located aft of the
 collision bulkhead, outside of the machinery casing, and above the 
 uppermost continuous deck. Each compartment containing this equipment 
 must be readily accessible from the open deck and must not contain 
-machinery not associated with, or equipment not in support of, the 
-normal operation of the emergency power source. Equipment in support of 
-the normal operation of the emergency power source includes, but is not 
-limited to, ventilation fans, CO<INF>2</INF> bottles, space heaters, and 
-internal communication devices, such as sound powered phones.
+machinery not associated with,
+
+[[Page 255]]
+
+or equipment not in support of, the normal operation of the emergency 
+power source. Equipment in support of the normal operation of the 
+emergency power source includes, but is not limited to, ventilation 
+fans, CO<INF>2</INF> bottles, space heaters, and internal communication 
+devices, such as sound powered phones.
     (e) No compartment that has an emergency power source or its vital 
 components may adjoin a Category A machinery space or those spaces 
 containing the main source of electrical power and its vital components.
@@ -23371,8 +23388,6 @@ diesel engine or a gas turbine.
 
 [CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28286, June 4, 1996; 62 FR 23910, May 1, 1997]
-
-[[Page 255]]
 
 
 <R04>
@@ -23424,6 +23439,9 @@ appliances and the area of the water where it is to be launched.
     (h) Electric communication systems that are necessary under 
 temporary emergency conditions and that do not have an independent 
 storage battery source of power.
+
+[[Page 256]]
+
     (i) Each power operated watertight door system.
     (j) All shipwide communications systems necessary for the 
 transmittal of information during an emergency.
@@ -23456,9 +23474,6 @@ final emergency power source:
     (b) The machinery, controls, and alarms for each passenger elevator.
     (c) Each charging panel for:
     (1) Temporary emergency batteries;
-
-[[Page 256]]
-
     (2) Starting batteries for diesel engines or gas turbines that drive 
 emergency generators; and
     (3) General alarm batteries.
@@ -23512,8 +23527,12 @@ sampling) and CO<INF>2</INF> exhaust fan for spaces.
 Sec. 112.15-10  Loads on systems without a temporary emergency power source.
 
     If there is no temporary emergency power source, the loads under 
-Sec. 112.15-1 must be arranged so that they can be energized from the 
-final emergency power source.
+Sec. 112.15-1
+
+[[Page 257]]
+
+must be arranged so that they can be energized from the final emergency 
+power source.
 
 
 <R04>
@@ -23548,12 +23567,9 @@ supplied from the temporary emergency power source.
     (b) For systems in which a reduction of frequency of the normal 
 source or final emergency power source adversely affects the emergency 
 system and emergency loads, there must be means to transfer the loads 
-under
-
-[[Page 257]]
-
-Sec. 112.15-1 to the temporary emergency power source upon a reduction 
-in the frequency of the normal source or final emergency power source.
+under Sec. 112.15-1 to the temporary emergency power source upon a 
+reduction in the frequency of the normal source or final emergency power 
+source.
 
 
 <R05>
@@ -23615,6 +23631,8 @@ Sec. 112.25-5  Failure of power from the normal source.
 power source must start automatically with no load on the emergency 
 power source.
 
+[[Page 258]]
+
 
 <R05>
 Sec. 112.25-10  Transfer of emergency loads.
@@ -23648,9 +23666,6 @@ Sec. 112.30-3  Normal source for emergency loads.
 
     (a) The normal source for emergency loads must be the ship's service 
 generating plant.
-
-[[Page 258]]
-
     (b) The power from the ship's service generating plant for the 
 emergency loads must be supplied to the emergency loads through 
 automatic transfer switches.
@@ -23724,6 +23739,8 @@ Sec. 112.37-1  General.
 5(a) must consist of a storage battery of sufficient capacity to supply 
 the temporary emergency loads for not less than one-half hour.
 
+[[Page 259]]
+
 
 <R04>
                 Subpart 112.39--Battery Operated Lanterns
@@ -23766,11 +23783,8 @@ Sec. 112.40-1  General requirements.
 communication equipment or other apparatus essential under temporary 
 emergency conditions must be provided with the necessary conversion 
 equipment. If the conversion equipment operates both under normal 
-conditions and under temporary emergency conditions, the
-
-[[Page 259]]
-
-conversion equipment must be provided in duplicate.
+conditions and under temporary emergency conditions, the conversion 
+equipment must be provided in duplicate.
 
 
 <R04>
@@ -23836,6 +23850,8 @@ Sec. 112.43-9  Signaling lights.
     Each signaling light must be supplied by a branch circuit that 
 supplies no other equipment.
 
+[[Page 260]]
+
 
 <R05>
 Sec. 112.43-11  Illumination for launching operations.
@@ -23881,9 +23897,6 @@ Sec. 112.45-1  Visible indicators.
 
     There must be visible indicators in the machinery space to show;
     (a) When an emergency battery is discharging; and
-
-[[Page 260]]
-
     (b) When the automatically controlled emergency power source is 
 supplying the emergency loads.
 
@@ -23930,9 +23943,12 @@ and alarm requirements in Sec. 58.10-15(g) of this chapter.
     (k) Each emergency generator that is arranged to be automatically 
 started must be equipped with a starting device with an energy-storage 
 capability of at least six consecutive starts. A second, separate source 
-of starting energy may provide three of the required six starts. If a 
-second source is provided, the system need only provide three 
-consecutive starts.
+of starting energy may provide three of the required
+
+[[Page 261]]
+
+six starts. If a second source is provided, the system need only provide 
+three consecutive starts.
 
 [CGD 74-125A, 47 FR 15267, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28287, June 4, 1996]
@@ -23969,12 +23985,8 @@ Sec. 112.50-5  Electric starting.
     An electric starting system must have a starting battery with 
 sufficient capacity for at least six consecutive starts. A second, 
 separate source of starting energy may provide three of the required six 
-starts. If a second
-
-[[Page 261]]
-
-source is provided, the electrical starting system need only provide 
-three consecutive starts.
+starts. If a second source is provided, the electrical starting system 
+need only provide three consecutive starts.
 
 [CGD 94-108, 61 FR 28288, June 4, 1996]
 
@@ -24028,6 +24040,8 @@ Sec. 112.55-5  Emergency lighting loads.
 voltage must not exceed the standard system voltage by more than 5 
 percent.
 
+[[Page 262]]
+
 
 <R05>
 Sec. 112.55-10  Storage battery charging.
@@ -24075,9 +24089,6 @@ Sec.
        Subpart 113.10--Fire and Smoke Detecting and Alarm Systems
 
 113.10-1  Approved equipment.
-
-[[Page 262]]
-
 113.10-3  Cable runs.
 113.10-5  Common return.
 113.10-7  Connection boxes.
@@ -24133,6 +24144,8 @@ Sec.
 113.35-13  Mechanical engine order telegraph systems; operation.
 113.35-15  Mechanical engine order telegraph systems; application.
 113.35-17  Vessels with navigating bridge control.
+
+[[Page 263]]
 
             Subpart 113.37--Shaft Speed and Thrust Indicators
 
@@ -24193,11 +24206,8 @@ Sec. 113.05-7  Environmental tests.
     Communication, alarm system, control, and monitoring equipment must 
 meet the environmental tests of--
     (a) Table 4/11.1 of ABS Rules for Building and Classing Steel 
-Vessels or the applicable ENV category of Lloyd's
-
-[[Page 263]]
-
-Register Type approval System--Test Specification No. 1; and
+Vessels or the applicable ENV category of Lloyd's Register Type approval 
+System--Test Specification No. 1; and
     (b) IEC 533 as appropriate.
 
 [CGD 94-108, 61 FR 28288, June 4, 1996, as amended at 62 FR 23910, May 
@@ -24257,8 +24267,11 @@ the other source.
     (b) Batteries. Each battery used in a fire detecting and alarm 
 system must meet Subpart 111.15 of this chapter.
     (c) Capacity of power supply branch circuit. The capacity of each 
-branch circuit providing power to a fire detection or alarm system must 
-not be less than 125 percent of the maximum load.
+branch circuit providing power to a fire detection
+
+[[Page 264]]
+
+or alarm system must not be less than 125 percent of the maximum load.
 
 [CGD 74-125A, 47 FR 15272, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28288, June 4, 1996]
@@ -24318,11 +24331,7 @@ Sec. 113.25-5  Location of contact makers.
 
     (a) Passenger vessels and cargo and miscellaneous vessels. Each 
 passenger vessel, cargo vessel, and miscellaneous vessel must have a 
-manually operated
-
-[[Page 264]]
-
-contact maker for the general emergency alarm system:
+manually operated contact maker for the general emergency alarm system:
     (1) In the navigating bridge; and
     (2) At the feeder distribution panel if the general alarm power 
 supply is not in or next to the navigating bridge.
@@ -24364,7 +24373,11 @@ machinery spaces.
 Sec. 113.25-6  Power supply.
 
     (a) The power supply for the general emergency alarm system must 
-meet the requirements of SOLAS 74, regulations III-6.4.2 and III/50.
+meet
+
+[[Page 265]]
+
+the requirements of SOLAS 74, regulations III-6.4.2 and III/50.
     (b) The emergency power source for the general emergency alarm 
 system must meet the requirements of SOLAS 74, regulation II-1/42 or II-
 1/43, as applicable.
@@ -24405,13 +24418,9 @@ to the general alarm power supply.
 zone that has general emergency alarm signal.
     (e) Each system must have one or more branch circuit distribution 
 panels for each zone feeder, with at least one fused branch circuit for 
-each deck
-
-[[Page 265]]
-
-level. The distribution panel must be above the uppermost continuous 
-deck, in the zone served, and there must be no disconnect switches for 
-the branch circuits.
+each deck level. The distribution panel must be above the uppermost 
+continuous deck, in the zone served, and there must be no disconnect 
+switches for the branch circuits.
     (f) A branch circuit must not supply emergency alarm signal on more 
 than one deck level, except for a single branch circuit supplying all 
 levels of a single space containing more than one deck level if all 
@@ -24446,7 +24455,11 @@ bolted manhole covers, duct keels with valve operators; and
     (b) Be audible in the spaces identified in paragraph (a) of this 
 section with all normally closed doors and accesses closed; and
     (c) Be installed in cabins without loudspeaker installation. Other 
-audible devices, such as electronic alarm transducers, are permitted.
+audible
+
+[[Page 266]]
+
+devices, such as electronic alarm transducers, are permitted.
 
 [CGD 74-125A, 47 FR 15272, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28288, June 4, 1996]
@@ -24497,12 +24510,8 @@ current.
 Sec. 113.25-12  Alarm signals.
 
     (a) Each general emergency alarm signal must be an electrically-
-operated
-
-[[Page 266]]
-
-bell, klaxon, or other warning device capable of producing a signal or 
-tone distinct from any other audible signal on the vessel.
+operated bell, klaxon, or other warning device capable of producing a 
+signal or tone distinct from any other audible signal on the vessel.
     (b) Electronic devices used to produce the general emergency alarm 
 signal must meet the requirements of subpart 113.50 of this part.
     (c) The minimum sound pressure levels for the emergency alarm tone 
@@ -24552,8 +24561,11 @@ Sec. 113.25-20  Marking of equipment.
 distribution panel must have a fixed nameplate on the outside of its 
 cover that has a description of its function. The rating of fuses must 
 also be shown on the outside of the cover of a fused switch.
+
+[[Page 267]]
+
     (b) Each general alarm contact maker must be marked ``GENERAL 
-ALARM'' in red letters on a corrision-resistant plate or on a sign.
+ALARM'' in red letters on a corrosion-resistant plate or on a sign.
     (c) A contact maker that operates only the general emergency alarm 
 signal in crew quarters, machinery spaces, and work spaces must be 
 marked ``CREW ALARM'' by the method described in paragraph (b) of this 
@@ -24590,12 +24602,8 @@ the requirements of Subpart 113.25, except as follows:
     (a) The number and location of contact makers must be determined by 
 the design, service, and operation of the barge.
     Note: Contact makers in the primary work area, quarters area, galley 
-and mess area,
-
-[[Page 267]]
-
-machinery spaces, and the navigating bridge or control area should be 
-considered.
+and mess area, machinery spaces, and the navigating bridge or control 
+area should be considered.
     (b) If a distribution panel cannot be above the uppermost continuous 
 deck because of the design of the barge and is installed below the deck, 
 it must be as near the deck as practicable.
@@ -24648,6 +24656,8 @@ independent of the vessel's electrical system.
 
 [CGD 94-108, 61 FR 28289, June 4, 1996]
 
+[[Page 268]]
+
 
 <R05>
 Sec. 113.30-5  Requirements.
@@ -24679,18 +24689,14 @@ and the emergency equipment lockers or spaces.
     (e) Radio and radio direction finder. Communication to the radio and 
 radio direction finder must meet the following requirements:
     (1) Each vessel that has a radio installation must have a means of 
-comunication between the radio room, the navigating bridge, or, if the 
+communication between the radio room, the navigating bridge, or, if the 
 vessel is a mobile offshore drilling unit, the control room, and any 
 other place from which the vessel may be navigated under normal 
 conditions, other than a place that is only for emergency functions, a 
 place that is only for docking or maneuvering, or a place that is for 
 navigating the vessel in close quarters. A location that has the 
-apparatus that is necessary to steer the vessel, give
-
-[[Page 268]]
-
-engine orders, and control the whistle, is a place from which the vessel 
-may be navigated.
+apparatus that is necessary to steer the vessel, give engine orders, and 
+control the whistle, is a place from which the vessel may be navigated.
     (2) If the operating position of the emergency radio installation is 
 not in the compartment normally used for operating the main radio 
 installation, there must be means of communication between the emergency 
@@ -24724,6 +24730,9 @@ Sec. 113.35-3. Each communication station at a local control station
 must--
     (1) Be on a circuit separate from any other station required by this 
 section; and
+
+[[Page 269]]
+
     (2) Provide the capability of reliable voice communication when the 
 vessel is underway.
     (i) Mobile offshore drilling units. Each non-self-propelled mobile 
@@ -24767,12 +24776,8 @@ Sec. 113.30-25  Detailed requirements.
 wired handset with a push-to-talk button and a hanger for the handset, 
 except those stations detailed in paragraph (d) of this section. The 
 hanger must be constructed so that it holds the handset away from the 
-bulkhead
-
-[[Page 269]]
-
-and so that the handset will not be dislodged by the motion of the 
-vessel.
+bulkhead and so that the handset will not be dislodged by the motion of 
+the vessel.
     (b) Each voice communication station device in the weather must be 
 in a proper enclosure as required in Sec. 111.01-9 of this chapter. The 
 audible signal device must be outside the station enclosure.
@@ -24813,6 +24818,9 @@ FR 36787, July 12, 1996, as amended at 62 FR 23910, May 1, 1997]
 Sec. 113.35-1  Definitions.
 
     As used in this subpart:
+
+[[Page 270]]
+
     (a) Indicator means an instrument in the engine room to receive and 
 acknowledge engine orders; and
     (b) Transmitter means an instrument to send engine orders to the 
@@ -24856,9 +24864,6 @@ Sec. 113.35-5  Electric engine order telegraph systems.
     (a) Each electric engine order telegraph system must have 
 transmitters and indicators that are electrically connected to each 
 other.
-
-[[Page 270]]
-
     (b) Each engineroom indicator must be capable of acknowledgment of 
 orders.
     (c) There must be an audible signal at each instrument. The signal 
@@ -24898,6 +24903,9 @@ handle automatically connects that transmitter electrically to the
 engineroom indicator and simultaneously disconnects electrically all 
 other transmitters. The reply pointers of all transmitters must operate 
 in synchronism at all times.
+
+[[Page 271]]
+
     (d) On a double-ended vessel that has two navigating bridges, a 
 manually operated transfer switch which will disconnect the system in 
 the unattended navigating bridge must be provided.
@@ -24946,12 +24954,8 @@ Sec. 113.35-17  Vessels with navigating bridge control.
 
     Each vessel with navigating bridge throttle control must have a 
 positive mechanical stop on each telegraph transmitter that prevents 
-movement
-
-[[Page 271]]
-
-to the ``Navigating Bridge Control'' position without positive action by 
-the operator.
+movement to the ``Navigating Bridge Control'' position without positive 
+action by the operator.
 
 [CGD 74-125A, 47 FR 15272, Apr. 8, 1982, as amended by CGD 94-108, 61 FR 
 28290, June 4, 1996]
@@ -25010,8 +25014,11 @@ Sec. 113.40-5  General requirements.
     The position of the rudder, if power-operated, must be shown at the 
 principal steering station. If there is non-follow-up steering control 
 at the alternative steering station, there must be a separate rudder 
-angle indicator system for that station that is electrically independent 
-from each other rudder angle indicator system.
+angle indicator system for that station that is electrically
+
+[[Page 272]]
+
+independent from each other rudder angle indicator system.
 
 
 <R05>
@@ -25049,7 +25056,7 @@ Sec. 113.43-3  Alarm system.
     (a) Each vessel must have a steering failure alarm system that 
 actuates an audible and visible alarm in the pilothouse when the actual 
 position of the rudder differs by more than 5 degrees from the rudder 
-position ordered by the followup contol systems, required by part 58, 
+position ordered by the followup control systems, required by part 58, 
 subpart 58.25, of this chapter, for more than:
     (1) 30 seconds for ordered rudder position changes of 70 degrees;
     (2) 6.5 seconds for ordered rudder position changes of 5 degrees; 
@@ -25062,10 +25069,6 @@ t = (R/2.76)+4.64
 Where
 t = maximum time delay in seconds
 R = ordered rudder change in degrees
-
-
-[[Page 272]]
-
 
     (b) The alarm system must be separate from, and independent of, each 
 steering gear control system, except for input received from the 
@@ -25123,6 +25126,8 @@ emergency alarm system in accordance with Sec. 113.25-1.
 
 [CGD 94-108, 61 FR 28290, June 4, 1996]
 
+[[Page 273]]
+
 
 <R05>
 Sec. 113.50-5  General requirements.
@@ -25166,9 +25171,6 @@ broadcasting separately or collectively to the following stations:
     (a) Survival craft stations, port.
     (b) Survival craft stations, starboard.
     (c) Survival craft embarkation stations, port.
-
-[[Page 273]]
-
     (d) Survival craft embarkation stations, starboard.
     (e) Public spaces used for passenger assembly points.
     (f) Crew quarters.
@@ -25213,6 +25215,9 @@ arrangement of the vessel, only one zone feeder is necessary, a branch
 circuit distribution panel must be used.
     (b) The feeder distribution panel must be in an enclosed space next 
 to the public address system power supply.
+
+[[Page 274]]
+
     (c) Each system must have at least one feeder for each vertical fire 
 zone.
     (d) Each system must have one or more branch circuit distribution 
@@ -25817,6 +25822,7 @@ Inspection and testing:
 Annual or biennial..............................................110.30-5
 General.........................................................110.30-1
 Initial.........................................................110.30-3
+Inspection for certification....................................110.30-5
 Repairs or alterations..........................................110.30-7
 Institute of Electrical and Electronics Engineers (IEEE): 
 Standards
@@ -25831,11 +25837,11 @@ Locations.......................................................113.30-5
 International Association of Drilling Contractors (IADC): 
 Standards
                                                              110.10-1(b)
-International Electrotechnical Commission (IEC): Standards
-                                                             110.10-1(b)
 
 [[Page 283]]
 
+International Electrotechnical Commission (IEC): Standards
+                                                             110.10-1(b)
 International Maritime Organization (IMO): Standards
                                                              110.10-1(b)
 International Society for Measurement and Control (ISA): Standards
@@ -25912,12 +25918,12 @@ Marine inspector, definition of
 Marking:
 General emergency alarm system components......................113.25-20
 Motors..........................................................111.25-5
-Masts, grounding of
-                                                                111.05-9
-Meters. (See Instruments)
 
 [[Page 284]]
 
+Masts, grounding of
+                                                                111.05-9
+Meters. (See Instruments)
 Military Specifications: Standards
                                                              110.10-1(b)
 Mobile offshore drilling units: Hazardous location
@@ -25993,11 +25999,11 @@ Grounded conductors..........................................111.50-3(g)
 Location of devices.............................................111.50-5
 Motors and motor circuits.........................................111.70
 Navigation lights..............................................111.75-17
-Parallel devices.............................................111.50-3(d)
-Propulsion circuits...............................................111.35
 
 [[Page 285]]
 
+Parallel devices.............................................111.50-3(d)
+Propulsion circuits...............................................111.35
 Switchboard circuits...........................................111.30-17
 Systems integration.............................................111.50-2
 Thermal devices..............................................111.50-3(e)
@@ -26073,15 +26079,14 @@ Rudder angle indicator systems
                                                                   113.40
 Power supply for.............................................112.15-5(h)
 
+[[Page 286]]
+
                                  S
 
 Seals and seal fittings
                                                               111.105-17
 Semiconductor rectifiers (SCR)
                                                                   111.33
-
-[[Page 286]]
-
 Propulsion systems.............................................111.33-11
 Switchboard requirements........................................111.33-1
 Temperature alarm....................................111.33-7, 111.33-11
@@ -26151,14 +26156,14 @@ Bus sectionalizing.............................................111.30-24
 Circuit connections.............................................111.55-3
 Emergency lighting system.......................................112.43-1
 General.........................................................111.55-1
+
+[[Page 287]]
+
 Generator.....................................111.30-25(b), 111.30-27(b)
 Hazardous locations...........................................111.105-19
 Lifeboat..........................................................111.95
 Synchronizing lamps
                                                             111.30-25(d)
-
-[[Page 287]]
-
 Synchroscope
                                                             111.30-25(d)
 
@@ -26237,13 +26242,13 @@ Watertight door systems
                                                                   111.97
 Applicability...................................................111.97-1
 Distribution....................................................111.97-7
+
+[[Page 288]]
+
 Electric and hydraulic power supply.............................111.97-5
 General requirements............................................111.97-3
 Lighting........................................112.15-1(c), 112.15-1(e)
 Overcurrent protection..........................................111.97-9
-
-[[Page 288]]
-
 Power source.................................................112.15-1(i)
 Watertight equipment
                                                                 111.01-9
@@ -26281,8 +26286,6 @@ Emergency lighting..............................112.15-1(c), 112.15-1(f)
 <R03>
 SUBCHAPTER K--SMALL PASSENGER VESSELS CARRYING MORE THAN 150 PASSENGERS 
       OR WITH OVERNIGHT ACCOMMODATIONS FOR MORE THAN 49 PASSENGERS
-
-<R05>
 
 
 <R03>
@@ -26333,9 +26336,10 @@ owner or the owner's representative; or
     (3) If a submersible vessel, carries at least one passenger for 
 hire.
 
-    Note to paragraph (a): For a vessel of less than 100 gross tons that 
-carries 150 or less passengers or has overnight accommodations for 49 or 
-less passengers, see subchapter T of this chapter.
+    Note to paragraph (a):
+    For a vessel of less than 100 gross tons that carries 150 or less 
+passengers or has overnight accommodations for 49 or less passengers, 
+see subchapter T of this chapter.
 
     (b) This subchapter does not apply to:
     (1) A vessel operating exclusively on inland waters that are not 
@@ -26375,15 +26379,16 @@ vessel to which certain portions of that part apply or particular dates
 by which an existing vessel must comply with certain portions of that 
 part.
 
-[[Page 290]]
-
 
 <R05>
 Sec. 114.120  Vessels on an international voyage.
 
     A mechanically propelled vessel that carries more than 12 passengers 
-on an international voyage must comply with the applicable requirements 
-of SOLAS as well as this subchapter.
+on an international voyage must comply
+
+[[Page 290]]
+
+with the applicable requirements of SOLAS as well as this subchapter.
 
 
 <R05>
@@ -26459,13 +26464,13 @@ and the watertight shell extend.
     Cable means single or multiple insulated conductors with an outer 
 protective jacket.
     Cargo space (11) means a:
-
-[[Page 291]]
-
     (1) Cargo hold;
     (2) Refrigerated cargo space;
     (3) A trunk leading to or from a space listed above; or
     (4) A vehicle space.
+
+[[Page 291]]
+
     Char length means the numeric value in inches assigned to a material 
 when tested in accordance with NFPA 261 by an independent laboratory.
     Coast Guard District Commander or District Commander means an 
@@ -26535,14 +26540,14 @@ devices or other panels.
 vessel amidships to the waterline.
     Dripproof means enclosed equipment so constructed or protected that 
 falling drops of liquid or solid particles striking the enclosure at any 
-angle from 0 to 15 degrees downward from the
+angle from 0 to 15 degrees downward from the vertical do not interfere 
+with the operation of the equipment. A National Electrical Manufacturers 
+Association type 1 enclosure with a dripshield is considered to be 
+dripproof.
+    Embarkation deck (4) means;
 
 [[Page 292]]
 
-vertical do not interfere with the operation of the equipment. A 
-National Electrical Manufacturers Association type 1 enclosure with a 
-dripshield is considered to be dripproof.
-    Embarkation deck (4) means;
     (1) The deck from which davit launched survival craft are designed 
 to be boarded; or
     (2) If no davit launched survival craft are carried aboard the 
@@ -26613,12 +26618,12 @@ Certificate (formerly Certificate of Admeasurement).
     Harbor of safe refuge means a port, inlet, or other body of water 
 normally sheltered from heavy seas by land and in which a vessel can 
 navigate and safely moor. The cognizant Officer in Charge, Marine 
-Inspection, shall determine the suitability of a location as a
+Inspection, shall determine the suitability of a location as a harbor of 
+safe refuge. The suitability will vary for each vessel, depending on the 
+vessel's size, maneuverability, and mooring gear.
 
 [[Page 293]]
 
-harbor of safe refuge. The suitability will vary for each vessel, 
-depending on the vessel's size, maneuverability, and mooring gear.
     Hardwood means oak or a similar wood with a specific gravity of 
 approximately 0.6 and having fire resistant properties similar to oak.
     Hazardous condition means any condition that could adversely affect 
@@ -26687,13 +26692,13 @@ waters:
     (3) A sound; or
     (4) Such other similar waters as may be designated by a Coast Guard 
 District Commander.
-
-[[Page 294]]
-
     Launching appliance means a device for transferring a survival craft 
 or rescue boat from its stowed position safely to the water. For a 
 launching appliance using a davit, the term includes the davit winch, 
 and falls.
+
+[[Page 294]]
+
     Length when used in terms of the vessel's length (excluding bow 
 sprits, bumpkins, rudders, outboard motor brackets, handles, and other 
 similar fittings, attachments, and extensions), means:
@@ -26761,13 +26766,14 @@ vessel.
     Marine inspector or inspector means any civilian employee or 
 military member of the Coast Guard assigned by an Officer in Charge. 
 Marine Inspection, or the Commandant to perform duties with respect to 
-the inspection, enforcement, and administration of
+the inspection, enforcement, and administration of vessel safety and 
+navigation laws and regulations.
+    Master means the individual having command of the vessel and who is 
+the
 
 [[Page 295]]
 
-vessel safety and navigation laws and regulations.
-    Master means the individual having command of the vessel and who is 
-the holder of a valid license that authorizes the individual to serve as 
+holder of a valid license that authorizes the individual to serve as 
 master of a small passenger vessel.
     Means of escape means a continuous and unobstructed way of exit 
 travel from any point in a vessel to an embarkation station or area of 
@@ -26834,13 +26840,13 @@ for extended periods. Staterooms, cabins, and berthing areas are
 normally overnight accommodation spaces. Overnight accommodations do not 
 include spaces that contain only seats, including reclining seats.
     Pantry means a space used for food storage, and may include 
-microwaves or other low heat [not exceeding 121 deg.C
+microwaves or other low heat [not exceeding 121 deg.C (250 deg.F)] 
+appliances for food preparation.
+    Partially enclosed space means a compartment that is neither open to 
+the atmosphere nor an enclosed space.
 
 [[Page 296]]
 
-(250 deg.F)] appliances for food preparation.
-    Partially enclosed space means a compartment that is neither open to 
-the atmosphere nor an enclosed space.
     Partially protected waters is a term used in connection with 
 stability criteria and means:
     (1) Waters not more than 20 nautical miles from a harbor of safe 
@@ -26912,12 +26918,12 @@ navigational, and communications loads.
     Short international voyage means an international voyage where:
     (1) The vessel is not more than 200 nautical miles from a port or 
 place in which the passengers and crew could be placed in safety; and
+    (2) The total distance between the last port of call in the country 
+in which the voyage began and the final
 
 [[Page 297]]
 
-    (2) The total distance between the last port of call in the country 
-in which the voyage began and the final port of destination does not 
-exceed 600 nautical miles.
+port of destination does not exceed 600 nautical miles.
     Smoke developed rating means the numeric value assigned to a 
 material when tested in accordance with ASTM E 84 (incorporated by 
 reference, see Sec. 114.600) or UL 723 by an independent laboratory.
@@ -26983,13 +26989,14 @@ the weather from above or from at least two sides.
 condition, except that ``weathertight equipment'' means equipment 
 constructed or protected so that exposure to a beating rain will not 
 result in the entrance of water.
+    Well deck vessel means a vessel with a weather deck fitted with 
+solid bulwarks that impede the drainage of water over the sides or a 
+vessel with an
 
 [[Page 298]]
 
-    Well deck vessel means a vessel with a weather deck fitted with 
-solid bulwarks that impede the drainage of water over the sides or a 
-vessel with an exposed recess in the weather deck extending more than 
-one-half of the length of the vessel measured over the weather deck.
+exposed recess in the weather deck extending more than one-half of the 
+length of the vessel measured over the weather deck.
     Wire means an individual insulated conductor without an outer 
 protective jacket.
     Work space means a space, not normally occupied by a passenger, in 
@@ -27072,10 +27079,10 @@ subchapter and the sections affected are:
                  American Boat and Yacht Council (ABYC)
 
 3069 Solomons Island Road, Edgewater, MD 21037
+A-1-93--Marine Liquified Petroleum Gas (LPG) Systems.............121.240
 
 [[Page 299]]
 
-A-1-93--Marine Liquified Petroleum Gas (LPG) Systems.............121.240
 A-3-93--Galley Stoves............................................121.200
 A-7-70--Boat Heating Systems.....................................121.200
 A-22-93--Marine Compressed Natural Gas (CNG) Systems.............121.240
@@ -28405,7 +28412,7 @@ maintenance procedures, and hydrostatic pressure tests.
 
 
 
-  Table 115.810(b).--Semiportable and Fixed Fire Extinguishing Systems
+   Table 115.810(b)--Semiportable and Fixed Fire Extinguishing Systems
 ------------------------------------------------------------------------
          Type system                              Test
 ------------------------------------------------------------------------
@@ -35712,6 +35719,7 @@ Certificate of inspection:
 Amendment........................................................115.120
 Application for..................................................115.105
 Compliance with provisions of....................................122.315
+Conditions of validity...........................................115.502
 Description......................................................115.103
 How to obtain or renew...........................................115.105
 Passengers permitted.............................................115.113
@@ -35742,11 +35750,11 @@ Coast Guard District Commander, definition
                                                                  114.400
 Coast Pilot
                                                                  121.420
-Coastwise, definition
-                                                                 114.400
 
 [[Page 399]]
 
+Coastwise, definition
+                                                                 114.400
 Cockpit vessel, definition
                                                                  114.400
 Cold water, definition
@@ -35822,11 +35830,11 @@ Storage room, location on instructions........................118.410(c)
 
 Dead cover, definition
                                                                  114.400
-Deck area criterion
-                                                           115.113(b)(2)
 
 [[Page 400]]
 
+Deck area criterion
+                                                           115.113(b)(2)
 Deck coverings
                                                                  116.425
 Deck rails
@@ -35896,11 +35904,11 @@ Electrical material inspection
                                                                  115.806
 Electronic position fixing devices
                                                                  121.410
-Elevators
-                                                        116.438, 120.540
 
 [[Page 401]]
 
+Elevators
+                                                        116.438, 120.540
 Embarkation deck, definition
                                                                  114.400
 Embarkation station, definition
@@ -35988,11 +35996,11 @@ Inspection requirements..........................................115.810
 Structural fire protection.......................................116.430
 Fire pumps
                                                                  118.300
-First aid kits
-                                                                 121.710
 
 [[Page 402]]
 
+First aid kits
+                                                                 121.710
 Fixed seating criterion
                                                                  115.113
 Flame spread, definition
@@ -36079,10 +36087,10 @@ Heaters, water
 Heating and cooking:
 Equipment...............................................121.210, 121.220
 Gas systems......................................................121.240
-General..........................................................121.200
 
 [[Page 403]]
 
+General..........................................................121.200
 Restrictions.....................................................121.202
 Structural fire protection.......................................116.430
 High risk accommodation space, definition
@@ -36156,12 +36164,12 @@ Insulation other than for structural fire protection
                                                                  116.430
 Interior finish, definition
                                                                  114.400
-International Convention for Safety of Life at Sea, 1974 (SOLAS): 
-Applicability
-                                                        114.120, 115.900
 
 [[Page 404]]
 
+International Convention for Safety of Life at Sea, 1974 (SOLAS): 
+Applicability
+                                                        114.120, 115.900
 International Maritime Organization (IMO)
                                                                  114.600
 International voyage, definition
@@ -36239,11 +36247,11 @@ Life jackets, number required.....................................117.71
 Life jackets, type required.......................................117.71
 Marking.......................................................122.604(b)
 Personal flotation devices carried in addition to life jackets....117.72
-Pyrotechnic distress signals......................................117.68
-Rescue boats.....................................................117.210
 
 [[Page 405]]
 
+Pyrotechnic distress signals......................................117.68
+Rescue boats.....................................................117.210
 Ring life buoys and water lights..................................117.70
 Stowage of life floats and buoyant apparatus.....................117.137
 Stowage of life jackets...........................................117.78
@@ -36323,11 +36331,11 @@ Portable watertight container for distress flares and smoke
 signals..........................................................122.614
 Watertight doors and watertight hatches..........................122.610
 Master:
-Definition.......................................................114.400
-Duties:
 
 [[Page 406]]
 
+Definition.......................................................114.400
+Duties:
 Accidents to machinery...........................................122.208
 Alcohol or drug use by individuals directly involved in casualties
                                                                  122.210
@@ -36408,13 +36416,13 @@ Open to the atmosphere, definition
                                                                  114.400
 Operating station, definition
                                                                  114.400
+
+[[Page 407]]
+
 Operating station visibility
                                                                 116.1030
 Outlets, discharge
                                                        118.410(f)(4)(iv)
-
-[[Page 407]]
-
 Overnight accommodations (space), definition
                                                                  114.400
 Overnight accommodations for more than 49 passengers
@@ -36502,14 +36510,14 @@ Propulsion machinery
                                                         119.200, 119.220
 Protected waters, definition
                                                                  114.400
+
+[[Page 408]]
+
 Protection against hot piping
                                                                  116.970
 Public address system
                                                                  121.610
 Pumps:
-
-[[Page 408]]
-
 Bilge............................................................119.520
 Fire, power......................................................118.300
 Pyrotechnic distress signals
@@ -36614,15 +36622,15 @@ Steering apparatus
                                                                  115.814
 Steering gear tests
                                                                  122.320
+
+[[Page 409]]
+
 Stepped main vertical zone, definition
                                                                  114.400
 Storm rails
                                                                  116.920
 Structural standards
                                                         116.300, 116.330
-
-[[Page 409]]
-
 Survival craft, definition
                                                                  114.400
 Survival craft embarkation arrangements
@@ -36687,6 +36695,8 @@ Of the United States, definition.................................114.400
 On an international voyage.......................................114.120
 Subject to the requirements of International Convention for Safety 
 of Life at Sea, 1974, (SOLAS)...........................115.900, 115.920
+Vessel control systems
+                                                                Part 121
 Voyages, international:
 Hull markings on vessels.........................................122.602
 Passengers.......................................................115.900
@@ -36698,6 +36708,9 @@ Voyages, retaining of records of
 
 Warm water, definition
                                                                  114.400
+
+[[Page 410]]
+
 Watchmen, duties of
                                                                  122.410
 Water heaters
@@ -36706,9 +36719,6 @@ Waterlights
                                                       117.70, 117.175(e)
 Watertight, definition
                                                                  114.400
-
-[[Page 410]]
-
 Watertight bulkheads/doors
                                 115.402(d)(5), 119.500, 122.330, 122.610
 Watertight doors and watertight hatches, markings on
@@ -36748,8 +36758,6 @@ Work vests
 
 <R03>
                   SUBCHAPTER L--OFFSHORE SUPPLY VESSELS
-
-<R05>
 
 
 <R03>
@@ -37757,15 +37765,15 @@ periodic inspection will take the place of an annual inspection.
     (1) You must contact the cognizant OCMI to schedule an inspection at 
 a time and place which he or she approves. No written application is 
 required.
-    (2) The scope of the periodic inspection is the same as that for the 
-inspection for certification, as specified in Sec. 126.430. The OCMI 
-will insure that the
 
 [[Page 422]]
 
-vessel is in satisfactory condition and fit for the service for which it 
-is intended. If your vessel passes the periodic inspection, the marine 
-inspector will endorse your current Certificate of Inspection.
+    (2) The scope of the periodic inspection is the same as that for the 
+inspection for certification, as specified in Sec. 126.430. The OCMI 
+will insure that the vessel is in satisfactory condition and fit for the 
+service for which it is intended. If your vessel passes the periodic 
+inspection, the marine inspector will endorse your current Certificate 
+of Inspection.
     (3) If the periodic inspection reveals deficiencies in your vessel's 
 maintenance, you must make any or all repairs or improvements within the 
 time period specified by the OCMI.
@@ -37836,14 +37844,13 @@ describing the conditions found. This report must contain sufficient
 detail to let the OCMI determine whether the vessel is fit for the 
 service and route specified on the Certificate of Inspection. This 
 report must include all reports and receipts documenting the servicing 
-of lifesaving equipment and any photographs or sketches necessary to 
-clarify unusual circumstances. Each person preparing this report must 
-sign
+of lifesaving equipment and
 
 [[Page 423]]
 
-it and certify that the information contained therein is complete and 
-accurate.
+any photographs or sketches necessary to clarify unusual circumstances. 
+Each person preparing this report must sign it and certify that the 
+information contained therein is complete and accurate.
     (4) Unless the master of the vessel participated in the alternative 
 annual inspection and the preparation of the comprehensive report, the 
 master will review the report for completeness and accuracy. The master 
@@ -38980,8 +38987,8 @@ in refrigerated compartments;
 in the tank; and
     (9) Have sheathing or wire insulation compatible with the fluid in a 
 tank, when installed to comply with paragraph (b)(8) of this section.
-    (c) Cable and wire in power and lighting circuits must be #14 AWG or 
-larger. Cable and wire in control and indicator circuits must be #22 AWG 
+    (c) Cable and wire in power and lighting circuits must be 14 AWG or 
+larger. Cable and wire in control and indicator circuits must be 22 AWG 
 or larger, or be ribbon cable or similar, smaller, conductor-size cable 
 recommended by the equipment manufacturer for use in circuits for low-
 power instrumentation, monitoring, or control.
@@ -41264,8 +41271,12 @@ violating marine-safety statutes or regulations.
 Sec. 131.910  Notices to mariners and aids to navigation.
 
     Each master and mate shall acquaint himself or herself with the 
-latest information published by the Coast Guard and the U.S. Navy 
-regarding aids to navigation in the area in which the vessel operates.
+latest information published by the Coast Guard and the National Imagery 
+and Mapping Agency regarding aids to navigation in the area in which the 
+vessel operates.
+
+[CGD 82-004 and CGD 86-074, 62 FR 49340, Sept. 19, 1997, as amended by 
+USCG-2001-10224, 66 FR 48620, Sept. 21, 2001]
 
 
 <R05>
@@ -41289,12 +41300,13 @@ Sec. 131.925  Compliance with provisions of Certificate of Inspection.
 
     The master of the vessel shall ensure compliance with each provision 
 of the Certificate of Inspection. Nothing in this subchapter prevents 
-the master's diverting the vessel from the route prescribed in the 
-Certificate, or taking other steps necessary and prudent to
+the master's
 
 [[Page 460]]
 
-assist vessels in distress or to handle similar emergencies.
+diverting the vessel from the route prescribed in the Certificate, or 
+taking other steps necessary and prudent to assist vessels in distress 
+or to handle similar emergencies.
 
 
 <R05>
@@ -41404,12 +41416,12 @@ Sec. 131.980  Lookouts and watches.
 from the consequences of any neglect to keep a proper lookout or to 
 maintain a proper fire watch, or of any neglect of any precaution that 
 may be required by the ordinary practice of seamen, by general prudence, 
-or by the special circumstances of the case. Each master shall set added 
-watches when necessary to guard against fire or other danger
+or by the special circumstances of the case. Each master
 
 [[Page 461]]
 
-and to give an alarm in case of accident or disaster.
+shall set added watches when necessary to guard against fire or other 
+danger and to give an alarm in case of accident or disaster.
 
 
 <R03>
@@ -41508,11 +41520,11 @@ paragraph (a) of this section may be driven by one of the engines. If
 only one propulsion engine is installed, the pump must be driven by a 
 source of power independent of the engine.
     (e) If two fire pumps are installed, and if one pump remains 
-available for service on the fire main at any time, the other pump may 
-be used for other purposes.
+available for service on the fire main at any time,
 
 [[Page 462]]
 
+the other pump may be used for other purposes.
     (f) Each fire pump must be capable of providing the quantity of 
 water required to comply with paragraph (a) of this section while 
 meeting any other demands placed on it, as by a branch line connected to 
@@ -41649,7 +41661,7 @@ Table 132.220 of this section. The placement of each extinguisher must
 satisfy the cognizant OCMI, who may also deem added extinguishers 
 necessary for the proper protection of the vessel.
 
-                    Table 132.220.--Carriage of Portable and Semiportable Fire Extinguishers
+                     Table 132.220--Carriage of Portable and Semiportable Fire Extinguishers
 ----------------------------------------------------------------------------------------------------------------
                                              Classification (see Sec.
                   Space                              132.210)                     Number and placement
@@ -41814,7 +41826,7 @@ good general condition with no excessive corrosion; and
     (iv) Inspected and tested to determine that alarms and ventilation 
 shutdowns for each fire-extinguishing system operate properly.
 
-                   Table 132.350.--Tests of Semiportable and Fixed Fire-Extinguishing Systems
+                    Table 132.350--Tests of Semiportable and Fixed Fire-Extinguishing Systems
 ----------------------------------------------------------------------------------------------------------------
                      Type of system                                                Test
 ----------------------------------------------------------------------------------------------------------------
@@ -42904,7 +42916,7 @@ as in Sec. 199.175 of this chapter.
 consecutive because not all of the items listed in section 199.175 are 
 required on OSVs.
 
-                Table 133.175.--Survival Craft Equipment
+                 Table 133.175--Survival Craft Equipment
 ------------------------------------------------------------------------
                                      Oceans               Coastwise
                              -------------------------------------------
@@ -43628,7 +43640,7 @@ Lifejacket, definition
 Lifejackets, immersion suits, and ring life buoys
                                                                  131.875
 Lifesaving equipment
-                                                                 126.440
+                                                       126.440, Part 133
 Lifesaving systems
                                                        125.150, Part 133
 Liftboat:
@@ -44094,7 +44106,7 @@ Regulations which is published separately and revised annually.
 
             Material Approved for Incorporation by Reference
 
-                     (Revised as of October 1, 2000)
+                     (Revised as of October 1, 2001)
 
   The Director of the Federal Register has approved under 5 U.S.C. 
 552(a) and 1 CFR part 51 the incorporation by reference of the following 
@@ -44132,8 +44144,8 @@ P-1-93--Installation of Exhaust Systems for           116.405; 119.425;
 
 American Bureau of Shipping
 
-  Publications Dept., Two World Trade Center, 
-  106th. Floor, New York, NY 10048
+  Publications Department, ABS Plaza, 16855 
+  Northchase Drive, Houston, Texas 77060
 Guide for Building and Classing High-Speed Craft,       114.600; 116.300
   February, 1997.
 Rules for Building and Classing Mobile Offshore         108.113; 108.705
@@ -44193,8 +44205,8 @@ U.S. Supplement to ABS Rules for Steel Vessels for            91.15-5(b)
 
 American National Standards Institute (ANSI)
 
-  11 West 42nd. St., New York, NY 10036 Telephone: 
-  (212) 642-4900
+  25 West 43rd Street, Fourth floor, New York, NY 
+  10036 Telephone: (212) 642-4900
 ANSI Z89.1-1969 Industrial Head Protection........               108.497
 ANSI A14.3-1974 Fixed Ladders.....................               108.160
 ANSI/ASME A17.1 Safety Code for Elevators and         110.10-1; 111.91-1
@@ -44411,7 +44423,7 @@ IADC-DCCS-1/1991, Guidelines for Industrial System 110.10-1; 111.60-1(f)
 International Electrotechnical Commission (IEC)
 
   Bureau Central de la Commission Electrotechnique 
-  Internationale, 1 rue de Varembe, Geneva, 
+  Internationale, 3 rue de Varembe, Geneva, 
   Switzerland
 IEC 56, High-voltage alternating-current circuit                111.54-1
   breakers, Fourth Edition, 1987 (Including 
@@ -44494,10 +44506,19 @@ IEC 92-304, Electrical Installations in Ships,         110.10-1; 111.33-
 IEC 92-306, Electrical Installations in Ships,         110.10-1; 111.75-
   Part 306: Equipment--Luminaires and Accessories,    20(a); 111.81-1(d)
   1980.
+IEC 92-350, Electrical Installations in Ships,        110.10-1; 111.60-1
+  Part 350: Low-voltage Shipboard Power Cables--
+  General Construction and Test Requirements, 
+  1988, Amendment 1 (1994).
 IEC 92-352, Electrical Installations in Ships,         110.10-1; 111.60-
   Part 352: Choice and Installation of Cables for    3(a); 111.60-3(c); 
   Low-Voltage Power Systems, 1979, (with Amendment 111.60-5; 111.81-1(d)
   1, 1987 and Amendment 2, 1994).
+IEC 92-353, Electrical Installations in Ships,      110.10-1; 111.60-1; 
+  Part 353: Single and Multicore Non-radial Field               111.60-3
+  Power Cables with Extruded Solid Insulation for 
+  Rated Voltages 1kV and 3kV (1995-01) Second 
+  edition.
 IEC 92-401, Electrical Installations in Ships,                  111.05-9
   Part 401: Installation and Test of Completed 
   Installation, 1980.
@@ -44539,8 +44560,8 @@ IEC 533, Electromagnetic Compatibility of             110.10-1; 113.05-7
   Ships, 1977.
 IEC 947-2, Low-Voltage Switchgear and Controlgear,     110.10-1; 111.54-
   Part 2: Circuit Breakers, 1989 (including            1(b); 111.54-1(c)
-  Amendment 1, 1992 and Amendment 2, 1993).
-
+Amendment 1, 1992 and Amendment 2, 1993).
+[[Page 502]]
 
 Institute of Electrical and Electronics Engineers
 
@@ -44549,9 +44570,7 @@ Institute of Electrical and Electronics Engineers
 Standard 45-1977 Recommended Practice for               120.340; 125.180
   Electrical Installations on Shipboard.
 IEEE C 37.13 IEEE Standard for Low-Voltage AC                111.54-1(c)
-Power Circuit Breakers Used in Enclosures, 1990.
-[[Page 502]]
-
+  Power Circuit Breakers Used in Enclosures, 1990.
 No. 27-1974 Switchgear Assemblies Including Metal-             110.30-23
   Enclosed Bus (ANSI/IEEE C 37.20-69 and 
   Supplements).
@@ -44603,11 +44622,14 @@ Maritime Organization)
   Broadway, New York, NY 10013. Telephone: (212) 
   962-4522; FAX: (212) 406-8420
 Resolution A.264 (VIII)--Carriage of Grain, 1973..              93.20-05
+
+[[Page 503]]
+
 Resolution A.654 (XVI) Graphical Symbols for Fire       97.01-2; 97.36-1
   Control Plans, October 19, 1989.
 Resolution A.520(13), Code of Practice for the          108.101; 108.105
-Evaluation, Testing and Acceptance of Prototype 
-[[Page 503]]saving Appliances and Arrangements, 
+  Evaluation, Testing and Acceptance of Prototype 
+  Novel Life-saving Appliances and Arrangements, 
   17 November 1983.
 Resolution A.649(16), Code for the Construction         181.108; 181.503
   and Equipment of Mobile Offshore Drilling Units 
@@ -44675,7 +44697,9 @@ NEMA Standards Publication No. 2.3 1983,           110.10-1; 111.70-3(a)
   Centers, 1983.
 NEMA Standards Publication No. 2.4, NEMA and IEC       110.10-1; 111.70-
   Devices for Motor Service--A Guide for                           3(a).
-  Understanding the Differences, 1989.
+Understanding the Differences, 1989.
+[[Page 504]]
+
 NEMA Standards Publication No. 250, Enclosures for     110.10-1; 111.01-
   Electrical Equipment (1000 Volts Maximum), 1991.   9(a); 111.01-9(b); 
                                                     111.01-9(c); 111.01-
@@ -44684,9 +44708,6 @@ NEMA Standards Publication No. 250, Enclosures for     110.10-1; 111.01-
                                                       113.25-11; 113.30-
                                                    25(c); 113.30-25(h); 
                                                             113.40-10(b)
-
-[[Page 504]]
-
 NEMA Standards Publication No. WC-3, Rubber-           110.10-1; 111.60-
   Insulated Wire and Cable for the Transmission      13(a); 111.60-13(c)
   and Distribution of Electrical Energy, 1980 
@@ -44732,6 +44753,9 @@ NFPA 99 Standard for Health Care Facilities, 1997.  110.10-1; 111.105-37
 NFPA 496 Standard for Purged and Pressurized          110.10-1; 111.105-
   Enclosures for Electrical Equipment, 1993.                        7(b)
 NFPA 10-1994--Portable Fire Extinguishers.........      115.810; 132.350
+
+[[Page 505]]
+
 NFPA 13-1994--Installation of Sprinkler Systems...               116.439
 NFPA 13-1996--Installation of Sprinkler Systems...      114.600; 116.439
 NFPA 17-1994--Dry Chemical Extinguishing Systems..               118.425
@@ -44740,9 +44764,7 @@ NFPA 70-1993--National Electrical Code (NEC)......    120.320; 120.340;
                                                       120.370; 129.320; 
                                                         129.340; 129.370
 NFPA 92B-1991--Smoke Management Systems in Malls,                116.440
-Atria, and Large Areas.
-[[Page 505]]
-
+  Atria, and Large Areas.
 NFPA 92B-1995--Smoke Management Systems in Malls,       114.600; 116.440
   Atria, and Large Areas.
 NFPA 261-1994--Test for Determining Resistance of       114.400; 116.423
@@ -44800,6 +44822,9 @@ UL 486A-78 Electric Wire Connectors and Soldering  111.60-17(d); 111.60-
 UL 489 Standard for Molded Case Circuit-Breakers       110.10-1; 111.01-
   and Circuit-Breakers Enclosures, 1991 (revisions   15(c); 111.54-(b); 
   through June, 1995).                                       111.54-1(b)
+
+[[Page 506]]
+
 UL 498-79 (revisions through Jan. 1979) Electrical           111.79-1(d)
   Attachment Plugs and Attachment Plugs and 
   Receptacles.
@@ -44811,9 +44836,8 @@ UL 514B Standard for Fittings for Conduit and         110.10-1; 111.81-1
   Outlet Boxes, 1989 (revisions through April, 
   1995).
 UL 514C Standard for Nonmetallic Outlet Boxes,        110.10-1; 111.81-1
-Flush-Device Boxes, and Covers, 1988 (revisions 
-[[Page 506]]il, 1995).
-
+  Flush-Device Boxes, and Covers, 1988 (revisions 
+  through April, 1995).
 UL 595 Standard for Marine-Type Electric Lighting      110.10-1; 111.75-
   Fixtures, 1985 (revisions through September,                20(a), (e)
   1991).
@@ -44847,6 +44871,8 @@ UL 1203, Standard for Explosion-Proof and Dust-      110.10-1; 111.105-9
   (revisions through October 1995).
 UL 1236-78 (revisions and MSs through Feb. 1980)               111.15-30
   Electric Battery Chargers.
+UL 1309, Standard for Marine Shipboard Cable, July  110.10-1; 111.60-1; 
+  14, 1995.                                                     111.60-3
 UL 1569, Standard for Metal-Clad Cables, 1995          110.10-1; 111.60-
   (including revisions through April, 1996).                       23(a)
 UL 1570, Standard for Florescent Lighting            110.10-1; 111.75-20
@@ -44859,7 +44885,9 @@ UL 1572, Standard for High Intensity Discharge       110.10-1; 111.75-20
 UL 1573, Standard for Stage and Studio Lighting      110.10-1; 111.75-20
   Units, 1994 (revisions through February, 1995).
 UL 1574, Standard for Track Lighting Systems, 1995   110.10-1; 111.75-20
-  (revisions through July, 1995).
+(revisions through July, 1995).
+[[Page 507]]
+
 ANSI/UL 1581, Reference Standard for Electrical        110.10-1; 111.30-
   Wires, Cables, and Flexible Cords, 1991              19(b); 111.60-2; 
   (revisions through January, 1996).                         111.60-6(a)
@@ -44872,9 +44900,7 @@ UL 486A-1992--Wire Connectors and Soldering Lugs        120.340; 129.340
 UL 489-1995--Molded--Case Circuit Breakers and          120.380; 129.380
   Circut Breaker Enclosures.
 UL 595-1991--Marine Type Electric Lighting              120.410; 129.410
-Fixtures.
-[[Page 507]]
-
+  Fixtures.
 UL 710-1990, as amended through Sept. 16, 1993--                 118.425
   Exhaust Hoods for Commercial Cooking Equipment.
 UL 723-1993, as amended through April 20, 1994--      114.400; 116.422; 
@@ -44909,7 +44935,7 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
 
 <R04>
 
-                     (Revised as of October 1, 2000)
+                     (Revised as of October 1, 2001)
 
                       Title 1--General Provisions
 
@@ -44927,9 +44953,6 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
                            Title 4--Accounts
 
          I  General Accounting Office (Parts 1--99)
-        II  Federal Claims Collection Standards (General 
-                Accounting Office--Department of Justice) (Parts 
-                100--299)
 
                    Title 5--Administrative Personnel
 
@@ -44953,11 +44976,11 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
        XVI  Office of Government Ethics (Parts 2600--2699)
        XXI  Department of the Treasury (Parts 3100--3199)
       XXII  Federal Deposit Insurance Corporation (Part 3201)
+     XXIII  Department of Energy (Part 3301)
+      XXIV  Federal Energy Regulatory Commission (Part 3401)
 
 [[Page 510]]
 
-     XXIII  Department of Energy (Part 3301)
-      XXIV  Federal Energy Regulatory Commission (Part 3401)
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
     XXVIII  Department of Justice (Part 3801)
@@ -45001,6 +45024,8 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
     LXXVII  Office of Management and Budget (Part 8701)
 
                           Title 6--[Reserved]
+
+              
 
                          Title 7--Agriculture
 
@@ -45282,8 +45307,6 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
                 1100--1199)
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
-      XIII  Board for International Broadcasting (Parts 1300--
-                1399)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
@@ -45370,14 +45393,14 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
                 and Indian Health Service, Department of Health 
                 and Human Services (Part 900)
         VI  Office of the Assistant Secretary-Indian Affairs, 
-                Department of the Interior (Part 1001)
+                Department of the Interior (Parts 1000--1199)
        VII  Office of the Special Trustee for American Indians, 
                 Department of the Interior (Part 1200)
 
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
-                (Parts 1--799)
+                (Parts 1--899)
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -45394,6 +45417,12 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
         VI  Offices of Independent Counsel, Department of Justice 
                 (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
+      VIII  Court Services and Offender Supervision Agency for the 
+                District of Columbia (Parts 800--899)
+        IX  National Crime Prevention and Privacy Compact Council 
+                (Parts 900--999)
+        XI  Department of Justice and Department of State (Parts 
+                1100--1199)
 
                             Title 29--Labor
 
@@ -45404,6 +45433,9 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
         II  Office of Labor-Management Standards, Department of 
                 Labor (Parts 200--299)
        III  National Railroad Adjustment Board (Parts 300--399)
+
+[[Page 518]]
+
         IV  Office of Labor-Management Standards, Department of 
                 Labor (Parts 400--499)
          V  Wage and Hour Division, Department of Labor (Parts 
@@ -45411,9 +45443,6 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
         IX  Construction Industry Collective Bargaining Commission 
                 (Parts 900--999)
          X  National Mediation Board (Parts 1200--1299)
-
-[[Page 518]]
-
        XII  Federal Mediation and Conciliation Service (Parts 
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
@@ -45463,6 +45492,10 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
                 the Treasury (Parts 700--799)
       VIII  Office of International Investment, Department of the 
                 Treasury (Parts 800--899)
+        IX  Federal Claims Collection Standards (Department of the 
+                Treasury--Department of Justice) (Parts 900--999)
+
+[[Page 519]]
 
                       Title 32--National Defense
 
@@ -45470,9 +45503,6 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
          I  Office of the Secretary of Defense (Parts 1--399)
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
-
-[[Page 519]]
-
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
@@ -45524,11 +45554,11 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
+[[Page 520]]
+
                         Title 35--Panama Canal
 
          I  Panama Canal Regulations (Parts 1--299)
-
-[[Page 520]]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -45551,6 +45581,8 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
+       XVI  Morris K. Udall Scholarship and Excellence in National 
+                Environmental Policy Foundation (Parts 1600--1699)
 
              Title 37--Patents, Trademarks, and Copyrights
 
@@ -45577,6 +45609,11 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
         IV  Environmental Protection Agency and Department of 
                 Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
+        VI  Chemical Safety and Hazard Investigation Board (Parts 
+                1600--1699)
+
+[[Page 521]]
+
        VII  Environmental Protection Agency and Department of 
                 Defense; Uniform National Discharge Standards for 
                 Vessels of the Armed Forces (Parts 1700--1799)
@@ -45587,9 +45624,6 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
                 Contracts
         50  Public Contracts, Department of Labor (Parts 50-1--50-
                 999)
-
-[[Page 521]]
-
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
         60  Office of Federal Contract Compliance Programs, Equal 
@@ -45629,10 +45663,12 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
 
          I  Public Health Service, Department of Health and Human 
                 Services (Parts 1--199)
-        IV  Health Care Financing Administration, Department of 
-                Health and Human Services (Parts 400--499)
+        IV  Centers for Medicare & Medicaid Services, Department 
+                of Health and Human Services (Parts 400--499)
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
+
+[[Page 522]]
 
                    Title 43--Public Lands: Interior
 
@@ -45643,9 +45679,6 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
-
-[[Page 522]]
-
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10005)
 
@@ -45691,13 +45724,14 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
+
+[[Page 523]]
+
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
-
-[[Page 523]]
 
                           Title 46--Shipping
 
@@ -45744,6 +45778,9 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
+
+[[Page 524]]
+
         21  Office of Personnel Management, Federal Employees 
                 Group Life Insurance Federal Acquisition 
                 Regulation (Parts 2100--2199)
@@ -45753,9 +45790,6 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
-
-[[Page 524]]
-
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
         35  Panama Canal Commission (Parts 3500--3599)
@@ -45800,6 +45834,9 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
       VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
+
+[[Page 525]]
+
         XI  Bureau of Transportation Statistics, Department of 
                 Transportation (Parts 1400--1499)
 
@@ -45807,9 +45844,6 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
 
          I  United States Fish and Wildlife Service, Department of 
                 the Interior (Parts 1--199)
-
-[[Page 525]]
-
         II  National Marine Fisheries Service, National Oceanic 
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 200--299)
@@ -45847,7 +45881,7 @@ UL 1574-1995--Track Lighting Systems..............      120.410; 129.410
 
 <R04>
 
-                     (Revised as of October 1, 2000)
+                     (Revised as of October 1, 2001)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -45921,7 +45955,6 @@ Bilingual Education and Minority Languages        34, V
      Affairs, Office of
 Blind or Severely Disabled, Committee for         41, 51
      Purchase From People Who Are
-Board for International Broadcasting              22, XIII
 Broadcasting Board of Governors                   22, V
   Federal Acquisition Regulation                  48, 19
 Census Bureau                                     15, I
@@ -45974,17 +46007,19 @@ Copyright Office                                  37, II
 Corporation for National and Community Service    45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
+Court Services and Offender Supervision Agency    28, VIII
+     for the District of Columbia
 Customs Service, United States                    19, I
 Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
-  Army Department                                 32, V; 33, II; 36, III, 
-                                                  48, 51
 
 [[Page 529]]
 
+  Army Department                                 32, V; 33, II; 36, III, 
+                                                  48, 51
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
@@ -45997,6 +46032,8 @@ Defense Intelligence Agency                       32, I
 Defense Logistics Agency                          32, XII; 48, 54
 Defense Nuclear Facilities Safety Board           10, XVII
 Delaware River Basin Commission                   18, III
+District of Columbia, Court Services and          28, VIII
+     Offender Supervision Agency for the
 Drug Enforcement Administration                   21, II
 East-West Foreign Trade Board                     15, XIII
 Economic Affairs, Under Secretary                 37, V
@@ -46052,16 +46089,16 @@ Executive Office of the President                 3, I
 Export Administration, Bureau of                  15, VII
 Export-Import Bank of the United States           5, LII; 12, IV
 Family Assistance, Office of                      45, II
+
+[[Page 530]]
+
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
 Farm Service Agency                               7, VII, XVIII
 Federal Acquisition Regulation                    48, 1
-
-[[Page 530]]
-
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
-Federal Claims Collection Standards               4, II
+Federal Claims Collection Standards               31, IX
 Federal Communications Commission                 5, XXIX; 47, I
 Federal Contract Compliance Programs, Office of   41, 60
 Federal Crop Insurance Corporation                7, IV
@@ -46119,20 +46156,21 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-General Accounting Office                         4, I, II
+General Accounting Office                         4, I
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
-  Federal Property Management Regulations         41, 101
+  Federal Property Management Regulation          41, 101
   Federal Travel Regulation System                41, Subtitle F
+
+[[Page 531]]
+
   General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
        Expenses
   Payment of Expenses Connected With the Death    41, 303
-     of Certain Employees
-[[Page 531]]
-
+       of Certain Employees
   Relocation Allowances                           41, 302
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
@@ -46148,13 +46186,13 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Family Assistance, Office of                    45, II
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
-  Health Care Financing Administration            42, IV
+  Centers for Medicare & Medicaid Services        42, IV
   Human Development Services, Office of           45, XIII
   Indian Health Service                           25, V
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
-Health Care Financing Administration              42, IV
+Centers for Medicare & Medicaid Services          42, IV
 Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
   Community Planning and Development, Office of   24, V, VI
        Assistant Secretary for
@@ -46203,14 +46241,14 @@ Interior Department
   Federal Property Management Regulations System  41, 114
   Fish and Wildlife Service, United States        50, I, IV
   Geological Survey                               30, IV
+
+[[Page 532]]
+
   Indian Affairs, Bureau of                       25, I, V
   Indian Affairs, Office of the Assistant         25, VI
        Secretary
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
-
-[[Page 532]]
-
   Minerals Management Service                     30, II
   Mines, Bureau of                                30, VI
   National Indian Gaming Commission               25, III
@@ -46242,10 +46280,11 @@ Interstate Commerce Commission                    5, XL
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                5, XXVIII; 28, I; 40, IV
+Justice Department                                5, XXVIII; 28, I, XI; 40, 
+                                                  IV
   Drug Enforcement Administration                 21, II
   Federal Acquisition Regulation                  48, 28
-  Federal Claims Collection Standards             4, II
+  Federal Claims Collection Standards             31, IX
   Federal Prison Industries, Inc.                 28, III
   Foreign Claims Settlement Commission of the     45, V
        United States
@@ -46280,17 +46319,19 @@ Library of Congress                               36, VII
 Management and Budget, Office of                  5, III, LXXVII; 48, 99
 Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
+
+[[Page 533]]
+
 Merit Systems Protection Board                    5, II
 Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
 Mines, Bureau of                                  30, VI
-
-[[Page 533]]
-
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
+Morris K. Udall Scholarship and Excellence in     36, XVI
+     National Environmental Policy Foundation
 National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
@@ -46306,6 +46347,8 @@ National Commission on Libraries and Information  45, XVII
 National Council on Disability                    34, XII
 National Counterintelligence Center               32, XVIII
 National Credit Union Administration              12, VII
+National Crime Prevention and Privacy Compact     28, IX
+     Council
 National Drug Control Policy, Office of           21, III
 National Foundation on the Arts and the           45, XI
      Humanities
@@ -46350,6 +46393,9 @@ Overseas Private Investment Corporation           5, XXXIII; 22, VII
 Panama Canal Commission                           48, 35
 Panama Canal Regulations                          35, I
 Patent and Trademark Office, United States        37, I
+
+[[Page 534]]
+
 Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
@@ -46359,9 +46405,6 @@ Pennsylvania Avenue Development Corporation       36, IX
 Pension and Welfare Benefits Administration       29, XXV
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-
-[[Page 534]]
-
   Federal Acquisition Regulation                  48, 17
   Federal Employees Group Life Insurance Federal  48, 21
        Acquisition Regulation
@@ -46407,7 +46450,7 @@ Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
 Special Education and Rehabilitative Services,    34, III
      Office of
-State Department                                  22, I
+State Department                                  22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
 Surface Mining and Reclamation Appeals, Board of  30, III
 Surface Mining Reclamation and Enforcement,       30, VII
@@ -46427,6 +46470,9 @@ Transportation, Department of                     5, L
   Commercial Space Transportation                 14, III
   Contract Appeals, Board of                      48, 63
   Emergency Management and Assistance             44, IV
+
+[[Page 535]]
+
   Federal Acquisition Regulation                  48, 12
   Federal Aviation Administration                 14, I
   Federal Highway Administration                  23, I, II
@@ -46435,9 +46481,6 @@ Transportation, Department of                     5, L
   Federal Transit Administration                  49, VI
   Maritime Administration                         46, II
   National Highway Traffic Safety Administration  23, II, III; 49, V
-
-[[Page 535]]
-
   Research and Special Programs Administration    49, I
   Saint Lawrence Seaway Development Corporation   33, IV
   Secretary of Transportation, Office of          14, II; 49, Subtitle A
@@ -46446,7 +46489,8 @@ Transportation, Department of                     5, L
 Transportation, Office of                         7, XXXIII
 Transportation Statistics Brureau                 49, XI
 Travel Allowances, Temporary Duty (TDY)           41, 301
-Treasury Department                               5, XXI; 12, XV; 17, IV
+Treasury Department                               5, XXI; 12, XV; 17, IV; 
+                                                  31, IX
   Alcohol, Tobacco and Firearms, Bureau of        27, I
   Community Development Financial Institutions    12, XVIII
        Fund
@@ -48157,8 +48201,6 @@ Chapter I
 
                                   2000
 
-  (Regulations published from January 1, 2000, through October 1, 2000)
-
 46 CFR
                                                                    65 FR
                                                                     Page
@@ -48209,49 +48251,5 @@ Chapter I
 107.258  (a)(1) amended............................................58461
 107.260  (c)(2) amended.............................................6504
 107.269  Revised....................................................6504
-107.270  Added......................................................6504
-107.279  (b), (c) and (d) revised...................................6504
-107.283  Added......................................................6504
-107.317  (c) and (d) amended.......................................58461
-
-[[Page 558]]
-
-107.405  (b) amended................................................6504
-108  Effective date confirmation...................................10943
-108.427  (a) amended...............................................58462
-109  Effective date confirmation...................................10943
-109.563  (a)(6) amended............................................58462
-110  Authority citation revised.....................................6504
-    Effective date confirmation....................................10943
-110.10-1  (b) amended..............................................58462
-110.15-1  (b) amended..............................................58462
-110.30-5  Revised...................................................6504
-111  Effective date confirmation...................................10943
-111.97-3  Amended..................................................58462
-111.97-5  (b) amended..............................................58462
-114  Authority citation revised.....................................6504
-    Effective date confirmation....................................10943
-114.400  (b) amended.........................................6504, 58462
-114.600  (b) amended...............................................58462
-115  Authority citation revised.....................................6504
-115.105  (e) amended................................................6504
-115.107  Revised....................................................6504
-115.404  Existing text designated as (a); (b) added.................6504
-    (b) corrected..................................................11904
-115.500  Revised....................................................6505
-115.502  Revised....................................................6505
-115.812  (a) amended................................................6505
-116.405  (f) amended...............................................58462
-116.422  (b)(2) amended............................................58462
-116.423  (a)(4) introductory text amended..........................58462
-116.730  Amended...................................................58462
-118.410  (f)(4)(v) amended.........................................58462
-119  Effective date confirmation...................................10943
-119.422  Heading, (a) and (e) introductory text revised............58462
-121.240  Note added................................................58463
-125  Effective date confirmation...................................10943
-125.160  Amended....................................................6505
-125.180  (b) amended...............................................58463
-126  Authority citation revised.....................................6505
-126.250  Heading and (a) amended....................................65
+107.270  Added.........................
 </pre></body></html>
