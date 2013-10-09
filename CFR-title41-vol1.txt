@@ -1,49 +1,49 @@
 <html><body><pre>
 [Title 41 CFR ]
-[Code of Federal Regulations (annual edition) - July 1, 1999 Edition]
+[Code of Federal Regulations (annual edition) - July 1, 2000 Edition]
 [From the U.S. Government Printing Office]
 
 
-          41
-
-
-<R02>
-          Public Contracts and Property Management
-
-<R03>
 
 [[Page i]]
 
-          CHAPTERS 1 TO 100
+          
+<R02>
+                    41
 
-                         Revised as of July 1, 1999
 
-          CONTAINING
-          A CODIFICATION OF DOCUMENTS
-          OF GENERAL APPLICABILITY
-          AND FUTURE EFFECT
+          Chapters 1 to 100
 
-          AS OF JULY 1, 1999
+                         Revised as of July 1, 2000
+
+Public Contracts and Property Management
+
+<R03>
+
+
+
+          Containing a Codification of documents of general 
+          applicability and future effect
+          As of July 1, 2000
           With Ancillaries
           Published by
-          the Office of the Federal Register
+          Office of the Federal Register
           National Archives and Records
           Administration
 
-          as a Special Edition of
-          the Federal Register
+As a Special Edition of the Federal Register
 
 
 
 [[Page ii]]
 
-
+                                      
 
 
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 1999
+                            WASHINGTON : 2000
 
 
 
@@ -65,41 +65,30 @@
   Explanation.................................................       v
 
   Title 41:
-
     Subtitle A--Federal Procurement Regulations System [Note]
-
     Subtitle B--Other Provisions Relating to Public Contracts:
-
-          Chapter 50--Public Contracts, Department of Labor...        7
-
+          Chapter 50--Public Contracts, Department of Labor          7
           Chapter 51--Committee for Purchase from People who 
-          are Blind or Severely Disabled......................       43
-
+          are Blind or Severely Disabled                            45
           Chapter 60--Office of Federal Contract Compliance 
           Programs, Equal Employment Opportunity, Department 
-          of Labor............................................       89
-
+          of Labor                                                  91
           Chapter 61--Office of the Assistant Secretary for 
           Veterans' Employment and Training, Department of 
-          Labor...............................................      233
-
+          Labor                                                    235
           Chapters 62-100 [Reserved]
-
   Finding Aids:
-
-      Material Approved for Incorporation by Reference........     247
-
-      Table of CFR Titles and Chapters........................     249
-
-      Alphabetical List of Agencies Appearing in the CFR......     267
-
-      List of CFR Sections Affected...........................     277
+      Material Approved for Incorporation by Reference........     249
+      Table of CFR Titles and Chapters........................     251
+      Alphabetical List of Agencies Appearing in the CFR......     269
+      List of CFR Sections Affected...........................     279
 
 
 
 [[Page iv]]
 
 
+      
 
 
                      ----------------------------
@@ -150,7 +139,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, July 1, 1999), consult the ``List of CFR 
+revision date (in this case, July 1, 2000), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -258,7 +247,8 @@ volume, contact the issuing agency. The issuing agency's name appears at
 the top of odd-numbered pages.
     For inquiries concerning CFR reference assistance, call 202-523-5227 
 or write to the Director, Office of the Federal Register, National 
-Archives and Records Administration, Washington, DC 20408.
+Archives and Records Administration, Washington, DC 20408 or e-mail 
+info@fedreg.nara.gov.
 
 SALES
 
@@ -272,12 +262,13 @@ Customer Service call 202-512-1803.
 ELECTRONIC SERVICES
 
     The full text of the Code of Federal Regulations, The United States 
-Government Manual, the Federal Register, Public Laws, Weekly Compilation 
-of Presidential Documents and the Privacy Act Compilation are available 
-in electronic format at www.access.gpo.gov/nara (``GPO Access''). For 
-more information, contact Electronic Information Dissemination Services, 
-U.S. Government Printing Office. Phone 202-512-1530, or 888-293-6498 
-(toll-free). E-mail, gpoaccess@gpo.gov.
+Government Manual, the Federal Register, Public Laws, Public Papers, 
+Weekly Compilation of Presidential Documents and the Privacy Act 
+Compilation are available in electronic format at www.access.gpo.gov/
+nara (``GPO Access''). For more information, contact Electronic 
+Information Dissemination Services, U.S. Government Printing Office. 
+Phone 202-512-1530, or 888-293-6498 (toll-free). E-mail, 
+gpoaccess@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
@@ -288,7 +279,7 @@ site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-July 1, 1999.
+July 1, 2000.
 
 
 
@@ -326,12 +317,12 @@ F is issued by the General Services Administration.
     Title 41 is composed of four volumes. The chapters in these volumes 
 are arranged as follows: Chapters 1--100, chapter 101, chapters 102--
 200, and chapter 201 to End. These volumes represent all current 
-regulations codified under this title of the CFR as of July 1, 1999.
+regulations codified under this title of the CFR as of July 1, 2000.
 
     Redesignation tables appear in the finding aids section of the 
 volumes containing chapter 101 and chapters 102 to 200.
 
-    For this volume, Linda L. Jones was Chief Editor. The Code of 
+    For this volume, Jonn V. Lilyea was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
 Frances D. McDonald, assisted by Alomha S. Morris.
 
@@ -345,8 +336,9 @@ Frances D. McDonald, assisted by Alomha S. Morris.
 
 
 <R01>
+                     TITLE 41--PUBLIC CONTRACTS AND
+                           PROPERTY MANAGEMENT
 
-          TITLE 41--PUBLIC CONTRACTS AND PROPERTY MANAGEMENT
 
 <R02>
 
@@ -359,17 +351,17 @@ Frances D. McDonald, assisted by Alomha S. Morris.
 
         SUBTITLE B--Other Provisions Relating to Public Contracts
 
-Chapter 50--Public Contracts, Department of Labor...........      50-201
+chapter 50--Public Contracts, Department of Labor...........      50-201
 
-Chapter 51--Committee for Purchase From People Who are Blind 
+chapter 51--Committee for Purchase From People Who are Blind 
   or Severely Disabled......................................        51-1
 
-Chapter 60--Office of Federal Contract Compliance Programs, 
+chapter 60--Office of Federal Contract Compliance Programs, 
   Equal Employment Opportunity, Department of Labor.........        60-1
 
-Chapter 61--Office of the Assistant Secretary for Veterans' 
+chapter 61--Office of the Assistant Secretary for Veterans' 
   Employment and Training, Department of Labor..............      61-250
-Chapters 62--100  [Reserved]
+chapters 62--100  [Reserved]
 
 
 Cross References: Department of Defense Federal Acquisition Regulations, 
@@ -391,7 +383,7 @@ Cross References: Department of Defense Federal Acquisition Regulations,
                                                                         
 
 
-  Editorial Note: On September 19, 1983(48 FR 42103), a joint document 
+  Editorial Note: On September 19, 1983 (48 FR 42103), a joint document 
 issued by the General Services Administration, the Department of Defense 
 and the National Aeronautics and Space Administration, established a new 
 Federal Acquisition Regulation in title 48 of the Code of Federal 
@@ -425,23 +417,24 @@ apply to those contracts entered into prior to the adoption of the FAR.
 
 
 <R02>
+                      CHAPTER 50--PUBLIC CONTRACTS,
+                           DEPARTMENT OF LABOR
 
-           CHAPTER 50--PUBLIC CONTRACTS, DEPARTMENT OF LABOR
 
 <R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
-50-201          General regulations.........................           9
-50-202          Minimum wage determinations.................          16
-50-203          Rules of practice...........................          16
+50-201          General regulations.........................          11
+50-202          Minimum wage determinations.................          18
+50-203          Rules of practice...........................          18
 50-204          Safety and health standards for Federal 
-                    supply contracts........................          23
+                    supply contracts........................          25
 50-205          Enforcement of safety and health standards 
-                    by State officers and employees.........          39
+                    by State officers and employees.........          41
 50-210          Statements of general policy and 
                     interpretation not directly related to 
-                    regulations.............................          41
+                    regulations.............................          43
 
 [[Page 9]]
 
@@ -1130,7 +1123,7 @@ part.
 Sec. 50-202.2  Minimum wage in all industries.
 
     In all industries, the minimum wage applicable to employees 
-described in Sec.  50-201.102 of this chapter shall be not less than 
+described in Sec. 50-201.102 of this chapter shall be not less than 
 $3.35 per hour commencing January 1, 1981, $3.80 per hour commencing 
 April 1, 1990, and $4.25 per hour commencing April 1, 1991.
 
@@ -3373,29 +3366,30 @@ stations.)
 
 
 <R02>
+                   CHAPTER 51--COMMITTEE FOR PURCHASE
+                      FROM PEOPLE WHO ARE BLIND OR
+                            SEVERELY DISABLED
 
-    CHAPTER 51--COMMITTEE FOR PURCHASE FROM PEOPLE WHO ARE BLIND OR    
-                           SEVERELY DISABLED                           
 
 <R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
-51-1            General.....................................          45
+51-1            General.....................................          47
 51-2            Committee for Purchase From People Who Are 
-                    Blind or Severely Disabled..............          47
-51-3            Central nonprofit agencies..................          51
-51-4            Nonprofit agencies..........................          53
-51-5            Contracting requirements....................          55
-51-6            Procurement procedures......................          58
-51-7            Procedures for environmental analysis.......          64
-51-8            Public availabililty of agency materials....          66
-51-9            Privacy Act rules...........................          73
+                    Blind or Severely Disabled..............          49
+51-3            Central nonprofit agencies..................          53
+51-4            Nonprofit agencies..........................          55
+51-5            Contracting requirements....................          58
+51-6            Procurement procedures......................          60
+51-7            Procedures for environmental analysis.......          66
+51-8            Public availabililty of agency materials....          68
+51-9            Privacy Act rules...........................          75
 51-10           Enforcement of nondiscrimination on the 
                     basis of handicap in programs or 
                     activities conducted by the Committee 
                     for Purchase From People who are Blind 
-                    or Severely Disabled....................          81
+                    or Severely Disabled....................          83
 
 [[Page 45]]
 
@@ -3827,23 +3821,34 @@ factors weighing toward confirmation of the original decision.
 <R05>
 Sec. 51-2.7  Fair market price.
 
-    The Committee is responsible for determining the fair market prices, 
+    (a) The Committee is responsible for determining fair market prices, 
 and changes thereto, for commodities and services on the Procurement 
-List. The Committee establishes the initial fair market price at the 
-time a commodity or service is added to the Procurement List. In cases 
-where initial prices are not based on competitive bids, the Committee 
-considers recommendations from contracting activities and the central 
-nonprofit agency concerned. Prices are revised in accordance with 
-changing market conditions as reflected primarily by economic indices 
-and changes in nonprofit agency costs, as provided in Committee pricing 
-procedures. Recommendations for fair market prices or changes thereto 
-shall be submitted by the nonprofit agencies to the appropriate central 
-nonprofit agency. The central nonprofit agency shall analyze the data 
-and submit a recommended fair market price to the Committee accompanied 
-by the information required by the Committee's pricing procedures to 
-support the recommended price.
+List. The Committee establishes an initial fair market price at the time 
+a commodity or service is added to the Procurement List. This initial 
+price is based on Committee procedures, which permit negotiations 
+between the contracting activity and the nonprofit agency which will 
+produce or provide the commodity or service to the Government, assisted 
+by the appropriate central nonprofit agency. If agreed to by the 
+negotiating parties, the initial price may be developed using other 
+methodologies specified in Committee pricing procedures.
+    (b) Prices are revised in accordance with changing market conditions 
+under Committee procedures, which include negotiations between 
+contracting activities and producing nonprofit agencies, assisted by 
+central nonprofit agencies, or the use of economic indices, changes in 
+nonprofit agency costs, or other methodologies permitted under these 
+procedures.
+    (c) Recommendations for initial fair market prices, or changes 
+thereto, shall be submitted jointly by the contracting activities and 
+nonprofit agencies concerned to the appropriate central nonprofit 
+agency. After review and analysis, the central nonprofit agency shall 
+submit the recommended prices and methods by which prices shall be 
+changed to the Committee, along with the information required by 
+Committee pricing procedures to support each recommendation. The 
+Committee will review the recommendations, revise the recommended prices 
+where appropriate, and establish a fair market price, or change thereto, 
+for each commodity or service which is the subject of a recommendation.
 
-[59 FR 59342, Nov. 16, 1994]
+[64 FR 55842, Oct. 15, 1999]
 
 
 <R05>
@@ -3873,9 +3878,12 @@ Sec. 51-2.9  Oral presentations by interested persons at Committee meetings.
     (a) Upon written request from an interested person, that person may, 
 at the discretion of the Committee Chair, be permitted to appear before 
 the Committee to present views orally. Generally, only those persons who 
-have raised significant issues which, if valid, could influence the 
-Committee's decision in the matter under consideration will be permitted 
-to appear.
+have raised significant issues which, if valid,
+
+[[Page 51]]
+
+could influence the Committee's decision in the matter under 
+consideration will be permitted to appear.
     (b) When the Chair has approved the appearance before the Committee 
 of an interested person who has made a written request:
     (1) The name of the spokesperson and the names of any other persons 
@@ -3884,9 +3892,6 @@ at least three working days before the meeting.
     (2) In the absence of prior authorization by the Chair, only one 
 person representing a particular agency or organization will be 
 permitted to speak.
-
-[[Page 51]]
-
     (3) Oral statements to the Committee and written material provided 
 in conjunction with the oral statements shall be limited to issues 
 addressed in written comments which have previously been submitted to 
@@ -3962,6 +3967,9 @@ Government activities among its nonprofit agencies.
 agencies to enable it to allocate orders equitably.
     (h) Oversee and assist its nonprofit agencies to insure contract 
 compliance in furnishing a commodity or a service.
+
+[[Page 52]]
+
     (i) As market conditions change, recommend price changes with 
 appropriate justification for assigned commodities or services on the 
 Procurement List.
@@ -3970,9 +3978,6 @@ ensure compliance with the JWOD Act and appropriate regulations.
     (k) When authorized by the Committee, enter into contracts with 
 Federal contracting activities for the furnishing of commodities or 
 services provided by its nonprofit agencies.
-
-[[Page 52]]
-
     (l) At the time designated by the Committee, submit a completed, 
 original copy of the appropriate Initial Certification (Committee Form 
 401 or 402) for the nonprofit agency concerned. This requirement does 
@@ -4039,10 +4044,14 @@ Sec. 51-3.4  Distribution of orders.
 
     Central nonprofit agencies shall distribute orders from the 
 Government only to nonprofit agencies which the Committee has approved 
-to furnish the specific commodity or service. When the Committee has 
-approved two or more nonprofit agencies to furnish a specific commodity 
-or service, the central nonprofit agency shall distribute orders among 
-those nonprofit agencies in a fair and equitable manner.
+to furnish the specific commodity or service. When
+
+[[Page 53]]
+
+the Committee has approved two or more nonprofit agencies to furnish a 
+specific commodity or service, the central nonprofit agency shall 
+distribute orders among those nonprofit agencies in a fair and equitable 
+manner.
 
 [56 FR 48979, Sept. 26, l991; 56 FR 64002, Dec. 6, 1991]
 
@@ -4051,13 +4060,10 @@ those nonprofit agencies in a fair and equitable manner.
 Sec. 51-3.5  Fees.
 
     A central nonprofit agency may charge fees to nonprofit agencies for 
-facilitating their participation in the
-
-[[Page 53]]
-
-JWOD Program. Fees shall be calculated based on nonprofit agency sales 
-to the Government under the JWOD Program. Fees shall not exceed the fee 
-limit approved by the Committee.
+facilitating their participation in the JWOD Program. Fees shall be 
+calculated based on nonprofit agency sales to the Government under the 
+JWOD Program. Fees shall not exceed the fee limit approved by the 
+Committee.
 
 
 <R05>
@@ -4138,16 +4144,17 @@ authorizing the establishment of nonprofit agency(ies) for persons who
 are blind or have other severe disabilities.
     (ii) In the case of a wholly-owned State corporation, a certified 
 true copy of the corporation bylaws; and, in the case of a State or 
-local government agency, a certified true copy of implementing 
-regulations, operating procedures, notice of establishment of the 
-nonprofit agency, or other similar documents.
+local government
+
+[[Page 54]]
+
+agency, a certified true copy of implementing regulations, operating 
+procedures, notice of establishment of the nonprofit agency, or other 
+similar documents.
     (b) The Committee shall review the documents submitted and, if they 
 are acceptable, notify the nonprofit agency by letter, with a copy to 
 its central nonprofit agency, that the Committee has verified its 
 nonprofit status under the JWOD Act.
-
-[[Page 54]]
-
     (c) A nonprofit agency shall submit two completed copies of the 
 appropriate Initial Certification (Committee Form 401 or 402) to its 
 central nonprofit agency at the time designated by the Committee. This 
@@ -4212,6 +4219,9 @@ or qualified psychologist, reflecting the nature and extent of the
 disability or disabilities that cause such person to qualify as a person 
 with a severe disability, or a certification of the disability or 
 disabilities by a State or local governmental entity.
+
+[[Page 55]]
+
     (2) Reports which state whether that individual is capable of 
 engaging in normal competitive employment. These reports shall be signed 
 by a person or persons qualified by training and experience to evaluate 
@@ -4219,14 +4229,10 @@ the work potential, interests, aptitudes, and abilities of persons with
 disabilities and shall normally consist of preadmission evaluations and 
 reevaluations prepared at least annually. The file on individuals who 
 have been in the nonprofit agency for less than two years shall contain 
-the preadmission
-
-[[Page 55]]
-
-report and, where appropriate, the next annual reevaluation. The file on 
-individuals who have been in the nonprofit agency for two or more years 
-shall contain, as a minimum, the reports of the two most recent annual 
-reevaluations.
+the preadmission report and, where appropriate, the next annual 
+reevaluation. The file on individuals who have been in the nonprofit 
+agency for two or more years shall contain, as a minimum, the reports of 
+the two most recent annual reevaluations.
     (d) The information collection requirements of Sec. 51-4.2 and 
 Sec. 51-4.3 and the recordkeeping requirements of Sec. 51-4.3 have been 
 approved by the Office of Management and Budget (OMB) under the 
@@ -4301,7 +4307,11 @@ temporarily suspend allocations to the nonprofit agency.
     (b) If a nonprofit agency fails to correct its violations of these 
 regulations, the Committee, after affording the nonprofit agency an 
 opportunity to address the Committee on the matter, may terminate the 
-nonprofit agency's eligibility to participate in the JWOD Program.
+nonprofit agency's
+
+[[Page 56]]
+
+eligibility to participate in the JWOD Program.
 
 [56 FR 48979, Sept. 26, l991, as amended at 59 FR 59343, Nov. 16, 1994]
 
@@ -4318,9 +4328,6 @@ Sec.
 51-5.3  Scope of requirement.
 51-5.4  Purchase exceptions.
 51-5.5  Prices.
-
-[[Page 56]]
-
 51-5.6  Shipping.
 51-5.7  Payments.
 51-5.8  Violations by entities of the Government.
@@ -4392,6 +4399,8 @@ Committee.
 59 FR 59343, Nov. 16, 1994; 60 FR 54200, Oct. 20, 1995; 63 FR 16439, 
 Apr. 3, 1998]
 
+[[Page 57]]
+
 
 <R05>
 Sec. 51-5.3  Scope of requirement.
@@ -4402,13 +4411,9 @@ designation listed and commodities that are essentially the same as the
 listed item. In some instances, only a portion of the Government 
 requirement for a National Stock Number or item designation is specified 
 by the Procurement List. Where geographic areas, quantities, percentages 
-or specific supply
-
-[[Page 57]]
-
-locations for a commodity are listed, the mandatory provisions of the 
-JWOD Act apply only to the portion or portions of the commodity 
-indicated by the Procurement List.
+or specific supply locations for a commodity are listed, the mandatory 
+provisions of the JWOD Act apply only to the portion or portions of the 
+commodity indicated by the Procurement List.
     (b) For services, where an agency and location or geographic area 
 are listed on the Procurement List, only the service for the location or 
 geographic area listed must be procured from the nonprofit agency, 
@@ -4472,10 +4477,14 @@ exception may be appealed to the Committee by the contracting activity.
 Sec. 51-5.5  Prices.
 
     (a) The prices for items on the Procurement List are fair market 
-prices established by the Committee.
+prices established by the Committee under authority of the Javits-
+Wagner-O'Day Act (41 U.S.C. 47(b)).
     (b) Prices for commodities include applicable packaging, packing, 
 and marking. Prices include transportation to point of delivery as 
 specified in Sec. 51-5.6.
+
+[[Page 58]]
+
     (c) Price changes for commodities and services shall usually apply 
 to orders received by the nonprofit agency on or after the effective 
 date of the change. In special cases, after considering the views of the 
@@ -4486,59 +4495,52 @@ the change.
 services on the Procurement List, upon request from the central 
 nonprofit agency, the contracting activity should take the following 
 actions:
-
-[[Page 58]]
-
     (1) Submit to the Department of Labor in a timely fashion a request 
 for wage determination rate.
     (2) Provide a copy of the new wage determination rate or the 
 Department of Labor document stating that the wage determination rate is 
-unchanged and a completed Standard Form 98, ``Notice of Intention to 
-Make a Service Contract and Response to Notice,'' to the central 
-nonprofit agency at least 90 days before the beginning of the new 
-service period.
+unchanged to the central nonprofit agency at least 60 days before the 
+beginning of the new service period.
     (3) Provide to the central nonprofit agency at least 90 days before 
 the beginning of the new service period a copy of the statement of work 
 applicable to the new service period.
     (e) If a contracting activity desires packing, packaging, or marking 
 of products other than the standard pack or as provided in the 
-Procurement List, the difference in cost thereof, if any, shall be added 
-as a separate item on the purchase order.
+Procurement List, any difference in cost shall be negotiated with the 
+nonprofit agency.
 
 [56 FR 48981, Sept. 26, l991; 56 FR 64002, Dec. 6, 1991, as amended at 
-59 FR 59343, Nov. 16, 1994]
+59 FR 59343, Nov. 16, 1994; 64 FR 55842, Oct. 15, 1999]
 
 
 <R05>
 Sec. 51-5.6  Shipping.
 
-    (a) Except as provided in paragraph (c) of this section for 
-commodities other than military resale commodities, delivery is 
-accomplished when a shipment is placed aboard the vehicle of the initial 
-carrier. Time of delivery is when the shipment is released to and 
-accepted by the initial carrier.
-    (b) Method of transportation to destination shall normally be by 
-Government bills of lading although the contracting activity may 
-designate another method of transportation on its order, in accordance 
-with Committee procedures. Government bills of lading may accompany 
-orders or be otherwise furnished, but shall be supplied promptly. If the 
-contracting activity fails to designate a method of transportation or 
-furnish a Government bill of lading promptly, it shall constitute an 
-excusable cause for delay in delivery.
-    (c) The Committee may determine that for certain commodity orders, 
-delivery is accomplished when the shipment is delivered to the 
-purchaser's facility (plant, warehouse, store, lot, or other location to 
-which shipment can be made). Time of delivery for these orders is when 
-the shipment is released by the carrier and accepted by the purchaser. 
-Under this method of transportation, the nonprofit agency will normally 
-ship by commercial bills of lading and will be responsible for any loss 
-or damage to the goods occurring before receipt of the shipment at the 
-delivery point specified. The nonprofit agency will prepare and 
-distribute commercial bills of lading, furnish a delivery schedule and 
-designate the mode of delivering carrier, and pay all charges to the 
-specified point of delivery.
+    (a) Except as provided in paragraph (b) of this section, commodities 
+are sold to the Government on an ``F.O.B. destination'' basis, with 
+delivery being accomplished when the shipment reaches the facility 
+designated by the contracting activity. Time of delivery is when the 
+shipment is released by the carrier and accepted by the contracting 
+activity or its agent. In this delivery method, the nonprofit agency 
+will normally use commercial bills of lading and will be responsible for 
+any loss or damage to the goods occurring before the commodities reach 
+the designated delivery point. The nonprofit agency will prepare and 
+distribute commercial bills of lading, furnish delivery schedules, 
+designate the carriers, and pay all shipping charges to specified 
+delivery points.
+    (b) The Committee may determine that certain commodities are to be 
+sold to the Government on an ``F.O.B. origin'' basis, with delivery 
+being accomplished when a shipment is placed aboard the vehicle of the 
+initial carrier. Time of delivery is when the shipment is released to 
+and accepted by the initial carrier. In this delivery method, the 
+nonprofit agency will normally use Government bills of lading, and 
+responsibility for loss or damage to the goods while in transit passes 
+to the Government at the time the initial carrier accepts a shipment. If 
+the contracting activity fails to furnish a Government bill of lading 
+promptly, such failure shall be considered an excusable delay in 
+delivery.
 
-[59 FR 59343, Nov. 16, 1994]
+[64 FR 55842, Oct. 15, 1999]
 
 
 <R05>
@@ -4576,16 +4578,15 @@ Sec.
 51-6.7  Orders in excess of nonprofit agency capability.
 51-6.8  Deletion of items from the Procurement List.
 51-6.9  Correspondence and inquiries.
+
+[[Page 59]]
+
 51-6.10  Quality of merchandise.
 51-6.11  Quality complaints.
 51-6.12  Specification changes and similar actions.
 51-6.13  Replacement and similar commodities.
 51-6.14  Replacement services.
 51-6.15  Disputes.
-
-
-[[Page 59]]
-
 
     Authority: 41 U.S.C. 46-48c.
 
@@ -4668,18 +4669,17 @@ appropriate nonprofit agency(ies) upon receipt of a request from the
 contracting activity and instruct that the orders be forwarded to the 
 central nonprofit agency or direct to the nonprofit agency(ies) with a 
 copy provided promptly to the central nonprofit agency.
+
+[[Page 60]]
+
     (f) Central nonprofit agencies shall reply promptly to requests for 
 allocation. When a request for allocation provides a delivery schedule 
 (based on established lead times and time required for processing the 
 allocation request) which cannot be met, the central nonprofit agency 
-shall request a revision,
-
-[[Page 60]]
-
-which the contracting activity shall grant, if feasible, or the central 
-nonprofit agency shall issue a purchase exception authorizing 
-procurement from commercial sources as provided in Sec. 51-5.4 of this 
-chapter.
+shall request a revision, which the contracting activity shall grant, if 
+feasible, or the central nonprofit agency shall issue a purchase 
+exception authorizing procurement from commercial sources as provided in 
+Sec. 51-5.4 of this chapter.
     (g) An allocation is not an obligation to supply a commodity or 
 service, or an obligation for the contracting activity to issue an 
 order. Nonprofit agencies are not authorized to commence production 
@@ -4749,11 +4749,11 @@ stock military resale commodities in the 800-, 900-, and 1000- series
 exclusively, unless an exception has been granted on an individual store 
 basis for the stocking of comparable commercial items for which there is 
 a significant customer demand.
-    (c) The Defense Commissary Agency shall, after consultation with the 
-Committee:
 
 [[Page 61]]
 
+    (c) The Defense Commissary Agency shall, after consultation with the 
+Committee:
     (1) Establish mandatory lists of military resale commodities to be 
 stocked in commissary stores.
     (2) Require the stocking in commissary stores of military resale 
@@ -4828,13 +4828,14 @@ Government. In instances where the nonprofit agency determines that it
 cannot ship the commodity in the quantities specified by the required 
 shipping date, it shall notify the central nonprofit agency and the 
 contracting activity. The central nonprofit agency shall request a 
-revision of the shipping schedule which the contracting activity should 
-grant, if feasible, or the central nonprofit agency shall issue a 
-purchase exception authorizing procurement from
+revision of the shipping schedule
 
 [[Page 62]]
 
-commercial sources as provided in Sec. 51-5.4 of this chapter.
+which the contracting activity should grant, if feasible, or the central 
+nonprofit agency shall issue a purchase exception authorizing 
+procurement from commercial sources as provided in Sec. 51-5.4 of this 
+chapter.
 
 
 <R05>
@@ -4912,11 +4913,11 @@ performed in accordance with commercial practices.
 Sec. 51-6.11  Quality complaints.
 
     (a) When the quality of a commodity received is not considered 
-satisfactory by the using activity, the activity shall take the 
-following actions as appropriate:
+satisfactory by the using activity, the activity shall
 
 [[Page 63]]
 
+take the following actions as appropriate:
     (1) For commodities received from Defense Logistics Agency supply 
 centers, General Services Administration supply distribution facilities, 
 Department of Veterans Affairs distribution division or other central 
@@ -4988,11 +4989,11 @@ for that commodity.
     (b) If contracting activities desire to procure additional sizes, 
 colors, or other variations of a commodity after the commodity is added 
 to the Procurement List, and these similar commodities have not recently 
-been procured, these commodities are also automatically considered to be 
-on the Procurement List.
+been procured, these commodities are also
 
 [[Page 64]]
 
+automatically considered to be on the Procurement List.
     (c) In accordance with Sec. 51-5.3 of this chapter, contracting 
 activities are not permitted to purchase commercial items that are 
 essentially the same as commodities on the Procurement List.
@@ -5085,14 +5086,13 @@ basis of information submitted by private agencies and other non-Federal
 entities or generated by the Committee whether the proposed action is 
 one that normally does not require an environmental assessment or 
 environmental impact statement (EIS) as set forth in Sec. 51-7.4, or is 
-one that requires an environmental assessment as set forth in 40 CFR 
-1501.4.
-    (c) To facilitate compliance with these requirements, private 
-agencies
+one that requires
 
 [[Page 65]]
 
-and other non-Federal entities are expected to:
+an environmental assessment as set forth in 40 CFR 1501.4.
+    (c) To facilitate compliance with these requirements, private 
+agencies and other non-Federal entities are expected to:
     (1) Contact the Committee staff as early as possible in the planning 
 process for guidance on the scope and level of environmental information 
 required to be submitted in support of their request;
@@ -5350,19 +5350,20 @@ Sec. 51-8.4  Availability of materials.
 
     Material described in 5 U.S.C. 552(a)(2) shall be available for 
 inspection during normal business hours at the Committee's offices, 
-Crystal Gateway 3, Suite 310, 1215 Jefferson Davis Highway, Arlington, 
-Virginia 22202-
+Jefferson Plaza 2, Suite 10800, 1421 Jefferson Davis Highway, Arlington, 
+Virginia
 
 [[Page 68]]
 
-4302. An individual who intends to visit the Committee offices to 
+22202-3259. An individual who intends to visit the Committee offices to 
 inspect this material shall make an appointment with the Executive 
 Director at least one week in advance, except when the Committee has 
 provided notification to the individual that the material is available 
 for inspection in the Committee offices, in which case an appointment 
 must be made at least 24 hours in advance.
 
-[59 FR 59344, Nov. 16, 1994, as amended at 63 FR 16440, Apr. 3, 1998]
+[59 FR 59344, Nov. 16, 1994, as amended at 63 FR 16440, Apr. 3, 1998; 65 
+FR 35287, June 2, 2000]
 
 
 <R05>
@@ -5370,11 +5371,11 @@ Sec. 51-8.5  Requests for records.
 
     (a) Requests to obtain copies of any material maintained by the 
 Committee must be submitted in writing to the Executive Director at the 
-Committee's offices, Crystal Gateway 3, Suite 310, 1215 Jefferson Davis 
-Highway, Arlington, Virginia 22202-4302. The requester may in his or her 
-petition ask for a fee waiver if there is likely to be a charge for the 
-requested information. All requests for records shall be deemed to have 
-been made pursuant to the FOIA, regardless of whether the Act is 
+Committee's offices, Jefferson Plaza 2, Suite 10800, 1421 Jefferson 
+Davis Highway, Arlington, Virginia 22202-3259. The requester may in his 
+or her petition ask for a fee waiver if there is likely to be a charge 
+for the requested information. All requests for records shall be deemed 
+to have been made pursuant to the FOIA, regardless of whether the Act is 
 specifically mentioned. Failure to submit a request in accordance with 
 these procedures may delay the processing of the request.
     (b) A request must reasonably describe the records to enable agency 
@@ -5400,7 +5401,7 @@ request in writing.
 
 [54 FR 15189, Apr. 17, 1989. Redesignated at 56 FR 48983, Sept. 26, 
 1991, and amended at 59 FR 59345, Nov. 16, 1994; 63 FR 16440, Apr. 3, 
-1998]
+1998; 65 FR 35287, June 2, 2000]
 
 
 <R05>
@@ -5433,13 +5434,13 @@ exemptions, the request may be denied.
     (c) If a determination is made to grant a request, the relevant 
 material shall be furnished as soon as possible following the 
 determination to grant the request, and after payment of the fee 
-specified in Sec. 51-8.12 when required, except that copies of less than 
-10 pages
+specified in Sec. 51-8.12 when required,
 
 [[Page 69]]
 
-of material requested in person ordinarily will be furnished immediately 
-following the determination to grant the request.
+except that copies of less than 10 pages of material requested in person 
+ordinarily will be furnished immediately following the determination to 
+grant the request.
     (d) Where portions of the requested material are exempt under 
 Sec. 51-8.2(b), and are reasonably segregable from the remainder of the 
 material, those portions shall be excised from the materials disclosed.
@@ -5512,20 +5513,18 @@ action.
 paragraph (a) of this section and include the name and address of the 
 office to which the request was referred.
 
+[[Page 70]]
+
 
 <R05>
 Sec. 51-8.10  Appeals.
 
     (a) An appeal to the Chairperson of any denial, in whole or in part, 
 of a request for access to and copies of material may be made by 
-submission of a
-
-[[Page 70]]
-
-written request for reconsideration. Such requests shall state the 
-specific reasons for reconsideration that address directly the grounds 
-upon which the denial was based. Requests must be addressed to the 
-Chairperson at the Committee offices and must be received within 30 
+submission of a written request for reconsideration. Such requests shall 
+state the specific reasons for reconsideration that address directly the 
+grounds upon which the denial was based. Requests must be addressed to 
+the Chairperson at the Committee offices and must be received within 30 
 calendar days of the requester's receipt of the Committee's initial 
 denial.
     (b) The Chairperson shall make a determination with respect to any 
@@ -5598,13 +5597,13 @@ than the fee itself;
 agency employee in resolving legal or policy issues, or in monitoring a 
 requester's inspection of agency records;
     (4) Documents shall also be furnished without charge when members of 
-the public provide their own copying equipment, in which case no copying 
-fee will be charged (although search and review fees may still be 
-assessed).
-    (d) Fees for records and related services are as follows:
+the
 
 [[Page 71]]
 
+public provide their own copying equipment, in which case no copying fee 
+will be charged (although search and review fees may still be assessed).
+    (d) Fees for records and related services are as follows:
     (1) The fee for photocopies of pages 8\1/2\"x14" or smaller shall be 
 $0.20 for each page;
     (2) The fee for photocopies larger than 8\1/2\"x14" shall be $0.50 
@@ -5673,14 +5672,14 @@ graduate higher education, an institution of undergraduate higher
 education, an institution of professional education, and an institution 
 of vocational education, which operates a program or programs of 
 scholarly research.
+
+[[Page 72]]
+
     (2) The term ``non-commercial scientific institution'' refers to an 
 institution that is not operated on a ``commercial'' basis, and which is 
 operated solely for the purpose of conducting scientific research the 
 results of which are not intended to promote any particular product or 
 industry.
-
-[[Page 72]]
-
     (d) Requesters who are representatives of the news media--Fees for 
 this category of requesters shall also be limited to the cost of 
 providing duplication service alone, minus the charge for the first 100 
@@ -5751,17 +5750,16 @@ response to a request for records.
 [54 FR 15189, Apr. 17, 1989. Redesignated at 56 FR 48983, Sept. 26, 
 1991, and amended at 59 FR 59345, Nov. 16, 1994]
 
+[[Page 73]]
+
 
 <R05>
 Sec. 51-8.15  Collection of fees and charges.
 
     (a) Except when prepayment is required, payments shall be collected 
 to the fullest extent possible at the time the requested materials are 
-furnished. Payments shall be made by requesters
-
-[[Page 73]]
-
-within 30 days of the date of the billing.
+furnished. Payments shall be made by requesters within 30 days of the 
+date of the billing.
     (b) Payments shall be made by check, draft, or money order made 
 payable to the Treasury of the United States.
     (c) In instances where a requester has previously failed to pay a 
@@ -5859,10 +5857,11 @@ Subpart 51-9.7--Rules of Conduct for Disclosure of Information About an
     Source: 40 FR 51168, Nov. 3, 1975. Redesignated at 56 FR 48983, 
 Sept. 26, 1991.
 
+[[Page 74]]
+
+
     Editorial Note: Nomenclature change to part 51-9 appears at 56 FR 
 48983, Sept. 26, 1991.
-
-[[Page 74]]
 
 
 <R04>
@@ -5959,13 +5958,13 @@ Sec. 51-9.102-1  Specific exemptions.
     Systems of records maintained by the Committee which have been 
 exempted from certain requirements of the Privacy Act are designated in 
 Subpart 51-9.6 of this part. An individual shall have access to all 
-exempted records containing information about him under procedures 
-outlined in Subpart 51-9.3 of this part. Upon request,
+exempted
 
 [[Page 75]]
 
-an individual shall receive an accounting of any disclosure of 
-information about him.
+records containing information about him under procedures outlined in 
+Subpart 51-9.3 of this part. Upon request, an individual shall receive 
+an accounting of any disclosure of information about him.
 
 
 <R04>
@@ -6040,15 +6039,15 @@ made, including written documentation required when records are released
 for statistical or law enforcement purposes and any written consents 
 provided by the individual.
     (c) Except for disclosures made to agencies or instrumentalities in 
-law enforcement activities in accordance with Sec. 51-9.201(e)(2) or for 
-disclosures made from systems exempted from this requirement of the Act 
-as outlined in
+law enforcement activities in accordance
 
 [[Page 76]]
 
-subpart 51-9.6 of this part, the accounting of disclosures will be made 
-available to the individual upon request. Procedures for requesting 
-access to the accounting are outlined in subpart 51-9.3 of this part.
+with Sec. 51-9.201(e)(2) or for disclosures made from systems exempted 
+from this requirement of the Act as outlined in subpart 51-9.6 of this 
+part, the accounting of disclosures will be made available to the 
+individual upon request. Procedures for requesting access to the 
+accounting are outlined in subpart 51-9.3 of this part.
 
 
 <R04>
@@ -6128,14 +6127,13 @@ access to his medical or psychological record to designate a physician
 of his choice to whom he may disclose the individual's record if in the 
 opinion of the Executive Director, disclosure directly to the individual 
 might be harmful.
-    (b) The Executive Director shall mark records which should not be 
-disclosed directly to the subject individual and shall inform an 
-individual
 
 [[Page 77]]
 
-requesting such records of the requirement to designate a physician to 
-whom the records can be disclosed.
+    (b) The Executive Director shall mark records which should not be 
+disclosed directly to the subject individual and shall inform an 
+individual requesting such records of the requirement to designate a 
+physician to whom the records can be disclosed.
 
 
 <R05>
@@ -6221,10 +6219,12 @@ Sec. 51-9.304-3  Prepayment of fees over $25.
 fee is likely to exceed $25, he shall notify the individual that he must 
 prepay the anticipated fee prior to making the records available. The 
 Committee will remit the excess paid by the individual or bill the 
-individual for an additional amount according to variations between the 
-final fee charged and the amount prepaid.
+individual for an additional
 
 [[Page 78]]
+
+amount according to variations between the final fee charged and the 
+amount prepaid.
 
 
 <R05>
@@ -6259,8 +6259,8 @@ Sec. 51-9.401  Submission of requests to amend records.
     (a) An individual who desires to amend any record or information 
 pertaining to him should direct a written request to the Executive 
 Director, Committee for Purchase from People who are Blind or Severely 
-Disabled, Crystal Gateway 3, Suite 310, 1215 Jefferson Davis Highway, 
-Arlington, Virginia 22202-4302.
+Disabled, Jefferson Plaza 2, Suite 10800, 1421 Jefferson Davis Highway, 
+Arlington, Virginia 22202-3259.
     (b) A request should bear the legend ``Privacy Act--Request to Amend 
 Record'' prominently marked on both the face of the request letter and 
 the envelope.
@@ -6268,7 +6268,8 @@ the envelope.
 (5 U.S.C. 552a)
 
 [40 FR 51168, Nov. 3, 1975. Redesignated at 56 FR 48983, Sept. 26, 1991, 
-and amended at 59 FR 16777, Apr. 8, 1994; 63 FR 16440, Apr. 3, 1998]
+and amended at 59 FR 16777, Apr. 8, 1994; 63 FR 16440, Apr. 3, 1998: 65 
+FR 35287, June 2, 2000]
 
 
 <R05>
@@ -6316,16 +6317,15 @@ Sec. 51-9.404  Refusal of request to amend.
 have the authority to issue an initial refusal of a request to amend a 
 record within his custody and shall be responsible for the initial 
 adverse agency determination.
-    (b) If the Executive Director, after reviewing the request to amend 
-a record, determines not to amend the
 
 [[Page 79]]
 
-record, he promptly shall advise the requester in writing of the 
-determination. The refusal letter (1) shall state the reasons for 
-refusal, (2) shall state the requester's right to seek a review of the 
-initial determination, and (3) shall state the procedures for requesting 
-such review.
+    (b) If the Executive Director, after reviewing the request to amend 
+a record, determines not to amend the record, he promptly shall advise 
+the requester in writing of the determination. The refusal letter (1) 
+shall state the reasons for refusal, (2) shall state the requester's 
+right to seek a review of the initial determination, and (3) shall state 
+the procedures for requesting such review.
 
 
 <R05>
@@ -6335,9 +6335,9 @@ Sec. 51-9.405  Request of review of refusal to amend a record.
 that refusal with the Committee. An individual should address a request 
 for review of a refusal to amend any record, exclusive of a personnel 
 record of a current Committee employee to the Chairperson, Committee for 
-Purchase from People who are Blind or Severely Disabled, Crystal Gateway 
-3, Suite 310, 1215 Jefferson Davis Highway, Arlington, Virginia 22202-
-4302.
+Purchase from People who are Blind or Severely Disabled, Jefferson Plaza 
+2, Suite 10800, 1421 Jefferson Davis Highway, Arlington, Virginia 22202-
+3259.
     (b) A request to review must be in writing and should include a copy 
 of the initial request and refusal to amend. The request to review 
 should bear the legend ``Privacy Act--Request for Review of Refusal to 
@@ -6370,7 +6370,7 @@ against the agency in a district court of the United States.
 
 [40 FR 51168, Nov. 3, 1975, Redesignated at 56 FR 48983, Sept. 26, 1991, 
 and amended at 59 FR 16777, Apr. 8, 1994; 59 FR 59345, Nov. 16, 1994; 63 
-FR 16440, Apr. 3, 1998]
+FR 16440, Apr. 3, 1998; 65 FR 35287, June 2, 2000]
 
 
 <R04>
@@ -6397,14 +6397,13 @@ or potential effect of such proposal on the privacy and other personal
 or property rights of individuals of the disclosure of information 
 relating to such individuals.
 
+[[Page 80]]
+
 
 <R05>
 Sec. 51-9.502  Federal Register notice of establishment of new system or alteration of existing system.
 
-    (a) When the Executive Director receives notice that the Senate, the
-
-[[Page 80]]
-
+    (a) When the Executive Director receives notice that the Senate, the 
 House of Representatives, and the Office of Management and Budget do not 
 object to the establishment of a new system of records, or the 
 alteration of an existing system of records, or
@@ -6478,14 +6477,14 @@ out a census or survey or related activity pursuant to the provisions of
 Title 13 U.S.C.;
     (5) To a recipient who has provided the agency with advance adequate 
 written assurance that the record will be used solely as a statistical 
-research or reporting record, and the record is to be transferred in a 
-form that is not individually identifiable;
-    (6) To the National Archives of the United States as a record which 
-has
+research
 
 [[Page 81]]
 
-sufficient historical or other value to warrant its continued 
+or reporting record, and the record is to be transferred in a form that 
+is not individually identifiable;
+    (6) To the National Archives of the United States as a record which 
+has sufficient historical or other value to warrant its continued 
 preservation by the United States Government, or for evaluation by the 
 Administrator of General Services or his designee to determine whether 
 the record has such value;
@@ -6555,13 +6554,13 @@ Sec.
 51-10.103  Definitions.
 51-10.104--51-10.109  [Reserved]
 51-10.110  Self-evaluation.
+
+[[Page 82]]
+
 51-10.111  Notice.
 51-10.112--51-10.129  [Reserved]
 51-10.130  General prohibitions against discrimination.
 51-10.131--51-10.139  [Reserved]
-
-[[Page 82]]
-
 51-10.140  Employment.
 51-10.141--51-10.148  [Reserved]
 51-10.149  Program accessibility: Discrimination prohibited.
@@ -6647,14 +6646,13 @@ cerebral palsy, epilepsy, muscular dystrophy, multiple sclerosis,
 cancer, heart disease, diabetes, mental retardation, emotional illness, 
 and drug addiction and alocoholism.
     (2) Major life activities includes functions such as caring for 
-one's self, performing manual tasks, walking, seeing, hearing, speaking, 
-breathing, learning, and working.
-    (3) Has a record of such an impairment means has a history of, or 
-has been
+one's self, performing manual tasks, walking, seeing,
 
 [[Page 83]]
 
-misclassified as having, a mental or physical impairment that 
+hearing, speaking, breathing, learning, and working.
+    (3) Has a record of such an impairment means has a history of, or 
+has been misclassified as having, a mental or physical impairment that 
 substantially limits one or more major life activities.
     (4) Is regarded as having an impairment means--
     (i) Has a physical or mental impairment that does not substantially 
@@ -6731,14 +6729,15 @@ Sec. 51-10.111  Notice.
 
     The agency shall make available to employees, applicants, 
 participants, beneficiaries, and other interested persons such 
-information regarding the provisions of this part and its applicability 
-to the programs or activities conducted by the agency, and make such 
-information available to them in such manner as the head of the agency
+information regarding the
 
 [[Page 84]]
 
-finds necessary to apprise such persons of the protections against 
-discrimination assured them by section 504 and this regulation.
+provisions of this part and its applicability to the programs or 
+activities conducted by the agency, and make such information available 
+to them in such manner as the head of the agency finds necessary to 
+apprise such persons of the protections against discrimination assured 
+them by section 504 and this regulation.
 
 
 <R05>
@@ -6806,11 +6805,12 @@ covered by this part.
     (c) The exclusion of nonhandicapped persons from the benefits of a 
 program limited by Federal statute or Executive order to handicapped 
 persons or the exclusion of a specific class of handicapped persons from 
-a program limited by Federal statute or Executive order to a different 
-class of handicapped persons is not prohibited by this part.
+a program
 
 [[Page 85]]
 
+limited by Federal statute or Executive order to a different class of 
+handicapped persons is not prohibited by this part.
     (d) The agency shall administer programs and activities in the most 
 integrated setting appropriate to the needs of qualified handicapped 
 persons.
@@ -6893,16 +6893,15 @@ regulations implementing it. In choosing among available methods for
 meeting the requirements of this section, the agency shall give priority 
 to those methods that offer programs and activities to qualified 
 handicapped persons in the most integrated setting appropriate.
-    (2) Historic preservation programs. In meeting the requirements of 
-Sec. 51-10.150(a) in historic preservation programs, the agency shall 
-give priority
 
 [[Page 86]]
 
-to methods that provide physical access to handicapped persons. In cases 
-where a physical alteration to an historic property is not required 
-because of Sec. 51-10.150(a)(2) or (a)(3), alternative methods of 
-achieving program accessibility include--
+    (2) Historic preservation programs. In meeting the requirements of 
+Sec. 51-10.150(a) in historic preservation programs, the agency shall 
+give priority to methods that provide physical access to handicapped 
+persons. In cases where a physical alteration to an historic property is 
+not required because of Sec. 51-10.150(a)(2) or (a)(3), alternative 
+methods of achieving program accessibility include--
     (i) Using audio-visual materials and devices to depict those 
 portions of an historic property that cannot otherwise be made 
 accessible;
@@ -6979,31 +6978,30 @@ the existence and location of accessible services, activities, and
 facilities.
     (c) The agency shall provide signage at a primary entrance to each 
 of its inaccessible facilities, directing users to a location at which 
-they can obtain information about accessible facilities. The 
-international symbol for accessibility shall be used at each primary 
-entrance of an accessible facility.
-    (d) This section does not require the agency to take any action that 
-it can
+they can obtain information about accessible facilities.
 
 [[Page 87]]
 
-demonstrate would result in a fundamental alteration in the nature of a 
-program or activity or in undue financial and adminstrative burdens. In 
-those circumstances where agency personnel believe that the proposed 
-action would fundamentally alter the program or activity or would result 
-in undue financial and administrative burdens, the agency has the burden 
-of proving that compliance with Sec. 51-10.160 would result in such 
-alteration or burdens. The decision that compliance would result in such 
-alteration or burdens must be made by the agency head or his or her 
-designee after considering all agency resources available for use in the 
-funding and operation of the conducted program or activity, and must be 
-accompanied by a written statement of the reasons for reaching that 
-conclusion. If an action required to comply with this section would 
-result in such an alteration or such burdens, the agency shall take any 
-other action that would not result in such an alteration or such burdens 
-but would nevertheless ensure that, to the maximum extent possible, 
-handicapped persons receive the benefits and services of the program or 
-activity.
+The international symbol for accessibility shall be used at each primary 
+entrance of an accessible facility.
+    (d) This section does not require the agency to take any action that 
+it can demonstrate would result in a fundamental alteration in the 
+nature of a program or activity or in undue financial and adminstrative 
+burdens. In those circumstances where agency personnel believe that the 
+proposed action would fundamentally alter the program or activity or 
+would result in undue financial and administrative burdens, the agency 
+has the burden of proving that compliance with Sec. 51-10.160 would 
+result in such alteration or burdens. The decision that compliance would 
+result in such alteration or burdens must be made by the agency head or 
+his or her designee after considering all agency resources available for 
+use in the funding and operation of the conducted program or activity, 
+and must be accompanied by a written statement of the reasons for 
+reaching that conclusion. If an action required to comply with this 
+section would result in such an alteration or such burdens, the agency 
+shall take any other action that would not result in such an alteration 
+or such burdens but would nevertheless ensure that, to the maximum 
+extent possible, handicapped persons receive the benefits and services 
+of the program or activity.
 
 
 <R05>
@@ -7024,8 +7022,8 @@ U.S.C. 791).
     (c) The Executive Director shall be responsible for coordinating the 
 implementation of this section. Complaints may be sent to the Executive 
 Director, Committee for Purchase from People who are Blind or Severely 
-Disabled, Crystal Gateway 3, Suite 310, 1215 Jefferson Davis Highway, 
-Arlington, Virginia 22202-4302.
+Disabled, Jefferson Plaza 2, Suite 10800, 1421 Jefferson Davis Highway, 
+Arlington, Virginia 22202-3259.
     (d) The agency shall accept and investigate all complete complaints 
 for which it has jurisdiction. All complete complaints must be filed 
 within 180 days of the alleged act of discrimination. The agency may 
@@ -7059,18 +7057,18 @@ from the complainant, he or she shall have 60 days from the date of
 receipt of the additional information to make his or her determination 
 on the appeal.
     (k) The time limits cited in paragraphs (g) and (j) of this section 
-may be extended with the permission of the Assistant Attorney General.
-    (l) The agency may delegate its authority for conducting complaint 
-investigations to other Federal agencies, except that the authority for 
-making
+may be
 
 [[Page 88]]
 
-the final determination may not be delegated to another agency.
+extended with the permission of the Assistant Attorney General.
+    (l) The agency may delegate its authority for conducting complaint 
+investigations to other Federal agencies, except that the authority for 
+making the final determination may not be delegated to another agency.
 
 [50 FR 22894, June 23, 1986. Redesignated at 56 FR 48983, Sept. 26, 
 1991, and amended at 59 FR 16777, Apr. 8, 1994; 63 FR 16440, Apr. 3, 
-1998]
+1998; 65 FR 35287, June 2, 2000]
 
 
 <R05>
@@ -7080,44 +7078,46 @@ Secs. 51-10.171--51-10.999  [Reserved]
 
 
 <R02>
+                      CHAPTER 60--OFFICE OF FEDERAL
+                      CONTRACT COMPLIANCE PROGRAMS,
+                      EQUAL EMPLOYMENT OPPORTUNITY,
+                           DEPARTMENT OF LABOR
 
-      CHAPTER 60--OFFICE OF FEDERAL CONTRACT COMPLIANCE PROGRAMS,
-           EQUAL EMPLOYMENT OPPORTUNITY, DEPARTMENT OF LABOR
 
 <R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
 60-1            Obligations of contractors and 
-                    subcontractors..........................          91
-60-2            Affirmative action programs.................         111
+                    subcontractors..........................          93
+60-2            Affirmative action programs.................         113
 60-3            Uniform guidelines on employee selection 
-                    procedures (1978).......................         121
+                    procedures (1978).......................         123
 60-4            Construction contractors--affirmative action 
-                    requirements............................         148
-60-20           Sex discrimination guidelines...............         155
+                    requirements............................         150
+60-20           Sex discrimination guidelines...............         157
 60-30           Rules of practice for administrative 
                     proceedings to enforce equal opportunity 
-                    under Executive Order 11246.............         157
-60-40           Examination and copying of OFCCP documents..         168
+                    under Executive Order 11246.............         159
+60-40           Examination and copying of OFCCP documents..         170
 60-50           Guidelines on discrimination because of 
-                    religion or national origin.............         170
+                    religion or national origin.............         172
 60-250          Affirmative action and nondiscrimination 
                     obligations of contractors and 
                     subcontractors regarding special 
                     disabled veterans and veterans of the 
-                    Vietnam era.............................         172
+                    Vietnam era.............................         174
 60-741          Affirmative action and nondiscrimination 
                     obligations of contractors and 
                     subcontractors regarding individuals 
-                    with disabilities.......................         198
+                    with disabilities.......................         200
 60-742          Procedures for complaints/charges of 
                     employment discrimination based on 
                     disability filed against employers 
                     holding government contracts or 
-                    subcontracts............................         227
+                    subcontracts............................         229
 60-999          OMB control numbers for OFCCP information 
-                    collection requirements.................         230
+                    collection requirements.................         232
 
 [[Page 91]]
 
@@ -9661,7 +9661,7 @@ B. Consideration of suitable alternative selection procedures
 60-3.4  Information on impact
 A. Records concerning impact
 B. Applicable race, sex, and ethnic groups for recordkeeping
-C. Evaluation of selection rates--The ``bottom line''
+C. Evaluation of selection rates. The ``bottom line''
 D. Adverse impact and the ``four-fifths rule''
 E. Consideration of user's equal employment opportunity posture
 60-3.5  General standards for validity studies
@@ -9758,7 +9758,7 @@ A. Required information
 process
 (c) When data insufficient to determine impact
 (3) Documentation of validity evidence
-(a) Type of evidence
+(a) Types of evidence
 (b) Form of report
 (c) Completeness
 B. Criterion-related validity studies
@@ -9780,7 +9780,7 @@ C. Content validity studies
 (2) Problem and setting
 (3) Job analysis--Content of the job
 (4) Selection procedure and its content
-(5) Relationship between selection procedure and the job
+(5) Relationship between the selection procedure and the job
 (6) Alternative procedures investigated
 (7) Uses and applications
 (8) Contact person
@@ -18466,7 +18466,7 @@ Part 60-741...............................  1215-0072, 1215-0131, 1215-
 
   --------------------------------------------------------------------
 Part                                                                Page
-61-250          Annual Report from Federal Contractors......         233
+61-250          Annual Report from Federal Contractors......         237
 
 [[Page 235]]
 
@@ -18982,7 +18982,6 @@ information collection requirements of this part.
 <R03>
                        CHAPTERS 62-100 [RESERVED]
 
-<R05>
 
 
 [[Page 245]]
@@ -19010,7 +19009,7 @@ which is published separately and revised annually.
 
             Material Approved for Incorporation by Reference
 
-                      (Revised as of July 1, 1999)
+                      (Revised as of July 1, 2000)
 
   The Director of the Federal Register has approved under 5 U.S.C. 
 552(a) and 1 CFR Part 51 the incorporation by reference of the following 
@@ -19150,7 +19149,7 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
 
 <R04>
 
-                      (Revised as of July 1, 1999)
+                      (Revised as of June 23, 2000)
 
                       Title 1--General Provisions
 
@@ -19159,7 +19158,7 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
         II  Office of the Federal Register (Parts 50--299)
         IV  Miscellaneous Agencies (Parts 400--500)
 
-                          Title 2--[Reserved]
+                          Title 2  [Reserved]
 
                         Title 3--The President
 
@@ -19177,7 +19176,6 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
          I  Office of Personnel Management (Parts 1--1199)
         II  Merit Systems Protection Board (Parts 1200--1299)
        III  Office of Management and Budget (Parts 1300--1399)
-        IV  Advisory Committee on Federal Pay (Parts 1400--1499)
          V  The International Organizations Employees Loyalty 
                 Board (Parts 1500--1599)
         VI  Federal Retirement Thrift Investment Board (Parts 
@@ -19194,10 +19192,10 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                 President (Parts 2500--2599)
        XVI  Office of Government Ethics (Parts 2600--2699)
        XXI  Department of the Treasury (Parts 3100--3199)
+      XXII  Federal Deposit Insurance Corporation (Part 3201)
 
 [[Page 250]]
 
-      XXII  Federal Deposit Insurance Corporation (Part 3201)
      XXIII  Department of Energy (Part 3301)
       XXIV  Federal Energy Regulatory Commission (Part 3401)
        XXV  Department of the Interior (Part 3501)
@@ -19236,12 +19234,13 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                 7601)
       LXIX  Tennessee Valley Authority (Part 7901)
       LXXI  Consumer Product Safety Commission (Part 8101)
+    LXXIII  Department of Agriculture (Part 8301)
      LXXIV  Federal Mine Safety and Health Review Commission (Part 
                 8401)
      LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
     LXXVII  Office of Management and Budget (Part 8701)
 
-                          Title 6--[Reserved]
+                          Title 6  [Reserved]
 
                          Title 7--Agriculture
 
@@ -19330,7 +19329,7 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                     Title 8--Aliens and Nationality
 
          I  Immigration and Naturalization Service, Department of 
-                Justice (Parts 1--499)
+                Justice (Parts 1--599)
 
                  Title 9--Animals and Animal Products
 
@@ -19351,6 +19350,8 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                 1000--1099)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
+     XVIII  Northeast Interstate Low-Level Radioactive Waste 
+                Commission (Part 1800)
 
                       Title 11--Federal Elections
 
@@ -19360,11 +19361,11 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
 
          I  Comptroller of the Currency, Department of the 
                 Treasury (Parts 1--199)
-        II  Federal Reserve System (Parts 200--299)
-       III  Federal Deposit Insurance Corporation (Parts 300--399)
 
 [[Page 253]]
 
+        II  Federal Reserve System (Parts 200--299)
+       III  Federal Deposit Insurance Corporation (Parts 300--399)
         IV  Export-Import Bank of the United States (Parts 400--
                 499)
          V  Office of Thrift Supervision, Department of the 
@@ -19389,6 +19390,9 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
          I  Small Business Administration (Parts 1--199)
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
+        IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
+         V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
+                500--599)
 
                     Title 14--Aeronautics and Space
 
@@ -19414,13 +19418,13 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                 Department of Commerce (Parts 200--299)
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
+
+[[Page 254]]
+
         IV  Foreign-Trade Zones Board, Department of Commerce 
                 (Parts 400--499)
        VII  Bureau of Export Administration, Department of 
                 Commerce (Parts 700--799)
-
-[[Page 254]]
-
       VIII  Bureau of Economic Analysis, Department of Commerce 
                 (Parts 800--899)
         IX  National Oceanic and Atmospheric Administration, 
@@ -19507,7 +19511,7 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
        III  Peace Corps (Parts 300--399)
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
-         V  United States Information Agency (Parts 500--599)
+         V  Broadcasting Board of Governors (Parts 500--599)
        VII  Overseas Private Investment Corporation (Parts 700--
                 799)
         IX  Foreign Service Grievance Board Regulations (Parts 
@@ -19555,9 +19559,9 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
-        IV  Office of Multifamily Housing Assistance 
-                Restructuring, Department of Housing and Urban 
-                Development (Parts 400--499)
+        IV  Office of Housing and Office of Multifamily Housing 
+                Assistance Restructuring, Department of Housing 
+                and Urban Development (Parts 400--499)
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
@@ -19714,6 +19718,7 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                 Defense
        XII  Defense Logistics Agency (Parts 1200--1299)
        XVI  Selective Service System (Parts 1600--1699)
+     XVIII  National Counterintelligence Center (Parts 1800--1899)
        XIX  Central Intelligence Agency (Parts 1900--1999)
         XX  Information Security Oversight Office, National 
                 Archives and Records Administration (Parts 2000--
@@ -19725,8 +19730,6 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                 2700--2799)
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
-      XXIX  Presidential Commission on the Assignment of Women in 
-                the Armed Forces (Part 2900)
 
                Title 33--Navigation and Navigable Waters
 
@@ -19761,11 +19764,11 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
-[[Page 260]]
-
                         Title 35--Panama Canal
 
          I  Panama Canal Regulations (Parts 1--299)
+
+[[Page 260]]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -19788,6 +19791,7 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
        XIV  Assassination Records Review Board (Parts 1400--1499)
+        XV  Oklahoma City National Memorial Trust (Part 1501)
 
              Title 37--Patents, Trademarks, and Copyrights
 
@@ -19820,11 +19824,11 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
 
             Subtitle B--Other Provisions Relating to Public 
                 Contracts
+        50  Public Contracts, Department of Labor (Parts 50-1--50-
+                999)
 
 [[Page 261]]
 
-        50  Public Contracts, Department of Labor (Parts 50-1--50-
-                999)
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
         60  Office of Federal Contract Compliance Programs, Equal 
@@ -19837,6 +19841,7 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                 System
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
+       102  Federal Management Regulation (Parts 102-1--102-299)
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
@@ -19855,7 +19860,7 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                 301-99)
        302  Relocation Allowances (Parts 302-1--302-99)
        303  Payment of Expenses Connected with the Death of 
-                Certain Employees (Parts 303-1--303-2)
+                Certain Employees (Part 303-70)
        304  Payment from a Non-Federal Source for Travel Expenses 
                 (Parts 304-1--304-99)
 
@@ -19925,8 +19930,6 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
-      XXII  Christopher Columbus Quincentenary Jubilee Commission 
-                (Parts 2200--2299)
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
@@ -19978,7 +19981,7 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
         17  Office of Personnel Management (Parts 1700--1799)
         18  National Aeronautics and Space Administration (Parts 
                 1800--1899)
-        19  United States Information Agency (Parts 1900--1999)
+        19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
         21  Office of Personnel Management, Federal Employees 
                 Group Life Insurance Federal Acquisition 
@@ -20023,8 +20026,8 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
                 Department of Transportation (Parts 100--199)
         II  Federal Railroad Administration, Department of 
                 Transportation (Parts 200--299)
-       III  Federal Highway Administration, Department of 
-                Transportation (Parts 300--399)
+       III  Federal Motor Carrier Safety Administration, 
+                Department of Transportation (Parts 300--399)
         IV  Coast Guard, Department of Transportation (Parts 400--
                 499)
          V  National Highway Traffic Safety Administration, 
@@ -20083,7 +20086,7 @@ Uniform Vehicle Code-1962 Edition--Chapters 10,                50-204.75
 
 <R04>
 
-                      (Revised as of July 1, 1999)
+                      (Revised as of June 23, 2000)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -20092,7 +20095,6 @@ Administrative Committee of the Federal Register  1, I
 Advanced Research Projects Agency                 32, I
 Advisory Commission on Intergovernmental          5, VII
      Relations
-Advisory Committee on Federal Pay                 5, IV
 Advisory Council on Historic Preservation         36, VIII
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
@@ -20101,7 +20103,7 @@ Agency for International Development, United      22, II
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
-Agriculture Department
+Agriculture Department                            5, LXXIII
   Agricultural Marketing Service                  7, I, IX, X, XI
   Agricultural Research Service                   7, V
   Animal and Plant Health Inspection Service      7, III; 9, I
@@ -20144,11 +20146,10 @@ American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
-
+Architectural and Transportation Barriers         36, XI
+   Compliance Board
 [[Page 268]]
 
-Architectural and Transportation Barriers         36, XI
-     Compliance Board
 Arctic Research Commission                        45, XXIII
 Armed Forces Retirement Home                      5, XI
 Army Department                                   32, V
@@ -20161,13 +20162,13 @@ Bilingual Education and Minority Languages        34, V
 Blind or Severely Disabled, Committee for         41, 51
      Purchase From People Who Are
 Board for International Broadcasting              22, XIII
+Broadcasting Board of Governors                   22, V
+  Federal Acquisition Regulation                  48, 19
 Census Bureau                                     15, I
 Central Intelligence Agency                       32, XIX
 Chief Financial Officer, Office of                7, XXX
 Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
-Christopher Columbus Quincentenary Jubilee        45, XXII
-     Commission
 Civil Rights, Commission on                       45, VII
 Civil Rights, Office for                          34, I
 Coast Guard                                       33, I; 46, I; 49, IV
@@ -20257,6 +20258,8 @@ Education, Department of                          5, LIII
   Vocational and Adult Education, Office of       34, IV
 Educational Research and Improvement, Office of   34, VII
 Elementary and Secondary Education, Office of     34, II
+Emergency Oil and Gas Guaranteed Loan Board       13, V
+Emergency Steel Guarantee Loan Board              13, IV
 Employees' Compensation Appeals Board             20, IV
 Employees Loyalty Board                           5, V
 Employment and Training Administration            20, V
@@ -20291,11 +20294,11 @@ Export-Import Bank of the United States           5, LII; 12, IV
 Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
-Farm Service Agency                               7, VII, XVIII
-Federal Acquisition Regulation                    48, 1
 
 [[Page 270]]
 
+Farm Service Agency                               7, VII, XVIII
+Federal Acquisition Regulation                    48, 1
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
 Federal Claims Collection Standards               4, II
@@ -20314,7 +20317,7 @@ Federal Energy Regulatory Commission              5, XXIV; 18, I
 Federal Financial Institutions Examination        12, XI
      Council
 Federal Financing Bank                            12, VIII
-Federal Highway Administration                    23, I, II; 49, III
+Federal Highway Administration                    23, I, II
 Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
 Federal Housing Finance Board                     12, IX
@@ -20322,14 +20325,14 @@ Federal Labor Relations Authority, and General    5, XIV; 22, XIV
      Counsel of the Federal Labor Relations 
      Authority
 Federal Law Enforcement Training Center           31, VII
+Federal Management Regulation                     41, 102
 Federal Maritime Commission                       46, IV
 Federal Mediation and Conciliation Service        29, XII
 Federal Mine Safety and Health Review Commission  5, LXXIV; 29, XXVII
-Federal Pay, Advisory Committee on                5, IV
+Federal Motor Carrier Safety Administration       49, III
 Federal Prison Industries, Inc.                   28, III
 Federal Procurement Policy Office                 48, 99
 Federal Property Management Regulations           41, 101
-Federal Property Management Regulations System    41, Subtitle C
 Federal Railroad Administration                   49, II
 Federal Register, Administrative Committee of     1, I
 Federal Register, Office of                       1, II
@@ -20357,20 +20360,20 @@ Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 General Accounting Office                         4, I, II
-General Services Administration                   5, LVII
+General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
-  Federal Property Management Regulations System  41, 101, 105
+  Federal Management Regulation                   41, 102
+  Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
-       Expenses
+     Expenses
+[[Page 271]]
+
   Payment of Expenses Connected With the Death    41, 303
        of Certain Employees
   Relocation Allowances                           41, 302
-
-[[Page 271]]
-
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
 Government Ethics, Office of                      5, XVI
@@ -20419,8 +20422,6 @@ Indian Affairs, Office of the Assistant           25, VI
      Secretary
 Indian Arts and Crafts Board                      25, II
 Indian Health Service                             25, V
-Information Agency, United States                 22, V
-  Federal Acquisition Regulation                  48, 19
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
      Archives and Records Administration
@@ -20446,10 +20447,10 @@ Interior Department
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
   Minerals Management Service                     30, II
-  Mines, Bureau of                                30, VI
 
 [[Page 272]]
 
+  Mines, Bureau of                                30, VI
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
   Reclamation, Bureau of                          43, I
@@ -20467,9 +20468,6 @@ International Development, United States Agency   22, II
   Federal Acquisition Regulation                  48, 7
 International Development Cooperation Agency,     22, XII
      United States
-  International Development, United States        22, II; 48, 7
-       Agency for
-  Overseas Private Investment Corporation         5, XXXIII; 22, VII
 International Fishing and Related Activities      50, III
 International Investment, Office of               31, VIII
 International Joint Commission, United States     22, IV
@@ -20525,10 +20523,10 @@ Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
 Mines, Bureau of                                  30, VI
+Minority Business Development Agency              15, XIV
 
 [[Page 273]]
 
-Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
 Multifamily Housing Assistance Restructuring,     24, IV
@@ -20537,6 +20535,7 @@ National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
 National Agricultural Statistics Service          7, XXXVI
+National and Community Service, Corporation for   45, XII, XXV
 National Archives and Records Administration      5, LXVI; 36, XII
   Information Security Oversight Office           32, XX
 National Bureau of Standards                      15, II
@@ -20544,8 +20543,8 @@ National Capital Planning Commission              1, IV
 National Commission for Employment Policy         1, IV
 National Commission on Libraries and Information  45, XVII
      Science
-National and Community Service, Corporation for   45, XII, XXV
 National Council on Disability                    34, XII
+National Counterintelligence Center               32, XVIII
 National Credit Union Administration              12, VII
 National Drug Control Policy, Office of           21, III
 National Foundation on the Arts and the           45, XI
@@ -20578,11 +20577,14 @@ Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Dairy Compact Commission                7, XIII
+Northeast Interstate Low-Level Radioactive Waste  10, XVIII
+     Commission
 Nuclear Regulatory Commission                     5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
 Occupational Safety and Health Review Commission  29, XX
 Offices of Independent Counsel                    28, VI
+Oklahoma City National Memorial Trust             36, XV
 Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
 Panama Canal Commission                           48, 35
@@ -20597,11 +20599,12 @@ Pennsylvania Avenue Development Corporation       36, IX
 Pension and Welfare Benefits Administration       29, XXV
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-  Federal Acquisition Regulation                  48, 17
-  Federal Employees Group Life Insurance Federal  48, 21
-     Acquisition Regulation
+
 [[Page 274]]
 
+  Federal Acquisition Regulation                  48, 17
+  Federal Employees Group Life Insurance Federal  48, 21
+       Acquisition Regulation
   Federal Employees Health Benefits Acquisition   48, 16
        Regulation
 Postal Rate Commission                            5, XLVI; 39, III
@@ -20609,8 +20612,6 @@ Postal Service, United States                     5, LX; 39, I
 Postsecondary Education, Office of                34, VI
 President's Commission on White House             1, IV
      Fellowships
-Presidential Commission on the Assignment of      32, XXIX
-     Women in the Armed Forces
 Presidential Documents                            3
 Presidio Trust                                    36, X
 Prisons, Bureau of                                28, V
@@ -20668,16 +20669,17 @@ Transportation, Department of                     5, L
   Emergency Management and Assistance             44, IV
   Federal Acquisition Regulation                  48, 12
   Federal Aviation Administration                 14, I
-  Federal Highway Administration                  23, I, II; 49, III
+  Federal Highway Administration                  23, I, II
+  Federal Motor Carrier Safety Administration     49, III
   Federal Railroad Administration                 49, II
   Federal Transit Administration                  49, VI
   Maritime Administration                         46, II
   National Highway Traffic Safety Administration  23, II, III; 49, V
-  Research and Special Programs Administration    49, I
-  Saint Lawrence Seaway Development Corporation   33, IV
 
 [[Page 275]]
 
+  Research and Special Programs Administration    49, I
+  Saint Lawrence Seaway Development Corporation   33, IV
   Secretary of Transportation, Office of          14, II; 49, Subtitle A
   Surface Transportation Board                    49, X
   Transportation Statistics Bureau                49, XI
@@ -20976,22 +20978,5 @@ Chapter 50
 50-206.54  Removed.................................................40716
 50-206.55  Removed.................................................40716
 50-206.56  Removed.................................................40716
-50-230.8  (a) corrected............................................32910
-Chapter 60
-60-1  Regulation at 45 FR 86228 withdrawn in part; eff. 8-29-96....19350
-60-1.3  Amended....................................................19988
-60-1.26  (d) revised...............................................19988
-60-30  Regulation at 45 FR 86251 withdrawn in part; eff. 8-29-96 
-                                                                   19350
-    Authority citation revised.....................................19988
-60-30.27  Revised..................................................19988
-60-30.28  Revised..................................................19988
-60-30.29  Revised..................................................19988
-60-30.30  Revised..................................................19988
-60-30.35  Revised..................................................19989
-60-30.36  Revised..................................................19989
-60-30.37  Revised..................................................19989
-60-250  Authority citation revised...........................6117, 19369
-60-250.4  (b) amended; (g) revised..................................6117
-60-250.5  (d) revised; interim; eff. 8
+50-230.8  (a) 
 </pre></body></html>

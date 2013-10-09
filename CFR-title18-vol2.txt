@@ -1,52 +1,56 @@
 <html><body><pre>
 [Title 18 CFR ]
-[Code of Federal Regulations (annual edition) - April 1, 1999 Edition]
+[Code of Federal Regulations (annual edition) - April 1, 2000 Edition]
 [From the U.S. Government Printing Office]
 
 
-          18
-
-
-<R02>
-          Conservation of Power and Water Resources
-
-<R03>
 
 [[Page i]]
 
-          PART 400 TO END
 
-                         Revised as of April 1, 1999
+<R02>
+                    18
 
-          CONTAINING
-          A CODIFICATION OF DOCUMENTS
-          OF GENERAL APPLICABILITY
-          AND FUTURE EFFECT
 
-          AS OF APRIL 1, 1999
+          Part 400 to end
+
+                         Revised as of April 1, 2000
+
+Conservation of Power and Water Resources
+
+<R03>
+
+
+
+          Containing a Codification of documents of general 
+          applicability and future effect
+          As of April 1, 2000
           With Ancillaries
           Published by
-          the Office of the Federal Register
+          Office of the Federal Register
           National Archives and Records
           Administration
 
-          as a Special Edition of
-          the Federal Register
+As a Special Edition of the Federal Register
+
+
 
 [[Page ii]]
 
-                                      
+
 
 
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 1999
+                            WASHINGTON : 2000
 
 
 
                For sale by U.S. Government Printing Office
  Superintendent of Documents, Mail Stop: SSOP, Washington, DC 20402-9328
+
+
 
 [[Page iii]]
 
@@ -61,19 +65,29 @@
   Explanation.................................................       v
 
   Title 18:
-          Chapter III--Delaware River Basin Commission               3
-          Chapter VI--Water Resources Council                       49
-          Chapter VIII--Susquehanna River Basin Commission         101
-          Chapter XIII--Tennessee Valley Authority                 129
+
+          Chapter III--Delaware River Basin Commission........       3
+
+          Chapter VI--Water Resources Council.................      49
+
+          Chapter VIII--Susquehanna River Basin Commission....     101
+
+          Chapter XIII--Tennessee Valley Authority............     129
+
   Finding Aids:
-    Table of CFR Titles and Chapters..........................     251
-    Alphabetical List of Agencies Appearing in the CFR........     269
-    List of CFR Sections Affected.............................     279
+
+      Table of CFR Titles and Chapters........................     251
+
+      Alphabetical List of Agencies Appearing in the CFR......     269
+
+      List of CFR Sections Affected...........................     279
+
+
 
 [[Page iv]]
 
 
-      
+
 
 
                      ----------------------------
@@ -124,7 +138,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, April 1, 1999), consult the ``List of CFR 
+revision date (in this case, April 1, 2000), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -173,9 +187,8 @@ CFR INDEXES AND TABULAR GUIDES
     A subject index to the Code of Federal Regulations is contained in a 
 separate volume, revised annually as of January 1, entitled CFR Index 
 and Finding Aids. This volume contains the Parallel Table of Statutory 
-Authorities and Agency Rules (Table I), and Acts Requiring Publication 
-in the Federal Register (Table II). A list of CFR titles, chapters, and 
-parts and an alphabetical list of agencies publishing in the CFR are 
+Authorities and Agency Rules (Table I). A list of CFR titles, chapters, 
+and parts and an alphabetical list of agencies publishing in the CFR are 
 also included in this volume.
     An index to the text of ``Title 3--The President'' is carried within 
 that volume.
@@ -197,8 +210,7 @@ volume, contact the issuing agency. The issuing agency's name appears at
 the top of odd-numbered pages.
     For inquiries concerning CFR reference assistance, call 202-523-5227 
 or write to the Director, Office of the Federal Register, National 
-Archives and Records Administration, Washington, DC 20408 or e-mail 
-info@fedreg.nara.gov.
+Archives and Records Administration, Washington, DC 20408.
 
 SALES
 
@@ -232,7 +244,9 @@ site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-April 1, 1999.
+April 1, 2000.
+
+
 
 [[Page ix]]
 
@@ -246,12 +260,12 @@ current regulations of the Federal Energy Regulatory Commission,
 Department of Energy. The second volume, containing part 400 to end, 
 includes all current regulations issued by the Delaware River Basin 
 Commission, the Water Resources Council, the Susquehanna River Basin 
-Commission, and the Tennessee Valley Authority as of April 1, 1999.
+Commission, and the Tennessee Valley Authority as of April 1, 2000.
 
     The OMB control numbers for the Federal Energy Regulatory 
 Commission, Department of Energy, appear in Sec. 389.101 of chapter I.
 
-    For this volume, Ruth Reedy Green was Chief Editor. The Code of 
+    For this volume, Jonn V. Lilyea was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
 Frances D. McDonald, assisted by Alomha S. Morris.
 
@@ -259,31 +273,32 @@ Frances D. McDonald, assisted by Alomha S. Morris.
 
 <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
 
+
 
 [[Page 1]]
 
 
 <R01>
-           TITLE 18--CONSERVATION OF POWER AND WATER RESOURCES
 
+           TITLE 18--CONSERVATION OF POWER AND WATER RESOURCES
 
 <R02>
 
                   (This book contains part 400 to End)
 
-  --------------------------------------------------------------------
+-----------------------------------------------------------------------
                                                                     Part
 
-chapter iii--Delaware River Basin Commission................         401
+Chapter III--Delaware River Basin Commission................         401
 
 
-chapter vi--Water Resources Council.........................         701
+Chapter VI--Water Resources Council.........................         701
 
 
-chapter viii--Susquehanna River Basin Commission............         801
+Chapter VIII--Susquehanna River Basin Commission............         801
 
 
-chapter xiii--Tennessee Valley Authority....................        1300
+Chapter XIII--Tennessee Valley Authority....................        1300
 
 
 
@@ -314,15 +329,12 @@ Exchanges, 17 CFR chapter II.
 
 
 <R02>
-                    CHAPTER III--DELAWARE RIVER BASIN
 
-
-                               COMMISSION
-
+             CHAPTER III--DELAWARE RIVER BASIN COMMISSION              
 
 <R03>
 
-  --------------------------------------------------------------------
+-----------------------------------------------------------------------
 
                    SUBCHAPTER A--ADMINISTRATIVE MANUAL
 Part                                                                Page
@@ -332,6 +344,7 @@ Part                                                                Page
                     quality regulations.....................          26
 415             Basin regulations--flood plain regulations..          27
 420             Basin regulations--water supply charges.....          33
+
                     SUBCHAPTER B--SPECIAL REGULATIONS
 
 430             Ground water protection area: Pennsylvania..          38
@@ -339,9 +352,12 @@ Part                                                                Page
 [[Page 5]]
 
 
+
+
 <R03>
                    SUBCHAPTER A--ADMINISTRATIVE MANUAL
 
+<R05>
 
 
 <R03>
@@ -390,7 +406,7 @@ Sec.
 401.40  Informal conferences and emergencies.
 401.41  Limitation of approval.
 
-                          Subpart D  [Reserved]
+Subpart D  [Reserved]
 
 Subpart E--Appeals or Objections to Decisions of the Executive Director 
                          in Water Quality Cases
@@ -1013,7 +1029,7 @@ Special Protection Waters.
     (c) Whenever a state or federal agency determines that a project 
 falling within an excluded classification (as defined in paragraph (a) 
 of this section) may have a substantial effect on the water resources of 
-the Basin, such project may be referred by the state of federal agency 
+the Basin, such project may be referred by the state or federal agency 
 to the Commission for action under this part.
     (d) Except as otherwise provided by Sec. 401.39 the sponsor shall 
 submit an application for review and approval of a project included 
@@ -1193,9 +1209,7 @@ of approvals) for a period of three years from date of receipt, shall be
 automatically terminated. Any renewed activity following that date will 
 require submission of a new application.
 
-
-<R04>
-                          Subpart D  [Reserved]
+Subpart D  [Reserved]
 
 
 <R04>
@@ -3126,9 +3140,12 @@ than a year.
 [[Page 38]]
 
 
+
+
 <R03>
                     SUBCHAPTER B--SPECIAL REGULATIONS
 
+<R05>
 
 
 <R03>
@@ -3329,7 +3346,7 @@ approved hereunder. Such consultation should occur early in the planning
 stage of a new project and prior to initiation of exploratory drilling.
     (a) Any person, firm corporation or other entity planning a new or 
 expanded ground water withdrawal that may be operated at a daily average 
-withdrawal duing any calendar month
+withdrawal during any calendar month
 
 [[Page 40]]
 
@@ -3493,36 +3510,121 @@ participation; and outline plans and programs including land use
 ordinances to resolve conflicts and meet needs. Integrated resource 
 plans shall be adopted and implemented by all municipalities within a 
 subbasin and incorporated into each municipality's Comprehensive Plan.
-    (3) Subject to public notice and hearing, this section may be 
-updated or revised based upon the following: the completion of baseflow 
-frequency analyses for the remaining subbasins with the Protected area; 
-new and evolving information on hydrology and streamflow and ground 
-water monitoring; or in accordance with (i)(2) of this section. The 
-potentially stressed levels and withdrawal limits for all delineated 
-basins and subbasins are set forth below:
+    (3)(i) The potentially stressed levels and withdrawal limits for all 
+delineated basins and subbasins are set forth below:
 
+------------------------------------------------------------------------
+                                            Potentially
+                Subbasin                  Stressed (mgy)    Withdrawal
+                                                \1\         Limit (mgy)
+------------------------------------------------------------------------
                           Neshaminy Creek Basin
 ------------------------------------------------------------------------
-                                                 Potentially  Withdrawal
-                    Subbasin                       stressed      limit
-                                                    (mgy)        (mgy)
+West Branch Neshaminy Creek Basin.......            1054            1405
+Pine Run Basin..........................             596             795
+North Branch Neshaminy Creek............             853            1131
+Doylestown Subbasin Neshaminy Creek.....             710             946
+Warwick Subbasin Neshaminy Creek........             889            1185
+Warrington Subbasin Little Neshaminy                 505             673
+ Creek..................................
+Park Creek Basin........................             582             776
+Warminster Subbasin Little Neshaminy                1016            1355
+ Creek..................................
+Mill Creek Basin........................            1174            1565
+Northampton Subbasin Neshaminy Creek....             596             794
+Newtown Creek...........................             298             397
+Core Creek Basin........................             494             658
+Ironworks Creek Basin...................             326             434
+Schuylkill River Basin..................            3026           4034
+                 Lower Section Subbasin Neshaminy Creek
 ------------------------------------------------------------------------
-West Branch Neshaminy..........................       1054         1405
-Pine Run.......................................        596          795
-North Branch Neshaminy.........................        853         1131
-Main Stem Doylestown...........................        710          946
-Main Stem Warwick..............................        889         1185
-Little Neshaminy Warrington....................        505          673
-Park Creek.....................................        582          776
-Little Neshaminy Warminster....................       1016         1355
-Mill Creek.....................................       1174         1565
-Main Stem Northampton..........................        596          794
-Newtown Creek..................................        298          397
-Core Creek.....................................        494          658
-Ironworks Creek................................        326          434
-Main Stem Lower Neshaminy......................       3026         4034
+Hay Creek...............................             974            1299
+Lower Reach Manatawny-Ironstone Creek...            1811            2414
+Pigeon Creek............................             611             815
+Schuylkill-Crow Creek...................            1157            1543
+Schuylkill-Mingo Creek..................             671             895
+Schuylkill-Plymouth-Mill Creeks.........            4446            5929
+Schuylkill-Sixpenny Creek...............            1490            1987
+Schuylkill-Sprogels Run.................            1091            1455
+Schuylkill-Stony Creek..................             687             916
+Schuylkill-Trout Creek..................            1082            1443
+Stony Creek.............................            1242            1655
+Valley Creek............................            1865            2486
+                  French and Pickering Creek Subbasins
 ------------------------------------------------------------------------
+Lower Reach French Creek................             634             845
+Lower Reach Pickering Creek.............            1716            2288
+Middle Reach French Creek...............            1608            2145
+South Branch French Creek...............            1044            1393
+Upper Reach French Creek................            1295            1726
+Upper Reach Pickering Creek.............            1358           1811
+                 Perkiomen and Skippack Creek Subbasins
+------------------------------------------------------------------------
+East Branch Perkiomen-Indian Creeks.....             633             844
+East Branch Perkiomen-Mill Creeks.......             720             961
+East Branch Perkiomen-Morris Run........            1214            1619
+Hosensack-Indian Creeks.................            1257            1676
+Lower Reach Skippack Creek..............            1069            1426
 
+[[Page 43]]
+
+ 
+Perkiomen-Deep Creeks...................            1047            1396
+Perkiomen-Lodal Creeks..................            1200            1600
+Perkiomen-Macoby Creek..................            1252            1669
+Swamp-Middle Creeks.....................            1423            1898
+Swamp-Minister Creeks...................             547             730
+Swamp-Scioto Creeks.....................             746             994
+Towamencin Creek........................             466             622
+Unami-Licking Creeks....................             992            1322
+Unami-Ridge Valley Creeks...............            1068            1424
+Upper Reach Perkiomen Creek.............            1223            1631
+Upper Reach Skippack Creek..............             813            1084
+West Branch Perkiomen Creek.............            1566           2088
+                          Delaware River Basin
+------------------------------------------------------------------------
+Jericho Creek...........................             421             562
+Mill Creek..............................            1600            2134
+Paunnacussing Creek.....................             513             684
+Pidcock Creek...........................             563             751
+Upper Reach Cobbs Creek.................             871            1161
+Upper Reach Crum Creek..................            1290            1721
+Upper Reach Darby Creek.................            1625            2167
+Upper Reach East Branch Chester Creek...            1865            2487
+Upper Reach Frankford Creek.............            1414            1886
+Upper Reach Poquessing Creek............            1008            1344
+Upper Reach Ridley Creek................            1707            2275
+                            Tohickon Subbasin
+------------------------------------------------------------------------
+Tohickon-Beaver-Morgan Creeks...........            1156            1541
+Tohickon-Deep Run.......................             956            1274
+Tohickon-Geddes-Cabin Runs..............             602             803
+Tohickon-Lake Nockamixon................             556             741
+Tohickon-Three Mile Run.................             726            968
+                   Pennypack and Wissahickon Subbasins
+------------------------------------------------------------------------
+Lower Reach Wissahickon Creek...........            2750            3666
+Upper Reach Wissahickon Creek...........            1302            1736
+Middle Reach Pennypack Creek............            1295            1727
+Upper Reach Pennypack Creek.............            1358           1811
+                        Brandywine Creek Subbasin
+------------------------------------------------------------------------
+East Branch Brandywine-Taylor Run.......            1054            1405
+Middle Reach Brandywine Creek...........             823            1098
+Upper Reach Brandywine Creek............            1614            2153
+West Branch Brandywine-Beaver Run.......            2110            2813
+West Branch Brandywine-Broad Run........            2380            3173
+West Valley Creek.......................            1673           2231
+                             Lehigh Subbasin
+------------------------------------------------------------------------
+Upper Reach Saucon Creek................             946            1262
+------------------------------------------------------------------------
+\1\ mgy means million gallons per year.
+
+    (ii) Subject to public notice and hearing, this section may be 
+updated or revised based upon new and evolving information on hydrology 
+and streamflow and ground water monitoring or in accordance with 
+paragraph (i)(2) of this section.
     (j) Upon its determination that a subbasin is potentially stressed, 
 the Commission shall notify all ground water users in the subbasin 
 withdrawing 10,000 gallons per day or more during any 30-day period of 
@@ -3535,21 +3637,21 @@ include one or more programs to mitigate the adverse impacts of the new
 or expanded ground water withdrawal. The eligible programs are noted 
 below. If the remainder of the application and the program(s) submitted 
 are acceptable, the withdrawal may be approved by the Commission for an 
-initial three-year period. The applicant shall implement the program(s) 
-immediately upon Commission approval. If after the three-year period the 
-program(s) is deemed successful by the Commission, the docket or permit 
-duration may be extended for up to 10 years. The project sponsor shall 
-be required to continue the program(s) for the duration of the docket or 
-permit.
+initial three-year
+
+[[Page 44]]
+
+period. The applicant shall implement the program(s) immediately upon 
+Commission approval. If after the three-year period the program(s) is 
+deemed successful by the Commission, the docket or permit duration may 
+be extended for up to 10 years. The project sponsor shall be required to 
+continue the program(s) for the duration of the docket or permit.
     (1) A conjunctive use program that demonstrates the applicant's 
 capability to obtain at least 15 percent of its average annual system 
 usage from a reliable surface water supply. An acceptable program shall 
 include either reservoir storage or an interconnection with a surface 
 water supplier and an agreement or contract to purchase water from the 
 supplier for the duration of the docket or permit.
-
-[[Page 43]]
-
     (2) A water conservation program that exceeds the requirements of 
 Sec. 430.15. For existing water utilities, the program shall reduce 
 average annual per capita water usage by at least five percent. All 
@@ -3601,17 +3703,20 @@ otherwise determined by the Commission, docket and permit holders shall
 share equitably in such reductions.
 
 [46 FR 24, Jan. 2, 1981, as amended at 50 FR 5973, Feb. 13, 1985; 63 FR 
-6477, Feb. 9, 1998]
+6477, Feb. 9, 1998; 64 FR 35566, July 1, 1999]
 
 
 <R05>
 Sec. 430.15  Conservation requirements.
 
     The following conservation requirements shall apply to all existing, 
-new or expanded ground water withdrawals for municipal, public, 
-industrial or commercial water supply whose cumulative daily average 
-withdrawal from one or more wells during any calendar month exceeds 
-10,000 gallons.
+new
+
+[[Page 45]]
+
+or expanded ground water withdrawals for municipal, public, industrial 
+or commercial water supply whose cumulative daily average withdrawal 
+from one or more wells during any calendar month exceeds 10,000 gallons.
     (a) Each person, firm, corporation or other entity withdrawing 
 ground water within the Southeastern Pennsylvania Ground Water Protected 
 Area for purposes of municipal or public water supply shall comply with 
@@ -3620,13 +3725,9 @@ the following conservation requirements:
 shall be based on metered usage.
     (2) A water conservation program shall be initiated and diligently 
 pursued within the service area of the municipal or public water supply. 
-Such program shall include a program for
-
-[[Page 44]]
-
-leakage control providing for the monitoring, prevention and repair of 
-significant leakage, and the provision of customer information relating 
-to water-saving devices.
+Such program shall include a program for leakage control providing for 
+the monitoring, prevention and repair of significant leakage, and the 
+provision of customer information relating to water-saving devices.
     (3) Interconnections with adjacent water systems shall be considered 
 to assure more reliable supplies of water during emergencies.
     (4) A drought emergency plan specifying actions which would be taken 
@@ -3684,23 +3785,23 @@ Sec. 430.19  Ground water withdrawal metering, recording, and reporting.
     (a) Each person, firm, corporation, or other entity whose cumulative 
 daily average withdrawal of ground water from a well or group of wells 
 operated as a system exceeds 10,000 gallons per day during any 30-day 
-period shall meter or measure and record their withdrawals and report 
-such withdrawals to the Pennsylvania Department of Environmental 
-Resources. Withdrawals shall be measured by means of an automatic 
-continuous recording device, flow meter, or other method, and shall be 
-measured to within five percent of actual flow. Meters or other methods 
-of measurement shall be subject to approval and inspection by the 
+period shall
+
+[[Page 46]]
+
+meter or measure and record their withdrawals and report such 
+withdrawals to the Pennsylvania Department of Environmental Resources. 
+Withdrawals shall be measured by means of an automatic continuous 
+recording device, flow meter, or other method, and shall be measured to 
+within five percent of actual flow. Meters or other methods of 
+measurement shall be subject to approval and inspection by the 
 Pennsylvania Department of Environmental Resources as to type, method, 
 installation, maintenance, calibration, reading, and accuracy. 
 Withdrawals shall at a minimum be recorded on a daily basis for public 
 water supply use and on a biweekly basis for all other water uses, and 
 reported as monthly totals annually. More frequent recording or 
-reporting may be
-
-[[Page 45]]
-
-required by the Pennsylvania Department of Environmental Resources or 
-the Commission.
+reporting may be required by the Pennsylvania Department of 
+Environmental Resources or the Commission.
     (b) The following water uses and operations are exempt from the 
 metering or measurement requirements of paragraph (a): Agricultural 
 irrigation; snowmaking; dewatering incidental to mining and quarrying; 
@@ -3772,9 +3873,13 @@ shall be calculated on the basis of the average recharge rate to the
 basin, aquifer, or aquifer system during repetition of a period which 
 includes the worst recorded drought.
     (c) The requirement of paragraph (a) or (b) of this section may be 
-modified or waived by the Executive Director or the Commission if an 
-applicant adopts and implements a program for coordinated use of ground 
-and surface water, and the applicant demonstrates that operation of the 
+modified
+
+[[Page 47]]
+
+or waived by the Executive Director or the Commission if an applicant 
+adopts and implements a program for coordinated use of ground and 
+surface water, and the applicant demonstrates that operation of the 
 coordinated program will be consistent with the policies contained in 
 the Comprehensive Plan and the purposes of these regulations.
 
@@ -3788,12 +3893,9 @@ Sec. 430.25  Other permit requirements.
 of existing ground and surface water withdrawals and the issuance of 
 withdrawal permits hereunder shall not create any private or proprietary 
 rights in the water of the basin and the Commission reserves the right 
-to amend, alter, or repeal these regulations and to amend,
-
-[[Page 46]]
-
-alter or rescind any actions taken hereunder in order to insure the 
-proper control, use and management of the water resources of the basin.
+to amend, alter, or repeal these regulations and to amend, alter or 
+rescind any actions taken hereunder in order to insure the proper 
+control, use and management of the water resources of the basin.
     (b) Neither the obligation to obtain a protected area permit under 
 this regulation, nor the receipt thereof, shall relieve the sponsor of a 
 new or expanded ground water withdrawal project of the obligation to 
@@ -3856,11 +3958,15 @@ the Compact.
 request the appropriate law enforcement officers of the Commonwealth of 
 Pennsylvania to prosecute any or all violations of this regulation in 
 accordance with the Compact and the laws of the Commonwealth, and for 
-recovery of the fines fixed by section 14.17 of the Compact, in the name 
-and on behalf of the Commission. The Commonwealth of Pennsylvania and 
-its law enforcement officers are hereby requested pursuant to sections 
-10.1 and 11.5 of the Compact, to provide such technical, professional 
-and administrative services as may be required for such enforcement.
+recovery of the fines fixed by section 14.17 of the Compact,
+
+[[Page 48]]
+
+in the name and on behalf of the Commission. The Commonwealth of 
+Pennsylvania and its law enforcement officers are hereby requested 
+pursuant to sections 10.1 and 11.5 of the Compact, to provide such 
+technical, professional and administrative services as may be required 
+for such enforcement.
     (c) In addition to such penal sanctions as may be imposed pursuant 
 to this section, any violation of this regulation shall be subject to 
 such civil remedies by injunction and otherwise as provided by law.
@@ -3872,12 +3978,9 @@ such civil remedies by injunction and otherwise as provided by law.
 Sec. 430.33  Duration.
 
     The delineation and declaration of the Southeastern Pennsylvania 
-Ground Water Protected Area made pursuant
-
-[[Page 47]]
-
-to this regulation, and the requirements established hereby, shall 
-continue until terminated by specific action of the Commission.
+Ground Water Protected Area made pursuant to this regulation, and the 
+requirements established hereby, shall continue until terminated by 
+specific action of the Commission.
 
 [46 FR 24, Jan. 2, 1981. Redesignated at 51 FR 25031, July 10, 1986]
 
@@ -3904,13 +4007,13 @@ geographic boundaries of the protected area, in accordance with Article
   --------------------------------------------------------------------
 Part                                                                Page
 701             Council organization........................          51
-704             Plan formulation standards and procedures...          66
+704             Plan formulation standards and procedures...          65
 705             Nondiscrimination in federally assisted 
                     programs--effectuation of Title VI of 
                     the Civil Rights Act of 1964............          66
 706             Employee responsibilities and conduct.......          74
 707             Compliance with the National Environmental 
-                    Policy Act (NEPA).......................          82
+                    Policy Act (NEPA).......................          81
 708             Upper Mississippi River Basin Commission: 
                     Public participation in Upper 
                     Mississippi River System Master Plan....          85
@@ -5220,8 +5323,6 @@ U.S.C. 552a(j) and (k).
 
 [40 FR 45676, Oct. 2, 1975. Redesignated at 41 FR 8344, Feb. 26, 1976]
 
-[[Page 66]]
-
 
 <R03>
 PART 704--PLAN FORMULATION STANDARDS AND PROCEDURES--Table of Contents
@@ -5229,7 +5330,9 @@ PART 704--PLAN FORMULATION STANDARDS AND PROCEDURES--Table of Contents
 <R05>
 
 
-                        Subparts A-D--[Reserved]
+Subparts A-D  [Reserved]
+
+[[Page 66]]
 
         Subpart E--Standards for Plan Formulation and Evaluation
 
@@ -5315,15 +5418,16 @@ d--1), and sec. 402 of Pub. L. 89-80, 79 Stat. 254, (42 U.S.C. 1962 d--
 Sec. 705.1  Purpose.
 
     The purpose of this subpart is to implement the provisions of Title 
-VI of the Civil Rights Act of 1964, 78 Stat. 252
+VI of the Civil Rights Act of 1964, 78 Stat. 252 (hereafter referred to 
+as the ``Act''), to the end that no person in the United States shall, 
+on the ground of race, color, or national origin, be excluded from 
+participation in, be denied the
 
 [[Page 67]]
 
-(hereafter referred to as the ``Act''), to the end that no person in the 
-United States shall, on the ground of race, color, or national origin, 
-be excluded from participation in, be denied the benefits of, or 
-otherwise be subjected to discrimination under any program or activity 
-receiving Federal financial assistance from the Water Resources Council.
+benefits of, or otherwise be subjected to discrimination under any 
+program or activity receiving Federal financial assistance from the 
+Water Resources Council.
 
 
 <R05>
@@ -5394,13 +5498,11 @@ assistance is authorized under a law administered by the Water Resources
 Council. It applies to money paid, property transferred, or other 
 Federal financial assistance extended under any such program after the 
 date of this part pursuant to an application whether approved before or 
-after such date. This part does not
+after such date. This part does not apply to (a) any Federal financial 
+assistance by way of insurance or guaranty contracts, or (b) any 
+employment practice except to the extent described in Sec. 705.4(c).
 
 [[Page 68]]
-
-apply to (a) any Federal financial assistance by way of insurance or 
-guaranty contracts, or (b) any employment practice except to the extent 
-described in Sec. 705.4(c).
 
 
 <R05>
@@ -5471,22 +5573,22 @@ practice or usage, and to accomplish the purposes of the Act.
     (c) Employment practices. (1) Where a primary objective of a program 
 of Federal financial assistance to which this part applies is to provide 
 employment, a recipient or other party subject to this part shall not, 
-directly or through
+directly or through contractual or other arrangements, subject a person 
+to discrimination on the grounds of race, color, or national origin in 
+its employment practices
 
 [[Page 69]]
 
-contractual or other arrangements, subject a person to discrimination on 
-the grounds of race, color, or national origin in its employment 
-practices under such program (including recruitment or recruitment 
-advertising, hiring, firing, upgrading, promotion, demotion, transfer, 
-layoff, termination, rates of pay or other forms of compensation or 
-benefits, selection for training or apprenticeship, use of facilities, 
-and treatment of employees). Such recipient shall take affirmative 
-action to insure that applicants are employed, and employees are treated 
-during employment, without regard to their race, color, or national 
-origin. The requirements applicable to construction employment under any 
-such program shall be those specified in or pursuant to Part III of 
-Executive Order 11246 or any Executive Order which supersedes it.
+under such program (including recruitment or recruitment advertising, 
+hiring, firing, upgrading, promotion, demotion, transfer, layoff, 
+termination, rates of pay or other forms of compensation or benefits, 
+selection for training or apprenticeship, use of facilities, and 
+treatment of employees). Such recipient shall take affirmative action to 
+insure that applicants are employed, and employees are treated during 
+employment, without regard to their race, color, or national origin. The 
+requirements applicable to construction employment under any such 
+program shall be those specified in or pursuant to Part III of Executive 
+Order 11246 or any Executive Order which supersedes it.
     (2) Where a primary objective of the Federal financial assistance is 
 not to provide employment, but discrimination on the grounds of race, 
 color, or national origin in the employment practices of the recipient 
@@ -5546,23 +5648,23 @@ Sec. 705.6  Compliance information.
 
     (a) Cooperation and assistance. The responsible agency official 
 shall, to the fullest extent practicable, seek the cooperation of 
-recipients in obtaining compliance with this part and shall
+recipients in obtaining compliance with this part and shall provide 
+assistance and guidance to recipients to help them comply voluntarily 
+with this part.
+    (b) Compliance reports. Each recipient shall keep such records and 
+submit to the responsible agency official timely,
 
 [[Page 70]]
 
-provide assistance and guidance to recipients to help them comply 
-voluntarily with this part.
-    (b) Compliance reports. Each recipient shall keep such records and 
-submit to the responsible agency official timely, complete, and accurate 
-compliance reports at such times, and in such form and containing such 
-information, as the responsible agency official may determine to be 
-necessary to enable him to ascertain whether the recipient has complied 
-or is complying with this part. In the case of any program under which a 
-primary recipient extends Federal financial assistance to any other 
-recipient or subcontracts with any other person or group, such other 
-recipient shall also submit such compliance reports to the primary 
-recipient as may be necessary to enable the primary recipient to carry 
-out its obligations under this part.
+complete, and accurate compliance reports at such times, and in such 
+form and containing such information, as the responsible agency official 
+may determine to be necessary to enable him to ascertain whether the 
+recipient has complied or is complying with this part. In the case of 
+any program under which a primary recipient extends Federal financial 
+assistance to any other recipient or subcontracts with any other person 
+or group, such other recipient shall also submit such compliance reports 
+to the primary recipient as may be necessary to enable the primary 
+recipient to carry out its obligations under this part.
     (c) Access to sources of information. Each recipient shall permit 
 access by the responsible agency official during normal business hours 
 to such of its books, records, accounts, and other sources of 
@@ -5620,12 +5722,11 @@ privilege secured by section 601 of the Act or this part, or because he
 has made a complaint, testified, assisted, or participated in any manner 
 in an investigation, proceeding, or hearing under this part. The 
 identity of complainants shall be kept confidential except to the extent 
-necessary to
+necessary to carry out the purpose of this part, including the conduct 
+of any investigation, hearing, or judicial proceeding arising 
+thereunder.
 
 [[Page 71]]
-
-carry out the purpose of this part, including the conduct of any 
-investigation, hearing, or judicial proceeding arising thereunder.
 
 
 <R05>
@@ -5700,25 +5801,25 @@ is required by Sec. 705.8(c), reasonable notice shall be given by
 registered or certified mail, return receipt requested, to the affected 
 applicant or recipient. This notice shall advise the applicant or 
 recipient of the action proposed to be taken, the specific provision 
-under which the proposed action against it is
+under which the proposed action against it is to be taken, and the 
+matters of fact or law asserted as the basis for this action, and either 
+(1) fix a date not less
 
 [[Page 72]]
 
-to be taken, and the matters of fact or law asserted as the basis for 
-this action, and either (1) fix a date not less than 20 days after the 
-date of such notice within which the applicant or recipient may request 
-of the responsible agency official that the matter be scheduled for 
-heaing or (2) advise the applicant or recipient that the matter in 
-question has been set down for hearing at a stated place and time. The 
-time and place so fixed shall be reasonable and shall be subject to 
-change for cause. The complainant, if any, shall be advised of the time 
-and place of the hearing. An applicant or recipient may waive a hearing 
-and submit written information and argument for the record. The failure 
-of an applicant or recipient to request a hearing under this paragraph 
-or to appear at a hearing for which a date has been set shall be deemed 
-to be a waiver of the right to a hearing under section 602 of the Act 
-and Sec. 705.8(c) and consent to the making of a decision on the basis 
-of such information as is available.
+than 20 days after the date of such notice within which the applicant or 
+recipient may request of the responsible agency official that the matter 
+be scheduled for heaing or (2) advise the applicant or recipient that 
+the matter in question has been set down for hearing at a stated place 
+and time. The time and place so fixed shall be reasonable and shall be 
+subject to change for cause. The complainant, if any, shall be advised 
+of the time and place of the hearing. An applicant or recipient may 
+waive a hearing and submit written information and argument for the 
+record. The failure of an applicant or recipient to request a hearing 
+under this paragraph or to appear at a hearing for which a date has been 
+set shall be deemed to be a waiver of the right to a hearing under 
+section 602 of the Act and Sec. 705.8(c) and consent to the making of a 
+decision on the basis of such information as is available.
     (b) Time and place of hearing. Hearings shall be held at the offices 
 of the Water Resources Council in Washington, DC, at a time fixed by the 
 responsible agency official unless it determines that the convenience of 
@@ -5773,11 +5874,11 @@ recipient. Where the initial decision is made by the hearing examiner,
 the applicant or recipient may, within 30 days after the mailing of such 
 notice of initial decision, file with the responsible agency official 
 his exceptions to the initial decision, with his reasons therefor. In 
-the absence of exceptions, the responsible
+the absence of exceptions, the responsible agency official may, on his 
+own motion, within 45 days after the initial
 
 [[Page 73]]
 
-agency official may, on his own motion, within 45 days after the initial 
 decison, serve on the applicant or recipient a notice that he will 
 review the decision. Upon the filing of such exceptions or of notice of 
 review, the responsible agency official shall review the initial 
@@ -5844,12 +5945,11 @@ in error. It shall thereupon be given an expeditious hearing, with a
 decision on the record. The applicant or recipient will be estored to 
 such eligibility if it proves at such a hearing that it satisfied the 
 requirements of paragraph (g)(1). While proceedings under this paragraph 
-are
+are pending, the sanctions imposed by the
 
 [[Page 74]]
 
-pending, the sanctions imposed by the order issued under paragraph (f) 
-of this section shall remain in effect.
+order issued under paragraph (f) of this section shall remain in effect.
 
 
 <R05>
@@ -5941,10 +6041,6 @@ Sec.
 706.412  Submission of statements by special Government employees.
 706.413  Submission of statements by River Basin Commission Chairmen.
 
-
-[[Page 75]]
-
-
     Authority: Water Resources Planning Act, 1965 (Sec. 402, Pub. L. 89-
 80, 79 Stat. 254 (42 U.S.C. 1962d-1)); E.O. 11222 (30 FR 6469, 3 CFR 
 Proc. 3279; as amended); 5 CFR Part 735 (33 FR 12487).
@@ -5960,16 +6056,20 @@ Proc. 3279; as amended); 5 CFR Part 735 (33 FR 12487).
 Sec. 706.101  Purpose.
 
     The maintenance of unusually high standards of honesty, integrity, 
-impartiality, and conduct by employees and special Government employees 
-is essential to assure the proper performance of the Water Resources 
-Council's (hereafter referred to as the Council) business and the 
-maintenance of confidence by citizens in their Government. The avoidance 
-of misconduct and conflicts of interest on the part of employees and 
-special Government employees through informed judgment is indispensable 
-to the maintenance of these standards. To accord with these concepts, 
-this part sets forth the Council's regulations prescribing standards of 
-conduct and responsibilities and governing statements of employment and 
-financial interests for employees and special Government employees.
+impartiality, and conduct by employees and
+
+[[Page 75]]
+
+special Government employees is essential to assure the proper 
+performance of the Water Resources Council's (hereafter referred to as 
+the Council) business and the maintenance of confidence by citizens in 
+their Government. The avoidance of misconduct and conflicts of interest 
+on the part of employees and special Government employees through 
+informed judgment is indispensable to the maintenance of these 
+standards. To accord with these concepts, this part sets forth the 
+Council's regulations prescribing standards of conduct and 
+responsibilities and governing statements of employment and financial 
+interests for employees and special Government employees.
 
 
 <R05>
@@ -6044,12 +6144,8 @@ performance or nonperformance of his official duty.
 not apply to:
     (1) Obvious family or personal relationships, such as those between 
 the employee and his parents, children, or spouse, when the 
-circumstances make
-
-[[Page 76]]
-
-it clear that those relationships rather than the business of the 
-persons concerned are the motivating factors;
+circumstances make it clear that those relationships rather than the 
+business of the persons concerned are the motivating factors;
     (2) The acceptance of food and refreshments of nominal value on 
 infrequent occasions in the ordinary course of a luncheon or dinner 
 meeting or other meeting or on an inspection tour where an employee may 
@@ -6057,6 +6153,9 @@ be properly in attendance;
     (3) The acceptance of loans from banks or other financial 
 institutions on customary terms to finance proper and usual activities 
 of employees, such as home mortgage loans; and
+
+[[Page 76]]
+
     (4) The acceptance of unsolicited advertising or promotional 
 material, such as pens, pencils, note pads, calendars, and other items 
 of nominal intrinsic value.
@@ -6117,9 +6216,6 @@ Government.
     (d) An employee shall not engage in outside work or activity which 
 may be construed by the public to be official acts of the Council, or of 
 a nature closely paralleling the work of the Council.
-
-[[Page 77]]
-
     (e) An employee who engages in any kind of outside paid employment 
 on a substantially regular basis shall submit to his immediate 
 supervisor a memorandum describing the employment and stating 
@@ -6129,6 +6225,9 @@ inclusion in the employee's Official Personnel Folder.
     (f) This section does not preclude an employee from:
     (1) Participation in the activities of national or State political 
 parties not proscribed by law;
+
+[[Page 77]]
+
     (2) Participation in the local self-government activities in the 
 community in which he resides to the extent permitted by law; or,
     (3) Participation in the affairs of, or acceptance of an award for 
@@ -6208,9 +6307,6 @@ State, or local taxes. For the purpose of this section, a ``just
 financial obligation'' means one acknowledged by the employee or reduced 
 to judgment by a court or one imposed by law such as Federal, State or 
 local taxes.
-
-[[Page 78]]
-
     (b) When an employee has a levy placed against his salary for 
 failure to pay an indebtedness for Federal income taxes, he shall be 
 issued a written reprimand stating that failure to make satisfactory 
@@ -6219,10 +6315,14 @@ removal.
     (c) When an employee is the subject of a letter of complaint stating 
 that he has not paid his State or local taxes and has failed to make 
 satisfactory arrangements regarding the debt, he shall be interviewed by 
-the Assistant Director, Division of Program Coordination and Management. 
-In this interview he shall be instructed to make satisfactory 
-arrangements for the payment of his debt immediately and informed that 
-failure to do so will be grounds for removal.
+the Assistant
+
+[[Page 78]]
+
+Director, Division of Program Coordination and Management. In this 
+interview he shall be instructed to make satisfactory arrangements for 
+the payment of his debt immediately and informed that failure to do so 
+will be grounds for removal.
     (d) When an employee is the subject of a letter of complaint 
 regarding any other kind of indebtedness to a unit of government, 
 Federal, State, or local, the procedure prescribed in paragraph (c) of 
@@ -6291,9 +6391,6 @@ Communist organization (50 U.S.C. 784).
     (1) The disclosure of classified information (18 U.S.C. 798, 50 
 U.S.C. 783); and
     (2) The disclosure of confidential information (18 U.S.C. 1905).
-
-[[Page 79]]
-
     (g) The provision relating to the habitual use of intoxicants to 
 excess (5 U.S.C. 7352).
     (h) The prohibition against the misuse of a Government vehicle (31 
@@ -6307,6 +6404,9 @@ personnel action in connection with Government employment (18 U.S.C.
 Government matter (18 U.S.C. 1001).
     (l) The prohibition against mutilating or destroying a public record 
 (18 U.S.C. 2071).
+
+[[Page 79]]
+
     (m) The prohibition against counterfeiting and forging 
 transportation requests (18 U.S.C. 508).
     (n) The prohibitions against:
@@ -6377,9 +6477,6 @@ employment, shall not receive or solicit from a person having business
 with the Council anything of value as a gift, gratuity, loan, 
 entertainment, or favor for himself or another person, particularly one 
 with whom he has family, business, or financial ties.
-
-[[Page 80]]
-
     (b) The exceptions from the restrictions as set forth in 
 Sec. 706.202(b) for employees apply in the same manner to special 
 Government employees.
@@ -6400,7 +6497,11 @@ Government employees in the same manner as to employees.
 Sec. 706.401  Employees required to submit statements.
 
     (a) Employees in the following named positions shall submit 
-statements of employment and financial interst to the Director:
+statements of
+
+[[Page 80]]
+
+employment and financial interst to the Director:
     (1) Employees in Grade GS-16 or above of the General Schedule 
 established by the Classification Act of 1949, as amended;
     (2) The General Counsel and Administrative Officer;
@@ -6476,11 +6577,8 @@ Sec. 706.407  Information not known by employees.
     If any information required to be included on a statement of 
 employment and financial interests or on a supplementary statement, 
 including holdings placed in trust, is not known to the employee but is 
-known to another person, the employee shall request that
-
-[[Page 81]]
-
-other person to submit the information in his behalf.
+known to another person, the employee shall request that other person to 
+submit the information in his behalf.
 
 
 <R05>
@@ -6494,9 +6592,13 @@ recreational, public service, civic, or political organization or a
 similar organization not conducted as a business enterprise. For the 
 purpose of this section, educational and other institutions doing 
 research and development or related work involving grants of money from 
-or contracts with the Government are deemed ``business enterprises'' and 
-are required to be included in an employee's statement of employment and 
-financial interests.
+or contracts with
+
+[[Page 81]]
+
+the Government are deemed ``business enterprises'' and are required to 
+be included in an employee's statement of employment and financial 
+interests.
 
 
 <R05>
@@ -6561,8 +6663,6 @@ For the purposes of this paragraph ``consultant'' and ``expert'' have
 the meanings given those terms by Chapter 304 of the Federal Personnel 
 Manual.
 
-[[Page 82]]
-
 
 <R05>
 Sec. 706.413  Submission of statements by River Basin Commission Chairmen.
@@ -6588,6 +6688,9 @@ Sec.
 707.2  Purpose.
 707.3  Applicability.
 707.4  Definitions.
+
+[[Page 82]]
+
 707.5  Policy.
 
        Subpart B--Water Resources Council Implementing Procedures
@@ -6659,19 +6762,15 @@ or River Basin Plans.
 Sec. 707.3  Applicability.
 
     This NEPA rule applies to the WRC as an independent executive agency 
-and to Title II river basin commissions
-
-[[Page 83]]
-
-(RBC's) and other entities (such as interagency committees) preparing 
-studies and plans for WRC review and transmittal to the President. 
-Although Title III State planning grants do not normally require 
-environmental assessments or statements (Sec. 707.8 (a)(3)), the WRC 
-will encourage States receiving grants to give appropriate consideration 
-to the environmental effects of their proposed actions and to 
-incorporate suitable environmental conditions, to the extent permitted 
-by State law. The preamble to the WRC Title III guidelines will reflect 
-this policy.
+and to Title II river basin commissions (RBC's) and other entities (such 
+as interagency committees) preparing studies and plans for WRC review 
+and transmittal to the President. Although Title III State planning 
+grants do not normally require environmental assessments or statements 
+(Sec. 707.8 (a)(3)), the WRC will encourage States receiving grants to 
+give appropriate consideration to the environmental effects of their 
+proposed actions and to incorporate suitable environmental conditions, 
+to the extent permitted by State law. The preamble to the WRC Title III 
+guidelines will reflect this policy.
 
 
 <R05>
@@ -6679,10 +6778,14 @@ Sec. 707.4  Definitions.
 
     (a) Responsible Federal Official (RFO). The ``Responsible Federal 
 Official (RFO)'' is the official of the Federal Government designated by 
-this rule who shall be responsible for the implementation of NEPA, 
-including regulations issued by the CEQ (40 CFR Parts 1500 through 1508) 
-and the rule. Of particular importance, the RFO determines the need for 
-an Environmental Assessment or Environmental Impact Statement (EIS) in 
+this rule
+
+[[Page 83]]
+
+who shall be responsible for the implementation of NEPA, including 
+regulations issued by the CEQ (40 CFR Parts 1500 through 1508) and the 
+rule. Of particular importance, the RFO determines the need for an 
+Environmental Assessment or Environmental Impact Statement (EIS) in 
 accordance with Sec. 707.8 (a)(2) and (b), and if an EIS is required, 
 files the draft and final EIS, makes the Record of Decision and assures 
 appropriate public involvement in accordance with 40 CFR 1506.6. The 
@@ -6733,10 +6836,7 @@ impact statement, the appropriate RFO will establish a specific program
 and schedule for public participation of all interested parties in the 
 NEPA process, and shall otherwise provide for public involvement in 
 accordance with the CEQ NEPA regulations (40 CFR 1506.6).
-    (c) Environmental Impact Statements. Environmental Impact Statements
-
-[[Page 84]]
-
+    (c) Environmental Impact Statements. Environmental Impact Statements 
 (EIS's) as required under Section 102(2)(C) of NEPA will be prepared by 
 river basin commissions, interagency committee, or WRC coordinating 
 committees for comprehensive coordinated joint plans and regional or 
@@ -6749,6 +6849,8 @@ Tiering). Review and comment on the draft study or plan and the
 incorporated draft environmental impact statement will be performed 
 simultaneously, and the final combined report will incorporate and 
 discuss the comments received on the draft.
+
+[[Page 84]]
 
 
 <R04>
@@ -6814,12 +6916,9 @@ submitted to WRC for review.
 Sec. 707.8  Typical classes of action requiring similar treatment under NEPA.
 
     (a) Section 1507.3(b)(2) of the CEQ NEPA regulations in conjunction 
-with Sec. 1508.4 requires agencies to establish
-
-[[Page 85]]
-
-three typical classes of action for similar treatment under NEPA. These 
-typical classes of actions are set forth below:
+with Sec. 1508.4 requires agencies to establish three typical classes of 
+action for similar treatment under NEPA. These typical classes of 
+actions are set forth below:
     (1) Actions normally requiring EIS's:
     (i) Adoption, approval or submittal of regional water resources 
 management plans (comprehensive, coordinated, joint plans or elements 
@@ -6832,6 +6931,9 @@ changes) in principles, standards, and procedures for planning water and
 related land resources.
     (ii) Adoption, approval or submittal of framework studies and 
 special studies which include recommendations for future actions.
+
+[[Page 85]]
+
     (iii) Any action not in paragraph (a) (1) or (3) of this section.
     (3) Actions normally not requiring assessments or EIS's (categorical 
 exclusions):
@@ -6904,9 +7006,6 @@ Sec.
 708.2  Scope.
 708.3  Policy, objectives, and standards.
 708.4  Required programs and reports.
-
-[[Page 86]]
-
 708.5  Program objectives implementation.
 
     Authority: Title II, sec. 204, Pub. L. 89-80, Water Resources 
@@ -6926,6 +7025,9 @@ L. 95-502.
 with headquarters at Fort Snelling, Twin Cities, Minnesota.
     (c) Master Plan means the Upper Mississippi River System 
 Comprehensive Master Management Plan mandated by Title I of the Act.
+
+[[Page 86]]
+
     (d) GREAT refers to studies conducted by Great River Environmental 
 Action Teams pursuant to section 117 of the Water Resources and 
 Development Act of 1976 (Pub. L. 94-587) for purposes of developing 
@@ -6988,10 +7090,7 @@ recommendations and achieve such objectives.
 in the development, revision, and implementation of the Master Plan and 
 to encourage and assist such participation. In doing this, the 
 Commission seeks to foster a spirit of openness and a sense of mutual 
-trust between the public and the planners. Public participation is
-
-[[Page 87]]
-
+trust between the public and the planners. Public participation is 
 expected to result in greater responsiveness of the Master Plan to 
 public concerns and priorities, as well as improved popular 
 understanding of official studies, planning processes, and decisions.
@@ -7005,8 +7104,12 @@ expressions.
     (4) Neither the Master Plan as a whole nor any component of it shall 
 be formulated without incorporation of a program of public participation 
 involving fair representation of all segments of the public. The public 
-participation section of the Master Plan--Plan of Study shall be 
-developed consistent with the guidelines described in this part.
+participation
+
+[[Page 87]]
+
+section of the Master Plan--Plan of Study shall be developed consistent 
+with the guidelines described in this part.
     (5) Public participation processes utilized by the Commission in 
 developing the Master Plan shall aim for the highest achievable 
 standards of objectivity and thoroughness consistent with other 
@@ -7065,9 +7168,6 @@ provisions.
     (b) In addition to public meetings and hearings, the public 
 participation program shall include survey research, program evaluation, 
 and information/education activities as described in Sec. 708.5.
-
-[[Page 88]]
-
     (c) The Commission shall recommend long-term public participation 
 activities and programs related to implementation of the Master Plan. 
 These recommendations shall be based on evaluation of procedures and 
@@ -7080,6 +7180,8 @@ of the main participation elicited, the costs of the effort, and the use
 that was made of the elicited information in the planning process. The 
 reporting periods shall be arranged so as to correspond generally with 
 the main sequential segments of the overall planning process.
+
+[[Page 88]]
 
 
 <R05>
@@ -7135,10 +7237,7 @@ other relevant subject areas. Special efforts shall be made to summarize
 complex technical materials for public and media use. The Commission 
 shall have standing arrangements for early consultation and exchange of 
 views with interested or affected persons and organizations on 
-development or revisions of plans, programs, or other significant
-
-[[Page 89]]
-
+development or revisions of plans, programs, or other significant 
 actions prior to decision-making. Survey research methods and other 
 procedures will be used to determine the content and emphasis of 
 information and education activities and products.
@@ -7153,6 +7252,9 @@ sequential elements of the planning process.
 interested organizations an opportunity to utilize an informally-
 structured format to air their suggestions and grievances in regard to 
 the subject matter of the Master Plan.
+
+[[Page 89]]
+
     (iii) When the Commission deems a formal public hearing is 
 necessary, it may coincide with the pulic meeting. When this is the 
 case, a clear distinction shall be made between the formal and open 
@@ -7206,9 +7308,6 @@ identification.
 available to the public at cost. The Commission shall invite, receive, 
 and consider comments in writing from any interested or affected persons 
 and organizations. All such comments shall be part of the public record.
-
-[[Page 90]]
-
     (f) To provide mechanisms for evaluation of public participations in 
 the Master Plan:
     (1) The Commission shall conduct periodic evaluations of the public 
@@ -7224,10 +7323,13 @@ participation methods and procedures.
     (iv) The need to modify the public participation process during the 
 Master Plan.
     (2) Public participation evaluations shall be incorporated into the 
-Master Plan. Recommendations resulting from this overall evaluation 
-shall be utilized to draft new guidelines and plans of study for public 
-participation programs to be implemented after the Master Plan has been 
-adopted.
+Master Plan. Recommendations resulting from
+
+[[Page 90]]
+
+this overall evaluation shall be utilized to draft new guidelines and 
+plans of study for public participation programs to be implemented after 
+the Master Plan has been adopted.
 
 
 <R03>
@@ -7307,9 +7409,6 @@ modification of wetlands;
 new construction in wetlands wherever there is a practicable 
 alternative;
     (c) Reduce the risk of flood loss;
-
-[[Page 91]]
-
     (d) Promote the use of nonstructural loss reduction methods to 
 reduce the risk of flood loss;
     (e) Minimize the impact of floods on human health, safety and 
@@ -7327,9 +7426,12 @@ Floodplain Management;
 ensure consistency between them and the provisions of E.O. 11988 and 
 11990; and
     (l) Improve and coordinate the Council's plans, programs, functions 
-and resources so that the Nation may attain the widest range of 
-beneficial uses of the environment without degradation or risk to health 
-and safety.
+and resources so that the Nation may attain
+
+[[Page 91]]
+
+the widest range of beneficial uses of the environment without 
+degradation or risk to health and safety.
 
 
 <R05>
@@ -7341,7 +7443,7 @@ potential harm if they were located in floodplains or wetlands. The
 basic test of the potential of an action to affect floodplains or 
 wetlands is the action's potential to result in the long- or short-term 
 adverse impacts associated with:
-    (a) The occupany or modification of floodplains, or the direct and 
+    (a) The occupancy or modification of floodplains, or the direct and 
 indirect support of floodplain development; or
     (b) The destruction or modification of wetlands or the direct or 
 indirect support of new construction in wetlands.
@@ -7397,11 +7499,8 @@ Sec. 725.6  Principles, standards and procedures.
 
     The Principles, Standards and Procedures established by the Council 
 pursuant to section 103 of Pub. L. 89-80 shall reflect the provisions of 
-the Executive Orders. These Principles, Standards
-
-[[Page 92]]
-
-and Procedures are found in 18 CFR parts 710 through 717.
+the Executive Orders. These Principles, Standards and Procedures are 
+found in 18 CFR parts 710 through 717.
 
 
 <R05>
@@ -7419,6 +7518,9 @@ floodplains or wetlands, or, even if located outside of them, would have
 the potential to affect floodplains or wetlands;
     (2) Avoidance of performing activities within floodplains or 
 wetlands wherever there is a practicable alternative;
+
+[[Page 92]]
+
     (3) Where avoidance of floodplains cannot be achieved, minimization 
 of adverse impacts and support of floodplain development, and 
 preservation and restoration of natural and beneficial floodplain 
@@ -7498,9 +7600,6 @@ for water management planning programs which address each State's
 particular needs, which are based on established State goals and 
 objectives, and which take into consideration national goals and 
 objectives.
-
-[[Page 93]]
-
     (b) The purpose of the State Water Management Planning Program 
 (Program) is to provide financial and program assistance to 
 participating States to support the development and modification of 
@@ -7517,6 +7616,9 @@ related programs of other Federal agencies;
 planning;
     (3) Integration of water quantity and water quality planning;
     (4) Integration of ground and surface water planning;
+
+[[Page 93]]
+
     (5) Planning for protection and management of groundwater supplies;
     (6) Planning for protection and management of instream values; and
     (7) Enhanced cooperation and coordination between Federal, regional 
@@ -7571,12 +7673,8 @@ of institutions of higher education and hospitals.
     Milestones mean key events in the activity implementation schedule. 
 Milestones indicate important dates for design implementation and 
 monitoring tasks. Examples of milestones include but are not limited to 
-hiring of key staff, publication dates, workshop
-
-[[Page 94]]
-
-dates, or the completion of specific phases of the implementation 
-schedule.
+hiring of key staff, publication dates, workshop dates, or the 
+completion of specific phases of the implementation schedule.
     Obligation means orders placed, contracts awarded, grants issued, 
 services received and similar transactions during a given period that 
 require the disbursement of money.
@@ -7591,8 +7689,11 @@ estimate by the U.S. Department of Commerce available on or before
 January 1, of the year preceding the fiscal year for which funds under 
 this part are appropriated.
     Related land resources means any land affected by present or 
-projected management practices causing significant effects on the 
-quantity or quality of the water resource.
+projected management practices causing significant
+
+[[Page 94]]
+
+effects on the quantity or quality of the water resource.
     State means each of the 50 States, the District of Columbia, the 
 Commonwealth of Puerto Rico, the Virgin Islands, Guam, or the 
 Commonwealth of the Northern Mariana Islands.
@@ -7648,9 +7749,6 @@ administering the program; and
     (2) A description of the comprehensive State water management 
 planning program, or modifications thereto, as required by 
 Sec. 740.4(a);
-
-[[Page 95]]
-
     (3) A work plan of the major program activities of the State water 
 management planning program which targets milestones on a semi-annual 
 basis;
@@ -7666,12 +7764,15 @@ grant period under the provisions of Sec. 740.6(e). This may include
 supplementing or complementing ongoing activities described in paragraph 
 (d)(3) of this section.
     (e) The Governor or designee may request an extension to the 
-submission date by submitting a written request to the Council not less 
-than 30 days prior to the date referred to in paragraph (b) of this 
-section. The extension shall be granted only if, in the Council's 
-judgment, acceptable and substantial justification is shown and the 
-extension would further the objectives of the Act. An extension shall 
-not be granted for more than 30 days.
+submission date by submitting a written request
+
+[[Page 95]]
+
+to the Council not less than 30 days prior to the date referred to in 
+paragraph (b) of this section. The extension shall be granted only if, 
+in the Council's judgment, acceptable and substantial justification is 
+shown and the extension would further the objectives of the Act. An 
+extension shall not be granted for more than 30 days.
 
 
 <R05>
@@ -7725,15 +7826,11 @@ State of the grant award as soon as possible after funds are apportioned
 for Council use.
     (c) If an application is not approved by the Council, it shall be 
 returned by registered mail with a full explanation of the reasons for 
-that determination.
-
-[[Page 96]]
-
-The State shall then be allowed the opportunity to submit a revised 
-application within 30 days after receipt by the State of such 
-notification. Should the State determine that further review is required 
-by the State clearinghouse under OMB Circular A-95, an additional 30 
-days will be allowed.
+that determination. The State shall then be allowed the opportunity to 
+submit a revised application within 30 days after receipt by the State 
+of such notification. Should the State determine that further review is 
+required by the State clearinghouse under OMB Circular A-95, an 
+additional 30 days will be allowed.
     (d) If the grant amount requested by a State differs from the grant 
 amount offered by the Council, the Council will request the designated 
 State agency to submit a revised budget and work plan with the 
@@ -7745,10 +7842,14 @@ financial assistance in the amount of the approved final budget.
 may be revised at any time by submitting revisions to the work plan and 
 budget to the Council for approval in connection with any proposed 
 significant change (an addition or deletion of major activities 
-specified in the approved work plan) with appropriate provision for A-95 
-State clearinghouse review. The Council will review the proposed 
-revision and notify the State of its decision no later than 30 days from 
-the date of receipt of the request.
+specified in the approved work
+
+[[Page 96]]
+
+plan) with appropriate provision for A-95 State clearinghouse review. 
+The Council will review the proposed revision and notify the State of 
+its decision no later than 30 days from the date of receipt of the 
+request.
 
 
 <R05>
@@ -7801,12 +7902,8 @@ reserved allocation will be withdrawn by the Council;
 period of the approved or amended grant agreement as prescribed in 
 Sec. 740.7(c), such funds shall be returned to the Council not later 
 than 30 days after submission of the Financial Statement for the grant 
-period
-
-[[Page 97]]
-
-unless the Council, based on written request, grants an exception or 
-extension to this time limitation;
+period unless the Council, based on written request, grants an exception 
+or extension to this time limitation;
     (3) Funds available under paragraph (e)(1) of this section shall be 
 available for redistribution to those States requesting additional funds 
 pursuant to Sec. 740.3(d)(7). These funds shall be distributed on the 
@@ -7823,8 +7920,12 @@ Sec. 740.7  Administration of financial assistance.
 
     (a) Grants under this part shall comply with the requirements of:
     (1) Office of Management and Budget (OMB) Circular A-102, Revised, 
-(34 CFR Part 256), entitled ``Uniform Administrative Requirements for 
-Grants-in-Aid to State and Local Governments;''
+(34 CFR
+
+[[Page 97]]
+
+Part 256), entitled ``Uniform Administrative Requirements for Grants-in-
+Aid to State and Local Governments;''
     (2) Federal Management Circular (FMC) 74-4 (34 CFR Part 255), 
 entitled ``Cost Principles Applicable to Grants and Contracts with State 
 and Local Governments;''
@@ -7877,9 +7978,6 @@ funds except that:
 purposes unless specifically permitted by Federal law;
     (2) Program funds shall not be used to match Federal funds under any 
 other federally aided program;
-
-[[Page 98]]
-
     (3) Non-Federal funds used to match other federally aided programs 
 shall not be used to match funds provided under the Act; and
     (4) Federal funds provided through this program, if duly matched 
@@ -7893,8 +7991,11 @@ directly applicable to the approved program.
     (1) Items whose costs are not allowable under the provision of FMC 
 74-4;
     (2) Contributions, dues or assessments to support headquarters 
-offices of interstate commissions, compacts, councils, interagency 
-committees, or other similar organizations;
+offices of interstate commissions, compacts,
+
+[[Page 98]]
+
+councils, interagency committees, or other similar organizations;
     (3) Scholarly or scientific investigations for purposes other than 
 addressing water management problems, needs, concerns or interests 
 specifically identified and explained in the approved program as a 
@@ -7952,9 +8053,6 @@ documents;
     (5) Other pertinent information, including any specific need for 
 assistance; and
     (6) An annual Financial Status Report.
-
-[[Page 99]]
-
     (c) The Report of Federal Cash Transactions, as required under the 
 provisions of Treasury Circular 1075, is due 30 days after the end of 
 each quarter of the grant period, as specified in the grant agreement.
@@ -7973,10 +8071,14 @@ are necessary to protect the interests of the United States and to
 facilitate an effective financial audit and performance evaluation. The 
 Council and the Comptroller General of the United States shall have 
 access to any books, documents, records or receipts which the Council 
-determines are relevant or pertinent, either directly or indirectly, to 
-any financial assistance provided under this part. Such records shall be 
-retained for a period of three years, which starts from the date of the 
-submission of the annual financial status report for the grant period.
+determines are relevant or pertinent,
+
+[[Page 99]]
+
+either directly or indirectly, to any financial assistance provided 
+under this part. Such records shall be retained for a period of three 
+years, which starts from the date of the submission of the annual 
+financial status report for the grant period.
 
 
 <R05>
@@ -8035,8 +8137,6 @@ accordance with established procedures. If it does, it will:
     (b) Publish such proposed rulemaking in the Federal Register; and
     (c) Simultaneously provide a copy of such proposed changes to each 
 designated agency.
-
-[[Page 100]]
 
 
 <R05>
@@ -10062,13 +10162,13 @@ provided. If the commission determines not to approve a settlement
 agreement, the commission may proceed with an enforcement action in 
 accordance with this subpart.
 
-[[Page 127]]
-
 
 <R05>
 Sec. 805.28  Effective date.
 
     This subpart shall be effective on May 11, 1995.
+
+[[Page 127]]
 
 
 <R05>
@@ -10383,22 +10483,21 @@ with respect to newly included records.
 Sec. 1301.3  Requirements for making requests.
 
     (a) How made and addressed. You may make a request for records of 
-TVA by writing to the Tennessee Valley Authority, TVA FOIA Officer, 
-Enterprise Document Management (EDM), 1101 Market Street (WR 4Q), 
-Chattanooga, TN 37402-2801. You may find TVA's ``Guide to Information 
-About TVA''--which is available electronically at TVA's World Wide Web 
-site, and is available in paper form as well--helpful in making your 
-request. For additional information about the FOIA, you may refer 
-directly to the statute. If you are making a request for records about 
-yourself, see Subpart B Privacy Act for additional requirements. If you 
-are making a request for records about another individual, either a 
-written authorization signed by that individual permitting disclosure of 
-those records to you or proof that that individual is deceased (for 
-example, a copy of a death certificate or an obituary) will help the 
-processing of your request. Your request will be considered received as 
-of the date it is received by the FOIA Officer. For the quickest 
-possible handling, you should mark both your request letter and the 
-envelope ``Freedom of Information Act Request.''
+TVA by writing to the Tennessee Valley Authority, FOIA Officer, 400 W. 
+Summit Hill Drive (ET 5D), Knoxville, Tennessee 37902-1499. You may find 
+TVA's ``Guide to Information About TVA''--which is available 
+electronically at TVA's World Wide Web site, and is available in paper 
+form as well--helpful in making your request. For additional information 
+about the FOIA, you may refer directly to the statute. If you are making 
+a request for records about yourself, see Subpart B Privacy Act for 
+additional requirements. If you are making a request for records about 
+another individual, either a written authorization signed by that 
+individual permitting disclosure of those records to you or proof that 
+that individual is deceased (for example, a copy of a death certificate 
+or an obituary) will help the processing of your request. Your request 
+will be considered received as of the date it is received by the FOIA 
+Officer. For the quickest possible handling, you should mark both your 
+request letter and the envelope ``Freedom of Information Act Request.''
     (b) Descriptions of records sought. You must describe the records 
 that you seek in enough detail to enable TVA personnel to locate them 
 with a reasonable amount of effort. Whenever possible, your request 
@@ -10406,25 +10505,26 @@ should include specific information about each record sought, such as
 the date, title or name, author, recipient, and subject matter of the 
 record. If known, you should include any file designations or 
 descriptions for the records that you want. As a general rule, the more 
-specific you
+specific you are about the records or type of records
 
 [[Page 134]]
 
-are about the records or type of records that you want, the more likely 
-TVA will be able to locate those records in response to your request. If 
-TVA determines that your request does not reasonably describe records, 
-it shall tell you either what additional information is needed or why 
-your request is otherwise insufficient. TVA shall also give you an 
-opportunity to discuss your request so that you may modify it to meet 
-the requirements of this section. If your request does not reasonably 
-describe the records you seek, the agency's response to your request may 
-be delayed.
+that you want, the more likely TVA will be able to locate those records 
+in response to your request. If TVA determines that your request does 
+not reasonably describe records, it shall tell you either what 
+additional information is needed or why your request is otherwise 
+insufficient. TVA shall also give you an opportunity to discuss your 
+request so that you may modify it to meet the requirements of this 
+section. If your request does not reasonably describe the records you 
+seek, the agency's response to your request may be delayed.
     (c) Agreement to pay fees. If you make a FOIA request, it shall be 
 considered an agreement by you to pay all applicable fees charged under 
 Sec. 1301.11, up to $25.00, unless you seek a waiver of fees. TVA's FOIA 
 Officer will confirm this agreement in an acknowledgement letter. When 
 making a request, you may specify a willingness to pay a greater or 
 lesser amount.
+
+[64 FR 4044, Jan. 27, 1999, as amended at 65 FR 16513, Mar. 29, 2000]
 
 
 <R05>
@@ -10793,15 +10893,15 @@ Sec. 1301.9  Appeals.
     (a) Appeals of adverse determinations. If you are dissatisfied with 
 TVA's response to your request, you may appeal an adverse determination 
 denying your request, in any respect, to TVA's FOIA Appeal Official, the 
-Senior Manager, Administrative Services, Tennessee Valley Authority, 400 
-Summit Hill Drive (ET 6M), Knoxville, TN 37902-1499. You must make your 
-appeal in writing and it must be received by the Senior Manager within 
-30 days of the date of the letter denying your request. Your appeal 
-letter may include as much or as little related information as you wish, 
-as long as it clearly identifies the TVA determination (including the 
-assigned request number, if known) that you are appealing. An adverse 
-determination by the TVA Appeal Official will be the final action of 
-TVA.
+General Manager, CAO Business Services, Tennessee Valley Authority, 400 
+Summit Hill Drive (ET 5D), Knoxville, Tennessee 37902-1499. You must 
+make your appeal in writing and it must be received by the Senior 
+Manager within 30 days of the date of the letter denying your request. 
+Your appeal letter may include as much or as little related information 
+as you wish, as long as it clearly identifies the TVA determination 
+(including the assigned request number, if known) that you are 
+appealing. An adverse determination by the TVA Appeal Official will be 
+the final action of TVA.
     (b) Responses to appeals. The decision on your appeal will be made 
 in writing within 20 days (excluding Saturdays, Sundays, and legal 
 holidays) after an appeal is received. A decision affirming an adverse 
@@ -10815,6 +10915,8 @@ decision.
     (c) When appeal is required. If you wish to seek review by a court 
 of any adverse determination, you must first appeal it under this 
 section.
+
+[64 FR 4044, Jan. 27, 1999, as amended at 65 FR 16513, Mar. 29, 2000]
 
 
 <R05>
@@ -10996,7 +11098,7 @@ basis for determining that aggregation is warranted under all of the
 circumstances involved. Multiple requests involving unrelated matters 
 will not be aggregated.
     (i) Advance payments. (1) For requests other than those described in 
-paragraphs (i) (2) and (3) of this section,
+paragraphs (i)(2) and (3) of this section,
 
 [[Page 142]]
 
@@ -12497,13 +12599,13 @@ judicial proceeding arising thereunder.
 Compliance, or a successor as designated by TVA's Board of Directors, 
 will be responsible for all decisions about initiating compliance 
 reviews and complaint investigations. TVA's General Manager, or a 
-successor as designated by TVA's Board of Directors, shall be 
+successor as designated by TVA's Board of Directors, shall be
+
+[[Page 161]]
+
 responsible for all decisions about initiating compliance actions under 
 Sec. 1302.8(a) of this part.
 
-
-
-[[Page 161]]
 
 
 (Information collection requirements appearing in Sec. 1302.7 were 
@@ -12572,14 +12674,15 @@ recipient or other person has been notified of its failure to comply and
 of the action to be taken to effect compliance, and (3) the expiration 
 of at least 10 days from the mailing of such notice to the recipient or 
 other person. During this period of at least 10 days additional efforts 
-shall be made to persuade the recipient or other person to comply with 
+shall be made to persuade the recipient or other person to comply with
+
+[[Page 162]]
+
 the regulation and to take such corrective action as may be appropriate.
 
 [30 FR 311, Jan. 9, 1965, as amended at 38 FR 17945, July 5, 1973. 
 Redesignated at 44 FR 30682, May 29, 1979. Redesignated and amended at 
 49 FR 20483, May 15, 1984; 49 FR 47384, Dec. 4, 1984]
-
-[[Page 162]]
 
 
 <R05>
@@ -12644,14 +12747,16 @@ Federal departments or agencies issued under Title VI of the Act, the
 TVA Board may, by agreement with such other departments or agencies 
 where applicable, provide for the conduct of consolidated or joint 
 hearings, and for the application to such hearings of rules of procedure 
-not inconsistent with this part. Final decisions in such cases, insofar 
-as this part is concerned, shall be made in accordance with Sec. 1302.9.
+not
+
+[[Page 163]]
+
+inconsistent with this part. Final decisions in such cases, insofar as 
+this part is concerned, shall be made in accordance with Sec. 1302.9.
 
 [30 FR 311, Jan. 9, 1965, as amended at 38 FR 17945, July 5, 1973. 
 Redesignated at 44 FR 30682, May 29, 1979, and 49 FR 20483, May 15, 
 1984]
-
-[[Page 163]]
 
 
 <R05>
@@ -12716,23 +12821,23 @@ reasonable assurance that it will fully comply with this regulation.
     (2) Any recipient or proposed recipient adversely affected by an 
 order entered pursuant to paragraph (f) of this section may at any time 
 request TVA to restore fully the recipient's eligibility to receive 
-Federal financial assistance. Any such request shall be supported by 
-information showing that the recipient has met the requirements of 
-paragraph (g)(1) of this section. If TVA determines that those 
-requirements have been satisfied, TVA shall restore such eligibility.
-    (3) If TVA denies any such request, the recipient may submit a 
-written request for a hearing specifying why it
+Federal financial assistance. Any such request shall be
 
 [[Page 164]]
 
-believes TVA to have been in error. The recipient shall thereupon be 
-given an expeditious hearing, with a decision on the record, in 
-accordance with rules of procedure issued by TVA. The recipient will be 
-restored to such eligibility if the recipient proves at such a hearing 
-that it satisfied the requirements of paragraph (g)(1) of this section. 
-While proceedings under this paragraph are pending, the sanctions 
-imposed by the order issued under paragraph (f) of this section shall 
-remain in effect.
+supported by information showing that the recipient has met the 
+requirements of paragraph (g)(1) of this section. If TVA determines that 
+those requirements have been satisfied, TVA shall restore such 
+eligibility.
+    (3) If TVA denies any such request, the recipient may submit a 
+written request for a hearing specifying why it believes TVA to have 
+been in error. The recipient shall thereupon be given an expeditious 
+hearing, with a decision on the record, in accordance with rules of 
+procedure issued by TVA. The recipient will be restored to such 
+eligibility if the recipient proves at such a hearing that it satisfied 
+the requirements of paragraph (g)(1) of this section. While proceedings 
+under this paragraph are pending, the sanctions imposed by the order 
+issued under paragraph (f) of this section shall remain in effect.
 
 [30 FR 311, Jan. 9, 1965. Redesignated at 44 FR 30682, May 29, 1979. 
 Redesignated and amended at 45 FR 20483, May 15, 1983]
@@ -12803,14 +12908,15 @@ and other interested persons concerning these new fertilizers. This
 program also includes the furnishing of fertilizers at reduced prices by 
 TVA, through its fertilizer distributors, to such test-demonstration 
 farms.
+
+[[Page 165]]
+
     4. Furnishing space and utilities without charge under agreements 
 with state agencies for use in accordance with the Vending Stands for 
 Blind Act.
 
 [30 FR 311, Jan. 9, 1965, as amended at 38 FR 17945, July 5, 1973. 
 Redesignated at 44 FR 30682, May 29, 1979]
-
-[[Page 165]]
 
 
 <R03>
@@ -13657,7 +13763,7 @@ Sec.
 1305.5  Mini-bike areas at family campgrounds as designated.
 1305.6  Enforcement.
 
-                          Subpart B--[Reserved]
+Subpart B  [Reserved]
 
     Authority: 16 U.S.C. 831-831dd. Sections 1305.1 to 1305.6 also 
 issued under 42 U.S.C. 4321 and E.O. 11644, 37 FR 2877.
@@ -13766,9 +13872,7 @@ excluded from Land Between the Lakes or denied use of the areas and
 trails designated for operation of off-road vehicles, as deemed 
 appropriate by authorized officials of Land Between the Lakes.
 
-
-<R04>
-                          Subpart B--[Reserved]
+Subpart B  [Reserved]
 
 
 <R03>
@@ -13787,7 +13891,7 @@ Sec.
 1306.5  Tenants' rights in improvements.
 1306.6  Expense of transfer of title and proration of taxes.
 
-                          Subpart B--[Reserved]
+Subpart B  [Reserved]
 
     Authority: Sec. 213, Uniform Relocation Assistance and Real Property 
 Acquisition Policies Act of 1970, Pub. L. 91-646, 84 Stat. 1894 (42 
@@ -13902,9 +14006,7 @@ earlier.
 
 [38 FR 3592, Feb. 8, 1973. Redesignated at 52 FR 48019, Dec. 17, 1987]
 
-
-<R04>
-                          Subpart B--[Reserved]
+Subpart B  [Reserved]
 
 
 <R03>
@@ -14849,7 +14951,7 @@ establish prices or price adjustments in contracts.
 been designated to hear and determine a particular matter pending before 
 the Board.
     (i) The term TVA means the Tennessee Valley Authority.
-    (j) A term defined s in a contract subject to this part shall have 
+    (j) A term defined as in a contract subject to this part shall have 
 the meaning given it in the contract.
 
 
@@ -19565,6 +19667,7 @@ contract, and TVA shall have the right to exercise all remedies provided
 in this contract or at law.
 
                              (End of clause)
+
 
 [[Page 249]]
 
@@ -19586,6 +19689,8 @@ which is published separately and revised annually.
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
+
+
 [[Page 251]]
 
 
@@ -19595,63 +19700,62 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of March 31, 1999)
+                      (Revised as of April 1, 2000)
 
                       Title 1--General Provisions
 
          I  Administrative Committee of the Federal Register 
-                (Parts 1--49)
-        II  Office of the Federal Register (Parts 50--299)
-        IV  Miscellaneous Agencies (Parts 400--500)
+                (Parts 1-49)
+        II  Office of the Federal Register (Parts 50-299)
+        IV  Miscellaneous Agencies (Parts 400-500)
 
-                          Title 2--[Reserved]
+                          Title 2 [Reserved]
 
                         Title 3--The President
 
-         I  Executive Office of the President (Parts 100--199)
+         I  Executive Office of the President (Parts 100-199)
 
                            Title 4--Accounts
 
-         I  General Accounting Office (Parts 1--99)
+         I  General Accounting Office (Parts 1-99)
         II  Federal Claims Collection Standards (General 
                 Accounting Office--Department of Justice) (Parts 
-                100--299)
+                100-299)
 
                    Title 5--Administrative Personnel
 
-         I  Office of Personnel Management (Parts 1--1199)
-        II  Merit Systems Protection Board (Parts 1200--1299)
-       III  Office of Management and Budget (Parts 1300--1399)
-        IV  Advisory Committee on Federal Pay (Parts 1400--1499)
+         I  Office of Personnel Management (Parts 1-1199)
+        II  Merit Systems Protection Board (Parts 1200-1299)
+       III  Office of Management and Budget (Parts 1300-1399)
          V  The International Organizations Employees Loyalty 
-                Board (Parts 1500--1599)
+                Board (Parts 1500-1599)
         VI  Federal Retirement Thrift Investment Board (Parts 
-                1600--1699)
+                1600-1699)
        VII  Advisory Commission on Intergovernmental Relations 
-                (Parts 1700--1799)
-      VIII  Office of Special Counsel (Parts 1800--1899)
-        IX  Appalachian Regional Commission (Parts 1900--1999)
+                (Parts 1700-1799)
+      VIII  Office of Special Counsel (Parts 1800-1899)
+        IX  Appalachian Regional Commission (Parts 1900-1999)
         XI  Armed Forces Retirement Home (Part 2100)
        XIV  Federal Labor Relations Authority, General Counsel of 
                 the Federal Labor Relations Authority and Federal 
-                Service Impasses Panel (Parts 2400--2499)
+                Service Impasses Panel (Parts 2400-2499)
         XV  Office of Administration, Executive Office of the 
-                President (Parts 2500--2599)
-       XVI  Office of Government Ethics (Parts 2600--2699)
-       XXI  Department of the Treasury (Parts 3100--3199)
+                President (Parts 2500-2599)
+       XVI  Office of Government Ethics (Parts 2600-2699)
+       XXI  Department of the Treasury (Parts 3100-3199)
+      XXII  Federal Deposit Insurance Corporation (Part 3201)
 
 [[Page 252]]
 
-      XXII  Federal Deposit Insurance Corporation (Part 3201)
      XXIII  Department of Energy (Part 3301)
       XXIV  Federal Energy Regulatory Commission (Part 3401)
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
     XXVIII  Department of Justice (Part 3801)
-      XXIX  Federal Communications Commission (Parts 3900--3999)
-       XXX  Farm Credit System Insurance Corporation (Parts 4000--
+      XXIX  Federal Communications Commission (Parts 3900-3999)
+       XXX  Farm Credit System Insurance Corporation (Parts 4000-
                 4099)
-      XXXI  Farm Credit Administration (Parts 4100--4199)
+      XXXI  Farm Credit Administration (Parts 4100-4199)
     XXXIII  Overseas Private Investment Corporation (Part 4301)
       XXXV  Office of Personnel Management (Part 4501)
         XL  Interstate Commerce Commission (Part 5001)
@@ -19664,7 +19768,7 @@ which is published separately and revised annually.
     XLVIII  Nuclear Regulatory Commission (Part 5801)
          L  Department of Transportation (Part 6001)
        LII  Export-Import Bank of the United States (Part 6201)
-      LIII  Department of Education (Parts 6300--6399)
+      LIII  Department of Education (Parts 6300-6399)
        LIV  Environmental Protection Agency (Part 6401)
       LVII  General Services Administration (Part 6701)
      LVIII  Board of Governors of the Federal Reserve System (Part 
@@ -19681,337 +19785,340 @@ which is published separately and revised annually.
                 7601)
       LXIX  Tennessee Valley Authority (Part 7901)
       LXXI  Consumer Product Safety Commission (Part 8101)
+    LXXIII  Department of Agriculture (Part 8301)
      LXXIV  Federal Mine Safety and Health Review Commission (Part 
                 8401)
      LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
     LXXVII  Office of Management and Budget (Part 8701)
 
-                          Title 6--[Reserved]
+                          Title 6 [Reserved]
+
+              
+
+[[Page 253]]
 
                          Title 7--Agriculture
 
             Subtitle A--Office of the Secretary of Agriculture 
-                (Parts 0--26)
+                (Parts 0-26)
             Subtitle B--Regulations of the Department of 
                 Agriculture
-
-[[Page 253]]
-
          I  Agricultural Marketing Service (Standards, 
                 Inspections, Marketing Practices), Department of 
-                Agriculture (Parts 27--209)
+                Agriculture (Parts 27-209)
         II  Food and Nutrition Service, Department of Agriculture 
-                (Parts 210--299)
+                (Parts 210-299)
        III  Animal and Plant Health Inspection Service, Department 
-                of Agriculture (Parts 300--399)
+                of Agriculture (Parts 300-399)
         IV  Federal Crop Insurance Corporation, Department of 
-                Agriculture (Parts 400--499)
+                Agriculture (Parts 400-499)
          V  Agricultural Research Service, Department of 
-                Agriculture (Parts 500--599)
+                Agriculture (Parts 500-599)
         VI  Natural Resources Conservation Service, Department of 
-                Agriculture (Parts 600--699)
+                Agriculture (Parts 600-699)
        VII  Farm Service Agency, Department of Agriculture (Parts 
-                700--799)
+                700-799)
       VIII  Grain Inspection, Packers and Stockyards 
                 Administration (Federal Grain Inspection Service), 
-                Department of Agriculture (Parts 800--899)
+                Department of Agriculture (Parts 800-899)
         IX  Agricultural Marketing Service (Marketing Agreements 
                 and Orders; Fruits, Vegetables, Nuts), Department 
-                of Agriculture (Parts 900--999)
+                of Agriculture (Parts 900-999)
          X  Agricultural Marketing Service (Marketing Agreements 
                 and Orders; Milk), Department of Agriculture 
-                (Parts 1000--1199)
+                (Parts 1000-1199)
         XI  Agricultural Marketing Service (Marketing Agreements 
                 and Orders; Miscellaneous Commodities), Department 
-                of Agriculture (Parts 1200--1299)
-      XIII  Northeast Dairy Compact Commission (Parts 1300--1399)
+                of Agriculture (Parts 1200-1299)
+      XIII  Northeast Dairy Compact Commission (Parts 1300-1399)
        XIV  Commodity Credit Corporation, Department of 
-                Agriculture (Parts 1400--1499)
+                Agriculture (Parts 1400-1499)
         XV  Foreign Agricultural Service, Department of 
-                Agriculture (Parts 1500--1599)
+                Agriculture (Parts 1500-1599)
        XVI  Rural Telephone Bank, Department of Agriculture (Parts 
-                1600--1699)
+                1600-1699)
       XVII  Rural Utilities Service, Department of Agriculture 
-                (Parts 1700--1799)
+                (Parts 1700-1799)
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
-                Agency, Department of Agriculture (Parts 1800--
+                Agency, Department of Agriculture (Parts 1800-
                 2099)
       XXVI  Office of Inspector General, Department of Agriculture 
-                (Parts 2600--2699)
+                (Parts 2600-2699)
      XXVII  Office of Information Resources Management, Department 
-                of Agriculture (Parts 2700--2799)
+                of Agriculture (Parts 2700-2799)
     XXVIII  Office of Operations, Department of Agriculture (Parts 
-                2800--2899)
+                2800-2899)
       XXIX  Office of Energy, Department of Agriculture (Parts 
-                2900--2999)
+                2900-2999)
        XXX  Office of the Chief Financial Officer, Department of 
-                Agriculture (Parts 3000--3099)
+                Agriculture (Parts 3000-3099)
       XXXI  Office of Environmental Quality, Department of 
-                Agriculture (Parts 3100--3199)
-     XXXII  Office of Procurement and Property Management, 
-                Department of Agriculture (Parts 3200--3299)
+                Agriculture (Parts 3100-3199)
 
 [[Page 254]]
 
+     XXXII  Office of Procurement and Property Management, 
+                Department of Agriculture (Parts 3200-3299)
     XXXIII  Office of Transportation, Department of Agriculture 
-                (Parts 3300--3399)
+                (Parts 3300-3399)
      XXXIV  Cooperative State Research, Education, and Extension 
-                Service, Department of Agriculture (Parts 3400--
+                Service, Department of Agriculture (Parts 3400-
                 3499)
       XXXV  Rural Housing Service, Department of Agriculture 
-                (Parts 3500--3599)
+                (Parts 3500-3599)
      XXXVI  National Agricultural Statistics Service, Department 
-                of Agriculture (Parts 3600--3699)
+                of Agriculture (Parts 3600-3699)
     XXXVII  Economic Research Service, Department of Agriculture 
-                (Parts 3700--3799)
+                (Parts 3700-3799)
    XXXVIII  World Agricultural Outlook Board, Department of 
-                Agriculture (Parts 3800--3899)
+                Agriculture (Parts 3800-3899)
        XLI  [Reserved]
       XLII  Rural Business-Cooperative Service and Rural Utilities 
-                Service, Department of Agriculture (Parts 4200--
+                Service, Department of Agriculture (Parts 4200-
                 4299)
 
                     Title 8--Aliens and Nationality
 
          I  Immigration and Naturalization Service, Department of 
-                Justice (Parts 1--499)
+                Justice (Parts 1-599)
 
                  Title 9--Animals and Animal Products
 
          I  Animal and Plant Health Inspection Service, Department 
-                of Agriculture (Parts 1--199)
+                of Agriculture (Parts 1-199)
         II  Grain Inspection, Packers and Stockyards 
                 Administration (Packers and Stockyards Programs), 
-                Department of Agriculture (Parts 200--299)
+                Department of Agriculture (Parts 200-299)
        III  Food Safety and Inspection Service, Department of 
-                Agriculture (Parts 300--599)
+                Agriculture (Parts 300-599)
 
                            Title 10--Energy
 
-         I  Nuclear Regulatory Commission (Parts 0--199)
-        II  Department of Energy (Parts 200--699)
-       III  Department of Energy (Parts 700--999)
-         X  Department of Energy (General Provisions) (Parts 
-                1000--1099)
-      XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
+         I  Nuclear Regulatory Commission (Parts 0-199)
+        II  Department of Energy (Parts 200-699)
+       III  Department of Energy (Parts 700-999)
+         X  Department of Energy (General Provisions) (Parts 1000-
+                1099)
+      XVII  Defense Nuclear Facilities Safety Board (Parts 1700-
                 1799)
 
                       Title 11--Federal Elections
 
-         I  Federal Election Commission (Parts 1--9099)
+         I  Federal Election Commission (Parts 1-9099)
 
                       Title 12--Banks and Banking
 
          I  Comptroller of the Currency, Department of the 
-                Treasury (Parts 1--199)
-        II  Federal Reserve System (Parts 200--299)
-       III  Federal Deposit Insurance Corporation (Parts 300--399)
+                Treasury (Parts 1-199)
 
 [[Page 255]]
 
-        IV  Export-Import Bank of the United States (Parts 400--
+        II  Federal Reserve System (Parts 200-299)
+       III  Federal Deposit Insurance Corporation (Parts 300-399)
+        IV  Export-Import Bank of the United States (Parts 400-
                 499)
          V  Office of Thrift Supervision, Department of the 
-                Treasury (Parts 500--599)
-        VI  Farm Credit Administration (Parts 600--699)
-       VII  National Credit Union Administration (Parts 700--799)
-      VIII  Federal Financing Bank (Parts 800--899)
-        IX  Federal Housing Finance Board (Parts 900--999)
+                Treasury (Parts 500-599)
+        VI  Farm Credit Administration (Parts 600-699)
+       VII  National Credit Union Administration (Parts 700-799)
+      VIII  Federal Financing Bank (Parts 800-899)
+        IX  Federal Housing Finance Board (Parts 900-999)
         XI  Federal Financial Institutions Examination Council 
-                (Parts 1100--1199)
-       XIV  Farm Credit System Insurance Corporation (Parts 1400--
+                (Parts 1100-1199)
+       XIV  Farm Credit System Insurance Corporation (Parts 1400-
                 1499)
-        XV  Department of the Treasury (Parts 1500--1599)
+        XV  Department of the Treasury (Parts 1500-1599)
       XVII  Office of Federal Housing Enterprise Oversight, 
                 Department of Housing and Urban Development (Parts 
                 1700-1799)
      XVIII  Community Development Financial Institutions Fund, 
-                Department of the Treasury (Parts 1800--1899)
+                Department of the Treasury (Parts 1800-1899)
 
                Title 13--Business Credit and Assistance
 
-         I  Small Business Administration (Parts 1--199)
-       III  Department of Commerce, Economic Development 
-                Administration, (Parts 300--399)
+         I  Small Business Administration (Parts 1-199)
+       III  Economic Development Administration, Department of 
+                Commerce (Parts 300-399)
+        IV  Emergency Steel Guarantee Loan Board (Parts 400-499)
+         V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
+                500-599)
 
                     Title 14--Aeronautics and Space
 
          I  Federal Aviation Administration, Department of 
-                Transportation (Parts 1--199)
+                Transportation (Parts 1-199)
         II  Office of the Secretary, Department of Transportation 
-                (Aviation Proceedings) (Parts 200--399)
+                (Aviation Proceedings) (Parts 200-399)
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
-                (Parts 400--499)
+                (Parts 400-499)
          V  National Aeronautics and Space Administration (Parts 
-                1200--1299)
+                1200-1299)
 
                  Title 15--Commerce and Foreign Trade
 
             Subtitle A--Office of the Secretary of Commerce (Parts 
-                0--29)
+                0-29)
             Subtitle B--Regulations Relating to Commerce and 
                 Foreign Trade
          I  Bureau of the Census, Department of Commerce (Parts 
-                30--199)
+                30-199)
         II  National Institute of Standards and Technology, 
-                Department of Commerce (Parts 200--299)
+                Department of Commerce (Parts 200-299)
        III  International Trade Administration, Department of 
-                Commerce (Parts 300--399)
-        IV  Foreign-Trade Zones Board, Department of Commerce 
-                (Parts 400--499)
-       VII  Bureau of Export Administration, Department of 
-                Commerce (Parts 700--799)
+                Commerce (Parts 300-399)
 
 [[Page 256]]
 
+        IV  Foreign-Trade Zones Board, Department of Commerce 
+                (Parts 400-499)
+       VII  Bureau of Export Administration, Department of 
+                Commerce (Parts 700-799)
       VIII  Bureau of Economic Analysis, Department of Commerce 
-                (Parts 800--899)
+                (Parts 800-899)
         IX  National Oceanic and Atmospheric Administration, 
-                Department of Commerce (Parts 900--999)
+                Department of Commerce (Parts 900-999)
         XI  Technology Administration, Department of Commerce 
-                (Parts 1100--1199)
-      XIII  East-West Foreign Trade Board (Parts 1300--1399)
-       XIV  Minority Business Development Agency (Parts 1400--
-                1499)
+                (Parts 1100-1199)
+      XIII  East-West Foreign Trade Board (Parts 1300-1399)
+       XIV  Minority Business Development Agency (Parts 1400-1499)
             Subtitle C--Regulations Relating to Foreign Trade 
                 Agreements
         XX  Office of the United States Trade Representative 
-                (Parts 2000--2099)
+                (Parts 2000-2099)
             Subtitle D--Regulations Relating to Telecommunications 
                 and Information
      XXIII  National Telecommunications and Information 
                 Administration, Department of Commerce (Parts 
-                2300--2399)
+                2300-2399)
 
                     Title 16--Commercial Practices
 
-         I  Federal Trade Commission (Parts 0--999)
-        II  Consumer Product Safety Commission (Parts 1000--1799)
+         I  Federal Trade Commission (Parts 0-999)
+        II  Consumer Product Safety Commission (Parts 1000-1799)
 
              Title 17--Commodity and Securities Exchanges
 
-         I  Commodity Futures Trading Commission (Parts 1--199)
-        II  Securities and Exchange Commission (Parts 200--399)
-        IV  Department of the Treasury (Parts 400--499)
+         I  Commodity Futures Trading Commission (Parts 1-199)
+        II  Securities and Exchange Commission (Parts 200-399)
+        IV  Department of the Treasury (Parts 400-499)
 
           Title 18--Conservation of Power and Water Resources
 
          I  Federal Energy Regulatory Commission, Department of 
-                Energy (Parts 1--399)
-       III  Delaware River Basin Commission (Parts 400--499)
-        VI  Water Resources Council (Parts 700--799)
-      VIII  Susquehanna River Basin Commission (Parts 800--899)
-      XIII  Tennessee Valley Authority (Parts 1300--1399)
+                Energy (Parts 1-399)
+       III  Delaware River Basin Commission (Parts 400-499)
+        VI  Water Resources Council (Parts 700-799)
+      VIII  Susquehanna River Basin Commission (Parts 800-899)
+      XIII  Tennessee Valley Authority (Parts 1300-1399)
 
                        Title 19--Customs Duties
 
          I  United States Customs Service, Department of the 
-                Treasury (Parts 1--199)
+                Treasury (Parts 1-199)
         II  United States International Trade Commission (Parts 
-                200--299)
+                200-299)
        III  International Trade Administration, Department of 
-                Commerce (Parts 300--399)
+                Commerce (Parts 300-399)
 
 [[Page 257]]
 
-                     Title 20--Employees' Benefits
+                          Employees' Benefits
 
          I  Office of Workers' Compensation Programs, Department 
-                of Labor (Parts 1--199)
-        II  Railroad Retirement Board (Parts 200--399)
-       III  Social Security Administration (Parts 400--499)
+                of Labor (Parts 1-199)
+        II  Railroad Retirement Board (Parts 200-399)
+       III  Social Security Administration (Parts 400-499)
         IV  Employees' Compensation Appeals Board, Department of 
-                Labor (Parts 500--599)
+                Labor (Parts 500-599)
          V  Employment and Training Administration, Department of 
-                Labor (Parts 600--699)
+                Labor (Parts 600-699)
         VI  Employment Standards Administration, Department of 
-                Labor (Parts 700--799)
-       VII  Benefits Review Board, Department of Labor (Parts 
-                800--899)
+                Labor (Parts 700-799)
+       VII  Benefits Review Board, Department of Labor (Parts 800-
+                899)
       VIII  Joint Board for the Enrollment of Actuaries (Parts 
-                900--999)
+                900-999)
         IX  Office of the Assistant Secretary for Veterans' 
                 Employment and Training, Department of Labor 
-                (Parts 1000--1099)
+                (Parts 1000-1099)
 
                        Title 21--Food and Drugs
 
          I  Food and Drug Administration, Department of Health and 
-                Human Services (Parts 1--1299)
+                Human Services (Parts 1-1299)
         II  Drug Enforcement Administration, Department of Justice 
-                (Parts 1300--1399)
-       III  Office of National Drug Control Policy (Parts 1400--
+                (Parts 1300-1399)
+       III  Office of National Drug Control Policy (Parts 1400-
                 1499)
 
                       Title 22--Foreign Relations
 
-         I  Department of State (Parts 1--199)
-        II  Agency for International Development (Parts 200--299)
-       III  Peace Corps (Parts 300--399)
+         I  Department of State (Parts 1-199)
+        II  Agency for International Development (Parts 200-299)
+       III  Peace Corps (Parts 300-399)
         IV  International Joint Commission, United States and 
-                Canada (Parts 400--499)
-         V  United States Information Agency (Parts 500--599)
-       VII  Overseas Private Investment Corporation, International 
-                Development Cooperation Agency (Parts 700--799)
+                Canada (Parts 400-499)
+         V  Broadcasting Board of Governors (Parts 500-599)
+       VII  Overseas Private Investment Corporation (Parts 700-
+                799)
         IX  Foreign Service Grievance Board Regulations (Parts 
-                900--999)
-         X  Inter-American Foundation (Parts 1000--1099)
+                900-999)
+         X  Inter-American Foundation (Parts 1000-1099)
         XI  International Boundary and Water Commission, United 
                 States and Mexico, United States Section (Parts 
-                1100--1199)
+                1100-1199)
        XII  United States International Development Cooperation 
-                Agency (Parts 1200--1299)
-      XIII  Board for International Broadcasting (Parts 1300--
-                1399)
+                Agency (Parts 1200-1299)
+      XIII  Board for International Broadcasting (Parts 1300-1399)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
-                Service Impasse Disputes Panel (Parts 1400--1499)
-        XV  African Development Foundation (Parts 1500--1599)
-       XVI  Japan-United States Friendship Commission (Parts 
-                1600--1699)
-      XVII  United States Institute of Peace (Parts 1700--1799)
+                Service Impasse Disputes Panel (Parts 1400-1499)
+        XV  African Development Foundation (Parts 1500-1599)
+       XVI  Japan-United States Friendship Commission (Parts 1600-
+                1699)
+      XVII  United States Institute of Peace (Parts 1700-1799)
 
 [[Page 258]]
 
                           Title 23--Highways
 
          I  Federal Highway Administration, Department of 
-                Transportation (Parts 1--999)
+                Transportation (Parts 1-999)
         II  National Highway Traffic Safety Administration and 
                 Federal Highway Administration, Department of 
-                Transportation (Parts 1200--1299)
+                Transportation (Parts 1200-1299)
        III  National Highway Traffic Safety Administration, 
-                Department of Transportation (Parts 1300--1399)
+                Department of Transportation (Parts 1300-1399)
 
                 Title 24--Housing and Urban Development
 
             Subtitle A--Office of the Secretary, Department of 
-                Housing and Urban Development (Parts 0--99)
+                Housing and Urban Development (Parts 0-99)
             Subtitle B--Regulations Relating to Housing and Urban 
                 Development
          I  Office of Assistant Secretary for Equal Opportunity, 
                 Department of Housing and Urban Development (Parts 
-                100--199)
+                100-199)
         II  Office of Assistant Secretary for Housing-Federal 
                 Housing Commissioner, Department of Housing and 
-                Urban Development (Parts 200--299)
+                Urban Development (Parts 200-299)
        III  Government National Mortgage Association, Department 
-                of Housing and Urban Development (Parts 300--399)
-        IV  Office of Multifamily Housing Assistance 
-                Restructuring, Department of Housing and Urban 
-                Development (Parts 400--499)
+                of Housing and Urban Development (Parts 300-399)
+        IV  Office of Housing and Office of Multifamily Housing 
+                Assistance Restructuring, Department of Housing 
+                and Urban Development (Parts 400-499)
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
-                Development (Parts 500--599)
+                Development (Parts 500-599)
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
-                Development (Parts 600--699) [Reserved]
+                Development (Parts 600-699) [Reserved]
        VII  Office of the Secretary, Department of Housing and 
                 Urban Development (Housing Assistance Programs and 
-                Public and Indian Housing Programs) (Parts 700--
+                Public and Indian Housing Programs) (Parts 700-
                 799)
       VIII  Office of the Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
@@ -20019,20 +20126,20 @@ which is published separately and revised annually.
                 Programs, Section 202 Direct Loan Program, Section 
                 202 Supportive Housing for the Elderly Program and 
                 Section 811 Supportive Housing for Persons With 
-                Disabilities Program) (Parts 800--899)
+                Disabilities Program) (Parts 800-899)
         IX  Office of Assistant Secretary for Public and Indian 
                 Housing, Department of Housing and Urban 
-                Development (Parts 900--999)
+                Development (Parts 900-999)
          X  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Interstate Land Sales 
-                Registration Program) (Parts 1700--1799)
+                Registration Program) (Parts 1700-1799)
        XII  Office of Inspector General, Department of Housing and 
-                Urban Development (Parts 2000--2099)
+                Urban Development (Parts 2000-2099)
         XX  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
-                Urban Development (Parts 3200--3899)
-       XXV  Neighborhood Reinvestment Corporation (Parts 4100--
+                Urban Development (Parts 3200-3899)
+       XXV  Neighborhood Reinvestment Corporation (Parts 4100-
                 4199)
 
 [[Page 259]]
@@ -20040,13 +20147,13 @@ which is published separately and revised annually.
                            Title 25--Indians
 
          I  Bureau of Indian Affairs, Department of the Interior 
-                (Parts 1--299)
+                (Parts 1-299)
         II  Indian Arts and Crafts Board, Department of the 
-                Interior (Parts 300--399)
+                Interior (Parts 300-399)
        III  National Indian Gaming Commission, Department of the 
-                Interior (Parts 500--599)
+                Interior (Parts 500-599)
         IV  Office of Navajo and Hopi Indian Relocation (Parts 
-                700--799)
+                700-799)
          V  Bureau of Indian Affairs, Department of the Interior, 
                 and Indian Health Service, Department of Health 
                 and Human Services (Part 900)
@@ -20058,205 +20165,211 @@ which is published separately and revised annually.
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
-                (Parts 1--799)
+                (Parts 1-799)
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
          I  Bureau of Alcohol, Tobacco and Firearms, Department of 
-                the Treasury (Parts 1--299)
+                the Treasury (Parts 1-299)
 
                    Title 28--Judicial Administration
 
-         I  Department of Justice (Parts 0--199)
+         I  Department of Justice (Parts 0-199)
        III  Federal Prison Industries, Inc., Department of Justice 
-                (Parts 300--399)
-         V  Bureau of Prisons, Department of Justice (Parts 500--
+                (Parts 300-399)
+         V  Bureau of Prisons, Department of Justice (Parts 500-
                 599)
         VI  Offices of Independent Counsel, Department of Justice 
-                (Parts 600--699)
-       VII  Office of Independent Counsel (Parts 700--799)
+                (Parts 600-699)
+       VII  Office of Independent Counsel (Parts 700-799)
 
                             Title 29--Labor
 
-            Subtitle A--Office of the Secretary of Labor (Parts 
-                0--99)
+            Subtitle A--Office of the Secretary of Labor (Parts 0-
+                99)
             Subtitle B--Regulations Relating to Labor
-         I  National Labor Relations Board (Parts 100--199)
+         I  National Labor Relations Board (Parts 100-199)
         II  Office of Labor-Management Standards, Department of 
-                Labor (Parts 200--299)
-       III  National Railroad Adjustment Board (Parts 300--399)
+                Labor (Parts 200-299)
+       III  National Railroad Adjustment Board (Parts 300-399)
         IV  Office of Labor-Management Standards, Department of 
-                Labor (Parts 400--499)
+                Labor (Parts 400-499)
          V  Wage and Hour Division, Department of Labor (Parts 
-                500--899)
+                500-899)
         IX  Construction Industry Collective Bargaining Commission 
-                (Parts 900--999)
-         X  National Mediation Board (Parts 1200--1299)
+                (Parts 900-999)
+         X  National Mediation Board (Parts 1200-1299)
 
 [[Page 260]]
 
        XII  Federal Mediation and Conciliation Service (Parts 
-                1400--1499)
-       XIV  Equal Employment Opportunity Commission (Parts 1600--
+                1400-1499)
+       XIV  Equal Employment Opportunity Commission (Parts 1600-
                 1699)
       XVII  Occupational Safety and Health Administration, 
-                Department of Labor (Parts 1900--1999)
+                Department of Labor (Parts 1900-1999)
         XX  Occupational Safety and Health Review Commission 
-                (Parts 2200--2499)
+                (Parts 2200-2499)
        XXV  Pension and Welfare Benefits Administration, 
-                Department of Labor (Parts 2500--2599)
+                Department of Labor (Parts 2500-2599)
      XXVII  Federal Mine Safety and Health Review Commission 
-                (Parts 2700--2799)
-        XL  Pension Benefit Guaranty Corporation (Parts 4000--
-                4999)
+                (Parts 2700-2799)
+        XL  Pension Benefit Guaranty Corporation (Parts 4000-4999)
 
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
-                Labor (Parts 1--199)
+                Labor (Parts 1-199)
         II  Minerals Management Service, Department of the 
-                Interior (Parts 200--299)
+                Interior (Parts 200-299)
        III  Board of Surface Mining and Reclamation Appeals, 
-                Department of the Interior (Parts 300--399)
+                Department of the Interior (Parts 300-399)
         IV  Geological Survey, Department of the Interior (Parts 
-                400--499)
+                400-499)
         VI  Bureau of Mines, Department of the Interior (Parts 
-                600--699)
+                600-699)
        VII  Office of Surface Mining Reclamation and Enforcement, 
-                Department of the Interior (Parts 700--999)
+                Department of the Interior (Parts 700-999)
 
                  Title 31--Money and Finance: Treasury
 
             Subtitle A--Office of the Secretary of the Treasury 
-                (Parts 0--50)
+                (Parts 0-50)
             Subtitle B--Regulations Relating to Money and Finance
          I  Monetary Offices, Department of the Treasury (Parts 
-                51--199)
-        II  Fiscal Service, Department of the Treasury (Parts 
-                200--399)
-        IV  Secret Service, Department of the Treasury (Parts 
-                400--499)
+                51-199)
+        II  Fiscal Service, Department of the Treasury (Parts 200-
+                399)
+        IV  Secret Service, Department of the Treasury (Parts 400-
+                499)
          V  Office of Foreign Assets Control, Department of the 
-                Treasury (Parts 500--599)
+                Treasury (Parts 500-599)
         VI  Bureau of Engraving and Printing, Department of the 
-                Treasury (Parts 600--699)
+                Treasury (Parts 600-699)
        VII  Federal Law Enforcement Training Center, Department of 
-                the Treasury (Parts 700--799)
+                the Treasury (Parts 700-799)
       VIII  Office of International Investment, Department of the 
-                Treasury (Parts 800--899)
+                Treasury (Parts 800-899)
 
                       Title 32--National Defense
 
             Subtitle A--Department of Defense
-         I  Office of the Secretary of Defense (Parts 1--399)
-         V  Department of the Army (Parts 400--699)
-        VI  Department of the Navy (Parts 700--799)
+         I  Office of the Secretary of Defense (Parts 1-399)
+         V  Department of the Army (Parts 400-699)
+        VI  Department of the Navy (Parts 700-799)
 
 [[Page 261]]
 
-       VII  Department of the Air Force (Parts 800--1099)
+       VII  Department of the Air Force (Parts 800-1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
-       XII  Defense Logistics Agency (Parts 1200--1299)
-       XVI  Selective Service System (Parts 1600--1699)
-       XIX  Central Intelligence Agency (Parts 1900--1999)
+       XII  Defense Logistics Agency (Parts 1200-1299)
+       XVI  Selective Service System (Parts 1600-1699)
+     XVIII  National Counterintelligence Center (Parts 1800-1899)
+       XIX  Central Intelligence Agency (Parts 1900-1999)
         XX  Information Security Oversight Office, National 
-                Archives and Records Administration (Parts 2000--
+                Archives and Records Administration (Parts 2000-
                 2099)
-       XXI  National Security Council (Parts 2100--2199)
-      XXIV  Office of Science and Technology Policy (Parts 2400--
+       XXI  National Security Council (Parts 2100-2199)
+      XXIV  Office of Science and Technology Policy (Parts 2400-
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
-                2700--2799)
+                2700-2799)
     XXVIII  Office of the Vice President of the United States 
-                (Parts 2800--2899)
+                (Parts 2800-2899)
       XXIX  Presidential Commission on the Assignment of Women in 
                 the Armed Forces (Part 2900)
 
                Title 33--Navigation and Navigable Waters
 
-         I  Coast Guard, Department of Transportation (Parts 1--
+         I  Coast Guard, Department of Transportation (Parts 1-
                 199)
-        II  Corps of Engineers, Department of the Army (Parts 
-                200--399)
+        II  Corps of Engineers, Department of the Army (Parts 200-
+                399)
         IV  Saint Lawrence Seaway Development Corporation, 
-                Department of Transportation (Parts 400--499)
+                Department of Transportation (Parts 400-499)
 
                           Title 34--Education
 
             Subtitle A--Office of the Secretary, Department of 
-                Education (Parts 1--99)
+                Education (Parts 1-99)
             Subtitle B--Regulations of the Offices of the 
                 Department of Education
          I  Office for Civil Rights, Department of Education 
-                (Parts 100--199)
+                (Parts 100-199)
         II  Office of Elementary and Secondary Education, 
-                Department of Education (Parts 200--299)
+                Department of Education (Parts 200-299)
        III  Office of Special Education and Rehabilitative 
-                Services, Department of Education (Parts 300--399)
+                Services, Department of Education (Parts 300-399)
         IV  Office of Vocational and Adult Education, Department 
-                of Education (Parts 400--499)
+                of Education (Parts 400-499)
          V  Office of Bilingual Education and Minority Languages 
-                Affairs, Department of Education (Parts 500--599)
+                Affairs, Department of Education (Parts 500-599)
         VI  Office of Postsecondary Education, Department of 
-                Education (Parts 600--699)
+                Education (Parts 600-699)
        VII  Office of Educational Research and Improvement, 
-                Department of Education (Parts 700--799)
+                Department of Education (Parts 700-799)
         XI  National Institute for Literacy (Parts 1100-1199)
             Subtitle C--Regulations Relating to Education
-       XII  National Council on Disability (Parts 1200--1299)
+       XII  National Council on Disability (Parts 1200-1299)
 
 [[Page 262]]
 
                         Title 35--Panama Canal
 
-         I  Panama Canal Regulations (Parts 1--299)
+         I  Panama Canal Regulations (Parts 1-299)
 
              Title 36--Parks, Forests, and Public Property
 
          I  National Park Service, Department of the Interior 
-                (Parts 1--199)
-        II  Forest Service, Department of Agriculture (Parts 200--
+                (Parts 1-199)
+        II  Forest Service, Department of Agriculture (Parts 200-
                 299)
-       III  Corps of Engineers, Department of the Army (Parts 
-                300--399)
-        IV  American Battle Monuments Commission (Parts 400--499)
-         V  Smithsonian Institution (Parts 500--599)
-       VII  Library of Congress (Parts 700--799)
-      VIII  Advisory Council on Historic Preservation (Parts 800--
+       III  Corps of Engineers, Department of the Army (Parts 300-
+                399)
+        IV  American Battle Monuments Commission (Parts 400-499)
+         V  Smithsonian Institution (Parts 500-599)
+       VII  Library of Congress (Parts 700-799)
+      VIII  Advisory Council on Historic Preservation (Parts 800-
                 899)
         IX  Pennsylvania Avenue Development Corporation (Parts 
-                900--999)
-         X  Presidio Trust (Parts 1000--1099)
+                900-999)
+         X  Presidio Trust (Parts 1000-1099)
         XI  Architectural and Transportation Barriers Compliance 
-                Board (Parts 1100--1199)
+                Board (Parts 1100-1199)
        XII  National Archives and Records Administration (Parts 
-                1200--1299)
+                1200-1299)
        XIV  Assassination Records Review Board (Parts 1400-1499)
+        XV  Oklahoma City National Memorial Trust (Part 1501)
 
              Title 37--Patents, Trademarks, and Copyrights
 
          I  Patent and Trademark Office, Department of Commerce 
-                (Parts 1--199)
-        II  Copyright Office, Library of Congress (Parts 200--299)
+                (Parts 1-199)
+        II  Copyright Office, Library of Congress (Parts 200-299)
         IV  Assistant Secretary for Technology Policy, Department 
-                of Commerce (Parts 400--499)
+                of Commerce (Parts 400-499)
          V  Under Secretary for Technology, Department of Commerce 
-                (Parts 500--599)
+                (Parts 500-599)
 
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
-         I  Department of Veterans Affairs (Parts 0--99)
+         I  Department of Veterans Affairs (Parts 0-99)
 
                        Title 39--Postal Service
 
-         I  United States Postal Service (Parts 1--999)
-       III  Postal Rate Commission (Parts 3000--3099)
+         I  United States Postal Service (Parts 1-999)
+       III  Postal Rate Commission (Parts 3000-3099)
 
                   Title 40--Protection of Environment
 
-         I  Environmental Protection Agency (Parts 1--799)
-         V  Council on Environmental Quality (Parts 1500--1599)
+         I  Environmental Protection Agency (Parts 1-799)
+         V  Council on Environmental Quality (Parts 1500-1599)
+       VII  Environmental Protection Agency and Department of 
+                Defense; Uniform National Discharge Standards for 
+                Vessels of the Armed Forces (Parts 1700-1799)
+
+[[Page 263]]
 
           Title 41--Public Contracts and Property Management
 
@@ -20264,9 +20377,6 @@ which is published separately and revised annually.
                 Contracts
         50  Public Contracts, Department of Labor (Parts 50-1--50-
                 999)
-
-[[Page 263]]
-
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
         60  Office of Federal Contract Compliance Programs, Equal 
@@ -20279,6 +20389,7 @@ which is published separately and revised annually.
                 System
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
+       102  Federal Management Regulation (Parts 102-1--102-299)
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
@@ -20297,212 +20408,210 @@ which is published separately and revised annually.
                 301-99)
        302  Relocation Allowances (Parts 302-1--302-99)
        303  Payment of Expenses Connected with the Death of 
-                Certain Employees (Parts 303-1--303-2)
+                Certain Employees (Part 303-70)
        304  Payment from a Non-Federal Source for Travel Expenses 
                 (Parts 304-1--304-99)
 
                         Title 42--Public Health
 
          I  Public Health Service, Department of Health and Human 
-                Services (Parts 1--199)
+                Services (Parts 1-199)
         IV  Health Care Financing Administration, Department of 
-                Health and Human Services (Parts 400--499)
+                Health and Human Services (Parts 400-499)
          V  Office of Inspector General-Health Care, Department of 
-                Health and Human Services (Parts 1000--1999)
+                Health and Human Services (Parts 1000-1999)
 
                    Title 43--Public Lands: Interior
 
             Subtitle A--Office of the Secretary of the Interior 
-                (Parts 1--199)
+                (Parts 1-199)
             Subtitle B--Regulations Relating to Public Lands
-         I  Bureau of Reclamation, Department of the Interior 
-                (Parts 200--499)
-        II  Bureau of Land Management, Department of the Interior 
-                (Parts 1000--9999)
 
 [[Page 264]]
 
+         I  Bureau of Reclamation, Department of the Interior 
+                (Parts 200-499)
+        II  Bureau of Land Management, Department of the Interior 
+                (Parts 1000-9999)
        III  Utah Reclamation Mitigation and Conservation 
-                Commission (Parts 10000--10005)
+                Commission (Parts 10000-10005)
 
              Title 44--Emergency Management and Assistance
 
-         I  Federal Emergency Management Agency (Parts 0--399)
+         I  Federal Emergency Management Agency (Parts 0-399)
         IV  Department of Commerce and Department of 
-                Transportation (Parts 400--499)
+                Transportation (Parts 400-499)
 
                        Title 45--Public Welfare
 
             Subtitle A--Department of Health and Human Services 
-                (Parts 1--199)
+                (Parts 1-199)
             Subtitle B--Regulations Relating to Public Welfare
         II  Office of Family Assistance (Assistance Programs), 
                 Administration for Children and Families, 
                 Department of Health and Human Services (Parts 
-                200--299)
+                200-299)
        III  Office of Child Support Enforcement (Child Support 
                 Enforcement Program), Administration for Children 
                 and Families, Department of Health and Human 
-                Services (Parts 300--399)
+                Services (Parts 300-399)
         IV  Office of Refugee Resettlement, Administration for 
                 Children and Families Department of Health and 
-                Human Services (Parts 400--499)
+                Human Services (Parts 400-499)
          V  Foreign Claims Settlement Commission of the United 
-                States, Department of Justice (Parts 500--599)
-        VI  National Science Foundation (Parts 600--699)
-       VII  Commission on Civil Rights (Parts 700--799)
-      VIII  Office of Personnel Management (Parts 800--899)
+                States, Department of Justice (Parts 500-599)
+        VI  National Science Foundation (Parts 600-699)
+       VII  Commission on Civil Rights (Parts 700-799)
+      VIII  Office of Personnel Management (Parts 800-899)
          X  Office of Community Services, Administration for 
                 Children and Families, Department of Health and 
-                Human Services (Parts 1000--1099)
+                Human Services (Parts 1000-1099)
         XI  National Foundation on the Arts and the Humanities 
-                (Parts 1100--1199)
+                (Parts 1100-1199)
        XII  Corporation for National and Community Service (Parts 
-                1200--1299)
+                1200-1299)
       XIII  Office of Human Development Services, Department of 
-                Health and Human Services (Parts 1300--1399)
-       XVI  Legal Services Corporation (Parts 1600--1699)
+                Health and Human Services (Parts 1300-1399)
+       XVI  Legal Services Corporation (Parts 1600-1699)
       XVII  National Commission on Libraries and Information 
-                Science (Parts 1700--1799)
-     XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
+                Science (Parts 1700-1799)
+     XVIII  Harry S. Truman Scholarship Foundation (Parts 1800-
                 1899)
-       XXI  Commission on Fine Arts (Parts 2100--2199)
-      XXII  Christopher Columbus Quincentenary Jubilee Commission 
-                (Parts 2200--2299)
+       XXI  Commission on Fine Arts (Parts 2100-2199)
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
-                2400--2499)
-       XXV  Corporation for National and Community Service (Parts 
-                2500--2599)
+                2400-2499)
 
 [[Page 265]]
 
+       XXV  Corporation for National and Community Service (Parts 
+                2500-2599)
+
                           Title 46--Shipping
 
-         I  Coast Guard, Department of Transportation (Parts 1--
+         I  Coast Guard, Department of Transportation (Parts 1-
                 199)
         II  Maritime Administration, Department of Transportation 
-                (Parts 200--399)
+                (Parts 200-399)
        III  Coast Guard (Great Lakes Pilotage), Department of 
-                Transportation (Parts 400--499)
-        IV  Federal Maritime Commission (Parts 500--599)
+                Transportation (Parts 400-499)
+        IV  Federal Maritime Commission (Parts 500-599)
 
                       Title 47--Telecommunication
 
-         I  Federal Communications Commission (Parts 0--199)
+         I  Federal Communications Commission (Parts 0-199)
         II  Office of Science and Technology Policy and National 
-                Security Council (Parts 200--299)
+                Security Council (Parts 200-299)
        III  National Telecommunications and Information 
-                Administration, Department of Commerce (Parts 
-                300--399)
+                Administration, Department of Commerce (Parts 300-
+                399)
 
            Title 48--Federal Acquisition Regulations System
 
-         1  Federal Acquisition Regulation (Parts 1--99)
-         2  Department of Defense (Parts 200--299)
-         3  Department of Health and Human Services (Parts 300--
+         1  Federal Acquisition Regulation (Parts 1-99)
+         2  Department of Defense (Parts 200-299)
+         3  Department of Health and Human Services (Parts 300-
                 399)
-         4  Department of Agriculture (Parts 400--499)
-         5  General Services Administration (Parts 500--599)
-         6  Department of State (Parts 600--699)
+         4  Department of Agriculture (Parts 400-499)
+         5  General Services Administration (Parts 500-599)
+         6  Department of State (Parts 600-699)
          7  United States Agency for International Development 
-                (Parts 700--799)
-         8  Department of Veterans Affairs (Parts 800--899)
-         9  Department of Energy (Parts 900--999)
-        10  Department of the Treasury (Parts 1000--1099)
-        12  Department of Transportation (Parts 1200--1299)
-        13  Department of Commerce (Parts 1300--1399)
-        14  Department of the Interior (Parts 1400--1499)
-        15  Environmental Protection Agency (Parts 1500--1599)
+                (Parts 700-799)
+         8  Department of Veterans Affairs (Parts 800-899)
+         9  Department of Energy (Parts 900-999)
+        10  Department of the Treasury (Parts 1000-1099)
+        12  Department of Transportation (Parts 1200-1299)
+        13  Department of Commerce (Parts 1300-1399)
+        14  Department of the Interior (Parts 1400-1499)
+        15  Environmental Protection Agency (Parts 1500-1599)
         16  Office of Personnel Management Federal Employees 
                 Health Benefits Acquisition Regulation (Parts 
-                1600--1699)
-        17  Office of Personnel Management (Parts 1700--1799)
+                1600-1699)
+        17  Office of Personnel Management (Parts 1700-1799)
         18  National Aeronautics and Space Administration (Parts 
-                1800--1899)
-        19  United States Information Agency (Parts 1900--1999)
-        20  Nuclear Regulatory Commission (Parts 2000--2099)
+                1800-1899)
+        19  Broadcasting Board of Governors (Parts 1900-1999)
+        20  Nuclear Regulatory Commission (Parts 2000-2099)
         21  Office of Personnel Management, Federal Employees 
                 Group Life Insurance Federal Acquisition 
-                Regulation (Parts 2100--2199)
-        23  Social Security Administration (Parts 2300--2399)
+                Regulation (Parts 2100-2199)
+        23  Social Security Administration (Parts 2300-2399)
         24  Department of Housing and Urban Development (Parts 
-                2400--2499)
-        25  National Science Foundation (Parts 2500--2599)
-        28  Department of Justice (Parts 2800--2899)
-        29  Department of Labor (Parts 2900--2999)
+                2400-2499)
 
 [[Page 266]]
 
+        25  National Science Foundation (Parts 2500-2599)
+        28  Department of Justice (Parts 2800-2899)
+        29  Department of Labor (Parts 2900-2999)
         34  Department of Education Acquisition Regulation (Parts 
-                3400--3499)
-        35  Panama Canal Commission (Parts 3500--3599)
-        44  Federal Emergency Management Agency (Parts 4400--4499)
+                3400-3499)
+        35  Panama Canal Commission (Parts 3500-3599)
+        44  Federal Emergency Management Agency (Parts 4400-4499)
         51  Department of the Army Acquisition Regulations (Parts 
-                5100--5199)
+                5100-5199)
         52  Department of the Navy Acquisition Regulations (Parts 
-                5200--5299)
+                5200-5299)
         53  Department of the Air Force Federal Acquisition 
-                Regulation Supplement (Parts 5300--5399)
+                Regulation Supplement (Parts 5300-5399)
         54  Defense Logistics Agency, Department of Defense (Part 
                 5452)
-        57  African Development Foundation (Parts 5700--5799)
+        57  African Development Foundation (Parts 5700-5799)
         61  General Services Administration Board of Contract 
-                Appeals (Parts 6100--6199)
+                Appeals (Parts 6100-6199)
         63  Department of Transportation Board of Contract Appeals 
-                (Parts 6300--6399)
+                (Parts 6300-6399)
         99  Cost Accounting Standards Board, Office of Federal 
                 Procurement Policy, Office of Management and 
-                Budget (Parts 9900--9999)
+                Budget (Parts 9900-9999)
 
-                       Title 49--Transportation
+                        Title 49-Transportation
 
             Subtitle A--Office of the Secretary of Transportation 
-                (Parts 1--99)
+                (Parts 1-99)
             Subtitle B--Other Regulations Relating to 
                 Transportation
          I  Research and Special Programs Administration, 
-                Department of Transportation (Parts 100--199)
+                Department of Transportation (Parts 100-199)
         II  Federal Railroad Administration, Department of 
-                Transportation (Parts 200--299)
-       III  Federal Highway Administration, Department of 
-                Transportation (Parts 300--399)
-        IV  Coast Guard, Department of Transportation (Parts 400--
+                Transportation (Parts 200-299)
+       III  Federal Motor Carrier Safety Administration, 
+                Department of Transportation (Parts 300-399)
+        IV  Coast Guard, Department of Transportation (Parts 400-
                 499)
          V  National Highway Traffic Safety Administration, 
-                Department of Transportation (Parts 500--599)
+                Department of Transportation (Parts 500-599)
         VI  Federal Transit Administration, Department of 
-                Transportation (Parts 600--699)
+                Transportation (Parts 600-699)
        VII  National Railroad Passenger Corporation (AMTRAK) 
-                (Parts 700--799)
-      VIII  National Transportation Safety Board (Parts 800--999)
+                (Parts 700-799)
+      VIII  National Transportation Safety Board (Parts 800-999)
          X  Surface Transportation Board, Department of 
-                Transportation (Parts 1000--1399)
+                Transportation (Parts 1000-1399)
         XI  Bureau of Transportation Statistics, Department of 
-                Transportation (Parts 1400--1499)
+                Transportation (Parts 1400-1499)
+
+[[Page 267]]
 
                    Title 50--Wildlife and Fisheries
 
          I  United States Fish and Wildlife Service, Department of 
-                the Interior (Parts 1--199)
-
-[[Page 267]]
-
+                the Interior (Parts 1-199)
         II  National Marine Fisheries Service, National Oceanic 
                 and Atmospheric Administration, Department of 
-                Commerce (Parts 200--299)
+                Commerce (Parts 200-299)
        III  International Fishing and Related Activities (Parts 
-                300--399)
+                300-399)
         IV  Joint Regulations (United States Fish and Wildlife 
                 Service, Department of the Interior and National 
                 Marine Fisheries Service, National Oceanic and 
                 Atmospheric Administration, Department of 
                 Commerce); Endangered Species Committee 
-                Regulations (Parts 400--499)
-         V  Marine Mammal Commission (Parts 500--599)
+                Regulations (Parts 400-499)
+         V  Marine Mammal Commission (Parts 500-599)
         VI  Fishery Conservation and Management, National Oceanic 
                 and Atmospheric Administration, Department of 
-                Commerce (Parts 600--699)
+                Commerce (Parts 600-699)
 
                       CFR Index and Finding Aids
 
@@ -20511,6 +20620,8 @@ which is published separately and revised annually.
             Parallel Tables of Statutory Authorities and Rules
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
+
+
 
 [[Page 269]]
 
@@ -20523,7 +20634,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of March 31, 1999)
+                      (Revised as of April 1, 2000)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -20532,15 +20643,15 @@ Administrative Committee of the Federal Register  1, I
 Advanced Research Projects Agency                 32, I
 Advisory Commission on Intergovernmental          5, VII
      Relations
-Advisory Committee on Federal Pay                 5, IV
 Advisory Council on Historic Preservation         36, VIII
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
-Agency for International Development              22, II
+Agency for International Development, United      22, II
+     States
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
-Agriculture Department
+Agriculture Department                            5, LXXIII
   Agricultural Marketing Service                  7, I, IX, X, XI
   Agricultural Research Service                   7, V
   Animal and Plant Health Inspection Service      7, III; 9, I
@@ -20583,11 +20694,10 @@ American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
-
+Architectural and Transportation Barriers         36, XI
+   Compliance Board
 [[Page 270]]
 
-Architectural and Transportation Barriers         36, XI
-     Compliance Board
 Arctic Research Commission                        45, XXIII
 Armed Forces Retirement Home                      5, XI
 Army Department                                   32, V
@@ -20600,19 +20710,19 @@ Bilingual Education and Minority Languages        34, V
 Blind or Severely Disabled, Committee for         41, 51
      Purchase From People Who Are
 Board for International Broadcasting              22, XIII
+Broadcasting Board of Governors                   22, V
+  Federal Acquisition Regulation                  48, 19
 Census Bureau                                     15, I
 Central Intelligence Agency                       32, XIX
 Chief Financial Officer, Office of                7, XXX
 Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
-Christopher Columbus Quincentenary Jubilee        45, XXII
-     Commission
 Civil Rights, Commission on                       45, VII
 Civil Rights, Office for                          34, I
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
 Commerce Department                               44, IV
-  Census Bureau                                   15, I`
+  Census Bureau                                   15, I
   Economic Affairs, Under Secretary               37, V
   Economic Analysis, Bureau of                    15, VIII
   Economic Development Administration             13, III
@@ -20654,7 +20764,8 @@ Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
 Customs Service, United States                    19, I
 Defense Contract Audit Agency                     32, I
-Defense Department                                5, XXVI; 32, Subtitle A
+Defense Department                                5, XXVI; 32, Subtitle A; 
+                                                  40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
 
@@ -20695,6 +20806,8 @@ Education, Department of                          5, LIII
   Vocational and Adult Education, Office of       34, IV
 Educational Research and Improvement, Office of   34, VII
 Elementary and Secondary Education, Office of     34, II
+Emergency Oil and Gas Guaranteed Loan Board       13, V
+Emergency Steel Guarantee Loan Board              13, IV
 Employees' Compensation Appeals Board             20, IV
 Employees Loyalty Board                           5, V
 Employment and Training Administration            20, V
@@ -20707,7 +20820,7 @@ Energy, Department of                             5, XXIII; 10, II, III, X
 Energy, Office of                                 7, XXIX
 Engineers, Corps of                               33, II; 36, III
 Engraving and Printing, Bureau of                 31, VI
-Environmental Protection Agency                   5, LIV; 40, I
+Environmental Protection Agency                   5, LIV; 40, I, VII
   Federal Acquisition Regulation                  48, 15
   Property Management Regulations                 41, 115
 Environmental Quality, Office of                  7, XXXI
@@ -20729,11 +20842,11 @@ Export-Import Bank of the United States           5, LII; 12, IV
 Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
-Farm Service Agency                               7, VII, XVIII
-Federal Acquisition Regulation                    48, 1
 
 [[Page 272]]
 
+Farm Service Agency                               7, VII, XVIII
+Federal Acquisition Regulation                    48, 1
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
 Federal Claims Collection Standards               4, II
@@ -20752,7 +20865,7 @@ Federal Energy Regulatory Commission              5, XXIV; 18, I
 Federal Financial Institutions Examination        12, XI
      Council
 Federal Financing Bank                            12, VIII
-Federal Highway Administration                    23, I, II; 49, III
+Federal Highway Administration                    23, I, II
 Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
 Federal Housing Finance Board                     12, IX
@@ -20760,14 +20873,15 @@ Federal Labor Relations Authority, and General    5, XIV; 22, XIV
      Counsel of the Federal Labor Relations 
      Authority
 Federal Law Enforcement Training Center           31, VII
+Federal Management Regulation                     41, 102
 Federal Maritime Commission                       46, IV
 Federal Mediation and Conciliation Service        29, XII
 Federal Mine Safety and Health Review Commission  5, LXXIV; 29, XXVII
-Federal Pay, Advisory Committee on                5, IV
+Federal Motor Carrier Safety Administration       49, III
 Federal Prison Industries, Inc.                   28, III
 Federal Procurement Policy Office                 48, 99
 Federal Property Management Regulations           41, 101
-Federal Property Management Regulations System    41, Subtitle C
+Federal Property Management Regulations System    41, 101, 102, 105
 Federal Railroad Administration                   49, II
 Federal Register, Administrative Committee of     1, I
 Federal Register, Office of                       1, II
@@ -20798,17 +20912,16 @@ General Accounting Office                         4, I, II
 General Services Administration                   5, LVII
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
-  Federal Property Management Regulations System  41, 101, 105
+  Federal Property Management Regulations System  41, 101, 102, 105
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
-       Expenses
+     Expenses
+[[Page 273]]
+
   Payment of Expenses Connected With the Death    41, 303
        of Certain Employees
   Relocation Allowances                           41, 302
-
-[[Page 273]]
-
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
 Government Ethics, Office of                      5, XVI
@@ -20857,8 +20970,6 @@ Indian Affairs, Office of the Assistant           25, VI
      Secretary
 Indian Arts and Crafts Board                      25, II
 Indian Health Service                             25, V
-Information Agency, United States                 22, V
-  Federal Acquisition Regulation                  48, 19
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
      Archives and Records Administration
@@ -20884,10 +20995,10 @@ Interior Department
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
   Minerals Management Service                     30, II
-  Mines, Bureau of                                30, VI
 
 [[Page 274]]
 
+  Mines, Bureau of                                30, VI
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
   Reclamation, Bureau of                          43, I
@@ -20900,12 +21011,11 @@ Internal Revenue Service                          26, I
 International Boundary and Water Commission,      22, XI
      United States and Mexico, United States 
      Section
-International Development, Agency for             22, II
+International Development, United States Agency   22, II
+     for
   Federal Acquisition Regulation                  48, 7
 International Development Cooperation Agency,     22, XII
      United States
-  International Development, Agency for           22, II; 48, 7
-  Overseas Private Investment Corporation         5, XXXIII; 22, VII
 International Fishing and Related Activities      50, III
 International Investment, Office of               31, VIII
 International Joint Commission, United States     22, IV
@@ -20961,10 +21071,10 @@ Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
 Mines, Bureau of                                  30, VI
+Minority Business Development Agency              15, XIV
 
 [[Page 275]]
 
-Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
 Multifamily Housing Assistance Restructuring,     24, IV
@@ -20973,6 +21083,7 @@ National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
 National Agricultural Statistics Service          7, XXXVI
+National and Community Service, Corporation for   45, XII, XXV
 National Archives and Records Administration      5, LXVI; 36, XII
   Information Security Oversight Office           32, XX
 National Bureau of Standards                      15, II
@@ -20980,8 +21091,8 @@ National Capital Planning Commission              1, IV
 National Commission for Employment Policy         1, IV
 National Commission on Libraries and Information  45, XVII
      Science
-National and Community Service, Corporation for   45, XII, XXV
 National Council on Disability                    34, XII
+National Counterintelligence Center               32, XVIII
 National Credit Union Administration              12, VII
 National Drug Control Policy, Office of           21, III
 National Foundation on the Arts and the           45, XI
@@ -21019,6 +21130,7 @@ Nuclear Regulatory Commission                     5, XLVIII; 10, I
 Occupational Safety and Health Administration     29, XVII
 Occupational Safety and Health Review Commission  29, XX
 Offices of Independent Counsel                    28, VI
+Oklahoma City National Memorial Trust             36, XV
 Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
 Panama Canal Commission                           48, 35
@@ -21104,16 +21216,17 @@ Transportation, Department of                     5, L
   Emergency Management and Assistance             44, IV
   Federal Acquisition Regulation                  48, 12
   Federal Aviation Administration                 14, I
-  Federal Highway Administration                  23, I, II; 49, III
+  Federal Highway Administration                  23, I, II
+  Federal Motor Carrier Safety Administration     49, III
   Federal Railroad Administration                 49, II
   Federal Transit Administration                  49, VI
   Maritime Administration                         46, II
   National Highway Traffic Safety Administration  23, II, III; 49, V
   Research and Special Programs Administration    49, I
-  Saint Lawrence Seaway Development Corporation   33, IV
 
 [[Page 277]]
 
+  Saint Lawrence Seaway Development Corporation   33, IV
   Secretary of Transportation, Office of          14, II; 49, Subtitle A
   Surface Transportation Board                    49, X
   Transportation Statistics Bureau                49, XI
@@ -21156,6 +21269,8 @@ Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
 [[Page 279]]
+
+
 
 
 <R03>
@@ -21381,131 +21496,5 @@ Chapter XIII
                                   1991
 
 18 CFR
-                                                                   56 FR
-                                                                    Page
-Chapter III
-401.35  (a)(17) through (19) added.................................30502
-    (a)(17) and (18) corrected.....................................37954
-Chapter XIII
-1301.12  (d) revised................................................9288
-1301.24  (b)(1) and (c)(1) amended..................................9288
-1301.48  (a), (c) and (d) revised; (b) amended.....................55452
-
-                                  1992
-
-18 CFR
-                                                                   57 FR
-                                                                    Page
-
-Chapter III
-
-401.35  (a)(4) and (5) revised.....................................60470
-    (b)(17) added..................................................59908
-
-Chapter XIII
-
-1301.1  (b) introductory text revised; (c)(1)(i), (ii), (2)(i), 
-        (ii), (3)(i) and (ii) amended..............................59908
-1301.3  Added......................................................23532
-1301.12  (f) revised...............................................33634
-    (d) revised....................................................59803
-1301.19  (a) introductory text revised.............................33634
-
-[[Page 282]]
-
-                                  1993
-
-18 CFR
-                                                                   58 FR
-                                                                    Page
-
-Chapter XIII
-
-1301.2  (c)(1) revised; (d)(2) amended.............................53656
-1316  Added........................................................25930
-
-                                  1994
-
-18 CFR
-                                                                   59 FR
-                                                                    Page
-
-Chapter III
-
-401.35  (b)(18) added; eff. 6-1-94.................................11458
-420  Authority citation revised....................................64571
-420.31  (d) and (f) revised........................................64571
-
-                                  1995
-
-18 CFR
-                                                                   60 FR
-                                                                    Page
-
-Chapter VIII
-
-803  Revised.......................................................31394
-804  Added.........................................................31401
-805  Added.........................................................31401
-
-Chapter XIII
-
-1301.1  (b) introductory text, (c)(1)(i), (2)(i), (ii) and (3)(ii) 
-        revised; (c)(2)(iii) added.................................38479
-1310  Revised.......................................................8196
-1312  Authority citation revised....................................5259
-1312.1  (a) amended...........................................5259, 5260
-1312.3  (a)(6) added; (i) revised.............................5259, 5260
-1312.4  Heading and (a) revised; (c) added....................5259, 5260
-1312.7  (b)(4) added..........................................5259, 5261
-1312.13  (e) added............................................5259, 5261
-1312.19  Revised..............................................5259, 5261
-1312.20  Added................................................5259, 5261
-1312.21  Added................................................5259, 5261
-
-                                  1996
-
-18 CFR
-                                                                   61 FR
-                                                                    Page
-
-Chapter XIII
-
-1300  Revised......................................................20118
-1301.24  (d) revised................................................2111
-1303  Added..........................................................611
-1303.2  Corrected..................................................54849
-1315  Authority citation revised...................................55098
-1315.400  (a) and (b) amended......................................55098
-
-                                  1997
-
-18 CFR
-                                                                   62 FR
-                                                                    Page
-
-Chapter III
-
-401.0  Revised.....................................................64154
-401.1--401.9 (Subpart A)  Revised..................................64154
-401.31--401.41 (Subpart C)  Revised................................64155
-401.51--401.67 (Subpart D)  Removed................................64158
-401.71--401.78 (Subpart E)  Revised................................64158
-401.81--401.90 (Subpart F)  Revised................................64159
-
-Chapter XIII
-
-1301.24  (e) added..................................................4644
-1314  Revised........................................................920
-1314.2  (a) correctly designated....................................4633
-    (g), (h), (t) and (v) revised; (i) amended.....................29288
-1314.3  (a)(3) amended.............................................29288
-1314.4  (a)(1)(i) corrected.........................................8619
-    (a) introductory text, (b) and (d) amended.....................29288
-1314.5  (b) corrected...............................................4633
-    (a) and (b) corrected...........................................8619
-1314.6  (a) corrected...............................................8619
-    (b)(2) corrected................................................8620
-1314.7  Corrected...................................................4633
-1314.8  Corrected............
+                                              
 </pre></body></html>

@@ -1,37 +1,37 @@
 <html><body><pre>
 [Title 32 CFR ]
-[Code of Federal Regulations (annual edition) - July 1, 1999 Edition]
+[Code of Federal Regulations (annual edition) - July 1, 2000 Edition]
 [From the U.S. Government Printing Office]
 
 
-          32
-
-
-<R02>
-          National Defense
-
-<R03>
 
 [[Page i]]
 
-          PARTS 630 TO 699
 
-                         Revised as of July 1, 1999
+<R02>
+                    32
 
-          CONTAINING
-          A CODIFICATION OF DOCUMENTS
-          OF GENERAL APPLICABILITY
-          AND FUTURE EFFECT
 
-          AS OF JULY 1, 1999
+          Parts 630 to 699
+
+                         Revised as of July 1, 2000
+
+National Defense
+
+<R03>
+
+
+
+          Containing a Codification of documents of general 
+          applicability and future effect
+          As of July 1, 2000
           With Ancillaries
           Published by
           the Office of the Federal Register
           National Archives and Records
           Administration
 
-          as a Special Edition of
-          the Federal Register
+As a Special Edition of the Federal Register
 
 
 
@@ -43,7 +43,7 @@
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 1999
+                            WASHINGTON : 2000
 
 
 
@@ -65,17 +65,11 @@
   Explanation.................................................       v
 
   Title 32:
-
     Subtitle A--Department of Defense (Continued):
-
-          Chapter V--Department of the Army (Continued).......       5
-
+          Chapter V--Department of the Army (Continued)              5
   Finding Aids:
-
       Table of CFR Titles and Chapters........................     433
-
       Alphabetical List of Agencies Appearing in the CFR......     451
-
       List of CFR Sections Affected...........................     461
 
 
@@ -134,7 +128,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, July 1, 1999), consult the ``List of CFR 
+revision date (in this case, July 1, 2000, consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -220,28 +214,28 @@ Customer Service call 202-512-1803.
 
 ELECTRONIC SERVICES
 
-    The full text of the Code of Federal Regulations, The United States 
-Government Manual, the Federal Register, Public Laws, Weekly Compilation 
-of Presidential Documents and the Privacy Act Compilation are available 
-in electronic format at www.access.gpo.gov/nara (``GPO Access''). For 
-more information, contact Electronic Information Dissemination Services, 
-U.S. Government Printing Office. Phone 202-512-1530, or 888-293-6498 
-(toll-free). E-mail, gpoaccess@gpo.gov.
-    The Office of the Federal Register also offers a free service on the 
-National Archives and Records Administration's (NARA) World Wide Web 
-site for public
+    The full text of the Code of Federal Regulations, the LSA (List of 
+CFR Sections Affected), The United States Government Manual, the Federal 
+Register, Public Laws, Public Papers, Weekly Compilation of Presidential 
+Documents and the Privacy Act Compilation are available in electronic 
+format at www.access.gpo.gov/nara (``GPO Access''). For more 
+information, contact Electronic Information Dissemination Services, U.S. 
+Government Printing Office. Phone 202-512-1530, or 888-293-6498 (toll-
+free). E-mail, gpoaccess@gpo.gov.
 
 [[Page vii]]
 
-law numbers, Federal Register finding aids, and related information. 
-Connect to NARA's web site at www.nara.gov/fedreg. The NARA site also 
-contains links to GPO Access.
+    The Office of the Federal Register also offers a free service on the 
+National Archives and Records Administration's (NARA) World Wide Web 
+site for public law numbers, Federal Register finding aids, and related 
+information. Connect to NARA's web site at www.nara.gov/fedreg. The NARA 
+site also contains links to GPO Access.
 
                               Raymond A. Mosley,
                                     Director,
                           Office of the Federal Register.
 
-July 1, 1999.
+July 1, 2000.
 
 
 
@@ -255,7 +249,7 @@ July 1, 1999.
 these volumes are arranged in the following order: parts 1-190, parts 
 191-399, parts 400-629, parts 630-699, parts 700-799, and part 800 to 
 End. The contents of these volumes represent all current regulations 
-codified under this title of the CFR as of July 1, 1999.
+codified under this title of the CFR as of July 1, 2000.
 
     The current regulations issued by the Department of Defense appear 
 in the volumes containing parts 1-189 and parts 190-399; those issued by 
@@ -263,13 +257,13 @@ the Department of the Army appear in the volumes containing parts 400-
 629 and parts 630-699; those issued by the Department of the Navy appear 
 in the volume containing parts 700-799, and those issued by the 
 Department of the Air Force, Defense Logistics Agency, Selective Service 
-System, Central Intelligence Agency, Information Security Oversight 
-Office, National Security Council, Office of Science and Technology 
-Policy, Office for Micronesian Status Negotiations, and Office of the 
-Vice President of the United States appear in the volume containing 
-parts 800 to end.
+System, National Counterintelligence Center, Central Intelligence 
+Agency, Information Security Oversight Office, National Security 
+Council, Office of Science and Technology Policy, Office for Micronesian 
+Status Negotiations, and Office of the Vice President of the United 
+States appear in the volume containing parts 800 to end.
 
-    For this volume, Linda L. Jones was Chief Editor. The Code of 
+    For this volume, Bonnie J. Fritts was Chief Editor. The Code of 
 Federal Regulations is published under the direction of Frances D. 
 McDonald, assisted by Alomha S. Morris.
 
@@ -295,7 +289,7 @@ McDonald, assisted by Alomha S. Morris.
 
              SUBTITLE A--Department of Defense (Continued):
 
-Chapter V--Department of the Army (Continued)...............         630
+chapter v--Department of the Army (Continued)...............         630
 
 
 Cross References: American Battle Monuments Commission: See Parks, 
@@ -313,9 +307,6 @@ Relief, 38 CFR, chapter I.
                         Subtitle A--Department of
 
                            Defense (Continued)
-
-  --------------------------------------------------------------------
-
 
 [[Page 5]]
 
@@ -343,33 +334,37 @@ Part                                                                Page
 634             Motor vehicle traffic supervision...........          34
 636             Motor vehicle traffic supervision (specific 
                     installations)..........................          71
-
                        SUBCHAPTER J--REAL PROPERTY
-
 641-642         [Reserved]
+
 643             Real estate.................................          87
 644             Real estate handbook........................         102
 645-649         [Reserved]
 
                    SUBCHAPTER K--ENVIRONMENTAL QUALITY
-
 650             Environmental protection and enhancement (AR 
                     200-1)..................................         298
 651             Environmental effects of Army actions (AR 
                     200-2)..................................         379
 652-654         [Reserved]
+
 655             Radiation sources on Army land..............         423
 656             Installations, use of off-road vehicles on 
                     Army land...............................         424
-657-699         [Reserved]
+657-667         [Reserved]
+
+                     SUBCHAPTER L--ARMY CONTRACTING
+668             Contractor manhour reporting requirement....         429
+669-699         [Reserved]
+
+
+[[Page 6]]
+
 
 
   Editorial Note: Other regulations issued by the Department of the Army 
 appear in title 33, chapter II; and title 36, chapter III.
 
-
-
-[[Page 6]]
 
 Abbreviations:
     The following abbreviations are used in this chapter: AGCT=Army 
@@ -381,6 +376,8 @@ Abbreviations:
   ZI=Zone of Interior.
 
 [[Page 7]]
+
+
 
 
 <R03>
@@ -1449,10 +1446,10 @@ ARNG--Army National Guard
 AWOL--absent without leave
 BAS--basic allowance for substance
 CG--commanding general
-CONUS--Continental United States
 
 [[Page 19]]
 
+CONUS--Continental United States
 DCSPER--Deputy Chief of Staff for Personnel
 DCSOPS--Deputy Chief of Staff for Operations and Plans
 DFR--dropped from the rolls
@@ -4905,76 +4902,75 @@ posted a bond, or collateral.
                                    1.)
 
 Violation: Reckless driving (willful and wanton disregard for the safety 
-          of persons or property).
-    Points assessed: 6
+of persons or property).
+Points assessed: 6
 Violation: Owner knowingly and willfully permitting a physically 
-          impaired person to operate the owner's motor vehicle.
-    Points assessed: 6
+impaired person to operate the owner's motor vehicle.
+Points assessed: 6
 Violation: Fleeing the scene (hit and run)-property damage only.
-    Points assessed: 6
+Points assessed: 6
 Violation: Driving vehicle while impaired (blood-alcohol content more 
-          than 0.05 percent and less than 0.10 percent).
-    Points assessed: 6
+than 0.05 percent and less than 0.10 percent).
+Points assessed: 6
 Violation: Speed contests.
-    Points assessed: 6
+Points assessed: 6
 Violation: Speed too fast for conditions.
-    Points assessed: 2
+Points assessed: 2
 Violation: Speed too slow, causing potential safety hazard.
-    Points assessed: 2
+Points assessed: 2
 Violation: Failure of operator or occupants to use available restraint 
-          system devices while moving (operator assessed points).
-    Points assessed: 2
+system devices while moving (operator assessed points).
+Points assessed: 2
 Violation: Failure to property restrain children in a child restraint 
-          system while moving (when child is 4 years of age or younger 
-          or the weight of child does not exceed 45 pounds).
-    Points assessed: 2
+system while moving (when child is 4 years of age or younger or the 
+weight of child does not exceed 45 pounds).
+Points assessed: 2
 Violation: One to 10 miles per hour over posted speed limit.
-    Points assessed: 3
+Points assessed: 3
 Violation: Over 10 but not more than 15 miles per hour above posted 
-          speed limit.
-    Points assessed: 4
+speed limit.
+Points assessed: 4
 Violation: Over 15 but not more than 20 miles per hour above posted 
-          speed limit.
-    Points assessed: 5
+speed limit.
+Points assessed: 5
 Violation: Over 20 miles per hour above posted speed limit.
-    Points assessed: 6
+Points assessed: 6
 Violation: Following too close.
-    Points assessed: 4
+Points assessed: 4
 Violation: Failure to yield right of way to emergency vehicle.
-    Points assessed: 4
+Points assessed: 4
 Violation: Failure to stop for school bus or school-crossing signals.
-    Points assessed: 4
+Points assessed: 4
 Violation: Failure to obey traffic signals or traffic instructions of an 
-          enforcement officer or traffic warden; or any official 
-          regulatory traffic sign or device requiring a full stop or 
-          yield of right of way; denying entry; or requiring direction 
-          of traffic.
-    Points assessed: 4
-Violation: Improper passing.
-    Points assessed: 4
+enforcement officer or traffic warden; or any official regulatory 
+traffic sign or device requiring a full stop or yield of right of way; 
+denying entry; or requiring direction of traffic.
+Points assessed: 4
 
 [[Page 60]]
 
+Violation: Improper passing.
+Points assessed: 4
 Violation: Failure to yield (no official sign involved).
-    Points assessed: 4
+Points assessed: 4
 Violation: Improper turning movements (no official sign involved).
-    Points assessed: 3
+Points assessed: 3
 Violation: Wearing of headphones/earphones while driving motor vehicles 
-          (two or more wheels).
-    Points assessed: 3
+(two or more wheels).
+Points assessed: 3
 Violation: Failure to wear an approved helmet and/or reflectorized vest 
-          while operating or riding on a motorcycle, MOPED, or a three 
-          or four-wheel vehicle powered by a motorcycle-like engine.
-    Points assessed: 3
+while operating or riding on a motorcycle, MOPED, or a three or four-
+wheel vehicle powered by a motorcycle-like engine.
+Points assessed: 3
 Violation: Improper overtaking.
-    Points assessed: 3
+Points assessed: 3
 Violation: Other moving violations (involving driver behavior only).
-    Points assessed: 3
+Points assessed: 3
 Violation: Operating an unsafe vehicle. (See Note 2.)
-    Points assessed: 2
+Points assessed: 2
 Violation: Driver involved in accident is deemed responsible (only added 
-          to points assessed for specific offenses).
-    Points assessed: 1
+to points assessed for specific offenses).
+Points assessed: 1
 
                                  Notes:
 
@@ -5033,19 +5029,19 @@ measures are accomplished.
 one violation or an accumulation of 12 traffic points within 12 
 consecutive months, or 18 traffic points within 24 consecutive months) 
 will be notified in writing through official channels (Sec. 634.11). 
-Except for the mandatory minimum or maximum suspension or revocation 
-periods prescribed by table 634.44, the installation commander will 
-establish
+Except for the mandatory minimum or
 
 [[Page 61]]
 
-periods of suspension or revocation. Any revocation based on traffic 
-points must be no less than 6 months. A longer period may be imposed on 
-the basis of a person's overall driving record considering the 
-frequency, flagrancy, severity of moving violations, and the response to 
-previous driver improvement measures. In all cases, military members 
-must successfully complete a prescribed course in remedial driver 
-training before driving privileges are reinstated.
+maximum suspension or revocation periods prescribed by table 634.44, the 
+installation commander will establish periods of suspension or 
+revocation. Any revocation based on traffic points must be no less than 
+6 months. A longer period may be imposed on the basis of a person's 
+overall driving record considering the frequency, flagrancy, severity of 
+moving violations, and the response to previous driver improvement 
+measures. In all cases, military members must successfully complete a 
+prescribed course in remedial driver training before driving privileges 
+are reinstated.
     (g) Points assessed against a person will remain in effect for point 
 accumulation purposes for 24 consecutive months. The review of driver 
 records to delete traffic points should be done routinely during records 
@@ -5116,18 +5112,16 @@ traffic safety, and the orderly flow of vehicle traffic movement.
 freedom from unreasonable search and seizure, and freedom from 
 deprivation of private property.
 
+[[Page 62]]
+
 
 <R05>
 Sec. 634.50  Standards for impoundment.
 
     (a) POVs should not be impounded unless the vehicles clearly 
-interfere
-
-[[Page 62]]
-
-with ongoing operations or movement of traffic, threaten public safety 
-or convenience, are involved in criminal activity, contain evidence of 
-criminal activity, or are stolen or abandoned.
+interfere with ongoing operations or movement of traffic, threaten 
+public safety or convenience, are involved in criminal activity, contain 
+evidence of criminal activity, or are stolen or abandoned.
     (b) The impoundment of a POV would be inappropriate when reasonable 
 alternatives to impoundment exist.
     (1) Attempts should be made to locate the owner of the POV and have 
@@ -5198,15 +5192,14 @@ will be documented by an entry in the installation law enforcement desk
 journal.
     (2) The owner will be allowed 3 days from the date the POV is tagged 
 to remove the vehicle before impoundment action is initiated. If the 
-vehicle has not been removed after 3 days, it will be removed by the 
-installation towing service or the contracted wrecker service. If a 
-contracted wrecker service is
+vehicle has not been removed after 3 days, it will
 
 [[Page 63]]
 
-used, a DD Form 2505 (Abandoned Vehicle Removal Authorization) will be 
-completed and issued to the contractor by the installation law 
-enforcement office.
+be removed by the installation towing service or the contracted wrecker 
+service. If a contracted wrecker service is used, a DD Form 2505 
+(Abandoned Vehicle Removal Authorization) will be completed and issued 
+to the contractor by the installation law enforcement office.
     (3) After the vehicle has been removed, the installation law 
 enforcement officer or the contractor will complete DD Form 2506 
 (Vehicle Impoundment Report) as a record of the actions taken.
@@ -6227,9 +6220,9 @@ Sec.
 636.37  Use of ``Denver Boot'' device.
 636.38  Impounding privately owned vehicles (POVs).
 
-Appendix A to Part 636--References
-Appendixes B--C to Part 636 [Reserved]
-Appendix D to Part 636--Glossary
+Appendix A to Part 636-References
+Appendixes B-C to Part 636 [Reserved]
+Appendix D to Part 636-Glossary
 
     Authority: 10 U.S.C. 30112(g); 5 U.S.C. 2951; Pub. L. 89-564; 89-
 670; 91-605; and 93-87.
@@ -6703,7 +6696,7 @@ Night Driving:
 Night Driving:
   Trails, 4 MPH (Black-out Drive)
   Cross County, 2.5 MPH
-------------------------------------------------------------------------
+ 
 
     (5) Parking lots, 10 miles per hour.
     (6) The authorized maximum speed limit for rough terrain forklifts 
@@ -7266,7 +7259,7 @@ Police (see figure 636.37).
                 Non-Duty Hours, Bldg 285, Phone 767-2822
  
                                  Notice
-------------------------------------------------------------------------
+ 
 
 
 <R05>
@@ -7482,17 +7475,14 @@ USAREUR--United States Army--Europe
 [[Page 87]]
 
 
+
+
 <R03>
                        SUBCHAPTER J--REAL PROPERTY
 
 <R05>
 
-
-<R03>
-PARTS 641--642 [RESERVED]
-
-<R05>
-
+                        PARTS 641-642 [RESERVED]
 
 
 <R03>
@@ -8152,10 +8142,10 @@ those activities in a manner which is, to the maximum extent
 practicable, consistent with approved state management programs. The 
 opinion of the Attorney General of the United States is that Federal 
 lands are excluded from mandatory compliance with the state's coastal 
-zone management program, regardless of the type of  Federal  
-jurisdiction  exercised  thereover. However, it is Army policy that its 
-activities will comply, to the extent practicable, with a state's 
-approved coastal zone management program.
+zone management program, regardless of the type of Federal jurisdiction 
+exercised thereover. However, it is Army policy that its activities will 
+comply, to the extent practicable, with a state's approved coastal zone 
+management program.
     (b) Applications for grants for use of real estate affecting land or 
 water uses in the coastal zone of a state will include a certification 
 that the proposed activity complies with the state's approved program 
@@ -9064,7 +9054,7 @@ Sec.
 
 644.175  Cross reference.
 
-                          Subpart E--[Reserved]
+Subpart E--[Reserved]
 
                            Subpart F--Disposal
 
@@ -9563,6 +9553,7 @@ Sec.
 
     Authority: The provisions of this Part 8 issued under Sec. 7, 32 
 Stat. 389, sec. 14, 53 Stat. 1197; 43 U.S.C. 421, 389.
+
     8.0  Acquisition of lands for reservoir projects. Insofar as 
 permitted by law, it is the policy of the Departments of the Interior 
 and of the Army to acquire, as a part of reservoir project construction, 
@@ -11454,7 +11445,7 @@ Total Value of part taken, including severance damage to         $86,000
 Value of 220 acres taken ($300 p/ac)........................      66,000
                                                              -----------
 Severance Damage to Remainder...............................     $20,000
-------------------------------------------------------------------------
+ 
 
     (3) The appraisal of the property before the taking must be a 
 complete narrative-type appraisal containing adequate market data to 
@@ -13320,7 +13311,7 @@ listed certificates:
 the United States as reflected on the attached (Offer to Sell) (easement 
 or deed). I further certify that the parties signatory to this document 
 and shown on the voucher as payees are the same parties reflected in a 
-preliminary certificate of title issued by the ---------- Title Company 
+preliminary certificate of title issued by the __________ Title Company 
 in the possession of the Real Estate Division of this office. The 
 completion of the transaction will be in accordance with existing 
 regulations pertaining to the closing of real estate acquisitions.
@@ -13567,20 +13558,20 @@ domain proceedings, the just compensation due a landowner is determined
 judicially by court award or by settlement prior to trial; in a purchase 
 case, it is determined by negotiations leading to a satisfactory price 
 and agreement with the landowner. While it is recognized that an 
-appraisal is only an informed opinion and does not establish or 
-determine just compensation, it is also recognized that, in negotiating 
-for the purchase of land, an appraisal is the best and sometimes the
+appraisal is only an informed opinion and does not
 
 [[Page 163]]
 
-only reliable opinion of the market value of the land which is supported 
-by a thorough, acceptable analysis of market conditions at the time of 
-purchase. Therefore, in the negotiation for the purchase of land, an 
-approved current appraisal shall establish the minimum price to be paid 
-for the land being acquired by the Corps of Engineers. Negotiations or 
-offers below this price are prohibited except where the property is 
-being acquired on a competitive basis and condemnation is not 
-authorized.
+establish or determine just compensation, it is also recognized that, in 
+negotiating for the purchase of land, an appraisal is the best and 
+sometimes the only reliable opinion of the market value of the land 
+which is supported by a thorough, acceptable analysis of market 
+conditions at the time of purchase. Therefore, in the negotiation for 
+the purchase of land, an approved current appraisal shall establish the 
+minimum price to be paid for the land being acquired by the Corps of 
+Engineers. Negotiations or offers below this price are prohibited except 
+where the property is being acquired on a competitive basis and 
+condemnation is not authorized.
     (b) Negotiating Objectives. In all cases, it is important that the 
 negotiator receives adequate guidelines and explicit instructions. 
 Promptly, after the amount of the estimated just compensation is 
@@ -13641,12 +13632,13 @@ thereof; and
 be shown, along with a narrative explanation and the landowner shall be 
 given a ``person-to-person'' explanation by the negotiator.
     (8) If the property contain a dwelling, the value of said dwelling 
-and homesite shall be set forth separately, with the statement that this 
-figure will be used in calculating housing relocation benefits under 
-title II of Pub. L. 91-646.
+and homesite
 
 [[Page 164]]
 
+shall be set forth separately, with the statement that this figure will 
+be used in calculating housing relocation benefits under title II of 
+Pub. L. 91-646.
     (9) If any building, structure, fixture, or other improvement, 
 comprising part of the real property, has been identified as being owned 
 by a tenant who has the right or obligation to remove it at the 
@@ -13709,11 +13701,12 @@ terms and conditions of the Government's contract form, and the fact
 that relocation assistance benefits may be available. He should furnish 
 the landowner a copy of a map indicating the boundaries of that portion 
 of his land to be acquired, where the entire ownership is not being 
-acquired or where different estates are being acquired in the same 
-ownership, specifying the estate in each area.
+acquired or
 
 [[Page 165]]
 
+where different estates are being acquired in the same ownership, 
+specifying the estate in each area.
     (3) Negotiations will be continued in an effort to obtain acceptance 
 of the Government's offer or a reasonable counteroffer from the 
 landowner, or until it is definitely determined that such a counteroffer 
@@ -13779,29 +13772,28 @@ inform each owner that offers and counteroffers made during negotiations
 are made without prejudice in the event of condemnation. The negotiator 
 will make a notation on the Negotiator's Report to the effect that he 
 has so informed the owner.
-    (g) Obtaining the Written Counteroffer; Preparation of Negotiator's 
-Report. If the negotiator considers that a
 
 [[Page 166]]
 
-counteroffer in excess of the approved appraised value is in the amount 
-which should be considered for acceptance, the counteroffer will be 
-reduced to writing on ENG Form 42, Offer to Sell Real Property, or on 
-ENG Form 2970, Offer to Sell Easement, and be properly executed by the 
-landowner. In such cases, a complete written record of negotiations with 
-respect to each tract or ownership, as appropriate, will be maintained 
-by means of ENG Form 3423, Negotiator's Report, Part I. This record will 
-state the chronological history of negotiations, all elements considered 
-in evaluating the landowner's final counteroffer, and the justification 
-for such recommendation in accordance with Sec. 644.84. The 
-justification will be fully recorded in ENG Form 3423A, Negotiator's 
-Report, Part II, which is a separate page of this report, and which will 
-be removed in the Office of the Chief of Engineers prior to submitting 
-the counteroffer assembly to higher authority for approval. Final action 
-on the counteroffer, either by the Secretary of the Army, the Chief of 
-Engineers or under the delegated authority to Division and District 
-Engineers, will be entered on this record as soon as that information is 
-available.
+    (g) Obtaining the Written Counteroffer; Preparation of Negotiator's 
+Report. If the negotiator considers that a counteroffer in excess of the 
+approved appraised value is in the amount which should be considered for 
+acceptance, the counteroffer will be reduced to writing on ENG Form 42, 
+Offer to Sell Real Property, or on ENG Form 2970, Offer to Sell 
+Easement, and be properly executed by the landowner. In such cases, a 
+complete written record of negotiations with respect to each tract or 
+ownership, as appropriate, will be maintained by means of ENG Form 3423, 
+Negotiator's Report, Part I. This record will state the chronological 
+history of negotiations, all elements considered in evaluating the 
+landowner's final counteroffer, and the justification for such 
+recommendation in accordance with Sec. 644.84. The justification will be 
+fully recorded in ENG Form 3423A, Negotiator's Report, Part II, which is 
+a separate page of this report, and which will be removed in the Office 
+of the Chief of Engineers prior to submitting the counteroffer assembly 
+to higher authority for approval. Final action on the counteroffer, 
+either by the Secretary of the Army, the Chief of Engineers or under the 
+delegated authority to Division and District Engineers, will be entered 
+on this record as soon as that information is available.
 
 
 <R05>
@@ -13850,18 +13842,17 @@ consequential damages or speculative values, as defined by the Federal
 courts, may not be recognized in considering a landowner's counteroffer. 
 However, even though a landowner's counteroffer might include non-
 compensable items of value, favorable consideration of the counteroffer 
-may be given if it can be justified on the basis of variances in 
-appraisals, built-in costs, and liability risks of proceeding to trial.
-    (4) Value of Reserved Items. The salvage value of improvements and 
-the
+may be given if it can be justified on the basis of variances in
 
 [[Page 167]]
 
-value of crops and/or timber reserved by the landowners, as provided in 
-Sec. 644.86 (g), (h), and (i), will not be included in the amount of the 
-counteroffer in determining the excess of counteroffers over appraised 
-values when applying the dollar and percentage limitations in the 
-delegations of authority to Division and District Engineers for 
+appraisals, built-in costs, and liability risks of proceeding to trial.
+    (4) Value of Reserved Items. The salvage value of improvements and 
+the value of crops and/or timber reserved by the landowners, as provided 
+in Sec. 644.86 (g), (h), and (i), will not be included in the amount of 
+the counteroffer in determining the excess of counteroffers over 
+appraised values when applying the dollar and percentage limitations in 
+the delegations of authority to Division and District Engineers for 
 acceptance of counteroffers. The determination of the excess will be 
 made on the basis of the appraised value of the interests being acquired 
 (including the value of the reserved items) compared to the cash payment 
@@ -14152,7 +14143,7 @@ execution of the offer;
 inserted in the offer, following the description of the land:
 
     Excepting and reserving to the Vendor the right to remove (enter 
-description of buildings) on or before ------ 19 --, which the Vendor 
+description of buildings) on or before ______ 19 __, which the Vendor 
 agrees not to relocate on other land to be acquired for the project; 
 provided, however, that, in the event that the said buildings and 
 improvements are not completely removed on or before said date, the 
@@ -14184,7 +14175,7 @@ season.
 inserted in the offer, following the description of the land:
 
     Reserving to the vendor the right to harvest all of the growing 
-crops located on the above described land on or before ------ 19--. In 
+crops located on the above described land on or before ______ 19__. In 
 the event the crops are not harvested on or before said date, the right 
 of removal shall terminate automatically, and the United States shall 
 have a good and indefeasible title to said crops, without notice to the 
@@ -14234,8 +14225,9 @@ from the purchase price at the time of preparation and execution of the
 offer.
     (3) Where a reservation is permitted, the following clause will be 
 inserted in the offer following the description of the land:
-    Reserving to the vendor the right to cut and remove on or before --
----- 19--, all trees in excess of ------ inches in diameter at breast 
+
+    Reserving to the vendor the right to cut and remove on or before 
+______ 19 __, all trees in excess of ______ inches in diameter at breast 
 height (DBH) located on the above-described land. In the event the 
 timber is not removed on or before said date, the right of removal shall 
 terminate automatically, and the United States shall have a good and 
@@ -14385,14 +14377,14 @@ in possession of the land under the terms and conditions as follows:
 for retention will be written into the offer (ENG Form 42, ENG Form 
 2970, or ENG Form 1564) and will read substantially as follows:
 
-    Notwithstanding the provisions of paragraph ---- of this offer, 
+    Notwithstanding the provisions of paragraph ____ of this offer, 
 (and/or consent to option) the occupant (vendor and/or his tenant) now 
 in possession of the property, in consideration of the protection and 
 maintenance of the land, buildings, and structures, and protection of 
 the property against loss by fire, waste, or other causes, to which the 
 occupant hereby agrees, reserves the right to occupy the property until 
-----------. Such occupancy is subject to revocation by the (Division) 
-(District) Engineer at any time by giving ---- days notice in writing to 
+__________. Such occupancy is subject to revocation by the (Division) 
+(District) Engineer at any time by giving ____ days notice in writing to 
 the occupant if possession of the property is required by the United 
 States; and provided further that the vendor-occupant or his tenant will 
 remove no improvements or timber unless otherwise provided herein.
@@ -15259,7 +15251,7 @@ be inserted in the District Office audit assembly, identified as
 follows:
 
     Directive by judicial decree for the acquisition of Tract No.; being 
-an easement (or other interest), containing ---- acres.
+an easement (or other interest), containing ____ acres.
 
     (e) Action in Lieu of Confirmatory Deed. Where a confirmatory deed 
 cannot be obtained, the Division or District Engineer will obtain from 
@@ -17657,9 +17649,7 @@ assistance program.
 
 [44 FR 3212, Jan. 15, 1979. Redesignated at 44 FR 35219, June 19, 1979]
 
-
-<R04>
-                          Subpart E--[Reserved]
+Subpart E [Reserved]
 
 
 <R04>
@@ -17851,22 +17841,21 @@ personal property under the Federal Property Act, shall be covered into
 the land and water conservation fund in the Treasury of the United 
 States (16 U.S.C. 460L-5(a), FPMR Section 101-47.307-6). This includes 
 the net proceeds from the sale of timber and structures.
-    (b) Department of Defense Family Housing Management Account. Section 
-501(b) of Pub. L. 87-554, as amended, 42
+    (b) Department of Defense Family Housing Management Account. Section
 
 [[Page 221]]
 
-U.S.C. 1594a-1, provides that the proceeds from the disposal of family 
-housing of the Department of Defense, including related land and 
-improvements, shall be transferred to Family Housing Management Account, 
-Defense. This does not include civil works housing, or houses on land 
-acquired for military purposes unless the housing was specifically 
-acquired to house military personnel. This means that excess military 
-family housing and related land and improvements should be reported to 
-GSA on Standard Form 118 separate and apart from Reports of Excess for 
-other portions of an excess installation. Particular care should be 
-taken to ensure that the following statement be included in each such 
-report of excess to GSA:
+501(b) of Pub. L. 87-554, as amended, 42 U.S.C. 1594a-1, provides that 
+the proceeds from the disposal of family housing of the Department of 
+Defense, including related land and improvements, shall be transferred 
+to Family Housing Management Account, Defense. This does not include 
+civil works housing, or houses on land acquired for military purposes 
+unless the housing was specifically acquired to house military 
+personnel. This means that excess military family housing and related 
+land and improvements should be reported to GSA on Standard Form 118 
+separate and apart from Reports of Excess for other portions of an 
+excess installation. Particular care should be taken to ensure that the 
+following statement be included in each such report of excess to GSA:
 
     Net proceeds from the sale of family housing, including related land 
 and improvements, shall be remitted to the Department of Defense for 
@@ -17939,13 +17928,14 @@ excess status in accordance with AR 405-90.
 Sec. 644.329  Army civil works real property.
 
     (a) Fee-Owned Land and Easements. (1) Action by Division/District 
-Engineer (DE). When the DE is of the opinion
+Engineer (DE). When the DE is of the opinion that real property acquired 
+in fee or
 
 [[Page 222]]
 
-that real property acquired in fee or easement for a civil works project 
-is no longer required for such purpose, he will submit a report and 
-recommendation to HQDA (DAEN-REM) WASH DC 20314, accompanied by:
+easement for a civil works project is no longer required for such 
+purpose, he will submit a report and recommendation to HQDA (DAEN-REM) 
+WASH DC 20314, accompanied by:
     (i) A brief description of the character or nature of the land with 
 an appropriately marked map showing the approximate acreage 
 consideration to be excess. Detailed perimeter descriptions need not be 
@@ -18015,13 +18005,13 @@ sample screening message in ER 405-1-12 at Figure 11-1, or a letter
 similar in form and content will be used without substantial deviation.
     (ii) All action addressees and parties listed for information on 
 Figure 11-1 in ER 405-1-12 will be included, except that Air Force real 
-property in Hawaii
+property in Hawaii will be screened with the Commander-
 
 [[Page 223]]
 
-will be screened with the Commander-in-Chief, Pacific Air Forces, in 
-lieu of HQ, USAF. The appropriate major Army command, when not the using 
-command, will be listed as an action addressee.
+in-Chief, Pacific Air Forces, in lieu of HQ, USAF. The appropriate major 
+Army command, when not the using command, will be listed as an action 
+addressee.
     (iii) In no case will screening be deferred unless authorized by 
 DAEN-REM. At the expiration of the screening period (normally 30 days) a 
 report of results will be forwarded and subsequent action initiated as 
@@ -18329,13 +18319,13 @@ Sec. 644.342  Prior approval of Department of Defense.
 
     (a) DOD Instruction 4165.12 requires advance approval by the 
 Assistant Secretary of Defense (MRA&L) of disposal actions requiring 
-congressional committee clearance. DOD approval is also required for 
-withdrawal from excess of
+congressional committee clearance. DOD approval is also
 
 [[Page 227]]
 
-real estate, or an interest in real estate, which has an estimated fair 
-market value in excess of $100,000.
+required for withdrawal from excess of real estate, or an interest in 
+real estate, which has an estimated fair market value in excess of 
+$100,000.
     (b) The data submitted pursuant to Sec. 644.341 will be used to 
 obtain DOD approval of projects to be submitted to the Armed Services 
 Committees. Appropriate information will be furnished to obtain required 
@@ -22425,7 +22415,7 @@ estimated proceeds from its sale, or that abandonment or destruction is
 required by military necessity, or by considerations of health, safety 
 or security.
     (b) Finding of Fact. The finding will be prepared as a separate 
-document headed: Finding of Fact for ------------ The finding will be 
+document headed: Finding of Fact for ____________ The finding will be 
 sufficiently complete within itself to justify the decision to donate, 
 abandon, or destroy the property proposed, without outside reference. It 
 will be drafted to provide, where the finding is made by the District 
@@ -23106,12 +23096,12 @@ Sec. 644.530  Conditions in conveying land suspected of contamination.
 
     The following conditions, appropriately modified to conform to local 
 law, will be included in deeds conveying land which is, or is suspected 
-of being, contaminated with explosive or toxic materials and is 
-restricted to surface use: (GSA should be requested to
+of being, contaminated with explosive or
 
 [[Page 287]]
 
-include these conditions in deeds that they prepare.)
+toxic materials and is restricted to surface use: (GSA should be 
+requested to include these conditions in deeds that they prepare.)
 
     Whereas, said property was a part of (Name of Installation)           
   , a military installation used for             , and portions of this 
@@ -23191,14 +23181,15 @@ institute an investigation and prepare a report prescribed by AR 385-40
 and OCE Supplement thereto. Further, upon determination that an accident 
 has occurred, the former using command should be requested to send 
 qualified explosive, chemical or biological specialists to the scene of 
-the accident immediately, in order that proper corrective measures to 
-eliminate future accidents may be instituted. HQDA (DAEN-REM) will be 
-immediately informed, by teletype, of any accidents due to explosives on
+the accident immediately, in order that
 
 [[Page 288]]
 
-lands which have been used by the Department involving injuries to 
-persons and/or animals, or damages to private property.
+proper corrective measures to eliminate future accidents may be 
+instituted. HQDA (DAEN-REM) will be immediately informed, by teletype, 
+of any accidents due to explosives on lands which have been used by the 
+Department involving injuries to persons and/or animals, or damages to 
+private property.
 
 
 <R05>
@@ -23267,19 +23258,19 @@ the land to be decontaminated.
     (c) Army. The congressional policy outlined above does not change 
 the existing Army policy. Its principal effect is to make it clear that 
 the Secretary of the Interior has an equal interest with the Secretary 
-of the Army in the final decision on whether it is practicable or 
-feasible to clear lands for return to the public domain, and the extent 
-of clearance. No difficulties in
+of the Army in the
 
 [[Page 289]]
 
-reaching agreement with Interior in these matters are anticipated. Where 
-large expenditures are involved it will usually be necessary to request 
-a special appropriation, leaving the final decision to Congress. In any 
-instance, if difficulty in reaching agreement with officials of the 
-Bureau of Land Management (or the Secretary of the Interior) should 
-occur, it will be reported promptly to DAEN-REM with complete background 
-data for review and instructions.
+final decision on whether it is practicable or feasible to clear lands 
+for return to the public domain, and the extent of clearance. No 
+difficulties in reaching agreement with Interior in these matters are 
+anticipated. Where large expenditures are involved it will usually be 
+necessary to request a special appropriation, leaving the final decision 
+to Congress. In any instance, if difficulty in reaching agreement with 
+officials of the Bureau of Land Management (or the Secretary of the 
+Interior) should occur, it will be reported promptly to DAEN-REM with 
+complete background data for review and instructions.
 
 
 <R05>
@@ -23342,19 +23333,18 @@ Business Daily, P.O. Box 5999, Chicago, Illinois 60680.
 distribution and posting of Invitation for Bids is desirable will depend 
 upon the value of the property and in some instances the anticipated 
 interest in the property. The ever-changing market requires different 
-methods or efforts to obtain the best price for the Government. The time 
-allowed for submission of bids will depend upon the time available, 
+methods or efforts to obtain the best price for the Government. The
+
+[[Page 290]]
+
+time allowed for submission of bids will depend upon the time available, 
 usually 30 days. If available, a longer period may be desirable based on 
 value and other factors. A shorter period may be necessary and, in an 
 emergency, a period of less than 10 days may be allowed. However, the 
 contracting officer should make a record of written findings to support 
 such a decision. If the emergency is based on requirements of the using 
-command that appear questionable, a report with
-
-[[Page 290]]
-
-recommendations should be forwarded to DAEN-REM by the most expeditious 
-means.
+command that appear questionable, a report with recommendations should 
+be forwarded to DAEN-REM by the most expeditious means.
     (d) Bidders Mailing Lists. Instructions contained in procurement 
 regulations are applicable generally for establishing, maintaining, and 
 controlling bidders mailing lists (DAR 2-205). Generally, all proposed 
@@ -23418,21 +23408,20 @@ patents, processes, techniques, or inventions, regardless of cost, shall
 not be disposed of to any private interest until the advice of the 
 Attorney General has been received as to whether the proposed disposal 
 would tend to create or maintain a situation inconsistent with the anti-
-trust laws. Prior to obligating the Government on any such disposal, 
-Division Engineers will furnish DAEN-REM information on the probable 
-terms and conditions of the sale. DAEN-REM will use the information as 
-the basis for a request to the Attorney General for advice. Under the 
-provision cited, the Attorney General is allowed up to 60 days to 
-furnish the advice requested. The Federal Property Management 
-Regulation, Sec. 101-47.301.2 provides guidance on the information to be 
-furnished. Where indentical bids
+trust laws. Prior to obligating the
 
 [[Page 291]]
 
-in excess of the $2,500 are received, FPMR 101-47.304-8 provides for a 
-report to the Department of Justice. Section 101-47.304-8 provides 
-guidance for such reports to be addressed to the Attorney General, WASH, 
-DC, 20530.
+Government on any such disposal, Division Engineers will furnish DAEN-
+REM information on the probable terms and conditions of the sale. DAEN-
+REM will use the information as the basis for a request to the Attorney 
+General for advice. Under the provision cited, the Attorney General is 
+allowed up to 60 days to furnish the advice requested. The Federal 
+Property Management Regulation, Sec. 101-47.301.2 provides guidance on 
+the information to be furnished. Where indentical bids in excess of the 
+$2,500 are received, FPMR 101-47.304-8 provides for a report to the 
+Department of Justice. Section 101-47.304-8 provides guidance for such 
+reports to be addressed to the Attorney General, WASH, DC, 20530.
 
 
 <R05>
@@ -23495,8 +23484,11 @@ deposits returned. If the high bidder increases his offer to an amount
 equal to the total appraised or estimated value of the items involved, 
 the DE may consummate the sale. All other cases will be forwarded to 
 DAEN-REM together with an opinion as to whether the market was 
-adequately tested and the highest price offered is reasonable, and with 
-recommendations as to the course of action to be followed. If a 
+adequately tested and the highest price offered is reasonable, and
+
+[[Page 292]]
+
+with recommendations as to the course of action to be followed. If a 
 negotiated sale to other than the highest bidder is recommended, 
 information for preparation of a report to the Government Operations 
 Committees of Congress will be included, as required in paragraph (c)(2) 
@@ -23507,21 +23499,18 @@ of Sec. 644.544.
 Sec. 644.544  Negotiated sales.
 
     (a) To Private Parties. Negotiated sales to private parties are not 
-viewed with favor. Generally, such negotiated
-
-[[Page 292]]
-
-sales will be approved only where an emergency exists that will not 
-permit advertising, where advertising would serve no useful purpose, or 
-where a negotiated sale is in the best interest of the Government. 
-Emergencies which justify sales without advertising do not ordinarily 
-justify sales without competition. Instances are rare where the 
-emergency is such that time does not permit the oral solicitation of 
-quotations from more than one source. In any sales which are made 
-without benefit of advertising, competition by informal solicitation and 
-quotation will be obtained to the maximum extent feasible under the 
-circumstances. Such sales should be negotiated at the best terms 
-obtainable and at not less than the appraised fair market value.
+viewed with favor. Generally, such negotiated sales will be approved 
+only where an emergency exists that will not permit advertising, where 
+advertising would serve no useful purpose, or where a negotiated sale is 
+in the best interest of the Government. Emergencies which justify sales 
+without advertising do not ordinarily justify sales without competition. 
+Instances are rare where the emergency is such that time does not permit 
+the oral solicitation of quotations from more than one source. In any 
+sales which are made without benefit of advertising, competition by 
+informal solicitation and quotation will be obtained to the maximum 
+extent feasible under the circumstances. Such sales should be negotiated 
+at the best terms obtainable and at not less than the appraised fair 
+market value.
     (b) To Eligible Agencies. (1) Acts of Congress listed in the Federal 
 Property Management Regulation, Sec. 101-47.4905 (Illustrations), 
 authorize negotiated sales of surplus real property to states and other 
@@ -23569,17 +23558,18 @@ appraised value in excess of $1,000 under provisions of the Federal
 Property Act cited in paragraph (b)(1) of this section, require 
 submission of an explanatory statement to the Government Operations 
 Committees of Congress. Under the FPMR, a statement must be submitted at 
-least 35 days in advance of each such negotiated disposal. When 
-required, the DE will forward a draft of statement to HQDA (DAEN-REM) 
-for transmittal to GSA for submission to the Committees.
+least
+
+[[Page 293]]
+
+35 days in advance of each such negotiated disposal. When required, the 
+DE will forward a draft of statement to HQDA (DAEN-REM) for transmittal 
+to GSA for submission to the Committees.
     (d) Appraisal by Contract. Pursuant to Federal Property Management 
 Regulation, Sec. 101-47.304-9(b), where sales are to be negotiated under 
 the authority provided by paragraphs (a) and (b) of this section, a 
 contract appraisal should be obtained provided that the cost of such a 
-contract would not be out of proportion to the recoverable value of the
-
-[[Page 293]]
-
+contract would not be out of proportion to the recoverable value of the 
 property and is in the best interest of the Government. If such is not 
 the case, the head of the disposal agency, or his designee, may 
 authorize any other appropriate method to obtain an estimate of fair 
@@ -23640,31 +23630,30 @@ discourage breach of contract after only partial performance, may be
 required.
     (d) For real property components the Invitation for Bids will 
 require payment in full within seven days after the successful bidder is 
-notified that his bid is accepted and, in any event, prior to removal of 
-the property. The time specified for completion of payment for land will 
-depend upon the sum of money involved.
+notified that his bid is accepted and, in any event,
+
+[[Page 294]]
+
+prior to removal of the property. The time specified for completion of 
+payment for land will depend upon the sum of money involved.
     (e) Bids may be submitted for one or any number of items. Items or 
 lots of real property will be offered in such reasonable quantities as 
 to permit all bidders, small as well as large, to compete on equal 
 terms. Land, however, will not be subdivided solely for this purpose, 
 and in the case of timber sales or sales of embedded sand, gravel and 
-stone, it may not be feasible to have
-
-[[Page 294]]
-
-more than one purchaser operating in the same area. Further, it may not 
-be to the Government's interest. Buildings will be offered for sale as 
-single items whenever practicable but submission of bids covering 
-specified groups as an item or all of the buildings may be permitted if 
-the DE considers such a procedure is in the best interest of the 
-Government. It may sometimes be advantageous to divide the buildings 
-into appropriate groups and to permit bidding on individual buildings or 
-on specified groups of buildings or on the entire lot. When such bids 
-are permitted, the Invitation for Bids, ENG Form 1038-R, will be flagged 
-to inform bidders that lump sum bids on the entire lot (and specified 
-groupings, if this procedure is appropriate) may be made but will not be 
-accepted unless the lump sum bid exceeds the total of the highest bids 
-received on each item (or on the groupings).
+stone, it may not be feasible to have more than one purchaser operating 
+in the same area. Further, it may not be to the Government's interest. 
+Buildings will be offered for sale as single items whenever practicable 
+but submission of bids covering specified groups as an item or all of 
+the buildings may be permitted if the DE considers such a procedure is 
+in the best interest of the Government. It may sometimes be advantageous 
+to divide the buildings into appropriate groups and to permit bidding on 
+individual buildings or on specified groups of buildings or on the 
+entire lot. When such bids are permitted, the Invitation for Bids, ENG 
+Form 1038-R, will be flagged to inform bidders that lump sum bids on the 
+entire lot (and specified groupings, if this procedure is appropriate) 
+may be made but will not be accepted unless the lump sum bid exceeds the 
+total of the highest bids received on each item (or on the groupings).
 
 
 <R05>
@@ -23727,6 +23716,8 @@ agent, employee or member of the immediate family of such personnel)
 whose duties include any functional or supervisory responsibility for 
 the disposal of real property under Army control.
 
+[[Page 295]]
+
 
 <R05>
 Sec. 644.551  Equal opportunity--sales of timber, embedded sand, gravel, stone, and surplus structures.
@@ -23737,12 +23728,8 @@ provisions for equal opportunity in employment, in connection with the
 performance of work under the contract. The equal employment opportunity 
 clause in DAR 7-103.18 will be included in all contracts and first-tier 
 sub-contracts over $10,000 pertaining to the following real estate 
-actions in the
-
-[[Page 295]]
-
-United States and its possessions, unless exempted under the provisions 
-of DAR 12-805:
+actions in the United States and its possessions, unless exempted under 
+the provisions of DAR 12-805:
     (a) Sale of standing timber.
     (b) Sale of embedded sand, gravel, and stone in their natural state.
     (c) Sale of surplus structures where an appreciable amount of 
@@ -23804,6 +23791,9 @@ and four executed copies of DD Form 1131, together with funds collected.
 The finance officer will retain the contract, funds, and one copy of DD 
 Form 1131, and will receipt and return to the responsible DE three 
 copies of DD Form 1131.
+
+[[Page 296]]
+
     (2) Civil Works Property. The finance officer will be furnished four 
 executed copies of DD Form 1131, together with funds collected, an 
 authenticated copy of each contract, Standard Form 1036 or a statement 
@@ -23818,11 +23808,8 @@ Sec. 644.554  Insurance against loss or damages to buildings and improvements by
     The Department does not carry property insurance of any nature. 
 Vendees, however, may be advised as to their liability for certain 
 losses and that insurance protection against such risks is optional. 
-Under the FPMR, the vendee must provide insurance to protect
-
-[[Page 296]]
-
-the United States when credit is extended (Sec. 101-47.304-4(f)).
+Under the FPMR, the vendee must provide insurance to protect the United 
+States when credit is extended (Sec. 101-47.304-4(f)).
 
 
 <R05>
@@ -23888,8 +23875,12 @@ Sec. 644.560  Inspections of civilian component training facilities and other pr
 
     The DE, within whose areas of military real estate operations are 
 located the facilities conveyed under the authority mentioned in 
-Sec. 644.559, will make physical inspections thereof for the purpose of 
-determining compliance with the terms of the conveyance. Any evidence of 
+Sec. 644.559, will
+
+[[Page 297]]
+
+make physical inspections thereof for the purpose of determining 
+compliance with the terms of the conveyance. Any evidence of 
 noncompliance should be reported to DAEN-REM in order that appropriate 
 recommendations may be made to the respective Secretary for corrective 
 action. A detailed statement of the facts and recommendations of the DE 
@@ -23899,11 +23890,8 @@ interest of economy. This requirement for inspections extends to
 properties conveyed by the Secretary of the Army or Air Force under 
 special legislation, where the deed of conveyance imposes conditions on 
 future use of the land. These inspections need not be made annually but 
-frequently enough so that the DE is assured that the conditions
-
-[[Page 297]]
-
-are being observed, and at least every three years. Compliance with 
+frequently enough so that the DE is assured that the conditions are 
+being observed, and at least every three years. Compliance with 
 conditions in deeds for property conveyed for airport purposes under 49 
 U.S.C. 1723 and 50 App. U.S.C. 1622g is the responsibility of the 
 Secretary of Transportation; for property conveyed for purposes of 
@@ -23921,14 +23909,11 @@ Sec. 644.561  Inspections of civil works properties.
 use of the land, or reserve an estate in the land, will be inspected for 
 compliance on an annual or other reasonable basis to assure compliance.
 
-
-<R03>
-PARTS 645--649 [RESERVED]
-
-<R05>
-
+                        PARTS 645--649 [RESERVED]
 
 [[Page 298]]
+
+
 
 
 <R03>
@@ -23962,7 +23947,7 @@ Sec.
 650.12  Executive Order 11752.
 650.13  Endangered species.
 
-    Subpart B--Environmental Considerations in DA Actions [Reserved]
+Subpart B--Environmental Considerations in DA Actions [Reserved]
 
                   Subpart C--Water Resources Management
 
@@ -24695,9 +24680,7 @@ Sec. 650.13  Endangered species.
 reflecting the Endangered Species Act of 1973 (Pub. L. 93-205) is 
 covered in AR 420-74.
 
-
-<R04>
-    Subpart B--Environmental Considerations in DA Actions [Reserved]
+Subpart B--Environmental Considerations in DA Actions [Reserved]
 
 
 <R04>
@@ -29468,7 +29451,9 @@ Duty Officer: (808) 546-7109 (Commercial only), AUTOVON--421-4845.
 denotes district office where coastal regional Contingency Plans for 
 standard Federal regions are available.
 
+
 [[Page 365]]
+
 
 [GRAPHIC] [TIFF OMITTED] TC19OC91.000
 
@@ -31541,7 +31526,6 @@ documents and determined not to be environmentally significant.
 A REC is also used to document the use of those CX that require such 
 records. (See Figure 3 for format.)
 
-
                Record of Environmental Consideration (REC)
 
 To: (Environmental Officer)
@@ -32074,6 +32058,7 @@ discusses public participation requirements and options.
 
 [GRAPHIC] [TIFF OMITTED] TC19OC91.004
 
+
 Director
 Office of the Federal Register
 National Archives and Records Administration
@@ -32359,6 +32344,7 @@ release, and a transmittal letter by the same method used for the NOI
     (d) ROD. At the time of decision, a ROD will be prepared. (40 CFR 
 1505.2 and 1505.3.) A copy of the ROD will be provided to the Army 
 Environmental Office.
+
 Director
 Office of Federal Activities
 U.S. Environmental Protection Agency
@@ -32971,8 +32957,7 @@ environmental concern.
 
                           Required Publications
 
-    AR 360-5
-    Army Public Affairs, Public Information.
+    AR 360-5  Army Public Affairs, Public Information.
 
                                Section II
 
@@ -32980,44 +32965,30 @@ environmental concern.
 
     A related publication is merely a source of additional information. 
 The user does not have to read it to understand the regulations.
-    AR 5-10
-    Reduction and Realignment Actions.
-    AR 11-27
-    Army Energy Program.
-    AR 95-50
-    Airspace and Special Military Operation Requirements.
-    AR 140-475
-    Real Estate Selection and Acquisition: Procedures and Criteria.
-    AR 200-1
-    Environmental Protection and Enhancement.
-    AR 210-10
-    Administration.
-    AR 210-20
-    Master Planning for Army Installations.
-    AR 335-15
-    Management Information Control System.
-    AR 380-5
-    Department of the Army Information Security Program.
-    AR 385-10
-    Army Safety Program.
-    AR 420-40
-    Historic Preservation.
-    AR 530-1
-    Operations Security (OPSEC).
-    DODD 4100.15
-    Commercial Activities Programs.
-    DODD 6050.1
-    Environmental Effects in the United States of Department of Defense 
+AR 5-10  Reduction and Realignment Actions.
+AR 11-27  Army Energy Program.
+AR 95-50  Airspace and Special Military Operation Requirements.
+AR 140-475  Real Estate Selection and Acquisition: Procedures and 
+Criteria.
+AR 200-1  Environmental Protection and Enhancement.
+AR 210-10  Administration.
+AR 210-20  Master Planning for Army Installations.
+AR 335-15  Management Information Control System.
+AR 380-5  Department of the Army Information Security Program.
+AR 385-10  Army Safety Program.
+AR 420-40  Historic Preservation.
+AR 530-1  Operations Security (OPSEC).
+DODD 4100.15  Commercial Activities Programs.
+DODD 6050.1  Environmental Effects in the United States of Department of 
+Defense Actions.
+DODD 6050.7  Environmental Effects Abroad of Major Department of Defense 
 Actions.
-    DODD 6050.7
-    Environmental Effects Abroad of Major Department of Defense Actions.
 
                                Section III
 
                               Related Form
 
-    DD Form 1391
-    Military Construction Project Data.
+DD Form 1391  Military Construction Project Data.
 
         Appendix C to Part 651--National Environmental Policy Act
 
@@ -33059,10 +33030,6 @@ LEAD AGENCY: Department of the Army, TRADOC.
 COOPERATING AGENCY (IES): (if any) U.S. Forest Service, U.S. Department 
 of Agriculture.
 
-
-[[Page 412]]
-
-
 TITLE OF THE PROPOSED ACTION: Development of training area, Fort 
 Pleasant, Maryland.
 
@@ -33074,6 +33041,10 @@ telephone number, name and title of proponent. (i.e., Installation
 Commander or program manager).
 
 REVIEWED BY: Name and title of the environmental coordinator
+
+
+[[Page 412]]
+
 
 APPROVED BY: Name and title of any intermediate proponent (i.e., MACOM 
 commander); Name and title of Army Staff proponent (i.e., Director of 
@@ -33158,18 +33129,16 @@ eliminated.
 the affected areas necessary to understand the potential effects of the 
 alternatives under consideration (40 CFR 1502.15). Environments created 
 by the implemented proposal will be included as appropriate. Affected 
-elements
+elements could include, for example, biophysical characteristics 
+(ecology and water quality); land use and land use plans; architectural, 
+historical, and cultural amenities; utilities and services; and 
+transportation. This section will not be encyclopedic. It will be 
+written clearly and the degree of detail for all points covered will be 
+related to the significance and magnitude of expected impacts. Elements 
+not impacted by any of the alternatives need only be presented in 
+summary form or referenced.
 
 [[Page 413]]
-
-could include, for example, biophysical characteristics (ecology and 
-water quality); land use and land use plans; architectural, historical, 
-and cultural amenities; utilities and services; and transportation. This 
-section will not be encyclopedic. It will be written clearly and the 
-degree of detail for all points covered will be related to the 
-significance and magnitude of expected impacts. Elements not impacted by 
-any of the alternatives need only be presented in summary form or 
-referenced.
 
             D-7. Environmental and Socioeconomic Consequences
 
@@ -33250,9 +33219,6 @@ management. (Time and spatial management allows for conservation of
 energy and other resources by discouraging new construction and 
 operation until all existing building and time allocations have been 
 fully scrutinized for alternate reuse.)
-
-[[Page 414]]
-
     (h) Means to mitigate adverse environmental effects. Include 
 mitigation not already included as part of the various alternatives. 
 Also, specify migitations that require action by other agencies or 
@@ -33261,17 +33227,20 @@ outside parties.
                          D-8. List of Preparers
 
     The EIS will list the names of its preparers, together with their 
-qualifications (expertise, experience, and professional disciplines.) 
-(40 CFR 1502.17). Include those people who were primarily responsible 
-for preparing (research, data collection, and writing) the EIS or 
-significant background or support papers, and basic components of the 
-statement. When possible, the people who are responsible for a 
-particular analysis, as well as an analysis of background papers, will 
-be identified. If some or all of the preparers are contractors' 
-employees, they may be identified as such. Identification of the firm 
-that prepared the EIS is not, by itself, adequate to meet the 
-requirements of this point. Normally, the list will not exceed two 
-pages.
+qualifications
+
+[[Page 414]]
+
+(expertise, experience, and professional disciplines.) (40 CFR 1502.17). 
+Include those people who were primarily responsible for preparing 
+(research, data collection, and writing) the EIS or significant 
+background or support papers, and basic components of the statement. 
+When possible, the people who are responsible for a particular analysis, 
+as well as an analysis of background papers, will be identified. If some 
+or all of the preparers are contractors' employees, they may be 
+identified as such. Identification of the firm that prepared the EIS is 
+not, by itself, adequate to meet the requirements of this point. 
+Normally, the list will not exceed two pages.
 
                          D-9. Distribution List
 
@@ -33340,16 +33309,16 @@ caused by the tracks.
 limiting the degree or magnitude of the action; for example, changing 
 the firing time or the number of rounds fired on artillery ranges to 
 reduce the noise impact on nearby residents. In the example in (a) 
-above, the number of authorized
-
-[[Page 415]]
-
-stream crossings would have been limited or minimized.
+above, the number of authorized stream crossings would have been limited 
+or minimized.
     (3) Restoration of the environment. This method restores the 
 environment to its previous condition or better. Movement of troops and 
 vehicles across vegetated areas often destroys vegetation. This impact 
 can be mitigated by either reseeding or replanting the areas with native 
 plants after the exercise.
+
+[[Page 415]]
+
     (4) Preservation and maintenance operations. This method designs the 
 action so as to reduce adverse environmental effects. Examples include 
 maintaining erosion control structures, using air pollution control 
@@ -33439,15 +33408,15 @@ mission, manpower restrictions, cost, institutional barriers, technical
 feasibility, and public acceptance. Practicality does not necessarily 
 ensure resolution of conflicts among these items, rather it is the 
 degree of conflict that determines practicality.
-
-[[Page 416]]
-
     (2) The previous examples involved some amount of conflict in all 
 these areas. Although mission conflicts are inevitable, they are not 
 insurmountable. Therefore, the proponent should be cautious about 
 declaring all mitigations impracticable and should carefully consider 
 any manpower requirements. This may be a greater restriction than 
 military mission conflicts.
+
+[[Page 416]]
+
     (3) There is no standard rule of thumb applicable to mitigation 
 activities. The key point concerning both the manpower and cost 
 constraints is that unless money is actually budgeted and manpower 
@@ -33643,54 +33612,54 @@ effects are irreversible.
 
         Table F-1. Potential Monitoring and Mitigation Expertise
 Ecology
-    Installation Environment Specialist
-    Installation Wildlife Officer
-    Installation Forester
-    Installation Natural Resource Committee
-    Corps District Environmental Staff
+  Installation Environment Specialist
+  Installation Wildlife Officer
+  Installation Forester
+  Installation Natural Resource Committee
+  Corps District Environmental Staff
 Health and Safety
-    Installation Preventive Medicine Officer
-    Installation Safety Officer
-    Installation Hospital
-    Installation Mental Hygiene or Psychiatry Officer
-    Chaplain's Office
+  Installation Preventive Medicine Officer
+  Installation Safety Officer
+  Installation Hospital
+  Installation Mental Hygiene or Psychiatry Officer
+  Chaplain's Office
 Air Quality
-    Installation Environmental Specialist
-    Installation Preventive Medicine Officer
+  Installation Environmental Specialist
+  Installation Preventive Medicine Officer
 Water Quality
-    Installation Environmental Specialist
-    Installation Preventive Medicine Officer
-    Corps District Environmental Staff
+  Installation Environmental Specialist
+  Installation Preventive Medicine Officer
+  Corps District Environmental Staff
 Socioeconomic
-    Personnel Office
-    Public Information Officer
-    Corps District Economic Planning Staff
+  Personnel Office
+  Public Information Officer
+  Corps District Economic Planning Staff
 Earth Science
-    Installation Environmental Specialist
-    Corps District Geotechnical Staff
+  Installation Environmental Specialist
+  Corps District Geotechnical Staff
 Land Use Impacts
-    Installation Master Planner
-    Corps District Community Planners
+  Installation Master Planner
+  Corps District Community Planners
 Noise
-    Preventive Medicine Officer
-    Directorate of Engineering and Housing
-    Installation Master Planner
+  Preventive Medicine Officer
+  Directorate of Engineering and Housing
+  Installation Master Planner
 Aesthetics
-    Installation Landscape Architect
-    Corps District Landscape Architects
+  Installation Landscape Architect
+  Corps District Landscape Architects
 Energy and Resource Conservation
-    Installation Environmental Specialist
+  Installation Environmental Specialist
 Historic and Archaeological Resources
-    Installation Environmental Specialist
-    Installation Historian or Architect
-    Corps District Archaeologist
+  Installation Environmental Specialist
+  Installation Historian or Architect
+  Corps District Archaeologist
 Airspace
-    Installation Air Traffic and Airspace Officers
-    Department of the Army Regional
-    Representative to the Federal Aviation Administration
-    Department of the Army Aeronautical Services Office
-    Military Airspace Management System (MAMS)
-    Installation Range Control Officer
+  Installation Air Traffic and Airspace Officers
+  Department of the Army Regional
+  Representative to the Federal Aviation Administration
+  Department of the Army Aeronautical Services Office
+  Military Airspace Management System (MAMS)
+  Installation Range Control Officer
  
 
     (d) Program management. There are several program management 
@@ -33710,16 +33679,15 @@ funding, and manpower assignments must be initiated.
     (f) Sample collection, data analysis, and coordination. The next 
 step in the monitoring program is sample collection and data analysis. A 
 nontechnical summary of the data analysis should be provided to the 
-Public Affairs Office, which will handle routine
+Public Affairs Office, which will handle routine information requests 
+related to the program. Technical results from the analysis should be 
+sent to the installation environmental office, which will coordinate 
+them with the proponent. Other related coordination with the concerned 
+public and other agencies, as arranged through development of the 
+mitigation plan, will be handled through the environmental office.
 
 [[Page 422]]
 
-information requests related to the program. Technical results from the 
-analysis should be sent to the installation environmental office, which 
-will coordinate them with the proponent. Other related coordination with 
-the concerned public and other agencies, as arranged through development 
-of the mitigation plan, will be handled through the environmental 
-office.
     (g) Continuation of program.
     (1) If the mitigations are effective, the monitoring should be 
 continued. However, even if a noneffective result is obtained, a 
@@ -33758,80 +33726,46 @@ that references to the Assistant Secretary of Defense (Manpower, Reserve
 
                               Abbreviations
 
-    ARNG
-    Army National Guard
-    ARSTAF
-    Army Staff
-    ASA (I&L)
-    Assistant Secretary of the Army (Installations and Logistics)
-    CEQ
-    Council on Environmental Quality
-    CERCLA
-    Comprehensive Environmental Response Compensation and Liability Act
-    CX
-    Categorical exclusions
-    DA
-    Department of the Army
-    DEIS
-    Draft Environmental Impact Statement
-    DESOH
-    Deputy of Environment, Safety, and Occupational Health
-    DOD
-    Department of Defense
-    EA
-    Environmental assessment
-    EIS
-    Environmental Impact Statement
-    EPA
-    Environmental Protection Agency
-    FEIS
-    Final Environmental Impact Statement
-    FNSI
-    Finding of No Significant Impact
-    FR
-    Federal Register
-    FS
-    Feasibility study
-    HQDA
-    Headquarters, Department of Army
-    I&L
-    Installation and logistics
-    MACOM
-    Major Army command
-    NEPA
-    National Environmental Policy Act
-    NOA
-    Notice of availability
-    NOI
-    Notice of Intent
-    OASA (I&L)
-    Office of the Assistant Secretary of the Army, (Installation and 
-Logistics)
-    OCLL
-    Office of the Chief of Legislative Liaison
-    OCPA
-    Office of the Chief of Public Affairs
-    OSD
-    Office of the Secretary of Defense
-    POC
-    Point of contact
-    REC
-    Record of environmental consideration
-    ROD
-    Record of decision
-    SARA
-    Superfund Amendments and Reauthorization Act
-    SOFA
-    Status of Forces Agreement
+ARNG  Army National Guard
+ARSTAF  Army Staff
+ASA (I&L)  Assistant Secretary of the Army (Installations and Logistics)
+CEQ  Council on Environmental Quality
+CERCLA  Comprehensive Environmental Response Compensation and Liability 
+Act
+CX  Categorical exclusions
+DA  Department of the Army
+DEIS  Draft Environmental Impact Statement
+DESOH  Deputy of Environment, Safety, and Occupational Health
+DOD  Department of Defense
+EA  Environmental assessment
+EIS  Environmental Impact Statement
+EPA  Environmental Protection Agency
+FEIS  Final Environmental Impact Statement
+FNSI  Finding of No Significant Impact
+FR  Federal Register
+FS  Feasibility study
+HQDA  Headquarters, Department of Army
+I&L  Installation and logistics
+MACOM  Major Army command
+NEPA  National Environmental Policy Act
+NOA  Notice of availability
+NOI  Notice of Intent
+OASA (I&L)  Office of the Assistant Secretary of the Army, (Installation 
+and Logistics)
+OCLL  Office of the Chief of Legislative Liaison
+OCPA  Office of the Chief of Public Affairs
+OSD  Office of the Secretary of Defense
+POC  Point of contact
+REC  Record of environmental consideration
+ROD  Record of decision
+SARA  Superfund Amendments and Reauthorization Act
+SOFA  Status of Forces Agreement
 
                                Section II
 
                                   Terms
 
     Categorical exclusion (CX)
-
-[[Page 423]]
-
     A category of actions that do not require an EA or an EIS because DA 
 has determined that the actions do not have an individual or cumulative 
 impact on the environment. (Refer to Subpart D for further discussion.)
@@ -33856,7 +33790,11 @@ jurisdiction of one or more foreign governments. It also refers to any
 area under military occupation by the United States alone or jointly 
 with any other foreign government. Includes any area that is the 
 responsibility of an international organization of governments also 
-includes contiguous zones and fisheries zones of foreign nations.
+includes
+
+[[Page 423]]
+
+contiguous zones and fisheries zones of foreign nations.
     Global commons
     Geographical areas outside the jurisdiction of any nation. They 
 include the oceans outside territorial limits and Antarctica. They do 
@@ -33903,12 +33841,7 @@ or welfare of human life; or cause irreparable harm to animal or plant
 life in an area. Significant beneficial effects also do occur and must 
 be addressed if applicable. (See 40 CFR 1508.27.)
 
-
-<R03>
-PARTS 652-654--[RESERVED]
-
-<R05>
-
+                        PARTS 652-654 [RESERVED]
 
 
 <R03>
@@ -33931,9 +33864,6 @@ purposes of this section, a radiation source is:
     (1) Radioactive material used, stored, or possessed under the 
 authority of a specific license issued by the Nuclear Regulatory 
 Commission (NRC) or an Agreement State (10 CFR);
-
-[[Page 424]]
-
     (2) More than 0.1 microcurie (uCi) 3.7 kilobecquerels (kBq) of 
 radium, except for electron tubes;
     (3) More than 1 uCi (37 kBq) of any naturally occurring or 
@@ -33953,9 +33883,13 @@ that the installation commander receives the application at least 30
 calendar days before the requested start date of the permit.
     (c) The Army radiation permit application will specify start and 
 stop dates for the Army radiation permit and describe for what purposes 
-the applicant needs the Army radiation permit. The installation 
-commander will approve the application only if the applicant provides 
-evidence to show that one of the following is true.
+the applicant
+
+[[Page 424]]
+
+needs the Army radiation permit. The installation commander will approve 
+the application only if the applicant provides evidence to show that one 
+of the following is true.
     (1) The applicant possesses a valid NRC license or Department of 
 Energy (DOE) radiological work permit that allow the applicant to use 
 the source as specified in the Army radiation permit application;
@@ -34016,13 +33950,10 @@ Sec.
 Sec. 656.1  Purpose.
 
     The purpose of this regulation is to establish uniform policies, 
-procedures, and criteria for controlling off-road
-
-[[Page 425]]
-
-travel by off-road vehicles, and to prescribe appropriate operating 
-conditions for use of such vehicles. This regulation implements DOD 
-Directive 6050.2, August 21, 1974, amended August 10, 1977.
+procedures, and criteria for controlling off-road travel by off-road 
+vehicles, and to prescribe appropriate operating conditions for use of 
+such vehicles. This regulation implements DOD Directive 6050.2, August 
+21, 1974, amended August 10, 1977.
 
 
 <R05>
@@ -34044,6 +33975,9 @@ the National Guard.
     (3) Installations and activities, or portions thereof, which are in 
 full-time or intermittent use by the Army Reserve or ROTC.
     (b) This regulation does not apply to:
+
+[[Page 425]]
+
     (1) Civil Works functions of the Corps of Engineers.
     (2) Facilities occupied by Army activities as tenants when real 
 property accountability and control is vested in another military 
@@ -34105,9 +34039,6 @@ type of motorized vehicle, ORV, shall be considered separately, taking
 into account its potential environmental impact, the seasonal nature of 
 its use and opportunities for counterseasonal use with other 
 recreational users.
-
-[[Page 426]]
-
     (2) The characteristics of use of one type of motorized recreational 
 vehicle, ORV, shall not affect or govern regulations on the use of an 
 area or trail by another type of ORV use.
@@ -34129,7 +34060,11 @@ soil, vegetation, wildlife, wildlife habitat, or cultural or historic
 resources, he shall immediately prohibit the type of ORV use causing 
 such effects, and if necessary, close such designated sites. 
 Restrictions on ORV use or closure of designated sites shall remain in 
-effect until such adverse effects have been eliminated, including site 
+effect
+
+[[Page 426]]
+
+until such adverse effects have been eliminated, including site 
 restoration if necessary, and appropriate measures implemented to 
 prevent any such recurrence.
     (e) Persons abusing the ORV use privilege shall be barred, with 
@@ -34180,12 +34115,9 @@ continuing basis.
 use of ORV's and provide for maintenance of the ORV areas of trails. 
 This monitoring will be the basis for changes to installation policy to 
 ensure adequate control of ORV use, amendment of area and trail 
-designations, or conditions of
-
-[[Page 427]]
-
-use which are necessary to protect the environment, insure the public 
-safety, and minimize conflict among users.
+designations, or conditions of use which are necessary to protect the 
+environment, insure the public safety, and minimize conflict among 
+users.
     (g) Negotiate cooperative agreements, when appropriate, with State 
 or local governments for the enforcement of laws and regulations 
 relating to ORV use.
@@ -34213,8 +34145,12 @@ use are:
     (i) Areas restricted for security or safety purposes, such as 
 explosive ordnance impact areas.
     (ii) Areas containing geological and soil conditions, flora or fauna 
-or other natural characteristics of fragile or unique nature which would 
-be subject to excessive or irreversible damage by use of ORV's
+or other
+
+[[Page 427]]
+
+natural characteristics of fragile or unique nature which would be 
+subject to excessive or irreversible damage by use of ORV's
     (iii) Areas where the use by a type or types of ORV would cause 
 unequivocal and irreversible damage or destruction as a result of such 
 use; provided, however, that types of ORV not causing such damage or 
@@ -34261,9 +34197,6 @@ compelling conditions.
 public lands.
     (2) Harassment of wildlife or significant disruption of wildlife 
 habitat.
-
-[[Page 428]]
-
     (3) Conflicts between ORV use and other existing or proposed 
 recreational uses on the same or neighboring lands.
     (4) Damage to overhead or underground utility distribution lines.
@@ -34287,6 +34220,9 @@ fish and other aquatic organisms, with particular attention given to the
 effects on fish and wildlife species classified as threatened or 
 endangered.
     (6) Excessive noise on humans and wildlife.
+
+[[Page 428]]
+
     (7) Potential despoilment of aesthetic values or visual 
 characteristics of the sites.
     (d) Operating criteria. (1) Off-road vehicles shall not be operated:
@@ -34333,25 +34269,116 @@ safety helmets with face shields affixed.
     (8) ORV's when operating off established road and parking areas not 
 covered by ice, snow or water shall be equipped with a properly 
 installed spark arrester that meets standard 5100-1a of the U.S. Forest 
-Service, Department of Agriculture. This standard
-
-[[Page 429]]
-
-includes the requirements that such spark arrester shall have an 
-efficiency to retain or destroy at least 80 percent of carbon particles, 
-for all flow rates, and that such spark arrester has been warranted by 
-its manufacturer as meeting these efficiency requirements for at least 
-1,000 hours, subject to normal use, with maintenance and mounting in 
-accordance with the manufacturer's recommendations.
+Service, Department of Agriculture. This standard includes the 
+requirements that such spark arrester shall have an efficiency to retain 
+or destroy at least 80 percent of carbon particles, for all flow rates, 
+and that such spark arrester has been warranted by its manufacturer as 
+meeting these efficiency requirements for at least 1,000 hours, subject 
+to normal use, with maintenance and mounting in accordance with the 
+manufacturer's recommendations.
 
 [42 FR 56326, Oct. 25, 1977, as amended at 43 FR 1792, Jan. 12, 1978]
 
+                        PARTS 657-667 [RESERVED]
+
+[[Page 429]]
+
+
+
 
 <R03>
-PARTS 657-699--[RESERVED]
+                     SUBCHAPTER L--ARMY CONTRACTING
 
 <R05>
 
+
+<R03>
+PART 668--CONTRACTOR MANHOUR REPORTING REQUIREMENT--Table of Contents
+
+<R05>
+
+
+Sec.
+668.1   General.
+668.2   Contract administration data.
+
+    Authority: Sec. 343 of Pub. L. 106-65, 113 Stat. 569 (10 U.S.C. 
+2461(g)).
+
+    Source: 65 FR 13908, Mar. 15, 2000, unless otherwise noted.
+
+
+<R05>
+Sec. 668.1  General.
+
+    (a) Purpose. This part sets forth policies and procedures for 
+reporting requirements on labor work year equivalents performed by 
+contractors in support of the Army.
+    (b) Applicability. This requirement applies to all Department of the 
+Army agencies, commands, and activities.
+    (1) The following applies to all Army solicitations issued and 
+contracts awarded, and to all bilateral modifications of existing Army 
+contracts, after March 15, 2000 except the following:
+    (i) Contracts awarded under the authority of Part 12 of the Federal 
+Acquisition Regulation (48 CFR part 12).
+    (ii) Contracts valued at $100,000 or below.
+    (iii) When the contractor does not have an internal system for 
+aggregating billable hours in the direct and indirect pools, or an 
+internal payroll accounting system, and does not otherwise have to 
+provide this information to the Government.
+    (iv) Contracts awarded by the Army contracting office solely as a 
+contracting agent in support of non-Army customer(s).
+    (2) We are interested in labor hour data in support of Army at this 
+time. For this purpose, if the name and address of the organization 
+receiving the benefit of the services is an Army organization, then the 
+labor hour data is reportable as an Army requirement, even though the 
+appropriations funding all or part of the requirement are not Army 
+appropriations.
+
+
+<R05>
+Sec. 668.2  Contract administration data.
+
+    The requirement in this section will be cited in Part I--The 
+Schedule, in Section G, Contract Administration Data, or its equivalent, 
+in solicitations or contracts not employing the standard contract 
+format:
+    (a) Report on Use of Employees of Non-Federal Entities to Provide 
+Services to Department of the Army. The contractor is required to submit 
+direct labor hours and a relevant composite indirect labor rate 
+associated with the reporting period (generally contemporaneous with 
+submission of a request for payment (e.g., voucher, invoice or request 
+for progress payment)). The composite indirect labor rate will be used 
+to grossly calculate the number of indirect hours associated with 
+services reported in each period.
+    (b) The information submitted will be treated as contractor 
+proprietary information when associated with a contractor name or 
+contract number. The Assistant Secretary of the Army (Manpower and 
+Reserve Affairs) will oversee the aggregation of this information and 
+will exclude contract number and contractor name from any use of this 
+data. The planning factor(s) derived from this data by ASA (M&RA) and 
+its contract support (if any) will be used solely for manpower planning 
+purposes and will not be applied to specific acquisitions. Detailed data 
+by contract number and name will not be released to any other 
+governmental entity other than ASA (M&RA) and will only be used for the 
+stated purposes (reporting and planning).
+    (c) Reporting format: The information required should be reported 
+electronically to the M&RA data collection point. The following 
+information, per contract and/or task/delivery order, will be needed to 
+complete all of the data fields under this data collection program:
+
+
+[[Page 430]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR15MR00.000
+
+    (d) The information required shall be reported electronically to the 
+ASA (M&RA) data collection point at the following secure web site 
+drawing on the relevant data elements cited in paragraph (c) of this 
+section: http://contractormanpower.us.army.mil
+
+                        PARTS 669-699 [RESERVED]
 
 
 [[Page 431]]
@@ -34385,7 +34412,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of July 1, 1999)
+                      (Revised as of June 23, 2000)
 
                       Title 1--General Provisions
 
@@ -34412,7 +34439,6 @@ which is published separately and revised annually.
          I  Office of Personnel Management (Parts 1--1199)
         II  Merit Systems Protection Board (Parts 1200--1299)
        III  Office of Management and Budget (Parts 1300--1399)
-        IV  Advisory Committee on Federal Pay (Parts 1400--1499)
          V  The International Organizations Employees Loyalty 
                 Board (Parts 1500--1599)
         VI  Federal Retirement Thrift Investment Board (Parts 
@@ -34429,10 +34455,10 @@ which is published separately and revised annually.
                 President (Parts 2500--2599)
        XVI  Office of Government Ethics (Parts 2600--2699)
        XXI  Department of the Treasury (Parts 3100--3199)
+      XXII  Federal Deposit Insurance Corporation (Part 3201)
 
 [[Page 434]]
 
-      XXII  Federal Deposit Insurance Corporation (Part 3201)
      XXIII  Department of Energy (Part 3301)
       XXIV  Federal Energy Regulatory Commission (Part 3401)
        XXV  Department of the Interior (Part 3501)
@@ -34471,6 +34497,7 @@ which is published separately and revised annually.
                 7601)
       LXIX  Tennessee Valley Authority (Part 7901)
       LXXI  Consumer Product Safety Commission (Part 8101)
+    LXXIII  Department of Agriculture (Part 8301)
      LXXIV  Federal Mine Safety and Health Review Commission (Part 
                 8401)
      LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
@@ -34565,7 +34592,7 @@ which is published separately and revised annually.
                     Title 8--Aliens and Nationality
 
          I  Immigration and Naturalization Service, Department of 
-                Justice (Parts 1--499)
+                Justice (Parts 1--599)
 
                  Title 9--Animals and Animal Products
 
@@ -34586,6 +34613,8 @@ which is published separately and revised annually.
                 1000--1099)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
+     XVIII  Northeast Interstate Low-Level Radioactive Waste 
+                Commission (Part 1800)
 
                       Title 11--Federal Elections
 
@@ -34595,11 +34624,11 @@ which is published separately and revised annually.
 
          I  Comptroller of the Currency, Department of the 
                 Treasury (Parts 1--199)
-        II  Federal Reserve System (Parts 200--299)
-       III  Federal Deposit Insurance Corporation (Parts 300--399)
 
 [[Page 437]]
 
+        II  Federal Reserve System (Parts 200--299)
+       III  Federal Deposit Insurance Corporation (Parts 300--399)
         IV  Export-Import Bank of the United States (Parts 400--
                 499)
          V  Office of Thrift Supervision, Department of the 
@@ -34624,6 +34653,9 @@ which is published separately and revised annually.
          I  Small Business Administration (Parts 1--199)
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
+        IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
+         V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
+                500--599)
 
                     Title 14--Aeronautics and Space
 
@@ -34649,13 +34681,13 @@ which is published separately and revised annually.
                 Department of Commerce (Parts 200--299)
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
+
+[[Page 438]]
+
         IV  Foreign-Trade Zones Board, Department of Commerce 
                 (Parts 400--499)
        VII  Bureau of Export Administration, Department of 
                 Commerce (Parts 700--799)
-
-[[Page 438]]
-
       VIII  Bureau of Economic Analysis, Department of Commerce 
                 (Parts 800--899)
         IX  National Oceanic and Atmospheric Administration, 
@@ -34742,7 +34774,7 @@ which is published separately and revised annually.
        III  Peace Corps (Parts 300--399)
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
-         V  United States Information Agency (Parts 500--599)
+         V  Broadcasting Board of Governors (Parts 500--599)
        VII  Overseas Private Investment Corporation (Parts 700--
                 799)
         IX  Foreign Service Grievance Board Regulations (Parts 
@@ -34790,9 +34822,9 @@ which is published separately and revised annually.
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
-        IV  Office of Multifamily Housing Assistance 
-                Restructuring, Department of Housing and Urban 
-                Development (Parts 400--499)
+        IV  Office of Housing and Office of Multifamily Housing 
+                Assistance Restructuring, Department of Housing 
+                and Urban Development (Parts 400--499)
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
@@ -34949,6 +34981,7 @@ which is published separately and revised annually.
                 Defense
        XII  Defense Logistics Agency (Parts 1200--1299)
        XVI  Selective Service System (Parts 1600--1699)
+     XVIII  National Counterintelligence Center (Parts 1800--1899)
        XIX  Central Intelligence Agency (Parts 1900--1999)
         XX  Information Security Oversight Office, National 
                 Archives and Records Administration (Parts 2000--
@@ -34960,8 +34993,6 @@ which is published separately and revised annually.
                 2700--2799)
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
-      XXIX  Presidential Commission on the Assignment of Women in 
-                the Armed Forces (Part 2900)
 
                Title 33--Navigation and Navigable Waters
 
@@ -34996,11 +35027,11 @@ which is published separately and revised annually.
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
-[[Page 444]]
-
                         Title 35--Panama Canal
 
          I  Panama Canal Regulations (Parts 1--299)
+
+[[Page 444]]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -35023,6 +35054,7 @@ which is published separately and revised annually.
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
        XIV  Assassination Records Review Board (Parts 1400--1499)
+        XV  Oklahoma City National Memorial Trust (Part 1501)
 
              Title 37--Patents, Trademarks, and Copyrights
 
@@ -35055,11 +35087,11 @@ which is published separately and revised annually.
 
             Subtitle B--Other Provisions Relating to Public 
                 Contracts
+        50  Public Contracts, Department of Labor (Parts 50-1--50-
+                999)
 
 [[Page 445]]
 
-        50  Public Contracts, Department of Labor (Parts 50-1--50-
-                999)
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
         60  Office of Federal Contract Compliance Programs, Equal 
@@ -35072,6 +35104,7 @@ which is published separately and revised annually.
                 System
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
+       102  Federal Management Regulation (Parts 102-1--102-299)
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
@@ -35090,7 +35123,7 @@ which is published separately and revised annually.
                 301-99)
        302  Relocation Allowances (Parts 302-1--302-99)
        303  Payment of Expenses Connected with the Death of 
-                Certain Employees (Parts 303-1--303-2)
+                Certain Employees (Part 303-70)
        304  Payment from a Non-Federal Source for Travel Expenses 
                 (Parts 304-1--304-99)
 
@@ -35160,8 +35193,6 @@ which is published separately and revised annually.
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
-      XXII  Christopher Columbus Quincentenary Jubilee Commission 
-                (Parts 2200--2299)
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
@@ -35213,7 +35244,7 @@ which is published separately and revised annually.
         17  Office of Personnel Management (Parts 1700--1799)
         18  National Aeronautics and Space Administration (Parts 
                 1800--1899)
-        19  United States Information Agency (Parts 1900--1999)
+        19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
         21  Office of Personnel Management, Federal Employees 
                 Group Life Insurance Federal Acquisition 
@@ -35258,8 +35289,8 @@ which is published separately and revised annually.
                 Department of Transportation (Parts 100--199)
         II  Federal Railroad Administration, Department of 
                 Transportation (Parts 200--299)
-       III  Federal Highway Administration, Department of 
-                Transportation (Parts 300--399)
+       III  Federal Motor Carrier Safety Administration, 
+                Department of Transportation (Parts 300--399)
         IV  Coast Guard, Department of Transportation (Parts 400--
                 499)
          V  National Highway Traffic Safety Administration, 
@@ -35318,7 +35349,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of July 1, 1999)
+                      (Revised as of June 23, 2000)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -35327,7 +35358,6 @@ Administrative Committee of the Federal Register  1, I
 Advanced Research Projects Agency                 32, I
 Advisory Commission on Intergovernmental          5, VII
      Relations
-Advisory Committee on Federal Pay                 5, IV
 Advisory Council on Historic Preservation         36, VIII
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
@@ -35336,7 +35366,7 @@ Agency for International Development, United      22, II
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
-Agriculture Department
+Agriculture Department                            5, LXXIII
   Agricultural Marketing Service                  7, I, IX, X, XI
   Agricultural Research Service                   7, V
   Animal and Plant Health Inspection Service      7, III; 9, I
@@ -35379,11 +35409,10 @@ American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
-
+Architectural and Transportation Barriers         36, XI
+   Compliance Board
 [[Page 452]]
 
-Architectural and Transportation Barriers         36, XI
-     Compliance Board
 Arctic Research Commission                        45, XXIII
 Armed Forces Retirement Home                      5, XI
 Army Department                                   32, V
@@ -35396,13 +35425,13 @@ Bilingual Education and Minority Languages        34, V
 Blind or Severely Disabled, Committee for         41, 51
      Purchase From People Who Are
 Board for International Broadcasting              22, XIII
+Broadcasting Board of Governors                   22, V
+  Federal Acquisition Regulation                  48, 19
 Census Bureau                                     15, I
 Central Intelligence Agency                       32, XIX
 Chief Financial Officer, Office of                7, XXX
 Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
-Christopher Columbus Quincentenary Jubilee        45, XXII
-     Commission
 Civil Rights, Commission on                       45, VII
 Civil Rights, Office for                          34, I
 Coast Guard                                       33, I; 46, I; 49, IV
@@ -35492,6 +35521,8 @@ Education, Department of                          5, LIII
   Vocational and Adult Education, Office of       34, IV
 Educational Research and Improvement, Office of   34, VII
 Elementary and Secondary Education, Office of     34, II
+Emergency Oil and Gas Guaranteed Loan Board       13, V
+Emergency Steel Guarantee Loan Board              13, IV
 Employees' Compensation Appeals Board             20, IV
 Employees Loyalty Board                           5, V
 Employment and Training Administration            20, V
@@ -35526,11 +35557,11 @@ Export-Import Bank of the United States           5, LII; 12, IV
 Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
-Farm Service Agency                               7, VII, XVIII
-Federal Acquisition Regulation                    48, 1
 
 [[Page 454]]
 
+Farm Service Agency                               7, VII, XVIII
+Federal Acquisition Regulation                    48, 1
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
 Federal Claims Collection Standards               4, II
@@ -35549,7 +35580,7 @@ Federal Energy Regulatory Commission              5, XXIV; 18, I
 Federal Financial Institutions Examination        12, XI
      Council
 Federal Financing Bank                            12, VIII
-Federal Highway Administration                    23, I, II; 49, III
+Federal Highway Administration                    23, I, II
 Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
 Federal Housing Finance Board                     12, IX
@@ -35557,14 +35588,14 @@ Federal Labor Relations Authority, and General    5, XIV; 22, XIV
      Counsel of the Federal Labor Relations 
      Authority
 Federal Law Enforcement Training Center           31, VII
+Federal Management Regulation                     41, 102
 Federal Maritime Commission                       46, IV
 Federal Mediation and Conciliation Service        29, XII
 Federal Mine Safety and Health Review Commission  5, LXXIV; 29, XXVII
-Federal Pay, Advisory Committee on                5, IV
+Federal Motor Carrier Safety Administration       49, III
 Federal Prison Industries, Inc.                   28, III
 Federal Procurement Policy Office                 48, 99
 Federal Property Management Regulations           41, 101
-Federal Property Management Regulations System    41, Subtitle C
 Federal Railroad Administration                   49, II
 Federal Register, Administrative Committee of     1, I
 Federal Register, Office of                       1, II
@@ -35592,20 +35623,20 @@ Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 General Accounting Office                         4, I, II
-General Services Administration                   5, LVII
+General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
-  Federal Property Management Regulations System  41, 101, 105
+  Federal Management Regulation                   41, 102
+  Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
-       Expenses
+     Expenses
+[[Page 455]]
+
   Payment of Expenses Connected With the Death    41, 303
        of Certain Employees
   Relocation Allowances                           41, 302
-
-[[Page 455]]
-
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
 Government Ethics, Office of                      5, XVI
@@ -35654,8 +35685,6 @@ Indian Affairs, Office of the Assistant           25, VI
      Secretary
 Indian Arts and Crafts Board                      25, II
 Indian Health Service                             25, V
-Information Agency, United States                 22, V
-  Federal Acquisition Regulation                  48, 19
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
      Archives and Records Administration
@@ -35681,10 +35710,10 @@ Interior Department
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
   Minerals Management Service                     30, II
-  Mines, Bureau of                                30, VI
 
 [[Page 456]]
 
+  Mines, Bureau of                                30, VI
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
   Reclamation, Bureau of                          43, I
@@ -35702,9 +35731,6 @@ International Development, United States Agency   22, II
   Federal Acquisition Regulation                  48, 7
 International Development Cooperation Agency,     22, XII
      United States
-  International Development, United States        22, II; 48, 7
-       Agency for
-  Overseas Private Investment Corporation         5, XXXIII; 22, VII
 International Fishing and Related Activities      50, III
 International Investment, Office of               31, VIII
 International Joint Commission, United States     22, IV
@@ -35760,10 +35786,10 @@ Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
 Mines, Bureau of                                  30, VI
+Minority Business Development Agency              15, XIV
 
 [[Page 457]]
 
-Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
 Multifamily Housing Assistance Restructuring,     24, IV
@@ -35772,6 +35798,7 @@ National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
 National Agricultural Statistics Service          7, XXXVI
+National and Community Service, Corporation for   45, XII, XXV
 National Archives and Records Administration      5, LXVI; 36, XII
   Information Security Oversight Office           32, XX
 National Bureau of Standards                      15, II
@@ -35779,8 +35806,8 @@ National Capital Planning Commission              1, IV
 National Commission for Employment Policy         1, IV
 National Commission on Libraries and Information  45, XVII
      Science
-National and Community Service, Corporation for   45, XII, XXV
 National Council on Disability                    34, XII
+National Counterintelligence Center               32, XVIII
 National Credit Union Administration              12, VII
 National Drug Control Policy, Office of           21, III
 National Foundation on the Arts and the           45, XI
@@ -35813,11 +35840,14 @@ Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Dairy Compact Commission                7, XIII
+Northeast Interstate Low-Level Radioactive Waste  10, XVIII
+     Commission
 Nuclear Regulatory Commission                     5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
 Occupational Safety and Health Review Commission  29, XX
 Offices of Independent Counsel                    28, VI
+Oklahoma City National Memorial Trust             36, XV
 Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
 Panama Canal Commission                           48, 35
@@ -35832,11 +35862,12 @@ Pennsylvania Avenue Development Corporation       36, IX
 Pension and Welfare Benefits Administration       29, XXV
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-  Federal Acquisition Regulation                  48, 17
-  Federal Employees Group Life Insurance Federal  48, 21
-     Acquisition Regulation
+
 [[Page 458]]
 
+  Federal Acquisition Regulation                  48, 17
+  Federal Employees Group Life Insurance Federal  48, 21
+       Acquisition Regulation
   Federal Employees Health Benefits Acquisition   48, 16
        Regulation
 Postal Rate Commission                            5, XLVI; 39, III
@@ -35844,8 +35875,6 @@ Postal Service, United States                     5, LX; 39, I
 Postsecondary Education, Office of                34, VI
 President's Commission on White House             1, IV
      Fellowships
-Presidential Commission on the Assignment of      32, XXIX
-     Women in the Armed Forces
 Presidential Documents                            3
 Presidio Trust                                    36, X
 Prisons, Bureau of                                28, V
@@ -35903,94 +35932,15 @@ Transportation, Department of                     5, L
   Emergency Management and Assistance             44, IV
   Federal Acquisition Regulation                  48, 12
   Federal Aviation Administration                 14, I
-  Federal Highway Administration                  23, I, II; 49, III
+  Federal Highway Administration                  23, I, II
+  Federal Motor Carrier Safety Administration     49, III
   Federal Railroad Administration                 49, II
   Federal Transit Administration                  49, VI
   Maritime Administration                         46, II
   National Highway Traffic Safety Administration  23, II, III; 49, V
-  Research and Special Programs Administration    49, I
-  Saint Lawrence Seaway Development Corporation   33, IV
 
 [[Page 459]]
 
-  Secretary of Transportation, Office of          14, II; 49, Subtitle A
-  Surface Transportation Board                    49, X
-  Transportation Statistics Bureau                49, XI
-Transportation, Office of                         7, XXXIII
-Transportation Statistics Brureau                 49, XI
-Travel Allowances, Temporary Duty (TDY)           41, 301
-Treasury Department                               5, XXI; 12, XV; 17, IV
-  Alcohol, Tobacco and Firearms, Bureau of        27, I
-  Community Development Financial Institutions    12, XVIII
-       Fund
-  Comptroller of the Currency                     12, I
-  Customs Service, United States                  19, I
-  Engraving and Printing, Bureau of               31, VI
-  Federal Acquisition Regulation                  48, 10
-  Federal Law Enforcement Training Center         31, VII
-  Fiscal Service                                  31, II
-  Foreign Assets Control, Office of               31, V
-  Internal Revenue Service                        26, I
-  International Investment, Office of             31, VIII
-  Monetary Offices                                31, I
-  Secret Service                                  31, IV
-  Secretary of the Treasury, Office of            31, Subtitle A
-  Thrift Supervision, Office of                   12, V
-Truman, Harry S. Scholarship Foundation           45, XVIII
-United States and Canada, International Joint     22, IV
-     Commission
-United States and Mexico, International Boundary  22, XI
-     and Water Commission, United States Section
-Utah Reclamation Mitigation and Conservation      43, III
-     Commission
-Veterans Affairs Department                       38, I
-  Federal Acquisition Regulation                  48, 8
-Veterans' Employment and Training, Office of the  41, 61; 20, IX
-     Assistant Secretary for
-Vice President of the United States, Office of    32, XXVIII
-Vocational and Adult Education, Office of         34, IV
-Wage and Hour Division                            29, V
-Water Resources Council                           18, VI
-Workers' Compensation Programs, Office of         20, I
-World Agricultural Outlook Board                  7, XXXVIII
-
-[[Page 461]]
-
-
-<R03>
-List of CFR Sections Affected
-
-<R04>
-
-All changes in this volume of the Code of Federal Regulations which were 
-made by documents published in the Federal Register since January 1, 
-1986, are enumerated in the following list. Entries indicate the nature 
-of the changes effected. Page numbers refer to Federal Register pages. 
-The user should consult the entries for chapters and parts as well as 
-sections for revisions.
-For the period before January 1, 1986, see the ``List of CFR Sections 
-Affected, 1949-1963, 1964-1972, 1973-1985'', published in seven separate 
-volumes.
-
-                                  1986
-
-32 CFR
-                                                                   51 FR
-                                                                    Page
-Chapter V
-641  Removed........................................................7013
-
-                                  1987
-
-                       (No regulations published)
-
-                                  1988
-
-32 CFR
-                                                                   53 FR
-                                                                    Page
-Chapter V
-651  Revised.......................................................46324
-
-                      
+  Research and Special Programs Administration    49, I
+  Saint Lawrence Seaway Develo
 </pre></body></html>
