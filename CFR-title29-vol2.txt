@@ -1,10 +1,8 @@
 <html><body><pre>
 [Title 29 CFR ]
-[Code of Federal Regulations (annual edition) - July 1, 1998 Edition]
+[Code of Federal Regulations (annual edition) - July 1, 1999 Edition]
 [From the U.S. Government Printing Office]
 
-
-[[Page 1]]
 
           29
 
@@ -14,21 +12,24 @@
 
 <R03>
 
+[[Page i]]
+
           PARTS 100 TO 499
 
-                         Revised as of July 1, 1998
+                         Revised as of July 1, 1999
 
           CONTAINING
           A CODIFICATION OF DOCUMENTS
           OF GENERAL APPLICABILITY
           AND FUTURE EFFECT
-          AS OF JULY 1, 1998
 
+          AS OF JULY 1, 1999
           With Ancillaries
           Published by
           the Office of the Federal Register
           National Archives and Records
           Administration
+
           as a Special Edition of
           the Federal Register
 
@@ -36,13 +37,13 @@
 
 [[Page ii]]
 
-                                      
+
 
 
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 1998
+                            WASHINGTON : 1999
 
 
 
@@ -61,21 +62,29 @@
 
 <R03>
                                                                     Page
-
   Explanation.................................................       v
 
   Title 29:
-      Subtitle B--Regulations Relating to Labor:
-    Chapter I--National Labor Relations Board.................       5
-    Chapter II--Office of Labor-Management Standards, 
-        Department of Labor...................................     115
-    Chapter III--National Railroad Adjustment Board...........     129
-    Chapter IV--Office of Labor-Management Standards, 
-        Department of Labor...................................     133
+
+    Subtitle B--Regulations Relating to Labor:
+
+          Chapter I--National Labor Relations Board...........       5
+
+          Chapter II--Office of Labor-Management Standards, 
+          Department of Labor.................................     115
+
+          Chapter III--National Railroad Adjustment Board.....     129
+
+          Chapter IV--Office of Labor-Management Standards, 
+          Department of Labor.................................     133
+
   Finding Aids:
-    Table of CFR Titles and Chapters..........................     227
-    Alphabetical List of Agencies Appearing in the CFR........     245
-    List of CFR Sections Affected.............................     255
+
+      Table of CFR Titles and Chapters........................     227
+
+      Alphabetical List of Agencies Appearing in the CFR......     245
+
+      List of CFR Sections Affected...........................     255
 
 
 
@@ -85,16 +94,17 @@
       
 
 
-------------------------------------------------------------------
+                     ----------------------------
 
-   Cite this Code:  CFR
+                     Cite this Code:  CFR
+                     To cite the regulations in 
+                       this volume use title, 
+                       part and section number. 
+                       Thus,  29 CFR 100.101 
+                       refers to title 29, part 
+                       100, section 101.
 
-   To cite the regulations in this volume use title, part and
-   section number. Thus,  29 CFR 100.101 refers to title 29, part
-   100, section 101.
-
-------------------------------------------------------------------
-
+                     ----------------------------
 
 [[Page v]]
 
@@ -116,6 +126,7 @@ Title 1 through Title 16.................................as of January 1
 Title 17 through Title 27..................................as of April 1
 Title 28 through Title 41...................................as of July 1
 Title 42 through Title 50................................as of October 1
+
     The appropriate revision date is printed on the cover of each 
 volume.
 
@@ -131,7 +142,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, July 1, 1998), consult the ``List of CFR 
+revision date (in this case, July 1, 1999), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -180,9 +191,8 @@ CFR INDEXES AND TABULAR GUIDES
     A subject index to the Code of Federal Regulations is contained in a 
 separate volume, revised annually as of January 1, entitled CFR Index 
 and Finding Aids. This volume contains the Parallel Table of Statutory 
-Authorities and Agency Rules (Table I), and Acts Requiring Publication 
-in the Federal Register (Table II). A list of CFR titles, chapters, and 
-parts and an alphabetical list of agencies publishing in the CFR are 
+Authorities and Agency Rules (Table I). A list of CFR titles, chapters, 
+and parts and an alphabetical list of agencies publishing in the CFR are 
 also included in this volume.
     An index to the text of ``Title 3--The President'' is carried within 
 that volume.
@@ -225,20 +235,21 @@ in electronic format at www.access.gpo.gov/nara (``GPO Access''). For
 more information, contact Electronic Information Dissemination Services, 
 U.S. Government Printing Office. Phone 202-512-1530, or 888-293-6498 
 (toll-free). E-mail, gpoaccess@gpo.gov.
+    The Office of the Federal Register also offers a free service on the 
+National Archives and Records Administration's (NARA) World Wide Web 
+site for public
 
 [[Page vii]]
 
-    The Office of the Federal Register also offers a free service on the 
-National Archives and Records Administration's (NARA) World Wide Web 
-site for public law numbers, Federal Register finding aids, and related 
-information. Connect to NARA's web site at www.nara.gov/fedreg. The NARA 
-site also contains links to GPO Access.
+law numbers, Federal Register finding aids, and related information. 
+Connect to NARA's web site at www.nara.gov/fedreg. The NARA site also 
+contains links to GPO Access.
 
                               Raymond A. Mosley,
                                     Director,
                           Office of the Federal Register.
 
-July 1, 1998.
+July 1, 1999.
 
 
 
@@ -253,7 +264,7 @@ volumes are arranged in the following order: parts 0-99, parts 100-499,
 parts 500-899, parts 900-1899, parts 1900-1910, part 1910.1000-End, 
 parts 1911-1925, part 1926, and part 1927 to end. The contents of these 
 volumes represent all current regulations codified under this title as 
-of July 1, 1998.
+of July 1, 1999.
 
     Subject indexes appear following the occupational safety and health 
 standards (part 1910), and following the safety and health regulations 
@@ -263,7 +274,7 @@ Construction (part 1926).
     Redesignation tables appear in the Finding Aids section of the 
 eighth volume.
 
-    For this volume, Gregory R. Walton was Chief Editor. The Code of 
+    For this volume, Melanie L. Marcec was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
 Frances D. McDonald, assisted by Alomha S. Morris.
 
@@ -271,6 +282,7 @@ Frances D. McDonald, assisted by Alomha S. Morris.
 
 <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
 
+
 
 [[Page 1]]
 
@@ -284,33 +296,31 @@ Frances D. McDonald, assisted by Alomha S. Morris.
                   (This book contains parts 100 to 499)
 
   --------------------------------------------------------------------
+
+
+
+  Editorial Note: Other regulations issued by the Department of Labor 
+appear in 20 CFR chapters I, IV, V, VI, VII; 30 CFR chapter I; 41 CFR 
+chapters 50, 60, and 61; and 48 CFR chapter 29.
                                                                     Part
 
                 SUBTITLE B--Regulations Relating to Labor
 
+Chapter I--National Labor Relations Board...................         100
 
-Chapter i--National Labor Relations Board...................         100
-
-
-Chapter ii--Office of Labor-Management Standards, Department 
+Chapter II--Office of Labor-Management Standards, Department 
   of Labor..................................................         215
 
+Chapter III--National Railroad Adjustment Board.............         301
 
-Chapter iii--National Railroad Adjustment Board.............         301
-
-
-Chapter iv--Office of Labor-Management Standards, Department 
+Chapter IV--Office of Labor-Management Standards, Department 
   of Labor..................................................         401
-
 
 Cross References: Railroad Retirement Board: See Employees' Benefits, 20 
   CFR chapter II.
-  Social Security Administration: See Employees' Benefits, 20 CFR 
-Chapter III.
 
-  Editorial Note: Other regulations issued by the Department of Labor 
-appear in 20 CFR chapters I, IV, V, VI, VII; 30 CFR chapter I; 41 CFR 
-Chapters 50, 60, and 61; and 48 CFR chapter 29.
+  Social Security Administration: See Employees' Benefits, 20 CFR 
+chapter III.
 
 [[Page 3]]
 
@@ -381,15 +391,14 @@ Subpart E--Enforcement of Nondiscrimination on the Basis of Handicap in
 100.570  Compliance procedures.
 100.571--100.599  [Reserved]
 
-    Authority:  Sec. 6, National Labor Relations Act, as amended (29 
+    Authority: Sec. 6, National Labor Relations Act, as amended (29 
 U.S.C. 141, 156).
-
-Subpart A is also issued under 5 U.S.C. 7301.
-Subpart B is also issued under the Inspector General Act of 1978, as 
-          amended by the Inspector General Act Amendments of 1988, 5 
-          U.S.C. app. 3; 42 U.S.C. 2000e-16(a).
-Subpart D is also issued under 28 U.S.C. 2672; 28 CFR part 14.
-Subpart E is also issued under 29 U.S.C. 794.
+    Subpart A is also issued under 5 U.S.C. 7301.
+    Subpart B is also issued under the Inspector General Act of 1978, as 
+amended by the Inspector General Act Amendments of 1988, 5 U.S.C. app. 
+3; 42 U.S.C. 2000e-16(a).
+    Subpart D is also issued under 28 U.S.C. 2672; 28 CFR part 14.
+    Subpart E is also issued under 29 U.S.C. 794.
 
 
 <R04>
@@ -405,6 +414,7 @@ to the executive branch-wide Standards of Ethical Conduct at 5 CFR part
 executive branch-wide standards; the employee responsibilities and 
 conduct regulations at 5 CFR part 735; and the executive branch 
 financial disclosure regulations at 5 CFR part 2634.
+
 [62 FR 6448, Feb. 12, 1997]
 
 
@@ -440,6 +450,7 @@ abridge, or
 
 otherwise restrict the rights, privileges, or other entitlements or 
 protections afforded to Agency employees.
+
 [59 FR 37158, July 21, 1994]
 
 
@@ -484,6 +495,7 @@ the Director of Administration out of appropriations available to the
 National Labor Relations Board. Payment of any award, compromise, or 
 settlement in an amount in excess of $2,500 made pursuant to this 
 section will be obtained in accordance with 28 CFR 14.10.
+
 [59 FR 37159, July 21, 1994]
 
 
@@ -491,7 +503,7 @@ section will be obtained in accordance with 28 CFR 14.10.
 Subpart E--Enforcement of Nondiscrimination on the Basis of Handicap in 
  Programs or Activities Conducted by the National Labor Relations Board
 
-    Source:  53 FR 25884 and 25885, July 8, 1988. Redesignated at 59 FR 
+    Source: 53 FR 25884 and 25885, July 8, 1988. Redesignated at 59 FR 
 37159, July 21, 1994.
 
 
@@ -513,6 +525,7 @@ Sec. 100.502  Application.
 activities conducted by the agency, except for programs or activities 
 conducted outside the United States that do not involve individuals with 
 handicaps in the United States.
+
 [53 FR 25884 and 25885, July 8, 1988. Redesignated at 59 FR 37159, July 
 21, 1994, and amended at 60 FR 32587, June 23, 1995]
 
@@ -622,6 +635,7 @@ programs.
     Substantial impairment means a significant loss of the integrity of 
 finished materials, design quality, or special character resulting from 
 a permanent alteration.
+
 [53 FR 25884 and 25885, July 8, 1988. Redesignated at 59 FR 37159, July 
 21, 1994, and amended at 60 FR 32587, June 23, 1995]
 
@@ -770,6 +784,7 @@ benefits of, be excluded from
 
 participation in, or otherwise be subjected to discrimination under any 
 program or activity conducted by the agency.
+
 [53 FR 25884 and 25885, July 8, 1988. Redesignated at 59 FR 37159, July 
 21, 1994, and amended at 60 FR 32587, June 23, 1995]
 
@@ -861,6 +876,7 @@ plan is longer than one year, identify steps that will be taken during
 each year of the transition period; and
     (4) Indicate the official responsible for implementation of the 
 plan.
+
 [53 FR 25884 and 25885, July 8, 1988. Redesignated at 59 FR 37159, July 
 21, 1994, and amended at 60 FR 32587, June 23, 1995]
 
@@ -931,6 +947,7 @@ or such burdens, the agency shall take any other action that would not
 result in such an alteration or such burdens but would nevertheless 
 ensure that, to the maximum extent possible, individuals with handicaps 
 receive the benefits and services of the program or activity.
+
 [53 FR 25884 and 25885, July 8, 1988. Redesignated at 59 FR 37159, July 
 21, 1994, and amended at 60 FR 32587, June 23, 1995]
 
@@ -990,6 +1007,7 @@ may be extended with the permission of the Assistant Attorney General.
     (l) The agency may delegate its authority for conducting complaint 
 investigations to other Federal agencies, except that the authority for 
 making the final determination may not be delegated to another agency.
+
 [53 FR 25884 and 25885, July 8, 1988, as amended at 53 FR 25884, July 8, 
 1988. Redesignated and amended at 59 FR 37159, July 21, 1994]
 
@@ -1087,12 +1105,12 @@ Subpart D--Unfair Labor Practice and Representation Cases Under Sections
 101.42  Procedures for obtaining declaratory orders of the Board.
 101.43  Proceedings following the filing of the petition.
 
-    Authority:  Sec. 6 of the National Labor Relations Act, as amended 
+    Authority: Sec. 6 of the National Labor Relations Act, as amended 
 (29 U.S.C. 151, 156), and sec. 552(a) of the Administrative Procedure 
 Act (5 U.S.C. 552(a)). Section 101.14 also issued under sec. 2112(a)(1) 
 of Pub. L. 100-236, 28 U.S.C. 2112(a)(1).
 
-    Source:  52 FR 23968, June 26, 1987, unless otherwise noted.
+    Source: 52 FR 23968, June 26, 1987, unless otherwise noted.
 
 
 <R04>
@@ -1475,6 +1493,7 @@ court. Following the court's judgment, either the Government or the
 private party may petition the Supreme Court for review upon writ of 
 certiorari. Such applications for review to the Supreme Court are 
 handled by the Board through the Solicitor General of the United States.
+
 [53 FR 24440, June 29, 1988]
 
 
@@ -2334,6 +2353,7 @@ and Regulations. None of the information sought may relate to the merits
 of the dispute. The petition may be withdrawn at any time before the 
 Board issues its advisory opinion determining whether it would or would 
 not assert jurisdiction on the basis of the facts before it.
+
 [61 FR 65182, Dec. 11, 1996; 62 FR 52381, Oct. 7, 1997]
 
 
@@ -2552,7 +2572,6 @@ Sec.
 
 Subpart C--Procedure Under Section 9(c) of the Act for the Determination 
       of Questions Concerning Representation of Employees and for 
-
  Clarification of Bargaining Units and for Amendment of Certifications 
                       Under Section 9(b) of the Act
 
@@ -2810,14 +2829,14 @@ Guaranteed Under Section 222(f), Communications Act of 1934, as Amended,
 
 Appendix A to Part 102--NLRB Official Office Hours
 
-    Authority:  Sec. 6, National Labor Relations Act, as amended (29 
+    Authority: Sec. 6, National Labor Relations Act, as amended (29 
 U.S.C. 151, 156). Section 102.117 also issued under sec. 552(a)(4)(A) of 
 the Freedom of Information Act, as amended (5 U.S.C. 552(a)(4)(A)), and 
 section 552a (j) and (k) of the Privacy Act (5 U.S.C. 552a (j) and (k)). 
 Sections 102.143 through 102.155 also issued under sec. 504(c)(1) of the 
 Equal Access to Justice Act as amended (5 U.S.C. 504(c)(1)).
 
-    Source:  24 FR 9102, Nov. 7, 1959, unless otherwise noted.
+    Source: 24 FR 9102, Nov. 7, 1959, unless otherwise noted.
 
 
 <R04>
@@ -2858,6 +2877,7 @@ Sec. 102.4  Region; subregion.
 States or any Territory thereof fixed by the Board as a particular 
 region. The term subregion shall mean that area within a region fixed by 
 the Board as a particular subregion.
+
 [29 FR 15918, Nov. 28, 1964]
 
 
@@ -2872,6 +2892,7 @@ shall have only such powers, duties, and functions appertaining to
 regional directors as shall have been duly delegated to such officer-in-
 charge. The term regional attorney as used herein shall mean the 
 attorney designated as regional attorney for a particular region.
+
 [29 FR 15919, Nov. 28, 1964]
 
 [[Page 37]]
@@ -2967,6 +2988,7 @@ the Agency's records, but failure to do so shall not affect the validity
 of the filing by facsimile, if otherwise proper. In addition, extra 
 copies need not be filed if the filing is by facsimile pursuant to 
 Sec. 102.114(f).
+
 [60 FR 56234, Nov. 8, 1995]
 
 
@@ -3017,6 +3039,7 @@ mail or private delivery service, the date of service is the date of
 deposit with the post office or other carrier. In the case of service by 
 other methods, including hand delivery or facsimile transmission, the 
 date of service is the date of receipt.
+
 [60 FR 56235, Nov. 8, 1995]
 
                                 Complaint
@@ -3038,6 +3061,7 @@ of jurisdiction by the Board is predicated, and
 constitute unfair labor practices, where known, the approximate dates 
 and places of such acts and the names of respondent's agents or other 
 representatives by whom committed.
+
 [51 FR 23745, July 1, 1986]
 
 
@@ -3071,6 +3095,7 @@ shall retain the authority to order a new date for hearing and retain
 the responsibility to make the necessary arrangements for conducting 
 such hearing, including its location and the transcription of the 
 proceedings.
+
 [54 FR 51197, Dec. 13, 1989; 54 FR 52506, Dec. 21, 1989]
 
 
@@ -3136,6 +3161,7 @@ previously reconsidered will not be entertained, except in unusual
 situations where the moving party can establish that new evidence has 
 been discovered which could not have been discovered by diligent inquiry 
 prior to the first reconsideration.
+
 [32 FR 9548, July 1, 1967, as amended at 51 FR 23746, July 1, 1986]
 
 [[Page 40]]
@@ -3156,6 +3182,7 @@ not specifically denied or explained in an answer filed, unless the
 respondent shall state in the answer that he is without knowledge, shall 
 be deemed to be admitted to be true and shall be so found by the Board, 
 unless good cause to the contrary is shown.
+
 [51 FR 23746, July 1, 1986]
 
 
@@ -3183,6 +3210,7 @@ violation of this section an attorney or non-attorney party
 representative may be subjected to appropriate disciplinary action. 
 Similar action may be taken if scandalous or indecent matter is 
 inserted.
+
 [61 FR 65331, Dec. 12, 1996]
 
 
@@ -3273,6 +3301,7 @@ indicate on their face that a genuine issue may exist. If the opposing
 party files no opposition or response, the Board may treat the motion as 
 conceded, and summary judgment or dismissal, if appropriate, shall be 
 entered.
+
 [54 FR 38516, Sept. 19, 1989, as amended at 54 FR 51197, Dec. 13, 1989; 
 62 FR 1668, Jan. 13, 1997]
 
@@ -3337,6 +3366,7 @@ writing, and shall be served immediately on the other parties and on the
 administrative law judge, if any. If the Board grants the request for 
 special permission to appeal, it may proceed forthwith to rule on the 
 appeal.
+
 [47 FR 40770, Sept. 15, 1982]
 
 
@@ -3351,6 +3381,7 @@ for review, and immediately on such filing shall serve a copy thereof on
 the regional director and on the other parties. Unless such request for 
 review is filed within 28 days from the date of the order of dismissal, 
 the case shall be closed.
+
 [51 FR 23746, July 1, 1986]
 
 
@@ -3361,6 +3392,7 @@ Sec. 102.28  Filing of answer or other participation in proceedings not a waiver
 motions shall not be deemed waived by the filing of an answer or by 
 other participation in the proceedings before the administrative law 
 judge or the Board.
+
 [45 FR 51192, Aug. 1, 1980]
 
                               Intervention
@@ -3479,7 +3511,6 @@ FR 51193, Aug. 1, 1980; 62 FR 1668, Jan. 13, 1997]
 
 <R05>
 Sec. 102.31  Issuance of subpoenas; petitions to revoke subpoenas; rulings on claim of privilege against self-incrimination; subpoena enforcement proceedings; 
-
           right to inspect and copy data.
 
     (a) The Board, or any Member thereof, shall, on the written 
@@ -3527,21 +3558,20 @@ aggrieved by the ruling.
 the Board may issue an order requiring any individual to give testimony 
 or provide other information at any proceeding before the Board if, in 
 the judgment of the Board, (1) the testimony or other information from 
-such individual may
+such individual may be necessary to the public interest, and
 
 [[Page 45]]
 
-be necessary to the public interest, and (2) such individual has refused 
-or is likely to refuse to testify or provide other information on the 
-basis of his privilege against selfincrimination. Requests for the 
-issuance of such an order by the Board may be made by any party. Prior 
-to hearing, and after transfer of the proceeding to the Board, such 
-requests shall be made to the Board in Washington, DC, and the Board 
-shall take such action thereon as it deems appropriate. During the 
-hearing, and thereafter while the proceeding is pending before the 
-administrative law judge, such requests shall be made to the 
-administrative law judge. If the administrative law judge denies the 
-request, his ruling shall be subject to appeal to the Board in 
+(2) such individual has refused or is likely to refuse to testify or 
+provide other information on the basis of his privilege against 
+selfincrimination. Requests for the issuance of such an order by the 
+Board may be made by any party. Prior to hearing, and after transfer of 
+the proceeding to the Board, such requests shall be made to the Board in 
+Washington, DC, and the Board shall take such action thereon as it deems 
+appropriate. During the hearing, and thereafter while the proceeding is 
+pending before the administrative law judge, such requests shall be made 
+to the administrative law judge. If the administrative law judge denies 
+the request, his ruling shall be subject to appeal to the Board in 
 Washington, DC, in the manner and to the extent provided in Sec. 102.26 
 with respect to rulings and orders by an administrative law judge, 
 except that requests for permission to appeal in this instance shall be 
@@ -3573,6 +3603,7 @@ nonpublic investigative stages of proceedings may, for good cause, be
 limited by the regional director to inspection of the official 
 transcript of their testimony, but shall be entitled to make copies of 
 documentary evidence or exhibits which they have produced.
+
 [24 FR 9102, Nov. 7, 1959, as amended at 35 FR 18797, Dec. 11, 1970; 62 
 FR 9931, Mar. 5, 1997]
 
@@ -3601,12 +3632,13 @@ delay, he may permit a charge to be filed with him in Washington, DC, or
 may, at any time after a charge has been filed with a regional director 
 pursuant to Sec. 102.10, order that such charge and any proceeding which 
 may have been initiated with respect thereto:
+    (1) Be transferred to and continued before him for the purpose of 
+investigation or consolidation with any other
 
 [[Page 46]]
 
-    (1) Be transferred to and continued before him for the purpose of 
-investigation or consolidation with any other proceeding which may have 
-been instituted in a regional office or with him; or
+proceeding which may have been instituted in a regional office or with 
+him; or
     (2) Be consolidated with any other proceeding which may have been 
 instituted in the same region; or
     (3) Be transferred to and continued in any other region for the 
@@ -3633,6 +3665,7 @@ provided in Sec. 102.25, except that the regional director may
 consolidate or sever proceedings prior to hearing upon his own motion. 
 Rulings by the administrative law judge upon motions to consolidate or 
 sever may be appealed to the Board as provided in Sec. 102.26.
+
 [32 FR 9549, July 1, 1967, as amended at 36 FR 9132, May 20, 1971]
 
                                 Hearings
@@ -3675,15 +3708,16 @@ Rules and Regulations of the Board and within its powers:
     (4) To rule upon offers of proof and receive relevant evidence;
     (5) To take or cause depositions to be taken whenever the ends of 
 justice would be served thereby;
-
-[[Page 47]]
-
     (6) To regulate the course of the hearing and, if appropriate or 
 necessary, to exclude persons or counsel from the hearing for 
 contemptuous conduct and to strike all related testimony of witnesses 
 refusing to answer any proper question;
     (7) To hold conferences for the settlement or simplification of the 
-issues by consent of the parties, but not to adjust cases;
+issues by
+
+[[Page 47]]
+
+consent of the parties, but not to adjust cases;
     (8) To dispose of procedural requests, motions, or similar matters, 
 including motions referred to the administrative law judge by the 
 Regional Director and motions for summary judgment or to amend 
@@ -3742,16 +3776,16 @@ proceedings before the settlement judge shall be admissible in any
 proceeding before the Board, except by stipulation of the parties. 
 Documents disclosed in the settlement process may not be used in 
 litigation unless voluntarily produced or obtained pursuant to subpoena.
-
-[[Page 48]]
-
     (5) No decision of a chief or associate concerning the assignment of 
 a settlement judge or the termination of a settlement judge's assignment 
 shall be appealable to the Board.
     (6) Any settlement reached under the auspices of a settlement judge 
 shall be subject to approval in accordance with the provisions of 
 Sec. 101.9 of the Board's Statements of Procedure.
+
 [61 FR 6941, Feb. 23, 1996, as amended at 62 FR 1668, Jan. 13, 1997]
+
+[[Page 48]]
 
 
 <R05>
@@ -3834,12 +3868,10 @@ Sec. 102.41  Objection to conduct of hearing; how made; objections not waived by
     Any objection with respect to the conduct of the hearing, including 
 any objection to the introduction of evidence, may be stated orally or 
 in writing, accompanied by a short statement of the grounds of such 
-objection, and
+objection, and included in the record. No such objection shall be deemed 
+waived by further participation in the hearing.
 
 [[Page 49]]
-
-included in the record. No such objection shall be deemed waived by 
-further participation in the hearing.
 
 
 <R05>
@@ -3867,6 +3899,7 @@ believes that written briefs or proposed findings of fact and
 conclusions may not be necessary, he or she shall notify the parties at 
 the opening of the hearing or as soon thereafter as practicable that he 
 or she may wish to hear oral argument in lieu of briefs.
+
 [61 FR 6942, Feb. 23, 1996, as amended at 62 FR 1668, Jan. 13, 1997]
 
 
@@ -3917,6 +3950,7 @@ documentary evidence, and
 depositions, together with the administrative law judge's decision and 
 exceptions, and any cross-exceptions or answering briefs as provided in 
 Sec. 102.46, shall constitute the record in the case.
+
 [28 FR 7973, Aug. 6, 1963, as amended at 59 FR 65945, Dec. 22, 1994; 61 
 FR 6942, Feb. 23, 1996]
 
@@ -3925,7 +3959,6 @@ FR 6942, Feb. 23, 1996]
 
 <R05>
 Sec. 102.46  Exceptions, cross-exceptions, briefs, answering briefs; time for filing; where to file; service on the parties; extension of time; effect of 
-
           failure to include matter in exceptions; reply briefs; oral 
           arguments.
 
@@ -4044,6 +4077,7 @@ less than 10 days prior to the date the brief is due. Where any brief
 filed pursuant to this section exceeds 20 pages, it shall contain a 
 subject index with page references and an alphabetical table of cases 
 and other authorities cited.
+
 [56 FR 49142, Sept. 27, 1991]
 
 
@@ -4056,6 +4090,7 @@ by transmitting eight copies thereof, together with an affidavit of
 service on the parties. Such motions shall be printed or otherwise 
 legibly duplicated: Provided, however, That carbon copies of typewritten 
 matter shall not be filed and if submitted will not be accepted.
+
 [29 FR 15919, Nov. 28, 1964]
 
 [[Page 52]]
@@ -4065,7 +4100,6 @@ matter shall not be filed and if submitted will not be accepted.
 
 <R05>
 Sec. 102.48  Action of the Board upon expiration of time to file exceptions to the administrative law judge's decision; decisions by the Board; extraordinary 
-
           postdecisional motions.
 
     (a) In the event no timely or proper exceptions are filed as herein 
@@ -4110,6 +4144,7 @@ promptly on the other parties.
 not operate to stay the effectiveness of the action of the Board unless 
 so ordered. A motion for reconsideration or for rehearing need not be 
 filed to exhaust administrative remedies.
+
 [28 FR 7974, Aug. 6, 1963, as amended at 34 FR 14432, Sept. 16, 1969; 51 
 FR 23746, July 1, 1986; 56 FR 49143, Sept. 27, 1991]
 
@@ -4136,13 +4171,13 @@ Sec. 102.33, order that such complaint and any proceeding which may have
 been instituted with respect thereto be transferred to and continued 
 before it or any member of the Board. The provisions of this subpart 
 shall, insofar as applicable, govern proceedings before the Board or any 
-member pursuant to this section, and the powers granted to 
-administrative law judges in such provisions
+member pursuant to this
 
 [[Page 53]]
 
-shall, for the purpose of this section, be reserved to and exercised by 
-the Board or the member thereof who shall preside.
+section, and the powers granted to administrative law judges in such 
+provisions shall, for the purpose of this section, be reserved to and 
+exercised by the Board or the member thereof who shall preside.
 
 
 <R05>
@@ -4168,6 +4203,7 @@ and shall notify the parties of the compliance determination. A charging
 party adversely affected by a monetary, make-whole, reinstatement, or 
 other compliance determination will be provided, on request, with a 
 written statement of the basis for that determination.
+
 [53 FR 37755, Sept. 28, 1988]
 
 
@@ -4197,6 +4233,7 @@ the General Counsel and on the Regional Director.
 Counsel, or make such other disposition of the matter as it deems 
 appropriate. The denial of the request for review will constitute an 
 affirmance of the decision of the General Counsel.
+
 [53 FR 37755, Sept. 28, 1988]
 
 
@@ -4217,18 +4254,20 @@ specification, with or without a notice of hearing, based on an
 outstanding complaint.
     (c) Whenever the Regional Director deems it necessary in order to 
 effectuate the purposes and policies of the Act or to avoid unnecessary 
-costs or delay, the Regional Director may consolidate with a complaint 
-and notice of hearing issued pursuant to Sec. 102.15 a
+costs or
 
 [[Page 54]]
 
-compliance specification based on that complaint. After opening of the 
-hearing, consolidation shall be subject to the approval of the Board or 
-the administrative law judge, as appropriate. Issuance of a compliance 
-specification shall not be a prerequisite or bar to Board initiation of 
-proceedings in any administrative or judicial forum which the Board or 
-the Regional Director determines to be appropriate for obtaining 
-compliance with a Board order.
+delay, the Regional Director may consolidate with a complaint and notice 
+of hearing issued pursuant to Sec. 102.15 a compliance specification 
+based on that complaint. After opening of the hearing, consolidation 
+shall be subject to the approval of the Board or the administrative law 
+judge, as appropriate. Issuance of a compliance specification shall not 
+be a prerequisite or bar to Board initiation of proceedings in any 
+administrative or judicial forum which the Board or the Regional 
+Director determines to be appropriate for obtaining compliance with a 
+Board order.
+
 [53 FR 37755, Sept. 28, 1988, as amended at 62 FR 9685, Mar. 4, 1997]
 
 
@@ -4255,6 +4294,7 @@ compliance hearing but prior to the opening of the hearing, the Regional
 Director may amend the specification. After the opening of the hearing, 
 the specification may be amended upon leave of the administrative law 
 judge or the Board, as the case may be, upon good cause shown.
+
 [53 FR 37756, Sept. 28, 1988]
 
 
@@ -4290,19 +4330,19 @@ figures.
 detail to backpay allegations of specification. If the respondent fails 
 to file any answer to the specification within the time prescribed by 
 this section, the Board may, either with or without taking evidence in 
-support of the allegations of the specification and without further 
-notice to the respondent, find the specification to be true and enter 
-such order as may be appropriate. If the respondent files an answer to 
-the specification
+support of the allegations of the
 
 [[Page 55]]
 
-but fails to deny any allegation of the specification in the manner 
-required by paragraph (b) of this section, and the failure so to deny is 
-not adequately explained, such allegation shall be deemed to be admitted 
-to be true, and may be so found by the Board without the taking of 
-evidence supporting such allegation, and the respondent shall be 
-precluded from introducing any evidence controverting the allegation.
+specification and without further notice to the respondent, find the 
+specification to be true and enter such order as may be appropriate. If 
+the respondent files an answer to the specification but fails to deny 
+any allegation of the specification in the manner required by paragraph 
+(b) of this section, and the failure so to deny is not adequately 
+explained, such allegation shall be deemed to be admitted to be true, 
+and may be so found by the Board without the taking of evidence 
+supporting such allegation, and the respondent shall be precluded from 
+introducing any evidence controverting the allegation.
     (d) Extension of time for filing answer to specification. Upon the 
 Regional Director's own motion or upon proper cause shown by any 
 respondent, the Regional Director issuing the compliance specification 
@@ -4311,6 +4351,7 @@ the answer to the specification shall be filed.
     (e) Amendment to answer. Following the amendment of the 
 specification by the Regional Director, any respondent affected by the 
 amendment may amend its answer thereto.
+
 [53 FR 37756, Sept. 28, 1988]
 
 
@@ -4320,6 +4361,7 @@ Sec. 102.57  Extension of date of hearing.
     Upon the Regional Director's own motion or upon proper cause shown, 
 the Regional Director issuing the compliance specification and notice of 
 hearing may extend the date of the hearing.
+
 [53 FR 37756, Sept. 28, 1988]
 
 
@@ -4328,6 +4370,7 @@ Sec. 102.58  Withdrawal.
 
     Any compliance specification and notice of hearing may be withdrawn 
 before the hearing by the Regional Director upon his or her own motion.
+
 [53 FR 37756, Sept. 28, 1988]
 
 
@@ -4337,17 +4380,19 @@ Sec. 102.59  Hearing; posthearing procedure.
     After the issuance of a compliance specification and notice of 
 hearing, the procedures provided in Secs. 102.24 to 102.51 shall be 
 followed insofar as applicable.
+
 [53 FR 37756, Sept. 28, 1988]
 
 
 <R04>
+
 Subpart C--Procedure Under Section 9(c) of the Act for the Determination 
     of Questions Concerning Representation of Employees \3\ and for 
-
  Clarification of Bargaining Units and for Amendment of Certifications 
-                      Under Section 9(b) of the Act
----------------------------------------------------------------------------
 
+                      Under Section 9(b) of the Act
+
+---------------------------------------------------------------------------
     \3\Procedure under the first proviso to sec. 8(b)(7)(C) of the Act 
 is governed by subpart D.
 ---------------------------------------------------------------------------
@@ -4378,20 +4423,20 @@ be filed. A person filing a petition by facsimile pursuant to
 Sec. 102.114(f) shall also file an original for the Agency's records, 
 but failure to do so shall not affect the validity of the filing by 
 facsimile, if otherwise proper. In addition, extra copies need not be 
-filed if the filing is by facsimile pursuant to
+filed if the filing is by facsimile pursuant to Sec. 102.114(f). Except 
+as provided in Sec. 102.72, such petitions shall be filed
 
 [[Page 56]]
 
-Sec. 102.114(f). Except as provided in Sec. 102.72, such petitions shall 
-be filed with the Regional Director for the Region wherein the 
-bargaining unit exists, or, if the bargaining unit exists in two or more 
-Regions, with the Regional Director for any of such Regions. Prior to 
-the transfer of the case to the Board, pursuant to Sec. 102.67, the 
-petition may be withdrawn only with the consent of the Regional Director 
-with whom such petition was filed. After the transfer of the case to the 
-Board, the petition may be withdrawn only with the consent of the Board. 
-Whenever the Regional Director or the Board, as the case may be, 
-approves the withdrawal of any petition, the case shall be closed.
+with the Regional Director for the Region wherein the bargaining unit 
+exists, or, if the bargaining unit exists in two or more Regions, with 
+the Regional Director for any of such Regions. Prior to the transfer of 
+the case to the Board, pursuant to Sec. 102.67, the petition may be 
+withdrawn only with the consent of the Regional Director with whom such 
+petition was filed. After the transfer of the case to the Board, the 
+petition may be withdrawn only with the consent of the Board. Whenever 
+the Regional Director or the Board, as the case may be, approves the 
+withdrawal of any petition, the case shall be closed.
     (b) Petition for clarification of bargaining unit or petition for 
 amendment of certification under section 9(b) of the Act; who may file; 
 where to file; withdrawal. A petition for clarification of an existing 
@@ -4399,12 +4444,12 @@ bargaining unit or a petition for amendment of certification, in the
 absence of a question concerning representation, may be filed by a labor 
 organization or by an employer. Where applicable the same procedures set 
 forth in paragraph (a) of this section shall be followed.
+
 [29 FR 15919, Nov. 28, 1964, as amended at 60 FR 56235, Nov. 8, 1995]
 
 
 <R05>
 Sec. 102.61  Contents of petition for certification; contents of petition for decertification; contents of petition for clarification of bargaining unit; 
-
           contents of petition for amendment of certification.
 
     (a) A petition for certification, when filed by an employee or group 
@@ -4453,11 +4498,12 @@ participating, and the date such strike or picketing commenced.
 bargaining unit involved.
     (3) The general nature of the employer's business.
     (4) Name and address of the petitioner and affiliation, if any.
+    (5) Name or names of the individuals or labor organizations who have 
+been
 
 [[Page 57]]
 
-    (5) Name or names of the individuals or labor organizations who have 
-been certified or are being currently recognized by the employer and who 
+certified or are being currently recognized by the employer and who 
 claim to represent any employees in the unit involved, and the 
 expiration date of any contracts covering such employees.
     (6) An allegation that the individuals or labor organizations who 
@@ -4507,6 +4553,7 @@ covering the employees in such unit.
     (7) The name, the affiliation, if any, and the address of the 
 petitioner.
     (8) Any other relevant facts.
+
 [26 FR 3887, May 4, 1961, as amended at 29 FR 15919, Nov. 28, 1964]
 
 
@@ -4530,12 +4577,12 @@ the regional director of the results thereof shall be final, and the
 regional director shall issue to the parties a certification of the 
 results of the election, including certification of representatives 
 where appropriate, with the same force and effect as if issued by the 
-Board, provided further that rulings or
+Board, provided further that rulings or determinations by the regional 
+director in respect to any amendment of such certification shall also be 
+final.
 
 [[Page 58]]
 
-determinations by the regional director in respect to any amendment of 
-such certification shall also be final.
     (b) Where a petition has been duly filed, the employer and any 
 individuals or labor organizations representing a substantial number of 
 the employees involved may, with the approval of the regional director, 
@@ -4550,6 +4597,7 @@ shall be conducted under the direction and supervision of the regional
 director. The method of conducting such election and the post election 
 procedure shall be consistent with that followed by the regional 
 director in conducting elections pursuant to Secs. 102.69 and 102.70.
+
 [26 FR 3887, May 4, 1961]
 
 
@@ -4590,6 +4638,7 @@ Dismissals of petitions without a hearing shall not be governed by
 Sec. 102.71. The regional director's dismissal shall be by decision, and 
 a request for review therefrom may be obtained under Sec. 102.67, except 
 where an agreement under Sec. 102.62(a) is involved.
+
 [29 FR 15919, Nov. 28, 1964]
 
 
@@ -4606,6 +4655,7 @@ discharge their duties under section 9(c) of the Act.
     (b) The hearing officer may, in his discretion, continue the hearing 
 from day to day, or adjourn it to a later date or to a different place, 
 by announcement thereof at the hearing or by other appropriate notice.
+
 [26 FR 3888, May 4, 1961]
 
 [[Page 59]]
@@ -4715,6 +4765,7 @@ vote of specific employees, the ballots of such employees shall be
 challenged and impounded in any election conducted while such motion is 
 pending. A motion for reconsideration, for rehearing, or to reopen the 
 record need not be filed to exhaust administrative remedies.
+
 [26 FR 3888, May 4, 1961, as amended at 36 FR 9133, May 20, 1971; 47 FR 
 40771, Sept. 15, 1982; 57 FR 12876, Apr. 14, 1992]
 
@@ -4783,6 +4834,7 @@ included in the stenographic report of the hearing.
 regional director or the Board but he shall make no recommendations.
     (f) Witness fees and mileage shall be paid by the party at whose 
 instance the witness appears.
+
 [26 FR 3888, May 4, 1961, as amended at 61 FR 65331, Dec. 12, 1996; 62 
 FR 9932, Mar. 5, 1997]
 
@@ -4933,6 +4985,7 @@ Director, as the case may be. The party filing the request for an
 extension of time shall serve a copy thereof on the other parties and, 
 if filed with the Board, on the Regional Director. A statement of such 
 service shall be filed with the document.
+
 [26 FR 3889, May 4, 1961, as amended at 42 FR 41117, Aug. 15, 1977; 47 
 FR 40771, Sept. 15, 1982; 51 FR 23747, July 1, 1986; 56 FR 49143, Sept. 
 27, 1991]
@@ -4952,12 +5005,12 @@ Immediately upon issuance by the regional director of an order
 transferring the case to the Board, or upon issuance of an order 
 granting a request for review by the Board, the regional director shall 
 transmit the record to the Board.
+
 [46 FR 45922, Sept. 15, 1981]
 
 
 <R05>
 Sec. 102.69  Election procedure; tally of ballots; objections; certification by the regional director; report on challenged ballots; report on objections; 
-
           exceptions; action of the Board; hearing.
 
     (a) Unless otherwise directed by the Board, all elections shall be 
@@ -5201,6 +5254,7 @@ be. The party filing the request for an extension of time shall serve a
 copy thereof on the other parties and, if filed with the Board, or the 
 Regional Director. A statement of such service shall be filed with the 
 document.
+
 [38 FR 3961, Feb. 8, 1973, as amended at 46 FR 45923, Sept. 15, 1981; 47 
 FR 40772, Sept. 15, 1982; 47 FR 42569, Sept. 28, 1982; 51 FR 23747, July 
 1, 1986; 51 FR 32919, Sept. 17, 1986; 56 FR 49144, Sept. 27, 1991; 60 FR 
@@ -5241,6 +5295,7 @@ certification of results of election shall be issued. Only one such
 further election pursuant to this paragraph may be held.
     (e) Upon the conclusion of the runoff election, the provisions of 
 Sec. 102.69 shall govern, insofar as applicable.
+
 [26 FR 3891, May 4, 1961]
 
 
@@ -5304,6 +5359,7 @@ Provided, however, That carbon copies of typewritten materials will not
 be accepted. Requests for an extension of time within which to file the 
 request for review shall be filed with the Board in Washington, DC, and 
 a statement of service shall accompany such request.
+
 [39 FR 4080, Feb. 1, 1974, as amended at 40 FR 6204, Feb. 10, 1975; 51 
 FR 23748, July 1, 1986]
 
@@ -5348,6 +5404,7 @@ was made.
     (c) The regional director may exercise the powers in paragraph 
 (a)(2) and (4) of this section with respect to proceedings pending in 
 his region.
+
 [32 FR 9550, July 1, 1967]
 
 
@@ -5450,6 +5507,7 @@ however, state their respective legal positions upon the record at the
 close of the hearing, and except that any request for review of a 
 decision of the regional director shall be filed promptly after the 
 issuance of such decision.
+
 [24 FR 9102, Nov. 7, 1959, as amended at 26 FR 3892, May 4, 1961]
 
 
@@ -5513,12 +5571,12 @@ serve a copy thereof on each other party. Should the Board grant the
 requested permission to appeal, such action shall not, unless 
 specifically ordered by the Board, operate as a stay of any action by 
 the regional director.
+
 [24 FR 9102, Nov. 7, 1959, as amended at 26 FR 3892, May 4, 1961]
 
 
 <R05>
 Sec. 102.81  Review by the general counsel of refusal to proceed on charge; resumption of proceedings upon charge held during pendency of petition; review by 
-
           the general counsel of refusal to proceed on related charge.
 
     (a) Where an election has been directed by the regional director or 
@@ -5548,6 +5606,7 @@ and filing a copy of the appeal with the regional director, within 7
 days from the service of the notice of such refusal by the regional 
 director. In all other respects the appeal shall be subject to the 
 provisions of Sec. 102.19.
+
 [32 FR 9550, July 1, 1967, as amended at 51 FR 23749, July 1, 1986]
 
 
@@ -5641,6 +5700,7 @@ approval of the regional director, fixing such arrangements. In any such
 consent agreements, provision may be made for final determination of all 
 questions arising with respect to the balloting by the regional director 
 or by the Board.
+
 [26 FR 3892, May 4, 1961]
 
 
@@ -5677,6 +5737,7 @@ such request with the regional director and the other parties within 14
 days from the service of notice of such dismissal. The request shall 
 contain a complete statement setting forth the facts and reasons upon 
 which the request is based.
+
 [51 FR 30636, Aug. 28, 1986]
 
 
@@ -5698,6 +5759,7 @@ such charge and if it is deemed appropriate to seek injunctive relief of
 a district court pursuant to section 10(1) of the Act, he shall give it 
 priority over all other cases in the office except other cases under 
 section 10(1) and cases of like character.
+
 [26 FR 7546, Aug. 15, 1961]
 
 
@@ -5741,6 +5803,7 @@ submitted will not be accepted. Requests for extension of time in which
 to file a brief under authority of this section shall be in writing with 
 copies thereof served on the other parties. No reply brief may be filed 
 except upon special leave of the Board.
+
 [56 FR 49144, Sept. 27, 1991]
 
 
@@ -5762,6 +5825,7 @@ however, That if the Board determination is that employees represented
 by a charged union are entitled to perform the work in dispute, the 
 regional director shall dismiss the charge as to that union irrespective 
 of whether the employer has complied with that determination.
+
 [36 FR 9133, May 20, 1971]
 
 
@@ -5799,6 +5863,7 @@ represented by a charged union are entitled to perform the work in
 dispute, the regional director shall dismiss the charge as to that union 
 irrespective of whether the employer has complied with that 
 determination.
+
 [36 FR 9133, May 20, 1971]
 
 
@@ -5898,6 +5963,7 @@ Board would decline to assert jurisdiction over the parties before the
 agency or the court (1) on the basis of its current standards, or (2) 
 because the employing enterprise is not within the jurisdiction of the 
 National Labor Relations Act.
+
 [24 FR 9102, Nov. 7, 1959, as amended at 51 FR 15613, Apr. 25, 1986; 61 
 FR 65182, Dec. 11, 1996]
 
@@ -5923,6 +5989,7 @@ employing enterprise.
 the Board in Washington, DC. Such petition or request shall be printed 
 or otherwise legibly duplicated. Carbon copies of typewritten matter 
 will not be accepted.
+
 [24 FR 9102, Nov. 7, 1959, as amended at 51 FR 15613, Apr. 25, 1986; 61 
 FR 65182, Dec. 11, 1996]
 
@@ -5938,6 +6005,7 @@ petition on all parties to the proceeding and on the director of the
 Board's regional office having jurisdiction over the territorial area in 
 which such agency or court is located. A statement of service shall be 
 filed with the petition as provided by Sec. 102.114(b) of the rules.
+
 [51 FR 23749, July 1, 1986]
 
 
@@ -5953,6 +6021,7 @@ materials will not be accepted. Such response shall immediately be
 served on all other parties to the proceeding, and a statement of 
 service shall be filed in accordance with the provisions of 
 Sec. 102.114(b) of these rules.
+
 [51 FR 23749, July 1, 1986]
 
 
@@ -5966,6 +6035,7 @@ with the Board in Washington, DC. Such motion shall be printed or
 otherwise legibly duplicated: Provided, however, That carbon copies of 
 typewritten matter shall not be filed and if submitted will not be 
 accepted.
+
 [29 FR 15922, Nov. 28, 1964]
 
 
@@ -6018,6 +6088,7 @@ if submitted will not be accepted.
 Washington, DC. Such petition shall be printed or otherwise legibly 
 duplicated: Provided, however, That carbon copies of typewritten matter 
 shall not be filed and if submitted will not be accepted.
+
 [24 FR 9102, Nov. 7, 1959, as amended at 27 FR 5095, May 30, 1962; 29 FR 
 15922, Nov. 28, 1964]
 
@@ -6030,6 +6101,7 @@ Sec. 102.107  Notice of petition, service of petition.
     Upon filing a petition, the general counsel shall immediately serve 
 a copy thereof on all parties and shall file a statement of service as 
 provided by Sec. 102.114(b) of these rules.
+
 [51 FR 23749, July 1, 1986]
 
 
@@ -6044,6 +6116,7 @@ otherwise legibly duplicated: Provided, however, That carbon copies of
 typewritten materials will not be accepted. Such response shall be 
 served on the general counsel and all other parties, and a statement of 
 service shall be filed as provided by Sec. 102.114(b) of these rules.
+
 [51 FR 23749, July 1, 1986]
 
 
@@ -6057,6 +6130,7 @@ with the Board in Washington, DC. Such motion shall be printed or
 otherwise legibly duplicated: Provided, however, That carbon copies of 
 typewritten matter shall not be filed and if submitted will not be 
 accepted.
+
 [29 FR 15922, Nov. 28, 1964]
 
 
@@ -6072,6 +6146,7 @@ orders of the Board, and shall be served upon the parties. Any party
 desiring to file a brief shall file eight copies with the Board in 
 Washington, DC, with a statement that copies thereof are being served 
 simultaneously on the other parties.
+
 [29 FR 15922, Nov. 28, 1964]
 
 
@@ -6141,6 +6216,7 @@ commence until the date a ruling issues accepting the untimely document.
 In addition, cross-exceptions shall be due within 14 days, or such 
 further period as the Board may allow, from the date a ruling issues 
 accepting untimely filed exceptions.
+
 [56 FR 49144, Sept. 27, 1991 as amended at 57 FR 4157, Feb. 4, 1992; 57 
 FR 9977, Mar. 23, 1992]
 
@@ -6157,6 +6233,7 @@ transmission, the date of service shall be the date on which
 transmission is received. The date of filing shall be the day when the 
 matter is required to be received by the Board as provided by 
 Sec. 102.111.
+
 [60 FR 56235, Nov. 8, 1995]
 
 
@@ -6207,6 +6284,7 @@ the party shall satisfy this requirement. Service by the Board or its
 agents of any documents upon any such attorney or other representative 
 may be accomplished by any means of service permitted by these rules, 
 including regular mail.
+
 [60 FR 56236, Nov. 8, 1995]
 
 
@@ -6300,6 +6378,7 @@ provided for in paragraph (a) of this section, the party shall be
 notified personally or by telephone of the substance of the transmitted 
 document and a copy of the document shall be served by personal service 
 or overnight delivery service.
+
 [60 FR 56236, Nov. 8, 1995]
 
 
@@ -7022,6 +7101,7 @@ Act, if applied to Agency Disciplinary Case Files, would seriously
 impair the ability of the NLRB to conduct investigations of alleged or 
 suspected violations of the NLRB's misconduct rules, as set forth in 
 paragraphs (o) (1), (3), (4), (7), (8), and (11) of this section.
+
 [40 FR 7290, Feb. 19, 1975, as amended at 53 FR 10872, Apr. 4, 1988; 58 
 FR 42235, Aug. 9, 1993; 60 FR 32587, June 23, 1995; 61 FR 13765, Mar. 
 28, 1996; 61 FR 65183, Dec. 11, 1996]
@@ -7043,40 +7123,39 @@ Board or of the General Counsel, whether in response to a subpoena duces
 tecum or otherwise, without the written consent of the Board or the 
 Chairman of the Board if the document is in Washington, DC, and in 
 control of the Board; or of the General Counsel if the document is in a 
-Regional Office of the Agency or
+Regional Office of the Agency or is in Washington, DC, and in
 
 [[Page 91]]
 
-is in Washington, DC, and in the control of the General Counsel. Nor 
-shall any such person testify in behalf of any party to any cause 
-pending in any court or before the Board, or any other board, 
-commission, or other administrative agency of the United States, or of 
-any State, territory, or the District of Columbia, or any subdivisions 
-thereof, with respect to any information, facts, or other matter coming 
-to that person's knowledge in his or her official capacity or with 
-respect to the contents of any files, documents, reports, memoranda, or 
-records of the Board or the General Counsel, whether in answer to a 
-subpoena or otherwise, without the written consent of the Board or the 
-Chairman of the Board if the person is in Washington, DC, and subject to 
-the supervision or control of the Board or was subject to such 
-supervision or control when formerly employed at the Agency; or of the 
-General Counsel if the person is in a Regional Office of the Agency or 
+the control of the General Counsel. Nor shall any such person testify in 
+behalf of any party to any cause pending in any court or before the 
+Board, or any other board, commission, or other administrative agency of 
+the United States, or of any State, territory, or the District of 
+Columbia, or any subdivisions thereof, with respect to any information, 
+facts, or other matter coming to that person's knowledge in his or her 
+official capacity or with respect to the contents of any files, 
+documents, reports, memoranda, or records of the Board or the General 
+Counsel, whether in answer to a subpoena or otherwise, without the 
+written consent of the Board or the Chairman of the Board if the person 
 is in Washington, DC, and subject to the supervision or control of the 
-General Counsel or was subject to such supervision or control when 
-formerly employed at the Agency. A request that such consent be granted 
-shall be in writing and shall identify the documents to be produced, or 
-the person whose testimony is desired, the nature of the pending 
-proceeding, and the purpose to be served by the production of the 
-document or the testimony of the official. Whenever any subpoena ad 
-testificandum or subpoena duces tecum, the purpose of which is to adduce 
-testimony or require the production of records as described hereinabove, 
-shall have been served on any such person or otherwise expressly 
-directed by the Board or the Chairman of the Board or the General 
-Counsel, as the case may be, move pursuant to the applicable procedure, 
-whether by petition to revoke, motion to quash, or other officer or 
-employee of the Board, that person will, unless otherwise, to have such 
-subpoena invalidated on the ground that the evidence sought is 
-privileged against disclosure by this rule.
+Board or was subject to such supervision or control when formerly 
+employed at the Agency; or of the General Counsel if the person is in a 
+Regional Office of the Agency or is in Washington, DC, and subject to 
+the supervision or control of the General Counsel or was subject to such 
+supervision or control when formerly employed at the Agency. A request 
+that such consent be granted shall be in writing and shall identify the 
+documents to be produced, or the person whose testimony is desired, the 
+nature of the pending proceeding, and the purpose to be served by the 
+production of the document or the testimony of the official. Whenever 
+any subpoena ad testificandum or subpoena duces tecum, the purpose of 
+which is to adduce testimony or require the production of records as 
+described hereinabove, shall have been served on any such person or 
+otherwise expressly directed by the Board or the Chairman of the Board 
+or the General Counsel, as the case may be, move pursuant to the 
+applicable procedure, whether by petition to revoke, motion to quash, or 
+other officer or employee of the Board, that person will, unless 
+otherwise, to have such subpoena invalidated on the ground that the 
+evidence sought is privileged against disclosure by this rule.
     (2) No regional director, field examiner, administrative law judge, 
 attorney, specially designated agent, general counsel, member of the 
 Board, or other officer or employee of the Board shall, by any means of 
@@ -7147,6 +7226,7 @@ transcription thereof, which is a substantially verbatim recital of an
 oral statement made by said witness to an agent of the party obligated 
 to produce the statement and recorded contemporaneously with the making 
 of such oral statement.
+
 [33 FR 9819, July 9, 1968, as amended at 35 FR 10658, July 1, 1970; 40 
 FR 7291, Feb. 19, 1975; 40 FR 50662, Oct. 30, 1975; 52 FR 27990, July 
 27, 1987]
@@ -7166,6 +7246,7 @@ applicable post-employment restrictions imposed by 18 U.S.C. 207.
 Guidance concerning those restrictions may be obtained from the 
 Designated Agency Ethics Officer and any applicable regulations issued 
 by the Office of Government Ethics.
+
 [62 FR 58907, Oct. 31, 1997]
 
 
@@ -7223,6 +7304,7 @@ seven copies of such petition shall be filed with the Board in
 Washington, DC, and shall state the rule or regulation proposed to be 
 issued, amended, or repealed, together with a statement of grounds in 
 support of such petition.
+
 [29 FR 15922, Nov. 28, 1964]
 
 
@@ -7240,10 +7322,10 @@ of the grounds unless the denial is self-explanatory.
 <R04>
                    Subpart P--Ex Parte Communications
 
-    Authority:  Sec. 6, National Labor Relations Act, as amended (49 
+    Authority: Sec. 6, National Labor Relations Act, as amended (49 
 Stat. 452; 29 U.S.C. 156).
 
-    Source:  42 FR 13113, Mar. 8, 1977, unless otherwise noted.
+    Source: 42 FR 13113, Mar. 8, 1977, unless otherwise noted.
 
 
 <R05>
@@ -7335,6 +7417,7 @@ proceeding in accordance with the provisions of Sec. 102.114(a).
     (b) Such communications, when oral, unless advance notice thereof is 
 given by the communicator to all parties in the proceeding and adequate 
 opportunity afforded to them to be present.
+
 [42 FR 13113, Mar. 8, 1977, as amended at 51 FR 30636, Aug. 28, 1986; 51 
 FR 32919, Sept. 17, 1986]
 
@@ -7408,6 +7491,7 @@ including reopening of the record which may be required under the
 circumstances. No action taken pursuant to this provision shall 
 constitute a waiver of the power of the Board to impose an appropriate 
 penalty under Sec. 102.133.
+
 [51 FR 32919, Sept. 17, 1986]
 
 
@@ -7439,6 +7523,7 @@ take such action.
 suspend, dismiss, or institute proceedings for the dismissal of, any 
 Board agent who knowingly and willfully violates the prohibitions and 
 requirements of this rule.
+
 [42 FR 15410, Mar. 22, 1977]
 
 
@@ -7469,6 +7554,7 @@ appropriate context mean ``Postal Reorganization Act,'' (3) section 9(c)
 of the Act and cited paragraphs thereof shall mean ``39 U.S.C. secs. 
 1203(c) and 1204,'' and (4) section 9(b) of the Act shall mean ``39 
 U.S.C. sec. 1202.''
+
 [36 FR 12532, July 1, 1971]
 
 
@@ -7500,11 +7586,11 @@ et seq.))
 <R04>
                         Subpart S--Open Meetings
 
-    Authority:  Sec. 6, National Labor Relations Act, as amended (49 
+    Authority: Sec. 6, National Labor Relations Act, as amended (49 
 Stat. 452; 29 U.S.C. 156) and sec. 3(a), Government in the Sunshine Act, 
 Pub. L. 94-409, Sept. 13, 1976, 5 U.S.C. 552b(g).
 
-    Source:  42 FR 13550, Mar. 11, 1977, unless otherwise noted.
+    Source: 42 FR 13550, Mar. 11, 1977, unless otherwise noted.
 
 
 <R05>
@@ -7548,15 +7634,16 @@ matters concerning national defense or foreign policy); (c)(2) (internal
 personnel rules and practices); (c)(3) (matters specifically exempted 
 from disclosure by statute); (c)(4) (privileged or confidential trade 
 secrets and commercial or financial information); (c)(5) (matters of 
-alleged criminal conduct or formal censure);
+alleged
 
 [[Page 97]]
 
-(c)(6) (personal information where disclosure would cause a clearly 
-unwarranted invasion of personal privacy); (c)(7) (certain materials or 
-information from investigatory files compiled for law enforcement 
-purposes); or (c)(9)(B) (disclosure would significantly frustrate 
-implementation of a proposed agency action).
+criminal conduct or formal censure); (c)(6) (personal information where 
+disclosure would cause a clearly unwarranted invasion of personal 
+privacy); (c)(7) (certain materials or information from investigatory 
+files compiled for law enforcement purposes); or (c)(9)(B) (disclosure 
+would significantly frustrate implementation of a proposed agency 
+action).
 
 
 <R05>
@@ -7701,10 +7788,10 @@ two years after such meeting.
 <R04>
               Subpart T--Awards of Fees and Other Expenses
 
-    Authority:  Equal Access to Justice Act, Pub. L. 96-481, 94 Stat. 
+    Authority: Equal Access to Justice Act, Pub. L. 96-481, 94 Stat. 
 2325.
 
-    Source:  46 FR 48087, Sept. 30, 1981, unless otherwise noted.
+    Source: 46 FR 48087, Sept. 30, 1981, unless otherwise noted.
 
 
 <R05>
@@ -7763,6 +7850,7 @@ award unjust.
     (h) An applicant that participates in an adversary adjudication 
 primarily on behalf of one or more other persons or entities that would 
 be ineligible is not itself eligible for an award.
+
 [46 FR 48087, Sept. 30, 1981, as amended at 51 FR 17733, May 15, 1986; 
 51 FR 36224, Oct. 9, 1986]
 
@@ -7784,6 +7872,7 @@ Counsel's position in the proceeding was substantially justified.
     (b) An award will be reduced or denied if the applicant has unduly 
 or unreasonably protracted the adversary adjudication or if special 
 circumstances make the award sought unjust.
+
 [46 FR 48087, Sept. 30, 1981, as amended at 51 FR 17733, May 15, 1986]
 
 
@@ -7913,6 +8002,7 @@ the total amount claimed, and the total amount paid or payable by the
 applicant or by any other person or entity for the services provided. 
 The administrative law judge may require the applicant to provide 
 vouchers, receipts, or other substantiation for any expenses claimed.
+
 [46 FR 48087, Sept. 30, 1981, as amended at 51 FR 17733, May 15, 1986; 
 51 FR 36224, Oct. 9, 1986]
 
@@ -7970,6 +8060,7 @@ judge in New York, New York, or the associate chief judge in Atlanta,
 Georgia, as the case may be, not later than 3 days before the due date 
 of the document. Notice of the request shall be immediately served on 
 all other parties and proof of service furnished.
+
 [46 FR 48087, Sept. 30, 1981, as amended at 62 FR 1668, Jan. 13, 1997]
 
 
@@ -8005,14 +8096,16 @@ record of the adversary adjudication, supporting affidavits shall be
 provided or a request made for further proceedings under Sec. 102.152.
     (e) Any party to an adversary adjudication other than the applicant 
 and the general counsel may file comments on a fee application within 35 
-days after it is served and on an answer
+days
 
 [[Page 103]]
 
-within 21 days after it is served. A commenting party may not 
-participate further in the fee application proceeding unless the 
-administrative law judge determines that such participation is required 
-in order to permit full exploration of matters raised in the comments.
+after it is served and on an answer within 21 days after it is served. A 
+commenting party may not participate further in the fee application 
+proceeding unless the administrative law judge determines that such 
+participation is required in order to permit full exploration of matters 
+raised in the comments.
+
 [46 FR 48087, Sept. 30, 1981, as amended at 51 FR 23750, July 1, 1986; 
 51 FR 32919, Sept. 17, 1986]
 
@@ -8106,7 +8199,7 @@ has been sought.
 <R04>
      Subpart U--Debt-Collection Procedures by Administrative Offset
 
-    Source:  62 FR 55164, Oct. 23, 1997, unless otherwise noted.
+    Source: 62 FR 55164, Oct. 23, 1997, unless otherwise noted.
 
 
 <R05>
@@ -8175,11 +8268,11 @@ of the collection action. A determination of when the debt first accrued
 should be made according to existing laws regarding the accrual of 
 debts, such as under 28 U.S.C. 2415. Unless otherwise provided by 
 contract or law, debts or payments owed the Board which are not subject 
-to administrative offset under 31 U.S.C. 3716 may be
+to administrative offset under 31 U.S.C. 3716
 
 [[Page 105]]
 
-collected by administrative offset under the common law or other 
+may be collected by administrative offset under the common law or other 
 applicable statutory authority, pursuant to this paragraph or Board 
 regulations established pursuant to such other statutory authority.
     (b) Collection by offset against a judgment obtained by a debtor 
@@ -8347,7 +8440,7 @@ efforts before effecting administrative offset.
    Subpart V--Debt Collection Procedures By Federal Income Tax Refund 
                                  Offset
 
-    Source:  62 FR 55166, Oct. 23, 1997, unless otherwise noted.
+    Source: 62 FR 55166, Oct. 23, 1997, unless otherwise noted.
 
 
 <R05>
@@ -8515,7 +8608,6 @@ efforts before referring a debt for tax refund offset.
 
 <R05>
 Sec. 102.177  Exclusion from hearings; Refusal of witness to answer questions; Misconduct by attorneys and party representatives before the Agency; Procedures 
-
           for processing misconduct allegations.
 
     (a) Any attorney or other representative appearing or practicing 
@@ -8628,80 +8720,80 @@ other sanctions.
     (f) Any person found to have engaged in misconduct warranting 
 disciplinary sanctions under paragraph (d) of this section may seek 
 judicial review of the administrative determination.
+
 [61 FR 65331, Dec. 12, 1996]
 
-           Appendix A to Part 102--NLRB Official Office Hours           
-                                                                        
-                                                                        
-                                                                        
-NLRB Headquarters, Business Hours                                       
- (Local Time):                                                          
-  Washington, DC......................  8:30 a.m.-5 p.m.                
-Division of Judges, Business Hours                                      
- (Local Time):                                                          
-  Washington, DC......................  8:30 a.m.-5 p.m.                
-  San Francisco.......................  8:30 a.m.-5 p.m.                
-  New York............................  8:30 a.m.-5 p.m.                
-  Atlanta.............................  8 a.m.-4:30 p.m.                
-Regional Office Business Hours (Local                                   
- Time):                                                                 
-  1--Boston...........................  8:30 a.m.-5 p.m.                
-  2--New York.........................  8:45 a.m.-5:15 p.m.             
-  3--Buffalo..........................  8:30 a.m.-5 p.m.                
-    Albany............................  8:30 a.m.-5 p.m.                
-  4--Philadelphia.....................  8:30 a.m.-5 p.m.                
-  5--Baltimore........................  8:15 a.m.-4:45 p.m.             
-    Washington, DC....................  8:15 a.m.-4:45 p.m.             
-  6--Pittsburgh.......................  8:30 a.m.-5 p.m.                
-  7--Detroit..........................  8:15 a.m.-4:45 p.m.             
-    Grand Rapids......................  8:15 a.m.-4:45 p.m.             
-  8--Cleveland........................  8:15 a.m.-4:45 p.m.             
-  9--Cincinnati.......................  8:30 a.m.-5 p.m.                
-  10--Atlanta.........................  8 a.m.-4:30 p.m.                
-    Birmingham........................  8 a.m.-4:30 p.m.                
-  11--Winston-Salem...................  8 a.m.-4:30 p.m.                
-  12--Tampa...........................  8 a.m.-4:30 p.m.                
-    Jacksonville......................  8 a.m.-4:30 p.m.                
-    Miami.............................  8 a.m.-4:30 p.m.                
-  13--Chicago.........................  8:30 a.m.-5 p.m.                
-  14--St. Louis.......................  8 a.m.-4:30 p.m.                
-  15--New Orleans.....................  8 a.m.-4:30 p.m.                
-  16--Fort Worth......................  8:15 a.m.-4:45 p.m.             
-    Houston...........................  8 a.m.-4:30 p.m.                
-    San Antonio.......................  8 a.m.-4:30 p.m.                
-  17--Kansas City.....................  8:15 a.m.-4:45 p.m.             
-    Tulsa.............................  8:15 a.m.-4:45 p.m.             
-  18--Minneapolis.....................  8 a.m.-4:30 p.m.                
-    Des Moines........................  8 a.m.-4:30 p.m.                
-  19--Seattle.........................  8:15 a.m.-4:45 p.m.             
-    Anchorage.........................  8:15 a.m.-4:45 p.m.             
-    Portland..........................  8 a.m.-4:30 p.m.                
-  20--San Francisco...................  8:30 a.m.-5 p.m.                
-    Honolulu..........................  8 a.m.-4:30 p.m.                
-  21--Los Angeles.....................  8:30 a.m.-5 p.m.                
-    San Diego.........................  8:30 a.m.-5 p.m.                
-  22--Newark..........................  8:45 a.m.-5:15 p.m.             
-  24--Puerto Rico.....................  8:30 a.m.-5 p.m.                
-  25--Indianapolis....................  8:30 a.m.-5 p.m.                
-  26--Memphis.........................  8 a.m.-4:30 p.m.                
-    Little Rock.......................  8 a.m.-4:30 p.m.                
-    Nashville.........................  8 a.m.-4:30 p.m.                
-  27--Denver..........................  8:30 a.m.-5 p.m.                
-  28--Phoenix.........................  8:15 a.m.-4:45 p.m.             
-    Albuquerque.......................  8:15 a.m.-4:45 p.m.             
-    El Paso...........................  8:15 a.m.-4:45 p.m.             
+           Appendix A to Part 102--NLRB Official Office Hours
+
+NLRB Headquarters, Business Hours
+ (Local Time):
+  Washington, DC......................  8:30 a.m.-5 p.m.
+Division of Judges, Business Hours
+ (Local Time):
+  Washington, DC......................  8:30 a.m.-5 p.m.
+  San Francisco.......................  8:30 a.m.-5 p.m.
+  New York............................  8:30 a.m.-5 p.m.
+  Atlanta.............................  8 a.m.-4:30 p.m.
+Regional Office Business Hours (Local
+ Time):
+  1--Boston...........................  8:30 a.m.-5 p.m.
+  2--New York.........................  8:45 a.m.-5:15 p.m.
+  3--Buffalo..........................  8:30 a.m.-5 p.m.
+    Albany............................  8:30 a.m.-5 p.m.
+  4--Philadelphia.....................  8:30 a.m.-5 p.m.
+  5--Baltimore........................  8:15 a.m.-4:45 p.m.
+    Washington, DC....................  8:15 a.m.-4:45 p.m.
+  6--Pittsburgh.......................  8:30 a.m.-5 p.m.
+  7--Detroit..........................  8:15 a.m.-4:45 p.m.
+    Grand Rapids......................  8:15 a.m.-4:45 p.m.
+  8--Cleveland........................  8:15 a.m.-4:45 p.m.
+  9--Cincinnati.......................  8:30 a.m.-5 p.m.
+  10--Atlanta.........................  8 a.m.-4:30 p.m.
+    Birmingham........................  8 a.m.-4:30 p.m.
+  11--Winston-Salem...................  8 a.m.-4:30 p.m.
+  12--Tampa...........................  8 a.m.-4:30 p.m.
+    Jacksonville......................  8 a.m.-4:30 p.m.
+    Miami.............................  8 a.m.-4:30 p.m.
+  13--Chicago.........................  8:30 a.m.-5 p.m.
+  14--St. Louis.......................  8 a.m.-4:30 p.m.
+  15--New Orleans.....................  8 a.m.-4:30 p.m.
+  16--Fort Worth......................  8:15 a.m.-4:45 p.m.
+    Houston...........................  8 a.m.-4:30 p.m.
+    San Antonio.......................  8 a.m.-4:30 p.m.
+  17--Kansas City.....................  8:15 a.m.-4:45 p.m.
+    Tulsa.............................  8:15 a.m.-4:45 p.m.
+  18--Minneapolis.....................  8 a.m.-4:30 p.m.
+    Des Moines........................  8 a.m.-4:30 p.m.
+  19--Seattle.........................  8:15 a.m.-4:45 p.m.
+    Anchorage.........................  8:15 a.m.-4:45 p.m.
+    Portland..........................  8 a.m.-4:30 p.m.
+  20--San Francisco...................  8:30 a.m.-5 p.m.
+    Honolulu..........................  8 a.m.-4:30 p.m.
+  21--Los Angeles.....................  8:30 a.m.-5 p.m.
+    San Diego.........................  8:30 a.m.-5 p.m.
+  22--Newark..........................  8:45 a.m.-5:15 p.m.
+  24--Puerto Rico.....................  8:30 a.m.-5 p.m.
+  25--Indianapolis....................  8:30 a.m.-5 p.m.
+  26--Memphis.........................  8 a.m.-4:30 p.m.
+    Little Rock.......................  8 a.m.-4:30 p.m.
+    Nashville.........................  8 a.m.-4:30 p.m.
+  27--Denver..........................  8:30 a.m.-5 p.m.
+  28--Phoenix.........................  8:15 a.m.-4:45 p.m.
+    Albuquerque.......................  8:15 a.m.-4:45 p.m.
+    El Paso...........................  8:15 a.m.-4:45 p.m.
 
 [[Page 111]]
 
-                                                                        
-    Las Vegas.........................  8:30 a.m.-5 p.m.                
-  29--Brooklyn........................  9 a.m.-5:30 p.m.                
-  30--Milwaukee.......................  8 a.m.-4:30 p.m.                
-  31--Los Angeles.....................  8:30 a.m.-5 p.m.                
-  32--Oakland.........................  8:30 a.m.-5 p.m.                
-  33--Peoria..........................  8:30 a.m.-5 p.m.                
-  34--Hartford........................  8:30 a.m.-5 p.m.                
-                                                                        
+ 
+    Las Vegas.........................  8:30 a.m.-5 p.m.
+  29--Brooklyn........................  9 a.m.-5:30 p.m.
+  30--Milwaukee.......................  8 a.m.-4:30 p.m.
+  31--Los Angeles.....................  8:30 a.m.-5 p.m.
+  32--Oakland.........................  8:30 a.m.-5 p.m.
+  33--Peoria..........................  8:30 a.m.-5 p.m.
+  34--Hartford........................  8:30 a.m.-5 p.m.
+ 
+
 
 [57 FR 4158, Feb. 4, 1992]
 
@@ -8733,8 +8825,8 @@ Sec.
 
 103.100  Offers of reinstatement to employees in Armed Forces.
 
-    Authority:  29 U.S.C. 156, in accordance with the procedure set 
-forth in 5 U.S.C. 553.
+    Authority: 29 U.S.C. 156, in accordance with the procedure set forth 
+in 5 U.S.C. 553.
 
 
 <R04>
@@ -8750,6 +8842,7 @@ college or university which has a gross annual revenue from all sources
 (excluding only contributions which, because of limitation by the 
 grantor, are not available for use for operating expenses) of not less 
 than $1 million.
+
 [35 FR 18370, Dec. 3, 1970]
 
 
@@ -8761,6 +8854,7 @@ under sections 8, 9, and 10 of the Act involving any symphony orchestra
 which has a gross annual revenue from all sources (excluding only 
 contributions which are because of limitation by the grantor not 
 available for use for operating expenses) of not less than $1 million.
+
 [38 FR 6177, Mar. 7, 1973]
 
 
@@ -8770,6 +8864,7 @@ Sec. 103.3  Horseracing and dogracing industries.
     The Board will not assert its jurisdiction in any proceeding under 
 sections 8, 9, and 10 of the Act involving the horseracing and dogracing 
 industries.
+
 [38 FR 9507, Apr. 17, 1973]
 
 
@@ -8797,6 +8892,7 @@ copies of the election notice.
     (d) Failure to post the election notices as required herein shall be 
 grounds for setting aside the election whenever proper and timely 
 objections are filed under the provisions of Sec. 102.69(a).
+
 [52 FR 25215, July 6, 1987]
 
 
@@ -8808,16 +8904,16 @@ objections are filed under the provisions of Sec. 102.69(a).
 Sec. 103.30  Appropriate bargaining units in the health care industry.
 
     (a) This portion of the rule shall be applicable to acute care 
-hospitals, as defined in paragraph (f) of this section:
+hospitals, as defined in paragraph (f) of this section: Except in 
+extraordinary circumstances and in circumstances in which there
 
 [[Page 112]]
 
-Except in extraordinary circumstances and in circumstances in which 
-there are existing non-conforming units, the following shall be 
-appropriate units, and the only appropriate units, for petitions filed 
-pursuant to section 9(c)(1)(A)(i) or 9(c)(1)(B) of the National Labor 
-Relations Act, as amended, except that, if sought by labor 
-organizations, various combinations of units may also be appropriate:
+are existing non-conforming units, the following shall be appropriate 
+units, and the only appropriate units, for petitions filed pursuant to 
+section 9(c)(1)(A)(i) or 9(c)(1)(B) of the National Labor Relations Act, 
+as amended, except that, if sought by labor organizations, various 
+combinations of units may also be appropriate:
     (1) All registered nurses.
     (2) All physicians.
     (3) All professionals except for registered nurses and physicians.
@@ -8878,6 +8974,7 @@ combination among those eight units.
 will determine appropriate units in other health care facilities, as 
 defined in section 2(14) of the National Labor Relations Act, as 
 amended, by adjudication.
+
 [54 FR 16347, Apr. 21, 1989]
 
 [[Page 113]]
@@ -8902,6 +8999,7 @@ the United States at the time such offer or notification is made, also
 notify the employee of his or her right to reinstatement upon 
 application in accordance with the Military Selective Service Act of 
 1967, as amended, after discharge from the Armed Forces.
+
 [37 FR 21939, Oct. 17, 1972, as amended at 38 FR 9506, Apr. 17, 1973]
 
 [[Page 115]]
@@ -8938,9 +9036,9 @@ Sec.
 215.7  The Special Warranty.
 215.8  Department of Labor contact.
 
-    Authority:  Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
+    Authority: Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  60 FR 62969, Dec. 7, 1995, unless otherwise noted.
+    Source: 60 FR 62969, Dec. 7, 1995, unless otherwise noted.
 
 
 <R05>
@@ -9269,7 +9367,7 @@ Appendix I to Part 220--U.S. Carriers Certificated as of October 23,
           1978 Under Section 401 of the Federal Aviation Act of 1958, as 
           Amended
 
-    Authority:  Section 43(f) of the Airline Deregulation Act of 1978, 
+    Authority: Section 43(f) of the Airline Deregulation Act of 1978, 
 Pub. L. No. 95-504, 92 Stat. 1750-1753 (49 U.S.C. 1552); Secretary's 
 Order No. 1-79, 44 FR 13093; Secretary's Order No. 5-96, 62 FR 107, 
 January 2, 1997.
@@ -9277,7 +9375,7 @@ January 2, 1997.
 [[Page 121]]
 
 
-    Source:  50 FR 53101, Dec. 27, 1985, unless otherwise noted.
+    Source: 50 FR 53101, Dec. 27, 1985, unless otherwise noted.
 
 
 <R04>
@@ -9398,6 +9496,7 @@ procedures covering the comprehensive job list required under section
 for air carriers to obtain pertinent information necessary for 
 fulfilling the Secretary's responsibilities under section 43(d)(2) of 
 the Act.
+
 [50 FR 53101, Dec. 27, 1985, as amended at 62 FR 6092, Feb. 10, 1997]
 
 
@@ -9645,6 +9744,7 @@ shall add the employee's name to the list of protected employees and so
 notify the parties; or
     (ii) The employee does not qualify for protected status and so 
 notify the parties.
+
 [50 FR 53101, Dec. 27, 1985, as amended at 62 FR 6092, Feb. 10, 1997]
 
 
@@ -9711,12 +9811,13 @@ number 1214-0002)
 Sec. 220.29  Equal employment opportunity.
 
     (a) Where a covered air carrier is under an equal employment 
-opportunity requirement, the covered air
+opportunity requirement, the covered air carrier shall, to the extent 
+possible,
 
 [[Page 126]]
 
-carrier shall, to the extent possible, satisfy this equal employment 
-obligation by hiring qualified designated employees.
+satisfy this equal employment obligation by hiring qualified designated 
+employees.
     (b) Where a covered air carrier is under an equal employment 
 opportunity requirement and cannot satisfy such requirement by hiring 
 from the pool of qualified designated employees, the carrier may meet 
@@ -9909,9 +10010,9 @@ Sec.
 301.8  Appearances.
 301.9  Awards.
 
-    Authority:  Sec. 3, 44 Stat. 578, as amended; 45 U.S.C. 153.
+    Authority: Sec. 3, 44 Stat. 578, as amended; 45 U.S.C. 153.
 
-    Source:  Circular 1, Oct. 10, 1934, unless otherwise noted.
+    Source: Circular 1, Oct. 10, 1934, unless otherwise noted.
 
 
 <R05>
@@ -10154,13 +10255,12 @@ Sec.
 401.18  Office.
 401.19  Assistant Secretary.
 
-    Authority:  Secs. 3, 208, 301, 401, 402, 73 Stat. 520, 529, 530, 
-532, 534 (29 U.S.C. 402, 438, 461, 481, 482); Secretary's Order No. 5-
-96, 62 FR 107, January 2, 1997; Sec. 401.4 also issued under sec. 320 of 
-Title III of the Bankruptcy Reform Act of 1978, Pub. L. 95-598, 92 Stat. 
-2678.
+    Authority: Secs. 3, 208, 301, 401, 402, 73 Stat. 520, 529, 530, 532, 
+534 (29 U.S.C. 402, 438, 461, 481, 482); Secretary's Order No. 5-96, 62 
+FR 107, January 2, 1997; Sec. 401.4 also issued under sec. 320 of Title 
+III of the Bankruptcy Reform Act of 1978, Pub. L. 95-598, 92 Stat. 2678.
 
-    Source:  28 FR 14380, Dec. 27, 1963, unless otherwise noted.
+    Source: 28 FR 14380, Dec. 27, 1963, unless otherwise noted.
 
 
 <R05>
@@ -10199,6 +10299,7 @@ partnerships, associations, corporations, legal representatives, mutual
 companies, joint-stock companies, trusts, unincorporated organizations, 
 trustees, trustees in cases under title 11 of the United States Code, or 
 receivers.
+
 [45 FR 70445, Oct. 24, 1980, as amended at 59 FR 15115, Mar. 31, 1994]
 
 
@@ -10366,6 +10467,7 @@ Sec. 401.18  Office.
 
     Office means the Office of Labor-Management Standards, Employment 
 Standards Administration, United States Department of Labor.
+
 [62 FR 6092, Feb. 10, 1997]
 
 
@@ -10374,6 +10476,7 @@ Sec. 401.19  Assistant Secretary.
 
     Assistant Secretary means the Assistant Secretary of Labor for 
 Employment Standards, head of the Employment Standards Administration.
+
 [62 FR 6092, Feb. 10, 1997]
 
 
@@ -10399,10 +10502,10 @@ Sec.
 402.12  Publication of reports required by this part.
 402.13  OMB control number.
 
-    Authority:  Secs. 201, 207, 208, 73 Stat. 524, 529 (29 U.S.C. 431, 
+    Authority: Secs. 201, 207, 208, 73 Stat. 524, 529 (29 U.S.C. 431, 
 437, 438); Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  28 FR 14381, Dec. 27, 1963, unless otherwise noted.
+    Source: 28 FR 14381, Dec. 27, 1963, unless otherwise noted.
 
 
 <R05>
@@ -10416,6 +10519,7 @@ organization of such a constitution and bylaws which it has previously
 adopted and under which it is operating when the report prescribed by 
 Sec. 402.2 is filed. As used in this part constitution and bylaws means 
 the basic written rules governing the organization.
+
 [28 FR 14381, Dec. 27, 1963, as amended at 40 FR 58856, Dec. 19, 1975]
 
 
@@ -10433,7 +10537,6 @@ bylaws adopted by the reporting labor organization.
 ---------------------------------------------------------------------------
 
     \1\ Filed as part of the original document.
----------------------------------------------------------------------------
 
 [28 FR 14381, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
@@ -10477,6 +10580,7 @@ organization.
 If the constitution and bylaws of the adopting labor organization 
 include other documents, this shall be shown in such report and copies 
 shall be filed as provided in paragraph (a) of this section.
+
 [28 FR 14381, Dec. 27, 1963, as amended at 35 FR 2990, Feb. 13, 1970; 40 
 FR 58856, Dec. 19, 1975; 50 FR 31309, Aug. 1, 1985]
 
@@ -10505,6 +10609,7 @@ signed by its president and secretary or corresponding principal
 officers. The amended Form LM-1 shall be filed when the labor 
 organization files its annual financial report as provided in part 403 
 of this chapter.
+
 [58 FR 67604, Dec. 21, 1993]
 
 
@@ -10522,11 +10627,11 @@ the latter, such report shall also state the name and mailing address of
 the labor organization into which it has been consolidated, merged, or 
 otherwise absorbed. Such report shall be submitted on Form LM-2 in 
 connection with the terminal financial report required by Sec. 403.5 of 
-this chapter and shall be signed by the
+this chapter and shall be signed by the president and treasurer, or 
+corresponding principal officers, of the
 
 [[Page 139]]
 
-president and treasurer, or corresponding principal officers, of the 
 labor organization at the time of its termination or loss of reporting 
 identity and, together with a copy thereof, shall be filed with the 
 Office of Labor-Management Standards within 30 days of the effective 
@@ -10542,6 +10647,7 @@ Organization Annual Report, pursuant to Secs. 403.4 and 403.5 of this
 chapter may file the terminal report called for in this section on Form 
 LM-4. The report must be signed by the president and treasurer, or 
 corresponding principal officers, of the labor organization.
+
 [28 FR 14381, Dec. 27, 1963, as amended at 62 FR 6092, Feb. 10, 1997]
 
 
@@ -10605,20 +10711,23 @@ therewith, and every such labor organization and its officers shall be
 under a duty to permit such member for just cause to examine any books, 
 records, and accounts necessary to verify such report and constitution 
 and bylaws.
-[28 FR 14381, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
-[[Page 140]]
+[28 FR 14381, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
 
 <R05>
 Sec. 402.11  Attorney-client communications exempted.
 
     Nothing contained in this part shall be construed to require an 
-attorney who is a member in good standing of the bar of any State, to 
-include in any report required to be filed pursuant to the provisions of 
-section 201(a) of the Act, and of this part, any information which was 
-lawfully communicated to such attorney by any of his clients in the 
-course of a legitimate attorney-client relationship.
+attorney
+
+[[Page 140]]
+
+who is a member in good standing of the bar of any State, to include in 
+any report required to be filed pursuant to the provisions of section 
+201(a) of the Act, and of this part, any information which was lawfully 
+communicated to such attorney by any of his clients in the course of a 
+legitimate attorney-client relationship.
 
 
 <R05>
@@ -10628,6 +10737,7 @@ Sec. 402.12  Publication of reports required by this part.
 required by this part, and the furnishing by the Office of Labor-
 Management Standards of copies thereof to any person requesting them, 
 shall be governed by part 70 of this title.
+
 [35 FR 2990, Feb. 13, 1970]
 
 
@@ -10637,6 +10747,7 @@ Sec. 402.13  OMB control number.
     The collecting of information requirements in this part have been 
 approved by the Office of Management and Budget and assigned OMB control 
 number 1215-0188.
+
 [59 FR 15115, Mar. 31, 1994, as amended at 63 FR 33779, June 19, 1998]
 
 
@@ -10659,10 +10770,10 @@ Sec.
 403.10  Publication of reports required by this part.
 403.11  OMB control number.
 
-    Authority:  Secs. 202, 207, 208, 73 Stat. 525, 529 (29 U.S.C. 432, 
+    Authority: Secs. 202, 207, 208, 73 Stat. 525, 529 (29 U.S.C. 432, 
 437, 438); Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  28 FR 14383, Dec. 27, 1963, unless otherwise noted.
+    Source: 28 FR 14383, Dec. 27, 1963, unless otherwise noted.
 
 
 <R05>
@@ -10683,6 +10794,7 @@ Act for only a portion of its fiscal year because the labor organization
 first becomes subject to the Act during such fiscal year, may consider 
 such portion as the entire fiscal year in making its report under this 
 part.
+
 [28 FR 14383, Dec. 27, 1963, as amended at 42 FR 59070, Nov. 15, 1977]
 
 
@@ -10702,14 +10814,16 @@ categories as prescribed by the Assistant Secretary under the provisions
 of this part, the information required by section 201(b) of the Act and 
 found by the Assistant Secretary under section 208 thereof to be 
 necessary in such report.
+    (c) If, on the date for filing the annual financial report of a 
+labor organization required under section 201(b) of
 
 [[Page 141]]
 
-    (c) If, on the date for filing the annual financial report of a 
-labor organization required under section 201(b) of the Act and this 
-section, such labor organization is in trusteeship, the labor 
-organization which has assumed trusteeship over such labor organization 
-shall file such report as provided in Sec. 408.5 of this chapter.
+the Act and this section, such labor organization is in trusteeship, the 
+labor organization which has assumed trusteeship over such labor 
+organization shall file such report as provided in Sec. 408.5 of this 
+chapter.
+
 [28 FR 14383, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
 
@@ -10721,7 +10835,6 @@ otherwise in this part, file an annual financial report as required by
 Sec. 403.2, prepared on United States Department of Labor Form LM-2, 
 ``Labor Organization Annual Report,'' in the detail required by the 
 instructions accompanying the form and constituting a part thereof.
-
     Note: Form LM-2 was revised at 58 FR 67594, December 21, 1993.
 
 [28 FR 14383, Dec. 27, 1963, as amended at 62 FR 6092, Feb. 10, 1997]
@@ -10781,14 +10894,14 @@ intent to begin submitting simplified annual reports for affiliated
 local labor organizations;
     (5) The national organization files the terminal report required by 
 29 CFR 403.5(a) on Form LM-3, or LM-4, as may be appropriate, clearly 
-labeled on the form as a terminal report, for any local
+labeled on the form as a terminal report, for any local labor 
+organization which has lost its
 
 [[Page 142]]
 
-labor organization which has lost its identity through merger, 
-consolidation, or otherwise if the national organization filed a 
-simplified annual report on behalf of the local labor organization for 
-its last reporting period; and
+identity through merger, consolidation, or otherwise if the national 
+organization filed a simplified annual report on behalf of the local 
+labor organization for its last reporting period; and
     (6) The national organization with which it is affiliated assumes 
 responsibility for the accuracy of, and submits with its annual report 
 and the simplified annual reports for the affiliated local labor 
@@ -10833,45 +10946,44 @@ was filed for the last reporting period.
                         simplified annual report
 
 Affiliation name:
- _______________________________________________________________________
+_______________________________________________________________________
 Designation name and number:
- _______________________________________________________________________
+_______________________________________________________________________
 Unit name:
- _______________________________________________________________________
+_______________________________________________________________________
 Mailing address:
- _______________________________________________________________________
+_______________________________________________________________________
 Name of person:
- _______________________________________________________________________
+_______________________________________________________________________
 Number and street:
- _______________________________________________________________________
+_______________________________________________________________________
 City, State and zip:
- _______________________________________________________________________
+_______________________________________________________________________
 File number:
- _______________________________________________________________________
+_______________________________________________________________________
 Period covered:
- _______________________________________________________________________
+_______________________________________________________________________
 From    Through
- _______________________________________________________________________
+_______________________________________________________________________
 Where chartered to operate
- _______________________________________________________________________
+_______________________________________________________________________
 City:
- _______________________________________________________________________
+_______________________________________________________________________
 County:
- _______________________________________________________________________
+_______________________________________________________________________
 State:
- _______________________________________________________________________
+_______________________________________________________________________
 Names and Titles of all officers:
- _______________________________________________________________________
+_______________________________________________________________________
 
            For certification see NHQ file folder file number:
 
- President______________________________________________________________
- Where signed___________________________________________________________
- Date___________________________________________________________________
- Treasurer______________________________________________________________
- Where signed___________________________________________________________
- Date___________________________________________________________________
-
+President_______________________________________________________________
+Where signed____________________________________________________________
+Date____________________________________________________________________
+Treasurer_______________________________________________________________
+Where signed____________________________________________________________
+Date____________________________________________________________________
     Note: Forms LM-3 and LM-4 were revised at 58 FR 67594, December 21, 
 1993.
 
@@ -10890,13 +11002,12 @@ as a reporting labor organization through merger, consolidation, or
 otherwise, shall, within 30 days after such loss, file a terminal 
 financial report, and one copy, with the Office of Labor-Management 
 Standards, on Form LM-2, LM-3, or LM-4, as may be appropriate, signed by 
-the
+the president and treasurer or corresponding principal officers of the
 
 [[Page 143]]
 
-president and treasurer or corresponding principal officers of the labor 
-organization immediately prior to the time of its loss of reporting 
-identity.
+labor organization immediately prior to the time of its loss of 
+reporting identity.
     (b) Every labor organization which has assumed trusteeship over a 
 subordinate labor organization shall file within 90 days after the 
 termination of such trusteeship on behalf of the subordinate labor 
@@ -10910,6 +11021,7 @@ loss of reporting identity, or the portion of the subordinate labor
 organization's fiscal year ending on the effective date of the 
 termination of trusteeship over such subordinate labor organization, as 
 the case may be.
+
 [28 FR 14383, Dec. 27, 1963, as amended at 50 FR 31309, 31310, Aug. 1, 
 1985; 62 FR 6092, Feb. 10, 1997]
 
@@ -10966,6 +11078,7 @@ Sec. 403.10  Publication of reports required by this part.
 required by this part, and the furnishing by the Office of Labor-
 Management Standards of copies thereof to any person requesting them, 
 shall be governed by part 70 of this title.
+
 [35 FR 2990, Feb. 13, 1970]
 
 
@@ -10975,6 +11088,7 @@ Sec. 403.11  OMB control number.
     The collecting of information requirements in this part have been 
 approved by the Office of Management and Budget and assigned OMB control 
 number 1215-0188.
+
 [59 FR 15115, Mar. 31, 1994, as amended at 63 FR 33779, June 19, 1998]
 
 
@@ -10998,10 +11112,10 @@ Sec.
 404.8  Publication of reports required by this part.
 404.9  OMB control number.
 
-    Authority:  Secs. 202, 207, 208, 73 Stat. 525, 529 (29 U.S.C. 432, 
+    Authority: Secs. 202, 207, 208, 73 Stat. 525, 529 (29 U.S.C. 432, 
 437, 438); Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  28 FR 14384, Dec. 27, 1963, unless otherwise noted.
+    Source: 28 FR 14384, Dec. 27, 1963, unless otherwise noted.
 
 
 <R05>
@@ -11041,6 +11155,7 @@ acting directly or indirectly as an employer or as an agent of an
 employer in relation to an employee but does not include the United 
 States or any corporation wholly owned by the Government of the United 
 States or any State or political subdivision thereof.
+
 [28 FR 14384, Dec. 27, 1963, as amended at 50 FR 31310, Aug. 1, 1985]
 
 
@@ -11062,6 +11177,7 @@ his fiscal year, a signed report containing the detailed information
 required therein by section 202(a) of the Act, and found by the 
 Assistant Secretary under section 208 thereof to be necessary in such 
 report.
+
 [28 FR 14384, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
 
@@ -11131,6 +11247,7 @@ Sec. 404.8  Publication of reports required by this part.
 required by this part, and the furnishing by the Office of Labor-
 Management Standards of copies thereof to any person requesting them, 
 shall be governed by part 70 of this title.
+
 [35 FR 2990, Feb. 13, 1970]
 
 
@@ -11140,6 +11257,7 @@ Sec. 404.9  OMB control number.
     The collecting of information requirements in this part have been 
 approved by the Office of Management and Budget and assigned OMB control 
 number 1215-0188.
+
 [59 FR 15116, Mar. 31, 1994, as amended at 63 FR 33779, June 19, 1998]
 
 
@@ -11163,10 +11281,10 @@ Sec.
 405.10  Publication of reports required by this part.
 405.11  OMB control number.
 
-    Authority:  Secs. 203, 207, 208, 73 Stat. 526, 529 (29 U.S.C. 433, 
+    Authority: Secs. 203, 207, 208, 73 Stat. 526, 529 (29 U.S.C. 433, 
 437, 438); Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  28 FR 14384, Dec. 27, 1963, unless otherwise noted.
+    Source: 28 FR 14384, Dec. 27, 1963, unless otherwise noted.
 
 
 <R05>
@@ -11190,6 +11308,7 @@ persons performing or authorized to perform principal executive
 functions corresponding to those of president and treasurer, of any 
 employer engaged in whole or in part in the performance of the 
 activities described in section 203(a) of the Act.
+
 [28 FR 14384, Dec. 27, 1963, as amended at 42 FR 59070, Nov. 15, 1977]
 
 
@@ -11206,6 +11325,7 @@ corresponding principal officers, together with a true copy thereof,
 containing the detailed information required therein by section 203(a) 
 of the Act and found by the Assistant Secretary under section 208 
 thereof to be necessary in such report.
+
 [28 FR 14384, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
 
@@ -11221,7 +11341,6 @@ and constituting a part thereof.
 ---------------------------------------------------------------------------
 
      <SUP>1</SUP> Filed as part of the original document.
----------------------------------------------------------------------------
 
 [28 FR 14384, Dec. 27, 1963, as amended at 38 FR 10715, May 1, 1973; 42 
 FR 59070, Nov. 15, 1977]
@@ -11257,6 +11376,7 @@ submission of special reports on pertinent information, including but
 not necessarily confined to reports with respect to specifically 
 identified personnel on the matters referred to in the second paragraph 
 under the instructions for Question 8A of Form LM-10.
+
 [42 FR 59070, Nov. 15, 1977]
 
 
@@ -11305,6 +11425,7 @@ Question 8C of Form LM-10 does not include matters protected by section
 8(c) of the National Labor Relations Act, as amended, because the 
 definition in section 203(g) of the term ``interfere with, restrain, or 
 coerce'', which is used in Question 8C does not cover such matters.
+
 [42 FR 59070, Nov. 15, 1977]
 
 
@@ -11338,6 +11459,7 @@ Sec. 405.10  Publication of reports required by this part.
 required by this part, and the furnishing by the Office of Labor-
 Management Standards of copies thereof to any person requesting them, 
 shall be governed by part 70 of this title.
+
 [35 FR 2990, Feb. 13, 1970]
 
 
@@ -11347,6 +11469,7 @@ Sec. 405.11  OMB control number.
     The collecting of information requirements in this part have been 
 approved by the Office of Management and Budget and assigned OMB control 
 number 1215-0188.
+
 [59 FR 15116, Mar. 31, 1994, as amended at 63 FR 33779, June 19, 1998]
 
 
@@ -11373,10 +11496,10 @@ Sec.
 [[Page 148]]
 
 
-    Authority:  Secs. 203, 207, 208, 73 Stat. 526, 529 (29 U.S.C. 433, 
+    Authority: Secs. 203, 207, 208, 73 Stat. 526, 529 (29 U.S.C. 433, 
 437, 438); Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  28 FR 14385, Dec. 27, 1963, unless otherwise noted.
+    Source: 28 FR 14385, Dec. 27, 1963, unless otherwise noted.
 
 
 <R05>
@@ -11408,6 +11531,7 @@ an employer and any other person, except bona fide regular officers,
 supervisors or employees of their employer to the extent to which they 
 undertook to perform services as such bona fide regular officers, 
 supervisors or employees of their employer.
+
 [28 FR 14385, Dec. 27, 1963, as amended at 42 FR 59070, Nov. 15, 1977; 
 63 FR 33779, June 19, 1998]
 
@@ -11446,6 +11570,7 @@ days of the change.
 corresponding principal officers of the reporting person. If the report 
 is filed by an individual in his own behalf, it need only bear his 
 signature.
+
 [28 FR 14385, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
 
@@ -11472,6 +11597,7 @@ were made or received as a result of such an agreement or arrangement.
 corresponding principal officers of the reporting person. If the report 
 is filed by an individual in his own behalf, it need only bear his 
 signature.
+
 [28 FR 14385, Dec. 27, 1963, as amended at 50 FR 31310, Aug. 1, 1985]
 
 
@@ -11495,6 +11621,7 @@ been merged, consolidated or otherwise absorbed.
 section, the period covered thereby shall be the portion of the 
 reporting person's fiscal year ending on the effective date of the 
 termination or loss of identity.
+
 [28 FR 14385, Dec. 27, 1963, as amended at 50 FR 31310, Aug. 1, 1985]
 
 
@@ -11571,6 +11698,7 @@ Sec. 406.9  Publication of reports required by this part.
 required by this part, and the furnishing by the Office of Labor-
 Management Standards of copies thereof to any person requesting them, 
 shall be governed by part 70 of this title.
+
 [35 FR 2990, Feb. 13, 1970]
 
 
@@ -11579,8 +11707,9 @@ Sec. 406.10  OMB control number.
 
     The collecting of information requirements in this part have been 
 approved by the Office of Management and Budget and assigned OMB control 
-number 1214-0001.
-[59 FR 15116, Mar. 31, 1994]
+number 1215-0188.
+
+[59 FR 15116, Mar. 31, 1994 as amended at 63 FR 46888, Sept. 3, 1998]
 
 
 <R03>
@@ -11605,11 +11734,11 @@ Sec.
 408.12  Publication of reports required by this part.
 408.13  OMB control number.
 
-    Authority:  Secs. 201, 207, 208, 301, 73 Stat. 524, 529, 530 (29 
+    Authority: Secs. 201, 207, 208, 301, 73 Stat. 524, 529, 530 (29 
 U.S.C. 431, 437, 438, 461); Secretary's Order No. 5-96, 62 FR 107, 
 January 2, 1997.
 
-    Source:  28 FR 14387, Dec. 27, 1963, unless otherwise noted.
+    Source: 28 FR 14387, Dec. 27, 1963, unless otherwise noted.
 
 
 <R05>
@@ -11629,11 +11758,13 @@ constitution or bylaws.
 parent labor organization or other labor organization which is composed 
 of delegates from labor organizations and which formulates policy on 
 such matters as wages, hours, or other conditions of employment or 
-recommends or takes any action in the name of the participating labor 
-organizations. Such a body includes, for example, a district council, 
-area conference or joint board.
+recommends or
 
 [[Page 151]]
+
+takes any action in the name of the participating labor organizations. 
+Such a body includes, for example, a district council, area conference 
+or joint board.
 
 
 <R05>
@@ -11646,6 +11777,7 @@ trusteeship, a trusteeship report, pursuant to Sec. 408.3, together with
 a true copy thereof, signed by its president and treasurer, or 
 corresponding principal officers, as well as by the trustees of such 
 subordinate labor organization.
+
 [28 FR 14387, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
 
@@ -11657,6 +11789,7 @@ organization required to file an initial report under Sec. 408.2 shall
 file such report on United States Department of Labor Form LM-15 
 entitled ``Trusteeship Report'' in the detail required by the 
 instructions accompanying such form and constituting a part thereof.
+
 [28 FR 14387, Dec. 27, 1963, as amended at 42 FR 59070, Nov. 15, 1977]
 
 
@@ -11675,6 +11808,7 @@ body to which the subordinate organization sent delegates or would have
 sent delegates if not in trusteeship or (b) an election of officers of 
 the labor organization assuming trusteeship, Form LM-15A should be used 
 to report the required information with respect thereto.
+
 [42 FR 59070, Nov. 15, 1977]
 
 
@@ -11700,6 +11834,7 @@ shall file with the Office of Labor-Management Standards on behalf of
 the subordinate labor organization any change in the information 
 required by part 402 of this chapter in accordance with the procedure 
 set out in Sec. 402.4.
+
 [63 FR 33779, June 19, 1998]
 
 
@@ -11719,15 +11854,16 @@ Sec. 408.8  Terminal trusteeship information report.
 
     There shall be filed at the same time that the terminal trusteeship 
 financial report is filed a terminal trusteeship information report on 
-Form LM-16. If in answer to Item 6 of Form LM-16, there was (a) a 
-convention or other policy determining body to which the subordinate 
-organization sent delegates or would have sent delegates if not in 
-trusteeship or (b) an election of officers
+Form LM-16. If in answer to Item 6 of Form LM-16,
 
 [[Page 152]]
 
-of the labor organization assuming trusteeship, Form LM-15A should be 
-used to report the required information with respect thereto.
+there was (a) a convention or other policy determining body to which the 
+subordinate organization sent delegates or would have sent delegates if 
+not in trusteeship or (b) an election of officers of the labor 
+organization assuming trusteeship, Form LM-15A should be used to report 
+the required information with respect thereto.
+
 [40 FR 58856, Dec. 19, 1975]
 
 
@@ -11770,6 +11906,7 @@ Sec. 408.12  Publication of reports required by this part.
 required by this part, and the furnishing by the Office of Labor-
 Management Standards of copies thereof to any person requesting them, 
 shall be governed by part 70 of this title.
+
 [35 FR 2990, Feb. 13, 1970]
 
 
@@ -11778,8 +11915,9 @@ Sec. 408.13  OMB control number.
 
     The collecting of information requirements in this part have been 
 approved by the Office of Management and Budget and assigned OMB control 
-number 1214-0001.
-[59 FR 15116, Mar. 31, 1994]
+number 1215-0188.
+
+[59 FR 15116, Mar. 31, 1994, as amended at 63 FR 46888, Sept. 3, 1998]
 
 
 <R03>
@@ -11797,11 +11935,11 @@ Sec.
 409.6  Publication of reports required by this part.
 409.7  OMB control number.
 
-    Authority:  Secs. 207, 208, 211; 79 Stat. 888; 88 Stat. 852 (29 
+    Authority: Secs. 207, 208, 211; 79 Stat. 888; 88 Stat. 852 (29 
 U.S.C. 437, 438, 441); Secretary's Order No. 5-96, 62 FR 107, January 2, 
 1997.
 
-    Source:  31 FR 11177, Aug. 24, 1966, unless otherwise noted.
+    Source: 31 FR 11177, Aug. 24, 1966, unless otherwise noted.
 
 
 <R05>
@@ -11824,19 +11962,19 @@ Sec. 409.2  Annual report.
 
     Each surety company having in force any bond required by section 502 
 of the Labor-Management Reporting and Disclosure Act of 1959 or section 
-412 of the Employee Retirement Income Security Act during the fiscal 
-year, shall file with the Office of Labor-Management
+412 of the Employee Retirement Income Security
 
 [[Page 153]]
 
-Standards a report, on U.S. Department of Labor Form S-1 entitled 
-``Surety Company Annual Report'' \1\ signed by the president and 
-treasurer or corresponding principal officers, in the detail required by 
-the instructions accompanying such form and constituting a part thereof.
+Act during the fiscal year, shall file with the Office of Labor-
+Management Standards a report, on U.S. Department of Labor Form S-1 
+entitled ``Surety Company Annual Report'' \1\ signed by the president 
+and treasurer or corresponding principal officers, in the detail 
+required by the instructions accompanying such form and constituting a 
+part thereof.
 ---------------------------------------------------------------------------
 
     \1\ Filed as part of the original document.
----------------------------------------------------------------------------
 
 [42 FR 59070, Nov. 15, 1977, as amended at 50 FR 31309, Aug. 1, 1985; 50 
 FR 31310, Aug. 1, 1985]
@@ -11854,6 +11992,7 @@ is stipulated in lieu of the statutory period of 90 days (sec. 207(b),
 finding under section 211 (79 Stat. 888) of the Act that information 
 required to be reported cannot be practicably ascertained within 90 days 
 of the end of the fiscal year.
+
 [31 FR 11177, Aug. 24, 1966, as amended at 50 FR 31310, Aug. 1, 1985]
 
 
@@ -11886,6 +12025,7 @@ Sec. 409.6  Publication of reports required by this part.
 report or other document filed as required by this part, and the 
 furnishing by the Office of Labor-Management Standards of copies thereof 
 to any person requesting them.
+
 [35 FR 2990, Feb. 13, 1970]
 
 
@@ -11895,6 +12035,7 @@ Sec. 409.7  OMB control number.
     The collecting of information requirements in this part have been 
 approved by the Office of Management and Budget and assigned OMB control 
 number 1215-0188.
+
 [59 FR 15116, Mar. 31, 1994, as amended at 63 FR 33779, June 19, 1998]
 
 
@@ -11927,13 +12068,12 @@ Sec.
 417.14  Form and time for filing of appeal with the Assistant Secretary.
 417.15  Decision of the Assistant Secretary.
 
+[[Page 154]]
+
 Subpart B--Procedures Upon Failure of Union to Take Appropriate Remedial 
                   Action Following Subpart A Procedures
 
 417.16  Initiation of proceedings.
-
-[[Page 154]]
-
 417.17  Investigation of complaint and court action.
 417.18  Hearings--removal of officers of local labor organizations.
 417.19  Assistant Secretary's representative.
@@ -11944,10 +12084,10 @@ Subpart B--Procedures Upon Failure of Union to Take Appropriate Remedial
 417.24  Appeal to the Assistant Secretary.
 417.25  Certification of results of vote.
 
-    Authority:  Secs. 401, 402, 73 Stat. 533, 534 (29 U.S.C. 481, 482); 
+    Authority: Secs. 401, 402, 73 Stat. 533, 534 (29 U.S.C. 481, 482); 
 Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  29 FR 8264, July 1, 1964, unless otherwise noted.
+    Source: 29 FR 8264, July 1, 1964, unless otherwise noted.
 
                                  General
 
@@ -12010,10 +12150,11 @@ hearing, a decision is reached as to the guilt or innocence of the
 accused.
     (4) If the hearing upon such charges is held before a trial 
 committee or other duly authorized body, reasonable notice of such 
-body's findings is given to the membership of the organization promptly.
+body's findings is given
 
 [[Page 155]]
 
+to the membership of the organization promptly.
     (5) If such accused officer(s) is found guilty, he may be removed by 
 a procedure which includes:
     (i) A secret ballot vote of the members at an appropriately called 
@@ -12035,6 +12176,7 @@ interests are or may be affected by a proceeding.
     (f) Court means the district court of the United States in the 
 district in which the labor organization in question maintains its 
 principal office.
+
 [29 FR 8264, July 1, 1964, as amended at 29 FR 8480, July 7, 1964; 29 FR 
 9537, July 14, 1964; 50 FR 31310, Aug. 1, 1985; 62 FR 6093, Feb. 10, 
 1997; 63 FR 33779, June 19, 1998]
@@ -12092,12 +12234,12 @@ organization the Chief, DOE still finds probable cause to believe that
 the removal procedures are not adequate and if agreement for the 
 adoption of adequate procedures for removal has not been achieved and 
 the labor organization refuses to enter into a stipulation to comply 
-with the provisions of section 401(h) of the Act, the Chief, DOE shall 
-submit his findings
+with the provisions of section 401(h) of the Act, the
 
 [[Page 156]]
 
-and recommendations to the Assistant Secretary.
+Chief, DOE shall submit his findings and recommendations to the 
+Assistant Secretary.
     (2) Upon consideration of the Chief, DOE's recommendations, the 
 Assistant Secretary may order a hearing to be conducted before an 
 Administrative Law Judge duly assigned by him to receive evidence and 
@@ -12105,6 +12247,7 @@ arguments (i) on the applicability of section 401(h) of the Act to the
 labor organization involved, and (ii) on the question of whether its 
 constitution and bylaws provide an adequate procedure for the removal of 
 an elected union officer guilty of serious misconduct.
+
 [29 FR 8264, July 1, 1964, as amended at 50 FR 31310, Aug. 1, 1985; 62 
 FR 6093, Feb. 10, 1997]
 
@@ -12171,6 +12314,7 @@ Sec. 417.7  Transcript.
 proceedings. Copies of the official transcript shall be made available 
 upon request addressed to the Assistant Secretary in accordance with the 
 provisions of part 70 of this title.
+
 [50 FR 31310, Aug. 1, 1985, as amended at 63 FR 33779, June 19, 1998]
 
 
@@ -12203,6 +12347,7 @@ has been closed, no further information shall be received on any matter,
 except where provision shall have been made for it at the hearing, or 
 except as the Administrative Law Judge or Assistant Secretary may direct 
 by reopening the hearing.
+
 [29 FR 8264, July 1, 1964, as amended at 29 FR 8480, July 7, 1964]
 
 
@@ -12289,6 +12434,7 @@ proceedings as he deems appropriate. His decision shall become a part of
 the record and shall include a statement of his findings and 
 conclusions, as well as the reasons or basis therefor, upon all material 
 issues.
+
 [29 FR 8264, July 1, 1964, as amended at 29 FR 8480, July 7, 1964]
 
 
@@ -12319,6 +12465,7 @@ has been met:
 constitution and bylaws of the organization, or
     (2) The member has invoked such remedies without obtaining a final 
 decision within three calendar months after invoking them.
+
 [59 FR 65716, Dec. 21, 1994, as amended at 62 FR 6093, Feb. 10, 1997]
 
 
@@ -12335,6 +12482,7 @@ district in which such labor organization maintains its principal
 office, to direct the conduct of a hearing and vote upon the removal of 
 officer(s) under the supervision of the Assistant Secretary as provided 
 in section 402(b) of the Act.
+
 [59 FR 65717, Dec. 21, 1994]
 
 
@@ -12367,6 +12515,7 @@ petition of any interested person the Assistant Secretary's
 Representative may disqualify any officer(s) or member(s) of the union 
 from participation in the conduct of the hearing (except in the capacity 
 of witness or counsel).
+
 [29 FR 8264, July 1, 1964, as amended at 29 FR 8480, July 7, 1964]
 
 
@@ -12395,6 +12544,7 @@ hearings. In the event he does so require, copies of the official
 transcript shall be made available upon request addressed to the 
 Assistant Secretary in accordance with the provisions of part 70 of this 
 title.
+
 [50 FR 31310, Aug. 1, 1985, as amended at 63 FR 33779, June 19, 1998]
 
 
@@ -12444,6 +12594,7 @@ issue a decision or may order further hearing,
 [[Page 160]]
 
 a new vote, or such further proceedings as he deems appropriate.
+
 [29 FR 8264, July 1, 1964, as amended at 50 FR 31310, Aug. 1, 1985]
 
 
@@ -12470,10 +12621,10 @@ Sec.
 451.5  ``State or local central body.''
 451.6  Extraterritorial application.
 
-    Authority:  Secs. 3, 208, 401, 73 Stat. 520, 529, 532 (29 U.S.C. 
-402, 438, 481); Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
+    Authority: Secs. 3, 208, 401, 73 Stat. 520, 529, 532 (29 U.S.C. 402, 
+438, 481); Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  28 FR 14388, Dec. 27, 1963, unless otherwise noted.
+    Source: 28 FR 14388, Dec. 27, 1963, unless otherwise noted.
 
 
 <R05>
@@ -12548,6 +12699,7 @@ to the meaning of ``labor organization'' and ``labor organization * * *
 in an industry affecting commerce'' are inconsistent or in conflict with 
 the principles stated in this part, they are hereby rescinded and 
 withdrawn.
+
 [28 FR 14388, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
 
@@ -12683,6 +12835,7 @@ subordinate to a national or international labor organization is a
 conferences and the joint councils of the International Brotherhood of 
 Teamsters and similar units of other national and international labor 
 organizations.
+
 [28 FR 14388, Dec. 27, 1963, as amended at 42 FR 59071, Nov. 15, 1977; 
 50 FR 31310, Aug. 1, 1985; 62 FR 6093, Feb. 10, 1997]
 
@@ -12796,6 +12949,7 @@ or district councils. Included, for example, are councils of
 [[Page 164]]
 
 building and construction trades labor organizations.
+
 [28 FR 14388, Dec. 27, 1963, as amended at 42 FR 59071, Nov. 15, 1977]
 
 
@@ -12821,6 +12975,7 @@ coordinating activities.
 subordinate bodies (1) of a single national or international union; or 
 (2) of a particular department of a federation or similar association of 
 national or international unions.
+
 [29 FR 8060, June 25, 1964]
 
 
@@ -12888,10 +13043,10 @@ Sec.
 
 452.11  Organizations to which election provisions apply.
 452.12  Organizations comprised of government employees.
+452.13  Extraterritorial application.
 
 [[Page 165]]
 
-452.13  Extraterritorial application.
 452.14  Newly formed or merged labor organizations.
 452.15  Effect of trusteeship.
 452.16  Offices which must be filled by election.
@@ -13009,10 +13164,10 @@ Sec.
 452.107  Observers.
 452.108  Publication of results.
 452.109  Constitution of labor organization.
+452.110  Adequate safeguards.
 
 [[Page 166]]
 
-452.110  Adequate safeguards.
 452.111  Campaigning in polling places.
 452.112  Form of ballot; slate voting.
 452.113  Sectional balloting.
@@ -13050,10 +13205,10 @@ Sec.
 452.137  Effective dates.
 452.138  Application of other laws.
 
-    Authority:  Secs. 401, 402, 73 Stat. 532, 534 (29 U.S.C. 481, 482); 
+    Authority: Secs. 401, 402, 73 Stat. 532, 534 (29 U.S.C. 481, 482); 
 Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  38 FR 18324, July 9, 1973, unless otherwise noted.
+    Source: 38 FR 18324, July 9, 1973, unless otherwise noted.
 
 
 <R04>
@@ -13123,6 +13278,7 @@ Sec. 452.2  Application of union constitution and bylaws.
 conducted in accordance with the validly adopted constitution and bylaws 
 of the labor organizations insofar as they are not inconsistent with the 
 provisions of the Act.
+
 [38 FR 18324, July 9, 1973, as amended at 63 FR 33780, June 19, 1998]
 
 
@@ -13182,7 +13338,6 @@ violations found are such that the outcome may have been affected. \6\
     \6\ Dunlop v. Bachowski, 421 U.S. 560, 570 (1975), citing Wirtz v. 
 Glass Bottle Blowers, 389 U.S. 463, 472 (1968) and Schonfeld v. Wirtz, 
 285 F. Supp. 705, 707-708 (S.D.N.Y. 1966).
----------------------------------------------------------------------------
 
 [38 FR 18324, July 9, 1973, as amended at 50 FR 31310, Aug. 1, 1985; 63 
 FR 33780, June 19, 1998]
@@ -13193,6 +13348,7 @@ Sec. 452.6  Delegation of enforcement authority.
 
     The authority of the Secretary under the Act has been delegated in 
 part to the Assistant Secretary.
+
 [38 FR 18324, July 9, 1973, as amended at 50 FR 31309, Aug. 1, 1985]
 
 
@@ -13256,7 +13412,6 @@ their service would not be contrary to the purposes of the Act.
 Comprehensive Crime Control Act of 1984, Public Law 98-473, secs. 229, 
 235, 803 and 804. See text at footnote 23 for a list of the disabling 
 crimes.
----------------------------------------------------------------------------
 
 [50 FR 31310, Aug. 1, 1985]
 
@@ -13337,7 +13492,6 @@ employees are subject to the standards of conduct provisions of the
 Civil Service Reform Act, 5 U.S.C. 7120, or the Foreign Service Act, 22 
 U.S.C. 4117. The regulations implementing those statutory provisions are 
 contained in parts 457-459 of this chapter.
----------------------------------------------------------------------------
 
 [38 FR 18324, July 9, 1973, as amended at 50 FR 31311, Aug. 1, 1985; 63 
 FR 33780, June 19, 1998]
@@ -13794,7 +13948,6 @@ of the foregoing crimes is an element.''
 as a bill of attainder the section 504 provision which imposes criminal 
 sanctions on Communist Party members for holding union office; U.S. v. 
 Brown, 381 U.S. 437.
----------------------------------------------------------------------------
 
 [38 FR 18324, July 9, 1973, as amended at 50 FR 31311, Aug. 1, 1985]
 
@@ -13985,6 +14138,7 @@ prior to an election which has the effect of requiring attendance for a
 period that must begin no later than eighteen months before a biennial 
 election (Usery v. Local Division 1205, Amalgamated Transit Union, 545 
 F. 2d 1300 (C.A. 1, 1976)).
+
 [38 FR 18324, July 3, 1973; as amended at 42 FR 39105, Aug. 2, 1977; 42 
 FR 41280, Aug. 16, 1977; 42 FR 45306, Sept. 9, 1977; 50 FR 31311, Aug. 
 1, 1985; 60 FR 57178, Nov. 14, 1995]
@@ -14128,7 +14282,6 @@ may not be said to be relevant to the members' fitness for office.
 
     \28\ Shultz v. Local 1291, International Longshoremen's Association, 
 338 F. Supp. 1204 (E.D. Pa.), aff'd, 461 F.2d 1262 (C.A. 3 1972).
----------------------------------------------------------------------------
 
 [53 FR 8751, Mar. 17, 1988, as amended at 53 FR 23233, June 21, 1988]
 
@@ -14174,7 +14327,6 @@ to direct them, or to adjust their grievances, or effectively to
 recommend such action, if in connection with the foregoing the exercise 
 of such authority is not of a merely routine or clerical nature, but 
 requires the use of independent judgment.''
----------------------------------------------------------------------------
 
 [38 FR 18324, July 3, 1973, as amended at 39 FR 37360, Oct. 21, 1974]
 
@@ -14642,6 +14794,7 @@ to all candidates who request it. Such privileges may include permitting
 inspection of the list where members are not subject to a collective 
 bargaining agreement requiring membership as a condition of employment, 
 inspecting the list more than once, or copying the list.
+
 [38 FR 18324, July 9, 1973, as amended at 50 FR 31311, Aug. 1, 1985]
 
 
@@ -14745,17 +14898,15 @@ election is declared invalid by a court under title IV's procedure
 despite the fact that in the rerun election the candidates may be 
 identical. Neither the winner nor the loser of the disputed election 
 gains votes by the setting aside of the election. Such action is not a 
-vote-getting device but merely returns the parties
+vote-getting device but merely returns the parties to their pre-election
 
 [[Page 185]]
 
-to their pre-election status; it does not place any candidate into 
-office.'' \39\
+status; it does not place any candidate into office.'' \39\
 ---------------------------------------------------------------------------
 
     \39\ Retail Clerks Union, Local 648 v. Retail Clerks International 
 Association, 299 F.Supp. 1012, 1024 (D.D.C. 1969).
----------------------------------------------------------------------------
 
 [38 FR 18324, July 9, 1973, as amended at 63 FR 33780, June 19, 1998]
 
@@ -15176,7 +15327,6 @@ may be used if it meets the requirements of both such notices. \49\
     \48\ Act, sec. 401(e).
     \49\ See Sec. 452.56 for a discussion of the requirements for 
 notices of nomination.
----------------------------------------------------------------------------
 
 [38 FR 18324, July 9, 1973, as amended at 63 FR 33780, June 19, 1998]
 
@@ -15778,6 +15928,7 @@ of the labor organization shall be conducted by the elected officers or
 in such other manner as the union constitution and bylaws provide. 
 However, after suit is filed by the Secretary the court has power to 
 take appropriate action to preserve the labor organization's assets.
+
 [38 FR 18324, July 3, 1973, as amended at 39 FR 37360, Oct. 21, 1974]
 
 [[Page 196]]
@@ -15849,7 +16000,6 @@ under other Federal law or law of any State.
 on Education and Labor, 86th Cong., 1st sess., pt. 1, p. 1611. See also 
 Furniture Store Drivers Local 82 v. Crowley, 104 S.Ct. 2557 (1984).
     \62\ Act, sec. 603.
----------------------------------------------------------------------------
 
 [38 FR 18324, July 9, 1973, as amended at 50 FR 31311, Aug. 1, 1985]
 
@@ -15920,10 +16070,10 @@ Qualified Agents, Brokers, and Surety Companies for the Placing of Bonds
 453.25  Effective date of the bonding requirement.
 453.26  Powers of the Secretary of Labor to exempt.
 
-    Authority:  Sec. 502, 73 Stat. 536; 79 Stat. 888 (29 U.S.C. 502); 
+    Authority: Sec. 502, 73 Stat. 536; 79 Stat. 888 (29 U.S.C. 502); 
 Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  28 FR 14394, Dec. 27, 1963, unless otherwise noted.
+    Source: 28 FR 14394, Dec. 27, 1963, unless otherwise noted.
 
                               Introduction
 
@@ -15985,7 +16135,9 @@ opinions and interpretations under the Act, relating
 to the bonding of certain officials, representatives, and employees of 
 labor organizations and of trusts in which labor organizations are 
 interested, are inconsistent or in conflict with the principles stated 
+---------------------------------------------------------------------------
 in this part, they are hereby rescinded and withdrawn.
+
 [28 FR 14394, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
                Criteria for Determining Who Must Be Bonded
@@ -16012,6 +16164,7 @@ specified in section 502(a). Similarly, the Act contains no provision
 precluding the bonding of such personnel as are not required to be 
 bonded by this section. Such excess coverage may be in any amount and in 
 any form otherwise lawful and acceptable to the parties to such bonds.
+
 [28 FR 14394, Dec. 27, 1963, as amended at 30 FR 14925, Dec. 2, 1965]
 
 
@@ -16039,12 +16192,13 @@ Sec. 453.4  Trusts (in which a labor organization is interested) within the cove
     Section 3(l) of the Act defines a trust in which a labor 
 organization is interested as:
 
-* * * a trust or other fund or organization (1) which was created or 
+    * * * a trust or other fund or organization (1) which was created or 
 established by a labor organization, or one or more of the trustees or 
 one or more members of the governing body of which is selected or 
 appointed by a labor organization, and (2) a primary purpose of which is 
 to provide benefits for the members of such labor organization or their 
 beneficiaries.
+
 
 Both the language and the legislative history \4\ make it clear that 
 this definition covers pension funds, health and welfare funds, profit 
@@ -16142,6 +16296,7 @@ employed by a trust in which a labor organization is interested are
 ``employees,'' regardless of whether, technically, they are employed by 
 the trust, by the trustees, by the trust administrator, or by trust 
 officials in similar positions.
+
 [28 FR 14394, Dec. 27, 1963, as amended at 50 FR 31311, Aug. 1, 1985]
 
 
@@ -16269,6 +16424,7 @@ Whether others who may influence, authorize or direct disbursements must
 also be considered to handle funds or other property can be determined 
 only by reference to the specific duties or responsibilities of these 
 persons in a particular labor organization or trust.
+
 [28 FR 14394, Dec. 27, 1963, as amended at 30 FR 14925, Dec. 2, 1965]
 
 
@@ -16330,7 +16486,9 @@ responsibility for determining whether specific disbursements are bona
 fide, regular, and in accordance with the applicable constitution, trust 
 instrument, resolution or other laws or documents governing the 
 disbursement of funds or other property should be considered to handle 
+---------------------------------------------------------------------------
 such funds and property and be bonded accordingly.
+
 [28 FR 14394, Dec. 27, 1963, as amended at 30 FR 14926, Dec. 2, 1965]
 
                             Scope of the Bond
@@ -16342,6 +16500,7 @@ Sec. 453.10  The statutory provision.
     The statute requires that every covered person ``shall be bonded to 
 provide protection against loss by reason of acts of fraud or dishonesty 
 on his part directly or through connivance with others.''
+
 [30 FR 14926, Dec. 2, 1965]
 
 
@@ -16378,6 +16537,7 @@ fraud or dishonesty. As usually applied under State laws, the term
 embezzlement, forgery, misappropriation, wrongful abstraction, wrongful 
 conversion, willful misapplication or any other fraudulent or dishonest 
 acts resulting in financial loss.
+
 [30 FR 14926, Dec. 2, 1965]
 
                              Amount of Bonds
@@ -16432,6 +16592,7 @@ specific items handled, it may be assumed as a general principle that at
 least those items which may be handled in a manner similar to cash and 
 which involve a like risk of loss should be included in computing the 
 amount of ``funds'' handled.
+
 [30 FR 14926, Dec. 2, 1965]
 
 
@@ -16605,6 +16766,7 @@ in the Federal Register, usually in July. Changes in the list, occurring
 between July 1 and June 30, either by addition to or removal from the 
 list of companies, are also published in the Federal Register following 
 each such change.
+
 [28 FR 14394, Dec. 27, 1963, as amended at 50 FR 31311, Aug. 1, 1985]
 
 
@@ -16634,23 +16796,23 @@ House of Representatives, 86th Congress, 1st Session, on H.R. 3540, H.R.
 
     (b) Since the statute provides that either a direct or indirect 
 interest by a labor organization or by the specified persons may 
-disqualify an agent, broker, or surety company from having
+disqualify an agent,
 
 [[Page 206]]
 
-a bond placed through or with it, the disqualification would be 
-effective if a labor organization or any of the specified persons are in 
-a position to influence or control the activities or operations of such 
-brokers, agents, or surety companies, by virtue of interests held either 
-directly by them or by relatives or third parties which they own or 
-control. The question of whether the relationship between the labor 
-organization or the specified persons on the one hand, and another party 
-or parties holding an interest in a broker, agent, or surety company on 
-the other hand, is so close as to put the former in a position to 
-influence or control the activities or operations of such broker, agent, 
-or surety company through the latter, presents a question of fact which 
-must necessarily be determined in each case in the light of all the 
-pertinent circumstances.
+broker, or surety company from having a bond placed through or with it, 
+the disqualification would be effective if a labor organization or any 
+of the specified persons are in a position to influence or control the 
+activities or operations of such brokers, agents, or surety companies, 
+by virtue of interests held either directly by them or by relatives or 
+third parties which they own or control. The question of whether the 
+relationship between the labor organization or the specified persons on 
+the one hand, and another party or parties holding an interest in a 
+broker, agent, or surety company on the other hand, is so close as to 
+put the former in a position to influence or control the activities or 
+operations of such broker, agent, or surety company through the latter, 
+presents a question of fact which must necessarily be determined in each 
+case in the light of all the pertinent circumstances.
     (c) It is also to be noted that the statute does not appear to 
 restrict the disqualification to cases in which a direct or indirect 
 interest is held by a labor organization as a whole, or by a substantial 
@@ -16658,6 +16820,7 @@ number of officers, agents, shop stewards, or other representatives of a
 labor organization, but provides for the disqualification also in cases 
 where any one officer, agent, shop steward, or other representative of a 
 labor organization holds such an interest.
+
 [28 FR 14394, Dec. 27, 1963, as amended at 63 FR 33780, June 19, 1998]
 
                         Miscellaneous Provisions
@@ -16749,6 +16912,7 @@ cost or less, he may exempt such labor organization from placing a bond
 through a surety company holding a grant of authority from the Secretary 
 of the Treasury under the Act of July 30, 1947 (6 U.S.C. 6-13), as 
 acceptable surety on Federal bonds.
+
 [30 FR 14926, Dec. 2, 1965]
 
 [[Page 208]]
@@ -16786,10 +16950,10 @@ Sec.
 457.19  Party.
 457.20  Intervenor.
 
-    Authority:  5 U.S.C. 7120, 7134; 22 U.S.C. 4117; 2 U.S.C. 
-1351(a)(1); Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
+    Authority: 5 U.S.C. 7120, 7134; 22 U.S.C. 4117; 2 U.S.C. 1351(a)(1); 
+Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  50 FR 31311, Aug. 1, 1985, unless otherwise noted.
+    Source: 50 FR 31311, Aug. 1, 1985, unless otherwise noted.
 
 
 <R04>
@@ -16827,7 +16991,6 @@ therefore subject to the regulations in this subchapter. Regulations
 implementing the Congressional Accountability Act were issued at 142 
 Cong. R. S12062 (daily ed., October 1, 1996) and 142 Cong. R. H10369 
 (Daily ed., September 12, 1996).
----------------------------------------------------------------------------
 
 [50 FR 31311, Aug. 1, 1985, as amended at 62 FR 6093, Feb. 10, 1997]
 
@@ -16843,6 +17006,7 @@ Sec. 457.10  CSRA; FSA; CAA; LMRDA.
 Foreign Service Act of 1980; CAA means the Congressional Accountability 
 Act of 1995; LMRDA means the Labor-Management Reporting and Disclosure 
 Act of 1959, as amended.
+
 [62 FR 6093, Feb. 10, 1997]
 
 
@@ -16865,6 +17029,7 @@ CAA, have the meanings
 set forth in 2 U.S.C. 1301 and 1351(a)(2). Activity means any facility, 
 organizational entity, or geographical subdivision or combination 
 thereof of any agency or employing office.
+
 [62 FR 6093, Feb. 10, 1997]
 
 
@@ -16877,6 +17042,7 @@ the FSA, means the Foreign Service Labor Relations Board as described in
 the FSA, 22 U.S.C. 4106(a). ``Board,'' when used in connection with the 
 CAA, means the Board of Directors of the Office of Compliance as 
 described in 2 U.S.C. 1301 and 1381(b).
+
 [62 FR 6093, Feb. 10, 1997]
 
 
@@ -16892,7 +17058,6 @@ Administration.\2\
 January 2, 1997), the Assistant Secretary for Employment Standards has 
 the responsibility and authority for implementing the standards of 
 conduct provisions of the CSRA and the FSA.
----------------------------------------------------------------------------
 
 [62 FR 6093, Feb. 10, 1997]
 
@@ -16906,6 +17071,7 @@ and as amplified in part 458 of this subchapter. The standards of
 conduct provisions of the CSRA and the regulations in this subchapter 
 are applicable to labor organizations covered by the CAA pursuant to 2 
 U.S.C. 1351(a)(1).
+
 [62 FR 6093, Feb 10, 1997]
 
 
@@ -16915,6 +17081,7 @@ Sec. 457.15  District Director.
     District Director means the Director of a district office within the 
 Office of Labor-Management Standards, Employment Standards 
 Administration.
+
 [63 FR 33780, June 19, 1998]
 
 
@@ -16924,6 +17091,7 @@ Sec. 457.16  Chief, DOE.
     Chief, DOE means the Chief of the Division of Enforcement within the 
 Office of Labor-Management Standards, Employment Standards 
 Administration.
+
 [63 FR 33780, June 19, 1998]
 
 
@@ -17068,11 +17236,11 @@ Sec.
 458.92  Compliance with decisions and orders of the Assistant Secretary.
 458.93  Stay of remedial action.
 
-    Authority:  5 U.S.C. 7105, 7111, 7120, 7134; 22 U.S.C. 4107, 4111, 
+    Authority: 5 U.S.C. 7105, 7111, 7120, 7134; 22 U.S.C. 4107, 4111, 
 4117; 2 U.S.C. 1351(a)(1); Secretary's Order No. 5-96, 62 FR 107, 
 January 2, 1997.
 
-    Source:  45 FR 15158, Mar. 7, 1980, unless otherwise noted. 
+    Source: 45 FR 15158, Mar. 7, 1980, unless otherwise noted. 
 Redesignated at 50 FR 31311, Aug. 1, 1985.
 
 
@@ -17193,6 +17361,7 @@ copies shall be available for inspection by any member or by any
 employee whose rights are affected by such agreement. An employee's 
 rights under this paragraph shall be enforceable in the same manner as 
 the rights of a member.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31312, Aug. 1, 1985]
 
@@ -17276,6 +17445,7 @@ elections of officers shall be governed by the standards prescribed in
 sections 401 (a), (b), (c), (d), (e), (f) and (g) of the LMRDA to the 
 extent that such standards are relevant to elections held pursuant to 
 the provisions of 5 U.S.C. 7120 or 22 U.S.C. 4117 .
+
 [45 FR 15158, Mar. 7, 1980; 45 FR 28322, Apr. 29, 1980. Redesignated and 
 amended at 50 FR 31311, 31312, Aug. 1, 1985]
 
@@ -17290,6 +17460,7 @@ with serious misconduct and the constitution and bylaws of such
 organization do not provide an adequate procedure meeting the standards 
 of Sec. 417.2(b) of this chapter for removal of such officer, the labor 
 organization shall follow a procedure which meets those standards.
+
 [62 FR 6094, Feb. 10, 1997]
 
 
@@ -17355,6 +17526,7 @@ In enforcing this requirement the Assistant Secretary will be guided by
 the interpretations and policies followed by the Department of Labor in 
 applying the provisions of section 502(a) of the LMRDA and by applicable 
 court decisions.
+
 [45 FR 15158, Mar. 7, 1980; 45 FR 28322, Apr. 29, 1980. Redesignated at 
 50 FR 31311, Aug. 1, 1985]
 
@@ -17378,6 +17550,7 @@ period of the prohibition where he determines that it would not be
 contrary to the purposes of the CSRA or the FSA and this section to 
 permit a person barred from holding office or employment to hold such 
 office or employment.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31312, Aug. 1, 1985]
 
@@ -17422,6 +17595,7 @@ Director may conduct an investigation.
     (c) The authority to investigate possible violations of this part 
 (other than Sec. 458.2 or 458.37) shall not be contingent upon receipt 
 of a complaint.
+
 [50 FR 31312, Aug. 1, 1985. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997]
 
@@ -17441,6 +17615,7 @@ in connection with the investigation.
 
 This section shall be enforced in accordance with the procedures in 
 Secs. 458.66 through 458.92.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31312, Aug. 1, 1985; 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 
 1997]
@@ -17456,6 +17631,7 @@ Director may report to interested persons concerning any matter which he
 deems to be appropriate as a result of an investigation of possible 
 violations of any provision of this part (other than Secs. 458.2, 458.26 
 through 458.30 and 458.37).
+
 [50 FR 31312, Aug. 1, 1985. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997]
 
@@ -17466,6 +17642,7 @@ Sec. 458.53  Filing of complaints.
     A complaint alleging violations of this part may be filed with any 
 district office, or any other office of the Office of Labor-Management 
 Standards.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31313, Aug. 1, 1985; 63 FR 33780, June 19, 1998]
 
@@ -17481,6 +17658,7 @@ violated, may file a complaint in accordance with Sec. 458.53: Provided,
 however, That such member may be required to exhaust reasonable hearing 
 procedures (but not to exceed a 4-month lapse of time) within such 
 organization.
+
 [45 FR 15158, Mar. 7, 1980; 45 FR 28322, Apr. 29, 1980. Redesignated at 
 50 FR 31311, Aug. 1, 1985]
 
@@ -17503,6 +17681,7 @@ Sec. 458.56  Service on respondent.
     Upon the filing of a complaint, a copy of the complaint shall be 
 served upon the respondent, and a written statement of such service 
 shall be furnished to the District Director.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997]
 
@@ -17514,6 +17693,7 @@ Sec. 458.57  Additional information and report.
 458.56, the District Director shall obtain such additional information 
 as he deems necessary, including the positions of the parties and any 
 offers of settlement.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31313, Aug. 1, 1985; 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 
 1997]
@@ -17528,6 +17708,7 @@ satisfactory to the complainant has been made, he may dismiss the
 complaint. If he dismisses the complaint, he shall furnish the 
 complainant with a written statement of the grounds for dismissal, 
 sending a copy of the statement to the respondent.
+
 [45 FR 15158, Mar. 7, 1980; 45 FR 28322, Apr. 29, 1980. Redesignated and 
 amended at 50 FR 31311, 31313, Aug. 1, 1985; 59 FR 15117, Mar. 31, 1994; 
 62 FR 6094, Feb. 10, 1997]
@@ -17546,6 +17727,7 @@ served on the District Director and the respondent, and a
 statement of service shall be filed with the Assistant Secretary. The 
 request for review shall contain a complete statement of the facts and 
 reasons upon which a request is based.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997]
 
@@ -17558,6 +17740,7 @@ basis for the complaint, and that no offer of settlement satisfactory to
 the complainant has been made, he shall refer the matter to the Chief 
 Administrative Law Judge, U.S. Department of Labor, for the issuance of 
 a notice of hearing as set forth in Sec. 458.69.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997]
 
@@ -17572,6 +17755,7 @@ District Director may consolidate cases within his own area or may
 transfer such cases to any other area, for the purpose of consolidation 
 with any proceedings which may have been instituted in, or transferred 
 to, such area.
+
 [45 FR 15158, Mar. 7, 1980; 45 FR 28322, Apr. 29, 1980. Redesignated at 
 50 FR 31311, Aug. 1, 1985, as amended at 59 FR 15117, Mar. 31, 1994; 62 
 FR 6094, Feb. 10, 1997]
@@ -17628,6 +17812,7 @@ Assistant Secretary, but only on the basis of deciding whether the
 Chief, DOE's decision was arbitrary and capricious. The request for 
 review must be made within fifteen (15) days after service of notice of 
 dismissal.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997]
 
@@ -17650,6 +17835,7 @@ of the Assistant Secretary issued under Sec. 458.70 or Sec. 458.91, he
 shall certify to the Assistant Secretary the names of the persons 
 elected. The Assistant Secretary shall thereupon issue an order 
 declaring such persons to be the officers of the labor organization.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31313, Aug. 1, 1985; 62 FR 6094, FEb. 10, 1997]
 
@@ -17686,6 +17872,7 @@ concludes that there has not been compliance with all the terms of the
 agreement, he may refer the matter to the Assistant Secretary for 
 appropriate enforcement action or file a complaint with the Chief 
 Administrative Law Judge.
+
 [50 FR 31313, Aug. 1, 1985. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997]
 
@@ -17714,6 +17901,7 @@ the complaining member
 [[Page 218]]
 
 from the labor organization or any parent body.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31313, Aug. 1, 1985; 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 
 1997]
@@ -17815,6 +18003,7 @@ be in a work or paid leave status. Participation as witnesses includes
 the time necessary to travel to and from the site of a hearing, and the 
 time spent giving testimony and waiting to give testimony, when such 
 time falls during regular work hours.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31313, Aug. 1, 1985]
 
@@ -17836,6 +18025,7 @@ the proceeding.
     (b) The record shall show the matters disposed of by order and by 
 agreement in such prehearing conferences. The subsequent course of the 
 proceeding shall be controlled by such action.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31313, Aug. 1, 1985]
 
@@ -17909,6 +18099,7 @@ contrary;
 transcript when deemed necessary; and
     (m) Take any other action necessary under the foregoing and not 
 prohibited by these regulations.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31313, Aug. 1, 1985]
 
@@ -17950,6 +18141,7 @@ complaint by a preponderance of the evidence. In a hearing concerning an
 alleged violation of other standards of conduct matters, the District 
 Director shall have the burden of proving the allegations of the 
 complaint by a preponderance of the evidence.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31313, Aug. 1, 1985; 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 
 1997]
@@ -18021,6 +18213,7 @@ proceedings. Copies of the official transcript will be provided to the
 parties, in accordance with the provisions of part 70 of this title, or 
 they may be examined in the district office in whose geographic 
 jurisdiction the hearing has been held.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 63 FR 33780, June 19, 1998]
 
@@ -18146,6 +18339,7 @@ affirmative action as he deems appropriate to effectuate the policies of
 the CSRA or FSA.
     (c) Upon finding no violation of the CSRA, FSA or this part, the 
 Assistant Secretary shall dismiss the complaint.
+
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 Aug. 1, 1985]
 
@@ -18166,6 +18360,7 @@ Foreign Service Labor Relations Board (in the case of labor
 organizations covered by the FSA), or the Board of Directors of the 
 Office of Compliance (in the case of labor organizations covered by the 
 Congressional Accountability Act).
+
 [62 FR 6094, Feb. 10, 1997]
 
 
@@ -18190,10 +18385,10 @@ Sec.
 459.4  Service of pleading and other papers under this subchapter.
 459.5  Rules to be construed liberally.
 
-    Authority:  5 U.S.C. 7120, 7134; 22 U.S.C. 4117; 2 U.S.C. 
-1351(a)(1); Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
+    Authority: 5 U.S.C. 7120, 7134; 22 U.S.C. 4117; 2 U.S.C. 1351(a)(1); 
+Secretary's Order No. 5-96, 62 FR 107, January 2, 1997.
 
-    Source:  45 FR 15165, Mar. 7, 1980, unless otherwise noted. 
+    Source: 45 FR 15165, Mar. 7, 1980, unless otherwise noted. 
 Redesignated at 50 FR 31311, Aug. 1, 1985.
 
 
@@ -18269,7 +18464,10 @@ specified time, the Assistant Secretary may at any time order the period
 altered where it shall be manifest that strict adherence will work 
 surprise or injustice or interfere with the proper effectuation of the 
 CSRA or FSA.
+
+
 [[Page 225]]
+
 
 <R02>
                               FINDING AIDS
@@ -18283,6 +18481,7 @@ CSRA or FSA.
 an alphabetical list of agencies publishing in the CFR are included in 
 the CFR Index and Finding Aids volume to the Code of Federal Regulations 
 which is published separately and revised annually.
+
   Table of CFR Titles and Chapters
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
@@ -18298,7 +18497,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of June 29, 1998)
+                      (Revised as of July 1, 1999)
 
                       Title 1--General Provisions
 
@@ -18452,7 +18651,8 @@ which is published separately and revised annually.
                 Agriculture (Parts 3000--3099)
       XXXI  Office of Environmental Quality, Department of 
                 Agriculture (Parts 3100--3199)
-     XXXII  [Reserved]
+     XXXII  Office of Procurement and Property Management, 
+                Department of Agriculture (Parts 3200--3299)
 
 [[Page 230]]
 
@@ -18486,9 +18686,8 @@ which is published separately and revised annually.
         II  Grain Inspection, Packers and Stockyards 
                 Administration (Packers and Stockyards Programs), 
                 Department of Agriculture (Parts 200--299)
-       III  Food Safety and Inspection Service, Meat and Poultry 
-                Inspection, Department of Agriculture (Parts 300--
-                599)
+       III  Food Safety and Inspection Service, Department of 
+                Agriculture (Parts 300--599)
 
                            Title 10--Energy
 
@@ -18497,8 +18696,6 @@ which is published separately and revised annually.
        III  Department of Energy (Parts 700--999)
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
-        XI  United States Enrichment Corporation (Parts 1100--
-                1199)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
 
@@ -18511,10 +18708,10 @@ which is published separately and revised annually.
          I  Comptroller of the Currency, Department of the 
                 Treasury (Parts 1--199)
         II  Federal Reserve System (Parts 200--299)
+       III  Federal Deposit Insurance Corporation (Parts 300--399)
 
 [[Page 231]]
 
-       III  Federal Deposit Insurance Corporation (Parts 300--399)
         IV  Export-Import Bank of the United States (Parts 400--
                 499)
          V  Office of Thrift Supervision, Department of the 
@@ -18527,11 +18724,10 @@ which is published separately and revised annually.
                 (Parts 1100--1199)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
-        XV  Thrift Depositor Protection Oversight Board (Parts 
-                1500--1599)
+        XV  Department of the Treasury (Parts 1500--1599)
       XVII  Office of Federal Housing Enterprise Oversight, 
                 Department of Housing and Urban Development (Parts 
-                1700-1799)
+                1700--1799)
      XVIII  Community Development Financial Institutions Fund, 
                 Department of the Treasury (Parts 1800--1899)
 
@@ -18620,13 +18816,12 @@ which is published separately and revised annually.
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
 
+[[Page 233]]
+
                      Title 20--Employees' Benefits
 
          I  Office of Workers' Compensation Programs, Department 
                 of Labor (Parts 1--199)
-
-[[Page 233]]
-
         II  Railroad Retirement Board (Parts 200--399)
        III  Social Security Administration (Parts 400--499)
         IV  Employees' Compensation Appeals Board, Department of 
@@ -18655,16 +18850,13 @@ which is published separately and revised annually.
                       Title 22--Foreign Relations
 
          I  Department of State (Parts 1--199)
-        II  Agency for International Development, International 
-                Development Cooperation Agency (Parts 200--299)
+        II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
          V  United States Information Agency (Parts 500--599)
-        VI  United States Arms Control and Disarmament Agency 
-                (Parts 600--699)
-       VII  Overseas Private Investment Corporation, International 
-                Development Cooperation Agency (Parts 700--799)
+       VII  Overseas Private Investment Corporation (Parts 700--
+                799)
         IX  Foreign Service Grievance Board Regulations (Parts 
                 900--999)
          X  Inter-American Foundation (Parts 1000--1099)
@@ -18710,6 +18902,9 @@ which is published separately and revised annually.
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
+        IV  Office of Multifamily Housing Assistance 
+                Restructuring, Department of Housing and Urban 
+                Development (Parts 400--499)
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
@@ -18720,11 +18915,13 @@ which is published separately and revised annually.
                 Urban Development (Housing Assistance Programs and 
                 Public and Indian Housing Programs) (Parts 700--
                 799)
-      VIII  Office of the Assistant Secretary for Housing--deral 
+      VIII  Office of the Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Section 8 Housing Assistance 
-                Programs and Section 202 Direct Loan Program) 
-                (Parts 800--899)
+                Programs, Section 202 Direct Loan Program, Section 
+                202 Supportive Housing for the Elderly Program and 
+                Section 811 Supportive Housing for Persons With 
+                Disabilities Program) (Parts 800--899)
         IX  Office of Assistant Secretary for Public and Indian 
                 Housing, Department of Housing and Urban 
                 Development (Parts 900--999)
@@ -18740,13 +18937,12 @@ which is published separately and revised annually.
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
 
+[[Page 235]]
+
                            Title 25--Indians
 
          I  Bureau of Indian Affairs, Department of the Interior 
                 (Parts 1--299)
-
-[[Page 235]]
-
         II  Indian Arts and Crafts Board, Department of the 
                 Interior (Parts 300--399)
        III  National Indian Gaming Commission, Department of the 
@@ -18798,13 +18994,13 @@ which is published separately and revised annually.
         IX  Construction Industry Collective Bargaining Commission 
                 (Parts 900--999)
          X  National Mediation Board (Parts 1200--1299)
+
+[[Page 236]]
+
        XII  Federal Mediation and Conciliation Service (Parts 
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
                 1699)
-
-[[Page 236]]
-
       XVII  Occupational Safety and Health Administration, 
                 Department of Labor (Parts 1900--1999)
         XX  Occupational Safety and Health Review Commission 
@@ -18857,12 +19053,12 @@ which is published separately and revised annually.
          I  Office of the Secretary of Defense (Parts 1--399)
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
-       VII  Department of the Air Force (Parts 800--1099)
-            Subtitle B--Other Regulations Relating to National 
-                Defense
 
 [[Page 237]]
 
+       VII  Department of the Air Force (Parts 800--1099)
+            Subtitle B--Other Regulations Relating to National 
+                Defense
        XII  Defense Logistics Agency (Parts 1200--1299)
        XVI  Selective Service System (Parts 1600--1699)
        XIX  Central Intelligence Agency (Parts 1900--1999)
@@ -18908,15 +19104,15 @@ which is published separately and revised annually.
                 Education (Parts 600--699)
        VII  Office of Educational Research and Improvement, 
                 Department of Education (Parts 700--799)
-        XI  National Institute for Literacy (Parts 1100-1199)
+        XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
+
+[[Page 238]]
 
                         Title 35--Panama Canal
 
          I  Panama Canal Regulations (Parts 1--299)
-
-[[Page 238]]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -18933,11 +19129,12 @@ which is published separately and revised annually.
                 899)
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
+         X  Presidio Trust (Parts 1000--1099)
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
-       XIV  Assassination Records Review Board (Parts 1400-1499)
+       XIV  Assassination Records Review Board (Parts 1400--1499)
 
              Title 37--Patents, Trademarks, and Copyrights
 
@@ -18962,11 +19159,17 @@ which is published separately and revised annually.
 
          I  Environmental Protection Agency (Parts 1--799)
          V  Council on Environmental Quality (Parts 1500--1599)
+       VII  Environmental Protection Agency and Department of 
+                Defense; Uniform National Discharge Standards for 
+                Vessels of the Armed Forces (Parts 1700--1799)
 
           Title 41--Public Contracts and Property Management
 
             Subtitle B--Other Provisions Relating to Public 
                 Contracts
+
+[[Page 239]]
+
         50  Public Contracts, Department of Labor (Parts 50-1--50-
                 999)
         51  Committee for Purchase From People Who Are Blind or 
@@ -18977,9 +19180,6 @@ which is published separately and revised annually.
         61  Office of the Assistant Secretary for Veterans 
                 Employment and Training, Department of Labor 
                 (Parts 61-1--61-999)
-
-[[Page 239]]
-
             Subtitle C--Federal Property Management Regulations 
                 System
        101  Federal Property Management Regulations (Parts 101-1--
@@ -18997,7 +19197,7 @@ which is published separately and revised annually.
        201  Federal Information Resources Management Regulation 
                 (Parts 201-1--201-99) [Reserved]
             Subtitle F--Federal Travel Regulation System
-       300  General
+       300  General (Parts 300-1--300.99)
        301  Temporary Duty (TDY) Travel Allowances (Parts 301-1--
                 301-99)
        302  Relocation Allowances (Parts 302-1--302-99)
@@ -19024,6 +19224,9 @@ which is published separately and revised annually.
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
+
+[[Page 240]]
+
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10005)
 
@@ -19032,8 +19235,6 @@ which is published separately and revised annually.
          I  Federal Emergency Management Agency (Parts 0--399)
         IV  Department of Commerce and Department of 
                 Transportation (Parts 400--499)
-
-[[Page 240]]
 
                        Title 45--Public Welfare
 
@@ -19049,7 +19250,7 @@ which is published separately and revised annually.
                 and Families, Department of Health and Human 
                 Services (Parts 300--399)
         IV  Office of Refugee Resettlement, Administration for 
-                Children and Families, Department of Health and 
+                Children and Families Department of Health and 
                 Human Services (Parts 400--499)
          V  Foreign Claims Settlement Commission of the United 
                 States, Department of Justice (Parts 500--599)
@@ -19079,6 +19280,8 @@ which is published separately and revised annually.
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
 
+[[Page 241]]
+
                           Title 46--Shipping
 
          I  Coast Guard, Department of Transportation (Parts 1--
@@ -19088,8 +19291,6 @@ which is published separately and revised annually.
        III  Coast Guard (Great Lakes Pilotage), Department of 
                 Transportation (Parts 400--499)
         IV  Federal Maritime Commission (Parts 500--599)
-
-[[Page 241]]
 
                       Title 47--Telecommunication
 
@@ -19135,6 +19336,9 @@ which is published separately and revised annually.
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
+
+[[Page 242]]
+
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
         35  Panama Canal Commission (Parts 3500--3599)
@@ -19143,9 +19347,6 @@ which is published separately and revised annually.
                 5100--5199)
         52  Department of the Navy Acquisition Regulations (Parts 
                 5200--5299)
-
-[[Page 242]]
-
         53  Department of the Air Force Federal Acquisition 
                 Regulation Supplement (Parts 5300--5399)
         54  Defense Logistics Agency, Department of Defense (Part 
@@ -19182,11 +19383,16 @@ which is published separately and revised annually.
       VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
+        XI  Bureau of Transportation Statistics, Department of 
+                Transportation (Parts 1400--1499)
 
                    Title 50--Wildlife and Fisheries
 
          I  United States Fish and Wildlife Service, Department of 
                 the Interior (Parts 1--199)
+
+[[Page 243]]
+
         II  National Marine Fisheries Service, National Oceanic 
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 200--299)
@@ -19199,9 +19405,6 @@ which is published separately and revised annually.
                 Commerce); Endangered Species Committee 
                 Regulations (Parts 400--499)
          V  Marine Mammal Commission (Parts 500--599)
-
-[[Page 243]]
-
         VI  Fishery Conservation and Management, National Oceanic 
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 600--699)
@@ -19227,12 +19430,11 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of June 29, 1998)
+                      (Revised as of July 1, 1999)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
 
-Corporation for National and Community Service    45, XII
 Administrative Committee of the Federal Register  1, I
 Advanced Research Projects Agency                 32, I
 Advisory Commission on Intergovernmental          5, VII
@@ -19272,6 +19474,7 @@ Agriculture Department
   National Agricultural Statistics Service        7, XXXVI
   Natural Resources Conservation Service          7, VI
   Operations, Office of                           7, XXVIII
+  Procurement and Property Management, Office of  7, XXXII
   Rural Business-Cooperative Service              7, XVIII, XLII
   Rural Development Administration                7, XLII
   Rural Housing Service                           7, XVIII, XXXV
@@ -19295,8 +19498,6 @@ Architectural and Transportation Barriers         36, XI
      Compliance Board
 Arctic Research Commission                        45, XXIII
 Armed Forces Retirement Home                      5, XI
-Arms Control and Disarmament Agency, United       22, VI
-     States
 Army Department                                   32, V
   Engineers, Corps of                             33, II; 36, III
   Federal Acquisition Regulation                  48, 51
@@ -19319,7 +19520,7 @@ Civil Rights, Office for                          34, I
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
 Commerce Department                               44, IV
-  Census Bureau                                   15, I`
+  Census Bureau                                   15, I
   Economic Affairs, Under Secretary               37, V
   Economic Analysis, Bureau of                    15, VIII
   Economic Development Administration             13, III
@@ -19330,7 +19531,7 @@ Commerce Department                               44, IV
   Foreign-Trade Zones Board                       15, IV
   International Trade Administration              15, III; 19, III
   National Institute of Standards and Technology  15, II
-  National Marine Fisheries Service               50, II, IV
+  National Marine Fisheries Service               50, II, IV, VI
   National Oceanic and Atmospheric                15, IX; 50, II, III, IV, 
        Administration                             VI
   National Telecommunications and Information     15, XXIII; 47, III
@@ -19361,7 +19562,8 @@ Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
 Customs Service, United States                    19, I
 Defense Contract Audit Agency                     32, I
-Defense Department                                5, XXVI; 32, Subtitle A
+Defense Department                                5, XXVI; 32, Subtitle A; 
+                                                  40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
 
@@ -19414,8 +19616,7 @@ Energy, Department of                             5, XXIII; 10, II, III, X
 Energy, Office of                                 7, XXIX
 Engineers, Corps of                               33, II; 36, III
 Engraving and Printing, Bureau of                 31, VI
-Enrichment Corporation, United States             10, XI
-Environmental Protection Agency                   5, LIV; 40, I
+Environmental Protection Agency                   5, LIV; 40, I, VII
   Federal Acquisition Regulation                  48, 15
   Property Management Regulations                 41, 115
 Environmental Quality, Office of                  7, XXXI
@@ -19438,10 +19639,10 @@ Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
 Farm Service Agency                               7, VII, XVIII
+Federal Acquisition Regulation                    48, 1
 
 [[Page 248]]
 
-Federal Acquisition Regulation                    48, 1
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
 Federal Claims Collection Standards               4, II
@@ -19512,17 +19713,17 @@ General Services Administration                   5, LVII
   Payment From a Non-Federal Source for Travel    41, 304
        Expenses
   Payment of Expenses Connected With the Death    41, 303
-     of Certain Employees
+       of Certain Employees
+  Relocation Allowances                           41, 302
+
 [[Page 249]]
 
-  Relocation Allowances                           41, 302
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
 Government Ethics, Office of                      5, XVI
 Government National Mortgage Association          24, III
 Grain Inspection, Packers and Stockyards          7, VIII; 9, II
      Administration
-Great Lakes Pilotage                              46, III
 Harry S. Truman Scholarship Foundation            45, XVIII
 Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Child Support Enforcement, Office of            45, III
@@ -19550,6 +19751,8 @@ Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
   Housing--Federal Housing Commissioner, Office   24, II, VIII, X, XX
        of Assistant Secretary for
   Inspector General, Office of                    24, XII
+  Multifamily Housing Assistance Restructuring,   24, IV
+       Office of
   Public and Indian Housing, Office of Assistant  24, IX
        Secretary for
   Secretary, Office of                            24, Subtitle A, VII
@@ -19590,10 +19793,10 @@ Interior Department
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
   Minerals Management Service                     30, II
+  Mines, Bureau of                                30, VI
 
 [[Page 250]]
 
-  Mines, Bureau of                                30, VI
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
   Reclamation, Bureau of                          43, I
@@ -19668,13 +19871,15 @@ Merit Systems Protection Board                    5, II
 Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
+Mines, Bureau of                                  30, VI
 
 [[Page 251]]
 
-Mines, Bureau of                                  30, VI
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
+Multifamily Housing Assistance Restructuring,     24, IV
+     Office of
 National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
@@ -19698,7 +19903,7 @@ National Indian Gaming Commission                 25, III
 National Institute for Literacy                   34, XI
 National Institute of Standards and Technology    15, II
 National Labor Relations Board                    5, LXI; 29, I
-National Marine Fisheries Service                 50, II, IV
+National Marine Fisheries Service                 50, II, IV, VI
 National Mediation Board                          29, X
 National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV, 
                                                   VI
@@ -19754,7 +19959,9 @@ President's Commission on White House             1, IV
 Presidential Commission on the Assignment of      32, XXIX
      Women in the Armed Forces
 Presidential Documents                            3
+Presidio Trust                                    36, X
 Prisons, Bureau of                                28, V
+Procurement and Property Management, Office of    7, XXXII
 Productivity, Technology and Innovation,          37, IV
      Assistant Secretary
 Public Contracts, Department of Labor             41, 50
@@ -19797,7 +20004,6 @@ Technology Administration                         15, XI
 Technology Policy, Assistant Secretary for        37, IV
 Technology, Under Secretary for                   37, V
 Tennessee Valley Authority                        5, LXIX; 18, XIII
-Thrift Depositor Protection Oversight Board       12, XV
 Thrift Supervision Office, Department of the      12, V
      Treasury
 Trade Representative, United States, Office of    15, XX
@@ -19816,14 +20022,16 @@ Transportation, Department of                     5, L
   National Highway Traffic Safety Administration  23, II, III; 49, V
   Research and Special Programs Administration    49, I
   Saint Lawrence Seaway Development Corporation   33, IV
-  Secretary of Transportation, Office of          14, II; 49, Subtitle A
 
 [[Page 253]]
 
+  Secretary of Transportation, Office of          14, II; 49, Subtitle A
   Surface Transportation Board                    49, X
+  Transportation Statistics Bureau                49, XI
 Transportation, Office of                         7, XXXIII
-Temporary Duty (TDY) Travel Allowances            41, 301
-Treasury Department                               5, XXI; 17, IV
+Transportation Statistics Brureau                 49, XI
+Travel Allowances, Temporary Duty (TDY)           41, 301
+Treasury Department                               5, XXI; 12, XV; 17, IV
   Alcohol, Tobacco and Firearms, Bureau of        27, I
   Community Development Financial Institutions    12, XVIII
        Fund
@@ -19840,12 +20048,11 @@ Treasury Department                               5, XXI; 17, IV
   Secret Service                                  31, IV
   Secretary of the Treasury, Office of            31, Subtitle A
   Thrift Supervision, Office of                   12, V
-Truman, Harry S., Scholarship Foundation          45, XVIII
+Truman, Harry S. Scholarship Foundation           45, XVIII
 United States and Canada, International Joint     22, IV
      Commission
 United States and Mexico, International Boundary  22, XI
      and Water Commission, United States Section
-United States Enrichment Corporation              10, XI
 Utah Reclamation Mitigation and Conservation      43, III
      Commission
 Veterans Affairs Department                       38, I
@@ -19884,7 +20091,7 @@ separate volumes.
                                                                     Page
 Chapter I
 102  Authority citation revised....................................3597,
-                                                     15612, 15613, 23745
+15612, 15613, 23745
     Authority citation amended.....................................17732
 102.15  Revised....................................................23745
 102.19  (a) and (c) revised........................................23746
@@ -19947,11 +20154,11 @@ Chapter I
 100  Heading and authority citation revised........................25884
 100.101--100.122 (Subpart A)  Redesignated from 100.735-1--
         100.735.22 and heading added...............................25884
+100.201--100.209 (Subpart B)  Redesignated from 100.735-31--
+        100.735-39 (Subpart C) and heading revised.................25884
 
 [[Page 256]]
 
-100.201--100.209 (Subpart B)  Redesignated from 100.735-31--
-        100.735-39 (Subpart C) and heading revised.................25884
 100.301--100.307 (Subpart C)  Redesignated from 100.735-41--
         100.735-47 and heading revised.............................25884
 100 (Subpart D)  Heading added.....................................25884
@@ -20042,13 +20249,12 @@ Chapter I
 Chapter IV
 402.4  (b)(3) amended; eff. 12-31-93...............................49290
 403.4  (a) amended; eff. 12-31-93..................................49290
-
-[[Page 257]]
-
     (a) redesignated as (a)(1); (a)(2)  added; eff. 12-31-93.......49357
 470  (Subchapter C) Added..........................................49595
 470.2  (d) corrected...............................................54702
 470.3  (a)(1) and (b) corrected....................................58285
+
+[[Page 257]]
 
                                   1993
 
@@ -20131,9 +20337,6 @@ Chapter I
 100.601--100.670 (Subpart F)  Heading redesignated as 100.501--
         100.570 (Subpart E)........................................37159
 100.601  Redesignated as 100.501...................................37159
-
-[[Page 258]]
-
 100.602  Redesignated as 100.502...................................37159
 100.603  Redesignated as 100.503...................................37159
 100.610  Redesignated as 100.510...................................37159
@@ -20147,6 +20350,9 @@ Chapter I
 100.670  Redesignated as 100.570...................................37159
 102.35  Revised; eff. 2-1-95 through 1-31-96.......................65944
 102.42  Revised; eff. 2-1-95 through 1-31-96.......................65945
+
+[[Page 258]]
+
 102.45  (a) revised; eff. 2-1-95 through 1-31-96...................65945
 Chapter IV
 401  Authority citation revised....................................15115
@@ -20216,9 +20422,6 @@ Chapter I
 102.112  Revised...................................................56235
 102.113  Revised...................................................56236
 102.114  Revised...................................................56236
-
-[[Page 259]]
-
 102.117  (c)(2)(iii)(a), (b) and (c) redesignated as 
         (c)(2)(iii)(A), (B) and (C); (f), (g) and (i) amended......32587
 Chapter II
@@ -20249,6 +20452,9 @@ Chapter I
     (p) and (q) added..............................................65183
 102.156--102.167 (Subpart U)  Added; interim.......................38371
 102.168--102.176 (Subpart V)  Added; interim.......................38373
+
+[[Page 259]]
+
 102.177 (Subpart W)  Added.........................................65331
 Chapter II
 215  Regulation at 60 FR 62969 eff. date stayed......................386
@@ -20271,7 +20477,7 @@ Chapter IV
 Chapter I
 100  Authority citation revised.....................................6448
 100.101 (Subpart A)  Revised; interim...............................6448
-101.39(a) correctly designated.....................................52381
+101.39  (a) correctly designated...................................52381
 102  Technical correction...........................................1361
 102.24  (a) amended.................................................1668
 102.25  Amended.....................................................1668
@@ -20307,9 +20513,6 @@ Chapter IV
 404  Authority citation revised.....................................6092
 405  Authority citation revised.....................................6092
 406  Authority citation revised.....................................6093
-
-[[Page 260]]
-
 408  Authority citation revised.....................................6093
 409  Authority citation revised.....................................6093
 417  Authority citation revised.....................................6093
@@ -20335,5 +20538,35 @@ Chapter IV
 458.51  Amended.....................................................6094
 458.52  Amended.....................................................6094
 458.56  Amended.....................................................6094
-458.57  Amended.............................
+458.57  Amended.....................................................6094
+458.58  Amended.....................................................6094
+458.59  Amended.....................................................6094
+458.60  Amended.....................................................6094
+458.61  Amended.....................................................6094
+458.64  (a), (b) and (c) amended....................................6094
+458.65  (a) and (c) amended.........................................6094
+458.66  (a), (b) and (c) amended....................................6094
+458.67  Introductory text and (d) amended...........................6094
+458.79  Amended.....................................................6094
+458.92  Revised.....................................................6094
+459  Authority citation revised.....................................6094
+
+                                  1998
+
+29 CFR
+                                                                   63 FR
+                                                                    Page
+Chapter IV
+402.13  OMB number.................................................33779
+403.11  OMB number.................................................33779
+404.9  OMB number..................................................33779
+
+[[Page 260]]
+
+405.11  OMB number.................................................33779
+406.1  (b) amended.................................................33779
+406.10  OMB number.................................................46888
+408.6  Revised.....................................................33779
+408.13  OMB number.................................................46888
+409.7  OMB number............
 </pre></body></html>

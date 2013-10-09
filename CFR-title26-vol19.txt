@@ -1,10 +1,8 @@
 <html><body><pre>
 [Title 26 CFR ]
-[Code of Federal Regulations (annual edition) - April 1, 1998 Edition]
+[Code of Federal Regulations (annual edition) - April 1, 1999 Edition]
 [From the U.S. Government Printing Office]
 
-
-[[Page i]]
 
           26
 
@@ -14,21 +12,24 @@
 
 <R03>
 
+[[Page i]]
+
           PART 600 TO END
 
-                         Revised as of April 1, 1998
+                         Revised as of April 1, 1999
 
           CONTAINING
           A CODIFICATION OF DOCUMENTS
           OF GENERAL APPLICABILITY
           AND FUTURE EFFECT
-          AS OF APRIL 1, 1998
 
+          AS OF APRIL 1, 1999
           With Ancillaries
           Published by
           the Office of the Federal Register
           National Archives and Records
           Administration
+
           as a Special Edition of
           the Federal Register
 
@@ -42,7 +43,7 @@
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 1998
+                            WASHINGTON : 1999
 
 
 
@@ -64,12 +65,12 @@
   Explanation.................................................       v
 
   Title 26:
-    Chapter I--Internal Revenue Service, Department of the 
-        Treasury (Continued)..................................       3
+          Chapter I--Internal Revenue Service, Department of 
+          the Treasury (Continued)                                   3
   Finding Aids:
-    Table of CFR Titles and Chapters..........................     167
-    Alphabetical List of Agencies Appearing in the CFR........     183
-    List of CFR Sections Affected.............................     193
+      Table of CFR Titles and Chapters........................     167
+      Alphabetical List of Agencies Appearing in the CFR......     185
+      List of CFR Sections Affected...........................     195
 
 
 
@@ -79,16 +80,17 @@
       
 
 
-------------------------------------------------------------------
+                     ----------------------------
 
-   Cite this Code:  CFR
+                     Cite this Code:  CFR
+                     To cite the regulations in 
+                       this volume use title, 
+                       part and section number. 
+                       Thus,  26 CFR 601.101 
+                       refers to title 26, part 
+                       601, section 101.
 
-   To cite the regulations in this volume use title, part and
-   section number. Thus,  26 CFR 601.101 refers to title 26, part
-   601, section 101.
-
-------------------------------------------------------------------
-
+                     ----------------------------
 
 [[Page v]]
 
@@ -110,6 +112,7 @@ Title 1 through Title 16.................................as of January 1
 Title 17 through Title 27..................................as of April 1
 Title 28 through Title 41...................................as of July 1
 Title 42 through Title 50................................as of October 1
+
     The appropriate revision date is printed on the cover of each 
 volume.
 
@@ -125,7 +128,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, April 1, 1998), consult the ``List of CFR 
+revision date (in this case, April 1, 1999), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -212,13 +215,14 @@ Customer Service call 202-512-1803.
 
 ELECTRONIC SERVICES
 
-    The full text of the Code of Federal Regulations, The United States 
-Government Manual, the Federal Register, Public Laws, Weekly Compilation 
-of Presidential Documents and the Privacy Act Compilation are available 
-in electronic format at www.access.gpo.gov/nara (``GPO Access''). For 
-more information, contact Electronic Information Dissemination Services, 
-U.S. Government Printing Office. Phone 202-512-1530, or 888-293-6498 
-(toll-free). E-mail, gpoaccess@gpo.gov.
+    The full text of the Code of Federal Regulations, the LSA (List of 
+CFR Sections Affected), The United States Government Manual, the Federal 
+Register, Public Laws, Weekly Compilation of Presidential Documents and 
+the Privacy Act Compilation are available in electronic format at 
+www.access.gpo.gov/nara (``GPO Access''). For more information, contact 
+Electronic Information Dissemination Services, U.S. Government Printing 
+Office. Phone 202-512-1530, or 888-293-6498 (toll-free). E-mail, 
+gpoaccess@gpo.gov.
 
 [[Page vii]]
 
@@ -232,7 +236,7 @@ site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-April 1, 1998.
+April 1, 1999.
 
 
 
@@ -245,7 +249,7 @@ April 1, 1998.
     Title 26--Internal Revenue is composed of nineteen volumes. The 
 contents of these volumes represent all current regulations issued by 
 the Internal Revenue Service, Department of the Treasury, as of April 1, 
-1998. The first twelve volumes comprise part 1 (Subchapter A--Income 
+1999. The first twelve volumes comprise part 1 (Subchapter A--Income 
 Tax) and are arranged by sections as follows: Secs. 1.0-1-1.60; 
 Secs. 1.61-1.169; Secs. 1.170-1.300; Secs. 1.301-1.400; Secs. 1.401-
 1.440; Secs. 1.441-1.500; Secs. 1.501-1.640; Secs. 1.641-1.850; 
@@ -263,7 +267,7 @@ H--Internal Revenue Practice).
 chapter. For the convenience of the user, Sec. 602.101 appears in the 
 Finding Aids section of the volumes containing parts 1 to 599.
 
-    For this volume, Karen A. Thornton was Chief Editor. The Code of 
+    For this volume, Cheryl E. Sirofchuck was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
 Frances D. McDonald, assisted by Alomha S. Morris.
 
@@ -271,6 +275,7 @@ Frances D. McDonald, assisted by Alomha S. Morris.
 
 <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
 
+
 
 [[Page 1]]
 
@@ -283,26 +288,22 @@ Frances D. McDonald, assisted by Alomha S. Morris.
 
                             (Part 600 to End)
 
-----------------------------------------------------------------------
+  --------------------------------------------------------------------
                                                                     Part
 
-Chapter i--Internal Revenue Service, Department of the 
+chapter i--Internal Revenue Service, Department of the 
   Treasury (Continued)......................................         601
 
 [[Page 3]]
 
 
 <R02>
-CHAPTER I--INTERNAL REVENUE SERVICE, DEPARTMENT OF THE TREASURY--(Continued)
-
-<R03>
-
-
-<R03>
-
+                  CHAPTER I--INTERNAL REVENUE SERVICE,
+                 DEPARTMENT OF THE TREASURY--(Continued)
                   (This book contains part 600 to End)
 
   --------------------------------------------------------------------
+
 
   Editorial Note: IRS published a document at 45 FR 6088, Jan. 25, 1980, 
 deleting statutory sections from their regulations. In chapter I, cross 
@@ -314,20 +315,14 @@ cross reference has been deleted. For further explanation, see 45 FR
 
                  SUBCHAPTER H--INTERNAL REVENUE PRACTICE
 Part                                                                Page
-600
-
-[Reserved]
-
+600             [Reserved]
 601             Statement of procedural rules...............           5
 602             OMB control numbers under the Paperwork 
                     Reduction Act...........................         145
 701             Presidential election campaign fund.........         161
 702             Presidential primary matching payment 
                     account.................................         162
-703-End
-
-[Reserved]
-
+703-End         [Reserved]
 
 Supplementary Publications: Internal Revenue Service Looseleaf 
   Regulations System.
@@ -343,12 +338,7 @@ Tobacco Tax Regulations, and Regulations Under Tax Conventions.
 
 <R05>
 
-
-<R03>
-PART 600--[RESERVED]
-
-<R05>
-
+                          PART 600--[RESERVED]
 
 
 <R03>
@@ -382,7 +372,7 @@ Sec.
 601.206  Certification required to obtain reduced foreign tax rates 
           under income tax treaties.
 
-                          Subpart C--[Reserved]
+                          Subpart C  [Reserved]
 
         Subpart D--Provisions Special to Certain Employment Taxes
 
@@ -395,7 +385,7 @@ Sec.
 601.503  Requirements of power of attorney, signatures, fiduciaries and 
           Commissioner's authority to substitute other requirements.
 601.504  Requirements for filing power of attorney.
-601.505  Revocation, change of representation and substitution or 
+601.505  Revocation, change in representation and substitution or 
           delegation of representative.
 601.506  Notices to be given to recognized representative; direct 
           contact with taxpayer; delivery of a check drawn on the United 
@@ -452,31 +442,31 @@ Sec. 601.101  Introduction.
 
     (a) General. The Internal Revenue Service is a bureau of the 
 Department of the Treasury under the immediate direction of the 
-Commissioner of Internal Revenue. The Commissioner has general 
-superintendence of the assessment and collection of all taxes imposed by 
-any law providing internal
+Commissioner of Internal Revenue. The Commissioner has
 
 [[Page 6]]
 
-revenue. The Internal Revenue Service is the agency by which these 
-functions are performed. Within an internal revenue district the 
-internal revenue laws are administered by a district director of 
-internal revenue. The Director, Foreign Operations District, administers 
-the internal revenue laws applicable to taxpayers residing or doing 
-business abroad, foreign taxpayers deriving income from sources within 
-the United States, and taxpayers who are required to withhold tax on 
-certain payments to nonresident aliens and foreign corporations, 
-provided the books and records of those taxpayers are located outside 
-the United States. For purposes of these procedural rules any reference 
-to a district director or a district office includes the Director, 
-Foreign Operations District, or the District Office, Foreign Operations 
-District, if appropriate. Generally, the procedural rules of the Service 
-are based on the Internal Revenue Code of 1939 and the Internal Revenue 
-Code of 1954, and the procedural rules in this part apply to the taxes 
-imposed by both Codes except to the extent specifically stated or where 
-the procedure under one Code is incompatible with the procedure under 
-the other Code. Reference to sections of the Code are references to the 
-Internal Revenue Code of 1954, unless otherwise expressly indicated.
+general superintendence of the assessment and collection of all taxes 
+imposed by any law providing internal revenue. The Internal Revenue 
+Service is the agency by which these functions are performed. Within an 
+internal revenue district the internal revenue laws are administered by 
+a district director of internal revenue. The Director, Foreign 
+Operations District, administers the internal revenue laws applicable to 
+taxpayers residing or doing business abroad, foreign taxpayers deriving 
+income from sources within the United States, and taxpayers who are 
+required to withhold tax on certain payments to nonresident aliens and 
+foreign corporations, provided the books and records of those taxpayers 
+are located outside the United States. For purposes of these procedural 
+rules any reference to a district director or a district office includes 
+the Director, Foreign Operations District, or the District Office, 
+Foreign Operations District, if appropriate. Generally, the procedural 
+rules of the Service are based on the Internal Revenue Code of 1939 and 
+the Internal Revenue Code of 1954, and the procedural rules in this part 
+apply to the taxes imposed by both Codes except to the extent 
+specifically stated or where the procedure under one Code is 
+incompatible with the procedure under the other Code. Reference to 
+sections of the Code are references to the Internal Revenue Code of 
+1954, unless otherwise expressly indicated.
     (b) Scope. This part sets forth the procedural rules of the Internal 
 Revenue Service respecting all taxes administered by the Service, and 
 supersedes the previously published statement (26 CFR (1949 ed., Part 
@@ -502,6 +492,7 @@ that reference be made to the applicable provisions of law and the
 regulations promulgated thereunder. The regulations relating to the 
 taxes administered by the Service are contained in Title 26 of the Code 
 of Federal Regulations.
+
 [38 FR 4955, Feb. 23, 1973 and 41 FR 20880, May 21, 1976, as amended at 
 45 FR 7251, Feb. 1, 1980; 49 FR 36498, Sept. 18, 1984; T.D. 8685, 61 FR 
 58008, Nov. 12, 1996]
@@ -528,13 +519,12 @@ of the 1954 Code.
     (iv) The tax on generation-skipping transfers imposed by Chapter 13 
 of the 1954 Code.
     (v) Taxes imposed by Chapters 41 through 44 of the 1954 Code.
-    (2) Taxes not within the jurisdiction of the U.S. Tax Court. Taxes 
-not imposed by Chapter 1, 2, 3, or 4 of the 1939 Code or Subtitle A or 
-Chapter 11 or 12
 
 [[Page 7]]
 
-of the 1954 Code are within this class, such as:
+    (2) Taxes not within the jurisdiction of the U.S. Tax Court. Taxes 
+not imposed by Chapter 1, 2, 3, or 4 of the 1939 Code or Subtitle A or 
+Chapter 11 or 12 of the 1954 Code are within this class, such as:
     (i) Employment taxes.
     (ii) Miscellaneous excise taxes collected by return.
     (3) The difference between these two main classes is that only taxes 
@@ -544,6 +534,7 @@ tribunal prior to payment. Taxes of both classes may be contested by
 first making payment, filing claim for refund, and then bringing suit to 
 recover if the claim is disallowed or no decision is rendered thereon 
 within six months.
+
 [32 FR 15990, Nov. 22, 1967, as amended at 35 FR 7111, May 6, 1970; 46 
 FR 26053, May 11, 1981; T.D. 8685, 61 FR 58008, Nov. 12, 1996]
 
@@ -601,40 +592,40 @@ mail unless the taxpayer waives this restriction on assessment. See,
 however, Secs. 601.105(h) and 601.109 for exceptions. The taxpayer may 
 then file a petition for a redetermination of the proposed deficiency 
 with the U.S. Tax Court within 90 days from the date of the mailing of 
-the statutory notice. If the notice is addressed to a person outside the 
-States of the Union and the District of Columbia, the period within 
-which a petition may be filed in the
+the statutory notice. If
 
 [[Page 8]]
 
-Tax Court is 150 days in lieu of 90 days. In other words, the taxpayer 
-has the right in respect of these taxes to contest any proposed 
-deficiency before an independent tribunal prior to assessment or payment 
-of the deficiency. Unless the taxpayer waives the restrictions on 
-assessment and collection after the date of the mailing of the statutory 
-notice, no assessment or collection of a deficiency (not including the 
-correction of a mathematical error) may be made in respect of these 
-taxes until the expiration of the applicable period or, if a petition is 
-filed with the Tax Court, until the decision of the Court has become 
-final. If, however, the taxpayer makes a payment with respect to a 
-deficiency, the amount of such payment may be assessed. See, however, 
-Sec. 601.105(h). If the taxpayer fails to file a petition with the Tax 
-Court within the applicable period, the deficiency will be assessed upon 
-the expiration of such period and notice and demand for payment of the 
-amount thereof will be mailed to the taxpayer. If the taxpayer files a 
-petition with the Tax Court, the entire amount redetermined as the 
-deficiency by a final decision of the Tax Court will be assessed and is 
-payable upon notice and demand. There are no restrictions on the timely 
-assessment and collection of the amount of any deficiency determined by 
-the Tax Court, and a notice of appeal of the Court's decision will not 
-stay the assessment and collection of the deficiency so determined, 
-unless on or before the time the notice of appeal is filed the taxpayer 
-files with the Tax Court a bond in a sum fixed by the Court not 
-exceeding twice the portion of the deficiency in respect of which the 
-notice of appeal is filed. No part of an amount determined as a 
-deficiency but disallowed as such by a decision of the Tax Court which 
-has become final may be assessed or collected by levy or by proceeding 
-in court with or without assessment.
+the notice is addressed to a person outside the States of the Union and 
+the District of Columbia, the period within which a petition may be 
+filed in the Tax Court is 150 days in lieu of 90 days. In other words, 
+the taxpayer has the right in respect of these taxes to contest any 
+proposed deficiency before an independent tribunal prior to assessment 
+or payment of the deficiency. Unless the taxpayer waives the 
+restrictions on assessment and collection after the date of the mailing 
+of the statutory notice, no assessment or collection of a deficiency 
+(not including the correction of a mathematical error) may be made in 
+respect of these taxes until the expiration of the applicable period or, 
+if a petition is filed with the Tax Court, until the decision of the 
+Court has become final. If, however, the taxpayer makes a payment with 
+respect to a deficiency, the amount of such payment may be assessed. 
+See, however, Sec. 601.105(h). If the taxpayer fails to file a petition 
+with the Tax Court within the applicable period, the deficiency will be 
+assessed upon the expiration of such period and notice and demand for 
+payment of the amount thereof will be mailed to the taxpayer. If the 
+taxpayer files a petition with the Tax Court, the entire amount 
+redetermined as the deficiency by a final decision of the Tax Court will 
+be assessed and is payable upon notice and demand. There are no 
+restrictions on the timely assessment and collection of the amount of 
+any deficiency determined by the Tax Court, and a notice of appeal of 
+the Court's decision will not stay the assessment and collection of the 
+deficiency so determined, unless on or before the time the notice of 
+appeal is filed the taxpayer files with the Tax Court a bond in a sum 
+fixed by the Court not exceeding twice the portion of the deficiency in 
+respect of which the notice of appeal is filed. No part of an amount 
+determined as a deficiency but disallowed as such by a decision of the 
+Tax Court which has become final may be assessed or collected by levy or 
+by proceeding in court with or without assessment.
     (3) Claims for refund. After payment of the tax a taxpayer may, 
 within the applicable period of limitations, contest the assessment by 
 filing with the district director a claim for refund of all or any part 
@@ -658,6 +649,7 @@ Code, if the taxpayer files a written waiver of the requirement that the
 taxpayer be sent a notice of disallowance, the 2-year period for 
 bringing suit begins to run on the date such waiver is filed. See 
 section 6532(a) of the Code.
+
 [32 FR 15990, Nov. 22, 1967, as amended at 38 FR 4955, Feb. 23, 1973; 43 
 FR 44497, Sept. 28, 1978; 45 FR 7251, Feb. 1, 1980; 46 FR 26053, May 11, 
 1981; 49 FR 36498, Sept. 18, 1984]
@@ -674,12 +666,12 @@ Optional Tax Tables may elect to have the Internal Revenue Service
 compute the tax and mail them a notice stating the amount of tax due. If 
 a taxpayer fails to make a return it may be made for the taxpayer by a 
 district director or other duly authorized officer or employee. See 
-section 6020 of the Code and the regulations thereunder. Returns must be 
-made on the forms prescribed by the Internal Revenue Service. Forms are 
-obtainable at the principal
+section 6020 of the Code and
 
 [[Page 9]]
 
+the regulations thereunder. Returns must be made on the forms prescribed 
+by the Internal Revenue Service. Forms are obtainable at the principal 
 and branch offices of district directors of internal revenue. Taxpayers 
 overseas may also obtain forms from any U.S. Embassy or consulate. Forms 
 are generally mailed to persons whom the Service has reason to believe 
@@ -741,24 +733,24 @@ the return of an individual, such individual may obtain an automatic 4-
 month extension of time for filing his or her return by filing Form 4868 
 accompanied by payment of the full amount of the estimated unpaid tax 
 liability.
+
+[[Page 10]]
+
     (c) Enforcement procedure--(1) General. Taxes shown to be due on 
 returns, deficiencies in taxes, additional or delinquent taxes to be 
 assessed, and penalties, interest, and additions to taxes, are recorded 
 by the district director or the director of the appropriate service 
-center as ``assessments.'' Under the law
-
-[[Page 10]]
-
-an assessment is prima facie correct for all purposes. Generally, the 
-taxpayer bears the burden of disproving the correctness of an 
-assessment. Upon assessment, the district director is required to effect 
-collection of any amounts which remain due and unpaid. Generally, 
-payment within 10 days from the date of the notice and demand for 
-payment is requested; however, payment may be required in a shorter 
-period if collection of the tax is considered to be in jeopardy. When 
-collection of income tax is in jeopardy, the taxpayer's taxable period 
-may be terminated under section 6851 of the Code and assessment of the 
-tax made expeditiously under section 6201 of the Code.
+center as ``assessments.'' Under the law an assessment is prima facie 
+correct for all purposes. Generally, the taxpayer bears the burden of 
+disproving the correctness of an assessment. Upon assessment, the 
+district director is required to effect collection of any amounts which 
+remain due and unpaid. Generally, payment within 10 days from the date 
+of the notice and demand for payment is requested; however, payment may 
+be required in a shorter period if collection of the tax is considered 
+to be in jeopardy. When collection of income tax is in jeopardy, the 
+taxpayer's taxable period may be terminated under section 6851 of the 
+Code and assessment of the tax made expeditiously under section 6201 of 
+the Code.
     (2) Levy. If a taxpayer neglects or refuses to pay any tax within 
 the period provided for its payment, it is lawful for the district 
 director to make collection by levy on the taxpayer's property. However, 
@@ -808,42 +800,41 @@ the issuance of release is sought. The Code also contains additional
 provisions with respect to the discharge of specific property from the 
 effect of the lien. Also, under certain conditions, a lien may be 
 subordinated. The Code also contains additional provisions with respect 
-to liens in the case of estate and gift taxes. For the specific rules 
-with respect to liens, see Subchapter C of Chapter 64 of the Code and 
-the regulations thereunder.
-    (4) Penalties. In the case of failure to file a return within the 
-prescribed time, a certain percentage of the amount of tax (or a minimum 
-penalty) is, pursuant to statute, added to the
+to liens in the case of estate and gift taxes. For the specific
 
 [[Page 11]]
 
-tax unless the failure to file the return within the prescribed time is 
-shown to the satisfaction of the district director or the director of 
-the appropriate service center to be due to reasonable cause and not 
-neglect. In the case of failure to file an exempt organization 
-information return within the prescribed time, a penalty of $10 a day 
-for each day the return is delinquent is assessed unless the failure to 
-file the return within the prescribed time is shown to be due to 
-reasonable cause and not neglect. In the case of failure to pay or 
-deposit taxes due within the prescribed time, a certain percentage of 
-the amount of tax due is, pursuant to statute, added to the tax unless 
-the failure to pay or deposit the tax due within the prescribed time is 
-shown to the satisfaction of the district director or the director of 
-the appropriate service center to be due to reasonable cause and not 
-neglect. Civil penalties are also imposed for fraudulent returns; in the 
-case of income and gift taxes, for intentional disregard of rules and 
-regulations or negligence; and additions to the tax are imposed for the 
-failure to comply with the requirements of law with respect to the 
-estimated income tax. There are also civil penalties for filing false 
-withholding certificates, for substantial understatement of income tax, 
-for filing a frivolous return, for organizing or participating in the 
-sale of abusive tax shelters, and for aiding and abetting in the 
-understatement of tax liability. See Chapter 68 of the Code. A 50 
-percent penalty, in addition to the personal liability incurred, is 
-imposed upon any person who fails or refuses without reasonable cause to 
-honor a levy. Criminal penalties are imposed for willful failure to make 
-returns, keep records, supply information, etc. See Chapter 75 of the 
-Code.
+rules with respect to liens, see Subchapter C of Chapter 64 of the Code 
+and the regulations thereunder.
+    (4) Penalties. In the case of failure to file a return within the 
+prescribed time, a certain percentage of the amount of tax (or a minimum 
+penalty) is, pursuant to statute, added to the tax unless the failure to 
+file the return within the prescribed time is shown to the satisfaction 
+of the district director or the director of the appropriate service 
+center to be due to reasonable cause and not neglect. In the case of 
+failure to file an exempt organization information return within the 
+prescribed time, a penalty of $10 a day for each day the return is 
+delinquent is assessed unless the failure to file the return within the 
+prescribed time is shown to be due to reasonable cause and not neglect. 
+In the case of failure to pay or deposit taxes due within the prescribed 
+time, a certain percentage of the amount of tax due is, pursuant to 
+statute, added to the tax unless the failure to pay or deposit the tax 
+due within the prescribed time is shown to the satisfaction of the 
+district director or the director of the appropriate service center to 
+be due to reasonable cause and not neglect. Civil penalties are also 
+imposed for fraudulent returns; in the case of income and gift taxes, 
+for intentional disregard of rules and regulations or negligence; and 
+additions to the tax are imposed for the failure to comply with the 
+requirements of law with respect to the estimated income tax. There are 
+also civil penalties for filing false withholding certificates, for 
+substantial understatement of income tax, for filing a frivolous return, 
+for organizing or participating in the sale of abusive tax shelters, and 
+for aiding and abetting in the understatement of tax liability. See 
+Chapter 68 of the Code. A 50 percent penalty, in addition to the 
+personal liability incurred, is imposed upon any person who fails or 
+refuses without reasonable cause to honor a levy. Criminal penalties are 
+imposed for willful failure to make returns, keep records, supply 
+information, etc. See Chapter 75 of the Code.
     (5) Informants' rewards. Payments to informers are authorized for 
 detecting and bringing to trial and punishment persons guilty of 
 violating the internal revenue laws. See section 7623 of the Code and 
@@ -852,6 +843,7 @@ the regulations thereunder. Claims for rewards should be made on Form
 should be forwarded to the district director of internal revenue for the 
 district in which the informer resides, or to the Commissioner of 
 Internal Revenue, Washington, DC 20224.
+
 [32 FR 15990, Nov. 22, 1967, as amended at 32 FR 20645, Dec. 21, 1967; 
 33 FR 17234, Nov. 21, 1968; 34 FR 6424, Apr. 12, 1969; 35 FR 7112, May 
 6, 1970; 36 FR 7584, Apr. 22, 1971; 38 FR 4956, Feb. 23, 1973; 45 FR 
@@ -883,16 +875,16 @@ function of examiners in the Examination Division of the office of each
 district director of internal revenue. Such examiners are organized in 
 groups, each of which is under the immediate supervision of a group 
 supervisor designated by the district director. Revenue agents (and such 
-other officers or employees of the Internal Revenue Service as may be 
-designated for this purpose by the Commissioner) are authorized to 
-examine any books, papers, records, or memoranda bearing upon matters 
-required to be included in Federal tax returns and to take testimony 
-relative thereto and to administer oaths. See
+other officers or employees of the
 
 [[Page 12]]
 
-section 7602 of the Code and the regulations thereunder. There are two 
-general types of examination. These are commonly called ``office 
+Internal Revenue Service as may be designated for this purpose by the 
+Commissioner) are authorized to examine any books, papers, records, or 
+memoranda bearing upon matters required to be included in Federal tax 
+returns and to take testimony relative thereto and to administer oaths. 
+See section 7602 of the Code and the regulations thereunder. There are 
+two general types of examination. These are commonly called ``office 
 examination'' and ``field examination''. During the examination of a 
 return a taxpayer may be represented before the examiner by an attorney, 
 certified public accountant, or other representative. See Subpart E of 
@@ -951,19 +943,18 @@ additional tax or penalty and waiver of right to file claim for
 abatement, or the acceptance of the proposed overassessment. Even though 
 the taxpayer signs an acceptance of a proposed overassessment the 
 district director or the director of the regional service center remains 
-free to assess a deficiency. On the other hand, the taxpayer who has 
+free to assess a deficiency. On the other hand, the taxpayer who has
+
+[[Page 13]]
+
 given a waiver may still claim a refund of any part of the deficiency 
 assessed against, and paid by, the taxpayer, or any part of the tax 
 originally assessed and paid by the taxpayer. The taxpayer's acceptance 
 of an agreed overassessment does not prevent the taxpayer from filing a 
-claim and bringing
-
-[[Page 13]]
-
-a suit for an additional sum, nor does it preclude the Government from 
-maintaining suit to recover an erroneous refund. As a matter of 
-practice, however, waivers or acceptances ordinarily result in the 
-closing of a case insofar as the Government is concerned.
+claim and bringing a suit for an additional sum, nor does it preclude 
+the Government from maintaining suit to recover an erroneous refund. As 
+a matter of practice, however, waivers or acceptances ordinarily result 
+in the closing of a case insofar as the Government is concerned.
     (5) Technical advice from the National Office--(i) Definition and 
 nature of technical advice. (a) As used in this subparagraph, 
 ``technical advice'' means advice or guidance as to the interpretation 
@@ -1023,17 +1014,18 @@ district director even though an Appeals office has the identical issue
 under consideration in the case of another taxpayer (not related within 
 the meaning of section 267 of the Code) in an entirely different 
 transaction. Technical advice may not be requested with respect to a 
-taxable period if a prior Appeals disposition of the same taxable period 
-of the same taxpayer's case was based on mutual concessions (ordinarily 
-with a Form 870-AD, Offer of Waiver of Restrictions on Assessment and 
-Collection of Deficiency in Tax and of Acceptance of Overassessment). 
-However, technical advice may be requested by a district
+taxable period if a prior Appeals disposition of
 
 [[Page 14]]
 
-director on issues previously considered in a prior Appeals disposition, 
-not based on mutual concessions, of the same taxable periods of the same 
-taxpayer with the concurrence of the Appeals office that had the case.
+the same taxable period of the same taxpayer's case was based on mutual 
+concessions (ordinarily with a Form 870-AD, Offer of Waiver of 
+Restrictions on Assessment and Collection of Deficiency in Tax and of 
+Acceptance of Overassessment). However, technical advice may be 
+requested by a district director on issues previously considered in a 
+prior Appeals disposition, not based on mutual concessions, of the same 
+taxable periods of the same taxpayer with the concurrence of the Appeals 
+office that had the case.
     (ii) Areas in which technical advice may be requested. (a) District 
 directors may request technical advice on any technical or procedural 
 question that develops during the audit or examination of a return, or 
@@ -1091,27 +1083,28 @@ writing as to the areas of disagreement. The taxpayer will be given 10
 calendar days after receipt of the written notice to reply to the 
 district official's letter. An extension of time must be justified by 
 the taxpayer in writing and approved by the Chief, Examination Division. 
-If agreement cannot be reached, both the statements of the taxpayer and 
-the district official will be forwarded to the National Office.
-    (e)(1) In the case of requests for technical advice the taxpayer 
-must also
+If agreement cannot be reached, both the statements
 
 [[Page 15]]
 
-submit, within the 10-day period referred to in (c) and (d) of this 
-subdivision, whichever applicable (relating to agreement by the taxpayer 
-with the statement of facts submitted in connection with the request for 
-technical advice), the statement described in (f) of this subdivision of 
-proposed deletions pursuant to section 6110(c) of the Code. If the 
-statement is not submitted, the taxpayer will be informed by the 
-district director that such a statement is required. If the district 
-director does not receive the statement within 10 days after the 
-taxpayer has been informed of the need for such statement, the district 
-director may decline to submit the request for technical advice. If the 
-district director decides to request technical advice in a case where 
-the taxpayer has not submitted the statement of proposed deletions, the 
-National Office will make those deletions which in the judgment of the 
-Commissioner are required by section 6110(c) of the Code.
+of the taxpayer and the district official will be forwarded to the 
+National Office.
+    (e)(1) In the case of requests for technical advice the taxpayer 
+must also submit, within the 10-day period referred to in (c) and (d) of 
+this subdivision, whichever applicable (relating to agreement by the 
+taxpayer with the statement of facts submitted in connection with the 
+request for technical advice), the statement described in (f) of this 
+subdivision of proposed deletions pursuant to section 6110(c) of the 
+Code. If the statement is not submitted, the taxpayer will be informed 
+by the district director that such a statement is required. If the 
+district director does not receive the statement within 10 days after 
+the taxpayer has been informed of the need for such statement, the 
+district director may decline to submit the request for technical 
+advice. If the district director decides to request technical advice in 
+a case where the taxpayer has not submitted the statement of proposed 
+deletions, the National Office will make those deletions which in the 
+judgment of the Commissioner are required by section 6110(c) of the 
+Code.
     (2) The requirements included in Sec. 601.105(b)(5) with respect to 
 submissions of statements and other material with respect to proposed 
 deletions to be made from technical advice memoranda before public 
@@ -1159,15 +1152,15 @@ taxpayer may submit within 10 days any further information, arguments or
 other material in support of the position that such material be deleted. 
 The Internal Revenue Service will attempt, if feasible, to resolve all 
 disagreements with respect to proposed deletions prior to the time the 
-National Office replies to the request for technical advice. However, in 
-no event shall the taxpayer have the right to a conference with respect 
-to resolution of any disagreements concerning material to be deleted 
-from the text of the technical advice memorandum, but such matters
+National Office replies to
 
 [[Page 16]]
 
-may be considered at any conference otherwise scheduled with respect to 
-the request.
+the request for technical advice. However, in no event shall the 
+taxpayer have the right to a conference with respect to resolution of 
+any disagreements concerning material to be deleted from the text of the 
+technical advice memorandum, but such matters may be considered at any 
+conference otherwise scheduled with respect to the request.
     (j) The provisions of (a) through (i) of this subdivision, relating 
 to the referral of issues upon request of the taxpayer, advising 
 taxpayers of the referral of issues, the submission of proposed 
@@ -1227,17 +1220,17 @@ in the National Office.
     (v) Conference in the National Office. (a) If, after a study of the 
 technical advice request, it appears that advice adverse to the taxpayer 
 should be given and a conference has been requested, the taxpayer will 
-be notified of the time and place of the conference. If conferences are 
-being arranged with respect to more than one request for advice 
-involving the same taxpayer, they will be so scheduled as to cause the 
-least inconvenience to the taxpayer. The conference will be arranged by 
-telephone, if possible, and must be held within 21 calendar days after 
-contact has been made. Extensions of time will
+be notified of the time and place of the conference. If
 
 [[Page 17]]
 
-be granted only if justified in writing by the taxpayer and approved by 
-the appropriate Technical branch chief.
+conferences are being arranged with respect to more than one request for 
+advice involving the same taxpayer, they will be so scheduled as to 
+cause the least inconvenience to the taxpayer. The conference will be 
+arranged by telephone, if possible, and must be held within 21 calendar 
+days after contact has been made. Extensions of time will be granted 
+only if justified in writing by the taxpayer and approved by the 
+appropriate Technical branch chief.
     (b) A taxpayer is entitled, as a matter of right, to only one 
 conference in the National Office unless one of the circumstances 
 discussed in (c) of this subdivision exists. This conference will 
@@ -1282,14 +1275,13 @@ information as to the status of the case may do so by contacting the
 following offices with respect to matters in the areas of their 
 responsibility:
 
-                                                                        
-                                                                        
-                                              Telephone numbers, (Area  
-                 Official                             Code 202)         
-                                                                        
-Director, Corporation Tax Division          566-4504, 566-4505.         
-Director, Individual Tax Division           566-3767 or 566-3788.       
-                                                                        
+ 
+                                              Telephone numbers, (Area
+                 Official                             Code 202)
+ 
+Director, Corporation Tax Division          566-4504, 566-4505.
+Director, Individual Tax Division           566-3767 or 566-3788.
+ 
 
     (vi) Preparation of technical advice memorandum by the National 
 Office. (a) Immediately upon receipt in the National Office, the 
@@ -1304,18 +1296,18 @@ deletions, the National Office will make those deletions from the
 technical advice memorandum which in the judgment of the Commissioner 
 are required by section 6110(c) of the Code.
     (b) If the taxpayer has requested a conference in the National 
-Office, the procedures in subdivision (v) of this subparagraph will be 
-followed.
-    (c) Replies to requests for technical advice will be addressed to 
-the district director and will be drafted in two parts. Each part will 
-identify the taxpayer by name, address, identification number, and year 
-or years involved. The first part (hereafter called the
+Office, the
 
 [[Page 18]]
 
-``Technical Advice Memorandum'') will contain (1) a recitation of the 
-pertinent facts having a bearing on the issue; (2) a discussion of the 
-facts, precedents, and reasoning of the National Office; and (3) the 
+procedures in subdivision (v) of this subparagraph will be followed.
+    (c) Replies to requests for technical advice will be addressed to 
+the district director and will be drafted in two parts. Each part will 
+identify the taxpayer by name, address, identification number, and year 
+or years involved. The first part (hereafter called the ``Technical 
+Advice Memorandum'') will contain (1) a recitation of the pertinent 
+facts having a bearing on the issue; (2) a discussion of the facts, 
+precedents, and reasoning of the National Office; and (3) the 
 conclusions of the National Office. The conclusions will give direct 
 answers, whenever possible, to the specific questions of the district 
 office. The discussion of the issues will be in such detail that the 
@@ -1372,16 +1364,17 @@ of intention to disclose the technical advice memorandum (including a
 copy of the version proposed to be open to public inspection and 
 notations of third party communications pursuant to section 6110(d) of 
 the Code). The preceding sentence shall not apply to technical advice 
-memoranda involving civil fraud or criminal investigations, or jeopardy 
-or termination assessments, as described in subdivision (iii)(j) of this 
-subparagraph or to documents to which section 6104 of the Code applies.
-    (c) In those cases in which the National Office advises the district 
-director that he should not furnish a copy of
+memoranda involving civil fraud
 
 [[Page 19]]
 
-the technical memorandum to the taxpayer, the district director will so 
-inform the taxpayer if he requests a copy.
+or criminal investigations, or jeopardy or termination assessments, as 
+described in subdivision (iii)(j) of this subparagraph or to documents 
+to which section 6104 of the Code applies.
+    (c) In those cases in which the National Office advises the district 
+director that he should not furnish a copy of the technical memorandum 
+to the taxpayer, the district director will so inform the taxpayer if he 
+requests a copy.
     (viii) Effect of technical advice. (a) A technical advice memorandum 
 represents an expression of the views of the Service as to the 
 application of law, regulations, and precedents to the facts of a 
@@ -1440,18 +1433,18 @@ will be submitted to the district Centralized Services and, in some
 cases, Quality Review function for appropriate review. Following such 
 review, the taxpayer will be sent a copy of the examination report under 
 cover of a transmittal (30-day) letter, providing a detailed explanation 
-of the alternatives available, including consideration of the case by an 
-Appeals office, and requesting the taxpayer to inform the district 
-director, within the specified period, of the choice of action.
-    (ii) If the total amount of proposed additional tax, proposed 
-overassessment, or claimed refund (or, in an offer
+of the alternatives available, including consideration of the case by an
 
 [[Page 20]]
 
-in compromise, the total amount of assessed tax, penalty, and interest 
-sought to be compromised) does not exceed $2,500 for any taxable period, 
-the taxpayer will be granted an Appeals office conference on request. A 
-written protest is not required.
+Appeals office, and requesting the taxpayer to inform the district 
+director, within the specified period, of the choice of action.
+    (ii) If the total amount of proposed additional tax, proposed 
+overassessment, or claimed refund (or, in an offer in compromise, the 
+total amount of assessed tax, penalty, and interest sought to be 
+compromised) does not exceed $2,500 for any taxable period, the taxpayer 
+will be granted an Appeals office conference on request. A written 
+protest is not required.
     (iii) If for any taxable period the total amount of proposed 
 additional tax including penalties, proposed overassessment, or claimed 
 refund (or, in an offer in compromise, the total amount of assessed tax, 
@@ -1512,13 +1505,14 @@ statement of disputed issues is required) to obtain Appeals
 consideration in a field examination case if for any taxable period the 
 total amount of proposed additional tax including penalties, proposed 
 overassessment, or claimed refund (or, in an offer in compromise, the 
-total amount of assessed tax, penalty, and interest sought to be 
-compromised) exceeds $2,500 but does not exceed $10,000.
-    (v) Instructions for preparation of written protests are sent to the 
-taxpayer with the transmittal (30-day) letter.
+total amount of assessed tax, penalty,
 
 [[Page 21]]
 
+and interest sought to be compromised) exceeds $2,500 but does not 
+exceed $10,000.
+    (v) Instructions for preparation of written protests are sent to the 
+taxpayer with the transmittal (30-day) letter.
     (e) Claims for refund or credit. (1) After payment of the tax a 
 taxpayer may (unless he has executed an agreement to the contrary) 
 contest the assessment by filing a claim for refund or credit for all or 
@@ -1582,14 +1576,14 @@ extends the period during which the taxpayer may claim a refund or
 credit to a date 6 months after the agreed time of extension of the 
 assessment period. When appropriate, a consent may be entered into 
 restricted to certain issues.
-    (g) Fraud. The procedure described in this section does not apply in 
-any case in which criminal prosecution is under consideration. Such 
-procedure does obtain, however, in cases involving the assertion of the 
-civil fraud penalty
 
 [[Page 22]]
 
-after the criminal aspects of the case have been closed.
+    (g) Fraud. The procedure described in this section does not apply in 
+any case in which criminal prosecution is under consideration. Such 
+procedure does obtain, however, in cases involving the assertion of the 
+civil fraud penalty after the criminal aspects of the case have been 
+closed.
     (h) Jeopardy assessments. If the district director believes that the 
 assessment or collection of a tax will be jeorpardized by delay, he/she 
 is authorized and required to assess the tax immediately, together with 
@@ -2458,14 +2452,13 @@ information as to the status of the case may do so by contacting the
 following offices with respect to matters in the areas of their 
 responsibility:
 
-                                                                        
-                                                                        
-                                              Telephone numbers, (Area  
-                 Official                             Code 202)         
-                                                                        
-Director, Corporation Tax Division          566-4504, 566-4505.         
-Director, Individual Tax Division           566-3767 or 566-3788.       
-                                                                        
+ 
+                                              Telephone numbers, (Area
+                 Official                             Code 202)
+ 
+Director, Corporation Tax Division          566-4504, 566-4505.
+Director, Individual Tax Division           566-3767 or 566-3788.
+ 
 
     (vi) Preparation of technical advice memorandum by the National 
 Office. (a) Immediately upon receipt in the National Office, the 
@@ -2702,6 +2695,7 @@ investigation and his authorized representative, if any, when he
 forwards a case to the Regional Counsel with a recommendation for 
 prosecution. The rule will not apply if the case is with a United States 
 Attorney.
+
 [33 FR 17235, Nov. 21, 1968, as amended at 38 FR 9227, Apr. 12, 1973; 39 
 FR 8917, Mar. 7, 1974; 43 FR 53029, Nov. 15, 1978]
 
@@ -2737,6 +2731,7 @@ If the final determination involves a rejection of a claimed overpayment
 in whole or in part, a statutory notice of disallowance will be sent by 
 certified or registered mail to the taxpayer, except where the taxpayer 
 has filed a written waiver of such notice of disallowance.
+
 [32 FR 15990, Nov. 22, 1967, as amended at 42 FR 46519, Sept. 16, 1977; 
 43 FR 44503, Sept. 28, 1978; 43 FR 53030, Nov. 15, 1978; 45 FR 7255, 
 Feb. 1, 1980]
@@ -2893,6 +2888,7 @@ under section 77 or Chapter X of the Bankruptcy Act. Any taxes which are
 dischargeable under the Bankruptcy Act which remain unsatisfied after 
 the termination of the proceeding may be collected only from exempt or 
 abandoned property.
+
 [32 FR 15990, Nov. 22, 1967, as amended at 33 FR 6821, May 4, 1968; 35 
 FR 15917, Oct. 9, 1970; 43 FR 44503, Sept. 28, 1978; 45 FR 7255, Feb. 1, 
 1980]
@@ -3490,14 +3486,13 @@ information as to the status of the taxpayer's case may do so by
 contacting the following offices with respect to matters in the areas of 
 their responsibility:
 
-                                                                        
-                                                                        
-                                              Telephone numbers, (Area  
-                 Official                             Code 202)         
-                                                                        
-Director, Corporation Tax Division          566-4504, 566-4505.         
-Director, Individual Tax Division           566-3767 or 566-3788.       
-                                                                        
+ 
+                                              Telephone numbers, (Area
+                 Official                             Code 202)
+ 
+Director, Corporation Tax Division          566-4504, 566-4505.
+Director, Individual Tax Division           566-3767 or 566-3788.
+ 
 
     (16) After receiving the notice pursuant to section 6110(f)(1) of 
 the Code of intention to disclose the ruling or determination letter 
@@ -4878,16 +4873,15 @@ information as to the status of its case (other than a section 521 case)
 may do so by contacting the following offices with respect to matters in 
 the areas of their responsibility:
 
-                                                                        
-                                                                        
-                                              Telephone numbers, (Area  
-                 Official                             Code 202)         
-                                                                        
-Chief, Employee Plans Technical Branch      566-3871.                   
-Chief, Exempt Organizations Technical       566-3856 or 566-3593.       
- Branch                                                                 
-Director, Actuarial Division                566-4311                    
-                                                                        
+ 
+                                              Telephone numbers, (Area
+                 Official                             Code 202)
+ 
+Chief, Employee Plans Technical Branch      566-3871.
+Chief, Exempt Organizations Technical       566-3856 or 566-3593.
+ Branch
+Director, Actuarial Division                566-4311
+ 
 
 
 An organization or its representative desiring to obtain information as 
@@ -5436,54 +5430,53 @@ preceding sentence shall not apply.
     (4) Key district offices. Following are the 19 key district offices 
 that issue determination letters and the area covered:
 
-                                                                        
-                                                                        
-              Key district(s)                   IRS districts covered   
-                                                                        
-Central Region:                                                         
-  Cincinnati..............................  Cincinnati, Louisville,     
-                                             Indianapolis               
-  Cleveland...............................  Cleveland, Parkersburg      
-  Detroit.................................  Detroit                     
-Mid-Atlantic Region:                                                    
-  Baltimore...............................  Baltimore (which includes   
-                                             the District of Columbia   
+ 
+              Key district(s)                   IRS districts covered
+ 
+Central Region:
+  Cincinnati..............................  Cincinnati, Louisville,
+                                             Indianapolis
+  Cleveland...............................  Cleveland, Parkersburg
+  Detroit.................................  Detroit
+Mid-Atlantic Region:
+  Baltimore...............................  Baltimore (which includes
+                                             the District of Columbia
                                              and Office of International
-                                             Operations), Pittsburgh,   
-                                             Richmond                   
-  Philadelphia............................  Philadelphia, Wilmington    
-  Newark..................................  Newark                      
-Midwest Region:                                                         
-  Chicago.................................  Chicago                     
-  St. Paul................................  St. Paul, Fargo, Aberdeen,  
-                                             Milwaukee                  
-  St. Louis...............................  St. Louis, Springfield, Des 
-                                             Moines, Omaha              
-North-Atlantic Region:                                                  
+                                             Operations), Pittsburgh,
+                                             Richmond
+  Philadelphia............................  Philadelphia, Wilmington
+  Newark..................................  Newark
+Midwest Region:
+  Chicago.................................  Chicago
+  St. Paul................................  St. Paul, Fargo, Aberdeen,
+                                             Milwaukee
+  St. Louis...............................  St. Louis, Springfield, Des
+                                             Moines, Omaha
+North-Atlantic Region:
   Boston..................................  Boston, Augusta, Burlington,
-                                             Providence, Hartford,      
-                                             Portsmouth                 
-  Manhattan...............................  Manhattan                   
-  Brooklyn................................  Brooklyn, Albany, Buffalo   
-Southeast Region:                                                       
-  Atlanta.................................  Atlanta, Greensboro,        
-                                             Columbia, Nashville        
-  Jacksonville............................  Jacksonville, Jackson,      
-                                             Birmingham                 
-Southwest Region:                                                       
-  Austin..................................  Austin, New Orleans,        
-                                             Albuquerque, Denver,       
-                                             Cheyenne                   
-  Dallas..................................  Dallas, Oklahoma City,      
-                                             Little Rock, Wichita       
-Western Region:                                                         
-  Los Angeles.............................  Los Angeles, Phoenix,       
-                                             Honolulu                   
-  San Francisco...........................  San Francisco, Salt Lake    
-                                             City, Reno                 
-  Seattle.................................  Seattle, Portland,          
-                                             Anchorage, Boise, Helena   
-                                                                        
+                                             Providence, Hartford,
+                                             Portsmouth
+  Manhattan...............................  Manhattan
+  Brooklyn................................  Brooklyn, Albany, Buffalo
+Southeast Region:
+  Atlanta.................................  Atlanta, Greensboro,
+                                             Columbia, Nashville
+  Jacksonville............................  Jacksonville, Jackson,
+                                             Birmingham
+Southwest Region:
+  Austin..................................  Austin, New Orleans,
+                                             Albuquerque, Denver,
+                                             Cheyenne
+  Dallas..................................  Dallas, Oklahoma City,
+                                             Little Rock, Wichita
+Western Region:
+  Los Angeles.............................  Los Angeles, Phoenix,
+                                             Honolulu
+  San Francisco...........................  San Francisco, Salt Lake
+                                             City, Reno
+  Seattle.................................  Seattle, Portland,
+                                             Anchorage, Boise, Helena
+ 
 
     (5) Administrative remedies of interested parties and the Pension 
 Benefit Guaranty Corporation. (i) With respect to plan years to which 
@@ -5636,13 +5629,12 @@ following:
 the representative, if any, who has been authorized to represent the 
 applicant as provided in paragraph (c)(6) of this section;
     (c) The key district office in which the case is pending;
-    (d) Type of plan (pension, annuity, profit-sharing, stock bonus, 
-bond purchase, and foreign situs trusts), and
 
 [[Page 79]]
 
-type of action involved (initial qualification, amendment, curtailment, 
-or termination);
+    (d) Type of plan (pension, annuity, profit-sharing, stock bonus, 
+bond purchase, and foreign situs trusts), and type of action involved 
+(initial qualification, amendment, curtailment, or termination);
     (e) Date of filing this request with the key district director and 
 the date and symbols of the letter referred to in paragraph (o)(6)(i) of 
 this section;
@@ -5708,13 +5700,13 @@ Service;
     (d) All written comments submitted to the Internal Revenue Service 
 pursuant to paragraphs (o)(5)(i) (a), (b), and (c) of this section, and 
 all correspondence in respect of comments submitted between the Internal 
-Revenue Service and persons (including the Pension Benefit Guaranty 
-Corporation and the
+Revenue Service and persons (including the Pension
 
 [[Page 80]]
 
-Department of Labor) submitting comments pursuant to paragraphs 
-(o)(5)(i) (a), (b), and (c) of this section;
+Benefit Guaranty Corporation and the Department of Labor) submitting 
+comments pursuant to paragraphs (o)(5)(i) (a), (b), and (c) of this 
+section;
     (e) In any case in which the Internal Revenue Service makes an 
 investigation regarding the facts as represented or alleged by the 
 applicant in his request for determination or in comments submitted 
@@ -5780,20 +5772,19 @@ and, if such department declines to comment, submission of such a
 comment in accordance with paragraph (o)(5)(i)(c) of this section, so 
 that such comment may be considered by the Internal Revenue Service 
 through the administrative process.
-    (iii) The administrative remedy of the Pension Benefit Guaranty 
-Corporation with respect to any matter relating to the qualification of 
-the plan is
 
 [[Page 81]]
 
-submission to the district director of a comment raising such matter in 
-accordance with paragraph (o)(5)(i)(a) of this section or requesting the 
-Department of Labor to submit to the district director a comment with 
-respect to such matter in accordance with paragraph (o)(5)(i)(b) of this 
-section, and, if such department declines to comment, submission of such 
-a comment to the Internal Revenue Service directly, so that such comment 
-may be considered by the Internal Revenue Service through the 
-administrative process.
+    (iii) The administrative remedy of the Pension Benefit Guaranty 
+Corporation with respect to any matter relating to the qualification of 
+the plan is submission to the district director of a comment raising 
+such matter in accordance with paragraph (o)(5)(i)(a) of this section or 
+requesting the Department of Labor to submit to the district director a 
+comment with respect to such matter in accordance with paragraph 
+(o)(5)(i)(b) of this section, and, if such department declines to 
+comment, submission of such a comment to the Internal Revenue Service 
+directly, so that such comment may be considered by the Internal Revenue 
+Service through the administrative process.
     (iv) An applicant, or an interested party, or the Pension Benefit 
 Guaranty Corporation shall in no event be deemed to have exhausted his 
 (its) administrative remedies prior to the earlier of:
@@ -5850,16 +5841,16 @@ constitute a ruling or determination as to the qualification of a plan
 as adopted by any individual employer or as to the exempt status of a 
 related trust or custodial account. However, where an employer adopts a 
 master or prototype plan and any related prototype trust or custodial 
-account previously approved as to form, and observes the provisions 
-thereof, such plan and trust or custodial account will be deemed to 
-satisfy the requirements of sections 401 and 501(a) of the Code, 
-provided the eligibility requirements and contributions
+account previously approved as to form, and observes the provisions
 
 [[Page 82]]
 
-on benefits under the plan for owner-employees are not more favorable 
-than for other employees, including those required to be covered under 
-plans of all businesses controlled by such owner-employees.
+thereof, such plan and trust or custodial account will be deemed to 
+satisfy the requirements of sections 401 and 501(a) of the Code, 
+provided the eligibility requirements and contributions on benefits 
+under the plan for owner-employees are not more favorable than for other 
+employees, including those required to be covered under plans of all 
+businesses controlled by such owner-employees.
     (iii) Although district directors no longer make advance 
 determinations on plans of self-employed individuals who have adopted 
 previously approved master or prototype plans, they will continue, upon 
@@ -5920,13 +5911,13 @@ old plan will continue to use the original serial number.
 (m) and paragraph (o) of this section, relating to the issuance of 
 rulings and determination letters, are applicable to requests relating 
 to the qualification of plans covering self-employed individuals under 
-sections 401 and 405(a) of the Code and the exempt status of related
+sections 401 and 405(a) of the
 
 [[Page 83]]
 
-trusts or custodial accounts under section 501(a), to the extent that 
-the matter is not covered by the specific procedures and instructions 
-contained in this paragraph.
+Code and the exempt status of related trusts or custodial accounts under 
+section 501(a), to the extent that the matter is not covered by the 
+specific procedures and instructions contained in this paragraph.
     (q) Corporate Master and prototype plans-- (1) Scope and 
 definitions. (i) The general procedures set forth in this paragraph 
 pertain to the issuance of rulings, determination letters, and opinion 
@@ -5991,12 +5982,12 @@ opinion letter will bear an identifying plan serial number. However,
 opinion letters will not be issued under this paragraph as to (a) plans 
 of a parent company and its subsidiaries, (b) pooled fund arrangements 
 contemplated by Revenue Ruling 56-267, C.B. 1956-1, 206, (c) industry-
-wide or area-wide union-negotiated plans, (d)
+wide or
 
 [[Page 84]]
 
-plans that include self-employed individuals, (e) stock bonus plans, and 
-(f) bond purchase plans.
+area-wide union-negotiated plans, (d) plans that include self-employed 
+individuals, (e) stock bonus plans, and (f) bond purchase plans.
     (iii) A ruling as to the exempt status of a trust or custodial 
 account under section 501(a) of the Code will be issued to the trustee 
 or custodian by the National Office where such trust or custodial 
@@ -6061,14 +6052,13 @@ form by the National Office.
 letters as to the acceptability of the form of plan, including 
 amendments (see subparagraph (5) of this paragraph), to all adopting 
 employers.
-    (5) Amendments. (i) Subsequent to obtaining approval of the form of 
-a master or prototype plan, a sponsoring organization may wish to amend 
-the
 
 [[Page 85]]
 
-plan. Whether a sponsoring organization may effect an amendment depends 
-on the plan's administrative provisions.
+    (5) Amendments. (i) Subsequent to obtaining approval of the form of 
+a master or prototype plan, a sponsoring organization may wish to amend 
+the plan. Whether a sponsoring organization may effect an amendment 
+depends on the plan's administrative provisions.
     (ii) If the plan provides that each subscribing employer has 
 delegated authority to the sponsor to amend the plan and that each such 
 employer shall be deemed to have consented thereto, the plan may be 
@@ -6129,17 +6119,17 @@ C.B. 657, as modified by Rev. Proc. 80-25, 1980-1 C.B. 667. These
 procedures apply in connection with notices filed by the organizations 
 on Form 4653, Notification Concerning Foundation Status, or with 
 applications for recognition of exempt status under section 501(c)(3) of 
-the Code. Such notices and statements are filed by organizations in 
-accordance with section 508(a) of the Code in order for
+the Code.
 
 [[Page 86]]
 
-an organization to avoid the presumption of private foundation status or 
-to claim status as an operating foundation. In addition, these 
-procedures also relate to National Office review of determination 
-letters on foundation status under sections 509(a) and 4942(j)(3) of the 
-Code and protest of adverse determination letters regarding foundation 
-status.
+Such notices and statements are filed by organizations in accordance 
+with section 508(a) of the Code in order for an organization to avoid 
+the presumption of private foundation status or to claim status as an 
+operating foundation. In addition, these procedures also relate to 
+National Office review of determination letters on foundation status 
+under sections 509(a) and 4942(j)(3) of the Code and protest of adverse 
+determination letters regarding foundation status.
     (2) Nonexempt charitable trusts claiming nonprivate foundation 
 status under section 509(a)(3) of the Code. A trust described in section 
 4947(a)(1) of the Code is one that is not exempt from tax under section 
@@ -6199,16 +6189,16 @@ to time in the Cumulative Bulletin (see, for example, Rev. Proc. 74-43,
 royalties of lessors under section 631(c) of IRC of 1954--(1) In 
 general. Rev. Proc. 77-11, 1977-1 C.B. 568, provides that the tax 
 liability of a lessor who received a bonus or an advance royalty is 
-required to be recomputed for the taxable year or years in which such 
-payment or payments were received if the right to mine coal or iron ore 
-under the lease expires, terminates, or is abandoned
+required to be recomputed for the taxable year or
 
 [[Page 87]]
 
-before (with respect to bonuses) any coal or iron ore has been mined; or 
-(with respect to advance royalties) the coal or iron ore that has been 
-paid for in advance is mined. In such recomputation, the lessor is 
-required to treat the bonus payment or payments or any portion of the 
+years in which such payment or payments were received if the right to 
+mine coal or iron ore under the lease expires, terminates, or is 
+abandoned before (with respect to bonuses) any coal or iron ore has been 
+mined; or (with respect to advance royalties) the coal or iron ore that 
+has been paid for in advance is mined. In such recomputation, the lessor 
+is required to treat the bonus payment or payments or any portion of the 
 advance royalty payment or payments attributable to unmined coal or iron 
 ore, as ordinary income and not as received from the sale of coal or 
 iron ore under section 631(c) of the Code.
@@ -6236,6 +6226,7 @@ advance royalty; and
 notify the appropriate district director of such event in writing within 
 90 days of the close of the taxable year in which the lease expires, 
 terminates, or is abandoned.
+
 [32 FR 15990, Nov. 22, 1967]
 
     Editorial Note: For Federal Register citations affecting 
@@ -6274,18 +6265,18 @@ agreement is subject to any change in or modification of the law enacted
 subsequent to the date of the agreement and applicable to such taxable 
 period, and each such closing agreement shall so recite. Closing 
 agreements may be entered into even though under the agreement the 
-taxpayer is not liable for any tax for the period to which the agreement 
-relates. There may be a series of agreements relating to the tax 
-liability for a single period. A closing agreement may be entered
+taxpayer is
 
 [[Page 88]]
 
-into in any case in which there appears to be an advantage in having the 
-case permanently and conclusively closed, or where good and sufficient 
-reasons are shown by the taxpayer for desiring a closing agreement and 
-it is determined by the Commissioner or his representatives that the 
-Government will sustain no disadvantage through consummation of such an 
-agreement.
+not liable for any tax for the period to which the agreement relates. 
+There may be a series of agreements relating to the tax liability for a 
+single period. A closing agreement may be entered into in any case in 
+which there appears to be an advantage in having the case permanently 
+and conclusively closed, or where good and sufficient reasons are shown 
+by the taxpayer for desiring a closing agreement and it is determined by 
+the Commissioner or his representatives that the Government will sustain 
+no disadvantage through consummation of such an agreement.
     (b) Use of prescribed forms. In cases in which it is proposed to 
 close conclusively the total tax liability for a taxable period ending 
 prior to the date of the agreement, Form 866, Agreement as to Final 
@@ -6343,15 +6334,15 @@ such mitigation and relief under Revenue Procedure 65-17, C.B. 1965-1,
 Operations District.
     (7) Closing agreements in cases under the jurisdiction of a district 
 director providing that the taxability of earnings from a deposit or 
-account of the type described in Revenue Procedure 64-24, C.B. 1964-1 
-(Part 1), 693, opened prior to November 15, 1962, will be determined on 
-the basis that earnings on
+account of the
 
 [[Page 89]]
 
-such deposits or accounts are not includable in gross income until 
-maturity or termination, whichever occurs earlier, and that the full 
-amount of earnings on the deposit or account will constitute gross 
+type described in Revenue Procedure 64-24, C.B. 1964-1 (Part 1), 693, 
+opened prior to November 15, 1962, will be determined on the basis that 
+earnings on such deposits or accounts are not includable in gross income 
+until maturity or termination, whichever occurs earlier, and that the 
+full amount of earnings on the deposit or account will constitute gross 
 income in the year the plan matures, is assigned, or is terminated, 
 whichever occurs first, may be entered into and approved by such 
 district director.
@@ -6360,6 +6351,7 @@ to requests for rulings (see Sec. 601.291) shall be applicable with
 respect to requests for closing agreements pertaining to prospective 
 transactions or completed transactions affecting returns to be filed 
 (see paragraph (c) (2) of this section).
+
 [32 FR 15990, Nov. 22, 1967, as amended at 32 FR 20647, Dec. 21, 1967; 
 33 FR 17237, Nov. 21, 1968; 34 FR 14601, Sept. 19, 1969; 35 FR 15920, 
 Oct. 9, 1970; 38 FR 4967, Feb. 23, 1973; 42 FR 46520, Sept. 16, 1977; 43 
@@ -6416,15 +6408,15 @@ be paid by deferred payment or payments. Copies of Form 656 and Form 433
 may be obtained from district directors. An offer in compromise, should 
 be filed with the district director or service center director.
     (c) Consideration of offer. (1) An offer in compromise is first 
-considered by the director having jurisdiction. Except in certain 
-penalty cases, an investigation of the basis of the offer is required. 
-The examining officer makes a
+considered by
 
 [[Page 90]]
 
-written recommendation for acceptance or rejection of the offer. If the 
-director has jurisdiction over the processing of the offer he or she 
-will:
+the director having jurisdiction. Except in certain penalty cases, an 
+investigation of the basis of the offer is required. The examining 
+officer makes a written recommendation for acceptance or rejection of 
+the offer. If the director has jurisdiction over the processing of the 
+offer he or she will:
     (i) Reject the offer, or
     (ii) Accept the offer if it involves a civil liability under $500, 
 or
@@ -6488,19 +6480,19 @@ cases processed by the Examination function.
 considered acceptable by the office having jurisdiction over the offer, 
 a recommendation for acceptance is forwarded to the National Office or 
 Regional Office, as appropriate for review. If the recommendation for 
-acceptance is approved, the offer is forwarded to the Regional Counsel 
-or Office of Chief Counsel in Washington, as appropriate, for approval. 
-After approval by the Regional Counsel or Office of Chief Counsel in 
-Washington, as appropriate, it is
+acceptance is approved, the offer is forwarded to the
 
 [[Page 91]]
 
-forwarded to the Assistant Commissioner (Compliance), Director, 
-Collection Division, or Regional Commissioner, as appropriate for 
-acceptance. The taxpayer is notified of the acceptance of the offer in 
-accordance with its terms. Acceptance of an offer in compromise of civil 
-liabilities does not remit criminal liabilities, nor does acceptance of 
-an offer in compromise of criminal liabilities remit civil liabilities.
+Regional Counsel or Office of Chief Counsel in Washington, as 
+appropriate, for approval. After approval by the Regional Counsel or 
+Office of Chief Counsel in Washington, as appropriate, it is forwarded 
+to the Assistant Commissioner (Compliance), Director, Collection 
+Division, or Regional Commissioner, as appropriate for acceptance. The 
+taxpayer is notified of the acceptance of the offer in accordance with 
+its terms. Acceptance of an offer in compromise of civil liabilities 
+does not remit criminal liabilities, nor does acceptance of an offer in 
+compromise of criminal liabilities remit civil liabilities.
     (d) Conferences. Before filing a formal offer in compromise, a 
 taxpayer may request a meeting in the office which would have 
 jurisdiction over the offer to explore the possibilities of compromising 
@@ -6516,6 +6508,7 @@ compromised exceeds $2,500 for any return, taxable year or taxable
 period, a written protest is required. Taxpayers and their 
 representatives are required to comply with the applicable conference 
 and practice requirements. See Subpart E of this part.
+
 [32 FR 15990, Nov. 22, 1967, as amended at 33 FR 17238, Nov. 21, 1968; 
 35 FR 7116, May 6, 1970; 35 FR 15920, Oct. 9, 1970; 43 FR 44510, Sept. 
 28, 1978; 45 FR 7255, Feb. 1, 1980; 46 FR 26054, May 11, 1981; 49 FR 
@@ -6561,20 +6554,20 @@ effected. The request will be considered by the Corporation Tax
 Division. However, in certain instances, Form 3115 may be filed with the 
 Director of the Internal Revenue Service Center. See, for example, Rev. 
 Proc. 74-11, 1974-1 C.B. 420.
-    (c) Verification of changes. Written permission to a taxpayer by the 
-National Office consenting to a change in his annual accounting period 
-or to a change in his accounting method is a
 
 [[Page 92]]
 
-``ruling''. Therefore, in the examination of returns involving changes 
-of annual accounting periods and methods of accounting, district 
-directors must determine whether the representations upon which the 
-permission was granted reflect an accurate statement of the material 
-facts, and whether the agreed terms, conditions, and adjustments have 
-been substantially carried out as proposed. An application, Form 3115, 
-filed with the Director of the Internal Revenue Service Center is also 
-subject to similar verification.
+    (c) Verification of changes. Written permission to a taxpayer by the 
+National Office consenting to a change in his annual accounting period 
+or to a change in his accounting method is a ``ruling''. Therefore, in 
+the examination of returns involving changes of annual accounting 
+periods and methods of accounting, district directors must determine 
+whether the representations upon which the permission was granted 
+reflect an accurate statement of the material facts, and whether the 
+agreed terms, conditions, and adjustments have been substantially 
+carried out as proposed. An application, Form 3115, filed with the 
+Director of the Internal Revenue Service Center is also subject to 
+similar verification.
     (d) Instructions to taxpayers. The person seeking to secure the 
 consent of the Commissioner with respect to a change of accounting 
 periods or methods pursuant to section 442 or 446(e) of the Code need 
@@ -6585,6 +6578,7 @@ National Office a notice that proposed deletions should be submitted
 because the resulting ruling will be open to public inspection under 
 section 6110, the statement of proposed deletions must be submitted 
 within 20 days after such notice is mailed.
+
 [41 FR 20882, May 21, 1976, as amended at 41 FR 48742, Nov. 5, 1976; 42 
 FR 34280, July 5, 1977; T.D. 8742, 62 FR 68173, Dec. 31, 1997]
 
@@ -6637,17 +6631,18 @@ prepare its own document of certification in accordance with internal
 instructions. This procedure has been accepted by most treaty countries 
 as a satisfactory substitute.
     (c) Obtaining the official certification forms. The forms may be 
-obtained from the foreign payor, the tax authority of the treaty country 
-involved, or the
+obtained from the foreign payor, the tax authority of
 
 [[Page 93]]
 
-District Office, Foreign Operations District.
+the treaty country involved, or the District Office, Foreign Operations 
+District.
+
 [34 FR 14601, Sept. 19, 1969, as amended at 49 FR 36500, Sept. 18, 1984]
 
 
 <R04>
-                          Subpart C--[Reserved]
+                          Subpart C  [Reserved]
 
 
 <R04>
@@ -6713,20 +6708,19 @@ employee tax and the employer tax imposed by Chapter 21 is on Form 942.
 However, if the employer is required to file a return for the same 
 quarter on Form 941, the employer may elect to include the taxes with 
 respect to such domestic service on Form 941. The employer and employee 
-taxes imposed by Chapter 21 with respect to wages paid for agricultural 
-labor are
+taxes imposed by Chapter 21 with respect to
 
 [[Page 94]]
 
-required to be reported annually on Form 943. Under the Railroad 
-Retirement Tax Act, the return required of the employer is on Form CT-1, 
-and the return required of each employee representative is on Form CT-2. 
-An employee is not required to file a return of employee tax, except 
-that the employee must include in his or her income tax return (as 
-provided in the applicable instructions) any amount of employee tax (i) 
-due with respect to tips that the employee failed to report to the 
-employer or (ii) shown on the employee's Form W-2 as ``Uncollected 
-Employee Tax on Tips''.
+wages paid for agricultural labor are required to be reported annually 
+on Form 943. Under the Railroad Retirement Tax Act, the return required 
+of the employer is on Form CT-1, and the return required of each 
+employee representative is on Form CT-2. An employee is not required to 
+file a return of employee tax, except that the employee must include in 
+his or her income tax return (as provided in the applicable 
+instructions) any amount of employee tax (i) due with respect to tips 
+that the employee failed to report to the employer or (ii) shown on the 
+employee's Form W-2 as ``Uncollected Employee Tax on Tips''.
     (4) Receipts for employees. Employers are required to furnish each 
 employee a receipt or statement, in duplicate, showing the total wages 
 subject to income tax withholding, the amount of income tax withheld, 
@@ -6783,14 +6777,15 @@ with the instructions applicable to such return and pay therewith (or
 deposit by the due date of such return) the balance, if any, of the 
 taxes due for such period.
     (v) Employers under Chapter 22 of the Code. Depositary procedures 
-similar to those prescribed in this subparagraph
+similar to
 
 [[Page 95]]
 
-are prescribed for employers as defined by the Railroad Retirement Tax 
-Act, except that railroad retirement taxes are not requested to be 
-deposited semimonthly or quarter-monthly. Such taxes must be deposited 
-by using a Federal Tax Deposit form.
+those prescribed in this subparagraph are prescribed for employers as 
+defined by the Railroad Retirement Tax Act, except that railroad 
+retirement taxes are not requested to be deposited semimonthly or 
+quarter-monthly. Such taxes must be deposited by using a Federal Tax 
+Deposit form.
     (vi) Employers under chapter 23 of the Code. Every person who is an 
 employer as defined by the Federal Unemployment Tax Act shall deposit 
 the tax imposed under Chapter 23 on or before the last day of the first 
@@ -6853,17 +6848,17 @@ be an adjustment without interest only if the employer reports and pays
 the additional amount on or before the last day on which the return is 
 required to be filed for the return period in which the error is 
 ascertained. The employer may so report the additional amount either on 
-the return for that period or on a supplemental return for the period
+the return for that period or
 
 [[Page 96]]
 
-for which the underpayment was made. If the employer fails to report the 
-additional amount due within the time so fixed for making an interest-
-free adjustment, the employer nevertheless is required to report the 
-additional amount in the same manner, but interest will be due. No 
-adjustment of an underpayment may be made under this section or 
-Sec. 31.6205-1(b)(2) if the employer is sent a notice and demand for 
-payment of the additional tax.
+on a supplemental return for the period for which the underpayment was 
+made. If the employer fails to report the additional amount due within 
+the time so fixed for making an interest-free adjustment, the employer 
+nevertheless is required to report the additional amount in the same 
+manner, but interest will be due. No adjustment of an underpayment may 
+be made under this section or Sec. 31.6205-1(b)(2) if the employer is 
+sent a notice and demand for payment of the additional tax.
     (ii) Income tax withholding. If an employer files a return reporting 
 and paying less than the correct amount of income tax required to be 
 withheld from wages paid during the return period, the employer is 
@@ -6961,6 +6956,7 @@ aggregating more than $7,800, the ``special refund'' provisions may
 apply to the portion of the tax that is deducted for hospital insurance. 
 The employee may take credit on Form 1040 for the amount allowable, in 
 accordance with the instructions applicable to that form.
+
 [32 FR 15990, Nov. 22, 1967, as amended at 33 FR 6825, May 4, 1968; 33 
 FR 17239, Nov. 21, 1968; 36 FR 7586, Apr. 22, 1971; 38 FR 4970, Feb. 23, 
 1973; 39 FR 8918, Mar. 7, 1974; 41 FR 20883, May 21, 1976; 45 FR 7257, 
@@ -6972,25 +6968,6 @@ Feb. 1, 1980; 49 FR 19648, 19649, May 9, 1984; 49 FR 25239, June 20,
              Subpart E--Conference and Practice Requirements
 
     Authority: 68A Stat. 917, 26 U.S.C. 7805; 5 U.S.C. 301.
-    3. In the list below, for each section indicated in the left column, 
-remove the language indicated in the middle column from wherever it 
-appears in the section, and add the language indicated in the right 
-column.
-
-                                                                        
-------------------------------------------------------------------------
-            Section                     Remove                Add       
-------------------------------------------------------------------------
-601.501(a).....................  601.502(b).........                    
-601.501(b)(4)..................  601.502(b).........  601.502(c).       
-601.502(a)(2)..................  601.502(a).........  601.502(b).       
-601.502(a)(2)..................  601.502(b).........  601.502(c).       
-601.502(c)(4)..................  601.502(a).........  601.502(b).       
-601.503(b)(1)..................  601.502(b).........  601.502(c).       
-601.504(b)(2)(i)...............  601.502(a).........  601.502(b).       
-601.505(b)(2)(ii)..............  601.502(b).........  601.502(c).       
-601.505(b)(2)(iii).............  601.502(a).........  601.502(b).       
-------------------------------------------------------------------------
 
 
 <R05>
@@ -7120,6 +7097,7 @@ postponement of the conference to a date mutually agreeable to the
 parties. The taxpayer or the representative remains free to submit 
 additional or supporting facts or evidence within a reasonable time 
 after the conference.
+
 [56 FR 24003, May 28, 1991; amended at 57 FR 27356, June 19, 1992]
 
 
@@ -7190,6 +7168,7 @@ If an individual is unable to make such declaration, he/she may not
 engage in representation of a taxpayer before the Internal Revenue 
 Service or perform the acts described in Secs. 601.504(a) (2) through 
 (6).
+
 [56 FR 24004, May 28, 1991; amended at 57 FR 27356, June 19, 1992]
 
 
@@ -7402,6 +7381,7 @@ power of attorney. Upon application of a taxpayer or a recognized
 representative, the Commissioner of Internal Revenue may substitute a 
 requirement(s) other than provided herein for a power of attorney as 
 evidence of the authority of the representative.
+
 [56 FR 24005, May 28, 1991; 57 FR 27356, June 19, 1992]
 
 
@@ -7498,6 +7478,7 @@ represent a taxpayer through correspondence with the Internal Revenue
 Service, such individual must submit a power of attorney, including the 
 declaration of representative and any other required statement(s), even 
 though no personal appearance is contemplated.
+
 [56 FR 24007, May 28, 1991; 57 FR 27356, June 19, 1992]
 
 
@@ -7568,6 +7549,7 @@ Sec. 601.502(a), that individual may be authorized by the taxpayer under
 a tax information authorization to receive and/or inspect confidential 
 tax information under the provisions of section 6103 of the Internal 
 Revenue Code and the regulations thereunder.
+
 [56 FR 24007, May 28, 1991, amended at 57 FR 27356,June 19, 1992]
 
 
@@ -7722,6 +7704,7 @@ cannot be recorded onto the CAF system is not determinative of the
 which concern tax periods that end more than three years from the date 
 of receipt by the IRS are not invalid for the period(s) not recorded 
 onto the CAF system, but can be resubmitted at a later date.)
+
 [56 FR 24008, May 28, 1991]
 
 
@@ -7737,6 +7720,7 @@ representative is unable or unwilling to declare his/her own knowledge
 that the facts are true and correct, the Internal Revenue Service may 
 require the taxpayer to make such a declaration under penalty of 
 perjury.
+
 [56 FR 24009, May 28, 1991]
 
 
@@ -7756,6 +7740,7 @@ more of their number under the terms of an agreement signed by all, the
 Internal Revenue Service will recognize such designated recognized 
 representatives upon receipt of a copy of such agreement according to 
 the terms of the power of attorney.
+
 [56 FR 24009, May 28, 1991]
 
 
@@ -7773,6 +7758,7 @@ Court will be addressed to counsel of record before the Court. However,
 a power of attorney is required to be submitted by an individual other 
 than the attorney of record in any matter before the Internal Revenue 
 Service concerning a docketed case.
+
 [56 FR 24009, May 8, 1991]
 
        Requirements for Alcohol, Tobacco, and Firearms Activities
@@ -7803,6 +7789,7 @@ applicable written declaration described in paragraphs (b)(1) (i) and
 case of an enrollee, the filing of a notification, stating that he is 
 enrolled to practice and giving his enrollment number or the expiration 
 date of his enrollment card, shall constitute evidence of recognition.
+
 [34 FR 6432, Apr. 12, 1969, as amended at 45 FR 7259, Feb. 1, 1980]
 
 
@@ -7838,6 +7825,7 @@ acts until revoked as provided in Sec. 601.526. The exceptions to the
 requirements for a power of attorney contained in paragraph (c) (3) and 
 (4) of Sec. 601.502 are applicable to powers of attorney under this 
 section.
+
 [34 FR 14603, Sept. 19, 1969, as amended at 45 FR 7259, Feb. 1, 1980]
 
 
@@ -7856,6 +7844,7 @@ with respect to such acts until revoked as provided in Sec. 601.526. The
 exceptions to the requirements for a tax information authorization, 
 provided in paragraphs (c) (3) and (4) of Sec. 601.502, are applicable 
 to such authorizations under this section.
+
 [34 FR 6432, Apr. 12, 1969]
 
 
@@ -7907,6 +7896,7 @@ witnessed, or
 [[Page 110]]
 
 certified as provided in paragraph (d) of Sec. 601.504.
+
 [32 FR 15990, Nov. 22, 1967, as amended at 34 FR 6432, Apr. 12, 1969; 45 
 FR 7259, Feb. 1, 1980]
 
@@ -7928,6 +7918,7 @@ power of attorney or tax information authorization filed in an office of
 the Bureau of Alcohol, Tobacco, and Firearms shall in no case be 
 effective prior to the giving of written notice to the proper official 
 that the authority of such representative has been revoked.
+
 [34 FR 6432, Apr. 12, 1969, as amended at 45 FR 7259, Feb. 1, 1980]
 
 
@@ -7937,6 +7928,7 @@ Sec. 601.527  Other provisions applied to representation in alcohol, tobacco, an
     The provisions of paragraph (b) of Sec. 601.505, and of 
 Secs. 601.506 through 601.508 of this subpart, as applicable, shall be 
 followed in offices of the Bureau of Alcohol, Tobacco, and Firearms.
+
 [34 FR 6433, Apr. 12, 1969, as amended at 34 FR 14604, Sept. 19, 1969; 
 45 FR 7259, Feb. 1, 1980]
 
@@ -8240,6 +8232,7 @@ granted to representatives of American firms doing business abroad and
 of American citizens residing abroad, in order to discuss with them 
 foreign tax matters with respect to those countries with which we have 
 tax treaties in effect.
+
 [32 FR 15990, Nov. 22, 1967, as amended at 33 FR 6826, May 4, 1968; 35 
 FR 16593, Oct. 24, 1970; 38 FR 4971, Feb. 23, 1973; 39 FR 15755, May 6, 
 1974; 41 FR 13611, Mar. 31, 1976; 41 FR 20883, May 21, 1976; 43 FR 
@@ -8269,6 +8262,7 @@ forms are described in Publication 676, Catalog of Federal Tax Forms,
 Form Letters, and Notices, which the public can buy from the 
 Superintendent of Documents, U.S. Government Printing Office, 
 Washington, DC 20402.
+
 [46 FR 26055, May 11, 1981]
 
 [[Page 115]]
@@ -8391,6 +8385,7 @@ U.S.C. 552(b) (see paragraph (b)(1) of this section). The term
 portion of the record requested which is not exempt from disclosure 
 under 5 U.S.C. 552(b), and which, after deletion of the exempt material, 
 still conveys meaningful information which is not misleading.
+
 [32 FR 15990, Nov. 22, 1967, as amended at 34 FR 6433, Apr. 12, 1969; 38 
 FR 4973, Feb. 23, 1973; 41 FR 19937, May 14, 1976; 41 FR 24704, June 18, 
 1976; 41 FR 48742, Nov. 5, 1976; 45 FR 7259, Feb. 1, 1980]
@@ -9071,15 +9066,15 @@ the Internal Revenue Service must be directed to the Commissioner of
 Internal Revenue, Attention: CC:GLS, 1111 Constitution Avenue, NW., 
 Washington, DC 20224. The Internal Revenue Service will serve an answer 
 or otherwise plead to any complaint made under this paragraph within 30 
-days after service
+days after service upon it, unless the court otherwise directs for good 
+cause shown.
 
 [[Page 126]]
 
-upon it, unless the court otherwise directs for good cause shown. The 
-district court will determine the matter de novo, and may examine the 
-contents of the Internal Revenue Service records in question in camera 
-to determine whether such records or any part thereof shall be withheld 
-under any of the exemptions described in paragraph (b)(1) of 
+The district court will determine the matter de novo, and may examine 
+the contents of the Internal Revenue Service records in question in 
+camera to determine whether such records or any part thereof shall be 
+withheld under any of the exemptions described in paragraph (b)(1) of 
 Sec. 601.701. The burden will be upon the Internal Revenue Service to 
 sustain its action in not making the requested records available. The 
 court may assess against the United States reasonable attorney fees and 
@@ -10955,6 +10950,7 @@ notice would interfere with ongoing law enforcement proceedings.
     (8) Appeals. Procedures for administrative appeals from denials of 
 requests for business information are to be processed in accordance with 
 paragraph (c)(8) of this section.
+
 [32 FR 15990, Nov. 22, 1967]
 
     Editorial Note: For Federal Register citations affecting 
@@ -11040,12 +11036,12 @@ form.
     (b) Nature and contents of cooperative agreements. Each cooperative 
 agreement will provide for implementation of the program in specified 
 geographic areas. Cooperative agreements will set forth:
-    (1) The functions and duties to be performed by the Internal Revenue 
-Service and the functions and duties to be performed by the program 
-sponsor,
+    (1) The functions and duties to be performed by the Internal Revenue
 
 [[Page 143]]
 
+Service and the functions and duties to be performed by the program 
+sponsor,
     (2) The maximum amount of the award available to the program 
 sponsor,
     (3) The services to be provided for each geographical area, and
@@ -11112,12 +11108,12 @@ Sec. 601.803  Program operations and requirements.
     (a) Objective. The objective of the Tax Counseling for the Elderly 
 program is to provide free assistance in the preparation of Federal 
 income tax returns to elderly taxpayers age 60 and over, by providing 
-training, technical and administrative support to volunteers under the 
-direction of non-profit agencies and organizations that have cooperative 
-agreements with the Internal Revenue Service.
+training, technical and administrative support to volunteers
 
 [[Page 144]]
 
+under the direction of non-profit agencies and organizations that have 
+cooperative agreements with the Internal Revenue Service.
     (b) Period of program operations. Most tax return preparation 
 assistance will be provided to elderly taxpayers during the period for 
 filing Federal income tax returns, from January 1 to April 15 each year. 
@@ -11189,11 +11185,11 @@ Revenue Service and the program sponsors will be set forth in each
 cooperative agreement.
     (b) Administrative requirements set forth in OMB and Treasury 
 Circulars. (1) The basic administrative requirements applicable to 
-individual cooperative agreements are contained in Office of Management 
-and Budget Circular No.
+individual cooperative
 
 [[Page 145]]
 
+agreements are contained in Office of Management and Budget Circular No. 
 A-110, Grants and Agreements with Institutions of Higher Education, 
 Hospitals and Other Nonprofit Organizations (41 FR 32016). All 
 applicable provisions of this circular and any existing and further 
@@ -11216,6 +11212,7 @@ any person providing tax return assistance on the basis of age, sex,
 race, religion or national origin in conducting program operations. No 
 program sponsor shall discriminate against any person in providing such 
 assistance on the basis of sex, race, religion or national origin.
+
 [44 FR 72113, Dec. 13, 1979, as amended at 49 FR 36500, Sept. 18, 1984]
 
 
@@ -11252,39 +11249,30 @@ Washington, DC 20224, (202) 566-4904.
 PART 602--OMB CONTROL NUMBERS UNDER THE PAPERWORK REDUCTION ACT--Table of Contents
 
 <R05>
-
-
-
-<R05>
 Sec. 602.101  OMB Control numbers.
 
     (a) Purpose. This part collects and displays the control numbers 
 assigned to collections of information in Internal Revenue Service 
 regulations by the Office of Management and Budget (OMB) under the 
 Paperwork Reduction Act of 1980. The Internal Revenue Service intends 
-that this part (together with 26 CFR 601.9000) comply with the 
-requirements of Secs. 1320.7(f), 1320.12, 1320.13, and 1320.14 of 5 CFR 
-part 1320 (OMB regulations implementing the Paperwork Reduction Act), 
-for the display of control numbers assigned by OMB to collections of 
-information in Internal Revenue Service regulations. This part does not 
-display control numbers assigned by the Office of Management and Budget 
-to collections of information of the Bureau of Alcohol, Tobacco, and 
-Firearms.
-    (b) Cross-reference. For display of control numbers assigned by the 
-Office of Management and Budget to Internal Revenue Service collections 
-of information in the Statement of Procedural
+that this part comply with the requirements of Secs. 1320.7(f), 1320.12, 
+1320.13, and 1320.14 of 5 CFR part 1320 (OMB regulations implementing 
+the Paperwork Reduction Act), for the display of control numbers 
+assigned by OMB to collections of information in Internal Revenue 
+Service regulations. This part does not display control numbers assigned 
+by the Office of Management and Budget to collections of information of 
+the Bureau of Alcohol, Tobacco, and Firearms.
+    (b) Display.
 
-[[Page 146]]
-
-Rules (26 CFR part 601), see 26 CFR 601.9000.
-    (c) Display.
-
-                                                                        
 ------------------------------------------------------------------------
                                                              Current OMB
      CFR part or section where identified and described      control No.
 ------------------------------------------------------------------------
 1.23-5.....................................................    1545-0074
+
+[[Page 146]]
+
+ 
 1.25-1T....................................................    1545-0922
                                                                1545-0930
 1.25-2T....................................................    1545-0922
@@ -11299,6 +11287,7 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.28-1.....................................................    1545-0619
 1.31-2.....................................................    1545-0074
 1.32-2.....................................................    1545-0074
+1.32-3T....................................................    1545-1575
 1.37-1.....................................................    1545-0074
 1.37-3.....................................................    1545-0074
 1.41-2.....................................................    1545-0619
@@ -11407,9 +11396,8 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.105-4....................................................    1545-0074
 1.105-5....................................................    1545-0074
 1.105-6....................................................    1545-0074
-1.108(a)-1.................................................    1545-0046
-1.108(a)-2.................................................    1545-0046
-1.108(c)-1.................................................    1545-1421
+1.108-4....................................................    1545-1539
+1.108-5....................................................    1545-1421
 1.117-5....................................................    1545-0869
 1.119-1....................................................    1545-0067
 1.120-3....................................................    1545-0057
@@ -11424,15 +11412,15 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.132-2....................................................    1545-0771
 1.132-2T...................................................    1545-0771
 1.132-5....................................................    1545-0771
-
-[[Page 147]]
-
-                                                                        
 1.132-5T...................................................    1545-0771
                                                                1545-1098
 1.141-1....................................................    1545-1451
 1.141-12...................................................    1545-1451
 1.142-2....................................................    1545-1451
+
+[[Page 147]]
+
+ 
 1.148-0....................................................    1545-1098
 1.148-1....................................................    1545-1098
 1.148-2....................................................    1545-1098
@@ -11442,6 +11430,7 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.148-4....................................................    1545-1098
                                                                1545-1347
 1.148-5....................................................    1545-1098
+                                                               1545-1490
 1.148-6....................................................    1545-1098
                                                                1545-1451
 1.148-7....................................................    1545-1098
@@ -11555,6 +11544,7 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.190-3....................................................    1545-0074
 1.194-2....................................................    1545-0735
 1.194-4....................................................    1545-0735
+1.195-1....................................................   1545-1582.
 1.197-1T...................................................    1545-1425
 1.213-1....................................................    1545-0074
 1.215-1T...................................................    1545-0074
@@ -11572,13 +11562,13 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
                                                                1545-0987
 1.263A-8(b)(2)(iii)........................................    1545-1265
 1.263A-9(d)(1).............................................    1545-1265
-
-[[Page 148]]
-
-                                                                        
 1.263A-9(f)(1)(ii).........................................    1545-1265
 1.263A-9(f)(2)(iv).........................................    1545-1265
 1.263A-9(g)(2)(iv)(C)......................................    1545-1265
+
+[[Page 148]]
+
+ 
 1.263A-9(g)(3)(iv).........................................    1545-1265
 1.265-1....................................................    1545-0074
 1.265-2....................................................    1545-0123
@@ -11615,6 +11605,7 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.332-6....................................................    1545-0123
 1.337(d)-1.................................................    1545-1160
 1.337(d)-2.................................................    1545-1160
+1.337(d)-4.................................................    1545-1633
 1.338-1....................................................    1545-1295
 1.338(b)-1.................................................    1545-1295
 1.338(h)(10)-1.............................................    1545-1295
@@ -11626,8 +11617,8 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.367(a)-2T................................................    1545-0026
 1.367(a)-3.................................................    1545-0026
                                                                1545-1478
-1.367(a)-3T................................................    1545-0026
 1.367(a)-6T................................................    1545-0026
+1.367(a)-8.................................................    1545-1271
 1.367(d)-1T................................................    1545-0026
 1.367(e)-1T................................................    1545-1487
 1.367(e)-2T................................................    1545-1124
@@ -11694,10 +11685,15 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.408-6....................................................    1545-0203
                                                                1545-0390
 1.408-7....................................................    1545-0119
+1.408A-2...................................................    1545-1616
+1.408A-4...................................................    1545-1616
+1.408A-5...................................................    1545-1616
+1.408A-7...................................................    1545-1616
 1.410(a)-2.................................................    1545-0710
 1.410(d)-1.................................................    1545-0710
-1.411(a)-11T...............................................    1545-1471
-1.411(d)-6T................................................    1545-1477
+1.411(a)-11................................................    1545-1471
+1.411(d)-4.................................................    1545-1545
+1.411(d)-6.................................................    1545-1477
 1.412(b)-5.................................................    1545-0710
 1.412(c)(1)-2..............................................    1545-0710
 1.412(c)(2)-1..............................................    1545-0710
@@ -11706,6 +11702,7 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.414(r)-1.................................................    1545-1221
 1.415-2....................................................    1545-0710
 1.415-6....................................................    1545-0710
+1.417(e)-1.................................................    1545-1471
 1.417(e)-1T................................................    1545-1471
 1.441-3T...................................................    1545-0134
 1.442-1....................................................    1545-0074
@@ -11716,14 +11713,14 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.442-3T...................................................    1545-0134
 1.443-1....................................................    1545-0123
 1.444-3T...................................................    1545-1036
+
+[[Page 149]]
+
+ 
 1.446-1....................................................    1545-0074
                                                                1545-0152
 1.446-4(d).................................................    1545-1412
 1.448-1(g).................................................    1545-0152
-
-[[Page 149]]
-
-                                                                        
 1.448-1(h).................................................    1545-0152
 1.448-1(i).................................................    1545-0152
 1.448-2T...................................................    1545-0152
@@ -11753,7 +11750,7 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.458-1....................................................    1545-0879
 1.458-2....................................................    1545-0152
 1.460-6....................................................    1545-1031
-1.460-6T...................................................    1545-1572
+                                                               1545-1572
 1.461-1....................................................    1545-0074
 1.461-2....................................................    1545-0096
 1.461-4....................................................    1545-0917
@@ -11864,14 +11861,14 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.611-2....................................................    1545-0099
 1.611-3....................................................    1545-0007
                                                                1545-0099
+
+[[Page 150]]
+
+ 
 1.612-4....................................................    1545-0074
 1.612-5....................................................    1545-0099
 1.613-3....................................................    1545-0099
 1.613-4....................................................    1545-0099
-
-[[Page 150]]
-
-                                                                        
 1.613-6....................................................    1545-0099
 1.613-7....................................................    1545-0099
 1.613A-3...................................................    1545-0919
@@ -11900,11 +11897,12 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.642(i)-1.................................................    1545-0092
 1.663(b)-2.................................................    1545-0092
 1.664-1....................................................    1545-0196
+1.664-1(a)(7)..............................................    1545-1536
 1.664-2....................................................    1545-0196
 1.664-3....................................................    1545-0196
 1.664-4....................................................    1545-0020
                                                                1545-0196
-1.665(a)-0A through                                                     
+1.665(a)-0A through
 1.665(g)-2A................................................    1545-0192
 1.666(d)-1A................................................    1545-0092
 1.671-4....................................................    1545-1442
@@ -12006,9 +12004,15 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.861-8(e)(6) and (g)......................................    1545-1224
 1.861-9T...................................................    1545-0121
                                                                1545-1072
+1.861-18...................................................    1545-1594
 1.863-1....................................................    1545-1476
-1.863-3....................................................    1545-1467
+1.863-3....................................................    1545-1476
+                                                               1545-1556
 1.863-3A...................................................    1545-0126
+
+[[Page 151]]
+
+ 
 1.863-4....................................................    1545-0126
 1.863-7....................................................    1545-0132
 1.864-4....................................................    1545-0126
@@ -12016,10 +12020,6 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.871-6....................................................    1545-0795
 1.871-7....................................................    1545-0089
 1.871-10...................................................    1545-0089
-
-[[Page 151]]
-
-                                                                        
                                                                1545-0165
 1.874-1....................................................    1545-0089
 1.881-4....................................................    1545-1440
@@ -12157,17 +12157,16 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.994-1....................................................    1545-0938
 1.995-5....................................................    1545-0938
 1.1012-1...................................................    1545-0074
-                                                               1545-1139
-1.1014-4...................................................    1545-0184
-1.1015-1...................................................    1545-0020
-1.1017-2...................................................    1545-0028
-                                                               1545-0046
-1.1031(d)-1T...............................................    1545-1021
-1.1033(a)-2................................................    1545-0184
 
 [[Page 152]]
 
-                                                                        
+ 
+                                                               1545-1139
+1.1014-4...................................................    1545-0184
+1.1015-1...................................................    1545-0020
+1.1017-1...................................................    1545-1539
+1.1031(d)-1T...............................................    1545-1021
+1.1033(a)-2................................................    1545-0184
 1.1033(g)-1................................................    1545-0184
 1.1034-1...................................................    1545-0072
 1.1039-1...................................................    1545-0184
@@ -12306,16 +12305,16 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.1441-1...................................................    1545-1484
 1.1441-2...................................................    1545-0795
 1.1441-3...................................................    1545-0165
+
+[[Page 153]]
+
+ 
                                                                1545-0795
 1.1441-4...................................................    1545-1484
 1.1441-5...................................................    1545-0096
                                                                1545-0795
 1.1441-6...................................................    1545-0055
                                                                1545-0795
-
-[[Page 153]]
-
-                                                                        
 1.1441-7...................................................    1545-0795
 1.1441-8...................................................    1545-1053
                                                                1545-1484
@@ -12454,16 +12453,16 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.6015(i)-1................................................    1545-0087
 1.6017-1...................................................    1545-0074
                                                                1545-0087
+
+[[Page 154]]
+
+ 
                                                                1545-0090
 1.6031(b)-1T...............................................    1545-0099
 1.6031(c)-1T...............................................    1545-0099
 1.6031-1...................................................    1545-0099
                                                                1545-0970
 1.6032-1...................................................    1545-0099
-
-[[Page 154]]
-
-                                                                        
 1.6033-2...................................................    1545-0047
                                                                1545-0049
                                                                1545-0052
@@ -12484,7 +12483,9 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.6038A-2..................................................    1545-1191
 1.6038A-3..................................................    1545-1191
                                                                1545-1440
+1.6038B-1..................................................    1545-1615
 1.6038B-1T.................................................    1545-0026
+1.6038B-2..................................................    1545-1615
 1.6039-2...................................................    1545-0820
 1.6041-1...................................................    1545-0008
                                                                1545-0108
@@ -12600,6 +12601,10 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.6063-1...................................................    1545-0123
 1.6065-1...................................................    1545-0123
 1.6071-1...................................................    1545-0123
+
+[[Page 155]]
+
+ 
                                                                1545-0810
 1.6072-1...................................................    1545-0074
 1.6072-2...................................................    1545-0123
@@ -12608,10 +12613,6 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.6073-2...................................................    1545-0087
 1.6073-3...................................................    1545-0087
 1.6073-4...................................................    1545-0087
-
-[[Page 155]]
-
-                                                                        
 1.6074-1...................................................    1545-0123
 1.6074-2...................................................    1545-0123
 1.6081-1...................................................    1545-0066
@@ -12689,6 +12690,7 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 1.6694-3(e)................................................    1545-1231
 1.6695-1...................................................    1545-0074
                                                                1545-1385
+1.6695-2T..................................................    1545-1570
 1.6696-1...................................................    1545-0074
                                                                1545-0240
 1.6851-1...................................................    1545-0086
@@ -12747,6 +12749,10 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 7.465-2....................................................    1545-0712
 7.465-3....................................................    1545-0712
 7.465-4....................................................    1545-0712
+
+[[Page 156]]
+
+ 
 7.465-5....................................................    1545-0712
 7.936-1....................................................    1545-0217
 7.999-1....................................................    1545-0216
@@ -12756,10 +12762,6 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 11.412(c)-7................................................    1545-0710
 11.412(c)-11...............................................    1545-0710
 12.7.......................................................    1545-0190
-
-[[Page 156]]
-
-                                                                        
 12.8.......................................................    1545-0191
 12.9.......................................................    1545-0195
 14a.422A-1.................................................    1545-0123
@@ -12798,6 +12800,7 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 20.2055-3..................................................    1545-0015
 20.2056(b)-4...............................................    1545-0015
 20.2056(b)-7...............................................    1545-0015
+                                                               1545-1612
 20.2056A-2.................................................    1545-1443
 20.2056A-3.................................................    1545-1360
 20.2056A-4.................................................    1545-1360
@@ -12894,6 +12897,11 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 31.3121(k)-4...............................................    1545-0137
 31.3121(r)-1...............................................    1545-0029
 31.3121(s)-1...............................................    1545-0029
+
+[[Page 157]]
+
+ 
+31.3121(v)(2)-1............................................    1545-1643
 31.3302(a)-2...............................................    1545-0028
 31.3302(a)-3...............................................    1545-0028
 31.3302(b)-2...............................................    1545-0028
@@ -12904,10 +12912,6 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 31.3401(a)(6)-1............................................    1545-0029
                                                                1545-0096
                                                                1545-0795
-
-[[Page 157]]
-
-                                                                        
 31.3401(a)(7)-1............................................    1545-0029
 31.3401(a)(8)(A)-1 ........................................    1545-0029
                                                                1545-0666
@@ -13041,6 +13045,10 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 31.6302-2..................................................    1545-1413
 31.6302-3..................................................    1545-1413
 31.6302-4..................................................    1545-1413
+
+[[Page 158]]
+
+ 
 31.6302(c)-2...............................................    1545-0001
                                                                1545-0257
 31.6302(c)-2A..............................................    1545-0955
@@ -13052,10 +13060,6 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 31.6413(c)-1...............................................    1545-0029
                                                                1545-0171
 31.6414-1..................................................    1545-0029
-
-[[Page 158]]
-
-                                                                        
 32.1.......................................................    1545-0029
                                                                1545-0415
 32.2.......................................................    1545-0029
@@ -13142,8 +13146,13 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 48.4081-7..................................................    1545-1270
 48.4081-9..................................................    1545-1270
 48.4082-2..................................................    1545-1418
+48.4082-7T.................................................    1545-1608
+48.4082-8T.................................................    1545-1608
+48.4091-3T.................................................    1545-1608
 48.4101-1..................................................    1545-1418
 48.4101-2..................................................    1545-1418
+48.4101-2T.................................................    1545-1608
+48.4101-3T.................................................    1545-1608
 48.4161(a)-1...............................................    1545-0723
 48.4161(a)-2...............................................    1545-0723
 48.4161(a)-3...............................................    1545-0723
@@ -13184,6 +13193,10 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
                                                                1545-1087
 48.6416(b)(2)-4............................................    1545-0723
 48.6416(b)(3)-1............................................    1545-0723
+
+[[Page 159]]
+
+ 
 48.6416(b)(3)-2............................................    1545-0723
 48.6416(b)(3)-3............................................    1545-0723
 48.6416(b)(4)-1............................................    1545-0723
@@ -13200,10 +13213,6 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 48.6420-1..................................................    1545-0162
                                                                1545-0723
 48.6420-2..................................................    1545-0162
-
-[[Page 159]]
-
-                                                                        
                                                                1545-0723
 48.6420-3..................................................    1545-0162
                                                                1545-0723
@@ -13249,6 +13258,7 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 48.6427-5..................................................    1545-0723
 48.6427-8..................................................    1545-1418
 48.6427-9..................................................    1545-1418
+48.6427-11T................................................    1545-1608
 49.4251-1..................................................    1545-1075
 49.4251-2..................................................    1545-1075
 49.4253-3..................................................    1545-0023
@@ -13304,6 +13314,9 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 54.4972-1..................................................    1545-0197
 54.4975-7..................................................    1545-0575
 54.4977-1T.................................................    1545-0771
+54.4980B-6.................................................    1545-1581
+54.4980B-7.................................................    1545-1581
+54.4980B-8.................................................    1545-1581
 54.4981A-1T................................................    1545-0203
 54.6011-1..................................................    1545-0575
 54.6011-1T.................................................    1545-0575
@@ -13327,7 +13340,12 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 56.6161-1..................................................    1545-1049
                                                                1545-0257
 145.4051-1.................................................    1545-0745
-145.4052-1.................................................    1545-0120
+145.4052-1.................................................    1545-1608
+
+[[Page 160]]
+
+ 
+                                                               1545-0120
                                                                1545-0745
                                                                1545-1076
 145.4061-1.................................................    1545-0745
@@ -13348,10 +13366,6 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 301.6035-1.................................................    1545-0123
 301.6036-1.................................................    1545-0013
                                                                1545-0773
-
-[[Page 160]]
-
-                                                                        
 301.6047-1.................................................    1545-0367
                                                                1545-0957
 301.6057-1.................................................    1545-0710
@@ -13443,10 +13457,11 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
 301.7517-1.................................................    1545-0015
 301.7605-1.................................................    1545-0795
 301.7623-1.................................................    1545-0409
-301.7623-1T................................................    1545-1534
+                                                               1545-1534
 301.7654-1.................................................    1545-0803
 301.7701-3.................................................    1545-1486
 301.7701-4.................................................    1545-1465
+301.7701-7.................................................    1545-1600
 301.7701-16................................................    1545-0795
 301.7701(b)-1..............................................    1545-0089
 301.7701(b)-2..............................................    1545-0089
@@ -13474,7 +13489,10 @@ Rules (26 CFR part 601), see 26 CFR 601.9000.
                                                                1545-0074
                                                                1545-0172
                                                                1545-1027
-301.9100-13T...............................................    1545-0046
+
+[[Page 161]]
+
+ 
 301.9100-14T...............................................    1545-0046
 301.9100-15T...............................................    1545-0046
 301.9100-16T...............................................    1545-0152
@@ -13496,10 +13514,6 @@ Part 521...................................................    1545-0848
 601.105....................................................    1545-0091
 601.201....................................................    1545-0019
                                                                1545-0819
-
-[[Page 161]]
-
-                                                                        
 601.204....................................................    1545-0152
 601.401....................................................    1545-0257
 601.504....................................................    1545-0150
@@ -13510,8 +13524,10 @@ Part 521...................................................    1545-0848
 601.702....................................................    1545-0429
 ------------------------------------------------------------------------
 
+
 (26 U.S.C. 7805)
-[T.D. 8011, 50 FR 10222, Mar. 14, 1985]
+
+[T.D. 8011, 50 FR 10222, Mar. 14, 1985; 64 FR 15688, Apr. 1, 1999]
 
     Editorial Note: For Federal Register citations affecting 
 Sec. 602.101, see the List of CFR Sections Affected in the Findings Aids 
@@ -13524,19 +13540,21 @@ and part 520; adding entries for 1.1441-1, 1.1441-4, 11.1441-8, 1.1441-
 9, 31.3401(a)(6), and 301.6114-1; and revising the entries for 1.1441-5, 
 1.1441-6, 1.1461-1, and 301.6402-3, effective Jan. 1, 1999. At 63 FR 
 2723, Jan. 16, 1998, the entry for ``11.1441-8'' was corrected to read 
-``1.1441-8'', effective Jan. 1, 1999. For the convenience of the user, 
-the revised text is set forth as follows:
+``1.1441-8'', effective Jan. 1, 1999. By T.D. 8804, 63 FR 72183, Dec. 
+31, 1998, the effective date was delayed to Jan. 1, 2000. For the 
+convenience of the user, the revised text is set forth as follows:
 
 Sec. 602.101  OMB Control numbers.
 
+      
+
                                 * * * * *
 
-                                                                        
 ------------------------------------------------------------------------
                                                              Current OMB
      CFR part or section where identified and described      control No.
 ------------------------------------------------------------------------
-                      *      *      *      *      *                     
+                      *      *      *      *      *
 1.1441-5...................................................    1545-0096
                                                                1545-0795
                                                                1545-1484
@@ -13547,13 +13565,13 @@ Sec. 602.101  OMB Control numbers.
                                                                1545-0055
                                                                1545-0795
                                                                1545-1484
-                      *      *      *      *      *                     
+                      *      *      *      *      *
 301.6402-3.................................................    1545-0055
                                                                1545-0073
                                                                1545-0091
                                                                1545-0132
                                                                1545-1484
-                      *      *      *      *      *                     
+                      *      *      *      *      *
 ------------------------------------------------------------------------
 
 
@@ -13588,9 +13606,12 @@ Account. The Secretary shall deposit in the Presidential Nominating
 Convention Account such amounts as the Secretary determines, in 
 consultation with the Federal Election Commission (the ``Commission''), 
 are required to make the payments prescribed by section 9008(b)(3). The 
-Secretary shall make this deposit only from amounts that have actually 
-been transferred to the Presidential Election Campaign Fund under 
-Sec. 701.9006-1(a).
+Secretary shall make this deposit only from amounts
+
+[[Page 162]]
+
+that have actually been transferred to the Presidential Election 
+Campaign Fund under Sec. 701.9006-1(a).
     (d) Transfer of amounts to the Presidential and Vice Presidential 
 Nominee Account. After making the transfers prescribed by Sec. 701.9006-
 1(c), the Secretary shall deposit in the Presidential and Vice 
@@ -13600,18 +13621,16 @@ prescribed by section 9006(b). The Secretary shall make this deposit
 only from amounts that have actually been transferred to the 
 Presidential Election Campaign Fund under Sec. 701.9006-1(a).
     (e) Limit on additional deposits. After making the transfers 
-prescribed by Secs. 701.9006-1(c) and 701.9006-1(d) for a
-
-[[Page 162]]
-
-presidential election, including any transfers on account of adjustments 
-under section 9008(b)(5) and post-election entitlements under section 
+prescribed by Secs. 701.9006-1(c) and 701.9006-1(d) for a presidential 
+election, including any transfers on account of adjustments under 
+section 9008(b)(5) and post-election entitlements under section 
 9004(a)(3), the Secretary shall not make any additional deposits to 
 those accounts until October 1 of the year following that presidential 
 election.
     (f) Transfer of amounts to the Presidential Primary Matching Payment 
 Account. See Sec. 702.9037-1 for rules relating to transfers of amounts 
 to the Presidential Primary Matching Payment Account.
+
 [56 FR 21599, May 10, 1991; 56 FR 27999, June 18, 1991]
 
 
@@ -13671,58 +13690,59 @@ certified by the Commission in a calendar month exceeds the balance in
 the Presidential Primary Matching Payment Account on the last day of the 
 calendar month, the amount paid to a candidate for that month under 
 paragraph (a) of this section is the amount determined by multiplying 
-the amount certified by the Commission for the candidate during the 
-calendar month by the ratio of the balance in the account on the last 
-day of the calendar month over the total amount certified by the 
-Commission for all the candidates during the calendar month. Any amount 
-certified by the Commission, but not paid to a candidate because of this 
-paragraph (c), is treated as an amount certified by the Commission for 
-that candidate during the succeeding calendar month.
+the amount certified by
+
+[[Page 163]]
+
+the Commission for the candidate during the calendar month by the ratio 
+of the balance in the account on the last day of the calendar month over 
+the total amount certified by the Commission for all the candidates 
+during the calendar month. Any amount certified by the Commission, but 
+not paid to a candidate because of this paragraph (c), is treated as an 
+amount certified by the Commission for that candidate during the 
+succeeding calendar month.
     (d) Example. The provisions of paragraph (c) of this section may be 
 illustrated by the following example.
 
     Example. X, Y, and Z are eligible candidates. On February 11, 1992, 
 the Secretary receives certifications by the Commission for X in the 
 amount of $2000x and Y in the amount of $500x. There is no certification 
-for Z. The Secretary does not receive any other
-
-[[Page 163]]
-
-certifications during February 1992. On February 29, 1992, the balance 
-in the Presidential Primary Matching Payment Account is $1500x. Under 
-paragraph (c) of this section, X's payment for February 1992 is $1200x 
-($2000x (the amount certified by the Commission for X during February 
-1992) multiplied by $1500x (the balance in the account on the last day 
-of February 1992) over $2500x (the total amount certified by the 
-Commission for all candidates during February 1992)). The amount not 
-paid to X, $800x ($2000x minus $1200x), is treated as certified by the 
-Commission for X during March 1992, the succeeding calendar month. Under 
-paragraph (c) of this section, Y's payment for February 1992 is $300x 
-($500x multiplied by $1500x over $2500x). The amount not paid to Y, 
-$200x ($500x minus $300x), is treated as certified by the Commission for 
-Y during March 1992. On March 10, 1992, no certifications are received 
-for X and Y, but the Secretary receives a certification by the 
-Commission for Z in the amount of $2600x. The Secretary does not receive 
-any other certifications during March 1992. On March 31, 1992, the 
-balance in the account is $900x. Under paragraph (c) of this section, 
-X's payment for March 1992 is $200x ($800x (the amount treated as 
-certified by the Commission for X during March 1992) multiplied by $900x 
-(the balance in the account on the last day of March 1992) over $3600x 
-(the total amount treated as certified or actually certified by the 
-Commission for all candidates during March 1992)). Under paragraph (c) 
-of this section, Y's payment for March 1992 is $50x ($200x multiplied by 
-$900x over $3600x). Under paragraph (c) of this section, Z's payment for 
-March 1992 is $650x ($2600x multiplied by $900x over $3600x). The 
-amounts not paid to X, Y, and Z for March 1992 are treated as certified 
-by the Commission during April 1992.
+for Z. The Secretary does not receive any other certifications during 
+February 1992. On February 29, 1992, the balance in the Presidential 
+Primary Matching Payment Account is $1500x. Under paragraph (c) of this 
+section, X's payment for February 1992 is $1200x ($2000x (the amount 
+certified by the Commission for X during February 1992) multiplied by 
+$1500x (the balance in the account on the last day of February 1992) 
+over $2500x (the total amount certified by the Commission for all 
+candidates during February 1992)). The amount not paid to X, $800x 
+($2000x minus $1200x), is treated as certified by the Commission for X 
+during March 1992, the succeeding calendar month. Under paragraph (c) of 
+this section, Y's payment for February 1992 is $300x ($500x multiplied 
+by $1500x over $2500x). The amount not paid to Y, $200x ($500x minus 
+$300x), is treated as certified by the Commission for Y during March 
+1992. On March 10, 1992, no certifications are received for X and Y, but 
+the Secretary receives a certification by the Commission for Z in the 
+amount of $2600x. The Secretary does not receive any other 
+certifications during March 1992. On March 31, 1992, the balance in the 
+account is $900x. Under paragraph (c) of this section, X's payment for 
+March 1992 is $200x ($800x (the amount treated as certified by the 
+Commission for X during March 1992) multiplied by $900x (the balance in 
+the account on the last day of March 1992) over $3600x (the total amount 
+treated as certified or actually certified by the Commission for all 
+candidates during March 1992)). Under paragraph (c) of this section, Y's 
+payment for March 1992 is $50x ($200x multiplied by $900x over $3600x). 
+Under paragraph (c) of this section, Z's payment for March 1992 is $650x 
+($2600x multiplied by $900x over $3600x). The amounts not paid to X, Y, 
+and Z for March 1992 are treated as certified by the Commission during 
+April 1992.
 
 
 <R03>
 PART 703-END [RESERVED]
-
-<R05>
+
 
 [[Page 165]]
+
 
 <R02>
                               FINDING AIDS
@@ -13736,6 +13756,7 @@ PART 703-END [RESERVED]
 alphabetical list of agencies publishing in the CFR are included in the 
 CFR Index and Finding Aids volume to the Code of Federal Regulations 
 which is published separately and revised annually.
+
 
   Table of CFR Titles and Chapters
   Alphabetical List of Agencies Appearing in the CFR
@@ -13752,7 +13773,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of March 31, 1998)
+                     (Revised as of March 31, 1999)
 
                       Title 1--General Provisions
 
@@ -13796,11 +13817,11 @@ which is published separately and revised annually.
                 President (Parts 2500--2599)
        XVI  Office of Government Ethics (Parts 2600--2699)
        XXI  Department of the Treasury (Parts 3100--3199)
-      XXII  Federal Deposit Insurance Corporation (Part 3201)
-     XXIII  Department of Energy (Part 3301)
 
 [[Page 168]]
 
+      XXII  Federal Deposit Insurance Corporation (Part 3201)
+     XXIII  Department of Energy (Part 3301)
       XXIV  Federal Energy Regulatory Commission (Part 3401)
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
@@ -13851,12 +13872,12 @@ which is published separately and revised annually.
                 (Parts 0--26)
             Subtitle B--Regulations of the Department of 
                 Agriculture
-         I  Agricultural Marketing Service (Standards, 
-                Inspections, Marketing Practices), Department of 
-                Agriculture (Parts 27--209)
 
 [[Page 169]]
 
+         I  Agricultural Marketing Service (Standards, 
+                Inspections, Marketing Practices), Department of 
+                Agriculture (Parts 27--209)
         II  Food and Nutrition Service, Department of Agriculture 
                 (Parts 210--299)
        III  Animal and Plant Health Inspection Service, Department 
@@ -13906,15 +13927,16 @@ which is published separately and revised annually.
                 Agriculture (Parts 3000--3099)
       XXXI  Office of Environmental Quality, Department of 
                 Agriculture (Parts 3100--3199)
-     XXXII  [Reserved]
+     XXXII  Office of Procurement and Property Management, 
+                Department of Agriculture (Parts 3200--3299)
+
+[[Page 170]]
+
     XXXIII  Office of Transportation, Department of Agriculture 
                 (Parts 3300--3399)
      XXXIV  Cooperative State Research, Education, and Extension 
                 Service, Department of Agriculture (Parts 3400--
                 3499)
-
-[[Page 170]]
-
       XXXV  Rural Housing Service, Department of Agriculture 
                 (Parts 3500--3599)
      XXXVI  National Agricultural Statistics Service, Department 
@@ -13940,9 +13962,8 @@ which is published separately and revised annually.
         II  Grain Inspection, Packers and Stockyards 
                 Administration (Packers and Stockyards Programs), 
                 Department of Agriculture (Parts 200--299)
-       III  Food Safety and Inspection Service, Meat and Poultry 
-                Inspection, Department of Agriculture (Parts 300--
-                599)
+       III  Food Safety and Inspection Service, Department of 
+                Agriculture (Parts 300--599)
 
                            Title 10--Energy
 
@@ -13951,8 +13972,6 @@ which is published separately and revised annually.
        III  Department of Energy (Parts 700--999)
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
-        XI  United States Enrichment Corporation (Parts 1100--
-                1199)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
 
@@ -13966,34 +13985,33 @@ which is published separately and revised annually.
                 Treasury (Parts 1--199)
         II  Federal Reserve System (Parts 200--299)
        III  Federal Deposit Insurance Corporation (Parts 300--399)
+
+[[Page 171]]
+
         IV  Export-Import Bank of the United States (Parts 400--
                 499)
          V  Office of Thrift Supervision, Department of the 
                 Treasury (Parts 500--599)
         VI  Farm Credit Administration (Parts 600--699)
        VII  National Credit Union Administration (Parts 700--799)
-
-[[Page 171]]
-
       VIII  Federal Financing Bank (Parts 800--899)
         IX  Federal Housing Finance Board (Parts 900--999)
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
-        XV  Thrift Depositor Protection Oversight Board (Parts 
-                1500--1599)
+        XV  Department of the Treasury (Parts 1500--1599)
       XVII  Office of Federal Housing Enterprise Oversight, 
                 Department of Housing and Urban Development (Parts 
-                1700-1799)
+                1700--1799)
      XVIII  Community Development Financial Institutions Fund, 
                 Department of the Treasury (Parts 1800--1899)
 
                Title 13--Business Credit and Assistance
 
          I  Small Business Administration (Parts 1--199)
-       III  Economic Development Administration, Department of 
-                Commerce (Parts 300--399)
+       III  Department of Commerce, Economic Development 
+                Administration, (Parts 300--399)
 
                     Title 14--Aeronautics and Space
 
@@ -14023,6 +14041,9 @@ which is published separately and revised annually.
                 (Parts 400--499)
        VII  Bureau of Export Administration, Department of 
                 Commerce (Parts 700--799)
+
+[[Page 172]]
+
       VIII  Bureau of Economic Analysis, Department of Commerce 
                 (Parts 800--899)
         IX  National Oceanic and Atmospheric Administration, 
@@ -14032,9 +14053,6 @@ which is published separately and revised annually.
       XIII  East-West Foreign Trade Board (Parts 1300--1399)
        XIV  Minority Business Development Agency (Parts 1400--
                 1499)
-
-[[Page 172]]
-
             Subtitle C--Regulations Relating to Foreign Trade 
                 Agreements
         XX  Office of the United States Trade Representative 
@@ -14074,6 +14092,8 @@ which is published separately and revised annually.
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
 
+[[Page 173]]
+
                      Title 20--Employees' Benefits
 
          I  Office of Workers' Compensation Programs, Department 
@@ -14090,9 +14110,6 @@ which is published separately and revised annually.
                 800--899)
       VIII  Joint Board for the Enrollment of Actuaries (Parts 
                 900--999)
-
-[[Page 173]]
-
         IX  Office of the Assistant Secretary for Veterans' 
                 Employment and Training, Department of Labor 
                 (Parts 1000--1099)
@@ -14109,14 +14126,11 @@ which is published separately and revised annually.
                       Title 22--Foreign Relations
 
          I  Department of State (Parts 1--199)
-        II  Agency for International Development, International 
-                Development Cooperation Agency (Parts 200--299)
+        II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
          V  United States Information Agency (Parts 500--599)
-        VI  United States Arms Control and Disarmament Agency 
-                (Parts 600--699)
        VII  Overseas Private Investment Corporation, International 
                 Development Cooperation Agency (Parts 700--799)
         IX  Foreign Service Grievance Board Regulations (Parts 
@@ -14138,6 +14152,8 @@ which is published separately and revised annually.
                 1600--1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
 
+[[Page 174]]
+
                           Title 23--Highways
 
          I  Federal Highway Administration, Department of 
@@ -14147,8 +14163,6 @@ which is published separately and revised annually.
                 Transportation (Parts 1200--1299)
        III  National Highway Traffic Safety Administration, 
                 Department of Transportation (Parts 1300--1399)
-
-[[Page 174]]
 
                 Title 24--Housing and Urban Development
 
@@ -14164,6 +14178,9 @@ which is published separately and revised annually.
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
+        IV  Office of Multifamily Housing Assistance 
+                Restructuring, Department of Housing and Urban 
+                Development (Parts 400--499)
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
@@ -14177,8 +14194,10 @@ which is published separately and revised annually.
       VIII  Office of the Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Section 8 Housing Assistance 
-                Programs and Section 202 Direct Loan Program) 
-                (Parts 800--899)
+                Programs, Section 202 Direct Loan Program, Section 
+                202 Supportive Housing for the Elderly Program and 
+                Section 811 Supportive Housing for Persons With 
+                Disabilities Program) (Parts 800--899)
         IX  Office of Assistant Secretary for Public and Indian 
                 Housing, Department of Housing and Urban 
                 Development (Parts 900--999)
@@ -14193,6 +14212,8 @@ which is published separately and revised annually.
                 Urban Development (Parts 3200--3899)
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
+
+[[Page 175]]
 
                            Title 25--Indians
 
@@ -14209,11 +14230,8 @@ which is published separately and revised annually.
                 and Human Services (Part 900)
         VI  Office of the Assistant Secretary-Indian Affairs, 
                 Department of the Interior (Part 1001)
-
-[[Page 175]]
-
        VII  Office of the Special Trustee for American Indians, 
-                Department of the Interior (Part 1200--1299)
+                Department of the Interior (Part 1200)
 
                       Title 26--Internal Revenue
 
@@ -14252,6 +14270,9 @@ which is published separately and revised annually.
         IX  Construction Industry Collective Bargaining Commission 
                 (Parts 900--999)
          X  National Mediation Board (Parts 1200--1299)
+
+[[Page 176]]
+
        XII  Federal Mediation and Conciliation Service (Parts 
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
@@ -14266,8 +14287,6 @@ which is published separately and revised annually.
                 (Parts 2700--2799)
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
-
-[[Page 176]]
 
                       Title 30--Mineral Resources
 
@@ -14310,6 +14329,9 @@ which is published separately and revised annually.
          I  Office of the Secretary of Defense (Parts 1--399)
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
+
+[[Page 177]]
+
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
@@ -14328,8 +14350,6 @@ which is published separately and revised annually.
                 (Parts 2800--2899)
       XXIX  Presidential Commission on the Assignment of Women in 
                 the Armed Forces (Part 2900)
-
-[[Page 177]]
 
                Title 33--Navigation and Navigable Waters
 
@@ -14360,9 +14380,11 @@ which is published separately and revised annually.
                 Education (Parts 600--699)
        VII  Office of Educational Research and Improvement, 
                 Department of Education (Parts 700--799)
-        XI  National Institute for Literacy (Parts 1100-1199)
+        XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
+
+[[Page 178]]
 
                         Title 35--Panama Canal
 
@@ -14383,13 +14405,12 @@ which is published separately and revised annually.
                 899)
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
+         X  Presidio Trust (Parts 1000--1099)
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
-       XIV  Assassination Records Review Board (Parts 1400-1499)
-
-[[Page 178]]
+       XIV  Assassination Records Review Board (Parts 1400--1499)
 
              Title 37--Patents, Trademarks, and Copyrights
 
@@ -14421,6 +14442,9 @@ which is published separately and revised annually.
                 Contracts
         50  Public Contracts, Department of Labor (Parts 50-1--50-
                 999)
+
+[[Page 179]]
+
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
         60  Office of Federal Contract Compliance Programs, Equal 
@@ -14446,11 +14470,10 @@ which is published separately and revised annually.
        201  Federal Information Resources Management Regulation 
                 (Parts 201-1--201-99) [Reserved]
             Subtitle F--Federal Travel Regulation System
-       301  Travel Allowances (Parts 301-1--301-99)
+       300  General (Parts 300-1--300.99)
+       301  Temporary Duty (TDY) Travel Allowances (Parts 301-1--
+                301-99)
        302  Relocation Allowances (Parts 302-1--302-99)
-
-[[Page 179]]
-
        303  Payment of Expenses Connected with the Death of 
                 Certain Employees (Parts 303-1--303-2)
        304  Payment from a Non-Federal Source for Travel Expenses 
@@ -14474,6 +14497,9 @@ which is published separately and revised annually.
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
+
+[[Page 180]]
+
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10005)
 
@@ -14504,9 +14530,6 @@ which is published separately and revised annually.
         VI  National Science Foundation (Parts 600--699)
        VII  Commission on Civil Rights (Parts 700--799)
       VIII  Office of Personnel Management (Parts 800--899)
-
-[[Page 180]]
-
          X  Office of Community Services, Administration for 
                 Children and Families, Department of Health and 
                 Human Services (Parts 1000--1099)
@@ -14530,12 +14553,16 @@ which is published separately and revised annually.
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
 
+[[Page 181]]
+
                           Title 46--Shipping
 
          I  Coast Guard, Department of Transportation (Parts 1--
                 199)
         II  Maritime Administration, Department of Transportation 
                 (Parts 200--399)
+       III  Coast Guard (Great Lakes Pilotage), Department of 
+                Transportation (Parts 400--499)
         IV  Federal Maritime Commission (Parts 500--599)
 
                       Title 47--Telecommunication
@@ -14561,9 +14588,6 @@ which is published separately and revised annually.
          8  Department of Veterans Affairs (Parts 800--899)
          9  Department of Energy (Parts 900--999)
         10  Department of the Treasury (Parts 1000--1099)
-
-[[Page 181]]
-
         12  Department of Transportation (Parts 1200--1299)
         13  Department of Commerce (Parts 1300--1399)
         14  Department of the Interior (Parts 1400--1499)
@@ -14585,6 +14609,9 @@ which is published separately and revised annually.
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
+
+[[Page 182]]
+
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
         35  Panama Canal Commission (Parts 3500--3599)
@@ -14616,9 +14643,6 @@ which is published separately and revised annually.
                 Department of Transportation (Parts 100--199)
         II  Federal Railroad Administration, Department of 
                 Transportation (Parts 200--299)
-
-[[Page 182]]
-
        III  Federal Highway Administration, Department of 
                 Transportation (Parts 300--399)
         IV  Coast Guard, Department of Transportation (Parts 400--
@@ -14632,11 +14656,16 @@ which is published separately and revised annually.
       VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
+        XI  Bureau of Transportation Statistics, Department of 
+                Transportation (Parts 1400--1499)
 
                    Title 50--Wildlife and Fisheries
 
          I  United States Fish and Wildlife Service, Department of 
                 the Interior (Parts 1--199)
+
+[[Page 183]]
+
         II  National Marine Fisheries Service, National Oceanic 
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 200--299)
@@ -14663,7 +14692,7 @@ which is published separately and revised annually.
 
 
 
-[[Page 183]]
+[[Page 185]]
 
 
 
@@ -14674,12 +14703,11 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of March 31, 1998)
+                     (Revised as of March 31, 1999)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
 
-ACTION                                            45, XII
 Administrative Committee of the Federal Register  1, I
 Advanced Research Projects Agency                 32, I
 Advisory Commission on Intergovernmental          5, VII
@@ -14688,8 +14716,7 @@ Advisory Committee on Federal Pay                 5, IV
 Advisory Council on Historic Preservation         36, VIII
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
-Agency for International Development, United      22, II
-     States
+Agency for International Development              22, II
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
@@ -14707,7 +14734,7 @@ Agriculture Department
   Farm Service Agency                             7, VII, XVIII
   Federal Acquisition Regulation                  48, 4
   Federal Crop Insurance Corporation              7, IV
-  Food and Consumer Service                       7, II
+  Food and Nutrition Service                      7, II
   Food Safety and Inspection Service              9, III
   Foreign Agricultural Service                    7, XV
   Forest Service                                  36, II
@@ -14719,6 +14746,7 @@ Agriculture Department
   National Agricultural Statistics Service        7, XXXVI
   Natural Resources Conservation Service          7, VI
   Operations, Office of                           7, XXVIII
+  Procurement and Property Management, Office of  7, XXXII
   Rural Business-Cooperative Service              7, XVIII, XLII
   Rural Development Administration                7, XLII
   Rural Housing Service                           7, XVIII, XXXV
@@ -14729,23 +14757,19 @@ Agriculture Department
   World Agricultural Outlook Board                7, XXXVIII
 Air Force Department                              32, VII
   Federal Acquisition Regulation Supplement       48, 53
-Alaska Natural Gas Transportation System, Office  10, XV
-     of the Federal Inspector
 Alcohol, Tobacco and Firearms, Bureau of          27, I
 AMTRAK                                            49, VII
 American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
-
-[[Page 184]]
-
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
+
+[[Page 186]]
+
 Architectural and Transportation Barriers         36, XI
      Compliance Board
 Arctic Research Commission                        45, XXIII
 Armed Forces Retirement Home                      5, XI
-Arms Control and Disarmament Agency, United       22, VI
-     States
 Army Department                                   32, V
   Engineers, Corps of                             33, II; 36, III
   Federal Acquisition Regulation                  48, 51
@@ -14766,6 +14790,7 @@ Christopher Columbus Quincentenary Jubilee        45, XXII
 Civil Rights, Commission on                       45, VII
 Civil Rights, Office for                          34, I
 Coast Guard                                       33, I; 46, I; 49, IV
+Coast Guard (Great Lakes Pilotage)                46, III
 Commerce Department                               44, IV
   Census Bureau                                   15, I`
   Economic Affairs, Under Secretary               37, V
@@ -14778,7 +14803,7 @@ Commerce Department                               44, IV
   Foreign-Trade Zones Board                       15, IV
   International Trade Administration              15, III; 19, III
   National Institute of Standards and Technology  15, II
-  National Marine Fisheries Service               50, II, IV
+  National Marine Fisheries Service               50, II, IV, VI
   National Oceanic and Atmospheric                15, IX; 50, II, III, IV, 
        Administration                             VI
   National Telecommunications and Information     15, XXIII; 47, III
@@ -14804,6 +14829,7 @@ Consumer Product Safety Commission                5, LXXI; 16, II
 Cooperative State Research, Education, and        7, XXXIV
      Extension Service
 Copyright Office                                  37, II
+Corporation for National and Community Service    45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
 Customs Service, United States                    19, I
@@ -14812,7 +14838,7 @@ Defense Department                                5, XXVI; 32, Subtitle A
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
 
-[[Page 185]]
+[[Page 187]]
 
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
@@ -14861,7 +14887,6 @@ Energy, Department of                             5, XXIII; 10, II, III, X
 Energy, Office of                                 7, XXIX
 Engineers, Corps of                               33, II; 36, III
 Engraving and Printing, Bureau of                 31, VI
-Enrichment Corporation, United States             10, XI
 Environmental Protection Agency                   5, LIV; 40, I
   Federal Acquisition Regulation                  48, 15
   Property Management Regulations                 41, 115
@@ -14885,10 +14910,10 @@ Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
 Farm Service Agency                               7, VII, XVIII
-
-[[Page 186]]
-
 Federal Acquisition Regulation                    48, 1
+
+[[Page 188]]
+
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
 Federal Claims Collection Standards               4, II
@@ -14911,8 +14936,6 @@ Federal Highway Administration                    23, I, II; 49, III
 Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
 Federal Housing Finance Board                     12, IX
-Federal Inspector for the Alaska Natural Gas      10, XV
-     Transportation System, Office of
 Federal Labor Relations Authority, and General    5, XIV; 22, XIV
      Counsel of the Federal Labor Relations 
      Authority
@@ -14940,7 +14963,7 @@ Fiscal Service                                    31, II
 Fish and Wildlife Service, United States          50, I, IV
 Fishery Conservation and Management               50, VI
 Food and Drug Administration                      21, I
-Food and Consumer Service                         7, II
+Food and Nutrition Service                        7, II
 Food Safety and Inspection Service                9, III
 Foreign Agricultural Service                      7, XV
 Foreign Assets Control, Office of                 31, V
@@ -14957,20 +14980,21 @@ General Services Administration                   5, LVII
   Federal Acquisition Regulation                  48, 5
   Federal Property Management Regulations System  41, 101, 105
   Federal Travel Regulation System                41, Subtitle F
+  General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
        Expenses
   Payment of Expenses Connected With the Death    41, 303
-     of Certain Employees
-[[Page 187]]
-
+       of Certain Employees
   Relocation Allowances                           41, 302
-  Travel Allowances                               41, 301
+
+[[Page 189]]
+
+  Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
 Government Ethics, Office of                      5, XVI
 Government National Mortgage Association          24, III
 Grain Inspection, Packers and Stockyards          7, VIII; 9, II
      Administration
-Great Lakes Pilotage                              46, III
 Harry S. Truman Scholarship Foundation            45, XVIII
 Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Child Support Enforcement, Office of            45, III
@@ -14998,6 +15022,8 @@ Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
   Housing--Federal Housing Commissioner, Office   24, II, VIII, X, XX
        of Assistant Secretary for
   Inspector General, Office of                    24, XII
+  Multifamily Housing Assistance Restructuring,   24, IV
+       Office of
   Public and Indian Housing, Office of Assistant  24, IX
        Secretary for
   Secretary, Office of                            24, Subtitle A, VII
@@ -15038,10 +15064,10 @@ Interior Department
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
   Minerals Management Service                     30, II
-
-[[Page 188]]
-
   Mines, Bureau of                                30, VI
+
+[[Page 190]]
+
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
   Reclamation, Bureau of                          43, I
@@ -15054,13 +15080,11 @@ Internal Revenue Service                          26, I
 International Boundary and Water Commission,      22, XI
      United States and Mexico, United States 
      Section
-International Development, United States Agency   22, II
-     for
+International Development, Agency for             22, II
   Federal Acquisition Regulation                  48, 7
 International Development Cooperation Agency,     22, XII
      United States
-  International Development, United States        22, II; 48, 7
-       Agency for
+  International Development, Agency for           22, II; 48, 7
   Overseas Private Investment Corporation         5, XXXIII; 22, VII
 International Fishing and Related Activities      50, III
 International Investment, Office of               31, VIII
@@ -15116,13 +15140,15 @@ Merit Systems Protection Board                    5, II
 Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
-
-[[Page 189]]
-
 Mines, Bureau of                                  30, VI
+
+[[Page 191]]
+
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
+Multifamily Housing Assistance Restructuring,     24, IV
+     Office of
 National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
@@ -15134,7 +15160,7 @@ National Capital Planning Commission              1, IV
 National Commission for Employment Policy         1, IV
 National Commission on Libraries and Information  45, XVII
      Science
-National and Community Service, Corporation for   45, XXV
+National and Community Service, Corporation for   45, XII, XXV
 National Council on Disability                    34, XII
 National Credit Union Administration              12, VII
 National Drug Control Policy, Office of           21, III
@@ -15146,7 +15172,7 @@ National Indian Gaming Commission                 25, III
 National Institute for Literacy                   34, XI
 National Institute of Standards and Technology    15, II
 National Labor Relations Board                    5, LXI; 29, I
-National Marine Fisheries Service                 50, II, IV
+National Marine Fisheries Service                 50, II, IV, VI
 National Mediation Board                          29, X
 National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV, 
                                                   VI
@@ -15190,7 +15216,7 @@ Personnel Management, Office of                   5, I, XXXV; 45, VIII
   Federal Acquisition Regulation                  48, 17
   Federal Employees Group Life Insurance Federal  48, 21
      Acquisition Regulation
-[[Page 190]]
+[[Page 192]]
 
   Federal Employees Health Benefits Acquisition   48, 16
        Regulation
@@ -15202,7 +15228,9 @@ President's Commission on White House             1, IV
 Presidential Commission on the Assignment of      32, XXIX
      Women in the Armed Forces
 Presidential Documents                            3
+Presidio Trust                                    36, X
 Prisons, Bureau of                                28, V
+Procurement and Property Management, Office of    7, XXXII
 Productivity, Technology and Innovation,          37, IV
      Assistant Secretary
 Public Contracts, Department of Labor             41, 50
@@ -15245,12 +15273,12 @@ Technology Administration                         15, XI
 Technology Policy, Assistant Secretary for        37, IV
 Technology, Under Secretary for                   37, V
 Tennessee Valley Authority                        5, LXIX; 18, XIII
-Thrift Depositor Protection Oversight Board       12, XV
 Thrift Supervision Office, Department of the      12, V
      Treasury
 Trade Representative, United States, Office of    15, XX
 Transportation, Department of                     5, L
   Coast Guard                                     33, I; 46, I; 49, IV
+  Coast Guard (Great Lakes Pilotage)              46, III
   Commercial Space Transportation                 14, III
   Contract Appeals, Board of                      48, 63
   Emergency Management and Assistance             44, IV
@@ -15263,14 +15291,16 @@ Transportation, Department of                     5, L
   National Highway Traffic Safety Administration  23, II, III; 49, V
   Research and Special Programs Administration    49, I
   Saint Lawrence Seaway Development Corporation   33, IV
+
+[[Page 193]]
+
   Secretary of Transportation, Office of          14, II; 49, Subtitle A
   Surface Transportation Board                    49, X
-
-[[Page 191]]
-
+  Transportation Statistics Bureau                49, XI
 Transportation, Office of                         7, XXXIII
-Travel Allowances                                 41, 301
-Treasury Department                               5, XXI; 17, IV
+Transportation Statistics Brureau                 49, XI
+Travel Allowances, Temporary Duty (TDY)           41, 301
+Treasury Department                               5, XXI; 12, XV; 17, IV
   Alcohol, Tobacco and Firearms, Bureau of        27, I
   Community Development Financial Institutions    12, XVIII
        Fund
@@ -15292,7 +15322,6 @@ United States and Canada, International Joint     22, IV
      Commission
 United States and Mexico, International Boundary  22, XI
      and Water Commission, United States Section
-United States Enrichment Corporation              10, XI
 Utah Reclamation Mitigation and Conservation      43, III
      Commission
 Veterans Affairs Department                       38, I
@@ -15306,7 +15335,7 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 193]]
+[[Page 195]]
 
 
 <R03>
@@ -15336,9 +15365,9 @@ Chapter I
 601.9000  (c) table amended (OMB numbers)...........................7442
 602  Authority citation correction.................................30857
 602.101  (c) table amended (OMB numbers).............................21,
-    394, 749, 1507, 2481, 4338, 5197, 7441, 10352, 16300, 16306, 17961, 
-  21546, 23744, 25049, 28378, 30484, 31613, 31617, 33595, 34204, 40169, 
-                         45106, 45461, 45466, 45736, 46620, 46651, 46654
+394, 749, 1507, 2481, 4338, 5197, 7441, 10352, 16300, 16306, 17961, 
+21546, 23744, 25049, 28378, 30484, 31613, 31617, 33595, 34204, 40169, 
+45106, 45461, 45466, 45736, 46620, 46651, 46654
     (c) table corrected (OMB numbers)................12515, 13496, 20646
 
                                   1987
@@ -15371,12 +15400,12 @@ amended; (c)(3)(ix) added; flush text at end of (c)(3) and
     (h) added......................................................37951
 602.101  Correctly designated......................................10368
     (c) table amended (OMB numbers)..................................42,
-   3004, 3623, 3631, 5101, 6466, 6476, 6795, 7411, 10085, 10564, 10748, 
-   12163, 13437, 15320, 21513, 23440, 25007, 26673, 29697, 30163, 31621,
+3004, 3623, 3631, 5101, 6466, 6476, 6795, 7411, 10085, 10564, 10748, 
+12163, 13437, 15320, 21513, 23440, 25007, 26673, 29697, 30163, 31621, 
+32008, 32009, 33585, 34357, 42100, 46760, 47557, 48419, 48997
 
-[[Page 194]]
+[[Page 196]]
 
-           32008, 32009, 33585, 34357, 42100, 46760, 47557, 48419, 48997
     (c) table corrected (OMB numbers)...............................1416
     Technical correction...........................................10368
 602.106  (c) table amended (temporary)......................22777, 46075
@@ -15392,10 +15421,10 @@ Chapter I
 601.9000 (Subpart I)  Redesignated as 601.9000 (Subpart J).........19187
 601.9000 (Subpart J)  Redesignated from 601.9000 (Subpart I).......19187
 602.101  (c) table amended (OMB numbers)...........................6148,
-    6519, 6614, 6625, 6780, 6821, 7514, 8451, 9881, 11068,12006, 12008, 
-  16086, 16232, 19714, 20311, 23619, 24066, 27044, 27511, 29674, 31856, 
-  33461, 34076, 34493, 34734, 34736, 35507, 37294, 37556, 38715, 39604, 
-                                                                   53173
+6519, 6614, 6625, 6780, 6821, 7514, 8451, 9881, 11068,12006, 12008, 
+16086, 16232, 19714, 20311, 23619, 24066, 27044, 27511, 29674, 31856, 
+33461, 34076, 34493, 34734, 34736, 35507, 37294, 37556, 38715, 39604, 
+53173
     (c) table amendment at 53 FR 27044 comment time extended.......32899
     (c) table corrected (OMB numbers)........................9870, 48534
 
@@ -15413,8 +15442,8 @@ Chapter I
         31 CFR 19 Appendixes A and B; interim.......................4958
 602.101  Technical correction...............................13606, 46187
     (c) table amended (OMB numbers)................................7763,
-  10541, 19372, 20566, 20837, 21059, 21204, 28620, 31674, 37107, 37324, 
-           37453, 38851, 38664, 38671, 38979, 38987, 46375, 46382, 51028
+10541, 19372, 20566, 20837, 21059, 21204, 28620, 31674, 37107, 37324, 
+37453, 38851, 38664, 38671, 38979, 38987, 46375, 46382, 51028
     (c) table corrected (OMB numbers)..............................41962
 
                                   1990
@@ -15425,8 +15454,8 @@ Chapter I
 Chapter I
 602.101  Technical correction..........................4049, 7891, 10236
     (c) table amended (OMB numbers)................................1418,
-     2376, 3219, 9442, 14245, 19627, 21191, 23077, 28022, 33690, 35620, 
-           36631, 41686, 42006, 49038, 50179, 50554, 51290, 51698, 53296
+2376, 3219, 9442, 14245, 19627, 21191, 23077, 28022, 33690, 35620, 
+36631, 41686, 42006, 49038, 50179, 50554, 51290, 51698, 53296
     (c) table corrected (OMB numbers)..............................11906
 
                                   1991
@@ -15445,8 +15474,8 @@ Chapter I
 601.508  Revised...................................................24009
 601.509  Revised...................................................24009
 602.101  (c) table amended (OMB numbers)............................487,
-   1363, 10377, 15044, 21935, 21952, 25369, 28075, 29435, 40551, 47402, 
-    49523, 56320, 63461, 65687, 66357, 66995, 66996, 67178, 67509, 67520
+1363, 10377, 15044, 21935, 21952, 25369, 28075, 29435, 40551, 47402, 
+49523, 56320, 63461, 65687, 66357, 66995, 66996, 67178, 67509, 67520
     Technical correction............................................4676
     (c) table corrected (OMB numbers)........................8130, 40246
     (c) table revised (OMB numbers).................................8912
@@ -15455,8 +15484,6 @@ Chapter I
 701.9006-1  Correctly designated from 701.906-1....................27999
 702  Added.........................................................21599
 
-[[Page 195]]
-
                                   1992
 
 26 CFR
@@ -15464,6 +15491,9 @@ Chapter I
                                                                     Page
 Chapter I
 601.501  (a) and (b)(4) amended....................................27356
+
+[[Page 197]]
+
 601.502  Introductory text, (i), (ii), (a) and (b) redesignated as 
         (a) introductory text, (1), (2), (b) and (c); (a)(2) and 
         (c)(4) amended.............................................27356
@@ -15475,9 +15505,9 @@ Chapter I
 602  Technical correction............................21152, 21894, 60474
 602.101  (c) table amended (OMB numbers)...........................3133,
 3535, 6296, 9050, 9209, 10996, 11264, 11266, 12211, 13035, 15253, 19262, 
-  21032, 32438, 36004, 38283, 38599, 41093, 40323, 41676, 43897, 43904, 
-  44989, 45713, 48174, 48187, 48984, 54931, 55457, 60481, 60995, 61313, 
-                                                     61323, 61830, 62200
+21032, 32438, 36004, 38283, 38599, 41093, 40323, 41676, 43897, 43904, 
+44989, 45713, 48174, 48187, 48984, 54931, 55457, 60481, 60995, 61313, 
+61323, 61830, 62200
     (c) table amended (OMB numbers); eff. 6-30-93..................40124
     (c) table corrected (OMB numbers).......................27511, 44991
 
@@ -15488,10 +15518,10 @@ Chapter I
                                                                     Page
 Chapter I
 602  Technical correction..........................................6678,
-                                          7987, 7988, 9245, 13413, 28446
+7987, 7988, 9245, 13413, 28446
 602.101  (c) table amended (OMB numbers)...........................4080,
-   5936, 13412, 25558, 33553, 33764, 42234, 51576, 54041, 63080, 68036, 
-                                68300, 68301, 68304, 68751, 68753, 68765
+5936, 13412, 25558, 33553, 33764, 42234, 51576, 54041, 63080, 68036, 
+68300, 68301, 68304, 68751, 68753, 68765
     (c) table amended (OMB numbers); eff. 4-21-93...................5293
     (c) table corrected (OMB numbers)...............................6575
 
@@ -15504,7 +15534,59 @@ Chapter I
 602  Technical  correction...................................4140, 17154
 602.101  (c)  table amended (OMB numbers)............................23,
 2984, 2985, 4799, 8862, 9664, 11925, 12840, 12844, 12848, 23157, 24939, 
-  27235, 27460, 29366, 30179, 32081, 33433, 35030, 35033, 36360, 36367, 
-  37680, 41703, 50166, 51376, 63254, 64302, 64574, 65714, 66188, 66476, 
+27235, 27460, 29366, 30179, 32081, 33433, 35030, 35033, 36360, 36367, 
+37680, 41703, 50166, 51376, 63254, 64302, 64574, 65714, 66188, 66476, 
+67215
+    (c) table amended (OMB numbers); eff. 4-4-94..............4830, 4831
+    (c) table amended (OMB numbers); eff. 5-2-94...................10075
+    (c) table corrected (OMB numbers)...............................3319
+
+                                  1995
+
+26 CFR
+                                                                   60 FR
+                                                                    Page
+Chapter I
+602  Technical correction..........................................66083
+602.101  (c) table amended (OMB numbers)......2509, 18744, 20899, 36710, 
+         36998, 37589, 40086, 41016, 43554, 43563, 46530, 49218, 49221, 
+         52856, 53128, 53511, 64324, 65547, 65566, 66085, 66091, 66105, 
+                                              66134, 66139, 66746, 66926
+
+                                  1996
+
+26 CFR
+                                                                   61 FR
+                                                                    Page
+Chapter I
+601.101  (b) amended; (c) removed..................................58008
+601.102  (b)(2)(i) and (ii) revised; (b)(2)(iii), (iv) and (c) 
+        removed....................................................58008
+601.104  (a)(4) and (5) removed; (c)(4) amended....................58008
+601.201  (a)(2) amended............................................58008
+601.202  (c)(1) amended............................................58008
+601.203  (a)(1) amended............................................58008
+601.301--601.328 (Subpart C)  Removed..............................58008
+601.401--601.405 (Subpart D)  Heading revised......................58008
+601.402  Removed...................................................58008
+601.403  Removed...................................................58008
+601.404  Removed...................................................58008
+601.405  Removed...................................................58008
+601.9000 (Subpart J)  Removed......................................58008
+602  Technical correction............................11550, 14248, 40993
+602.101  (c) table amended (OMB numbers).........8, 262, 517, 522, 4885, 
+         10466, 17574, 19192, 26792, 27008, 30159, 33321, 33335, 33365, 
+         33370, 42178, 46720, 53066, 58008, 60550, 60559, 65323, 65955, 
+                         66593, 67458, 67462, 67726, 68154, 68641, 69031
+    (c) table amended (OMB numbers); eff. 6-6-96....................9343
+
+[[Page 198]]
+
+    (c) table amended (OMB numbers); eff. 12-22-96...................271
+    (c) table corrected (OMB number).........................1213, 14248
+
+                                  1997
+
+26 CFR
              
 </pre></body></html>
