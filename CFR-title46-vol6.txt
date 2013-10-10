@@ -1,25 +1,25 @@
 <html><body><pre>
 [Title 46 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2005 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2006 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-
+          
 <R02>
           46
 
 
           Parts 156 to 165
 
-                         Revised as of October 1, 2004
+                         Revised as of October 1, 2006
 
 
           Shipping
           
-          <R03>
+<R03>
 
 
 ________________________
@@ -27,7 +27,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of October 1, 2004
+          As of October 1, 2006
           With Ancillaries
                     Published by
                     Office of the Federal Register
@@ -37,21 +37,51 @@ ________________________
 
 [[Page ii]]
 
+          U.S. GOVERNMENT OFFICIAL EDITION NOTICE
 
+          Legal Status and Use of Seals and Logos
+          <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+          
+          The seal of the National Archives and Records Administration 
+              (NARA) authenticates the Code of Federal Regulations (CFR) as 
+              the official codification of Federal regulations established 
+              under the Federal Register Act. Under the provisions of 44 
+              U.S.C. 1507, the contents of the CFR, a special edition of the 
+              Federal Register, shall be judicially noticed. The CFR is 
+              prima facie evidence of the original documents published in 
+              the Federal Register (44 U.S.C. 1510).
 
+          It is prohibited to use NARA's official seal and the stylized Code 
+              of Federal Regulations logo on any republication of this 
+              material without the express, written permission of the 
+              Archivist of the United States or the Archivist's designee. 
+              Any person using NARA's official seals and logos in a manner 
+              inconsistent with the provisions of 36 CFR part 1200 is 
+              subject to the penalties specified in 18 U.S.C. 506, 701, and 
+              1017.
 
+          Use of ISBN Prefix
 
+          This is the Official U.S. Government edition of this publication 
+              and is herein identified to certify its authenticity. Use of 
+              the 0-16 ISBN prefix is for U.S. Government Printing Office 
+              Official Editions only. The Superintendent of Documents of the 
+              U.S. Government Printing Office requests that any reprinted 
+              edition clearly be labeled as a copy of the authentic work 
+              with a new ISBN.
 
-                     U.S. GOVERNMENT PRINTING OFFICE
-                             WASHINGTON: 2004
+              <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+              
+          U . S . G O V E R N M E N T P R I N T I N G O F F I C E
 
+          ------------------------------------------------------------------
 
+          U.S. Superintendent of Documents <bullet<ls-thn-eq> Washington, DC 
+              20402-0001
 
-  For sale by the Superintendent of Documents, U.S. Government Printing 
-                                  Office
-  Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area 
-                    (202) 512-1800 Fax: (202) 512-2250
-                Mail: Stop SSOP, Washington, DC 20402-0001
+          http://bookstore.gpo.gov
+
+          Phone: toll-free (866) 512-1800; DC area (202) 512-1800
 
 [[Page iii]]
 
@@ -128,7 +158,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2004), consult the ``List of CFR 
+revision date (in this case, October 1, 2006), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -203,7 +233,7 @@ reference, please contact the agency that issued the regulation
 containing that incorporation. If, after contacting the agency, you find 
 the material is not available, please notify the Director of the Federal 
 Register, National Archives and Records Administration, Washington DC 
-20408, or call 202-741-6010.
+20408, or call (202) 741-6010.
 
 CFR INDEXES AND TABULAR GUIDES
 
@@ -237,7 +267,7 @@ the top of odd-numbered pages.
     For inquiries concerning CFR reference assistance, call 202-741-6000 
 or write to the Director, Office of the Federal Register, National 
 Archives and Records Administration, Washington, DC 20408 or e-mail 
-fedreg.info@nara.gov.
+info@fedreg.nara.gov.
 
 SALES
 
@@ -269,7 +299,7 @@ register. The NARA site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-October 1, 2004.
+October 1, 2006.
 
 [[Page ix]]
 
@@ -286,19 +316,14 @@ II--Maritime Administration, DHS and chapter III--Coast Guard (Great
 Lakes Pilotage), DHS. The ninth volume, containing part 500 to End, 
 includes chapter IV--Federal Maritime Commission. The contents of these 
 volumes represent all current regulations codified under this title of 
-the CFR as of October 1, 2004.
+the CFR as of October 1, 2006.
 
-    Subject indexes appear for subchapter A-I, I-A, J, K, L, and Q-W 
+    Subject indexes appear for subchapter A--I, I-A, J, K, L, and Q-W 
 following the subchapters.
 
     For this volume, Elmer Barksdale was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
-Frances D. McDonald, assisted by Alomha S. Morris.
-
-[[Page x]]
-
-<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
-
+Frances D. McDonald, assisted by Kenneth R. Payne.
 
 [[Page 1]]
 
@@ -307,7 +332,7 @@ Frances D. McDonald, assisted by Alomha S. Morris.
                            TITLE 46--SHIPPING
 
 
-
+<R02>
 
                   (This book contains parts 156 to 165)
 
@@ -324,7 +349,7 @@ chapter i--Coast Guard, Department of Homeland Security
    Chapter I--Coast Guard, Department of Homeland Security (Continued)
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 
@@ -338,7 +363,10 @@ Part                                                                Page
 162             Engineering equipment.......................         286
 163             Construction................................         320
 164             Materials...................................         331
-165             [Reserved]
+165
+
+[Reserved]
+
                 Index.......................................         369
 
 [[Page 5]]
@@ -419,7 +447,8 @@ Sec.
     Authority: 46 U.S.C. 3306, 3703; 49 CFR 1.45, 1.46; Section 159.001-
 9 also issued under the authority of 44 U.S.C. 3507.
 
-    Source: 44 FR 73043, Dec. 17, 1979, unless otherwise noted.
+    Source: CGD 76-048, 44 FR 73043, Dec. 17, 1979, unless otherwise 
+noted.
 
 
 <R04>
@@ -516,12 +545,11 @@ Sec. 159.001-5  Correspondence and applications.
 
     Unless otherwise specified, all correspondence and applications in 
 connection with approval and testing of equipment and materials must be 
-addressed to: Commandant (G-MSE-4), U.S. Coast Guard, 2100 Second Street 
-SW, Washington, DC 20593-0001, Telephone: (202) 267-1444, Facsimile: 
-(202) 267-1069, Electronic mail: MVI-3/G-M@cgsmtp.uscg.mil.
+addressed to: Commandant (G-PSE-4), U.S. Coast Guard, 2100 Second 
+Street, SW., Washington, DC 20593-0001, Telephone: (202) 372-1392, 
+Facsimile: (202) 372-1924.
 
-[CGD 93-055, 61 FR 13928, Mar. 28, 1996, as amended by CGD 96-041, 61 FR 
-50733, Sept. 27, 1996]
+[USCG-2006-25697, 71 FR 55747, Sept. 25, 2006]
 
 
 <R05>
@@ -535,8 +563,7 @@ in this part apply.
 
 
 <R05>
-Sec. 159.001-9  OMB Control Numbers assigned pursuant to the Paperwork 
-Reduction Act.
+Sec. 159.001-9  OMB Control Numbers assigned pursuant to the Paperwork Reduction Act.
 
     (a) Purpose. This section collects and displays the control numbers 
 assigned to information collection and recordkeeping requirements in 
@@ -548,38 +575,38 @@ number assigned by the Director of the OMB for each approved agency
 information collection requirement.
     (b) Display.
 
-[[Page 7]]
-
-
-
 ------------------------------------------------------------------------
                                                                 Current
                                                                   OMB
     46 CFR part or section where identified or described        control
                                                                   No.
 ------------------------------------------------------------------------
-Sec. 159.007-11.13........................................   1625-0035
-Sec. 160.002-5............................................   1625-0035
-Sec. 160.047-5............................................   1625-0035
-Sec. 160.048-5.............................................   1625-0035
-Sec. 160.050-5............................................   1625-0035
-Sec. 160.052-7............................................   1625-0035
-Sec. 160.053-4............................................   1625-0035
-Sec. 160.055-4............................................   1625-0035
-Sec. 160.064-6............................................   1625-0035
-Sec. Sec. 161.001 through 161.010........................   1625-0035
-Sec. 161.171-15...........................................   1625-0035
-Sec. 161.171-23...........................................   1625-0035
-Sec. Sec. 162.001 through 161.018........................   1625-0035
-Sec. 162.041..............................................   1625-0035
-Sec. 162.043..............................................   1625-0035
-Sec. 164.012-13...........................................   1625-0035
-Sec. 164.019-5............................................   1625-0035
-Sec. 164.019-7............................................   1625-0035
-Sec. 164.019-9............................................   1625-0035
-Sec. 164.019-13...........................................   1625-0035
-Sec. 164.019-15...........................................   1625-0035
-Sec. 164.023-15...........................................   1625-0035
+Sec.  159.007-11.13........................................   1625-0035
+Sec.  160.002-5............................................   1625-0035
+
+[[Page 7]]
+
+ 
+Sec.  160.047-5............................................   1625-0035
+Sec.  160.048-5............................................   1625-0035
+Sec.  160.050-5............................................   1625-0035
+Sec.  160.052-7............................................   1625-0035
+Sec.  160.053-4............................................   1625-0035
+Sec.  160.055-4............................................   1625-0035
+Sec.  160.064-6............................................   1625-0035
+Sec. Sec.  161.001 through 161.010........................   1625-0035
+Sec.  161.171-15...........................................   1625-0035
+Sec.  161.171-23...........................................   1625-0035
+Sec. Sec.  162.001 through 161.018........................   1625-0035
+Sec.  162.041..............................................   1625-0035
+Sec.  162.043..............................................   1625-0035
+Sec.  164.012-13...........................................   1625-0035
+Sec.  164.019-5............................................   1625-0035
+Sec.  164.019-7............................................   1625-0035
+Sec.  164.019-9............................................   1625-0035
+Sec.  164.019-13...........................................   1625-0035
+Sec.  164.019-15...........................................   1625-0035
+Sec.  164.023-15...........................................   1625-0035
 ------------------------------------------------------------------------
 
 
@@ -822,8 +849,7 @@ specifically requests that the laboratory not be notified.
 
 
 <R05>
-Sec. 159.005-15  Approval of equipment or material: Suspensions, 
-withdrawals, and terminations.
+Sec. 159.005-15  Approval of equipment or material: Suspensions, withdrawals, and terminations.
 
     (a) The Commandant suspends an approval issued under this subchapter 
 in accordance with Sec. 2.75-40 of this chapter, withdraws an approval 
@@ -848,8 +874,7 @@ performed under this subchapter.
 
 
 <R05>
-Sec. 159.007-3  Production inspections and tests: Independent laboratory's 
-procedures.
+Sec. 159.007-3  Production inspections and tests: Independent laboratory's procedures.
 
     (a) The manufacturer may follow an independent laboratory's 
 procedures for production inspections and tests if those procedures--
@@ -880,8 +905,7 @@ description of those procedures.
 
 
 <R05>
-Sec. 159.007-7  Application for acceptance for production inspections 
-and tests: Coast Guard action.
+Sec. 159.007-7  Application for acceptance for production inspections and tests: Coast Guard action.
 
     (a) From the information submitted with the application, the 
 Commandant determines whether or not the laboratory is accepted for 
@@ -1046,8 +1070,7 @@ organization.
 
 
 <R05>
-Sec. 159.010-7  Recognized independent laboratory: Memorandum of 
-Understanding.
+Sec. 159.010-7  Recognized independent laboratory: Memorandum of Understanding.
 
     (a) Only laboratories that have entered into an MOU with the Coast 
 Guard may perform the functions of a recognized laboratory under this 
@@ -1124,8 +1147,7 @@ amendments or revisions.
 
 
 <R05>
-Sec. 159.010-15  Contracting inspections and tests or transferrals to 
-another laboratory or person.
+Sec. 159.010-15  Contracting inspections and tests or transferrals to another laboratory or person.
 
     (a) No independent laboratory may contract or transfer to another 
 person or laboratory the performance or supervision of inspections or 
@@ -1140,8 +1162,7 @@ contract or the transfer is allowed.
 
 
 <R05>
-Sec. 159.010-17  Termination of acceptance or recognition of an independent 
-laboratory.
+Sec. 159.010-17  Termination of acceptance or recognition of an independent laboratory.
 
     The acceptance or recognition of a laboratory terminates if the 
 laboratory--
@@ -4005,8 +4026,7 @@ consideration.
 
 
 <R05>
-Sec. 160.021-3  Materials, workmanship, construction and performance 
-requirements.
+Sec. 160.021-3  Materials, workmanship, construction and performance requirements.
 
     (a) Materials. The materials shall conform strictly to the 
 specifications and drawings submitted by the manufacturer and approved 
@@ -4314,11 +4334,11 @@ of water at least 12mm (\1/2\ in.) deep with a layer of technical grade
 heptane on top of the water. The pan must be at least 1 m (39 in.) 
 square with sides extending between 175 mm (7 in.) and 200 mm (8 in.) 
 above the surface of the water. The amount of heptane used to form the 
-layer must be 2.0 liters per square meter of pan area (6.25 fluid ounces 
-per square foot).
+layer must be 2.0 liters per square
 
 [[Page 53]]
 
+meter of pan area (6.25 fluid ounces per square foot).
     (ii) The test must be conducted in a draft-free location. The 
 ambient temperature, the temperature of the water, and the temperature 
 of the heptane must all be between 20 [deg]C (68 [deg]F) and 25 [deg]C 
@@ -4406,23 +4426,23 @@ or special tools permitted), submerge container with top about 30 cm (1
 ft.) below the surface of the water for two hours, remove container from 
 water, wipe off excess moisture on outside, then open the container and 
 examine the blotting paper and entire interior for evidence of moisture 
-penetration. If any moisture or water is evidenced, the container is not 
-satisfactory.
+penetration. If
 
 [[Page 54]]
 
+any moisture or water is evidenced, the container is not satisfactory.
 [GRAPHIC] [TIFF OMITTED] TC03MR91.004
 
     (c) Marking of container. Containers shall be embossed or bear a 
 brass or equivalent corrosion-resistant nameplate, or otherwise be 
 suitably and permanently marked, to plainly show in letters not less 
-than 13 mm (\1/2\ in.) high the following wording: ``HAND RED FLARE 
-DISTRESS SIGNALS''. No additional marking which might cause confusion as 
-to the contents shall be
+than 13 mm (\1/2\ in.) high
 
 [[Page 55]]
 
-permitted. The vessel's name ordinarily is painted or branded on 
+the following wording: ``HAND RED FLARE DISTRESS SIGNALS''. No 
+additional marking which might cause confusion as to the contents shall 
+be permitted. The vessel's name ordinarily is painted or branded on 
 equipment such as this container, and nothing in this subpart shall be 
 construed as prohibiting same.
 
@@ -4481,8 +4501,7 @@ be given special consideration.
 
 
 <R05>
-Sec. 160.022-3  Materials, workmanship, construction, and performance 
-requirements.
+Sec. 160.022-3  Materials, workmanship, construction, and performance requirements.
 
     (a) Materials. The materials shall conform strictly to the 
 specifications and drawings submitted by the manufacturer and approved 
@@ -4508,10 +4527,11 @@ shall be easily and quickly removable by hand without the use of tools.
 If attachment of the cover is by formed screw threads, it shall be of 
 such construction or material to prevent rusting or corrosion and will 
 not back off and loosen under shipboard vibration.
-    (d) Performance. Signals shall meet all the inspection and test 
-requirements contained in Sec. 160.022-4.
 
 [[Page 56]]
+
+    (d) Performance. Signals shall meet all the inspection and test 
+requirements contained in Sec. 160.022-4.
 
 
 <R05>
@@ -4579,19 +4599,19 @@ the highest numerical value is assigned to that signal. If the sum of
 all the failure percents (cumulative failure percent) for the number of 
 units in the sample is less than or equal to the accept criterion, the 
 lot is accepted. If this sum is equal to or more than the reject 
-criterion the lot is rejected. If the cumulative failure percent falls 
-between the accept and reject criteria, another sample is selected from 
-the production lot and the operational
+criterion the lot is rejected. If
 
 [[Page 57]]
 
-tests are repeated. The cumulative failure percent of each sample tested 
-is added to that of the previous samples to obtain the cumulative 
-failure percent for all the signals tested (cumulative sample size). 
-Additional samples are tested and the tests repeated until either the 
-accept or reject criterion for the cumulative sample size is met. If any 
-signal in the sample explodes when fired or ignited in a way that could 
-burn or otherwise injure the person firing it, the lot is rejected 
+the cumulative failure percent falls between the accept and reject 
+criteria, another sample is selected from the production lot and the 
+operational tests are repeated. The cumulative failure percent of each 
+sample tested is added to that of the previous samples to obtain the 
+cumulative failure percent for all the signals tested (cumulative sample 
+size). Additional samples are tested and the tests repeated until either 
+the accept or reject criterion for the cumulative sample size is met. If 
+any signal in the sample explodes when fired or ignited in a way that 
+could burn or otherwise injure the person firing it, the lot is rejected 
 without further testing. (This procedure is diagrammed in figure 
 160.022-4(c).)
     (2) Test Procedure. Each sample signal (specimen) must be tested as 
@@ -4729,7 +4749,7 @@ must not be corroded in any fashion that would impair their proper
 functioning.
     (7) Color of smoke. Ignite specimen in the open air in daytime 
 according to the directions printed on the signal, and determine the 
-smoke color by direct visual comparison of the unshad owed portions of 
+smoke color by direct visual comparison of the unshadowed portions of 
 the smoke with a color chart held so as to receive the same daylight 
 illumination as the unshadowed portions of the smoke. The color of the 
 smoke must be orange as defined by Sections 13 and 14 of the ``Color 
@@ -4825,8 +4845,7 @@ this subpart shall be of the type described in specification MIL-S-
 
 
 <R05>
-Sec. 160.023-3  Materials, workmanship, construction, and performance 
-requirements.
+Sec. 160.023-3  Materials, workmanship, construction, and performance requirements.
 
     (a) The materials, construction, workmanship, general and detail 
 requirements shall conform to the requirements of specification MIL-S-
@@ -4963,8 +4982,7 @@ Figure 160.028-2(a) of subpart 160.028 of this chapter.
 
 
 <R05>
-Sec. 160.024-3  Materials, workmanship, construction, and performance 
-requirements.
+Sec. 160.024-3  Materials, workmanship, construction, and performance requirements.
 
     (a) Materials. The materials used in pistol-projected parachute red 
 flare distress signals shall conform strictly to the specifications and 
@@ -5104,45 +5122,45 @@ than 30 seconds.
 
                   Table 160.024-4(c)(1)--Accept and Reject Criteria for Operational Test Lots.
 ----------------------------------------------------------------------------------------------------------------
-                                                                                Cumulative
-                 Lot size                   Individual          Sample            sample    Accept\1\  Reject\1\
-                                           sample size                             size
+                                              Individual                           Cumulative
+                  Lot size                      sample             Sample            sample    Accept1>  Reject1
+                                                 size                                 size
 ----------------------------------------------------------------------------------------------------------------
-280 or                                               8  First.................           8      (\2\)        400
-  less.                                    ...........  Second................          16        100        500
-                                                        Third.................          24        200        600
-                                                        Fourth................          32        300        700
-                                                        Fifth.................          40        500        800
-                                                        Sixth.................          48        700        900
-                                                        Seventh...............          56        950        951
-281 to                                              13  First.................          13          0        400
-  500.                                     ...........  Second................          26        100        600
-                                                        Third.................          39        300        800
-                                                        Fourth................          52        500      1,000
-                                                        Fifth.................          65        700      1,100
-                                                        Sixth.................          78      1,000      1,200
-                                                        Seventh...............          91      1,350      1,351
-501 to                                              20  First.................          20          0        500
-  1,200.                                   ...........  Second................          40        300        800
-                                                        Third.................          60        600      1,000
-                                                        Fourth................          80        800      1,300
-                                                        Fifth.................         100      1,100      1,500
-                                                        Sixth.................         120      1,400      1,700
-                                                        Seventh...............         140      1,850      1,851
-1,201 to                                            32  First.................          32        100        700
-  3,200.                                   ...........  Second................          64        400      1,000
-                                                        Third.................          96        800      1,300
-                                                        Fourth................         128      1,200      1,700
-                                                        Fifth.................         160      1,700      2,000
-                                                        Sixth.................         192      2,100      2,300
-                                                        Seventh...............         224      2,550      2,551
-More                                                50  First.................          50        200        900
-  than                                     ...........  Second................         100        700      1,400
-  3,201.                                   ...........  Third.................         150      1,300      1,900
-                                                        Fourth................         200      1,900      2,500
-                                                        Fifth.................         250      2,500      2,900
-                                                        Sixth.................         300      3,100      3,300
-                                                        Seventh...............         350      3,750      3,751
+280 or                                                 8  First..................         8      (\2\)       400
+  less.                                       ..........  Second.................        16        100       500
+                                                          Third..................        24        200       600
+                                                          Fourth.................        32        300       700
+                                                          Fifth..................        40        500       800
+                                                          Sixth..................        48        700       900
+                                                          Seventh................        56        950       951
+281 to                                                13  First..................        13          0       400
+  500.                                        ..........  Second.................        26        100       600
+                                                          Third..................        39        300       800
+                                                          Fourth.................        52        500     1,000
+                                                          Fifth..................        65        700     1,100
+                                                          Sixth..................        78      1,000     1,200
+                                                          Seventh................        91      1,350     1,351
+501 to                                                20  First..................        20          0       500
+  1,200.                                      ..........  Second.................        40        300       800
+                                                          Third..................        60        600     1,000
+                                                          Fourth.................        80        800     1,300
+                                                          Fifth..................       100      1,100     1,500
+                                                          Sixth..................       120      1,400     1,700
+                                                          Seventh................       140      1,850     1,851
+1,201 to                                              32  First..................        32        100       700
+  3,200.                                      ..........  Second.................        64        400     1,000
+                                                          Third..................        96        800     1,300
+                                                          Fourth.................       128      1,200     1,700
+                                                          Fifth..................       160      1,700     2,000
+                                                          Sixth..................       192      2,100     2,300
+                                                          Seventh................       224      2,550     2,551
+More                                                  50  First..................        50        200       900
+  than                                        ..........  Second.................       100        700     1,400
+  3,201.                                      ..........  Third..................       150      1,300     1,900
+                                                          Fourth.................       200      1,900     2,500
+                                                          Fifth..................       250      2,500     2,900
+                                                          Sixth..................       300      3,100     3,300
+                                                          Seventh................       350      3,750     3,751
 ----------------------------------------------------------------------------------------------------------------
 \1\ Cumulative failure percent.
 \2\ Lot may not be accepted. Next sample must be tested.
@@ -5671,8 +5689,7 @@ if they are not the dimensions for a conventional round of ammunition.
 
 
 <R05>
-Sec. 160.028-3  Materials, workmanship, construction, and performance 
-requirements.
+Sec. 160.028-3  Materials, workmanship, construction, and performance requirements.
 
     (a) Materials. The materials used in signal pistols shall conform 
 strictly to the specifications and drawings submitted by the 
@@ -5810,8 +5827,7 @@ attached in a position below the barrel.
 
 
 <R05>
-Sec. 160.031-3  Materials, construction, workmanship, and performance 
-requirements.
+Sec. 160.031-3  Materials, construction, workmanship, and performance requirements.
 
     (a) All materials used in the construction of shoulder gun type 
 line-throwing appliances and equipment shall be of good quality, 
@@ -6659,8 +6675,7 @@ USCG-2000-7790, 65 FR 58463, Sept. 29, 2000]
 
 
 <R05>
-Sec. 160.035-5  Construction of steel motor-propelled lifeboats with and 
-without radio cabin.
+Sec. 160.035-5  Construction of steel motor-propelled lifeboats with and without radio cabin.
 
     (a) General provisions applicable to all motor-propelled lifeboats. 
 (1) A motor-propelled lifeboat, carried as part of the lifesaving 
@@ -6705,7 +6720,7 @@ deformation. A graduated measure stick or other means must be provided
 to determine the amount of the fuel in the tank.
     (i) Steel diesel oil fuel tanks shall have a thickness of not less 
 than 12 USSG and shall not be galvanized on the inside; however, the 
-outside of such tanks shall be so treated as to to obtain a corrosion 
+outside of such tanks shall be so treated as to obtain a corrosion 
 resistance approximately equivalent to hot-dip galvanizing. Swash plates 
 shall be fitted in tanks over 30 inches in length.
     (ii) Fibrous glass reinforced plastic diesel oil fuel tanks shall 
@@ -6896,7 +6911,7 @@ Length of    sternpost                                               Independent
     34.0           4x1    3x2\3/4\x\3/8\   5\1/2\x\3/8\          8          7          8          7          8          7         10          10           9          8         11          11
     36.0           4x1    3x2\3/4\x\3/8\   5\1/2\x\3/8\          7          6          8          7          8          7         10          10           9          8         11          11
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-\1\ Extruded shapes having substantially the scantlings of the angle bar gunwale are permitted. Where extruded shapes are used, a nosing as per Sec. 160.035-3(j) is not required provided the
+\1\ Extruded shapes having substantially the scantlings of the angle bar gunwale are permitted. Where extruded shapes are used, a nosing as per Sec.  160.035-3(j) is not required provided the
   extruded shape has at its heel a generously rounded curve.
 \2\ Brown and Sharpe gage decimal values: 15 gage equals 0.05707, 14 gage equals 0.06408; 13 gage equals 0.07196; 12 gage equals 0.08081; 11 gage equals 0.09074, 10 gage equals 0.1019; 9 gage
   equals 0.1144; 8 gage equals 0.1285; 7 gage equals 0.1443, and 6 gage equals 0.1620.
@@ -6936,8 +6951,7 @@ corrosion.
 
 
 <R05>
-Sec. 160.035-8  Construction of fibrous glass reinforced plastic (F.R.P.), 
-oar-, hand-, and motor-propelled lifeboats.
+Sec. 160.035-8  Construction of fibrous glass reinforced plastic (F.R.P.), oar-, hand-, and motor-propelled lifeboats.
 
     (a) General requirements. (1) Plastic lifeboats shall comply with 
 the general requirements for the construction and arrangement of steel 
@@ -7176,7 +7190,6 @@ person required is determined from the formula
 
 W = 63d / d - 63
 
-
 where d is the density of material in pounds per cubic foot (Sandbags 
 should not be used for this purpose inasmuch as their weight under water 
 is not readily predictable.) If the lifeboat weighted as above does not 
@@ -7184,6 +7197,7 @@ float with the gunwale at the lowest point just clear of the surface of
 the water, unit air tanks should be slipped beneath the thwarts until 
 the gunwales do clear the surface of the water. The additional air 
 tankage required shall be incorporated in the design of the lifeboat.
+
     (3) Seating capacity test. The lifeboat shall be fully loaded with 
 equipment, and in this condition the number of persons for which the 
 lifeboat is to be approved shall be seated, in accordance with the 
@@ -7195,15 +7209,15 @@ the sheer with the lifeboat in light condition with neither equipment
 nor persons aboard, and in the loaded condition with full equipment and 
 persons aboard.
     (5) Stability test. Upon the conclusion of the seating test, all 
-persons on one side of the centerline shall disembark.
+persons on one side of the centerline shall disembark. The remaining 
+people should sit upright and not move from their original positions. 
+(Not less than one-half in
 
 [[Page 94]]
 
-The remaining people should sit upright and not move from their original 
-positions. (Not less than one-half in total number of persons should 
-remain in the lifeboat.) Freeboard to the low point of sheer shall then 
-be measured. This freeboard should, in general, be not less than 10 
-percent of the depth of the lifeboat.
+total number of persons should remain in the lifeboat.) Freeboard to the 
+low point of sheer shall then be measured. This freeboard should, in 
+general, be not less than 10 percent of the depth of the lifeboat.
     (c) Motor-propelled lifeboats must pass the tests as required for an 
 oar-propelled lifeboat in Sec. 160.035-3. In addition, speed tests over 
 a measured course and fuel consumption tests on a time basis shall be 
@@ -7270,12 +7284,12 @@ appreciable set as a result of this test.
 weight of all equipment, food, water and persons to be carried. It shall 
 then be suspended by the releasing gear with falls 20 feet in length so 
 arranged that when hanging freely the gunwale on one side of the boat is 
-approximately 2 inches from a stationary concrete or steel
+approximately 2 inches from a stationary concrete or steel wall or other 
+structure of similar construction and rigidity. The boat shall
 
 [[Page 95]]
 
-wall or other structure of similar construction and rigidity. The boat 
-shall then be hauled outboard a horizontal distance of 8 feet from its 
+then be hauled outboard a horizontal distance of 8 feet from its 
 original position. From this point, the boat shall be allowed to freely 
 swing inboard and strike the wall along one side. There shall be no 
 damage which would render the boat unserviceable.
@@ -7464,8 +7478,7 @@ signal.
 
 
 <R05>
-Sec. 160.036-3  Materials, workmanship, construction and performance 
-requirements.
+Sec. 160.036-3  Materials, workmanship, construction and performance requirements.
 
     (a) Materials. The materials used in handheld rocket-propelled 
 parachute red flare distress signals shall conform strictly to the 
@@ -7758,11 +7771,12 @@ and year of manufacture, thus: ``6-54'' indicating June, 1954.
 and year of manufacture.
     (3) In addition to any other marking place on the smallest packing 
 carton or box containing signals, each carton or box shall be plainly 
-and permanently marked to show the service life expiration date, date of 
-manufacture, and lot number.
+and permanently
 
 [[Page 102]]
 
+marked to show the service life expiration date, date of manufacture, 
+and lot number.
     (4) The largest carton or box in which the manufacturer ships 
 signals must be marked with the following or equivalent words: ``Keep 
 under cover in a dry place.''
@@ -7845,8 +7859,7 @@ requirements of this specification will be given special consideration.
 
 
 <R05>
-Sec. 160.037-3  Materials, workmanship, construction, and performance 
-requirements.
+Sec. 160.037-3  Materials, workmanship, construction, and performance requirements.
 
     (a) Materials. The materials shall conform strictly to the 
 specifications and drawings submitted by the manufacturer and approved 
@@ -7857,12 +7870,12 @@ or both.
     (b) Workmanship. Hand orange smoke distress signals shall be of 
 first class workmanship and shall be free from imperfections of 
 manufacture affecting their appearance or that may affect their 
-serviceability. Moisture proof coatings shall be applied uniformly and 
-shall be free from pinholes or other visible defects which would impair 
-their usefulness.
+serviceability. Moisture proof
 
 [[Page 103]]
 
+coatings shall be applied uniformly and shall be free from pinholes or 
+other visible defects which would impair their usefulness.
     (c) Construction. The casing shall be fitted and secured to the 
 handle with not less than a 25 mm (1 in.) overlap and shall be attached 
 to the handle in such a manner that failure of the joint will not occur 
@@ -7928,30 +7941,30 @@ previously discontinued production line.
 quality control procedures must include inspection of materials entering 
 into construction of the signals and inspection of the finished signals, 
 to determine that signals are being produced in accordance with the 
-approved plans. Samples from each lot must be tested in accordance with 
-the operational tests in paragraph (c) of this section.
-    (3) Inspections and tests by an independent laboratory. An 
-independent laboratory accepted by the Commandant
+approved plans. Samples from each lot must be tested
 
 [[Page 104]]
 
-under Sec. 159.010 of this Chapter must perform or supervise the 
-inspections and tests under paragraph (b)(2) of this section at least 4 
-times a year, unless the number of lots produced in a year is less than 
-four. The inspections and tests must occur at least once during each 
-quarterly period, unless no lots are produced during this period. If 
-less than four lots are produced, the laboratory must perform or 
-supervise the inspection and testing of each lot. In addition, the 
-laboratory must perform or supervise the technical tests in paragraph 
-(d) of this section at least once for every ten lots of signals 
-produced, except that the number of technical tests must be at least one 
-but not more than four per year. If a lot of signals tested by the 
-independent laboratory is rejected, the laboratory must perform or 
-supervise the inspections and tests of the reworked lot and the next lot 
-of signals produced. The tests of each reworked lot and the next lot 
-produced must not be counted for the purpose of meeting the requirement 
-for the annual number of inspections and tests performed or supervised 
-by the independent laboratory.
+in accordance with the operational tests in paragraph (c) of this 
+section.
+    (3) Inspections and tests by an independent laboratory. An 
+independent laboratory accepted by the Commandant under Sec. 159.010 of 
+this Chapter must perform or supervise the inspections and tests under 
+paragraph (b)(2) of this section at least 4 times a year, unless the 
+number of lots produced in a year is less than four. The inspections and 
+tests must occur at least once during each quarterly period, unless no 
+lots are produced during this period. If less than four lots are 
+produced, the laboratory must perform or supervise the inspection and 
+testing of each lot. In addition, the laboratory must perform or 
+supervise the technical tests in paragraph (d) of this section at least 
+once for every ten lots of signals produced, except that the number of 
+technical tests must be at least one but not more than four per year. If 
+a lot of signals tested by the independent laboratory is rejected, the 
+laboratory must perform or supervise the inspections and tests of the 
+reworked lot and the next lot of signals produced. The tests of each 
+reworked lot and the next lot produced must not be counted for the 
+purpose of meeting the requirement for the annual number of inspections 
+and tests performed or supervised by the independent laboratory.
     (c) Operational tests. Each lot of signals must be sampled and 
 tested as follows:
     (1) Sampling procedure and accept/reject criteria. A sample of 
@@ -7999,17 +8012,17 @@ obtained by stop watch measurements from the time of distinct, sustained
 smoke emission until it ceases. The watch shall be stopped during 
 periods of flame emission. The smoke emitting time for a specimen shall 
 be not less than 50 seconds.
-    (iv) Ignition and smoke emitting characteristics. Test specimens 
-shall ignite and emit smoke properly when the directions on the signal 
-are followed.
 
 [[Page 105]]
 
-Test specimens shall not ignite explosively in a manner that might be 
-dangerous to the user or persons close by. The plug separating the smoke 
-producing composition from the handle shall in no case allow flame or 
-hot gases to pass through it or between it and the casing in such manner 
-as might burn the hand while holding the signal by the handle.
+    (iv) Ignition and smoke emitting characteristics. Test specimens 
+shall ignite and emit smoke properly when the directions on the signal 
+are followed. Test specimens shall not ignite explosively in a manner 
+that might be dangerous to the user or persons close by. The plug 
+separating the smoke producing composition from the handle shall in no 
+case allow flame or hot gases to pass through it or between it and the 
+casing in such manner as might burn the hand while holding the signal by 
+the handle.
 
                    Table 160.037-4(c)(1)--Accept and reject criteria for operational test lots
 ----------------------------------------------------------------------------------------------------------------
@@ -8337,8 +8350,7 @@ approval of the Commandant.
 
 
 <R05>
-Sec. 160.040-3  Materials, construction, workmanship, and performance 
-requirements.
+Sec. 160.040-3  Materials, construction, workmanship, and performance requirements.
 
     (a) Materials. All materials used in the construction of impulse-
 projected rocket type line-throwing appliances and equipment shall be of 
@@ -8369,8 +8381,7 @@ passing the tests specified by Sec. 160.040-5(c).
 
 
 <R05>
-Sec. 160.040-4  Equipment for impulse-projected rocket type line-throwing 
-appliance.
+Sec. 160.040-4  Equipment for impulse-projected rocket type line-throwing appliance.
 
     (a) Four rocket projectiles, each complete with bridle and leader of 
 fire-resistant materials. Two of the projectiles shall be of the buoyant 
@@ -9108,7 +9119,7 @@ bayonet type joint, so as to be readily removable for inspection or
 cleaning.
     (d) The operating lever shall have a steel or bronze core through 
 its entire length, but for comfort may have a gripping surface of wood 
-or other suitable material. The lever shall be remov able and shall be 
+or other suitable material. The lever shall be removable and shall be 
 attached to the pump shaft which is to be square ended, by means of a 
 set screw with 1\1/4\-inch wings, and further shall be connected to the 
 pump body or shaft end by a retaining chain to prevent loss.
@@ -9321,8 +9332,7 @@ CGD 84-068, 58 FR 29493, May 20, 1993]
 
 
 <R05>
-Sec. 160.047-3a  Materials--Dee ring and snap hook assemblies and other 
-instruments of closure for buoyant vests.
+Sec. 160.047-3a  Materials--Dee ring and snap hook assemblies and other instruments of closure for buoyant vests.
 
     (a) Specifications. Dee ring and snap lock assemblies and other 
 instruments of closure for buoyant vests may have decorative platings in 
@@ -9403,7 +9413,7 @@ filled with kapok distributed as provided in Table 160.047-4(c)(2).
                                                                           Ounces          Ounces          Ounces
 Front pad (2) (each)............................................            5.75            3.75            2.50
 Back pad........................................................            4.00            2.50            2.00
-                                                                 -----------------
+                                                                 -----------------------------------------------
  Total..........................................................           15.50           10.00            7.00
 ----------------------------------------------------------------------------------------------------------------
 
@@ -9424,7 +9434,7 @@ shall be filled with fibrous glass distributed as provided in Table
                                                                           Ounces          Ounces          Ounces
 Front pad (2) (each)............................................           10.25            6.75            4.50
 Back............................................................            7.25            4.50            3.50
-                                                                 -----------------
+                                                                 -----------------------------------------------
  Total..........................................................           27.75           18.00           12.50
 ----------------------------------------------------------------------------------------------------------------
 
@@ -9473,7 +9483,7 @@ or serviceability.
 Sec. 160.047-5  Inspections and tests. \1\
 ---------------------------------------------------------------------------
 
-    \1 \The manufacturer of a personal flotation device must meet 33 CFR 
+    \1\ The manufacturer of a personal flotation device must meet 33 CFR 
 181.701 through 33 CFR 181.705 which require an instruction pamphlet for 
 each device that is sold or offered for sale for use on recreational 
 boats.
@@ -9494,11 +9504,11 @@ recognized laboratory or the Coast Guard for a listed and labeled
 device, either at the place of manufacture, or some other location.
     (b) Lot size and sampling. (1) A lot consists of 500 buoyant vests 
 or fewer.
+    (2) A new lot begins after any change or modification in materials 
+used or manufacturing methods employed;
 
 [[Page 123]]
 
-    (2) A new lot begins after any change or modification in materials 
-used or manufacturing methods employed;
     (3) The manufacturer of the buoyant vests shall notify the 
 recognized laboratory when a lot is ready for inspection;
     (4) The manufacturer shall select samples in accordance with the 
@@ -9577,13 +9587,12 @@ FR 10836, May 31, 1972; CGD 75-008, 43 FR 9772, Mar. 9, 1978]
 Sec. 160.047-6  Marking.
 
     (a) Each buoyant vest must have the following information clearly 
-marked
+marked in waterproof lettering that can be read at a distance of 2 feet:
+
+Type II Personal Flotation Device.
 
 [[Page 124]]
 
-in waterproof lettering that can be read at a distance of 2 feet:
-
-Type II Personal Flotation Device.
     Inspected and tested in accordance with U.S. Coast Guard 
 regulations.
     (Kapok or Fibrous glass) buoyant material provides a minimum buoyant 
@@ -9819,7 +9828,7 @@ be considered as its average length in each case.
 Over 36..................................  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1\
                                             \)   \)   \)   \)   \)   \)   \)   \)   \)   \)   \)   \)   \)     )
 ----------------------------------------------------------------------------------------------------------------
-\1\ Determine amount of kapok from formula (1) contained in Sec. 160.048-4(c)(2).
+\1\ Determine amount of kapok from formula (1) contained in Sec.  160.048-4(c)(2).
 
 
  Table 160.048-4(c)(1)(ii)--Weight of Fibrous Glass (in Ounces) for Filling Rectangular Buoyant Cushion 2 Inches
@@ -9867,7 +9876,7 @@ Over 36..................................  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\
 Over 36..................................  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1  (\1\
                                             \)   \)   \)   \)   \)   \)   \)   \)   \)   \)   \)   \)   \)     )
 ----------------------------------------------------------------------------------------------------------------
-\1\ Determine amount of fibrous glass from formula (2) contained in Sec. 160.048-4(c)(2).
+\1\ Determine amount of fibrous glass from formula (2) contained in Sec.  160.048-4(c)(2).
 
 
 [[Page 127]]
@@ -9926,8 +9935,8 @@ inch, except as follows: Chain stitching 6 to 8 stitches per inch, with
 constructing straps.
     (g) Workmanship. All cushions shall be of first class workmanship 
 and shall be free from defects materially affecting their appearance or 
-service ability. Cushions classified as ``seconds'' or ``irregular'' 
-will not be acceptable under this specification.
+serviceability. Cushions classified as ``seconds'' or ``irregular'' will 
+not be acceptable under this specification.
 
 [CGFR 65-37, 30 FR 11583, Sept. 10, 1965]
 
@@ -10578,7 +10587,7 @@ size, and not less than 5.0 and not more than 7.5 pounds for the 30-inch
 size.
     (f) Workmanship. Ring life buoys shall be of first class workmanship 
 and free from any defects materially affecting their appearance or 
-service ability.
+serviceability.
 
 [CGFR 54-46, 19 FR 8707, Dec. 18, 1954, as amended by CGFR 62-17, 27 FR 
 9045, Sept. 11, 1962; CGFR 65-9, 30 FR 11477, Sept. 8, 1965]
@@ -11091,8 +11100,7 @@ May 20, 1993]
 
 
 <R05>
-Sec. 160.052-3a  Materials--Dee ring and snap hook assemblies and other 
-instruments of closure for buoyant vests.
+Sec. 160.052-3a  Materials--Dee ring and snap hook assemblies and other instruments of closure for buoyant vests.
 
     (a) Specifications. Dee ring and snap hook assemblies and other 
 instruments of closure for buoyant vests may have
@@ -11450,11 +11458,11 @@ specified by this subpart shall conform to the requirements of Military
 Specification MIL-L-17653A.
     (b) Color of envelope. Indian Orange, Cable No. 70072, Standard 
 Color Card of America, will be acceptable in lieu of the Scarlet-Munsell 
-7.5 red \6/10\ color specified for envelopes or covers by
+7.5 red \6/10\ color specified for envelopes or covers by paragraph 
+3.1.1.1 of Specification MIL-L-17653A.
 
 [[Page 145]]
 
-paragraph 3.1.1.1 of Specification MIL-L-17653A.
     (c) Color of webbing and thread. The color of the webbing and thread 
 need not match the color of the envelope as specified by paragraphs 
 3.1.3 and 3.2.8 of Specification MIL-L-17653A.
@@ -11534,10 +11542,10 @@ buoyant force of 17\1/2\ lbs.
     U.S. Coast Guard Approval No. 160.053/(assigned manufacturer's No.)/
 (Revision No.); (Model No.).
     (Name and address of manufacturer or distributor.)
+    (Lot No.)
 
 [[Page 146]]
 
-    (Lot No.)
     This vest is filled with (name of buoyant material), which will not 
 be harmed by repeated wetting. Hang up and dry thoroughly when vest is 
 wet.
@@ -12126,8 +12134,7 @@ or less than 90 lb.).
 
 
 <R05>
-Sec. 160.055-9  Procedure for approval--standard and nonstandard life 
-preservers.
+Sec. 160.055-9  Procedure for approval--standard and nonstandard life preservers.
 
     (a) General. Manufacturers seeking approval of a life preserver 
 design shall follow the procedures of subpart 159.005 of this chapter, 
@@ -12387,8 +12394,7 @@ be given special consideration.
 
 
 <R05>
-Sec. 160.057-3  Materials, workmanship, construction, and performance 
-requirements.
+Sec. 160.057-3  Materials, workmanship, construction, and performance requirements.
 
     (a) Materials. The materials shall conform strictly to the 
 specifications and drawings submitted by the manufacturer and approved 
@@ -12729,8 +12735,7 @@ described in the specification listed in Sec. 160.058-1(a)(1).
 
 
 <R05>
-Sec. 160.058-3  Materials, workmanship, construction and performance 
-requirements.
+Sec. 160.058-3  Materials, workmanship, construction and performance requirements.
 
     (a) The materials, construction, workmanship, general and detail 
 requirements shall conform to the requirements of the specification 
@@ -12906,8 +12911,7 @@ Sept. 7, 1988; CGD 84-068, 58 FR 29494, May 20, 1993]
 
 
 <R05>
-Sec. 160.060-3a  Materials--Dee ring and snap hook assemblies and other 
-instruments of closure for buoyant vests.
+Sec. 160.060-3a  Materials--Dee ring and snap hook assemblies and other instruments of closure for buoyant vests.
 
     (a) Specifications. Dee ring and snap hook assemblies and other 
 instruments of closure for buoyant vests may have decorative platings in 
@@ -13254,7 +13258,7 @@ in table 160.06-2(c).
 ------------------------------------------------------------------------
 1..................................  Booklet, Fishing              1 ea.
                                       Instructions (Refer to
-                                      Sec. 160.061-3(i)).
+                                      Sec.  160.061-3(i)).
 2..................................  Container, Fishing Kit        1 ea.
                                       (See Fig. 2).
 3..................................  Hooks, treble, size 1,        2 ea.
@@ -13338,7 +13342,7 @@ in table 160.06-2(c).
 22.................................  Snap and swivels, No. 3..     6 ea.
 23.................................  Card, leader knots and        1 ea.
                                       hitches (fig. 1).
-24.................................  Winder (see Sec. 2 ea.
+24.................................  Winder (see Sec.             2 ea.
                                       160.061-3(h)).
 ------------------------------------------------------------------------
 \1\ The tolerances of these items shall be plus or minus \1/32\-inch on
@@ -13534,8 +13538,7 @@ manufacturer.
 
 
 <R05>
-Sec. 160.062-3  Materials, construction, workmanship, and performance 
-requirements.
+Sec. 160.062-3  Materials, construction, workmanship, and performance requirements.
 
     (a) General. The materials, construction, workmanship, and 
 performance requirements shall conform to the requirements of the 
@@ -14136,7 +14139,7 @@ labeled water safety buoyant devices shall maintain quality control of
 the materials used, manufacturing methods and the finished product so as 
 to meet the applicable requirements, and shall make sufficient 
 inspections and tests of representative samples and components produced 
-to maintain the quality of the finished product. Rec ords of tests 
+to maintain the quality of the finished product. Records of tests 
 conducted by the manufacturer and records of materials, including 
 affidavits by suppliers that applicable requirements are met, entering 
 into construction shall be made available to the recognized laboratory 
@@ -14390,47 +14393,47 @@ Figure (1) and Table 1 after completion of the operational tests.
 
 
 
-                         Table 1-- Accept and Reject Criteria for Operational Test Lots
+                          Table 1--Accept and Reject Criteria for Operational Test Lots
 ----------------------------------------------------------------------------------------------------------------
-                                               Individual                             Cumulative
-                   Lot size                      sample              Sample             sample    Accept  Reject
-                                                  size                                   size       \1\     \1\
+                                            Individual                                Cumulative
+                 Lot size                     sample               Sample               sample    Accept  Reject
+                                               size                                      size        1       1
 ----------------------------------------------------------------------------------------------------------------
-280 or                                                  8  First....................         8     (\2\)       4
-  less.                                        ..........  Second...................        16         1       5
-                                                           Third....................        24         2       6
-                                                           Fourth...................        32         3       7
-                                                           Fifth....................        40         5       8
-                                                           Sixth....................        48         7       9
-                                                           Seventh..................        56         9      10
-281 to                                                 13  First....................        13     (\2\)       4
-  500.                                         ..........  Second...................        26         1       6
-                                                           Third....................        39         3       8
-                                                           Fourth...................        52         5      10
-                                                           Fifth....................        65         7      11
-                                                           Sixth....................        78        10      12
-                                                           Seventh..................        91        13      14
-501 to                                                 20  First....................        20     (\2\)       5
-  1,200.                                       ..........  Second...................        40         3       8
-                                                           Third....................        60         6      10
-                                                           Fourth...................        80         8      13
-                                                           Fifth....................       100        11      15
-                                                           Sixth....................       120        14      17
-                                                           Seventh..................       140        18      19
-1,201 to                                               32  First....................        32         1       7
-  3,200.                                       ..........  Second...................        64         4      10
-                                                           Third....................        96         8      13
-                                                           Fourth...................       128        12      17
-                                                           Fifth....................       160        17      20
-                                                           Sixth....................       192        21      23
-                                                           Seventh..................       224        25      26
-More                                                   50  First....................        50         2       9
-  than                                         ..........  Second...................       100         7      14
-  3,200.                                       ..........  Third....................       150        13      19
-                                                           Fourth...................       200        19      25
-                                                           Fifth....................       250        25      29
-                                                           Sixth....................       300        31      33
-                                                           Seventh..................       350        37      38
+280 or                                           8      First.......................        8     (\2\)      4
+  less.                                     ..........  Second......................       16        1       5
+                                                        Third.......................       24        2       6
+                                                        Fourth......................       32        3       7
+                                                        Fifth.......................       40        5       8
+                                                        Sixth.......................       48        7       9
+                                                        Seventh.....................       56        9      10
+281 to                                          13      First.......................       13     (\2\)      4
+  500.                                      ..........  Second......................       26        1       6
+                                                        Third.......................       39        3       8
+                                                        Fourth......................       52        5      10
+                                                        Fifth.......................       65        7      11
+                                                        Sixth.......................       78       10      12
+                                                        Seventh.....................       91       13      14
+501 to                                          20      First.......................       20     (\2\)      5
+  1,200.                                    ..........  Second......................       40        3       8
+                                                        Third.......................       60        6      10
+                                                        Fourth......................       80        8      13
+                                                        Fifth.......................      100       11      15
+                                                        Sixth.......................      120       14      17
+                                                        Seventh.....................      140       18      19
+1,201 to                                        32      First.......................       32        1       7
+  3,200.                                    ..........  Second......................       64        4      10
+                                                        Third.......................       96        8      13
+                                                        Fourth......................      128       12      17
+                                                        Fifth.......................      160       17      20
+                                                        Sixth.......................      192       21      23
+                                                        Seventh.....................      224       25      26
+More                                            50      First.......................       50        2       9
+  than                                      ..........  Second......................      100        7      14
+  3,200.                                    ..........  Third.......................      150       13      19
+                                                        Fourth......................      200       19      25
+                                                        Fifth.......................      250       25      29
+                                                        Sixth.......................      300       31      33
+                                                        Seventh.....................      350       37      38
 ----------------------------------------------------------------------------------------------------------------
 \1\ Cumulative number of failures.
 \2\ Lot may not be accepted. Next sample must be tested.
@@ -14487,12 +14490,11 @@ decomposes during the test.
     (d) The Luminous Intensity and Chromaticity Test must be performed 
 in the following manner:
     (1) Remove the pyrotechnic candle from the remaining three signals.
-    (2) Ignite, measure, and record the intensity of the burning candle 
-with a
 
 [[Page 182]]
 
-visual photometer or equivalent photometric device or automatic 
+    (2) Ignite, measure, and record the intensity of the burning candle 
+with a visual photometer or equivalent photometric device or automatic 
 recorder:
     (i) While the specimen is supported in a horizontal position and the 
 photometer is at right angles to the axis of the specimen,
@@ -14578,11 +14580,12 @@ background on both sides arranged as follows:
 square shall be equal, and shall each be \1/3\ of the length of the 
 longest side of the flag, or 30 cm (12 inches), whichever is greater.
     (ii) The disc and square must be centered on one axis of the flag 
-parallel to the longest side of the flag as shown in Figure 160.072-3. 
-If the flag is a square, the axis may be parallel to any side.
+parallel to the longest side of the flag as shown in
 
 [[Page 183]]
 
+Figure 160.072-3. If the flag is a square, the axis may be parallel to 
+any side.
 [GRAPHIC] [TIFF OMITTED] TC03MR91.017
 
                             Figure 160.072-3
@@ -14662,19 +14665,18 @@ FR 34536, Sept. 7, 1988; CGD 95-072, 60 FR 50467, Sept. 29, 1995; CGD
     Source: CGD 79-167, 47 FR 41378, Sept. 20, 1982, unless otherwise 
 noted.
 
+[[Page 184]]
+
 
 <R05>
 Sec. 160.073-1  Scope.
 
     (a) This subpart contains requirements for a float-free link used 
 for connecting a life float or buoyant apparatus painter to a vessel. 
-The float-free link is designed to be broken by the
-
-[[Page 184]]
-
-buoyant force of the life float or buoyant apparatus so that the float 
-or apparatus breaks free of a vessel that sinks in water deeper than the 
-length of the painter.
+The float-free link is designed to be broken by the buoyant force of the 
+life float or buoyant apparatus so that the float or apparatus breaks 
+free of a vessel that sinks in water deeper than the length of the 
+painter.
     (b) [Reserved]
 
 
@@ -14740,16 +14742,15 @@ make the appropriate entries in the indicated space):
 
 FLOAT-FREE LINK FOR LIFE FLOATS AND BUOYANT APPARATUS
 Of (10 or less) (11 to 20) (21 or more) persons capacity.
-Normal breaking strength ------------------.
+Normal breaking strength --------------------.
 Meets U.S. coast guard
 Requirements--46 CFR 160.073.
-Made by: (name and address)
-------------------------------------------------
-(Date) ----------------------------------------
-
+Made by: (name and address) --------------------------------------------
+--
 
 [[Page 185]]
 
+(Date) ----------------------------
 
     (b) [Reserved]
 
@@ -14788,10 +14789,10 @@ Sec. 160.076-5  Definitions.
 
     As used in this part:
     Commandant means the Chief of the Lifesaving and Fire Safety 
-Division, Marine Safety and Environmental Protection. Address: 
-Commandant (G-MSE-4), U.S. Coast Guard Headquarters, 2100 Second St. 
-SW., Washington, DC 20593-0001; phone: 202-267-1444; facsimile: 202-267-
-1069; electronic mail: ``mvi-3/G-M18@cgsmtp.uscg.mil''.
+Standards Division, Marine Safety and Environmental Protection. Address: 
+Commandant (G-PSE-4), U.S. Coast Guard Headquarters, 2100 Second St., 
+SW., Washington, DC 20593-0001; phone: 202-372-1392; facsimile: 202-372-
+1924.
     Conditional approval means a category of PFD which has condition(s) 
 on its approval with which the user must comply in order for the PFD to 
 be counted toward meeting the carriage requirements of the vessel being 
@@ -14820,7 +14821,8 @@ accordance with Sec. 160.076-13 for approval of a PFD design.
 
 [CGD 94-110, 60 FR 32848, June 23, 1995, as amended by CGD 95-072, 60 FR 
 50466, Sept. 29, 1995; CGD 94-110, 61 FR 13945, Mar. 28, 1996; CGD 96-
-041, 61 FR 50733, Sept. 27, 1996]
+041, 61 FR 50733, Sept. 27, 1996; USCG-2006-25697; 71 FR 55747, Sept. 
+25, 2006]
 
 
 <R05>
@@ -15238,22 +15240,22 @@ or whenever a new lot of materials is used.
                    Lot size:                      1-100     101-200    201-300    301-500    501-750    751-1000
 ----------------------------------------------------------------------------------------------------------------
 Tests:
-    Inflation Chamber Materials...............                             See Note (a)
+    Inflation Chamber Materials...............                            See Note (\a\)
     Seam Strength.............................          1          1          2          2          3          4
-    Over-pressure (b)(c)......................          1          2          3          4          6          8
+    Over-pressure (\b\)(\c\)..................          1          2          3          4          6          8
     Air Retention.............................                       EVERY DEVICE IN THE LOT
     Buoyancy and Inflation Medium Retention...          1          2          3          4          6          8
-    Tensile Strength..........................                             See Note (d)
+    Tensile Strength..........................                            See Note (\d\)
 Detailed Product Examination..................          2          2          3          4          6          8
 
 [[Page 191]]
 
  
-Retest Sample Size (b)........................  .........  .........         13         13         20         20
+Retest Sample Size (\b\)......................  .........  .........         13         13         20         20
 Final Lot Inspection..........................                       EVERY DEVICE IN THE LOT
 ----------------------------------------------------------------------------------------------------------------
-Notes to Table: (a) See Sec. 160.076-29(e)(4)(i). (b) See Sec. 160.076-29(e)(4)(ii). (c) See Sec. 160.076-
-  29(e)(4)(iii). (d) See Sec. 160.076-29(e)(4)(iv).
+Notes to Table: (\a\) See Sec.  160.076-29(e)(4)(i). (\b\) See Sec.  160.076-29(e)(4)(ii). (\c\) See Sec.
+  160.076-29(e)(4)(iii). (\d\) See Sec.  160.076-29(e)(4)(iv).
 
 
                                   Table 160.076-29B--Inspector's Sampling Plan
@@ -15263,17 +15265,17 @@ Notes to Table: (a) See Sec. 160.076-29(e)(4)(i). (b) See Sec. 160.076-29(e)(4)(
                    Lot size:                      1-100     101-200    201-300    301-500    501-750    751-1000
 ----------------------------------------------------------------------------------------------------------------
 Tests:
-    Over-pressure (a).........................          1          1          2          2          3          4
+    Over-pressure (\a\).......................          1          1          2          2          3          4
     Air Retention.............................          1          1          2          2          3          4
     Buoyancy & Inflation Medium Retention.....          1          1          2          2          3          4
-    Tensile Strength..........................                             See Note (b)
-    Waterproof marking........................                             See Note (c)
+    Tensile Strength..........................                            See Note (\b\)
+    Waterproof marking........................                            See Note (\c\)
 Detailed Project Examination..................          1          1          1          2          2          3
-Retest Sample Size (a)........................         10         10         13         13         20         20
+Retest Sample Size (\a\)......................         10         10         13         13         20         20
 Final Lot Inspection..........................         10         15         20         25         27         30
 ----------------------------------------------------------------------------------------------------------------
-Notes to Table: (a) See Sec. 160.076-29(e)(5)(i). (b) See Sec. 160.076-29(e)(5)(ii). (c) See Sec. 160.076-
-  29(e)(5)(iii).
+Notes to Table: (\a\) See Sec.  160.076-29(e)(5)(i). (\b\) See Sec.  160.076-29(e)(5)(ii). (\c\) See Sec.
+  160.076-29(e)(5)(iii).
 
     (f) Accept/reject criteria: manufacturer testing. (1) A PFD lot 
 passes production testing if each sample passes each test.
@@ -15297,7 +15299,7 @@ number of samples specified for retesting in Table 160.076-29B, one or
 more samples fail the test.
     (3) A rejected lot may be retested only if allowed under Sec. 
 160.076-31(e).
-    (h) Facilities and equipment. (1) General. The manufacturer must 
+    (h) Facilities and equipment--(1) General. The manufacturer must 
 provide the test equipment and facilities necessary for performing 
 production tests, examinations, and inspections, unless Commandant has 
 accepted testing at a location other than the manufacturer's facility.
@@ -15386,8 +15388,8 @@ accordance with paragraph Sec. 160.076-29(e). Each final lot must
 demonstrate--
     (i) First quality workmanship;
     (ii) That the general arrangement and attachment of all components, 
-such as body straps, closures, inflation mechanisms, tie tapes, and draw 
-strings, are as specified in the approved plans and specifications;
+such as body straps, closures, inflation mechanisms, tie tapes, and 
+drawstrings, are as specified in the approved plans and specifications;
     (iii) Compliance with the marking requirements in Sec. 160.076-39; 
 and
     (iv) That the information pamphlet and owner's manual required by 
@@ -16392,9 +16394,8 @@ materials, and where completed PFD's are stored; and
     (vii) Allow the inspector and any Coast Guard representative to take 
 samples of completed PFD's or of component materials for tests 
 prescribed in this subpart.
-    (2) Independent Laboratory.
-    (i) An inspector may not perform or supervise any production test or 
-inspection unless--
+    (2) Independent Laboratory. (i) An inspector may not perform or 
+supervise any production test or inspection unless--
     (A) The manufacturer has a current approval certificate; and
     (B) The inspector has first observed the manufacturer's production 
 methods and any revisions to those methods.
@@ -16467,8 +16468,8 @@ Final lot examination...............................
                                              Every device in the lot
 ----------------------------------------------------------------------------------------------------------------
 Notes to Table:
-(1) Samples must be selected from each lot of incoming material. The tests referenced in Sec. 160.077-19(d)(2)
-  through Sec. 160.077-19(d)(4) prescribe the number of samples to select.
+(1) Samples must be selected from each lot of incoming material. The tests referenced in Sec.  160.077-19(d)(2)
+  through Sec.  160.077-19(d)(4) prescribe the number of samples to select.
 (2) Samples selected for this test may not be the same samples selected for other tests.
 (3) If any sample fails this test, the number of samples to be tested in the next lot produced must be at least
   2% of the total number of PFD's in the lot or 10 PFD's, whichever is greater.
@@ -16652,7 +16653,7 @@ on a hard surface. The markings are vigorously rubbed with the fingers
 for 15 seconds. If the printing becomes illegible, the sample is 
 rejected.
     (i) [Reserved]
-    (j) Final Lot Examination and Inspection. (1) General. On each PFD 
+    (j) Final Lot Examination and Inspection--(1) General. On each PFD 
 lot that passes production testing, the manufacturer must perform a 
 final lot examination and an independent laboratory inspector must 
 perform a final lot inspection. Samples must be selected according to 
@@ -17232,10 +17233,11 @@ Sec. 160.151-3  Definitions.
     Servicing means periodic inspection, necessary repair, and repacking 
 by a servicing facility approved by the Coast Guard. Requirements for 
 periodic inspection and repair of inflatable liferafts approved by the 
-Coast Guard are described in Sec. Sec. 160.151-35 through 160.151-57.
+Coast Guard are
 
 [[Page 215]]
 
+described in Sec. Sec. 160.151-35 through 160.151-57.
     SOLAS means the International Convention for the Safety of Life at 
 Sea, 1974, as amended by the International Maritime Organization through 
 the 1988 (GMDSS) amendments, dated 9 November 1988.
@@ -17438,7 +17440,7 @@ approved plans and the requirements of this subpart.
 
 
 <R05>
-Sec. 160.151-15   Design and performance of inflatable liferafts.
+Sec. 160.151-15  Design and performance of inflatable liferafts.
 
     To satisfy the requirements of the regulations of SOLAS indicated in 
 Sec. 160.151-7, each inflatable liferaft must meet the following 
@@ -17545,8 +17547,7 @@ FR 52192, Sept. 30, 1998]
 
 
 <R05>
-Sec. 160.151-17  Additional requirements for design and performance of 
-SOLAS A and SOLAS B inflatable liferafts.
+Sec. 160.151-17  Additional requirements for design and performance of SOLAS A and SOLAS B inflatable liferafts.
 
     To satisfy the requirements of the indicated regulations of SOLAS, 
 each SOLAS A and SOLAS B inflatable liferaft must be manufactured in 
@@ -17603,8 +17604,7 @@ FR 52192, Sept. 30, 1998]
 
 
 <R05>
-Sec. 160.151-21  Equipment required for SOLAS A and SOLAS B inflatable 
-liferafts.
+Sec. 160.151-21  Equipment required for SOLAS A and SOLAS B inflatable liferafts.
 
     To obtain Coast Guard approval, the equipment in each SOLAS A and 
 SOLAS B inflatable liferaft must meet the following specific 
@@ -17627,7 +17627,7 @@ towing test, a sea anchor of their design does not rotate when streamed.
 The sea anchors need not have the tripping lines described by Regulation 
 III/38.5.1.5 if, during the towing test, a sea anchor of their design 
 can be hauled in by one person.
-    (f) Paddles (Regulation III/38.5.1.6). The paddles must be at least 
+    (f) Paddles (Regulation III/38.5.1.6).The paddles must be at least 
 1.2 m (4 ft) long and must be of the same size and type as used to pass 
 the maneuverability test in paragraph 1/5.10 of IMO Resolution 
 A.689(17).
@@ -17713,9 +17713,9 @@ visible by survivors on entering the inflatable liferaft. They may be
 contained in the same envelope with the instructions on how to survive 
 if the instructions for immediate action are visible through both faces 
 of the envelope.
-    (x) Thermal protective aid (Regulation III/38.5.1.24).
-    Each thermal protective aid described by Regulation III/38.5.1.24 
-must be approved by the Commandant under approval series 160.174.
+    (x) Thermal protective aid (Regulation III/38.5.1.24). Each thermal 
+protective aid described by Regulation III/38.5.1.24 must be approved by 
+the Commandant under approval series 160.174.
     (y) Repair outfit (Regulation III/39.10.1.1). The repair outfit 
 required by Regulation III/39.10.1.1 must include--
     (1) Six or more sealing clamps or serrated conical plugs, or a 
@@ -17784,12 +17784,12 @@ liferaft.
     (5) Canopy-closure test (Paragraph 1/5.12). This test is required 
 only for SOLAS A and SOLAS B inflatable liferafts. For a davit-launched 
 liferaft, any opening near the lifting eye should be sealed during the 
-test to prevent the
+test to prevent the ingress of water. The water accumulated within the 
+liferaft at the end of
 
 [[Page 222]]
 
-ingress of water. The water accumulated within the liferaft at the end 
-of the test must not exceed 4 liters (1 gallon).
+the test must not exceed 4 liters (1 gallon).
     (6) Detailed inspection (Paragraph 1/5.14). The independent 
 laboratory's inspection of the prototype liferaft under Sec. 160.151-
 13(a) satisfies the requirements of paragraph 1/5.14.
@@ -17804,8 +17804,7 @@ sitting or kneeling and not holding onto any other part of the liferaft.
 
 
 <R05>
-Sec. 160.151-29  Additional approval tests for SOLAS A and SOLAS B 
-inflatable liferafts.
+Sec. 160.151-29  Additional approval tests for SOLAS A and SOLAS B inflatable liferafts.
 
     To verify compliance with the requirements of Regulation III/39.5.1, 
 the following test must be conducted for SOLAS A and SOLAS B inflatable 
@@ -17864,13 +17863,13 @@ of approved liferafts, together with the lot numbers of the liferafts
 constructed with those materials.
     (d) Each approved liferaft must pass each of the inspections and 
 tests described in IMO Resolution A.689(17), part 2, paragraphs 5.1.3 
-through 5.1.6 inclusive, and prescribed by paragraphs
+through 5.1.6 inclusive, and prescribed by paragraphs (e) through (g) of 
+this section. For a davit-launched liferaft, these tests
 
 [[Page 223]]
 
-(e) through (g) of this section. For a davit-launched liferaft, these 
-tests must be preceded by the test described in IMO Resolution 
-A.689(17), part 2, paragraph 5.2.
+must be preceded by the test described in IMO Resolution A.689(17), part 
+2, paragraph 5.2.
     (e) The test described in IMO Resolution A.689(17), Paragraph 2/
 5.1.5, must be conducted under the following conditions:
     (1) The test must last 1 hour, with a maximum allowable pressure 
@@ -17939,12 +17938,12 @@ Sec. 160.151-33  Marking and labeling.
 each inflatable liferaft and its container must be in English.
     (b) The markings required on the liferaft container under Regulation 
 III/39.7.3 of SOLAS must be on a plate or label sufficiently durable to 
-withstand continuous exposure to environmental
+withstand continuous exposure to environmental conditions at sea for the 
+life of the liferaft. In addition, the container must be marked with 
+the--
 
 [[Page 224]]
 
-conditions at sea for the life of the liferaft. In addition, the 
-container must be marked with the--
     (1) Manufacturer's model identification; and
     (2) U.S. Coast Guard approval number.
     (c) In addition to the markings required on the inflatable liferaft 
@@ -18026,15 +18025,15 @@ pack), and expiration date of servicing.
     (14) The necessary pressures for each size of approved liferaft for 
 conducting the ``Necessary Additional Pressure'' test required by Sec. 
 160.151-57(k).
+    (b) Each revision to a servicing manual, and each bulletin, that 
+authorizes the modification of a liferaft, or that
 
 [[Page 225]]
 
-    (b) Each revision to a servicing manual, and each bulletin, that 
-authorizes the modification of a liferaft, or that affects the 
-compliance of a liferaft with any requirement under this subpart, must 
-be submitted to and approved by the Commandant. Other revisions and 
-bulletins need not be approved, but a copy of each must be submitted to 
-the Commandant when issued.
+affects the compliance of a liferaft with any requirement under this 
+subpart, must be submitted to and approved by the Commandant. Other 
+revisions and bulletins need not be approved, but a copy of each must be 
+submitted to the Commandant when issued.
     (c) Each manual provided under this section must bear the original 
 signature of a representative of the manufacturer attesting that it is a 
 true copy of the manual approved by the Commandant.
@@ -18106,11 +18105,11 @@ damaging the liferaft or its contents;
     (6) Repacking the liferaft;
     (7) Inflating the fully packed liferaft using its inflation 
 mechanism; and
+    (8) Repairing a leak in a main buoyancy chamber, and subjecting the 
+repaired chamber to the Necessary Additional Pressure test described in
 
 [[Page 226]]
 
-    (8) Repairing a leak in a main buoyancy chamber, and subjecting the 
-repaired chamber to the Necessary Additional Pressure test described in 
 Sec. 160.151-57(k). This repair may be done on a liferaft that actually 
 needs it, on one condemned, or on an inflatable chamber fabricated of 
 liferaft material specifically for this purpose. (An otherwise 
@@ -18190,12 +18189,12 @@ sensitivity;
     (k) Barometer, aneroid or mercury;
     (l) Calibrated torque-wrench for assembling the inflation system;
     (m) Accurate weighing scale;
-
-[[Page 227]]
-
     (n) Repair materials and equipment, and spare parts as specified in 
 the applicable manual, except that items of limited ``shelf life'' need 
 not be stocked if they are readily available;
+
+[[Page 227]]
+
     (o) A complete stock of the survival equipment required to be stowed 
 in the liferafts, except for items of equipment that are readily 
 available;
@@ -18209,8 +18208,7 @@ in the liferaft when repacked.
 
 
 <R05>
-Sec. 160.151-47  Requirements for owners or operators of servicing 
-facilities.
+Sec. 160.151-47  Requirements for owners or operators of servicing facilities.
 
     To maintain Coast Guard approval, the owner or operator of each 
 servicing facility approved by the Coast Guard must--
@@ -18276,13 +18274,12 @@ must tell the cognizant OCMI for each liferaft to be serviced--
     (2) The age of the liferaft; and
     (3) Whether the liferaft is due for a five-year inflation test.
     (b) The OCMI will inform the servicing facility whether the 
-servicing of
+servicing of the liferaft must be witnessed by an inspector.
+    (c) If the OCMI requires the servicing of the liferaft to be 
+witnessed by an inspector--
 
 [[Page 228]]
 
-the liferaft must be witnessed by an inspector.
-    (c) If the OCMI requires the servicing of the liferaft to be 
-witnessed by an inspector--
     (1) The servicing facility must arrange a schedule with the OCMI 
 that will allow a Coast Guard inspector to travel to the site where the 
 servicing is to occur;
@@ -18358,17 +18355,17 @@ operative. Each EPIRB or SART not operative must be repaired or
 replaced.
     (9) The manual inflation-pump must be tested for proper operation.
     (10) Each damaged, faded, or incorrect instruction label or 
-identification
+identification label on the liferaft or its container must be replaced.
+    (11) Each liferaft must be examined to ensure that it is properly 
+marked
 
 [[Page 229]]
 
-label on the liferaft or its container must be replaced.
-    (11) Each liferaft must be examined to ensure that it is properly 
-marked with retroreflective material. The arrangement of the 
-retroreflective material must meet the requirements of IMO Resolution 
-A.658(16). Damaged or missing retroreflective material must be replaced 
-with Type I material approved under part 164, subpart 164.018, of this 
-subchapter as complying with SOLAS.
+with retroreflective material. The arrangement of the retroreflective 
+material must meet the requirements of IMO Resolution A.658(16). Damaged 
+or missing retroreflective material must be replaced with Type I 
+material approved under part 164, subpart 164.018, of this subchapter as 
+complying with SOLAS.
     (12) Each inflation cylinder must be weighed. If its weight loss 
 exceeds five percent of the weight of the charge, it must be recharged.
     (c) When an inflation cylinder is recharged for any reason, the 
@@ -18431,12 +18428,12 @@ the entire perimeter of the floor of the liferaft.
 inspected for slippage, rupture, and lifting of edges.
     (m) The servicing facility must complete the following for each 
 liferaft that passes these inspections and tests:
-
-[[Page 230]]
-
     (1) Permanently mark the liferaft on its outside canopy, or on a 
 servicing-record panel on an interior portion of one of its buoyancy 
 tubes near an entrance, with--
+
+[[Page 230]]
+
     (i) The date of the servicing;
     (ii) The identification and location of the servicing facility; and
     (iii) If applicable, an indication that the special fifth-year 
@@ -18506,12 +18503,11 @@ performed;
 manufacturer's servicing manual authorized by the OCMI in accordance 
 with Sec. 160.151-53(d);
     (7) The identification of the servicing facility, including its 
-name, address,
+name, address, and the approval code assigned by the Commandant in 
+accordance with Sec. 160.151-51;
 
 [[Page 231]]
 
-and the approval code assigned by the Commandant in accordance with 
-Sec. 160.151-51;
     (8) The name, if known, of the vessel or vessel owner receiving the 
 liferaft; and
     (9) The date the liferaft is returned to the owner or owner's agent.
@@ -18537,8 +18533,7 @@ FR 52192, Sept. 30, 1998]
 
 
 <R05>
-Sec. 160.151-59  Operating instructions and information for the ship's 
-training manual.
+Sec. 160.151-59  Operating instructions and information for the ship's training manual.
 
     (a) The liferaft manufacturer shall make operating instructions and 
 information for the ship's training manual available in English to 
@@ -19438,12 +19433,11 @@ prescribed in Sec. 160.171-17(g) and must be given a complete visual
 examination. The suit must be selected at random from a production lot 
 of 100 suits and tested by or under the supervision of the independent 
 laboratory. A suit fails this test if--
-    (1) The measured buoyancy of the suit differs by more than 10% from 
-the
 
 [[Page 243]]
 
-measured buoyancy of the suit tested for approval,
+    (1) The measured buoyancy of the suit differs by more than 10% from 
+the measured buoyancy of the suit tested for approval,
     (2) The adjusted buoyancy of the suit calculated using the buoyancy 
 loss factor determined during approval testing is less than that 
 required in Sec. 160.171-11(a)(1), or
@@ -19604,8 +19598,8 @@ be removable unless it is attached to the arm and unless it
 can be secured to the arm or stowed in a pocket on the arm when not in 
 use.
     (h) Retroreflective material. Each thermal protective aid must be 
-fitted with at least 200 cm<SUP>2</SUP>(31 sq. in.) of Type I 
-retroreflective material that meets subpart 164.018 of this chapter.
+fitted with at least 200 cm\2\ (31 sq. in.) of Type I retroreflective 
+material that meets subpart 164.018 of this chapter.
     (i) Size. Each thermal protective aid must fit persons ranging in 
 weight from 50 kg. (110 lbs.) to 150 kg. (330 lbs.) and in height from 
 1.5 m. (59 in.) to 1.9 m. (75 in.).
@@ -19915,9 +19909,9 @@ subpart.
 this part, except that, in lieu of the weight and displacement values 
 prescribed in Tables 160.047-4(c)(2) and Sec. 160.047-(4)(c)(4), each 
 front insert must have a weight of kapok of at least 8.25 oz. and a 
-volume displacement of 9.0 <plus-minus<ls-thn-eq> 0.25 lb., and the back 
+volume displacement of 9.0 <plus-minus<ls-thn-eq>0.25 lb., and the back 
 insert must have a weight of kapok of at least 5.5 oz. and a volume 
-displacement of 6.0 <plus-minus<ls-thn-eq> 0.25 lb. To achieve the 
+displacement of 6.0 <plus-minus<ls-thn-eq>0.25 lb. To achieve the 
 specified volume displacement, front insert envelopes may be larger than 
 the dimensions prescribed by Sec. 160.047-1(b).
     (i) [Reserved]
@@ -20598,12 +20592,12 @@ hang freely for 5 minutes from each manual inflation mechanism. The
 handle must not separate from the mechanism.
     (h) Temperature cycling tests. (1) Three uninflated lifejackets, 2 
 packed and 1 unpacked, are maintained at room temperature (20 <plus-
-minus<ls-thn-eq> 3 [deg]C (68 + 6 [deg]F)) for 4 hours and then at a 
-temperature of 65 <plus-minus<ls-thn-eq> 2 [deg]C (150 <plus-
-minus<ls-thn-eq> 5 [deg]F) for 20 hours. The lifejackets are then 
+minus<ls-thn-eq>3 [deg]C (68 + 6 [deg]F)) for 4 hours and then at a 
+temperature of 65 <plus-minus<ls-thn-eq>2 [deg]C (150 <plus-
+minus<ls-thn-eq>5 [deg]F) for 20 hours. The lifejackets are then 
 maintained at room temperature for at least 4 hours, after which they 
-are maintained at a temperature of minus 30 <plus-minus<ls-thn-eq> 2 
-[deg]C (-22 <plus-minus<ls-thn-eq> 5 [deg]F) for 20 hours. This cycle is 
+are maintained at a temperature of minus 30 <plus-minus<ls-thn-eq>2 
+[deg]C (-22 <plus-minus<ls-thn-eq>5 [deg]F) for 20 hours. This cycle is 
 then repeated once.
     (2) Upon the completion of the conditioning in paragraph (h)(1) of 
 this section all sealed or non-reusable packaging is removed from the 
@@ -20614,19 +20608,19 @@ The lifejackets must be inflated as follows:
 within 2 minutes using only oral inflation.
     (ii) The other unit which was packed during conditioning must fully 
 inflate within 45 seconds of submersion in water at 2 <plus-
-minus<ls-thn-eq> 2 [deg]C (37 <plus-minus<ls-thn-eq> 5 [deg]F) as a 
-result of automatic inflation.
+minus<ls-thn-eq>2 [deg]C (37 <plus-minus<ls-thn-eq>5 [deg]F) as a result 
+of automatic inflation.
     (iii) The unit which was unpacked during conditioning must fully 
 inflate within 30 seconds of activation of the manual inflation 
 mechanisms.
     (3) The same 3 lifejackets used for the test in paragraph (h)(1) of 
 this section are deflated and, with 2 repacked and 1 unpacked, are 
 maintained at room temperature for 4 hours and then at a temperature of 
-minus 30 <plus-minus<ls-thn-eq> 2 [deg]C (-22 <plus-minus<ls-thn-eq> 5 
+minus 30 <plus-minus<ls-thn-eq>2 [deg]C (-22 <plus-minus<ls-thn-eq>5 
 [deg]F) for 20 hours. The lifejackets are then stored at room 
 temperature for at least 4 hours, after which they are maintained at a 
-temperature of 65 <plus-minus<ls-thn-eq> 2 [deg]C (150 <plus-
-minus<ls-thn-eq> 5 [deg]F) for 20 hours. This cycle is then repeated 
+temperature of 65 <plus-minus<ls-thn-eq>2 [deg]C (150 <plus-
+minus<ls-thn-eq>5 [deg]F) for 20 hours. This cycle is then repeated 
 once. The steps in paragraph (h)(2) of this section are then repeated, 
 and the lifejackets must meet the criteria in that paragraph.
     (i) [Reserved]
@@ -20953,7 +20947,7 @@ Tests:
     Inflation Chamber Materials.................
                                                   SEE NOTE (1)
     Seam Strength...............................        1          1          2          2          3          4
-    Over-pressure \2\ \3\.......................        1          2          3          4          6          8
+    Over-pressure \2,3\.........................        1          2          3          4          6          8
     Air Retention...............................
                                              EVERY DEVICE IN THE LOT
     Buoyancy & Inflation Media Retention........        1          2          3          4          6          8
@@ -20963,7 +20957,7 @@ Retest Sample Size \2\..........................       --         --         13 
 Final Lot Inspection:...........................
                                              EVERY DEVICE IN THE LOT
 ----------------------------------------------------------------------------------------------------------------
-\1\ Samples must be selected from each lot of incoming material. The tests referenced in Sec. Sec. 160.176-
+\1\ Samples must be selected from each lot of incoming material. The tests referenced in Sec. Sec.  160.176-
   13(y)(1) through 160.176-13(y)(4) of this part prescribe the number of samples to select.
 \2\ Samples selected for this test may not be the same samples selected for other tests.
 \3\ If any sample fails the over-pressure test, the number of samples to be tested in the next lot produced must
@@ -21530,7 +21524,8 @@ Subpart 161.001 [Reserved]
 <R04>
                  Subpart 161.002_Fire-Protective Systems
 
-    Source: 21 FR 9032, Nov. 21, 1956, unless otherwise noted.
+    Source: CGFR 56-39, 21 FR 9032, Nov. 21, 1956, unless otherwise 
+noted.
 
 
 <R05>
@@ -23915,7 +23910,8 @@ applicable requirements.
 <R04>
              Subpart 162.050_Pollution Prevention Equipment
 
-    Source: 44 FR 53359, Sept. 13, 1979, unless otherwise noted.
+    Source: CGD 76-088a, 44 FR 53359, Sept. 13, 1979, unless otherwise 
+noted.
 
 
 <R05>
@@ -27968,7 +27964,7 @@ Sec. 164.013-7  Marking.
     (a) General. The manufacturer must ensure that each shipping label, 
 and each unit of put-up, is permanently and clearly marked in a color 
 which contrasts with the color of the surface on which the marking is 
-applied. Each label must be marked with --
+applied. Each label must be marked with--
     (1) The manufacturer's or supplier's name, trade name, or symbol;
     (2) The unique style, part, or model number of the material;
     (3) The thickness of the material;
@@ -28075,37 +28071,37 @@ on specimens of sheet foam or molded shapes.
             Properties                    Test method                  Units            Type A   Type B   Type C
 ----------------------------------------------------------------------------------------------------------------
 Density (maximum)                  164.015-4(b)              Pounds/feet\3\                5.0      5.0      8.5
-----------------------------------
+----------------------------------------------------------------------------------------------------------------
 Buoyancy in fresh water (minimum)  164.015-4(c)              Pounds/feet\3\               54.0     54.0     52.0
-----------------------------------
+----------------------------------------------------------------------------------------------------------------
 Volume loss on heat aging          164.015-4(d)              Percent                       5.0      5.0      4.0
  (maximum).
-----------------------------------
+----------------------------------------------------------------------------------------------------------------
 Compression deflection at 25       164.015-4(e)              P.s.i.                        3.0      3.0      7.0
  percent.                                                                                 max.     max.     min.
-----------------------------------
+----------------------------------------------------------------------------------------------------------------
 Compression set (maximum)          164.015-4(f)              Percent                        24       24       20
-----------------------------------
+----------------------------------------------------------------------------------------------------------------
 Fire retardance (maximum)          164.015-4(g)(1)           Seconds                         2  .......       30
-                                                            ---------------------------
+                                                            ----------------------------------------------------
                                    ........................  Inches                          1  .......        3
-                                  ---------------------------
+                                  ------------------------------------------------------------------------------
                                    164.015-4(g)(2)           Inches per minute         .......        4  .......
-----------------------------------
+----------------------------------------------------------------------------------------------------------------
 Tensile strength (minimum)         164.015-4(h)              P.s.i.                         30       20       60
-----------------------------------
+----------------------------------------------------------------------------------------------------------------
 Ultimate elongation (minimum)      164.015-4(h)              Percent                        75       75  .......
-----------------------------------
+----------------------------------------------------------------------------------------------------------------
 Water absorption (maximum)         164.015-4(i)              Pounds/feet \2\               .06      .06      .06
-----------------------------------
+----------------------------------------------------------------------------------------------------------------
 Flexibility at 0 <plus-minus<ls-
  thn-eq>2F
-164.015-4(j)                       ........................  ........................  .......  .......  .......
-No cracking                        ........................  ........................  .......  .......  .......
-No cracking                        ........................  ........................  .......  .......  .......
-----------------------------------
+164.015-4(j)
+No cracking
+No cracking
+----------------------------------------------------------------------------------------------------------------
 Oil resistance                     164.015-4(k)              ........................    (\1\)    (\1\)    (\1\)
-----------------------------------
+----------------------------------------------------------------------------------------------------------------
 Odor                               164.015-4(l)              ........................    (\2\)    (\2\)    (\2\)
 ----------------------------------------------------------------------------------------------------------------
  \1\ No softening or swelling.
@@ -28409,7 +28405,7 @@ attached to lifesaving equipment either by mechanical fasteners or by an
 adhesive.
     (b) The following information must be stated on retroreflective 
 material or on the package in which it is supplied to a user:
-    (1) Each surface to which the retro reflective material is designed 
+    (1) Each surface to which the retroreflective material is designed 
 to be attached.
     (2) The instructions for attaching the material to each surface 
 described in paragraph (b)(1) of this section.
@@ -28626,7 +28622,7 @@ is suitable for use in the manufacture of Coast Guard-approved PFDs.
     Commandant means the Chief of the Lifesaving and Fire Safety 
 Division, Marine Safety and Environmental Protection, U.S. Coast Guard. 
 Address: Commandant (G-MSE), U.S. Coast Guard Headquarters, 2100 Second 
-St. SW., Washington, DC 20593-0001. Telephone: 202-267-1444.
+St. SW., Washington, DC 20593-0001. Telephone: 202 372-1392.
     Component manufacturer means either a component manufacturer or 
 supplier seeking acceptance of a component, or a component manufacturer 
 or supplier who has obtained acceptance of a component.
@@ -28670,7 +28666,8 @@ Suffix C.........................  Child only.
 
 
 [CGD 84-068, 58 FR 29494, May 20, 1993, as amended by CGD 95-072, 60 FR 
-50467, Sept. 29, 1995; CGD 96-041, 61 FR 50734, Sept. 27, 1996]
+50467, Sept. 29, 1995; CGD 96-041, 61 FR 50734, Sept. 27, 1996; USCG-
+2006-25697; 71 FR 55747, Sept. 25, 2006]
 
 
 <R05>
@@ -28798,8 +28795,7 @@ of approvals also apply to Coast Guard acceptances of PFD components.
 
 
 <R05>
-Sec. 164.019-9  Procedure for acceptance of revisions of design, process, 
-or materials.
+Sec. 164.019-9  Procedure for acceptance of revisions of design, process, or materials.
 
     (a) The manufacturer shall not change the design, material, 
 manufacturing process, or construction of a non-standard component 
@@ -28889,17 +28885,16 @@ with the manufacturer's established quality
 
 control program and provide a summary report of any noncompliance to the 
 Commandant at least annually.
-    (f) Component lots.
-    (1) Lot numbers. The manufacturer shall assign a lot number to each 
-group of components manufactured. A new lot must be started whenever any 
-change is made in materials, design, or production method, and whenever 
-any substantial discontinuity in the manufacturing process (such as a 
-change in shift) occurs. Changes in lots of incoming materials must be 
-treated as changes in materials. Lots must be numbered serially. The lot 
-number assigned, in combination with the unique product name or 
-identification, must enable the component manufacturer (or supplier), by 
-referring to the records required by this subpart, to determine the 
-source(s) of all raw materials used in that lot.
+    (f) Component lots--(1) Lot numbers. The manufacturer shall assign a 
+lot number to each group of components manufactured. A new lot must be 
+started whenever any change is made in materials, design, or production 
+method, and whenever any substantial discontinuity in the manufacturing 
+process (such as a change in shift) occurs. Changes in lots of incoming 
+materials must be treated as changes in materials. Lots must be numbered 
+serially. The lot number assigned, in combination with the unique 
+product name or identification, must enable the component manufacturer 
+(or supplier), by referring to the records required by this subpart, to 
+determine the source(s) of all raw materials used in that lot.
     (2) Lot size. The maximum lot size for any particular component must 
 be as defined in the applicable subpart of this part.
     (g) Samples. (1) Procedures for selection of test samples, and 
@@ -28956,13 +28951,12 @@ test equipment checked at least every 6 months by a weights and measures
 agency or by the equipment manufacturer, distributor, or dealer.
     (3) Facilities for inspector's use. The manufacturer shall provide a 
 suitable place and the necessary apparatus for the inspector to use in 
-conducting or
+conducting or supervising tests. For the detailed
 
 [[Page 364]]
 
-supervising tests. For the detailed product examination, the 
-manufacturer shall provide a suitable working environment and a smooth-
-top table for the inspector's use.
+product examination, the manufacturer shall provide a suitable working 
+environment and a smooth-top table for the inspector's use.
     (4) Access to facilities. The manufacturer shall permit the 
 inspector to have access to any place in the factory where work is being 
 done on PFD components or where components are stored. The inspector may 
@@ -29094,7 +29088,7 @@ Federal Specifications
 Military Specifications
     (6) MIL-T-43548C--Thread, Polyester Core: Cotton-, Rayon-, or 
 Polyester-Covered, September 30, 1986--164.023-5.
-    (7) MIL-T -43624A--Thread, Polyester, Spun, January 22, 1982--
+    (7) MIL-T-43624A--Thread, Polyester, Spun, January 22, 1982--
 164.023-5.
 
     (c) All reference materials are available from the Naval 
@@ -29311,22 +29305,36 @@ only.
 
                                  A
 
-Accelerated weathering test....................................160.072-5
-Additional preapproval tests required for F.R.P. Lifeboats....160.035-12
-Additional requirements for life floats........................160.027-3
-Applicability..................................................160.072-1
-Applicable regulations.........................................160.015-1
-Applicable specification.................160.016-1, 160.042-1, 160.058-1
-Applicable specification and publication.......................160.041-1
-Applicable specifications....160.032-1, 160.033-1, 160.035-1, 160.044-1, 
-                              160.053-1, 160.054-1, 160.061-1, 160.064-1
-Applicable specifications and plan..................160.013-1, 160.043-1
-Applicable specifications and referenced material..............160.062-1
-Applicable specifications and standards........................160.026-1
+Accelerated weathering test
+                                                               160.072-5
+Additional preapproval tests required for F.R.P. Lifeboats
+                                                              160.035-12
+Additional requirements for life floats
+                                                               160.027-3
+Applicability
+                                                               160.072-1
+Applicable regulations
+                                                               160.015-1
+Applicable specification
+                                         160.016-1, 160.042-1, 160.058-1
+Applicable specification and publication
+                                                               160.041-1
+Applicable specifications
+      160.032-1, 160.033-1, 160.035-1, 160.044-1, 160.053-1, 160.054-1, 
+                                                    160.061-1, 160.064-1
+Applicable specifications and plan
+                                                    160.013-1, 160.043-1
+Applicable specifications and referenced material
+                                                               160.062-1
+Applicable specifications and standards
+                                                               160.026-1
 Application for acceptance for production inspections and tests: 
-Coast Guard action.............................................159.007-7
-Application....................................................160.176-2
-Application for preapproval review.............................159.005-3
+Coast Guard action
+                                                               159.007-7
+Application
+                                                               160.176-2
+Application for preapproval review
+                                                               159.005-3
 Approval:
 Equipment or material.........................................159.005-13
 Inspections and tests..........................................159.005-9
@@ -29334,7 +29342,7 @@ Inspection or test report; Contents...........................159.005-11
 Of equipment or material; Suspensions, withdrawals, and 
 terminations..................................................159.005-15
 Procedures..........................................160.017-9, 160.174-7
-Testing...........................................160.107-21, 160.174-17
+Testing.......................................................160.174-17
 Approval:
 Conditional....................................................160.076-9
 For design or material revision................................160.077-7
@@ -29344,14 +29352,15 @@ Procedures.....................................................160.176-5
 Suspension or termination of..................................160.076-15
 Testing.......................................................160.076-25
 Tests.........................................................160.176-13
-Approval and production tests...........160.040-5, 160.021-4, 160.022-4, 
-         160.023-4, 160.024-4, 160.028-4, 160.031-5, 160.036-4, 160.037-
-                                                            4, 160.057-4
-Approval procedure...........160.032-6, 160.021-7, 160.023-7, 160.036-7, 
-                                                    160.037-7, 160.057-7
-Approval procedures...Subpart 159.005, 160.010-9, 160.022-7, 160.066-11, 
-                                                    160.077-6, 160.171-7
-Approval procedures: For design or material: Revision..........160.077-7
+Approval and production tests
+      160.040-5, 160.021-4, 160.022-4, 160.023-4, 160.024-4, 160.028-4, 
+                              160.031-5, 160.036-4, 160.037-4, 160.057-4
+Approval procedure
+        160.032-6, 160.021-7, 160.023-7, 160.036-7, 160.037-7, 160.057-7
+Approval procedures
+ Subpart 159.005, 160.010-9, 160.022-7, 160.066-11, 160.077-6, 160.171-7
+Approval procedures: For design or material: Revision
+                                                               160.077-7
 Approval Testing:
 
 [[Page 370]]
@@ -29361,55 +29370,77 @@ Type I and Commercial Hybrid PFD..............................160.077-21
 Approval testing for:
 Adult size immersion suit.....................................160.171-17
 Child size immersion suit.....................................160.171-19
-Approval tests of prototype rescue boat........................160.056-4
+Approval tests of prototype rescue boat
+                                                               160.056-4
 
                                  B
 
-Buoyant Apparatus for Merchant Vessels...........................160.010
-Buoyancy; plastic foam.........................................160.010-5
+Buoyant Apparatus for Merchant Vessels
+                                                                 160.010
+Buoyancy; plastic foam
+                                                               160.010-5
 
                                  C
 
-Capacity............................................160.010-6, 160.032-4
-Capacity of lifeboat winches...................................160.015-4
-Certification..................................................160.073-5
-Chain Ladder.....................................................160.017
-Changes in the laboratory's qualifications....................159.010-11
-Component materials...........................................160.076-21
-Conditional approval...........................................160.076-9
-Conditions at servicing facilities............................160.151-43
-Construction.....160.002-4, 160.005-4, 160.017-13, 160.032-3, 160.042-3, 
-        160.047-4, 160.054-3, 160.056-2, 160.171-9, 160.174-9, 160.176-9
+Capacity
+                                                    160.010-6, 160.032-4
+Capacity of lifeboat winches
+                                                               160.015-4
+Certification
+                                                               160.073-5
+Chain Ladder
+                                                                 160.017
+Changes in the laboratory's qualifications
+                                                              159.010-11
+Component materials
+                                                              160.076-21
+Conditional approval
+                                                               160.076-9
+Conditions at servicing facilities
+                                                              160.151-43
+Construction
+     160.002-4, 160.005-4, 160.017-13, 160.032-3, 160.042-3, 160.047-4, 
+                   160.054-3, 160.056-2, 160.171-9, 160.174-9, 160.176-9
 Construction:
 Nonstandard life preservers..............160.052-6, 160.055-6, 160.060-6
 Standard life preservers.................160.052-5, 160.055-5, 160.060-5
-Construction and performance..................................160.073-10
+Construction and performance
+                                                              160.073-10
 Construction and Performance:
 Recreational Hybrid PFD's.....................................160.077-15
 Type I and Commercial Hybrid PFD..............................160.077-17
-Construction and performance requirements.....................160.076-23
-Construction and workmanship............160.041-3, 160.043-4, 160.048-4, 
-                                                    160.049-4, 160.050-4
-Construction of................................................160.151-7
+Construction and performance requirements
+                                                              160.076-23
+Construction and workmanship
+                   160.041-3, 160.043-4, 160.048-4, 160.049-4, 160.050-4
+Construction of
+                                                               160.151-7
 Construction of:
 Aluminum oar-, hand-, and motor-propelled Lifeboats............160.035-6
 Fibrous glass reinforced plastic (F.R.P.) oar-, hand-, and motor-
 propelled lifeboats............................................160.035-8
 Steel motor-propelled lifeboats with and without radio cabin...160.035-5
 Steel oar-propelled lifeboats..................................160.035-3
-Construction of lifeboat winches...............................160.015-3
-Construction of mechanical disengaging apparatus...............160.033-3
-Container.........160.021-6, 160.023-6, 160.026-3, 160.028-6, 160.036-6, 
-                                                               160.037-6
-Contents............................................160.041-4, 160.054-4
+Construction of lifeboat winches
+                                                               160.015-3
+Construction of mechanical disengaging apparatus
+                                                               160.033-3
+Container
+        160.021-6, 160.023-6, 160.026-3, 160.028-6, 160.036-6, 160.037-6
+Contents
+                                                    160.041-4, 160.054-4
 Contracting inspections and tests or transferals to another 
-laboratory or person..........................................159.010-15
-Correspondence and applications................................159.001-5
-Cubic capacity of lifeboats....................................160.035-9
+laboratory or person
+                                                              159.010-15
+Correspondence and applications
+                                                               159.001-5
+Cubic capacity of lifeboats
+                                                               160.035-9
 
                                  D
 
-Davits for Merchant Vessel.......................................160.032
+Davits for Merchant Vessel
+                                                                 160.032
 Definitions:
 A or B Liferaft................................................160.051-3
 Box-float......................................................160.010-2
@@ -29429,7 +29460,6 @@ Functional residual capacity (FRC).............................160.176-3
 Hybrid PFD.....................................................160.077-2
 Independent laboratory.........................................159.001-3
 Inflatable buoyant apparatus...................................160.010-2
-Inflation...........................................160.076-5, 160.176-3
 Inflation medium...............................................160.077-2
 Inspector......................................................160.076-5
 Inspector...........................................160.077-2, 160.176-3
@@ -29448,78 +29478,113 @@ SOLAS..........................................................160.151-3
 SOLAS A Liferaft...............................................160.151-3
 SOLAS B Liferaft...............................................160.151-3
 SOLAS lifejacket...............................................160.077-2
-Desalter Kits, Sea Water, for Merchant Vessels...................160.058
-Design and construction........................................160.061-3
-Design and performance........................................160.151-15
+Desalter Kits, Sea Water, for Merchant Vessels
+                                                                 160.058
+Design and construction
+                                                               160.061-3
+Design and performance
+                                                              160.151-15
 Design and performance of:
 A and B inflatable liferafts...................................160.051-7
 Coastal Service inflatable liferafts...........................160.051-5
-Design, construction and manufacturing requirements............160.066-5
-Distress Signal for Boats, Orange Flag...........................160.072
-Distress Signal for Boats, Red Aerial Pyrotechnic Flare..........160.066
+Design, construction and manufacturing requirements
+                                                               160.066-5
+Distress Signal for Boats, Orange Flag
+                                                                 160.072
+Distress Signal for Boats, Red Aerial Pyrotechnic Flare
+                                                                 160.066
 
                                  E
 
-Electrical equipment............................................Part 161
+Electrical equipment
+                                                                Part 161
 Equipment for impulse projected rocket type line-throwing 
-appliance......................................................160.040-4
-Equipment for shoulder gun type line-throwing Appliance........160.031-4
+appliance
+                                                               160.040-4
+Equipment for shoulder gun type line-throwing Appliance
+                                                               160.031-4
 Equipment required for:
 Servicing facilities..........................................160.151-45
 SOLAS A and SOLAS B inflatable liferafts......................160.151-21
-Equipment required for Coastal Service inflatable liferafts....160.051-9
-Examinations, tests, and inspections...........................160.064-6
-Expiration date...............................................160.066-10
+Equipment required for Coastal Service inflatable liferafts
+                                                               160.051-9
+Examinations, tests, and inspections
+                                                               160.064-6
+Expiration date
+                                                              160.066-10
 
                                  F
 
-Fabrication of prototype inflatable liferafts for Approval....160.151-13
-Fishing Tackle Kits, Emergency, for Merchant Vessels.............160.061
-Fittings and equipment.........................................160.056-3
-Float-Free Link or Life Floats and Buoyant Apparatus.............160.073
-Floating Orange Smoke Distress Signals (15 Minute)...............160.057
-Floating Orange Smoke Distress Signals (5 Minute)................160.022
+Fabrication of prototype inflatable liferafts for Approval
+                                                              160.151-13
+Fishing Tackle Kits, Emergency, for Merchant Vessels
+                                                                 160.061
+Fittings and equipment
+                                                               160.056-3
+Float-Free Link or Life Floats and Buoyant Apparatus
+                                                                 160.073
+Floating Orange Smoke Distress Signals (15 Minute)
+                                                                 160.057
+Floating Orange Smoke Distress Signals (5 Minute)
+                                                                 160.022
 
 [[Page 372]]
 
                                  G
 
-General..........................................................159.001
-General characteristics of life preservers.....................160.001-2
-General requirements.........160.010-4, 160.032-2, 160.042-2, 160.044-3, 
-                                                               160.056-1
-General requirements for lifeboat winches......................160.015-2
-General requirements for lifeboats.............................160.035-2
-General requirements for mechanical disengaging Apparatus......160.033-2
+General
+                                                                 159.001
+General characteristics of life preservers
+                                                               160.001-2
+General requirements
+                   160.010-4, 160.032-2, 160.042-2, 160.044-3, 160.056-1
+General requirements for lifeboat winches
+                                                               160.015-2
+General requirements for lifeboats
+                                                               160.035-2
+General requirements for mechanical disengaging Apparatus
+                                                               160.033-2
 
                                  H
 
-Hand Combination Flare and Smoke Distress Signals................160.023
-Hand Orange Smoke Distress Signal.......................160.023, 160.037
-Hand Red Flare Distress Signals..................................160.021
-Hand-Held Rocket-Propelled Parachute Red Flare Distress Signal...160.036
-Hatchets (Lifeboat and Liferaft) for Merchant Vessels............160.013
-Hybrid Inflatable Personal Flotation Devices.....................160.077
+Hand Combination Flare and Smoke Distress Signals
+                                                                 160.023
+Hand Orange Smoke Distress Signal
+                                                        160.023, 160.037
+Hand Red Flare Distress Signals
+                                                                 160.021
+Hand-Held Rocket-Propelled Parachute Red Flare Distress Signal
+                                                                 160.036
+Hatchets (Lifeboat and Liferaft) for Merchant Vessels
+                                                                 160.013
+Hybrid Inflatable Personal Flotation Devices
+                                                                 160.077
 
                                  I
 
-Immersion Suits..................................................160.171
-Incorporation by reference...159.001-4, 160.002-1, 160.005-1, 160.010-1, 
-         160.021-1, 160.022-1, 160.023-1, 160.024-1, 160.031-1, 160.036-
-              1, 160.037-1, 160.040-1, 160.047-1, 160.048-1, 160.049-1, 
-         160.050-1, 160.052-1, 160.055-1, 160.057-1, 160.060-1, 160.076-
-               11, 160.077-5, 160.151-5, 160.171-3, 160.174-3, 160.176-4
-Independent laboratories.......................................160.176-7
-Independent laboratory......160.010-10, 160.017-7, 160.171-5, 160.151-9, 
-                                                               160.174-5
+Immersion Suits
+                                                                 160.171
+Incorporation by reference
+      159.001-4, 160.002-1, 160.005-1, 160.010-1, 160.021-1, 160.022-1, 
+      160.023-1, 160.024-1, 160.031-1, 160.036-1, 160.037-1, 160.040-1, 
+      160.047-1, 160.048-1, 160.049-1, 160.050-1, 160.052-1, 160.055-1, 
+     160.057-1, 160.060-1, 160.076-11, 160.077-5, 160.151-5, 160.171-3, 
+                                                    160.174-3, 160.176-4
+Independent laboratories
+                                                               160.176-7
+Independent laboratory
+                  160.010-10, 160.017-7, 160.171-5, 160.151-9, 160.174-5
 Independent Laboratory: Acceptance, Recognition, and Termination 
                                                                  159.010
 Independent laboratory:
 Application for acceptance.....................................159.010-5
 Standards for acceptance.......................................159.010-3
-Inflatable Lifejackets...........................................160.176
-Inflatable Liferafts for Domestic Service........................160.051
-Inflatable Liferafts (SOLAS).....................................160.151
+Inflatable Lifejackets
+                                                                 160.176
+Inflatable Liferafts for Domestic Service
+                                                                 160.051
+Inflatable Liferafts (SOLAS)
+                                                                 160.151
 Additional:
 Approval tests for SOLAS A and B liferafts....................160.151-29
 Equipment.....................................................160.151-25
@@ -29532,79 +29597,118 @@ Notice of.....................................................160.151-51
 Of servicing facilities; at remote sites..................160.151-41; 49
 Procedure.....................................................160.151-11
 Withdrawal of.................................................160.151-55
-Inflatable Recreational Personal Flotation Devices...............160.076
-Inflatable specifications......................................160.010-3
-Information pamphlet..........................................160.076-35
-Inspection.....................................................160.042-4
-Inspection and testing.........................................160.032-5
-Inspection and testing of lifeboat winches.....................160.015-5
-Inspection and testing of lifeboats...........................160.035-11
-Inspection and testing of mechanical disengaging Apparatus.....160.033-4
-Inspections....................................................160.058-4
-Inspections and test; sampling methods.........................160.010-7
-Inspection and tests.........160.044-4, 160.038-4, 160.041-5, 160.043-5, 
-        160.047-5, 160.048-5, 160.049-5, 160.053-4, 160.054-5, 160.062-4
-Inspections and tests - Standard and Nonstandard vests........160.052-7, 
-                                                               160.060-7
+Inflatable Recreational Personal Flotation Devices
+                                                                 160.076
+Inflatable specifications
+                                                               160.010-3
+Information pamphlet
+                                                              160.076-35
+Inspection
+                                                               160.042-4
+Inspection and testing
+                                                               160.032-5
+Inspection and testing of lifeboat winches
+                                                               160.015-5
+Inspection and testing of lifeboats
+                                                              160.035-11
+Inspection and testing of mechanical disengaging Apparatus
+                                                               160.033-4
+Inspections
+                                                               160.058-4
+Inspections and test; sampling methods
+                                                               160.010-7
+Inspection and tests
+      160.044-4, 160.038-4, 160.041-5, 160.043-5, 160.047-5, 160.048-5, 
+                              160.049-5, 160.053-4, 160.054-5, 160.062-4
+Inspections and tests - Standard and Nonstandard vests
+                                                    160.052-7, 160.060-7
 
 [[Page 373]]
 
-Instructions......................................160.171-15, 160.174-15
+Instructions
+                                                  160.171-15, 160.174-15
 
                                  J
 
-Jackknife (With Can Opener) for Merchant Vessels.................160.043
+Jackknife (With Can Opener) for Merchant Vessels
+                                                                 160.043
 
                                  K
 
-Kit assembly...................................................160.061-4
-Kits, First-Aid, for Inflatable Liferafts........................160.054
-Kits, First-Aid, for Merchant Vessels............................160.041
+Kit assembly
+                                                               160.061-4
+Kits, First-Aid, for Inflatable Liferafts
+                                                                 160.054
+Kits, First-Aid, for Merchant Vessels
+                                                                 160.041
 
                                  L
 
-Labeling.......................................................160.066-9
-Labeling and marking..........160.021-5, 160.023-5, 160.037-5, 160.058-5
-Lamps, Safety, Flame, for Merchant Vessels.......................160.016
-Life Floats for Merchant Vessels.................................160.027
+Labeling
+                                                               160.066-9
+Labeling and marking
+                              160.021-5, 160.023-5, 160.037-5, 160.058-5
+Lamps, Safety, Flame, for Merchant Vessels
+                                                                 160.016
+Life Floats for Merchant Vessels
+                                                                 160.027
 Life Preservers, Fibrous Glass, Adult and Child (Jacket Type), 
-Models 52 and 56.................................................160.005
-Life Preservers, General.........................................160.001
+Models 52 and 56
+                                                                 160.005
+Life Preservers, General
+                                                                 160.001
 Life Preservers, Kapok, Adult and Child (Jacket Type), Models 3 
-and 5............................................................160.002
+and 5
+                                                                 160.002
 Life Preservers, Unicellular Plastic Foam, Adult and Child, for 
-Merchant Vessels.................................................160.055
-Life Preservers: Repairing.......................................160.006
-Lifeboat Winches for Merchant Vessels............................160.015
-Lifeboats for Merchant Vessels...................................160.035
+Merchant Vessels
+                                                                 160.055
+Life Preservers: Repairing
+                                                                 160.006
+Lifeboat Winches for Merchant Vessels
+                                                                 160.015
+Lifeboats for Merchant Vessels
+                                                                 160.035
 Line-Throwing Appliance, Impulse-Projected Rocket Type (and 
-Equipment).......................................................160.040
-Line-Throwing Appliance, Shoulder Gun Type (and Equipment).......160.031
+Equipment)
+                                                                 160.040
+Line-Throwing Appliance, Shoulder Gun Type (and Equipment)
+                                                                 160.031
 
                                  M
 
-Magazine Chests, Portable, for Merchant Vessels..................160.038
+Magazine Chests, Portable, for Merchant Vessels
+                                                                 160.038
 Applicable specifications......................................160.038-1
-Maintenance instructions......................................160.151-61
+Maintenance instructions
+                                                              160.151-61
 Manufacturer:
 Certification and labeling.....................................160.072-7
 Notification...................................................160.072-9
-Manufacturer records..................160.076-33, 160.077-25, 160.176-17
-Marine Buoyant Devices...........................................160.064
-Marking..........160.002-6, 160.005-6, 160.013-5, 160.016-4, 160.017-25, 
-         160.022-5, 160.024-5, 160.026-5, 160.028-5, 160.031-6, 160.036-
-              5, 160.038-5, 160.041-6, 160.044-5, 160.047-6, 160.048-6, 
-         160.049-6, 160.050-6, 160.052-8, 160.053-5, 160.054-6, 160.055-
-             8, 160.057-5, 160.060-8, 160.061-5, 160.064-4, 160.073-20, 
-               160.076-39, 160.171-23, 160.174-23, 160.176-23, 160.062-5
-Marking and labeling...............................160.040-6, 160.151-33
-Marking and packing............................................160.043-6
-Materials........160.002-3, 160.005-3, 160.017-11, 160.043-3, 160.048-3, 
-                                         160.049-3, 160.050-3, 160.176-8
-Materials, construction, and workmanship.......................160.053-3
+Manufacturer records
+                                      160.076-33, 160.077-25, 160.176-17
+Marine Buoyant Devices
+                                                                 160.064
+Marking
+     160.002-6, 160.005-6, 160.013-5, 160.016-4, 160.017-25, 160.022-5, 
+      160.024-5, 160.026-5, 160.028-5, 160.031-6, 160.036-5, 160.038-5, 
+      160.041-6, 160.044-5, 160.047-6, 160.048-6, 160.049-6, 160.050-6, 
+      160.052-8, 160.053-5, 160.054-6, 160.055-8, 160.057-5, 160.060-8, 
+  160.061-5, 160.064-4, 160.073-20, 160.076-39, 160.171-23, 160.174-23, 
+                                                   160.176-23, 160.062-5
+Marking and labeling
+                                                   160.040-6, 160.151-33
+Marking and packing
+                                                               160.043-6
+Materials
+     160.002-3, 160.005-3, 160.017-11, 160.043-3, 160.048-3, 160.049-3, 
+                                                    160.050-3, 160.176-8
+Materials, construction, and workmanship
+                                                               160.053-3
 Materials, construction, workmanship, and performance requirements
                                                     160.031-3, 160.040-3
-Materials, workmanship, and construction.......................160.038-3
+Materials, workmanship, and construction
+                                                               160.038-3
 Materials, workmanship, construction and performance; Requirements
       160.058-3, 160.028-3, 160.013-3, 160.021-3, 160.057-3, 160.022-3, 
                    160.037-3, 160.024-3, 160.036-3, 160.023-3, 160.062-3
@@ -29622,12 +29726,15 @@ Standard vests......................................160.052-3, 160.060-3
 Type I and Commercial Hybrid PFD..............................160.077-13
 Mechanical Disengaging Apparatus, Lifeboat, for Merchant Vessels 
                                                                  160.033
-Model..........................................................160.047-2
+Model
+                                                               160.047-2
 
                                  N
 
-Name plate.....................................................160.056-6
-Nameplate and marking..........................................160.010-8
+Name plate
+                                                               160.056-6
+Nameplate and marking
+                                                               160.010-8
 Notice:
 Approval of...................................................160.151-51
 To OCMI of servicing..........................................160.151-53
@@ -29635,33 +29742,46 @@ To OCMI of servicing..........................................160.151-53
                                  O
 
 OMB Control Numbers assigned pursuant to the Paperwork Reduction 
-Act............................................................159.001-9
+Act
+                                                               159.001-9
 Operating instructions and information for the ship's training 
-manual........................................................160.151-59
-Operational tests.............................................160.066-12
-Owner's manual................................................160.076-37
+manual
+                                                              160.151-59
+Operational tests
+                                                              160.066-12
+Owner's manual
+                                                              160.076-37
 
                                  P
 
-Pamphlet......................................................160.077-27
-Performance...............160.017-15, 160.174-11, 160.171-11, 160.176-11
-Performance requirements.......................................160.066-7
+Pamphlet
+                                                              160.077-27
+Performance
+                          160.017-15, 160.174-11, 160.171-11, 160.176-11
+Performance requirements
+                                                               160.066-7
 PFD:
 Manuals.......................................................160.077-29
 Marking.......................................................160.077-31
-PFD approval Type..............................................160.076-7
-Pistol-Projected Parachute Red Flare Distress Signals............160.024
+PFD approval Type
+                                                               160.076-7
+Pistol-Projected Parachute Red Flare Distress Signals
+                                                                 160.024
 Preapproval review:
 Coast Guard action.............................................159.005-7
 Contents of application........................................159.005-5
-Pre-approval tests for alternate platform designs..............160.027-7
-Procedure for approval.......160.001-3, 160.002-7, 160.005-7, 160.016-5, 
-         160.024-7, 160.026-7, 160.028-7, 160.031-7, 160.038-6, 160.040-
-              7, 160.042-5, 160.048-7, 160.049-7, 160.050-7, 160.053-6, 
-                                                    160.054-7, 160.056-7
-Procedure for approval of lifeboats...........................160.035-14
-Procedure for approval of lifeboat winches.....................160.015-6
-Procedure for approval of mechanical disengaging Apparatus.....160.033-5
+Pre-approval tests for alternate platform designs
+                                                               160.027-7
+Procedure for approval
+      160.001-3, 160.002-7, 160.005-7, 160.016-5, 160.024-7, 160.026-7, 
+      160.028-7, 160.031-7, 160.038-6, 160.040-7, 160.042-5, 160.048-7, 
+                   160.049-7, 160.050-7, 160.053-6, 160.054-7, 160.056-7
+Procedure for approval of lifeboats
+                                                              160.035-14
+Procedure for approval of lifeboat winches
+                                                               160.015-6
+Procedure for approval of mechanical disengaging Apparatus
+                                                               160.033-5
 Procedure for approval - standard and nonstandard life preservers 
                                                                160.055-9
 Procedures for:
@@ -29673,48 +29793,69 @@ Production:
 Oversight.....................................................160.076-29
 Tests and examinations........................................160.076-31
 Production Inspection and Tests of Approved Equipment and 
-Materials........................................................159.007
-Production inspections and tests of inflatable Liferafts......160.151-31
-Production oversight...........................................160.001-5
+Materials
+                                                                 159.007
+Production inspections and tests of inflatable Liferafts
+                                                              160.151-31
+Production oversight
+                                                               160.001-5
 
 [[Page 375]]
 
-Production testing....................160.066-15, 160.171-25, 160.174-25
-Production tests and examination..............................160.017-27
-Production tests and inspections..................160.077-23, 160.176-15
-Production inspections and tests:..............................159.007-9
+Production testing
+                                      160.066-15, 160.171-25, 160.174-25
+Production tests and examination
+                                                              160.017-27
+Production tests and inspections
+                                                  160.077-23, 160.176-15
+Production inspections and tests:
+                                                               159.007-9
 Application for acceptance.....................................159.007-5
 Independent laboratory's procedures............................159.007-3
 Records.......................................................159.007-13
 Yearly report.................................................159.007-11
-Pumps, Bilge, Lifeboat, for Merchant Vessels.....................160.044
-Purpose..................................159.001-1, 159.007-1, 159.010-1
+Pumps, Bilge, Lifeboat, for Merchant Vessels
+                                                                 160.044
+Purpose
+                                         159.001-1, 159.007-1, 159.010-1
 
                                  R
 
 Recognized independent laboratory: Memorandum of Understanding 
                                                                159.010-7
-Recognized laboratories.......................................160.076-19
-Recognized laboratory........160.047-7, 160.048-8, 160.049-8, 160.052-9, 
-                                         160.060-9, 160.064-7, 160.077-9
-Releases, Lifesaving Equipment, Hydraulic and Manual.............160.062
-Repairing......................................................160.006-2
-Required to be worn............................................160.077-3
-Requirements.............................160.016-2, 160.061-2, 160.064-3
+Recognized laboratories
+                                                              160.076-19
+Recognized laboratory
+      160.047-7, 160.048-8, 160.049-8, 160.052-9, 160.060-9, 160.064-7, 
+                                                               160.077-9
+Releases, Lifesaving Equipment, Hydraulic and Manual
+                                                                 160.062
+Repairing
+                                                               160.006-2
+Required to be worn
+                                                               160.077-3
+Requirements
+                                         160.016-2, 160.061-2, 160.064-3
 Requirements for owners or operators of servicing facilities 
                                                               160.151-47
-Rescue Boat......................................................160.056
-Right of appeal................................................159.001-2
+Rescue Boat
+                                                                 160.056
+Right of appeal
+                                                               159.001-2
 
                                  S
 
-Sampling, inspection, and tests of production lots.............160.026-6
-Sampling, tests, and inspections........160.002-5, 160.005-5, 160.050-5, 
-                                                               160.055-7
-Scope.............160.001-1, 160.051-1, 160.076-1, 160.174-1, 160.017-1, 
-                   160.073-1, 160.077-1, 160.151-1, 160.171-1, 160.176-1
-Servicing.....................................................160.176-19
-Servicing:....................................................160.151-35
+Sampling, inspection, and tests of production lots
+                                                               160.026-6
+Sampling, tests, and inspections
+                              160.002-5, 160.005-5, 160.050-5, 160.055-7
+Scope
+      160.001-1, 160.051-1, 160.076-1, 160.174-1, 160.017-1, 160.073-1, 
+                              160.077-1, 160.151-1, 160.171-1, 160.176-1
+Servicing
+                                                              160.176-19
+Servicing:
+                                                              160.151-35
 Approval of servicing facilities; at remote sites.........160.151-41; 49
 Conditions at servicing facilities............................160.151-43
 Equipment required at servicing facilities....................160.151-45
@@ -29723,52 +29864,79 @@ Notice to OCMI................................................160.151-53
 Procedure.....................................................160.151-57
 Requirements for owners or operators..........................160.151-47
 Training of servicing technicians.............................160.151-39
-Signal Pistols for Red Flare Distress Signals....................160.028
-Size and model...........................160.005-2, 160.052-2, 160.060-2
-Size and models................................................160.002-2
-Skids, Liferaft, for Merchant Vessels............................160.042
-Spare operating components and temporary marking..............160.077-30
-Specification for a Buoy, Life Ring, Unicellular Plastic.........160.050
+Signal Pistols for Red Flare Distress Signals
+                                                                 160.028
+Size and model
+                                         160.005-2, 160.052-2, 160.060-2
+Size and models
+                                                               160.002-2
+Skids, Liferaft, for Merchant Vessels
+                                                                 160.042
+Spare operating components and temporary marking
+                                                              160.077-30
+Specification for a Buoy, Life Ring, Unicellular Plastic
+                                                                 160.050
 Specification for a Buoyant Vest, Unicellular Polyethylene Foam, 
-Adult and Child.........................................160.052, 160.060
-Specifications for a Buoyant Cushion Plastic Foam................160.049
-Specifications for a Buoyant Cushion, Fibrous Glass..............160.048
+Adult and Child
+                                                        160.052, 160.060
+Specifications for a Buoyant Cushion Plastic Foam
+                                                                 160.049
+Specifications for a Buoyant Cushion, Fibrous Glass
+                                                                 160.048
 Specifications for a Buoyant Vest, Kapok, or Fibrous Glass, Adult 
-and Child........................................................160.047
-Storage case......................................160.171-13, 160.174-13
-Strength......................................................160.017-17
-Substituted procedures.........................................159.001-7
-Suspension or termination of approval.........................160.076-15
+and Child
+                                                                 160.047
+Storage case
+                                                  160.171-13, 160.174-13
+Strength
+                                                              160.017-17
+Substituted procedures
+                                                               159.001-7
+Suspension or termination of approval
+                                                              160.076-15
 
 [[Page 376]]
 
                                  T
 
 Termination of acceptance or recognition of an independent 
-laboratory....................................................159.010-17
-Termination of acceptance or recognition: Procedure...........159.010-19
-Testing and inspection after approval.........................160.035-13
-Tests.........................................................160.073-15
-Thermal Protective Aids..........................................160.174
-Type...160.021-2, 160.022-2, 160.023-2, 160.023-2, 160.024-2, 160.026-2, 
-         160.027-2, 160.028-2, 160.036-2, 160.038-2, 160.043-2, 160.053-
-                           2, 160.057-2, 160.058-2, 160.066-1, 160.077-4
-Type and model.................................................160.055-2
-Type and models................................................160.064-2
-Type and size.................160.031-2, 160.040-2, 160.041-2, 160.054-2
-Types and sizes...............160.044-2, 160.048-2, 160.049-2, 160.050-2
+laboratory
+                                                              159.010-17
+Termination of acceptance or recognition: Procedure
+                                                              159.010-19
+Testing and inspection after approval
+                                                              160.035-13
+Tests
+                                                              160.073-15
+Thermal Protective Aids
+                                                                 160.174
+Type
+      160.021-2, 160.022-2, 160.023-2, 160.024-2, 160.026-2, 160.027-2, 
+      160.028-2, 160.036-2, 160.038-2, 160.043-2, 160.053-2, 160.057-2, 
+                                         160.058-2, 160.066-1, 160.077-4
+Type and model
+                                                               160.055-2
+Type and models
+                                                               160.064-2
+Type and size
+                              160.031-2, 160.040-2, 160.041-2, 160.054-2
+Types and sizes
+                              160.044-2, 160.048-2, 160.049-2, 160.050-2
 
                                  U
 
-User manuals..................................................160.176-21
+User manuals
+                                                              160.176-21
 
                                  W
 
-Water..........................................................160.026-4
+Water
+                                                               160.026-4
 Water, Emergency Drinking (in Hermetically Sealed Containers), for 
-Merchant Vessels.................................................160.026
-Work Vests, Unicellular Plastic Foam.............................160.053
-
+Merchant Vessels
+                                                                 160.026
+Work Vests, Unicellular Plastic Foam
+                                                                 160.053
 
 [[Page 377]]
 
@@ -29795,7 +29963,7 @@ which is published separately and revised annually.
 
             Material Approved for Incorporation by Reference
 
-                     (Revised as of October 1, 2004)
+                     (Revised as of October 1, 2006)
 
   The Director of the Federal Register has approved under 5 U.S.C. 
 552(a) and 1 CFR part 51 the incorporation by reference of the following 
@@ -29815,8 +29983,6 @@ American Bureau of Shipping
 
   Publications Department, 16855 Northchase Drive, 
   Houston, Texas 77060
-Rules for Building and Classing Steel Vessels,       161.002-1; 161.002-
-  1995.                                                             4(b)
 Rules for Building and Classing Steel Vessels,       161.002-1; 161.002-
   1996.                                                             4(b)
 
@@ -29857,12 +30023,10 @@ ASTM A 216/A 216 M-93 (1998), Standard              160.032-1; 160.032-3
   Suitable for Fusion Welding for High Temperature 
   Service.
 ASTM A 525-80 Steel Sheets, Zinc-Coated                        160.035-1
-(Galvanized) by the Hot Dip Process.
-[[Page 380]]
-
+  (Galvanized) by the Hot Dip Process.
 ASTM A 653/A 653M-98, Standard Specification for    160.035-1; 160.035-3
-  Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
-  Iron Alloy-Coated (Galvannealed) by the Hot-Dip 
+Steel Sheet, Zinc-Coated (Galvanized) or Zinc-
+[[Page 380]]Coated (Galvannealed) by the Hot-Dip 
   Process.
 ASTM B 61-80 Steam or Valve Bronze Castings.......             162.014-1
 ASTM B 117-73 Method of Salt Spray (Fog) Testing.. 160.171-3; 161.004-1; 
@@ -29918,11 +30082,11 @@ ASTM D 975-98, Standard Specification for Diesel     160.171-3; 160.171-
   Fuel Oils.                                             17; 160.174-3; 
                                                     160.174-17; 160.176-
                                                            4; 160.176-13
+ASTM D 1004-66 Tear Resistance of Plastic Film and 160.055-1; 160.171-3; 
+  Sheeting.                                                    160.174-3
 
 [[Page 381]]
 
-ASTM D 1004-66 Tear Resistance of Plastic Film and 160.055-1; 160.171-3; 
-  Sheeting.                                                    160.174-3
 ASTM D 1004-94a, Standard Test Method for Initial  160.055-1; 160.055-3; 
   Tear Resistance of Plastic Film and Sheeting.      160.171-3; 160.171-
                                                          17; 160.174-3; 
@@ -29980,10 +30144,11 @@ DWG No. 160.009 Cork and Balsa Wood Ring Life                  160.009-1
   Buoy; arrangement and construction details.
 DWG No. 160.013-1 Hatchet (Lifeboat and Liferaft).             160.013-1
 DWG No. 160.027-4 Rectangular Balsa Wood Life                  160.027-1
-Float with Platform, Net and Rigging.
+  Float with Platform, Net and Rigging.
+DWG No. 160.043-1(b) Jackknife (with Can Opener)..             160.043-1
+
 [[Page 382]]
 
-DWG No. 160.043-1(b) Jackknife (with Can Opener)..             160.043-1
 DWG No. 160.047-1 Buoyant Vest, Kapok or Fibrous               160.047-1
   Glass, Adult and Child.
 DWG No. 160.048-1 Buoyant Cushion, Fibrous Glass..             160.048-1
@@ -30057,12 +30222,12 @@ International Convention for the Safety of Life at   161.002-1; 161.002-
   (including 1992 Amendment to SOLAS 74, 1994 
   Amendments to SOLAS 74), 1992.
 IMO Resolution A.657(16), Instructions for Action             160.151-21
-in Survival Craft, dated October 1989.
-[[Page 383]]
-
+  in Survival Craft, dated October 1989.
 IMO Resolution A.658(16), Use and Fitting of        160.151-15; 160.151-
   Retro-Reflective Materials on Life-Saving                           57
-  Appliances, dated November 1989.
+Appliances, dated November 1989.
+[[Page 383]]
+
 IMO Resolution A.689(17), Recommendation on         160.151-21; 160.151-
   Testing of Life-Saving Appliances, dated              27; 160.151-31; 
   November, 1991 with amendments.                             160.151-57
@@ -30121,11 +30286,12 @@ Federal Specifications:
   C, and Amdt. 3                                   160.047-1; 160.048-1; 
                                                                164.018-1
   L-P-390 Plastic Molding and Extrusion Materials,             161.010-1
-Polyethylene and Copolymers (Low, Medium, and 
-[[Page 384]]y), C, and Amdt. 1
-
+  Polyethylene and Copolymers (Low, Medium, and 
+  High Density), C, and Amdt. 1
   L-P-393 Plastic Molding Material Polycarbonate,              161.010-1
-  Injection and Extrusion, A, and Amdt. 2
+Injection and Extrusion, A, and Amdt. 2
+[[Page 384]]
+
   L-S-300 Sheeting and Tape, Reflective: Non-                  164.018-5
   exposed Lens, Adhesive Backing, B
   QQ-B-611 Brass, Commercial; Bars, plates, rods               161.006-1
@@ -30174,10 +30340,12 @@ No. 191A (dated July 20, 1978) the following methods:
   (8) Method 5804, Weathering Resistance of Cloth;             164.023-7
   Accelerated Weathering Method
   No. 370 Instrumental Photometric Measurements of             164.018-1
-Retroflective Materials and Retroflective 
-[[Page 385]]77
-
+  Retroflective Materials and Retroflective 
+  Devices, 1977
   No. 595 Colors, A, and Notice 5                   160.050-1; 160.055-1
+
+[[Page 385]]
+
   No. 751a, Stitches, Seams, and Stitchings        160.002-1; 160.005-1; 
   (January 25, 1965)                               160.009-1; 160.047-1; 
                                                    160.048-1; 160.048-1; 
@@ -30226,11 +30394,11 @@ Military Specifications:
   MIL-P-17549 Plastic Laminates, Fibrous Glass                 160.035-1
   Reinforced, Marine Structural, C, and Amdt. 2
   MIL-P-18066 Plywood, Ship and Boat Construction,             160.035-1
-B
+  B
+  MIL-P-19644 Plastic Foam, Molded Polystyrene      160.010-1; 160.035-1
+(Expanded Bead Type), C
 [[Page 386]]
 
-  MIL-P-19644 Plastic Foam, Molded Polystyrene      160.010-1; 160.035-1
-  (Expanded Bead Type), C
   MIL-P-21929 Plastic Materials, Cellular           160.010-1; 160.035-1
   Polyurethane, Foam-in-Place, Rigid (2 and 4 
   Pounds Per Cubic Foot), B, and Amdt. 1
@@ -30309,7 +30477,7 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
 
 <R04>
 
-                     (Revised as of October 1, 2004)
+                     (Revised as of October 1, 2006)
 
                       Title 1--General Provisions
 
@@ -30322,9 +30490,10 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
 
             Subtitle A--Office of Management and Budget Guidance 
                 for Grants and Agreements
-         I  [Reserved]
+         I  Office of Management and Budget Governmentwide 
+                Guidance for Grants and Agreements (Parts 100-199)
         II  Office of Management and Budget Circulars and Guidance 
-                [Reserved]
+                (200-299)
             Subtitle B--Federal Agency Regulations for Grants and 
                 Agreements [Reserved]
 
@@ -30335,7 +30504,7 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
 
                            Title 4--Accounts
 
-         I  General Accounting Office (Parts 1--99)
+         I  Government Accountability Office (Parts 1--99)
 
                    Title 5--Administrative Personnel
 
@@ -30404,11 +30573,18 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
     LXXIII  Department of Agriculture (Part 8301)
      LXXIV  Federal Mine Safety and Health Review Commission (Part 
                 8401)
+     LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
 
 [[Page 391]]
 
-     LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
     LXXVII  Office of Management and Budget (Part 8701)
+     XCVII  Department of Homeland Security Human Resources 
+                Management System (Department of Homeland 
+                Security--Office of Personnel Management) (Part 
+                9701)
+      XCIX  Department of Defense Human Resources Management and 
+                Labor Relations Systems (Department of Defense--
+                Office of Personnel Management) (Part 9901)
 
                       Title 6--Homeland Security
 
@@ -30456,23 +30632,23 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 1600--1699)
       XVII  Rural Utilities Service, Department of Agriculture 
                 (Parts 1700--1799)
+
+[[Page 392]]
+
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
                 Agency, Department of Agriculture (Parts 1800--
                 2099)
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
-
-[[Page 392]]
-
       XXVI  Office of Inspector General, Department of Agriculture 
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
                 of Agriculture (Parts 2700--2799)
     XXVIII  Office of Operations, Department of Agriculture (Parts 
                 2800--2899)
-      XXIX  Office of Energy, Department of Agriculture (Parts 
-                2900--2999)
+      XXIX  Office of Energy Policy and New Uses, Department of 
+                Agriculture (Parts 2900--2999)
        XXX  Office of the Chief Financial Officer, Department of 
                 Agriculture (Parts 3000--3099)
       XXXI  Office of Environmental Quality, Department of 
@@ -30514,16 +30690,17 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
 
+[[Page 393]]
+
                            Title 10--Energy
 
          I  Nuclear Regulatory Commission (Parts 0--199)
         II  Department of Energy (Parts 200--699)
-
-[[Page 393]]
-
        III  Department of Energy (Parts 700--999)
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
+      XIII  Nuclear Waste Technical Review Board (Parts 1303--
+                1399)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
      XVIII  Northeast Interstate Low-Level Radioactive Waste 
@@ -30568,15 +30745,14 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
          V  Emergency Oil and Gas Guaranteed Loan Board, 
                 Department of Commerce (Parts 500--599)
 
+[[Page 394]]
+
                     Title 14--Aeronautics and Space
 
          I  Federal Aviation Administration, Department of 
                 Transportation (Parts 1--199)
         II  Office of the Secretary, Department of Transportation 
                 (Aviation Proceedings) (Parts 200--399)
-
-[[Page 394]]
-
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
                 (Parts 400--499)
@@ -30625,13 +30801,13 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
          I  Federal Trade Commission (Parts 0--999)
         II  Consumer Product Safety Commission (Parts 1000--1799)
 
+[[Page 395]]
+
              Title 17--Commodity and Securities Exchanges
 
          I  Commodity Futures Trading Commission (Parts 1--199)
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
-
-[[Page 395]]
 
           Title 18--Conservation of Power and Water Resources
 
@@ -30683,14 +30859,13 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
        III  Office of National Drug Control Policy (Parts 1400--
                 1499)
 
+[[Page 396]]
+
                       Title 22--Foreign Relations
 
          I  Department of State (Parts 1--199)
         II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
-
-[[Page 396]]
-
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
          V  Broadcasting Board of Governors (Parts 500--599)
@@ -30743,12 +30918,12 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
-        VI  Office of Assistant Secretary for Community Planning 
-                and Development, Department of Housing and Urban 
-                Development (Parts 600--699) [Reserved]
 
 [[Page 397]]
 
+        VI  Office of Assistant Secretary for Community Planning 
+                and Development, Department of Housing and Urban 
+                Development (Parts 600--699) [Reserved]
        VII  Office of the Secretary, Department of Housing and 
                 Urban Development (Housing Assistance Programs and 
                 Public and Indian Housing Programs) (Parts 700--
@@ -30802,10 +30977,11 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
 
          I  Alcohol and Tobacco Tax and Trade Bureau, Department 
                 of the Treasury (Parts 1--399)
-        II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
-                Department of Justice (Parts 400--699)
 
 [[Page 398]]
+
+        II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
+                Department of Justice (Parts 400--699)
 
                    Title 28--Judicial Administration
 
@@ -30855,6 +31031,8 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
+[[Page 399]]
+
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
@@ -30863,9 +31041,6 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 Interior (Parts 200--299)
        III  Board of Surface Mining and Reclamation Appeals, 
                 Department of the Interior (Parts 300--399)
-
-[[Page 399]]
-
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
        VII  Office of Surface Mining Reclamation and Enforcement, 
@@ -30914,6 +31089,9 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
+
+[[Page 400]]
+
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
 
@@ -30923,9 +31101,6 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 1--199)
         II  Corps of Engineers, Department of the Army (Parts 
                 200--399)
-
-[[Page 400]]
-
         IV  Saint Lawrence Seaway Development Corporation, 
                 Department of Transportation (Parts 400--499)
 
@@ -30951,9 +31126,7 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
-                        Title 35--Panama Canal
-
-         I  Panama Canal Regulations (Parts 1--299)
+                          Title 35 [Reserved]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -30976,16 +31149,19 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
-       XVI  Morris K. Udall Scholarship and Excellence in National 
-                Environmental Policy Foundation (Parts 1600--1699)
 
 [[Page 401]]
+
+       XVI  Morris K. Udall Scholarship and Excellence in National 
+                Environmental Policy Foundation (Parts 1600--1699)
 
              Title 37--Patents, Trademarks, and Copyrights
 
          I  United States Patent and Trademark Office, Department 
                 of Commerce (Parts 1--199)
         II  Copyright Office, Library of Congress (Parts 200--299)
+       III  Copyright Royalty Board, Library of Congress (Parts 
+                301--399)
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
@@ -31031,14 +31207,14 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
+
+[[Page 402]]
+
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
-
-[[Page 402]]
-
        128  Department of Justice (Parts 128-1--128-99)
             Subtitle D--Other Provisions Relating to Property 
                 Management [Reserved]
@@ -31052,7 +31228,7 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 301-99)
        302  Relocation Allowances (Parts 302-1--302-99)
        303  Payment of Expenses Connected with the Death of 
-                Certain Employees (Part 303-70)
+                Certain Employees (Part 303-1--303-99)
        304  Payment of Travel Expenses from a Non-Federal Source 
                 (Parts 304-1--304-99)
 
@@ -31084,14 +31260,13 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
         IV  Department of Commerce and Department of 
                 Transportation (Parts 400--499)
 
+[[Page 403]]
+
                        Title 45--Public Welfare
 
             Subtitle A--Department of Health and Human Services 
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Welfare
-
-[[Page 403]]
-
         II  Office of Family Assistance (Assistance Programs), 
                 Administration for Children and Families, 
                 Department of Health and Human Services (Parts 
@@ -31142,11 +31317,11 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                       Title 47--Telecommunication
 
          I  Federal Communications Commission (Parts 0--199)
-        II  Office of Science and Technology Policy and National 
-                Security Council (Parts 200--299)
 
 [[Page 404]]
 
+        II  Office of Science and Technology Policy and National 
+                Security Council (Parts 200--299)
        III  National Telecommunications and Information 
                 Administration, Department of Commerce (Parts 
                 300--399)
@@ -31154,7 +31329,8 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
            Title 48--Federal Acquisition Regulations System
 
          1  Federal Acquisition Regulation (Parts 1--99)
-         2  Department of Defense (Parts 200--299)
+         2  Defense Acquisition Regulations System, Department of 
+                Defense (Parts 200--299)
          3  Department of Health and Human Services (Parts 300--
                 399)
          4  Department of Agriculture (Parts 400--499)
@@ -31177,7 +31353,7 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
-        21  Office of Personnel Management, Federal Employees 
+        21  Office of Personnel Management, Federal Employees' 
                 Group Life Insurance Federal Acquisition 
                 Regulation (Parts 2100--2199)
         23  Social Security Administration (Parts 2300--2399)
@@ -31190,17 +31366,17 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 Acquisition Regulation (HSAR) (Parts 3000--3099)
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
-        35  Panama Canal Commission (Parts 3500--3599)
+        35  [Reserved]
         44  Federal Emergency Management Agency (Parts 4400--4499)
         51  Department of the Army Acquisition Regulations (Parts 
                 5100--5199)
+
+[[Page 405]]
+
         52  Department of the Navy Acquisition Regulations (Parts 
                 5200--5299)
         53  Department of the Air Force Federal Acquisition 
                 Regulation Supplement (Parts 5300--5399)
-
-[[Page 405]]
-
         54  Defense Logistics Agency, Department of Defense (Parts 
                 5400--5499)
         57  African Development Foundation (Parts 5700--5799)
@@ -31218,8 +31394,9 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 (Parts 1--99)
             Subtitle B--Other Regulations Relating to 
                 Transportation
-         I  Research and Special Programs Administration, 
-                Department of Transportation (Parts 100--199)
+         I  Pipeline and Hazardous Materials Safety 
+                Administration, Department of Transportation 
+                (Parts 100--199)
         II  Federal Railroad Administration, Department of 
                 Transportation (Parts 200--299)
        III  Federal Motor Carrier Safety Administration, 
@@ -31235,8 +31412,8 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
       VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
-        XI  Bureau of Transportation Statistics, Department of 
-                Transportation (Parts 1400--1499)
+        XI  Research and Innovative Technology Administration, 
+                Department of Transportation - [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
 
@@ -31249,15 +31426,15 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
                 Commerce (Parts 200--299)
        III  International Fishing and Related Activities (Parts 
                 300--399)
+
+[[Page 406]]
+
         IV  Joint Regulations (United States Fish and Wildlife 
                 Service, Department of the Interior and National 
                 Marine Fisheries Service, National Oceanic and 
                 Atmospheric Administration, Department of 
                 Commerce); Endangered Species Committee 
                 Regulations (Parts 400--499)
-
-[[Page 406]]
-
          V  Marine Mammal Commission (Parts 500--599)
         VI  Fishery Conservation and Management, National Oceanic 
                 and Atmospheric Administration, Department of 
@@ -31282,7 +31459,7 @@ UL 1196 Standard for Floating Waterlights, Second  161.010-1; 161.010-2;
 
 <R04>
 
-                     (Revised as of October 1, 2004)
+                     (Revised as of October 1, 2006)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -31408,6 +31585,7 @@ Consumer Product Safety Commission                5, LXXI; 16, II
 Cooperative State Research, Education, and        7, XXXIV
      Extension Service
 Copyright Office                                  37, II
+Copyright Royalty Board                           37, III
 Corporation for National and Community Service    45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
@@ -31424,10 +31602,10 @@ Defense Department                                5, XXVI; 32, Subtitle A;
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
+  Defense Acquisition Regulations System          48, II
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Federal Acquisition Regulation                  48, 2
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 32, I
@@ -31561,14 +31739,13 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-General Accounting Office                         4, I
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
+  Federal Management Regulation                   41, 102
 
 [[Page 411]]
 
-  Federal Management Regulation                   41, 102
   Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
@@ -31579,6 +31756,7 @@ General Services Administration                   5, LVII; 41, 105
   Relocation Allowances                           41, 302
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
+Government Accountability Office                  4, I
 Government Ethics, Office of                      5, XVI
 Government National Mortgage Association          24, III
 Grain Inspection, Packers and Stockyards          7, VIII; 9, II
@@ -31589,6 +31767,7 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Child Support Enforcement, Office of            45, III
   Children and Families, Administration for       45, II, III, IV, X
   Community Services, Office of                   45, X
+  Defense Acquisition Regulations System          48, 2
   Family Assistance, Office of                    45, II
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
@@ -31639,11 +31818,10 @@ Indian Health Service                             25, V; 42, I
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
-     Archives and Records Administration
-Inspector General
-
+   Archives and Records Administration
 [[Page 412]]
 
+Inspector General
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
   Housing and Urban Development Department        24, XII
@@ -31720,10 +31898,10 @@ Labor Department                                  5, XLII
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
   Public Contracts                                41, 50
-  Secretary of Labor, Office of                   29, Subtitle A
 
 [[Page 413]]
 
+  Secretary of Labor, Office of                   29, Subtitle A
   Veterans' Employment and Training Service,      41, 61; 20, IX
        Office of the Assistant Secretary for
   Wage and Hour Division                          29, V
@@ -31733,6 +31911,7 @@ Land Management, Bureau of                        43, II
 Legal Services Corporation                        45, XVI
 Library of Congress                               36, VII
   Copyright Office                                37, II
+  Copyright Royalty Board                         37, III
 Local Television Loan Guarantee Board             7, XX
 Management and Budget, Office of                  5, III, LXXVII; 14, VI; 
                                                   48, 99
@@ -31793,11 +31972,12 @@ Natural Resources Conservation Service            7, VI
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
-Neighborhood Reinvestment Corporation             24, XXV
-Northeast Interstate Low-Level Radioactive Waste  10, XVIII
-   Commission
+
 [[Page 414]]
 
+Neighborhood Reinvestment Corporation             24, XXV
+Northeast Interstate Low-Level Radioactive Waste  10, XVIII
+     Commission
 Nuclear Regulatory Commission                     5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
@@ -31806,8 +31986,6 @@ Offices of Independent Counsel                    28, VI
 Oklahoma City National Memorial Trust             36, XV
 Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
-Panama Canal Commission                           48, 35
-Panama Canal Regulations                          35, I
 Patent and Trademark Office, United States        37, I
 Payment From a Non-Federal Source for Travel      41, 304
      Expenses
@@ -31822,6 +32000,8 @@ Personnel Management, Office of                   5, I, XXXV; 45, VIII
        Acquisition Regulation
   Federal Employees Health Benefits Acquisition   48, 16
        Regulation
+Pipeline and Hazardous Materials Safety           49, I
+     Administration
 Postal Rate Commission                            5, XLVI; 39, III
 Postal Service, United States                     5, LX; 39, I
 Postsecondary Education, Office of                34, VI
@@ -31842,165 +32022,9 @@ Reclamation, Bureau of                            43, I
 Refugee Resettlement, Office of                   45, IV
 Regional Action Planning Commissions              13, V
 Relocation Allowances                             41, 302
-Research and Special Programs Administration      49, I
+Research and Innovative Technology                49, XI
+     Administration
 Rural Business-Cooperative Service                7, XVIII, XLII
 Rural Development Administration                  7, XLII
-Rural Housing Service                             7, XVIII, XXXV
-Rural Telephone Bank                              7, XVI
-Rural Utilities Service                           7, XVII, XVIII, XLII
-Saint Lawrence Seaway Development Corporation     33, IV
-Science and Technology Policy, Office of          32, XXIV
-Science and Technology Policy, Office of, and     47, II
-     National Security Council
-Secret Service                                    31, IV
-Securities and Exchange Commission                17, II
-Selective Service System                          32, XVI
-Small Business Administration                     13, I
-Smithsonian Institution                           36, V
-Social Security Administration                    20, III; 48, 23
-Soldiers' and Airmen's Home, United States        5, XI
-Special Counsel, Office of                        5, VIII
-Special Education and Rehabilitative Services,    34, III
-     Office of
-State Department                                  22, I; 28, XI
-  Federal Acquisition Regulation                  48, 6
-Surface Mining and Reclamation Appeals, Board of  30, III
-Surface Mining Reclamation and Enforcement,       30, VII
-     Office of
-Surface Transportation Board                      49, X
-Susquehanna River Basin Commission                18, VIII
-Technology Administration                         15, XI
-Technology Policy, Assistant Secretary for        37, IV
-
-[[Page 415]]
-
-Technology, Under Secretary for                   37, V
-Tennessee Valley Authority                        5, LXIX; 18, XIII
-Thrift Supervision Office, Department of the      12, V
-     Treasury
-Trade Representative, United States, Office of    15, XX
-Transportation, Department of                     5, L
-  Commercial Space Transportation                 14, III
-  Contract Appeals, Board of                      48, 63
-  Emergency Management and Assistance             44, IV
-  Federal Acquisition Regulation                  48, 12
-  Federal Aviation Administration                 14, I
-  Federal Highway Administration                  23, I, II
-  Federal Motor Carrier Safety Administration     49, III
-  Federal Railroad Administration                 49, II
-  Federal Transit Administration                  49, VI
-  Maritime Administration                         46, II
-  National Highway Traffic Safety Administration  23, II, III; 49, V
-  Research and Special Programs Administration    49, I
-  Saint Lawrence Seaway Development Corporation   33, IV
-  Secretary of Transportation, Office of          14, II; 49, Subtitle A
-  Surface Transportation Board                    49, X
-  Transportation Statistics Bureau                49, XI
-Transportation, Office of                         7, XXXIII
-Transportation Security Administration            49, XII
-Transportation Statistics Bureau                  49, XI
-Travel Allowances, Temporary Duty (TDY)           41, 301
-Treasury Department                               5, XXI; 12, XV; 17, IV; 
-                                                  31, IX
-  Alcohol and Tobacco Tax and Trade Bureau        27, I
-  Community Development Financial Institutions    12, XVIII
-       Fund
-  Comptroller of the Currency                     12, I
-  Customs and Border Protection Bureau            19, I
-  Engraving and Printing, Bureau of               31, VI
-  Federal Acquisition Regulation                  48, 10
-  Federal Law Enforcement Training Center         31, VII
-  Fiscal Service                                  31, II
-  Foreign Assets Control, Office of               31, V
-  Internal Revenue Service                        26, I
-  International Investment, Office of             31, VIII
-  Monetary Offices                                31, I
-  Secret Service                                  31, IV
-  Secretary of the Treasury, Office of            31, Subtitle A
-  Thrift Supervision, Office of                   12, V
-Truman, Harry S. Scholarship Foundation           45, XVIII
-United States and Canada, International Joint     22, IV
-     Commission
-United States and Mexico, International Boundary  22, XI
-     and Water Commission, United States Section
-Utah Reclamation Mitigation and Conservation      43, III
-     Commission
-Veterans Affairs Department                       38, I
-  Federal Acquisition Regulation                  48, 8
-Veterans' Employment and Training Service,        41, 61; 20, IX
-     Office of the Assistant Secretary for
-Vice President of the United States, Office of    32, XXVIII
-Vocational and Adult Education, Office of         34, IV
-Wage and Hour Division                            29, V
-Water Resources Council                           18, VI
-Workers' Compensation Programs, Office of         20, I
-World Agricultural Outlook Board                  7, XXXVIII
-
-[[Page 417]]
-
-
-<R03>
-List of CFR Sections Affected
-
-<R04>
-
-All changes in this volume of the Code of Federal Regulations that were 
-made by documents published in the Federal Register since January 1, 
-2001, are enumerated in the following list. Entries indicate the nature 
-of the changes effected. Page numbers refer to Federal Register pages. 
-The user should consult the entries for chapters and parts as well as 
-sections for revisions.
-For the period before January 1, 2001, see the ``List of CFR Sections 
-Affected, 1949-1963, 1964-1972, and 1973-1985, and 1986-2000'' published 
-in ten separate volumes.
-
-                                  2001
-
-46 CFR
-                                                                   66 FR
-                                                                    Page
-161.010-1 (a) amended..............................................48620
-161.010-4 (a) and (b) amended......................................48620
-162.017-3 (b), (c) and (o) amended.................................48620
-162.017-5 (a) amended..............................................48620
-162.017-6 (a) and (c) amended......................................48620
-162.018-6 (a) amended..............................................48620
-162.018-7 (a) amended..............................................48620
-162.018-8 (a), (b) and (c) amended.................................48620
-162.050-7 (a), (f) and (g) amended.................................48621
-162.050-13 (b) amended.............................................48621
-162.050-15 (a), (e) and (h) amended................................48621
-
-                                  2002
-
-                       (No regulations published)
-
-                                  2003
-
-  (Regulations published from January 1, 2003, through October 1, 2003)
-
-46 CFR
-                                                                   68 FR
-                                                                    Page
-Chapter I
-Chapter I Heading corrected........................................16953
-
-                                  2004
-
-  (Regulations published from January 1, 2004, through October 1, 2004)
-
-46 CFR
-                                                                   69 FR
-                                                                    Page
-Title 46 Nomenclature change.......................................18803
-159 Authority citation revised.....................................58350
-159.001-9 (b) amended..............................................58350
-161 Authority citation revised.....................................58350
-161.002-4 (b)(4) amended...........................................58350
-161.002-10 (g)(1) amended..........................................58350
-162 Authority citation revised.....................................58350
-162.017-6 (c) amended..............................................58350
-
-
-                            
+Rural Housing Service                             
 </pre></body></html>

@@ -1,20 +1,20 @@
 <html><body><pre>
 [Title 49 CFR ]
-[Code of Federal Regulations (annual edition) - October 1, 2005 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2006 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-
-<R02>
+          
+          <R02>
           49
 
 
           Parts 1000 to 1199
 
-                         Revised as of October 1, 2005
+                         Revised as of October 1, 2006
 
 
           Transportation
@@ -27,7 +27,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of October 1, 2005
+          As of October 1, 2006
           With Ancillaries
                     Published by
                     Office of the Federal Register
@@ -159,7 +159,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2005), consult the ``List of CFR 
+revision date (in this case, October 1, 2006), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -231,7 +231,7 @@ volume, contact the issuing agency. The issuing agency's name appears at
 the top of odd-numbered pages.
     For inquiries concerning CFR reference assistance, call 202-741-6000 
 or write to the Director, Office of the Federal Register, National 
-Archives and Records Administration, Washington, DC 20408 or e-mail, 
+Archives and Records Administration, Washington, DC 20408 or e-mail 
 fedreg.info@nara.gov.
 
 SALES
@@ -260,14 +260,14 @@ mail, gpoaccess@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
-information. Connect to NARA's web site at www.archives.gov/federal--
+information. Connect to NARA's web site at www.archives.gov/federal-
 register. The NARA site also contains links to GPO Access.
 
                               Raymond A. Mosley,
                                     Director,
                           Office of the Federal Register.
 
-October 1, 2005.
+October 1, 2006.
 
 [[Page ix]]
 
@@ -300,34 +300,38 @@ the current regulations issued under chapter X--Surface Transportation
 Board, chapter XI--Research and Innovative Technology Administration, 
 and chapter XII--Transportation Security Administration, Department of 
 Transportation. The contents of these volumes represent all current 
-regulations codified under this title of the CFR as of October 1, 2005.
+regulations codified under this title of the CFR as of October 1, 2006.
 
     In the volume containing parts 100-185, see Sec.  172.101 for the 
 Hazardous Materials Table. The Federal Motor Vehicle Safety Standards 
 appear in part 571.
 
+    Redesignation tables for chapter III--Federal Motor Carrier Safety 
+Administration, Department of Transportation and chapter XII--
+Transportation Security Administration, Department of Transportation 
+appear in the Finding Aids section of the fifth and ninth volumes.
+
     For this volume, Carol A. Conroy was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
-Frances D. McDonald, assisted by Alomha S. Morris.
+Frances D. McDonald, assisted by Kenneth R. Payne.
 
 [[Page 1]]
 
-
-<R01>
-                        TITLE 49--TRANSPORTATION
-
-
-
+                         TITLE 49_TRANSPORTATION
 
                  (This book contains parts 1000 to 1199)
 
-  --------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+
                                                                     Part
 
   SUBTITLE B--Other Regulations Relating to Transportation (Continued)
 
-chapter x--Surface Transportation Board, Department of 
-  Transportation............................................        1001
+chapter x_Surface Transportation Board, Department of Transportation
+
+                                  1001
 
 [[Page 3]]
 
@@ -352,6 +356,7 @@ chapter x--Surface Transportation Board, Department of
                    PARTS 1000-1019--GENERAL PROVISIONS
 Part                                                                Page
 1000            [Reserved]
+
 1001            Inspection of records.......................           9
 1002            Fees........................................          11
 1003            Forms.......................................          18
@@ -412,7 +417,8 @@ Part                                                                Page
                     plans in cases involving railroad 
                     consolidations, mergers, and 
                     acquisitions of control.................         114
-1107            [Reserved]
+1107             [Reserved]
+
 1108            Arbitration of certain disputes subject to 
                     the statutory jurisdiction of the 
                     Surface Transportation Board............         116
@@ -453,7 +459,7 @@ Part                                                                Page
 1146            Expedited Relief for Service Emergencies....         180
 1147            Temporary relief under 49 U.S.C. 10705 and 
                     11102 for Service Inadequacies..........         180
-1148-1149       [Reserved]
+1148-1149      [Reserved]
 
                   PARTS 1150-1174--LICENSING PROCEDURES
                PARTS 1150-1159--RAIL LICENSING PROCEDURES
@@ -489,12 +495,7 @@ Part                                                                Page
 
 
 
-
-
-Parts 1000-1019_General Provisions--Table of Contents
-
-
-
+                   Parts 1000	1019_General Provisions
 
                           PART 1000 [RESERVED]
 
@@ -505,7 +506,7 @@ PART 1001_INSPECTION OF RECORDS--Table of Contents
 
 
 
-Sec.
+Sec. 
 1001.1 Records available from the Board.
 1001.2 Certified copies of records.
 1001.3 Requests to inspect other records not considered public under 5 
@@ -522,7 +523,7 @@ Sec.
 Sec. 1001.1  Records available from the Board.
 
     (a) The following specific files and records in the custody of the 
-Secretary of the Surface Transportation Board are available to the 
+Sec. etary of the Surface Transportation Board are available to the 
 public and may be inspected at the Board's office upon reasonable 
 request during business hours (between 8:30 a.m. and 5 p.m., Monday 
 through Friday):
@@ -569,15 +570,14 @@ searchable.
 Sec. 1001.2  Certified copies of records.
 
     Copies of and extracts from public records will be certified by the 
-Secretary. Persons requesting the Board to prepare such copies should 
+Sec. etary. Persons requesting the Board to prepare such copies should 
 clearly state the material to be copied, and whether it shall be 
 certified. Charges will be made for certification and for the 
 preparation of copies as provided in part 1002 of this chapter.
 
 
 <R05>
-Sec. 1001.3  Requests to inspect other records not considered public 
-under 5 U.S.C. 552.
+Sec. 1001.3  Requests to inspect other records not considered public under 5 U.S.C. 552.
 
     Requests to inspect records other than those now deemed to be of a 
 public nature shall be in writing and addressed to the Freedom of 
@@ -610,8 +610,7 @@ Sec. 1002.1(f) of this chapter.
 
 
 <R05>
-Sec. 1001.4  Predisclosure notification procedures for confidential 
-commercial information.
+Sec. 1001.4  Predisclosure notification procedures for confidential commercial information.
 
     (a) In general. Confidential commercial information provided to the 
 Interstate Commerce Commission or the Board shall not be disclosed 
@@ -710,36 +709,35 @@ PART 1002_FEES--Table of Contents
 
 
 
-Sec.
+Sec. 
 1002.1 Fees for records search, review, copying, certification, and 
           related services.
 1002.2 Filing fees.
 1002.3 Updating user fees.
 
     Authority: 5 U.S.C. 552(a)(4)(A) and 553; 31 U.S.C. 9701; and 49 
-U.S.C. 721. Section 1002.1(g)(11) also issued under 5 U.S.C. 5514 and 31 
+U.S.C. 721. Sec. ion 1002.1(g)(11) also issued under 5 U.S.C. 5514 and 31 
 U.S.C. 3717.
 
 
 <R05>
-Sec. 1002.1  Fees for records search, review, copying, certification, 
-and related services.
+Sec. 1002.1  Fees for records search, review, copying, certification, and related services.
 
     Certifications and copies of such tariffs, reports and other public 
 records and documents on file with the Surface Transportation Board as 
 may be practicable to furnish, as well as searches and copying of 
 records not considered public under the Freedom of Information Act (5 
 U.S.C. 552), will be furnished on the following basis:
-    (a) Certificate of the Secretary, $13.00.
+    (a) Certificate of the Sec. etary, $14.00.
     (b) Service involved in examination of tariffs or schedules for 
 preparation of certified copies of tariffs or schedules or extracts 
-therefrom at the rate of $34.00 per hour.
+therefrom at the rate of $35.00 per hour.
     (c) Service involved in checking records to be certified to 
 determine authenticity, including clerical work, etc., incidental 
 thereto, at the rate of $24.00 per hour.
     (d) Photocopies of tariffs, reports, and other public documents, at 
-the rate of $1.10 per letter or legal size exposure. A minimum charge of 
-$5.50 will be made for this service.
+the rate of $1.20 per letter or legal size exposure. A minimum charge of 
+$6.00 will be made for this service.
     (e) Fees for courier services to transport agency records to provide 
 on-site access to agency records stored off-site
 
@@ -752,7 +750,7 @@ Information Officer, Suite 880, Surface Transportation Board,
 Washington, DC 20423-0001.
     (f) The fee for search and copying services requiring ADP processing 
 are as follows:
-    (1) A fee of $60.00 per hour for professional staff time will be 
+    (1) A fee of $62.00 per hour for professional staff time will be 
 charged when it is required to fulfill a request for ADP data.
     (2) Printing shall be charged at the rate of $.10 per page of 
 computer generated output with a minimum charge of $.25. A charge of $30 
@@ -802,25 +800,25 @@ follows:
 ------------------------------------------------------------------------
                             Grade                                Rate
 ------------------------------------------------------------------------
-GS-1........................................................      $10.08
-GS-2........................................................       10.98
-GS-3........................................................       12.37
-GS-4........................................................       13.89
-GS-5........................................................       15.54
-GS-6........................................................       17.32
-GS-7........................................................       19.25
-GS-8........................................................       21.32
-GS-9........................................................       23.55
-GS-10.......................................................       25.93
-GS-11.......................................................       28.49
-GS-12.......................................................       34.15
-GS-13.......................................................       40.61
-GS-14.......................................................       47.99
-GS-15 and over..............................................       56.45
+GS-1........................................................      $10.43
+GS-2........................................................       11.36
+GS-3........................................................       12.80
+GS-4........................................................       14.37
+GS-5........................................................       16.08
+GS-6........................................................       17.92
+GS-7........................................................       19.91
+GS-8........................................................       22.05
+GS-9........................................................       24.36
+GS-10.......................................................       26.82
+GS-11.......................................................       29.47
+GS-12.......................................................       35.32
+GS-13.......................................................       42.00
+GS-14.......................................................       49.64
+GS-15 and over..............................................       58.39
 ------------------------------------------------------------------------
 
-    (7) The fee for photocopies shall be $1.10 per letter or legal size 
-exposure with a minimum charge of $5.50.
+    (7) The fee for photocopies shall be $1.20 per letter or legal size 
+exposure with a minimum charge of $6.00.
     (8) The fees for ADP data are set forth in paragraph (f) of this 
 section.
     (9) If the cost of collecting any fee would be equal to or greater 
@@ -893,7 +891,7 @@ credit card in accordance with 49 CFR 1002.2(a)(3).
     (i) Transcript of testimony and of oral argument, or extracts 
 therefrom, may be purchased by the public from the Board's official 
 reporter. For information regarding the official reporter, contact the 
-Secretary, Surface Transportation Board, Washington, DC 20423.
+Sec. etary, Surface Transportation Board, Washington, DC 20423.
 
 [32 FR 20010, Dec. 20, 1967]
 
@@ -901,7 +899,7 @@ Secretary, Surface Transportation Board, Washington, DC 20423.
 
 
     Editorial Note: For Federal Register citations affecting Sec. 
-1002.1, see the List of CFR Sections Affected, which appears in the 
+1002.1, see the List of CFR Sec. ions Affected, which appears in the 
 Finding Aids section of the printed volume and on GPO Access.
 
 
@@ -917,10 +915,10 @@ documents submitted for recording (Item 83) may be charged to accounts
 established by the Board in accordance with paragraph (a)(2) of this 
 section.
     (2) Billing account procedure. Form STB-1032 must be submitted to 
-the Board's Section of Financial Services to establish STB billing 
+the Board's Sec. ion of Financial Services to establish STB billing 
 accounts for filing fees for tariffs and for documents submitted for 
 recording.
-    (3) Fees will be payable to the Secretary, Surface Transportation 
+    (3) Fees will be payable to the Sec. etary, Surface Transportation 
 Board, by check payable in United States currency drawn upon funds 
 deposited in a United States or foreign bank or other financial 
 institution, money order payable in United States currency, or by credit 
@@ -977,11 +975,11 @@ waivers or fee reductions in accordance with the following procedure:
     (i) When to request. At the time that a filing is submitted to the 
 Board the applicant may request a waiver or reduction of the fee 
 prescribed in this part. Such request should be addressed to the 
-Secretary.
+Sec. etary.
     (ii) Basis. The applicant must show the waiver or reduction of the 
 fee is in the best interest of the public, or that payment of the fee 
 would impose an undue hardship upon the requestor.
-    (iii) Board action. The Secretary will notify the applicant of the 
+    (iii) Board action. The Sec. etary will notify the applicant of the 
 decision to grant or deny the request for waiver or reduction.
     (f) Schedule of filing fees.
 
@@ -992,413 +990,382 @@ PART I: Non-Rail Applications or
  Proceedings to Enter Upon a Particular
  Financial Transaction or Joint
  Arrangement:
-    (1) An application for the pooling or    $3,600.
-     division of traffic.
-    (2) (i) An application involving the     $1,700.
-     purchase, lease, consolidation,
-     merger, or acquisition of control of a
-     motor carrier of passengers under 49
-     U.S.C. 14303.
-        (ii) A petition for exemption under  $2,600.
-         49 U.S.C. 13541 (other than a
-         rulemaking) filed by a non-rail
-         carrier not otherwise covered.
-        (iii) A petition to revoke an        $2,200.
-         exemption filed under 49 U.S.C.
-         13541(d).
-    (3) An application for approval of a     $22,500.
-     non-rail rate association agreement 49
-     U.S.C. 13703.
-    (4) An application for approval of an
-     amendment to a non- rail rate
-     association agreement:
-        (i) Significant amendment..........  $3,700.
-        (ii) Minor amendment...............  $80.
-    (5) An application for temporary         $400.
-     authority to operate a motor carrier
-     of passengers 49 U.S.C. 14303(i).
-    (6) A notice of exemption for            $1,400.
-     transaction within a motor passenger
-     corporate family that does not result
-     in adverse changes in service levels,
-     significant operational changes, or a
-     change in the competitive balance with
-     motor passenger carriers outside the
-     corporate family.
-    (7)-(10) [Reserved]
+(1) An application for the pooling or        $3,700
+ division of traffic.
+(2)(i) An application involving the          1,700
+ purchase, lease, consolidation, merger, or
+ acquisition of control of a motor carrier
+ of passengers under 49 U.S.C. 14303.
+    (ii) A petition for exemption under 49   2,700
+     U.S.C. 13541 (other than a rulemaking)
+     filed by a non-rail carrier not
+     otherwise covered.
+    (iii) A petition to revoke an exemption  2,200
+     filed under 49 U.S.C. 13541(d).
+(3) An application for approval of a non-    23,300
+ rail rate association agreement. 49 U.S.C.
+ 13703.
+(4) An application for approval of an
+ amendment to a non-rail rate association
+ agreement:
+    (i) Significant amendment..............  3,900
+    (ii) Minor amendment...................  80
+(5) An application for temporary authority   400
+ to operate a motor carrier of passengers.
+ 49 U.S.C. 14303(i).
+(6) A notice of exemption for transaction    1,400
+ within a motor passenger corporate family
+ that does not result in adverse changes in
+ service levels, significant operational
+ changes, or a change in the competitive
+ balance with motor passenger carriers
+ outside the corporate family.
+(7)-(10) [Reserved]
 PART II: Rail Licensing Proceedings other
  than Abandonment or Discontinuance
  Proceedings:
-    (11) (i) An application for a            $5,900.
-     certificate authorizing the extension,
-     acquisition, or operation of lines of
-     railroad 49 U.S.C. 10901.
-        (ii) Notice of exemption under 49    $1,500.
-         CFR 1150.31-1150.35.
-        (iii) Petition for exemption under   $10,200.
-         49 U.S.C. 10502.
-    (12) (i) An application involving the    $60,800.
-     construction of a rail line.
-        (ii) A notice of exemption           $1,500.
-         involving construction of a rail
-         line under 49 CFR 1150.36.
-        (iii) A petition for exemption       $60,800.
-         under 49 U.S.C. 10502 involving
-         construction of a rail line.
-        (iv) A request for determination of  $200.
-         a dispute involving a rail
-         construction that crosses the line
-         of another carrier under 49 U.S.C.
-         10902(d).
-    (13) A Feeder Line Development Program   $2,600.
-     application filed under 49 U.S.C.
-     10907(b)(1)(A)(i) or
-     10907(b)(1)(A)(ii).
-    (14) (i) An application of a class II    $5,100.
-     or class III carrier to acquire an
-     extended or additional rail line under
-     49 U.S.C. 10902.
-        (ii) Notice of exemption under 49    $1,500.
-         CFR 1150.41--1150.45.
-        (iii) Petition for exemption under   $5,400.
-         49 U.S.C. 10502 relating to an
-         exemption from the provisions of
-         49 U.S.C. 10902.
-    (15) A notice of a modified certificate  $1,400.
-     of public convenience and necessity
-     under 49 CFR 1150.21-1150.24.
-    (16)-(20) [Reserved]                     ...........................
+(11)(i) An application for a certificate     6,100
+ authorizing the extension, acquisition, or
+ operation of lines of railroad. 49 U.S.C.
+ 10901.
+    (ii) Notice of exemption under 49 CFR    1,500
+     1150.31-1150.35.
+    (iii) Petition for exemption under 49    10,600
+     U.S.C. 10502.
+(12)(i) An application involving the         62,900
+ construction of a rail line.
+    (ii) A notice of exemption involving     1,500
+     construction of a rail line under 49
+     CFR 1150.36.
+    (iii) A petition for exemption under 49  62,900
+     U.S.C. 10502 involving construction of
+     a rail line.
+    (iv) A request for determination of a    200
+     dispute involving a rail construction
+     that crosses the line of another
+     carrier under 49 U.S.C. 10902(d).
+(13) A Feeder Line Development Program       2,600
+ application filed under 49 U.S.C.
+ 10907(b)(1)(A)(i) or 10907(b)(1)(A)(ii).
+(14)(i) An application of a class II or      5,200
+ class III carrier to acquire an extended
+ or additional rail line under 49 U.S.C.
+ 10902.
+    (ii) Notice of exemption under 49 CFR    1,500
+     1150.41-1150.45.
+    (iii) Petition for exemption under 49    5,600
+     U.S.C. 10502 relating to an exemption
+     from the provisions of 49 U.S.C. 10902.
+(15) A notice of a modified certificate of   1,400
+ public convenience and necessity under 49
+ CFR 1150.21-1150.24.
+(16)-(20) [Reserved]
 PART III: Rail Abandonment or
  Discontinuance of Transportation Services
  Proceedings:
-    (21) (i) An application for authority    $18,100.
-     to abandon all or a portion of a line
-     of railroad or discontinue operation
-     thereof filed by a railroad (except
-     applications filed by Consolidated
-     Rail Corporation pursuant to the
-     Northeast Rail Service Act [Subtitle E
-     of Title XI of Pub. L. 97-35],
-     bankrupt railroads, or exempt
-     abandonments).
-        (ii) Notice of an exempt             $3,000.
-         abandonment or discontinuance
-         under 49 CFR 1152.50.
-        (iii) A petition for exemption       $5,200.
-         under 49 U.S.C. 10502.
-    (22) An application for authority to     $350.
-     abandon all or a portion of a line of
-     a railroad or operation thereof filed
-     by Consolidated Rail Corporation
-     pursuant to Northeast Rail Service
-     Act..
-    (23) Abandonments filed by bankrupt      $1,500.
-     railroads.
-    (24) A request for waiver of filing      $1,400.
-     requirements for abandonment
-     application proceedings.
-    (25) An offer of financial assistance    $1,200.
-     under 49 U.S.C. 10904 relating to the
-     purchase of or subsidy for a rail line
-     proposed for abandonment.
-    (26) A request to set terms and          $18,400.
-     conditions for the sale of or subsidy
-     for a rail line proposed to be
-     abandoned.
-    (27) (i) A request for a trail use       $200.
-     condition in an abandonment proceeding
-     under 16 U.S.C. 1247(d).
-    (ii) A request to extend the period to   $350.
+(21)(i) An application for authority to      18,700
+ abandon all or a portion of a line of
+ railroad or discontinue operation thereof
+ filed by a railroad (except applications
+ filed by Consolidated Rail Corporation
+ pursuant to the Northeast Rail Service Act
+ [Subtitle E of Title XI of Pub. L. 97-35],
+ bankrupt railroads, or exempt
+ abandonments).
+    (ii) Notice of an exempt abandonment or  3,100
+     discontinuance under 49 CFR 1152.50.
+    (iii) A petition for exemption under 49  5,300
+     U.S.C. 10502.
+(22) An application for authority to         400
+ abandon all or a portion of a line of a
+ railroad or operation thereof filed by
+ Consolidated Rail Corporation pursuant to
+ Northeast Rail Service Act.
+(23) Abandonments filed by bankrupt          1,600
+ railroads.
+(24) A request for waiver of filing          1,500
+ requirements for abandonment application
+ proceedings.
+(25) An offer of financial assistance under  1,300
+ 49 U.S.C. 10904 relating to the purchase
+ of or subsidy for a rail line proposed for
+ abandonment.
+(26) A request to set terms and conditions   19,100
+ for the sale of or subsidy for a rail line
+ proposed to be abandoned.
+(27)(i) A request for a trail use condition  200
+ in an abandonment proceeding under 16
+ U.S.C.1247(d).
+    (ii) A request to extend the period to   350
      negotiate a trail use agreement.
-    (28)-(35) [Reserved]
+(28)-(35) [Reserved]
 PART IV: Rail Applications to Enter Upon a
  Particular Financial Transaction or Joint
  Arrangement:
-    (36) An application for use of terminal  $15,400.
-     facilities or other applications under
-     49 U.S.C. 11102.
-    (37) An application for the pooling or   $8,300.
-     division of traffic. 49 U.S.C. 11322.
-    (38) An application for two or more
-     carriers to consolidate or merge their
-     properties or franchises (or a part
-     thereof) into one corporation for
-     ownership, management, and operation
-     of the properties previously in
-     separate ownership. 49 U.S.C. 11324:
-        (i) Major transaction..............  $1,216,900.
-        (ii) Significant transaction.......  $243,400.
+(36) An application for use of terminal      16,000
+ facilities or other applications under 49
+ U.S.C. 11102.
+(37) An application for the pooling or       8,600
+ division of traffic. 49 U.S.C. 11322.
+(38) An application for two or more
+ carriers to consolidate or merge their
+ properties or franchises (or a part
+ thereof) into one corporation for
+ ownership, management, and operation of
+ the properties previously in separate
+ ownership. 49 U.S.C. 11324:
+    (i) Major transaction..................  1,257,600
+    (ii) Significant transaction...........  251,500
+    (iii) Minor transaction................  6,500
+    (iv) Notice of an exempt transaction     1,400
+     under 49 CFR 1180.2(d).
+    (v) Responsive application.............  6,500
 
 [[Page 16]]
 
  
-        (iii) Minor transaction............  $6,300.
-        (iv) Notice of an exempt             $1,400.
-         transaction under 49 CFR 1180.2(d).
-        (v) Responsive application.........  $6,300.
-        (vi) Petition for exemption under    $7,600.
-         49 U.S.C. 10502.
-        (vii) A request for waiver or        $4,500.
-         clarification of regulations filed
-         in a major financial proceeding as
-         defined at 49 CFR 1180.2(a).
-    (39) An application of a non-carrier to
-     acquire control of two or more
-     carriers through ownership of stock or
-     otherwise. 49 U.S.C. 11324:
-        (i) Major transaction..............  $1,216,900.
-        (ii) Significant transaction.......  $243,400.
-        (iii) Minor transaction............  $6,300.
-        (iv) A notice of an exempt           $1,100.
-         transaction under 49 CFR 1180.2(d).
-        (v) Responsive application.........  $6,300.
-        (vi) Petition for exemption under    $7,600.
-         49 U.S.C. 10502.
-        (vii) A request for waiver or        $4,500.
-         clarification of regulations filed
-         in a major financial proceeding as
-         defined at 49 CFR 118.02(a).
-    (40) An application to acquire trackage
-     rights over, joint ownership in, or
-     joint use of any railroad lines owned
-     and operated by any other carrier and
-     terminals incidental thereto. 49
-     U.S.C. 11324:
-        (i) Major transaction..............  $1,216,900.
-        (ii) Significant transaction.......  $243,400.
-        (iii) Minor transaction............  $6,300.
-        (iv) Notice of an exempt             $1,000.
-         transaction under 49 CFR 118.02(d).
-        (v) Responsive application.........  $6,300.
-        (vi) Petition for exemption under    $7,600.
-         49 U.S.C. 10502.
-        (vii) A request for waiver or        $4,500.
-         clarification of regulations filed
-         in a major financial proceeding as
-         defined at 49 CFR 118.02(a).
-    (41) An application of a carrier or
-     carriers to purchase, lease, or
-     contract to operate the properties of
-     another, or to acquire control of
-     another by purchase of stock or
-     otherwise. 49 U.S.C. 11324:
-        (i) Major transaction..............  $1,216,900.
-        (ii) Significant transaction.......  $243,400.
-        (iii) Minor transaction............  $6,300.
-        (iv) Notice of an exempt             $1,100.
-         transaction under 49 CFR 118.02(d).
-        (v) Responsive application.........  $6,300.
-        (vi) Petition for exemption under    $5,400.
-         49 U.S.C. 10502.
-        (vii) A request for waiver or        $4,500.
-         clarification of regulations filed
-         in a major financial proceeding as
-         defined at 49 CFR 118.02(a).
-    (42) Notice of a joint project           $2,000.
-     involving relocation of a rail line
-     under 49 CFR 118.02(d)(5).
-    (43) An application for approval of a    $56,900.
-     rail rate association agreement. 49
-     U.S.C. 10706.
-    (44) An application for approval of an
-     amendment to a rail rate association
-     agreement. 49 U.S.C. 10706:
-        (i) Significant amendment..........  $10,500.
-        (ii) Minor amendment...............  $80.
-    (45) An application for authority to     $600.
-     hold a position as officer or director
-     under 49 U.S.C. 11328.
-    (46) A petition for exemption under 49   $6,500.
-     U.S.C. 10502 (other than a rulemaking)
-     filed by rail carrier not otherwise
-     covered.
-    (47) National Railroad Passenger         $200.
-     Corporation (Amtrak) conveyance
-     proceeding under 45 U.S.C. 562.
-    (48) National Railroad Passenger         $200.
-     Corporation (Amtrak) compensation
-     proceeding under Section 402(a) of the
-     Rail Passenger Service Act.
-    (49)-(55) [Reserved]
+    (vi) Petition for exemption under 49     7,900
+     U.S.C. 10502.
+    (vii) A request for waiver or            4,600
+     clarification of regulations filed in
+     a major financial proceeding as
+     defined at 49 CFR 1180.2(a).
+(39) An application of a non-carrier to
+ acquire control of two or more carriers
+ through ownership of stock or otherwise.
+ 49 U.S.C. 11324:
+    (i) Major transaction..................  1,257,600
+    (ii) Significant transaction...........  251,500
+    (iii) Minor transaction................  6,500
+    (iv) A notice of an exempt transaction   1,100
+     under 49 CFR 1180.2(d).
+    (v) Responsive application.............  6,500
+    (vi) Petition for exemption under 49     7,900
+     U.S.C. 10502.
+    (vii) A request for waiver or            4,600
+     clarification of regulations filed in
+     a major financial proceeding as
+     defined at 49 CFR 1180.2(a).
+(40) An application to acquire trackage
+ rights over, joint ownership in, or joint
+ use of any railroad lines owned and
+ operated by any other carrier and
+ terminals incidental thereto. 49 U.S.C.
+ 11324:
+    (i) Major transaction..................  1,257,600
+    (ii) Significant transaction...........  251,500
+    (iii) Minor transaction................  6,500
+    (iv) Notice of an exempt transaction     1,000
+     under 49 CFR 1180.2(d).
+    (v) Responsive application.............  6,500
+    (vi) Petition for exemption under 49     7,900
+     U.S.C. 10502.
+    (vii) A request for waiver or            4,600
+     clarification of regulations filed in
+     a major financial proceeding as
+     defined at 49 CFR 1180.2(a).
+(41) An application of a carrier or
+ carriers to purchase, lease, or contract
+ to operate the properties of another, or
+ to acquire control of another by purchase
+ of stock or otherwise. 49 U.S.C. 11324:
+    (i) Major transaction..................  1,257,600
+    (ii) Significant transaction...........  251,500
+    (iii) Minor transaction................  6,500
+    (iv) Notice of an exempt transaction     1,200
+     under 49 CFR 1180.2(d).
+    (v) Responsive application.............  6,500
+    (vi) Petition for exemption under 49     5,600
+     U.S.C. 10502.
+    (vii) A request for waiver or            4,600
+     clarification of regulations filed in
+     a major financial proceeding as
+     defined at 49 CFR 1180.2(a).
+(42) Notice of a joint project involving     2,000
+ relocation of a rail line under 49 CFR
+ 1180.2(d)(5).
+(43) An application for approval of a rail   58,800
+ rate association agreement. 49 U.S.C.
+ 10706.
+(44) An application for approval of an
+ amendment to a rail rate association
+ agreement. 49 U.S.C. 10706:
+    (i) Significant amendment..............  10,900
+    (ii) Minor amendment...................  80
+(45) An application for authority to hold a  650
+ position as officer or director under 49
+ U.S.C. 11328.
+(46) A petition for exemption under 49       6,700
+ U.S.C. 10502 (other than a rulemaking)
+ filed by rail carrier not otherwise
+ covered.
+(47) National Railroad Passenger             200
+ Corporation (Amtrak) conveyance proceeding
+ under 45 U.S.C. 562.
+(48) National Railroad Passenger             200
+ Corporation (Amtrak) compensation
+ proceeding under Sec. ion 402(a) of the
+ Rail Passenger Service Act.
+(49)-(55) [Reserved]
 PART V: Formal Proceedings:
-    (56) A formal complaint alleging
-     unlawful rates or practices of
-     carriers:
-        (i) A formal complaint filed under   $102,000.
-         the coal rate guidelines (Stand-
-         Alone Cost Methodology) alleging
-         unlawful rates and/or practices of
-         rail carriers under 49 U.S.C.
-         10704(c)(1).
-        (ii) A formal complaint involving    $150.
-         rail maximum rates filed under the
-         small rate case procedures.
-        (iii) All other formal complaints    $10,100.
-         (except competitive access
-         complaints).
-        (iv) Competitive access complaints.  $150.
-        (v) A request for an order           $200.
-         compelling a rail carrier to
-         establish a common carrier rate.
-    (57) A complaint seeking or a petition   $7,200.
-     requesting institution of an
-     investigation seeking the prescription
-     or division of joint rates or charges.
-     49 U.S.C. 10705.
-    (58) A petition for declaratory order:
-        (i) A petition for declaratory       $1,000.
-         order involving a dispute over an
-         existing rate or practice which is
-         comparable to a complaint
-         proceeding.
-        (ii) All other petitions for         $1,400.
-         declaratory order.
-    (59) An application for shipper          $5,700.
-     antitrust immunity. 49 U.S.C.
-     10706(a)(5)(A).
-    (60) Labor arbitration proceedings.....  $200.
-    (61) (i) An appeal of a Surface          $200.
-     Transportation Board decision on the
-     merits or petition to revoke an
-     exemption pursuant to 49 U.S.C.
-     10502(d).
-        (ii) An appeal of a Surface          $300.
-         Transportation Board decision on
-         procedural matters except
-         discovery rulings.
-    (62) Motor carrier undercharge           $200.
-     proceedings.
-    (63) (i) Expedited relief for service    $200.
-     inadequacies: A request for expedited
-     relief under 49 U.S.C. 11123 and 49
-     CFR part 1146 for service emergency.
-        (ii) Expedited relief for service    $200.
-         inadequacies: A request for
-         temporary relief under 49 U.S.C.
-         10705 and 11102, and 49 CFR part
-         1147 for service inadequacies.
+(56) A formal complaint alleging unlawful
+ rates or practices of carriers:
+    (i) A formal complaint filed under the   140,600
+     coal rate guidelines (Stand-Alone Cost
+     Methodology) alleging unlawful rates
+     and/or practices of rail carriers
+     under 49 U.S.C. 10704(c)(1).
+    (ii) A formal complaint involving rail   150
+     maximum rates filed under the small
+     rate case procedures.
+    (iii) All other formal complaints        13,900
+     (except competitive access complaints).
+    (iv) Competitive access complaints.....  150
+    (v) A request for an order compelling a  200
+     rail carrier to establish a common
+     carrier rate.
+(57) A complaint seeking or a petition       7,400
+ requesting institution of an investigation
+ seeking the prescription or division of
+ joint rates or charges. 49 U.S.C. 10705.
+(58) A petition for declaratory order:
+    (i) A petition for declaratory order     1,000
+     involving a dispute over an existing
+     rate or practice which is comparable
+     to a complaint proceeding.
+    (ii) All other petitions for             1,400
+     declaratory order.
+(59) An application for shipper antitrust    5,900
+ immunity. 49 U.S.C. 10706(a)(5)(A).
+(60) Labor arbitration proceedings.........  200
+(61)(i) An appeal of a Surface               200
+ Transportation Board decision on the
+ merits or petition to revoke an exemption
+ pursuant to 49 U.S.C. 10502(d).
+    (ii) An appeal of a Surface              300
+     Transportation Board decision on
+     procedural matters except discovery
+     rulings.
+(62) Motor carrier undercharge proceedings.  200
+(63)(i) Expedited relief for service         200
+ inadequacies: A request for expedited
+ relief under 49 U.S.C. 11123 and 49 CFR
+ part 1146 for service emergency.
+    (ii) Expedited relief for service        200
+     inadequacies: A request for temporary
+     relief under 49 U.S.C. 10705 and
+     11102, and 49 CFR part 1147 for
+     service inadequacies.
+(64) A request for waiver or clarification   500
+ of regulations except one filed in an
+ abandonment or discontinuance proceeding,
+ or in a major financial proceeding as
+ defined at 49 CFR 1180.2(a).
+(65)-(75) [Reserved]
+PART VI: Informal Proceedings:
 
 [[Page 17]]
 
  
-    (64) A request for waiver or             $450.
-     clarification of regulations except
-     one filed in an abandonment or
-     discontinuance proceeding, or in a
-     major financial proceeding as defined
-     at 49 CFR 1180.2(a).
-    (65)-(75) [Reserved]
-PART VI: Informal Proceedings:
-    (76) An application for authority to     $1,000.
-     establish released value rates or
-     ratings for motor carriers and freight
-     forwarders of household goods under 49
-     U.S.C. 14706.
-    (77) An application for special          $100.
-     permission for short notice or the
-     waiver of other tariff publishing
-     requirements.
-    (78) The filing of tariffs, including    $1 per page.
-     supplements, or contract summaries.
-                                             ($20 minimum charge.)
-    (79) Special docket applications from
-     rail and water carriers:
-        (i) Applications involving $25,000   $50.
-         or less.
-        (ii) Applications involving over     $100.
-         $25,000.
-    (80) Informal complaint about rail rate  $450.
-     applications.
-    (81) Tariff reconciliation petitions
-     from motor common carriers:
-        (i) Petitions involving $25,000 or   $50.
-         less.
-        (ii) Petitions involving over        $100.
-         $25,000.
-    (82) Request for a determination of the  $200.
-     applicability or reasonableness of
-     motor carrier rates under 49 U.S.C.
-     13710(a)(2) and (3).
-    (83) Filing of documents for             $33 per document.
-     recordation. 49 U.S.C. 11301 and 49
-     CFR 1177.3(c)..
-    (84) Informal opinions about rate        $200.
-     applications (all modes).
-    (85) A railroad accounting               $900.
-     interpretation.
-    (86) (i) A request for an informal       $1,200.
-     opinion not otherwise covered.
-        (ii) A proposal to use on a voting   $4,100.
-         trust agreement pursuant to 49 CFR
-         1013 and 49 CFR 1180.4(b)(4)(iv)
-         in connection with a major control
-         proceeding as defined at 49 CFR
-         1180.2(a).
-        (iii) A request for an informal      $400.
-         opinion on a voting trust
-         agreement pursuant to 49 CFR
-         1013.3(a) not otherwise covered.
-    (87) Arbitration of Certain Disputes
-     Subject to the Statutory Jurisdiction
-     of the Surface Transportation Board
-     under 49 CFR 1108:
-        (i) Complaint......................  $75.
-    (ii) Answer (per defendant), Unless      $75.
+(76) An application for authority to         1,000
+ establish released value rates or ratings
+ for motor carriers and freight forwarders
+ of household goods under 49 U.S.C. 14706.
+(77) An application for special permission   100
+ for short notice or the waiver of other
+ tariff publishing requirements.
+(78) The filing of tariffs, including        $1 per page
+ supplements, or contract summaries.         ($20 minimum charge).
+(79) Special docket applications from rail
+ and water carriers:
+    (i) Applications involving $25,000 or    50
+     less.
+    (ii) Applications involving over         100
+     $25,000.
+(80) Informal complaint about rail rate      500
+ applications.
+(81) Tariff reconciliation petitions from
+ motor common carriers:
+    (i) Petitions involving $25,000 or less  50
+    (ii) Petitions involving over $25,000..  100
+(82) Request for a determination of the      200
+ applicability or reasonableness of motor
+ carrier rates under 49 U.S.C. 13710(a)(2)
+ and (3).
+(83) Filing of documents for recordation.    $34 per document.
+ 49 U.S.C. 11301 and 49 CFR 1177.3(c).
+(84) Informal opinions about rate            200
+ applications (all modes).
+(85) A railroad accounting interpretation..  950
+(86)(i) A request for an informal opinion    1,200
+ not otherwise covered.
+    (ii) A proposal to use on a voting       4,300
+     trust agreement pursuant to 49 CFR
+     1013 and 49 CFR 1180.4(b)(4)(iv) in
+     connection with a major control
+     proceeding as defined at 49 CFR
+     1180.2(a).
+    (iii) A request for an informal opinion  400
+     on a voting trust agreement pursuant
+     to 49 CFR 1013.3(a) not otherwise
+     covered.
+(87) Arbitration of Certain Disputes
+ Subject to the Statutory Jurisdiction of
+ the Surface Transportation Board under 49
+ CFR 1108:
+    (i) Complaint..........................  75
+    (ii) Answer (per defendant), Unless      75
      Declining to Submit to Any Arbitration.
-        (iii) Third Party Complaint........  $75.
-        (iv) Third Party Answer (per         $75.
-         defendant), Unless Declining to
-         Submit to Any Arbitration.
-        (v) Appeals of Arbitration           $150.
-         Decisions or Petitions to Modify
-         or Vacate an Arbitration Award.
-    (88) Basic fee for STB adjudicatory      $200.
-     services not otherwise covered.
-    (89)-(95) [Reserved]
+    (iii) Third Party Complaint............  75
+    (iv) Third Party Answer (per             75
+     defendant), Unless Declining to Submit
+     to Any Arbitration.
+    (v) Appeals of Arbitration Decisions or  150
+     Petitions to Modify or Vacate an
+     Arbitration Award.
+(88) Basic fee for STB adjudicatory          200
+ services not otherwise covered.
+(89)-(95) [Reserved]
 PART VII: Services:
-    (96) Messenger delivery of decision to   $26 per delivery.
-     a railroad carrier's Washington, DC
-     agent.
-    (97) Request for service or pleading     $19 per list.
-     list for proceedings.
-    (98) Processing the paperwork related
-     to a request for the Carload Waybill
-     Sample to be used in a Surface
-     Transportation Board or State
-     proceeding that:
-        (i) Does not require a Federal
-         Register notice:
-        (a) Set cost portion...............  $100.
-        (b) Sliding cost portion...........  $38 per party.
-        (ii) Does require a Federal
-         Register notice:.
-        (a) Set cost portion...............  $350.
-        (b) Sliding cost portion...........  $38 per party.
-    (99) (i) Application fee for the         $150.
-     Surface Transportation Board's
-     Practitioners' Exam.
-        (ii) Practitioners' Exam             $25.
-         Information Package.
-    (100) Uniform Railroad Costing System
-     (URCS) software and information:
-        (i) Initial PC version URCS Phase    $50.
-         III software program and manual.
-        (ii) Updated URCS PC version Phase   $25 per year.
-         III cost file--per year.
-        (iii) Public requests for Source     $100.
-         Codes to the PC version URCS Phase
-         III.
-    (101) Carload Waybill Sample data on
-     recordable compact disk (R-CD):
-        (i) Requests for Public Use File on  $250 per year.
-         R-CD--per year.
-        (ii) Waybill--Surface                $500 per year.
-         Transportation Board or State
-         proceedings on R-CD--per year.
-        (iii) User Guide for latest          $50.
-         available Carload Waybill Sample.
-        (iv) Specialized programming for     $90 per hour.
-         Waybill requests to the Board.
+(96) Messenger delivery of decision to a     $27 per delivery.
+ railroad carrier's Washington, DC, agent.
+(97) Request for service or pleading list    $20 per list.
+ for proceedings.
+(98) Processing the paperwork related to a
+ request for the Carload Waybill Sample to
+ be used in a Surface Transportation Board
+ or State proceeding that:
+    (i) Does not require a Federal Register
+     notice:
+        (a) Set cost portion...............  100
+        (b) Sliding cost portion...........  $39 per party.
+    (ii) Does require a Federal Register
+     notice:
+        (a) Set cost portion...............  350
+        (b) Sliding cost portion...........  $39 per party.
+(99)(i) Application fee for the Surface      150
+ Transportation Board's Practitioners' Exam.
+    (ii) Practitioners' Exam Information     25
+     Package.
+(100) Uniform Railroad Costing System
+ (URCS) software and information:
+    (i) Initial PC version URCS Phase III    50
+     software program and manual.
+    (ii) Updated URCS PC version Phase III   $25 per year.
+     cost file--per year.
+    (iii) Public requests for Source Codes   100
+     to the PC version URCS Phase III.
+(101) Carload Waybill Sample data on
+ recordable compact disk (R-CD):
+    (i) Requests for Public Use File on R-   $250 per year.
+     CD--per year.
+    (ii) Waybill--Surface Transportation     $500 per year.
+     Board or State proceedings on R-CD--
+     per year.
+    (iii) User Guide for latest available    50
+     Carload Waybill Sample.
+    (iv) Specialized programming for         $93 per hour.
+     Waybill requests to the Board.
 ------------------------------------------------------------------------
 
     (g) Returned check policy. (1) If a check submitted to the Board for 
@@ -1408,22 +1375,22 @@ check that:
     (i) All work will be suspended on the filing or proceeding, other 
 than a tariff filing, until the check is made good;
     (ii) A returned check charge of $20.00 and any bank charges incurred 
-by the Board as a result of the dishonored
-
-[[Page 18]]
-
-check must be submitted with the filing fee which is outstanding; and
+by the Board as a result of the dishonored check must be submitted with 
+the filing fee which is outstanding; and
     (iii) If payment is not made within the time specified by the Board, 
 the proceeding will be dismissed or the filing may be rejected.
     (2) If a person repeatedly submits dishonored checks to the Board 
-for filing fees, the Board may notify the person that all future filing 
-fees must be submitted in the form of a certified or cashier's check or 
-a money order.
+for filing fees, the Board may notify the person
+
+[[Page 18]]
+
+that all future filing fees must be submitted in the form of a certified 
+or cashier's check or a money order.
 
 [49 FR 18492, May 1, 1984]
 
     Editorial Note: For Federal Register citations affecting Sec. 
-1002.2, see the List of CFR Sections affected, which appears in the 
+1002.2, see the List of CFR Sec. ions affected, which appears in the 
 Finding Aids section of the printed volume and on GPO Access.
 
 
@@ -1499,15 +1466,14 @@ Sec. 1003.1  General information.
     (a) Printed forms are prescribed for various applications under the 
 Interstate Commerce Act and the Board's regulations contained in this 
 chapter.
-
-[[Page 19]]
-
     (b) All prescribed forms include instructions for their completion.
     (c) Copies of all prescribed forms except insurance forms are 
-available upon request from the Office of the Secretary, Surface 
+available upon request from the Office of the Sec. etary, Surface 
 Transportation Board, Washington, DC 20423.
 
 [57 FR 41112, Sept. 9, 1992, as amended at 64 FR 53266, Oct. 1, 1999]
+
+[[Page 19]]
 
 
 <R03>
@@ -1516,7 +1482,7 @@ PART 1004_INTERPRETATIONS AND ROUTING REGULATIONS--Table of Contents
 
 
 
-Sec.
+Sec. 
 1004.1 Gifts, donations, and hospitality by carriers.
 1004.2 Misrouting, adjustment of claims.
 
@@ -1556,13 +1522,14 @@ instruction. Damages caused by misrouting are not overcharges.
 
 <R03>
 PART 1005_PRINCIPLES AND PRACTICES FOR THE INVESTIGATION AND VOLUNTARY 
-DISPOSITION OF LOSS AND DAMAGE CLAIMS AND PROCESSING SALVAGE--Table of 
-Contents
+DISPOSITION OF LOSS AND DAMAGE CLAIMS AND PROCESSING SALVAGE--
+
+Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1005.1 Applicability of regulations.
 1005.2 Filing of claims.
 1005.3 Acknowledgment of claims.
@@ -1603,13 +1570,13 @@ thereto.
     (b) Minimum filing requirements. A written or electronic 
 communication (when agreed to by the carrier and shipper or receiver 
 involved) from a claimant, filed with a proper carrier within the time 
-limits specified in the
+limits specified in the bill of lading or contract of carriage or 
+transportation and: (1) Containing facts sufficient to identify the 
+baggage or shipment (or shipments) of property, (2) asserting liability 
+for alleged loss,
 
 [[Page 20]]
 
-bill of lading or contract of carriage or transportation and: (1) 
-Containing facts sufficient to identify the baggage or shipment (or 
-shipments) of property, (2) asserting liability for alleged loss, 
 damage, injury, or delay, and (3) making claim for the payment of a 
 specified or determinable amount of money, shall be considered as 
 sufficient compliance with the provisions for filing claims embraced in 
@@ -1677,14 +1644,14 @@ shipping orders, delivery receipts, tally sheets, and all other
 pertinent records made with respect to the transportation of the 
 shipment on which claim is made, is available for examination upon 
 receipt of a claim; (2) that all such records and documents (or true and 
-complete reproductions thereof) are in
+complete reproductions thereof) are in fact examined in the course of 
+the investigation of the claim (and an appropriate record is made that 
+such examination has in fact taken place); and (3)
 
 [[Page 21]]
 
-fact examined in the course of the investigation of the claim (and an 
-appropriate record is made that such examination has in fact taken 
-place); and (3) that such procedures prevent the duplicate or otherwise 
-unlawful payment of claims.
+that such procedures prevent the duplicate or otherwise unlawful payment 
+of claims.
 
 [37 FR 4258, Mar. 1, 1972, as amended at 37 FR 20943, Oct. 10, 1972; 47 
 FR 12803, Mar. 25, 1982]
@@ -1808,13 +1775,13 @@ comparison of net weights at origin and destination.
 
 
 <R03>
-PART 1007_RECORDS CONTAINING INFORMATION ABOUT INDIVIDUALS--Table of 
-Contents
+PART 1007_RECORDS CONTAINING INFORMATION ABOUT INDIVIDUALS--
+Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1007.1 Purpose and scope.
 1007.2 Definitions.
 1007.3 Requests by an individual for information or access.
@@ -1975,8 +1942,7 @@ Information Act.
 
 
 <R05>
-Sec. 1007.5  Disclosure of requested information to individuals; fees 
-for copies of records.
+Sec. 1007.5  Disclosure of requested information to individuals; fees for copies of records.
 
     (a) Any individual who has requested access to his or her record or 
 to any information pertaining to that individual in the manner 
@@ -2243,8 +2209,7 @@ accounting of disclosures was maintained.
 
 
 <R05>
-Sec. 1007.10  Information supplied by the Board when collecting 
-information from an individual.
+Sec. 1007.10  Information supplied by the Board when collecting information from an individual.
 
     The Board will inform each individual whom it asks to supply 
 information, on the form which it uses to collect the information or on 
@@ -2349,7 +2314,7 @@ PART 1011_BOARD ORGANIZATION; DELEGATIONS OF AUTHORITY--Table of Contents
 
 
 
-Sec.
+Sec. 
 1011.1 General.
 1011.2 The Board.
 1011.3 The Chairman, Vice Chairman, and Board Member.
@@ -2454,7 +2419,7 @@ subject to the approval of the Board. All heads of offices report to the
 Chairman.
     (c)(1) The Chairman presides at all sessions of the Board and sees 
 that every vote and official act of the Board required by law to be 
-recorded is accurately and promptly recorded by the Secretary or the 
+recorded is accurately and promptly recorded by the Sec. etary or the 
 person designated by the Board for that purpose.
     (2) Regular sessions of the Board are provided for by Board 
 regulations. The Chairman may call the Board into special session to 
@@ -2621,16 +2586,16 @@ them.
 authority to dispose of routine procedural matters in proceedings 
 assigned for handling under modified procedure, other than those 
 assigned to an administrative law judge or a Board Member, is assigned 
-to the Secretary of the Board. The Secretary shall also have authority, 
+to the Sec. etary of the Board. The Sec. etary shall also have authority, 
 unless otherwise ordered by the Chairman or by a majority of the Board 
 in individual proceedings, to decide whether complaint proceedings shall 
 be handled under the modified procedure or be assigned for oral 
-hearings. In carrying out these duties, the Secretary shall consult, as 
+hearings. In carrying out these duties, the Sec. etary shall consult, as 
 necessary, with the General Counsel and the Director of any Board office 
 to which an individual proceeding has been assigned.
     (d) Except as provided at 49 CFR 1113.3(b)(1), authority to dismiss 
 a complaint on complainant's request, or an application on applicant's 
-request, is delegated to the Secretary.
+request, is delegated to the Sec. etary.
     (e) Authority to grant or deny access to waybills and to statistics 
 reported under orders of the Board is delegated to the Director of the 
 Office of Economics, Environmental Analysis, and Administration.
@@ -2638,9 +2603,9 @@ Office of Economics, Environmental Analysis, and Administration.
 parts 1200 through 1207, require Board approval to use. Authority to 
 grant or deny requests for use of these accounts is delegated to the 
 Director and Associate Director of the Office of Economics, 
-Environmental Analysis, and Administration and the Chief of the Section 
+Environmental Analysis, and Administration and the Chief of the Sec. ion 
 of Economics.
-    (g) The Secretary of the Board is delegated authority, under the 
+    (g) The Sec. etary of the Board is delegated authority, under the 
 Regulatory Flexibility Act, 5 U.S.C. 601, et seq., to:
     (1) Sign and transmit to the Small Business Administration 
 certifications of no significant economic effect for proposed rules, 
@@ -2660,19 +2625,18 @@ the Director of the Office of Proceedings.
 
 
 <R05>
-Sec. 1011.7  Delegations of authority by the Board to specific offices 
-of the Board.
+Sec. 1011.7  Delegations of authority by the Board to specific offices of the Board.
 
-    (a) The Secretary. The Secretary of the Board is delegated the 
+    (a) The Sec. etary. The Sec. etary of the Board is delegated the 
 following authority:
     (1) Whether (in consultation with involved Offices) to waive filing 
 fees set forth at 49 CFR 1002.2(f).
     (2) To issue, on written request, informal opinions and 
 interpretations (exclusive of informal opinions and interpretations on 
 carrier tariff provisions), which are not binding on the Board. In 
-issuing informal opinions or interpretations, the Secretary shall 
+issuing informal opinions or interpretations, the Sec. etary shall 
 consult with the Director of the appropriate Board office. Such requests 
-must be directed to the Secretary, Surface Transportation Board, 
+must be directed to the Sec. etary, Surface Transportation Board, 
 Washington, DC 20423. Authority to issue informal opinions and 
 interpretations on carrier tariff provisions is delegated at paragraph 
 (c)(2) of this section to the Office of Compliance and Enforcement.
@@ -2722,7 +2686,7 @@ part 1151.
 preservation reporting requirements, to issue a decision, under 49 CFR 
 1105.10(g), making a finding of no significant impact where no 
 environmental or historic preservation issues have been raised by any 
-party or identified by the Board's Section of Environmental Analysis.
+party or identified by the Board's Sec. ion of Environmental Analysis.
     (10) Whether to issue notices of exemption under 49 U.S.C. 10502:
     (i) For acquisition, lease, and operation transactions under 49 
 U.S.C. 10901 and 10902 and the implementing regulations at 49 CFR part 
@@ -2763,14 +2727,14 @@ and Enforcement is delegated the authority to:
 filed with the Board that violate applicable statutes, rules, or 
 regulations. Any rejection of a tariff or contract summary may be by 
 letter signed by or for the Director, Office of Compliance and 
-Enforcement, or the Chief, Section of Tariffs, Office of Compliance and 
+Enforcement, or the Chief, Sec. ion of Tariffs, Office of Compliance and 
 Enforcement.
     (2) Issue, on written request, informal opinions and interpretations 
 on carrier tariff provisions, which are not binding on the Board.
     (3) Grant or withhold special tariff authority granting relief from 
 the provisions of 49 CFR part 1312. Any grant or withholding of such 
 relief may be by letter signed by or for the Director, Office of 
-Compliance and Enforcement, or the Chief, Section of Tariffs, Office of 
+Compliance and Enforcement, or the Chief, Sec. ion of Tariffs, Office of 
 Compliance and Enforcement.
     (4) Resolve any disputes that may arise concerning the applicability 
 of motor common carrier rates under 49 U.S.C. 13710(a)(2).
@@ -2786,7 +2750,7 @@ PART 1012_MEETINGS OF THE BOARD--Table of Contents
 
 
 
-Sec.
+Sec. 
 1012.1 General provisions.
 1012.2 Time and place of meetings.
 1012.3 Public notice.
@@ -2831,7 +2795,7 @@ action taken by notation voting will be made available, as soon as
 possible after the date upon which the action taken is made public or 
 any decision or order adopted is served, in a public reading room or 
 other easily accessible place within the Board, or upon written request 
-to the Secretary of the Board.
+to the Sec. etary of the Board.
 
 [42 FR 13796, Mar. 11, 1977, as amended at 64 FR 53266, 53267, Oct. 1, 
 1999]
@@ -2871,7 +2835,7 @@ Sec. 1012.3  Public notice.
     (a) Unless a majority of the Board determines that such information 
 is exempt from disclosure under the Act, public notice of the scheduling 
 of a meeting will be given by filing a copy of the notice with the 
-Secretary of the Board for posting and for service on all parties of 
+Sec. etary of the Board for posting and for service on all parties of 
 record in any proceeding which is the subject of the meeting or any 
 other person who has requested notice with respect to meetings of the 
 Board, and by submitting a copy of the notice for publication in the 
@@ -3109,7 +3073,7 @@ Contents
 
 
 
-Sec.
+Sec. 
 1013.1 The independence of the trustee of a voting trust.
 1013.2 The irrevocability of the trust.
 1013.3 Review and reporting requirements for regulated carriers.
@@ -3179,7 +3143,7 @@ carrier.
     (b) Any person who establishes an independent trust for the receipt 
 of the voting stock of carrier must file a copy of the trust, along with 
 any auxiliary or modifying documents, with the Board.
-    (c) Any carrier required to file a Schedule 13D with the Securities 
+    (c) Any carrier required to file a Schedule 13D with the Sec. rities 
 and Exchange Board (17 CFR 240.13d-1) which reports the purchase of 5 
 percent or more of the registered securities of another I.C.C. regulated 
 carrier (or the listed shares of a company controlling 10 percent or 
@@ -3199,12 +3163,13 @@ transportation policy.
 <R03>
 PART 1014_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN 
 PROGRAMS OR ACTIVITIES CONDUCTED BY THE SURFACE TRANSPORTATION BOARD
+
 --Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1014.101 Purpose.
 1014.102 Application.
 1014.103 Definitions.
@@ -3340,7 +3305,7 @@ and
     (4) Qualified handicapped person is defined for purposes of 
 employment in 29 CFR 1613.702(f), which is made applicable to this part 
 by Sec. 1014.140.
-    Section 504 means section 504 of the Rehabilitation Act of 1973 
+    Sec. ion 504 means section 504 of the Rehabilitation Act of 1973 
 (Pub. L. 93-112, 87 Stat. 394 (29 U.S.C. 794)), as amended by the 
 Rehabilitation Act Amendments of 1974 (Pub. L. 93-516, 88 Stat. 1617), 
 and the Rehabilitation, Comprehensive Services, and Developmental 
@@ -3668,7 +3633,7 @@ part 1613 pursuant to section 501 of the Rehabilitation Act of 1973 (29
 U.S.C. 791).
     (c) The Equal Opportunity Officer shall be responsible for 
 coordinating implementation of this section. Complaints may be sent to 
-the Section of Personnel Services, Surface Transportation Board, 
+the Sec. ion of Personnel Services, Surface Transportation Board, 
 Washington, DC 20423.
     (d) The agency shall accept and investigate all complete complaints 
 for which it has jurisdiction. All complete complaints must be filed 
@@ -3717,7 +3682,7 @@ Sec. Sec. 1014.171-1014.999  [Reserved]
 
 
 <R03>
-PART 1016_SPECIAL PROCEDURES GOVERNING THE RECOVERY OF EXPENSES BY 
+PART 1016_SPECIAL PROCEDURES GOVERNING THE RECOVERY OF EXPENSES BY
 PARTIES TO BOARD ADJUDICATORY PROCEEDINGS--Table of Contents
 
 
@@ -3725,7 +3690,7 @@ PARTIES TO BOARD ADJUDICATORY PROCEEDINGS--Table of Contents
 
                       Subpart A_General Provisions
 
-Sec.
+Sec. 
 1016.101 Purpose of these rules.
 1016.102 When the Act applies.
 1016.103 Proceedings covered.
@@ -4210,7 +4175,7 @@ appropriate official of the paying agency a copy of the Board's final
 decision granting the award, accompanied by a statement that the 
 applicant will not seek review of the decision in the United States 
 courts. Where the award is granted against the Surface Transportation 
-Board the applicant shall make its submission to the Secretary, Surface 
+Board the applicant shall make its submission to the Sec. etary, Surface 
 Transportation Board, Washington, DC 20423. The Board will pay the 
 amount awarded to the applicant within 60 days of the applicant's 
 submission unless the judicial review of the award or of the underlying 
@@ -4225,7 +4190,7 @@ AND FORMER GOVERNMENT EMPLOYEES--Table of Contents
 
 
 
-Sec.
+Sec. 
 1017.1 Purpose and scope.
 1017.2 Definitions.
 1017.3 Applicability.
@@ -4269,7 +4234,7 @@ debts to the Board and to current Board employees who owe debts to other
 Federal agencies. The regulations set forth herein do not apply when the 
 employee consents to recovery from his/her current pay account.
     (c) These regulations do not apply to debts or claims arising under:
-    (1) The Social Security Act;
+    (1) The Social Sec. rity Act;
     (2) The Internal Revenue Code of 1954;
     (3) The tariff laws of the United States; or
     (4) Any case where a collection of a debt by salary offset is 
@@ -4351,7 +4316,7 @@ Sec. 1017.4  Notice requirements.
 
     (a) Deductions shall not be made unless the employee is provided 
 with written notice, signed by the debt collection official (Chief, 
-Section of Financial Services), of the debt at least 30 days before 
+Sec. ion of Financial Services), of the debt at least 30 days before 
 administrative offset commences.
     (b) The written notice to current Federal employees shall be hand 
 delivered if at headquarters or sent certified mail, return receipt 
@@ -4455,7 +4420,7 @@ promptly refunded to the former employee.
 Sec. 1017.5  Hearing procedures.
 
     (a) Upon the Administrative Law Judge's determination of an 
-employee's compliance with Sec. 1017.4(b)(8) or Sec. 1017.4(c)(7) of 
+employee's compliance with Sec. Sec. 1017.4(b)(8) or 1017.4(c)(7) of 
 this part, whichever is applicable, he/she shall set the time, date, and 
 location for the hearing, paying due consideration to convenience to the 
 employee.
@@ -4532,8 +4497,7 @@ accordance with procedures prescribed by GAO.
 
 
 <R05>
-Sec. 1017.8  Exception to entitlement to notice, hearing, written 
-responses and final decisions.
+Sec. 1017.8  Exception to entitlement to notice, hearing, written responses and final decisions.
 
     The Board shall except from the provisions of Sec. 1017.4 through 
 Sec. 1017.7 any adjustment to pay arising out of an employee's election 
@@ -4545,7 +4509,7 @@ was accumulated over four pay periods or less.
 <R05>
 Sec. 1017.9  Coordinating offset with another Federal agency.
 
-    (a) The Board as creditor agency. When the Chief, Section of 
+    (a) The Board as creditor agency. When the Chief, Sec. ion of 
 Financial Services, determines that an employee of another Federal 
 agency owes a delinquent debt to the Board, he/she shall:
     (1) Arrange for a hearing upon proper petitioning by the employee;
@@ -4575,7 +4539,7 @@ regulations, and procedures of OPM; and
     (iii) The Board has complied with the requirements of 4 CFR 102.3, 
 including any hearing or review; and
     (6) If the employee has already separated and all payments due from 
-the paying agency have been paid, the Chief, Section of Financial 
+the paying agency have been paid, the Chief, Sec. ion of Financial 
 Services, may request from OPM, unless otherwise prohibited, that money 
 payable to the employee from the Civil Service Retirement and Disability 
 Fund or other similar funds be collected by administrative offset and 
@@ -4663,7 +4627,7 @@ Sec. 1017.14  Interest, penalties, and administrative costs.
 
     (a) The rate of interest assessed shall be the rate of the current 
 value of funds to the U.S. Treasury (i.e., the Treasury tax and loan 
-account rate), as prescribed and published by the Secretary of the 
+account rate), as prescribed and published by the Sec. etary of the 
 Treasury in the Federal Register and the Treasury Financial Manual 
 Bulletins. A higher rate of interest can be assessed if the Board can 
 reasonably determine that a higher rate is necessary to protect the 
@@ -4700,7 +4664,7 @@ PART 1018_DEBT COLLECTION--Table of Contents
 
                    Subpart A_Application and Coverage
 
-Sec.
+Sec. 
 1018.1 Application.
 1018.2 Definitions.
 1018.3 Communications.
@@ -4832,7 +4796,7 @@ collection assessed against the debtor.
 Sec. 1018.3  Communications.
 
     Unless otherwise specified, all communications concerning the 
-regulations in this part should be addressed to Chief, Section of 
+regulations in this part should be addressed to Chief, Sec. ion of 
 Financial Services, Surface Transportation Board, room 1330, Washington, 
 DC 20423.
 
@@ -5226,7 +5190,7 @@ debtor owns equity, the
 [[Page 63]]
 
 debtor may be asked to secure the payment of an installment note by 
-executing a Security Agreement and Financial Statement transferring to 
+executing a Sec. rity Agreement and Financial Statement transferring to 
 the United States a security interest in the assets until the debt is 
 discharged.
     (2) If the debtor owes more than one debt and designates how a 
@@ -5237,7 +5201,7 @@ various debts in accordance with the best interest of the United States
 as determined by the facts and circumstances of the particular case.
     (c) To whom payment is made. Payment of a debt is made by check, 
 money order, or credit card payable to the Surface Transportation Board 
-and mailed or delivered to the Section of Financial Services, Surface 
+and mailed or delivered to the Sec. ion of Financial Services, Surface 
 Transportation Board, Washington, DC 20423, unless payment is:
     (1) Made pursuant to arrangements with the GAO or DOJ;
     (2) Ordered by a Court of the United States; or
@@ -5334,7 +5298,7 @@ Sec. 1018.33  Use and disclosure of mailing addresses.
 
     (a) When attempting to locate a debtor in order to collect or 
 compromise a debt under this part, the Board may send a written request 
-to the Secretary of the Treasury (or designee) in order to obtain a 
+to the Sec. etary of the Treasury (or designee) in order to obtain a 
 debtor's mailing address from the records of the Internal Revenue 
 Service.
     (b) The Board may disclose a mailing address obtained under 
@@ -5725,13 +5689,13 @@ decision which sustains or amends its original determination.
 
 
 <R03>
-PART 1019_REGULATIONS GOVERNING CONDUCT OF SURFACE TRANSPORTATION BOARD 
+PART 1019_REGULATIONS GOVERNING CONDUCT OF SURFACE TRANSPORTATION BOARD
 EMPLOYEES--Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1019.1 Cross-reference to employee ethical conduct standards and 
           financial disclosure regulations.
 1019.2 Interpretation and advisory service.
@@ -5746,8 +5710,7 @@ Sec.
 
 
 <R05>
-Sec. 1019.1  Cross-reference to employee ethical conduct standards and 
-financial disclosure regulations.
+Sec. 1019.1  Cross-reference to employee ethical conduct standards and financial disclosure regulations.
 
     Members and employees of the Surface Transportation Board also 
 should refer to the executive branch Standards of Ethical Conduct at 5 
@@ -5816,17 +5779,12 @@ Sec. 1019.6  Disciplinary and other remedial action.
 be cause for appropriate disciplinary or other remedial action as 
 provided in the STB's Manual of Administration 22-751, which may be in 
 addition to any penalty prescribed by law. The manual is available from 
-the Section of Personnel Services, Surface Transportation Board, 
+the Sec. ion of Personnel Services, Surface Transportation Board, 
 Washington, DC 20423.
 
 [58 FR 42027, Aug. 6, 1993, as amended at 64 FR 53267, Oct. 1, 1999]
 
-
-
-Parts 1021-1029_Enforcement--Table of Contents
-
-
-
+                       Parts 1021	1029_Enforcement
 
 
 <R03>
@@ -5836,7 +5794,7 @@ Contents
 
 
 
-Sec.
+Sec. 
 1021.1 Standards.
 1021.2 Enforcement claims and debtors.
 1021.3 Enforcement collection designee.
@@ -5882,14 +5840,16 @@ Federal Claims Collection Act of 1966.
 
 [45 FR 31374, May 13, 1980, as amended at 64 FR 53267, Oct. 1, 1999]
 
-[[Page 70]]
-
 
 <R05>
 Sec. 1021.4  Notice of claim and demand.
 
     Initiation of administrative collection of enforcement claims will 
-be commenced by the enforcement collection designee mailing a letter of 
+be
+
+[[Page 70]]
+
+commenced by the enforcement collection designee mailing a letter of 
 notice of claim and demand to the debtor. Such letter will state the 
 statutory basis for the claim, a brief resume of the factual basis for 
 the claim, the amount of the claim, and indicate the availability of the 
@@ -5923,12 +5883,7 @@ promissory note containing an agreement for judgment.
 Transportation Board,'' and after receipt will be forwarded to U.S. 
 Treasury.
 
-
-
-Parts 1030-1039_Carriers Subject to Part I, Interstate Commerce Act--Table of Contents
-
-
-
+   Parts 1030	1039_Carriers Subject to Part I, Interstate Commerce Act
 
 
 <R03>
@@ -5937,7 +5892,7 @@ PART 1033_CAR SERVICE--Table of Contents
 
 
 
-Sec.
+Sec. 
 1033.1 Car hire rates.
 1033.2 Car service orders.
 
@@ -5980,14 +5935,15 @@ determined as follows:
     (1) Except as provided in paragraph (b)(3) of this section, for a 
 10-year period beginning January 1, 1993, the prescribed rates shall 
 continue to apply to fixed rate cars without regard to the aging of such 
-cars subsequent to December 31, 1990. Prescribed car hire
+cars subsequent to December 31, 1990. Prescribed car hire rates shall 
+not be increased for any additions and betterments performed on such 
+cars after December 31, 1990. Any OT-37 surcharge to prescribed rates 
+for
 
 [[Page 71]]
 
-rates shall not be increased for any additions and betterments performed 
-on such cars after December 31, 1990. Any OT-37 surcharge to prescribed 
-rates for work performed prior to January 1, 1993 shall expire upon the 
-earlier of:
+work performed prior to January 1, 1993 shall expire upon the earlier 
+of:
     (i) The car becoming a market rate car; or
     (ii) The expiration date provided in Association of American 
 Railroads Circular No. OT-37.
@@ -6056,12 +6012,11 @@ dispute resolution process established under those rules.
 that agreement may be resolved by the Board.
     (d) Car hire agreements. Rail carriers are authorized to negotiate 
 and enter into agreements governing car hire.
-
-[[Page 72]]
-
     (e) Effective date. This part shall take effect on January 1, 1994.
 
 [58 FR 60144, Nov. 15, 1993]
+
+[[Page 72]]
 
 
 <R05>
@@ -6144,14 +6099,11 @@ PART 1035_BILLS OF LADING--Table of Contents
 
 
 
-Sec.
+Sec. 
 1035.1 Requirement for certain forms of bills of lading.
 1035.2 Modification of front of uniform bill of lading.
 
 Appendix A to Part 1035--Uniform Straight Bill of Lading
-
-[[Page 73]]
-
 Appendix B to Part 1035--Contract Terms and Conditions
 
     Authority: 49 U.S.C. 721, 11706, 14706.
@@ -6159,7 +6111,11 @@ Appendix B to Part 1035--Contract Terms and Conditions
     Source: 58 FR 60797, Nov. 18, 1993, unless otherwise noted.
 
     Cross References: For interstate transportation of livestock, see 9 
-CFR parts 71-77. For lading and unlading of vessels, see 19 CFR part 4.
+CFR parts 71-77.
+
+[[Page 73]]
+
+For lading and unlading of vessels, see 19 CFR part 4.
 
 
 <R05>
@@ -6266,10 +6222,6 @@ Container Initials/Number_______________________________________________
 
 Length__________________________________________________________________
 
-
-[[Page 74]]
-
-________________________________________________________________________
 Plan____________________________________________________________________
 
 Length__________________________________________________________________
@@ -6277,13 +6229,17 @@ Length__________________________________________________________________
 Plan____________________________________________________________________
 
 
+[[Page 74]]
+
+________________________________________________________________________
+
 ----------------------------------------------------------------------------------------------------------------
                            Description of
                          articles, special    *Weight      Class or      Check
       No. packages           marks, and     (subject to      rate        column
                              exceptions     correction)
 ----------------------------------------------------------------------------------------------------------------
-.......................  .................  ...........  ...........  ...........  Subject to Section 7 of
+.......................  .................  ...........  ...........  ...........  Subject to Sec. ion 7 of
                                                                                     conditions, if this shipment
                                                                                     is to be delivered to the
                                                                                     consignee without recourse
@@ -6366,29 +6322,29 @@ prove freedom from such negligence shall be on the carrier or party in
 possession), the carrier or party in possession shall not be liable for 
 loss, damage, or delay occurring while the property is stopped and held 
 in transit upon the request of the shipper, owner, or party entitled to 
-make such request, or resulting from
+make such request, or resulting from a defect or vice in the property, 
+or for country damage to cotton, or from riots or strikes.
+    (c) In case of quarantine the property may be discharged at risk and 
+expense of owners
 
 [[Page 75]]
 
-a defect or vice in the property, or for country damage to cotton, or 
-from riots or strikes.
-    (c) In case of quarantine the property may be discharged at risk and 
-expense of owners into quarantine depot or elsewhere, as required by 
-quarantine regulations or authorities, or for the carrier's dispatch at 
-nearest available point in carrier's judgment, and in any such case 
-carrier's responsibility shall cease when property is so discharged, or 
-property may be returned by carrier at owner's expense to shipping 
-point, earning freight both ways. Quarantine expenses of whatever nature 
-or kind upon or in respect to property shall be borne by the owners of 
-the property or be a lien thereon. The carrier shall not be liable for 
-loss or damage occasioned by fumigation or disinfection or other acts 
-required or done by quarantine regulations or authorities even though 
-the same may have been done by carrier's officers, agents, or employees, 
-nor for detention, loss, or damage of any kind occasioned by quarantine 
-or the enforcement thereof. No carrier shall be liable, except in case 
-of negligence, for any mistake or inaccuracy in any information 
-furnished by the carrier, its agents, or officers, as to quarantine laws 
-or regulations. The shipper shall hold the carriers harmless from any 
+into quarantine depot or elsewhere, as required by quarantine 
+regulations or authorities, or for the carrier's dispatch at nearest 
+available point in carrier's judgment, and in any such case carrier's 
+responsibility shall cease when property is so discharged, or property 
+may be returned by carrier at owner's expense to shipping point, earning 
+freight both ways. Quarantine expenses of whatever nature or kind upon 
+or in respect to property shall be borne by the owners of the property 
+or be a lien thereon. The carrier shall not be liable for loss or damage 
+occasioned by fumigation or disinfection or other acts required or done 
+by quarantine regulations or authorities even though the same may have 
+been done by carrier's officers, agents, or employees, nor for 
+detention, loss, or damage of any kind occasioned by quarantine or the 
+enforcement thereof. No carrier shall be liable, except in case of 
+negligence, for any mistake or inaccuracy in any information furnished 
+by the carrier, its agents, or officers, as to quarantine laws or 
+regulations. The shipper shall hold the carriers harmless from any 
 expense they may incur, or damages they may be required to pay, by 
 reason of the introduction of the property covered by this contract into 
 any place against the quarantine laws or regulations in effect at such 
@@ -6455,23 +6411,24 @@ storage.
 destination hereunder is refused by consignee or the party entitled to 
 receive it, or said consignee or party entitled to receive it fails to 
 receive it within 15 days after notice of arrival shall have been duly 
-sent or given, the carrier may sell the same at public auction to the
-
-[[Page 76]]
-
+sent or given, the carrier may sell the same at public auction to the 
 highest bidder, at such place as may be designated by the carrier: 
 Provided, That the carrier shall have first mailed, sent, or given to 
 the consignor notice that the property has been refused or remains 
-unclaimed, as the case may be, and that it will be subject to sale under 
-the terms of the bill of lading if disposition be not arranged for, and 
-shall have published notice containing a description of the property, 
-the name of the party to whom consigned, or, if shipped order notify, 
-the name of the party to be notified, and the time and place of sale, 
-once a week for two successive weeks, in a newspaper of general 
-circulation at the place of sale or nearest place where such newspaper 
-is published: Provided, That 30 days shall have elapsed before 
-publication of notice of sale after said notice that the property was 
-refused or remains unclaimed was mailed, sent, or given.
+unclaimed, as the
+
+[[Page 76]]
+
+case may be, and that it will be subject to sale under the terms of the 
+bill of lading if disposition be not arranged for, and shall have 
+published notice containing a description of the property, the name of 
+the party to whom consigned, or, if shipped order notify, the name of 
+the party to be notified, and the time and place of sale, once a week 
+for two successive weeks, in a newspaper of general circulation at the 
+place of sale or nearest place where such newspaper is published: 
+Provided, That 30 days shall have elapsed before publication of notice 
+of sale after said notice that the property was refused or remains 
+unclaimed was mailed, sent, or given.
     (c) Where perishable property which has been transported hereunder 
 to destination is refused by consignee or party entitled to receive it, 
 or said consignee or party entitled to receive it shall fail to receive 
@@ -6546,14 +6503,14 @@ beneficial owner is, such consignee shall himself be liable for such
 additional charges. On shipments reconsigned or diverted by an agent who 
 has furnished the carrier in the reconsignment or diversion order with a 
 notice of agency and the proper name and address of the beneficial 
-owner, and where such
+owner, and where such shipments are refused or abandoned at ultimate 
+destination, the said beneficial owner shall be liable for all legally 
+applicable charges in connection therewith. If the reconsignor or 
+diverter has given to the carrier
 
 [[Page 77]]
 
-shipments are refused or abandoned at ultimate destination, the said 
-beneficial owner shall be liable for all legally applicable charges in 
-connection therewith. If the reconsignor or diverter has given to the 
-carrier erroneous information as to who the beneficial owner is, such 
+erroneous information as to who the beneficial owner is, such 
 reconsignor or diverter shall himself be liable for all such charges.
     If a shipper or consignor of a shipment of property (other than a 
 prepaid shipment) is also the consignee named in the bill of lading and, 
@@ -6635,27 +6592,27 @@ of saving life or property, and for docking and repairs. Except in case
 of negligence such carrier shall not be responsible for any loss or 
 damage to property if it be necessary or is usual to carry the same upon 
 deck.
-
-[[Page 78]]
-
     (d) General Average shall be payable according to the York-Antwerp 
 Rules of 1924, sections 1 to 15, inclusive, and sections 17 to 22, 
 inclusive, and as to matters not covered thereby according to the laws 
 and usages of the Port of New York. If the owners shall have exercised 
-due diligence to make the vessel in all respects seaworthy and properly 
-manned, equipped and supplied, it is hereby agreed that in case of 
-danger, damage or disaster resulting from faults or errors in 
-navigation, or in the management of the vessel, or from any latent or 
-other defects in the vessel, her machinery or appurtenance, or from 
-unseaworthiness, whether existing at the time of shipment or at the 
-beginning of the voyage (provided the latent or other defects or the 
-unseaworthiness was not discoverable by the exercise of due diligence), 
-the shippers, consignees and/or owners of the cargo shall nevertheless 
-pay salvage and any special charges incurred in respect of the cargo, 
-and shall contribute with the shipowner in general average to the 
-payment of any sacrifices, losses or expenses of a general average 
-nature that may be made or incurred for the common benefit or to relieve 
-the adventure from any common peril.
+due diligence to make the
+
+[[Page 78]]
+
+vessel in all respects seaworthy and properly manned, equipped and 
+supplied, it is hereby agreed that in case of danger, damage or disaster 
+resulting from faults or errors in navigation, or in the management of 
+the vessel, or from any latent or other defects in the vessel, her 
+machinery or appurtenance, or from unseaworthiness, whether existing at 
+the time of shipment or at the beginning of the voyage (provided the 
+latent or other defects or the unseaworthiness was not discoverable by 
+the exercise of due diligence), the shippers, consignees and/or owners 
+of the cargo shall nevertheless pay salvage and any special charges 
+incurred in respect of the cargo, and shall contribute with the 
+shipowner in general average to the payment of any sacrifices, losses or 
+expenses of a general average nature that may be made or incurred for 
+the common benefit or to relieve the adventure from any common peril.
     (e) If the property is being carried under a tariff which provides 
 that any carrier or carriers party thereto shall be liable for loss from 
 perils of the sea, then as to such carrier or carriers the provisions of 
@@ -6673,13 +6630,13 @@ tenor.
 
 
 <R03>
-PART 1037_BULK GRAIN AND GRAIN PRODUCTS_LOSS AND DAMAGE CLAIMS--Table 
-of Contents
+PART 1037_BULK GRAIN AND GRAIN PRODUCTS_LOSS AND DAMAGE CLAIMS--
+Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1037.1 Weights and weighing.
 1037.2 Cars.
 1037.3 Claims.
@@ -6723,29 +6680,30 @@ filed on the shipment, the consignee shall furnish the carrier with whom
 the claim is filed certificates of weight showing the car initials and 
 number; the kind of grain or grain products; the total scale weight; the 
 type and house number of the scale used; the number of drafts and weight 
-of each draft, and the date and time of weighing; and whether the
+of each draft, and the date and time of weighing; and whether the weight 
+is official, board-of-trade, grain-exchange, State, or other supervised 
+weight. This information should be furnished at the time the claim is 
+filed.
+    (e) A difference in weights at origin and destination, both of which 
+are based on supervised scales, establishes prima facie that the loss 
+occurred in
 
 [[Page 79]]
 
-weight is official, board-of-trade, grain-exchange, State, or other 
-supervised weight. This information should be furnished at the time the 
-claim is filed.
-    (e) A difference in weights at origin and destination, both of which 
-are based on supervised scales, establishes prima facie that the loss 
-occurred in transit and that the railroad is liable. When a difference 
-in weights is based in part on an unsupervised weight, which 
-nevertheless, was accepted by the railroad as the basis for assessing 
-freight charges, such unsupervised weight in combination with a 
-supervised weight establishes prima facie that the loss occurred in 
-transit and the railroad is liable. When a difference in weights is 
-based in part on an unsupervised weight, with the above exception, a 
-prima facie case of railroad liability for loss in transit has not been 
-established. Such difference in weights is a factor, however, to be 
-considered in connection with other evidence that a clear-record car 
-arrived at destination with seals intact and unbroken or that the 
-shipper made a written complaint that any car placed for loading was 
-defective, in response to which the railroad filed a written report 
-after investigation of the complaint. See paragraph (c) of Sec. 1037.3.
+transit and that the railroad is liable. When a difference in weights is 
+based in part on an unsupervised weight, which nevertheless, was 
+accepted by the railroad as the basis for assessing freight charges, 
+such unsupervised weight in combination with a supervised weight 
+establishes prima facie that the loss occurred in transit and the 
+railroad is liable. When a difference in weights is based in part on an 
+unsupervised weight, with the above exception, a prima facie case of 
+railroad liability for loss in transit has not been established. Such 
+difference in weights is a factor, however, to be considered in 
+connection with other evidence that a clear-record car arrived at 
+destination with seals intact and unbroken or that the shipper made a 
+written complaint that any car placed for loading was defective, in 
+response to which the railroad filed a written report after 
+investigation of the complaint. See paragraph (c) of Sec. 1037.3.
 
 
 <R05>
@@ -6803,16 +6761,13 @@ PART 1039_EXEMPTIONS--Table of Contents
 
 
 
-Sec.
+Sec. 
 1039.10 Exemption of agricultural commodities except grain, soybeans, 
           and sunflower seeds.
 1039.11 Miscellaneous commodities exemptions.
 1039.12 Long and short haul transportation exemption.
 1039.13 Rail intermodal transportation exemption.
 1039.14 Boxcar transportation exemptions and rules.
-
-[[Page 80]]
-
 1039.16 Exemption of new highway trailers or containers.
 1039.17 Protective service contracts exemption.
 1039.20 Storage leases.
@@ -6820,14 +6775,17 @@ Sec.
 1039.22 Exemption of certain payments, services, and commitments from 
           the Elkins Act and related provisions.
 
+
+[[Page 80]]
+
+
     Authority: 49 U.S.C. 10502, 13301.
 
     Source: 47 FR 50262, Nov. 5, 1982, unless otherwise noted.
 
 
 <R05>
-Sec. 1039.10  Exemption of agricultural commodities except grain, 
-soybeans, and sunflower seeds.
+Sec. 1039.10  Exemption of agricultural commodities except grain, soybeans, and sunflower seeds.
 
     The rail transportation of the commodities listed below is exempt 
 from the provisions of subtitle IV of title 49, except that carriers 
@@ -6946,10 +6904,6 @@ cited, and shall embrace all commodities assigned additional digits.
                                                       20 911 Cottonseed
                                                        oil, crude or
                                                        refined.
-
-[[Page 81]]
-
- 
                                                       20 914 Cottonseed
                                                        cake or meal or
                                                        by-products.
@@ -6968,6 +6922,10 @@ cited, and shall embrace all commodities assigned additional digits.
                                                        products.
 25..............................  ......do..........  Furniture or
                                                        fixtures.
+
+[[Page 81]]
+
+ 
 26..............................  ......do..........  Pulp, paper or
                                                        allied products
                                                        except
@@ -7199,10 +7157,6 @@ cited, and shall embrace all commodities assigned additional digits.
                                                        gunny, istle
                                                        (ixtle), jute, or
                                                        sisal, NEC.
-
-[[Page 82]]
-
- 
 41115...........................  ......do..........  Articles, used,
                                                        returned for
                                                        repair or
@@ -7221,6 +7175,10 @@ cited, and shall embrace all commodities assigned additional digits.
                                                        route used in
                                                        loaded movement,
                                                        and so certified.
+
+[[Page 82]]
+
+ 
 42112...........................  ......do..........  Nonrevenue
                                                        movement of
                                                        shipping devices,
@@ -7285,7 +7243,7 @@ Sec. 1039.12  Long and short haul transportation exemption.
 the provisions of 49 U.S.C. 10726 to the extent that:
     (1) Board approval or consideration before the effective date of 
 these rates and charges is not required; and
-    (2) Section 10707 will not apply to rates to the extent that they 
+    (2) Sec. ion 10707 will not apply to rates to the extent that they 
 are challenged on the basis of alleged violations of section 10726.
     (b) This exemption does not extend to review by the Board upon the 
 filing of a formal complaint alleging a violation of section 10726. 
@@ -7315,9 +7273,6 @@ from the provisions of 49 U.S.C. subtitle IV except as otherwise
 provided in this section.
     (b) The Board retains jurisdiction in the following areas:
     (1) Car hire and car service.
-
-[[Page 83]]
-
     (2) Mandatory interchange of equipment.
     (3) Reciprocal switching or joint use of terminal facilities.
     (4) Car supply.
@@ -7329,6 +7284,9 @@ this section.
     (c)(1) Except as provided in paragraph (c)(2) of this section, 
 carriers are authorized to take the following actions with respect to 
 boxcar equipment use:
+
+[[Page 83]]
+
     (i) Assess charges for empty movement of cars where movements are 
 made at the request of the car owner, the Association of American 
 Railroads, or the Board. The empty mileage charge is subject to a 
@@ -7388,9 +7346,6 @@ the car hire rates for such cars.
 to traffic moving by boxcar and originating or terminating at an 
 industry facility served physically by a Class III rail carrier may 
 discriminate while these rules are in effect on the basis of:
-
-[[Page 84]]
-
     (i) The ownership of the boxcar used or the reporting marks any such 
 boxcar bears;
     (ii) The car hire rate applicable to the boxcar used; or
@@ -7400,9 +7355,12 @@ available to any carriers with respect to the boxcar used.
 Except as prohibited above, carriers may use car ownership or car marks 
 for identification purposes when establishing rates.
     (5) The provisions of 49 U.S.C. 10705 and 10705a applicable to joint 
-rates and through routes will be effective as to rates and routes 
-applicable to boxcar traffic originating or terminating at an industry 
-facility served physically by a Class III rail carrier.
+rates and through routes will be effective as to
+
+[[Page 84]]
+
+rates and routes applicable to boxcar traffic originating or terminating 
+at an industry facility served physically by a Class III rail carrier.
     (6) The following carriers are not regarded as Class III or 
 unaffiliated Class II carriers for the purpose of this section:
 
@@ -7480,13 +7438,9 @@ modified or revoked by a subsequent order of this Board.
 
 
 <R05>
-Sec. 1039.22  Exemption of certain payments, services, and commitments 
-from the Elkins Act and related provisions.
+Sec. 1039.22  Exemption of certain payments, services, and commitments from the Elkins Act and related provisions.
 
     (a) Whenever a rail carrier:
-
-[[Page 85]]
-
     (1) Provides payments or services for industrial development 
 activities; or,
     (2) Makes commitments regarding future transportation;
@@ -7497,11 +7451,14 @@ would not be eligible for inclusion in rail contracts under 49 U.S.C.
 10762(a)(1), 11902, 11903, and 11904(a), subject to the conditions set 
 forth in paragraphs (b) through (e) of this section.
     (b) If any interested person(s) believes a transaction is eligible 
-for inclusion in one or more contracts under 49 U.S.C. 10713, that 
-person's exclusive remedy shall be to request the Board to so determine, 
-and if the Board does so, the transaction shall no longer be exempted by 
-this section commencing 60 days after the date of the Board's 
-determination.
+for inclusion in one or more contracts under
+
+[[Page 85]]
+
+49 U.S.C. 10713, that person's exclusive remedy shall be to request the 
+Board to so determine, and if the Board does so, the transaction shall 
+no longer be exempted by this section commencing 60 days after the date 
+of the Board's determination.
     (c) Transactions that are exempt under paragraph (a) of this section 
 shall be subject to all other applicable provisions of Title 49 U.S.C. 
 Subtitle IV and to the antitrust laws to the extent that the activity 
@@ -7526,14 +7483,9 @@ by a subsequent order of this Board.
 
 [57 FR 11913, Apr. 8, 1992]
 
-                       PARTS 1070-1079 [RESERVED]
+                       PARTS 1070	1079 [RESERVED]
 
-
-<R03>
-Parts 1090-1099_Intermodal Transportation--Table of Contents
-
-
-
+                Parts 1090	1099_Intermodal Transportation
 
 
 <R03>
@@ -7543,7 +7495,7 @@ CONTAINERIZED FREIGHT--Table of Contents
 
 
 
-Sec.
+Sec. 
 1090.1 Definition of TOFC/COFC service.
 1090.2 Exemption of rail and highway TOFC/COFC service.
 1090.3 Use of TOFC/COFC service by motor and water carriers.
@@ -7571,11 +7523,8 @@ service.
     (b) Highway TOFC/COFC service means the highway transportation, in 
 interstate or foreign commerce, of any of the types of equipment listed 
 in paragraph (a) of this section as part of a continuous intermodal 
-movement that includes rail TOFC/COFC service,
-
-[[Page 86]]
-
-and during which the trailer or container is not unloaded.
+movement that includes rail TOFC/COFC service, and during which the 
+trailer or container is not unloaded.
 
 [52 FR 23660, June 24, 1987]
 
@@ -7590,15 +7539,19 @@ a continuous intermodal freight movement is exempt from the requirements
 of 49 U.S.C. subtitle IV, regardless of the type, affiliation, or 
 ownership of the carrier performing the highway portion of the service. 
 Motor carrier TOFC/COFC pickup and delivery services arranged 
-independently with the shipper or receiver (or its representative/agent) 
-and performed immediately before or after a TOFC/COFC movement provided 
-by a rail carrier are similarly exempt. Tariffs heretofore applicable to 
-any transportation service exempted by this section shall no longer 
-apply to such service. The exemption does not apply to a motor carrier 
-service in which a rail carrier participates only as the motor carrier's 
-agent (Plan I TOFC/COFC), nor does the exemption operate to relieve any 
-carrier of any obligation it would otherwise have, absent the exemption, 
-with respect to providing contractual terms for liability and claims.
+independently with the shipper
+
+[[Page 86]]
+
+or receiver (or its representative/agent) and performed immediately 
+before or after a TOFC/COFC movement provided by a rail carrier are 
+similarly exempt. Tariffs heretofore applicable to any transportation 
+service exempted by this section shall no longer apply to such service. 
+The exemption does not apply to a motor carrier service in which a rail 
+carrier participates only as the motor carrier's agent (Plan I TOFC/
+COFC), nor does the exemption operate to relieve any carrier of any 
+obligation it would otherwise have, absent the exemption, with respect 
+to providing contractual terms for liability and claims.
 
 [54 FR 51746, Dec. 18, 1989]
 
@@ -7608,7 +7561,7 @@ Sec. 1090.3  Use of TOFC/COFC service by motor and water carriers.
 
     (a) Except as otherwise prohibited by these rules, motor and water 
 common and contract carriers may use rail TOFC/COFC service in the 
-preformance of all or any portion of their authorized service.
+performance of all or any portion of their authorized service.
     (b) Motor and water common carriers may use rail TOFC/COFC service 
 only if their tariff publications give notice that such service may be 
 used at their option, but that the right is reserved to the user of 
@@ -7631,12 +7584,7 @@ points between which TOFC/COFC service may be used.
 
 
 
-
-
-Parts 1100-1129_Rules of General Applicability--Table of Contents
-
-
-
+             Parts 1100	1129_Rules of General Applicability
 
 
 <R03>
@@ -7645,7 +7593,7 @@ PART 1100_GENERAL PROVISIONS--Table of Contents
 
 
 
-Sec.
+Sec. 
 1100.1 Scope of rules.
 1100.2 Applicability.
 1100.3 Liberal construction.
@@ -7668,7 +7616,7 @@ the ``Rules of Practice''.
 <R05>
 Sec. 1100.2  Applicability.
 
-    The rules in parts 1100--1129, Rules of General Applicability, 
+    The rules in parts 1100-1129, Rules of General Applicability, 
 establish general rules applicable to all types of proceedings. Other 
 rules in this subchapter establish special rules applicable to 
 particular types of proceedings. When there is a conflict or 
@@ -7689,8 +7637,8 @@ inexpensive determination of the issues presented.
 Sec. 1100.4  Information and inquiries.
 
     Persons with questions concerning these rules should either send a 
-written inquiry addressed to the Secretary, Surface Transportation Board 
-or should telephone the Secretary's Office.
+written inquiry addressed to the Sec. etary, Surface Transportation Board 
+or should telephone the Sec. etary's Office.
 
 [64 FR 53267, Oct. 1, 1999]
 
@@ -7701,7 +7649,7 @@ PART 1101_DEFINITIONS AND CONSTRUCTION--Table of Contents
 
 
 
-Sec.
+Sec. 
 1101.1 Statutory definitions.
 1101.2 Definitions applicable to this subchapter.
 1101.3 Construction.
@@ -7782,7 +7730,7 @@ PART 1102_COMMUNICATIONS--Table of Contents
 
 
 
-Sec.
+Sec. 
 1102.1 How addressed.
 1102.2 Ex parte communications prohibited; penalties provided.
 
@@ -7792,7 +7740,7 @@ Sec.
 <R05>
 Sec. 1102.1  How addressed.
 
-    All communications should be addressed to the Secretary of the 
+    All communications should be addressed to the Sec. etary of the 
 Board, Surface Transportation Board, Washington, DC 20423 unless 
 otherwise specifically directed by another Board regulation. All 
 communications should designate the docket number and title, if any. The 
@@ -7806,7 +7754,7 @@ represents.
 Sec. 1102.2  Ex parte communications prohibited; penalties provided.
 
     (a) Definitions. (1) ``On-the-record proceeding'' means any matter 
-described in Sections 556-557 of the Administrative Procedure Act (5 
+described in Sec. ions 556-557 of the Administrative Procedure Act (5 
 U.S.C. 556-557) or any matter required by the Constitution, statute, 
 Board rule, or by decision in the particular case, that is decided 
 solely on the record made in a Board proceeding.
@@ -7861,14 +7809,14 @@ of ex parte communications concerning the merits of a proceeding. Any
 person who receives an ex parte communication concerning the merits of a 
 proceeding must promptly transmit either the written communication, or a 
 written summary of the oral communication with an outline of the 
-surrounding circumstances to the Secretary of the Board. The Secretary 
+surrounding circumstances to the Sec. etary of the Board. The Sec. etary 
 shall place all of the material in the correspondence section of the 
 public docket of the proceeding. A recipient of such ex parte 
 communication, who has doubt as to the nature of the communication, may 
 request a ruling on the question from the Board's Designated Agency 
 Ethics Official. The Designated Agency Ethics Official shall promptly 
-reply to such requests. The Secretary shall promptly notify the Chairman 
-of the Board of such ex parte communications sent to the Secretary. The 
+reply to such requests. The Sec. etary shall promptly notify the Chairman 
+of the Board of such ex parte communications sent to the Sec. etary. The 
 Designated Agency Ethics Official shall promptly notify the Chairman of 
 all requests for rulings sent to the Designated Agency Ethics Official. 
 The Chairman may require that any communication be placed in the 
@@ -7898,7 +7846,7 @@ PART 1103_PRACTITIONERS--Table of Contents
 
                       Subpart A_General Information
 
-Sec.
+Sec. 
 1103.1 Register of practitioners.
 1103.2 Attorneys-at-law--qualifications and requirements to practice 
           before the Board.
@@ -7973,8 +7921,7 @@ recognized as practitioners before the Board.
 
 
 <R05>
-Sec. 1103.2  Attorneys-at-law--qualifications and requirements to 
-practice before the Board.
+Sec. 1103.2  Attorneys-at-law--qualifications and requirements to practice before the Board.
 
     Any person who is a member in good standing of the bar of the 
 highest court of any State, Commonwealth, possession, territory, or the 
@@ -7982,8 +7929,7 @@ District of Columbia may represent persons before the Board.
 
 
 <R05>
-Sec. 1103.3  Persons not attorneys-at-law--qualifications and 
-requirements for practice before the Board.
+Sec. 1103.3  Persons not attorneys-at-law--qualifications and requirements for practice before the Board.
 
     (a) In general. Any citizen or resident of the United States, not an 
 attorney-at-law, who files an application for admission to practice, 
@@ -8024,7 +7970,7 @@ continue to be evaluated on their own merits.
 this rule under oath for admission to practice shall be submitted 
 between January and May 1 of the year in which the examination is to be 
 taken. The application is to be completed in full on the form provided 
-by the Board, and shall be addressed to the Secretary, Surface 
+by the Board, and shall be addressed to the Sec. etary, Surface 
 Transportation Board, Washington, DC 20423, to the attention of the room 
 number indicated on the form.
     (2) Certification: All applicants must complete the following 
@@ -8093,7 +8039,7 @@ after the examination. Individual results will be forwarded to the
 applicants at least 1 week before being publicly released. To protect 
 the privacy of those taking the examination, individual grades will not 
 be released over the telephone to anyone. Requests for grades may, 
-however, be submitted in writing to the Office of the Secretary to the 
+however, be submitted in writing to the Office of the Sec. etary to the 
 attention of the address stated in the application form.
     (k) Failure to appear for examination. Applicants who have failed to 
 appear for, or postponed taking an examination, a total of three times 
@@ -8146,7 +8092,7 @@ applicant in the appropriate space on an application form;
 pleading with a designation following the practitioner's signature that 
 he is the representative of a party;
     (c) Entering an appearance at any hearing on the form provided; or
-    (d) Filing a letter with the Secretary of the Board stating that 
+    (d) Filing a letter with the Sec. etary of the Board stating that 
 practitioner is authorized to represent a party. The party represented, 
 their address, and the docket number of the proceeding must also be 
 identified at the time of the initial appearance.
@@ -8200,8 +8146,7 @@ Responsibilities to Other Litigants, Witnesses and the Public.
 
 
 <R05>
-Sec. 1103.11  Standards of ethical conduct in courts of the United 
-States to be observed.
+Sec. 1103.11  Standards of ethical conduct in courts of the United States to be observed.
 
     These canons further the purpose of the Board's Rules of Practice 
 which direct all persons appearing in proceedings before it to conform, 
@@ -8229,8 +8174,7 @@ and to be concise and direct in the trial and disposition of causes.
 
 
 <R05>
-Sec. 1103.13  Attempts to exert political or personal influence on the 
-Board are prohibited.
+Sec. 1103.13  Attempts to exert political or personal influence on the Board are prohibited.
 
     (a) It is unethical for a practitioner to attempt to influence the 
 judgment of the Board by threats of political or personal reprisal.
@@ -8402,8 +8346,7 @@ put to the practitioner's private use.
 
 
 <R05>
-Sec. 1103.21  How far a practitioner may go in supporting a client's 
-cause.
+Sec. 1103.21  How far a practitioner may go in supporting a client's cause.
 
     A practitioner shall put forth his best effort to maintain and 
 defend the rights of his client. Fear of disfavor of the Board or public 
@@ -8622,8 +8565,7 @@ for questionable practices.
 
 
 <R05>
-Sec. 1103.32  Discovery of imposition and deception and duty to report 
-corrupt or dishonest conduct.
+Sec. 1103.32  Discovery of imposition and deception and duty to report corrupt or dishonest conduct.
 
     (a) The practitioner, upon detecting fraud or deception practiced 
 against the Board or a party in a case, shall make every effort to 
@@ -8640,8 +8582,7 @@ matter to the knowledge of the prosecuting authorities.
 
 
 <R05>
-Sec. 1103.33  Responsibility when proposing a person for admission to 
-practice before the Board.
+Sec. 1103.33  Responsibility when proposing a person for admission to practice before the Board.
 
     The practitioner shall aid in guarding the bar of the Board against 
 admission of candidates unfit or unqualified because deficient in either 
@@ -8699,7 +8640,7 @@ GENERALLY--Table of Contents
 
 
 
-Sec.
+Sec. 
 1104.1 Address, identification, and electronic filing option.
 1104.2 Document specifications.
 1104.3 Copies.
@@ -8728,7 +8669,7 @@ Sec.
 Sec. 1104.1  Address, identification, and electronic filing option.
 
     (a) Except as provided in Sec. 1115.7, pleadings should be 
-addressed to the ``Secretary, Surface Transportation Board, Washington, 
+addressed to the ``Sec. etary, Surface Transportation Board, Washington, 
 DC 20423,'' and should designate the docket number and title of the 
 proceeding, if known.
     (b) The address of the person filing the pleading should be included 
@@ -8893,8 +8834,7 @@ complaint, at least one complainant must sign and verify the pleading.
 
 
 <R05>
-Sec. 1104.5  Affirmation or declarations under penalty of perjury in 
-accordance with 18 U.S.C. 1621 in lieu of oath.
+Sec. 1104.5  Affirmation or declarations under penalty of perjury in accordance with 18 U.S.C. 1621 in lieu of oath.
 
     (a) An affirmation will be accepted in lieu of an oath.
     (b) Whenever any rule of this Board requires or permits matter to be 
@@ -9047,7 +8987,7 @@ the Board.
 parties of record in this proceeding, by (here state the method of 
 making service which must be consistent with this part).
 
-________________________________________________________________________
+[fxsp0]_________________________________________________________________
 
 Signature Date
 
@@ -9087,8 +9027,7 @@ separate pleading and clearly headed ``Motion for protective order.''
 
 
 <R05>
-Sec. 1104.15  Certification of eligibility for Federal benefits under 
-21 U.S.C. 862.
+Sec. 1104.15  Certification of eligibility for Federal benefits under 21 U.S.C. 862.
 
     (a) An individual who is applying in his or her name for a 
 certificate, license or permit to operate as a rail carrier must 
@@ -9100,7 +9039,7 @@ construct, to extend, or to operate a rail line.
     (b) Certification:
 
     I ------ (Name) ------, certify under penalty of perjury under the 
-laws of the United States , that I have not been convicted, after 
+laws of the United States, that I have not been convicted, after 
 September 1, 1989, of any Federal or State offense involving the 
 distribution or possession of a controlled substance, or that if I have 
 been so convicted, I am not ineligible to receive Federal Benefits, 
@@ -9111,13 +9050,13 @@ FR 53268, Oct. 1, 1999; 67 FR 5515, Feb. 6, 2002]
 
 
 <R03>
-PART 1105_PROCEDURES FOR IMPLEMENTATION OF ENVIRONMENTAL LAWS--Table 
-of Contents
+PART 1105_PROCEDURES FOR IMPLEMENTATION OF ENVIRONMENTAL LAWS--
+Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1105.1 Purpose.
 1105.2 Responsibility for administration of these rules.
 1105.3 Information and assistance.
@@ -9158,10 +9097,10 @@ Sec. 1105.2  Responsibility for administration of these rules.
 
     The Director of the Office of Economics, Environmental Analysis, and 
 Administration shall have general responsibility for the overall 
-management and functioning of the Section of Environmental Analysis. The 
+management and functioning of the Sec. ion of Environmental Analysis. The 
 Director is delegated the authority to sign, on behalf of the Board, 
 memoranda of agreement entered into pursuant to 36 CFR 800.5(e)(4) 
-regarding historic preservation matters. The Chief of the Section of 
+regarding historic preservation matters. The Chief of the Sec. ion of 
 Environmental Analysis is responsible for the preparation of documents 
 under these rules and is delegated the authority to provide 
 interpretations of the Board's NEPA process, to render initial decisions 
@@ -9170,7 +9109,7 @@ individual proceedings, and to recommend rejection of environmental
 reports not in compliance with these rules. This delegated authority 
 shall be used only in a manner consistent with Board policy. The 
 Director may further delegate procedural authority to the Chief of the 
-Section of Environmental Analysis as appropriate. Appeals to the Board 
+Sec. ion of Environmental Analysis as appropriate. Appeals to the Board 
 will be available as a matter of right.
 
 [56 FR 36105, July 31, 1991, as amended at 64 FR 53268, Oct. 1, 1999]
@@ -9181,7 +9120,7 @@ Sec. 1105.3  Information and assistance.
 
     Information and assistance regarding the rules and the Board's 
 environmental and historic review process is available by writing or 
-calling the Section of Environmental Analysis, Surface Transportation 
+calling the Sec. ion of Environmental Analysis, Surface Transportation 
 Board, 1925 K Street, NW, Washington, DC 20423.
 
 [64 FR 53268, Oct. 1, 1999]
@@ -9219,7 +9158,7 @@ Environmental Impact Statement.
     (h) Filing means any request for STB authority, whether by 
 application, petition, notice of exemption, or any other means that 
 initiates a formal Board proceeding.
-    (i) Section of Environmental Analysis or ``SEA'' means the Section 
+    (i) Sec. ion of Environmental Analysis or ``SEA'' means the Sec. ion 
 that prepares the Board's environmental documents and analyses.
 
 [[Page 105]]
@@ -9705,16 +9644,16 @@ procedures of 15 CFR 930. Also, the Board will withhold a decision, stay
 the effective date of a decision, or impose a condition delaying 
 consummation of the action, until the applicant has submitted a 
 consistency certification and either the state has concurred in the 
-consistency certification, or an appeal to the Secretary of Commerce 
+consistency certification, or an appeal to the Sec. etary of Commerce 
 (under 15 CFR 930.64(e)) is successful.
 
 
 <R05>
 Sec. 1105.10  Board procedures.
 
-    (a) Environmental Impact Statements. (1) Prefiling Notice. Where an 
+    (a) Environmental Impact Statements--(1) Prefiling Notice. Where an 
 environmental impact statement is required or contemplated, the 
-prospective applicant must provide the Section of Environmental Analysis 
+prospective applicant must provide the Sec. ion of Environmental Analysis 
 with written notice of its forthcoming proposal at least 6 months prior 
 to filing its application.
     (2) Notice and scope of EIS. When an Environmental Impact Statement 
@@ -9734,7 +9673,7 @@ all parties to the proceeding and on appropriate Federal, State, and
 local agencies. A notice that these documents are available to the 
 public will be published (normally by the Environmental Protection 
 Agency) in the Federal Register. (Interested persons may obtain copies 
-of the documents by contacting the Section of Environmental Analysis.)
+of the documents by contacting the Sec. ion of Environmental Analysis.)
     (4) Comments. The notice of availability of the draft Environmental 
 Impact Statement will establish the time for submitting written 
 comments, which will normally be 45 days following service of the 
@@ -9755,7 +9694,7 @@ new and relevant circumstances or information. If so, the notice and
 comment procedures outlined above will be followed to the extent 
 practical.
     (b) Environmental Assessments. In preparing an Environmental 
-Assessment, the Section of Environmental Analysis will verify and 
+Assessment, the Sec. ion of Environmental Analysis will verify and 
 independently analyze the Environmental Report and/or Historic Report 
 and related material submitted by an applicant pursuant to sections 
 1105.7 and 1105.8. The Environmental Assessment will discuss relevant 
@@ -9850,7 +9789,7 @@ that will form the basis for the STB's independent environmental
 analysis of this proceeding. If any of the information is misleading or 
 incorrect, if you believe that pertinent information is missing, or if 
 you have any questions about the Board's environmental review process, 
-please contact the Section of Environmental Analysis (SEA), Surface 
+please contact the Sec. ion of Environmental Analysis (SEA), Surface 
 Transportation Board, 1925 K Street, NW, Washington, DC 20423, telephone 
 [INSERT TELEPHONE NUMBER] and refer to the above Docket No. (if 
 available). Because the applicable statutes and regulations impose 
@@ -9884,8 +9823,8 @@ in the Appendix to this section for guidance to the railroads.
 
            Appendix to Sec. 1105.12--Sample Newspaper Notices
 
-Sample Local Newspaper Notice For Out-Of-Service Abandonment Exemptions 
-       Notice of Intent to Abandon or to Discontinue Rail Service
+Sample Local Newspaper Notice for Out-Of-Service Abandonment Exemptions 
+       Notice of Intent To Abandon or To Discontinue Rail Service
 
     (Name of railroad) gives notice that on or about (insert date notice 
 of exemption will be filed with the Surface Transportation Board), it 
@@ -9898,13 +9837,13 @@ Service ZIP Codes (ZIP Codes) and railroad milepost ------, near
 (station name) which traverses through United States Postal Service ZIP 
 Codes (ZIP Codes) in ------ County(ies), (State). The proceeding will be 
 docketed as No. AB ------ (Sub-No. ------ X).
-    The Board's Section of Environmental Analysis (SEA) will generally 
+    The Board's Sec. ion of Environmental Analysis (SEA) will generally 
 prepare an Environmental Assessment (EA), which will normally be 
 available 25 days after the filing of the notice of exemption. Comments 
 on environmental and energy matters should be filed no later than 15 
 days after the EA becomes available to the public and will be addressed 
 in a Board decision. Interested persons may obtain a copy of the EA or 
-make inquiries regarding environmental matters by writing to the Section 
+make inquiries regarding environmental matters by writing to the Sec. ion 
 of Environmental Analysis (SEA), Surface Transportation Board, 
 Washington, DC 20423 or by calling that office at [INSERT TELEPHONE 
 NUMBER].
@@ -9914,7 +9853,7 @@ public use conditions, or rail banking/trails use also can be filed with
 the Board. An original and 10 copies of any pleading that raises matters 
 other than environmental issues (such as trails use, public use, and 
 offers of financial assistance) must be filed directly with the Board's 
-Office of the Secretary, 1925 K Street, NW., Washington, DC 20423 [See 
+Office of the Sec. etary, 1925 K Street, NW., Washington, DC 20423 [See 
 49 CFR 1104.1(a) and 1104.3(a)], and one copy must be served on 
 applicants'
 
@@ -9928,7 +9867,7 @@ served on the applicant's representative: (name, address and phone
 number).
 
  Sample Local Newspaper Notice for Petitions for Abandonment Exemptions 
-       Notice of Intent to Abandon or to Discontinue Rail Service
+       Notice of Intent To Abandon or To Discontinue Rail Service
 
     (Name of railroad) gives notice that on or about (insert date 
 petition for abandonment exemption will be filed with the Surface 
@@ -9942,7 +9881,7 @@ name) which traverses through United States Postal Service ZIP Codes
 traverses through United States Postal Service ZIP Codes (ZIP Codes) in 
 ------ County(ies), (State). The proceeding has been docketed as No. AB 
 ------ (Sub-No. ------ X).
-    The Board's Section of Environmental Analysis (SEA) will generally 
+    The Board's Sec. ion of Environmental Analysis (SEA) will generally 
 prepare an Environmental Assessment (EA), which will normally be 
 available 60 days after the filing of the petition for abandonment 
 exemption. Comments on environmental and energy matters should be filed 
@@ -9957,7 +9896,7 @@ public use conditions, or rail banking/trails use also can be filed with
 the Board. An original and 10 copies of any pleading that raises matters 
 other than environmental issues (such as trails use, public use, and 
 offers of financial assistance) must be filed directly with the Board's 
-Office of the Secretary, 1925 K Street, NW., Washington, DC 20423 [See 
+Office of the Sec. etary, 1925 K Street, NW., Washington, DC 20423 [See 
 49 CFR 1104.1(a) and 1104.3(a)], and one copy must be served on 
 applicants' representative [See 49 CFR 1104.12(a)]. Questions regarding 
 offers of financial assistance, public use or trails use may be directed 
@@ -9971,14 +9910,15 @@ FR 44619, Aug. 24, 1993; 61 FR 67883, Dec. 24, 1996; 64 FR 53268, Oct.
 
 
 <R03>
-PART 1106_PROCEDURES FOR SURFACE TRANSPORTATION BOARD CONSIDERATION OF 
-SAFETY INTEGRATION PLANS IN CASES INVOLVING RAILROAD CONSOLIDATIONS, 
+    PART 1106_PROCEDURES FOR SURFACE TRANSPORTATION BOARD CONSIDERATION
+OF SAFETY INTEGRATION PLANS IN CASES INVOLVING RAILROAD CONSOLIDATIONS, 
+
 MERGERS, AND ACQUISITIONS OF CONTROL--Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1106.1 Purpose.
 1106.2 Definitions.
 1106.3 Actions for which Safety Integration Plan is Required.
@@ -10043,7 +9983,7 @@ explaining the process by which Applicants intend to integrate the
 operation of the properties involved in a manner that would maintain 
 safety at every step of the integration process, in the event the Board 
 approves the transaction that requires a SIP.
-    Section of Environmental Analysis (``SEA'') means the Section that 
+    Sec. ion of Environmental Analysis (``SEA'') means the Sec. ion that 
 prepares the Board's environmental documents and analyses.
     Transaction means an application by a Class I railroad that proposes 
 to consolidate with, merge with, or acquire control under 49 U.S.C. 
@@ -10138,7 +10078,7 @@ JURISDICTION OF THE SURFACE TRANSPORTATION BOARD--Table of Contents
 
 
 
-Sec.
+Sec. 
 1108.1 Definitions.
 1108.2 Statement of purpose, organization, and jurisdiction.
 1108.3 Matters subject to arbitration.
@@ -10525,7 +10465,7 @@ AND THOSE IN WHICH THE BOARD IS A PARTY--Table of Contents
 
 
 
-Sec.
+Sec. 
 1109.1 Invoking ADR in Board proceedings.
 1109.2 Appeals from arbitration decisions.
 1109.3 Confidentiality in ADR matters.
@@ -10548,12 +10488,12 @@ facilitate ADR will not be counted towards the statutory deadlines. All
 parties are required to indicate their written consent for ADR 
 treatment. Requests that a proceeding be held in abeyance while ADR 
 procedures are pursued should be submitted to the Office of the 
-Secretary. The Secretary shall promptly issue an order in response to 
+Sec. etary. The Sec. etary shall promptly issue an order in response to 
 such requests. Unless arbitration or some other binding process 
 involving a neutral has been undertaken, any party believing that ADR 
 procedures are not yielding the intended results shall inform the 
-Secretary and all parties in writing, and normal agency procedures will 
-be reactivated by the Secretary by notice served on all the parties.
+Sec. etary and all parties in writing, and normal agency procedures will 
+be reactivated by the Sec. etary by notice served on all the parties.
 
 
 <R05>
@@ -10585,8 +10525,7 @@ parties and neutrals in those ADR matters.
 
 
 <R05>
-Sec. 1109.4  Mandatory mediation in rate cases to be considered under 
-the stand-alone cost methodology.
+Sec. 1109.4  Mandatory mediation in rate cases to be considered under the stand-alone cost methodology.
 
     (a) A shipper seeking rate relief from a railroad or railroads in a 
 case involving the stand-alone cost methodology must engage in non-
@@ -10627,13 +10566,13 @@ set forth at 49 CFR 1111.8(a).
 
 
 <R03>
-PART 1110_PROCEDURES GOVERNING INFORMAL RULEMAKING PROCEEDINGS--Table 
-of Contents
+PART 1110_PROCEDURES GOVERNING INFORMAL RULEMAKING PROCEEDINGS--
+Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1110.1 Applicability.
 1110.2 Opening of proceeding.
 1110.3 Publication of notices.
@@ -10671,7 +10610,7 @@ rule.
     (c) Each petition seeking the institution of a proceeding, filed 
 under this section must:
     (1) Be submitted, along with 15 copies if possible, to the 
-Secretary, Surface Transportation Board, Washington, DC 20423;
+Sec. etary, Surface Transportation Board, Washington, DC 20423;
     (2) Set forth the text or substance of the rule or amendment 
 proposed or specify the rule that the petitioner wants to have repealed 
 or modified;
@@ -10728,7 +10667,7 @@ proposed.
     (d) In addition to being published in the Federal Register, notices 
 of proposed rulemaking and subsequent notices and decisions in 
 rulemaking proceedings, will be served on the parties and made available 
-to the public through the Office of the Secretary. To the extent 
+to the public through the Office of the Sec. etary. To the extent 
 possible, the date of service will be the same as the date of 
 publication in the Federal Register. When the service and publication 
 dates are not the same, the date of publication in the Federal Register 
@@ -10775,7 +10714,7 @@ Register, and it will apply to all persons.
 Sec. 1110.7  Availability of dockets.
 
     Dockets of pending rulemaking proceedings are maintained in the 
-Office of the Secretary. These dockets are available for inspection by 
+Office of the Sec. etary. These dockets are available for inspection by 
 any person, and copies may be obtained upon payment of the prescribed 
 fee.
 
@@ -10791,7 +10730,7 @@ adopted, notice will be published in the Federal Register.
 Sec. 1110.9  Petition for waiver.
 
     Any person may petition the Board for a permanent or temporary 
-waiver of any rule. Petitions should be filed with the Secretary, 
+waiver of any rule. Petitions should be filed with the Sec. etary, 
 Surface Transportation Board, Washington, DC 20423, and should identify 
 the rule involved
 
@@ -10818,7 +10757,7 @@ PART 1111_COMPLAINT AND INVESTIGATION PROCEDURES--Table of Contents
 
 
 
-Sec.
+Sec. 
 1111.1 Content of formal complaints; joinder.
 1111.2 Amended and supplemental complaints.
 1111.3 Service.
@@ -11050,8 +10989,7 @@ FR 2639, Jan. 16, 1998; 68 FR 17313, Apr. 9, 2003]
 
 
 <R05>
-Sec. 1111.9  Procedural schedule to determine whether to use simplified 
-procedures.
+Sec. 1111.9  Procedural schedule to determine whether to use simplified procedures.
 
     Absent a specific order by the Board, the following procedural 
 schedule will apply in determining whether to grant a request under 
@@ -11100,7 +11038,7 @@ PART 1112_MODIFIED PROCEDURES--Table of Contents
 
 
 
-Sec.
+Sec. 
 1112.1 When modified procedure is used.
 1112.2 Decisions directing modified procedure.
 1112.3 Default for failure to comply with schedule; effect of default.
@@ -11150,8 +11088,7 @@ Board issues an order modifying the schedule.
 
 
 <R05>
-Sec. 1112.3  Default for failure to comply with schedule; effect of 
-default.
+Sec. 1112.3  Default for failure to comply with schedule; effect of default.
 
     If a party fails to comply with the schedule for submission of 
 verified statements, or any other requirements established by the 
@@ -11221,8 +11158,7 @@ the date thereof.
 
 
 <R05>
-Sec. 1112.9  Sample verification for statement of fact under modified 
-procedure.
+Sec. 1112.9  Sample verification for statement of fact under modified procedure.
 
 State of --------------------,
 County of --------------------,
@@ -11268,7 +11204,7 @@ PART 1113_ORAL HEARING--Table of Contents
 
 
 
-Sec.
+Sec. 
 1113.1 Scheduling hearings; continued hearings.
 1113.2 Subpoenas.
 1113.3 Authority of officers.
@@ -11304,7 +11240,7 @@ Sec. 1113.1  Scheduling hearings; continued hearings.
     (a) Assignment; service and posting of notice. In those proceedings 
 in which an oral hearing is to be held, the Board will assign a time and 
 place for hearing. Notice of hearings will be posted in the Office of 
-the Secretary of the Board and will be served upon the parties and such 
+the Sec. etary of the Board and will be served upon the parties and such 
 other persons as may be entitled to receive notice under the Act.
     (b) Requests for changes in assignment. Requests for postponements 
 of date of hearing will be granted only in exceptional circumstances.
@@ -11322,7 +11258,7 @@ Sec. 1113.2  Subpoenas.
     (a) Issuance. A subpoena may be issued upon the direction of the 
 Board on its own motion or upon request. A subpoena may be issued by the 
 Board or by the officer presiding at a hearing and must be signed by the 
-Secretary or a member of the Board.
+Sec. etary or a member of the Board.
     (b) Requests. (1) A request for a subpoena to compel the appearance 
 of a person at a hearing to give oral testimony, but not to produce 
 documents, may be made either by letter (only the original need be filed 
@@ -11349,7 +11285,7 @@ should be stated on the original subpoena. The written acceptance of
 service of a subpoena by the person subpoenaed will be sufficient 
 without other evidence of return. The original subpoena bearing or 
 accompanied by the required return, affidavit, statement, or acceptance 
-of service, should be returned forthwith to the Secretary of the Board, 
+of service, should be returned forthwith to the Sec. etary of the Board, 
 unless otherwise directed.
     (e) Witness fees. A witness who is summoned and responds to the 
 summons is entitled to the same fee as is paid for like service in the 
@@ -11738,7 +11674,7 @@ suggested pursuant to paragraph (b) of this section should file written
 objections in the same manner as suggested corrections are to be filed. 
 Objections to suggested corrections should be filed not later than 15 
 days after the filing with the Board of suggested corrections. If no 
-objections are timely filed, the Secretary of the Board shall make the 
+objections are timely filed, the Sec. etary of the Board shall make the 
 suggested corrections to the transcript. If objections are timely filed, 
 the officer who presided at the hearing shall determine the merits of 
 the suggested correction and enter an appropriate decision in the 
@@ -11803,7 +11739,7 @@ PART 1114_EVIDENCE; DISCOVERY--Table of Contents
 
                    Subpart A_General Rules of Evidence
 
-Sec.
+Sec. 
 1114.1 Admissibility.
 1114.2 Official records.
 1114.3 Admissibility of business records.
@@ -12059,8 +11995,7 @@ and the cause or reason why such deposition will be taken.
 
 
 <R05>
-Sec. 1114.23  Depositions; location, officer, time, fees, absence, 
-disqualification.
+Sec. 1114.23  Depositions; location, officer, time, fees, absence, disqualification.
 
     (a) Where deposition should be taken. Unless otherwise ordered or 
 agreed to by stipulation, depositions should be taken in the city or 
@@ -12208,7 +12143,7 @@ counsel, and (3) not financially interested in the proceeding.
 envelope endorsed with sufficient information to identify the proceeding 
 and marked ``Deposition of (here insert name of witness)'' and shall 
 either personally deliver or promptly send the original and one copy of 
-all exhibits by registered mail to the Secretary of the Board. A 
+all exhibits by registered mail to the Sec. etary of the Board. A 
 deposition to be offered in evidence must reach the Board not
 
 [[Page 140]]
@@ -12356,8 +12291,7 @@ country they should not be served within 40 days prior to such date.
 
 
 <R05>
-Sec. 1114.28  Depositions, requests for admission, written 
-interrogatories, and responses thereto: inclusion in record.
+Sec. 1114.28  Depositions, requests for admission, written interrogatories, and responses thereto: inclusion in record.
 
     At the oral hearing, or upon the submission of statements under the 
 modified procedure, depositions, requests for admission and written 
@@ -12401,8 +12335,7 @@ new requests for supplementation of prior responses.
 
 
 <R05>
-Sec. 1114.30  Production of documents and records and entry upon land 
-for inspection and other purposes.
+Sec. 1114.30  Production of documents and records and entry upon land for inspection and other purposes.
 
     (a) Scope. Any party may serve on any other party a request:
     (1) To produce and permit the party making the request to inspect 
@@ -12467,11 +12400,11 @@ narrow the issues, and gather any further information needed to render a
 ruling.
     (4) Ruling on motion to compel in stand-alone cost rate cases. 
 Within 5 business days after a conference with the parties convened 
-pursuant to paragraph (a)(3) of this section, the Secretary will issue a 
+pursuant to paragraph (a)(3) of this section, the Sec. etary will issue a 
 summary ruling on the motion to compel discovery in a stand-alone cost 
-rate case. If no conference is convened, the Secretary will issue this 
+rate case. If no conference is convened, the Sec. etary will issue this 
 summary ruling within 10 business days after the filing of the reply to 
-the motion to compel. Appeals of a Secretary's ruling will proceed under 
+the motion to compel. Appeals of a Sec. etary's ruling will proceed under 
 49 CFR 1115.9, and the Board will attempt to rule on such appeals within 
 20 days after the filing of the reply to the appeal.
     (b) Failure to comply with order. (1) If a party or other witness 
@@ -12542,7 +12475,7 @@ PART 1115_APPELLATE PROCEDURES--Table of Contents
 
 
 
-Sec.
+Sec. 
 1115.1 Scope of rule.
 1115.2 Initial decisions.
 1115.3 Board actions other than initial decisions.
@@ -12771,7 +12704,7 @@ PART 1116_ORAL ARGUMENT BEFORE THE BOARD--Table of Contents
 
 
 
-Sec.
+Sec. 
 1116.1 Requests.
 1116.2 Manner of presentation.
 
@@ -12784,7 +12717,7 @@ Sec.
 Sec. 1116.1  Requests.
 
     (a) Addressee. Requests for oral argument should be addressed to the 
-Secretary, Surface Transportation Board, Washington, DC 20423.
+Sec. etary, Surface Transportation Board, Washington, DC 20423.
 
 [[Page 147]]
 
@@ -12810,7 +12743,8 @@ authorized.
 
 
 <R03>
-PART 1117_PETITIONS (FOR RELIEF) NOT OTHERWISE COVERED--Table of Contents
+PART 1117_PETITIONS (FOR RELIEF) NOT OTHERWISE COVERED--
+Table of Contents
 
 
 
@@ -12832,13 +12766,13 @@ believes is appropriate.
 
 
 <R03>
-PART 1118_PROCEDURES IN INFORMAL PROCEEDINGS BEFORE EMPLOYEE BOARDS
---Table of Contents
+PART 1118_PROCEDURES IN INFORMAL PROCEEDINGS BEFORE EMPLOYEE BOARDS--
+Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1118.1 Scope.
 1118.2 Proceedings to be informal.
 1118.3 Appeals.
@@ -12875,7 +12809,7 @@ furnished for the use of the Board.
     (c) Time for filing. Appeals in proceedings governed by this part 
 must be filed within 20 days after the date of service of the decision.
     (d) Where filed. Appeals and replies to appeals of decisions issued 
-by employee boards must be filed with the Secretary, Surface 
+by employee boards must be filed with the Sec. etary, Surface 
 Transportation Board, 1925 K St., NW., Washington, DC 20423-0001.
     (e) Decisions on appeal. An appeal from an employee board's initial 
 decision in a matter subject to this part will be reviewed by the 
@@ -12915,13 +12849,13 @@ tariffs or schedules.
 
 
 <R03>
-PART 1120_USE OF 1977-1978 STUDY OF MOTOR CARRIER PLATFORM HANDLING 
+PART 1120_USE OF 1977	1978 STUDY OF MOTOR CARRIER PLATFORM HANDLING 
 FACTORS--Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1120.1 Scope.
 1120.2 Purpose.
 
@@ -12955,7 +12889,7 @@ PART 1121_RAIL EXEMPTION PROCEDURES--Table of Contents
 
 
 
-Sec.
+Sec. 
 1121.1 Scope.
 1121.2 Discovery.
 1121.3 Content.
@@ -13064,23 +12998,18 @@ are to be transferred.
 [61 FR 52714, Oct. 8, 1996, as amended at 61 FR 58491, Nov. 15, 1996; 62 
 FR 47583, Sept. 10, 1997; 64 FR 46595, Aug. 26, 1999]
 
-                       PARTS 1122-1129 [RESERVED]
+                       PARTS 1122	1129 [RESERVED]
+
+                     Parts 1130	1149_Rate Procedures
 
 
-
-Parts 1130-1149_Rate Procedures--Table of Contents
-
-
-
-
-
-<R03
+<R03>
 PART 1130_INFORMAL COMPLAINTS--Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1130.1 When no damages sought.
 1130.2 When damages sought.
 
@@ -13222,13 +13151,13 @@ FR 5713, Feb. 18, 1986; 52 FR 26479, July 15, 1987; 53 FR 19301, May 27,
 
 
 <R03>
-PART 1132_PROTESTS REQUESTING SUSPENSION AND INVESTIGATION OF COLLECTIVE 
-RATEMAKING ACTIONS--Table of Contents
+PART 1132_PROTESTS REQUESTING SUSPENSION AND INVESTIGATION OF 
+COLLECTIVE RATEMAKING ACTIONS--Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1132.1 Protests against collective ratemaking actions.
 1132.2 Procedures in certain suspension matters.
 
@@ -13291,7 +13220,7 @@ reply filed under this section, must be filed with the Board, and one
 copy simultaneously must be served upon the publishing carrier or 
 collective ratemaking organization, and upon other persons known by 
 protestant to be interested. These pleadings should be directed to the 
-attention of the Secretary, Surface Transportation Board.
+attention of the Sec. etary, Surface Transportation Board.
     (e) Reply to protest. A reply to a protest filed at least 12 days 
 before the effective date of proposed collective action provisions must 
 reach the Board not later than the fourth working day prior to the 
@@ -13328,7 +13257,7 @@ PART 1133_RECOVERY OF DAMAGES--Table of Contents
 
 
 
-Sec.
+Sec. 
 1133.1 Freight bill filing requirement under modified procedure.
 1133.2 Statement of claimed damages based on Board findings.
 
@@ -13387,13 +13316,13 @@ contains no claim for reparation previously filed with the Board by or
 on behalf of claimant or, so far as claimant knows, by or on behalf of 
 any person, in any other proceedings, except as follows: (Here indicate 
 any exceptions, and explanation thereof).
-________________________________________________________________________
+[fxsp0]_________________________________________________________________
  (Claimant)
 By______________________________________________________________________
  (Practitioner)
-________________________________________________________________________
+[fxsp0]_________________________________________________________________
  (Address)
-________________________________________________________________________
+[fxsp0]_________________________________________________________________
  (Date)
 
     Total amount of reparation $------. The undersigned hereby certifies 
@@ -13471,15 +13400,15 @@ June and September of each year.
 
 
 <R03>
-PART 1139_PROCEDURES IN MOTOR CARRIER REVENUE PROCEEDINGS--Table of 
-Contents
+PART 1139_PROCEDURES IN MOTOR CARRIER REVENUE PROCEEDINGS--
+Table of Contents
 
 
 
 
             Subpart A_Common Carriers of General Commodities
 
-Sec.
+Sec. 
 1139.1 Application.
 1139.2 Traffic study.
 1139.3 Cost study.
@@ -13499,7 +13428,7 @@ Appendix II to Subpart A--Financial Ratios (Traffic and Cost Study
 1139.21 Study carriers.
 1139.22 Revenue data for study carriers.
 1139.23 Revenue need.
-1139.24 Offical notice.
+1139.24 Official notice.
 1139.25 Service.
 1139.26 Availability of underlying data.
 
@@ -13610,7 +13539,7 @@ sample from the standpoint of: Purpose, sample design (including
 explanation of estimation procedure and disclosure of sampling errors 
 for derived characteristics), quality control aspects involved in 
 processing and tabulating data and any statistical analysis performed on 
-the sampled data.<SUP>4</SUP>
+the sampled data. \4\
 ---------------------------------------------------------------------------
 
     \4\ Although not adopted by the Board, attention is called to a 
@@ -13723,7 +13652,7 @@ Sec. 1139.7  Service.
     The detailed information called for herein shall be in writing and 
 shall be verified by a person or persons having knowledge thereof. The 
 original and 10 copies of each verified statement for the use of the 
-Board shall be filed with the Secretary, Surface Transportation Board, 
+Board shall be filed with the Sec. etary, Surface Transportation Board, 
 Washington, DC 20423. One copy of each statement shall be sent by first-
 class mail to each of the regional offices of the Board in the area 
 affected by the proposed increase, where it will be open to public 
@@ -13769,7 +13698,7 @@ Line                                                       calendar     Present 
                                                                                  revenues  revenues    need \5\
 ----------------------------------------------------------------------------------------------------------------
       (1).....................  (2)....................         (3)         (4)       (5)       (6)         (7)
------
+----------------------------------------------------------------------------------------------------------------
  
                                               Part I. Revenue Need
 ----------------------------------------------------------------------------------------------------------------
@@ -13798,7 +13727,7 @@ Line                                                       calendar     Present 
   12  System revenue need       L. 2 plus L. 11........
        items and projected
        revenue need.
------
+----------------------------------------------------------------------------------------------------------------
  
 
 [[Page 158]]
@@ -13866,7 +13795,7 @@ Line                              Source for columns 3       Base       Present 
  (q)  Percent of issue traffic  L. (o)/L. (m)..........           %           %         %         %           %
        ton-miles to system ton-
        miles (3 decimals).
------
+----------------------------------------------------------------------------------------------------------------
  
                            Constant Costs and Sum of Money Allocated To Issue Traffic
 ----------------------------------------------------------------------------------------------------------------
@@ -14004,14 +13933,14 @@ Appendix I data should be completed and submitted for all traffic and cost study
         [Complete appendix II for each traffic and cost study carrier and for all such carriers combined]
 ----------------------------------------------------------------------------------------------------------------
                                                                                                         First
-                                                                              Third        Second     preceding
+                                                                              Third        Sec. nd     preceding
 Line                                                                        preceding    preceding     calendar
  No.                 Item                           Source \1\               calendar     calendar       year
                                                                                year         year      (actual or
                                                                              (actual)     (actual)    estimated)
 ----------------------------------------------------------------------------------------------------------------
       (1)..............................  (2).............................          (3)          (4)          (5)
------
+----------------------------------------------------------------------------------------------------------------
    1  Current assets \2\...............  A.R. Sch. 100, L. 18............            $            $            $
    2  Net carrier operating property     A.R. Sch. 100, L. 21............
        (owned)\2\.
@@ -14073,6 +14002,8 @@ Line                                                                        prec
 
 [47 FR 49580, Nov. 1, 1982; 47 FR 54081, Dec. 1, 1982]
 
+
+<R04>
                     Subpart B_Intercity Bus Industry
 
     Source: 42 FR 32541, June 27, 1977, unless otherwise noted. 
@@ -14191,7 +14122,7 @@ Sec. 1139.25  Service.
     The detailed information called for herein shall be in writing and 
 shall be verified by a person or persons having knowledge thereof. The 
 original and 16 copies of each verified statement for the use of the 
-Board shall be filed with the Secretary, Surface Transportation Board, 
+Board shall be filed with the Sec. etary, Surface Transportation Board, 
 Washington, DC 20423. One copy of each statement shall be sent first-
 class mail to each of the regional offices of the Board in the area 
 affected by the proposed increase, where it will be open to public 
@@ -14322,7 +14253,7 @@ obtained by calculations using columns (d) and (e).
 24...................................  ..........  ..........  ..........  ..........  ..........  .............
 25...................................  ..........  ..........  ..........  ..........  ..........  .............
  Total, all study carriers...........
---------------------------------------
+----------------------------------------------------------------------------------------------------------------
                                     Pro forma year based on proposed revenues
 ----------------------------------------------------------------------------------------------------------------
 1....................................  ..........  ..........  ..........  ..........  ..........  .............
@@ -14354,7 +14285,7 @@ obtained by calculations using columns (d) and (e).
 24...................................  ..........  ..........  ..........  ..........  ..........  .............
 25...................................  ..........  ..........  ..........  ..........  ..........  .............
  Total, all study carriers...........
---------------------------------------
+----------------------------------------------------------------------------------------------------------------
                                     Pro forma year based on current revenues
 ----------------------------------------------------------------------------------------------------------------
 1....................................  ..........  ..........  ..........  ..........  ..........  .............
@@ -14615,7 +14546,7 @@ Nov. 1, 1982; 64 FR 53268, Oct. 1, 1999]
  other operating revenues (2900).
 3. Percent of total issue traffic revenues to    L. 1/ L. 2 (percent to 2 dec.)................  ..........  ...............  ...............  ...............  ...............  ...............
  L. 2 revenues.
-------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
                                                                                B.--Allocation to traffic at issue
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 4. Increased system operating expenses.........  Pt. II, line 1................................  ..........  ...............  ...............  ...............  ...............  ...............
@@ -14738,7 +14669,7 @@ Miscellaneous and financial ratios:
    intangibles (percent).
   38 Rate of return on total capitalization   (L. 7 + L. 8 + L. 15) / (L. 22  ..........  ..........  ..........
    (percent).                                  + L. 23 + L. 25).
----------------------------------------------
+----------------------------------------------------------------------------------------------------------------
    Part II. Accounts giving effect to interperiod tax allocation (deferred taxes) and impact of investment tax
                                                      credit
 ----------------------------------------------------------------------------------------------------------------
@@ -15300,7 +15231,7 @@ discussion of what will be involved.
 procedure to develop costs by types of service for the bus lines, some 
 parallels may be drawn with the procedure which has evolved over the 
 years for general commodity motor carriers. Cost formulas for general 
-commodity carriers were developed by the Cost Finding Section of the 
+commodity carriers were developed by the Cost Finding Sec. ion of the 
 Interstate Commerce Commission more than thirty years ago. These cost 
 formulas have been modified and refined from time-to-time in order to 
 adjust for changing operating practices and conditions, improvements in 
@@ -15356,7 +15287,7 @@ determination of the expenses chargeable to each of the various services
 provided by the carriers. These services include regular route intercity 
 service, involving transportation of passengers, express, baggage, 
 newspapers and mail, local service and special services including 
-charter operations and tours. Secondly, the need for further separations 
+charter operations and tours. Sec. ndly, the need for further separations 
 within these categories must be explored. An all-out study would involve 
 the allocation of expenses for regular route service among passengers 
 and their baggage, express traffic and all other traffic; however, such 
@@ -15429,7 +15360,7 @@ developing acceptable cost allocation procedures for general freight
 motor carriers is any indication, several years may be required before a 
 cost system for the bus lines can be formulated, applied and tested. The 
 bus industry recognizes that, because of its workload and limited staff, 
-the Cost Finding Section of the Board cannot take on the task of 
+the Cost Finding Sec. ion of the Board cannot take on the task of 
 developing a cost allocation system for the bus lines as it did in 
 connection with general freight motor carriers; however, it is hoped 
 that the efforts of the bus lines in this
@@ -15440,7 +15371,7 @@ regard will receive the full support and guidance of the Board's staff
 so that the best possible results may be achieved in the shortest 
 possible time.
                                                             H. G. Homme,
-                                                              Secretary.
+                                                              Sec. etary.
 
 [42 FR 32541, June 27, 1977. Redesignated at 47 FR 49571, Nov. 1, 1982 
 and amended at 64 FR 53268, Oct. 1, 1999]
@@ -15520,7 +15451,7 @@ PART 1144_INTRAMODAL RAIL COMPETITION--Table of Contents
 
 
 
-Sec.
+Sec. 
 1144.1 Negotiation.
 1144.2 Prescription.
 1144.3 General.
@@ -15742,33 +15673,23 @@ Railroad Administration.
 
 [63 FR 71401, Dec. 28, 1998]
 
-                       PARTS 1148-1149 [RESERVED]
+                       PARTS 1148	1149 [RESERVED]
 
+                  Parts 1150	1174_Licensing Procedures
 
-
-Parts 1150-1174_Licensing Procedures--Table of Contents
-
-
-
-
-
-
-Parts 1150-1159_Rail Licensing Procedures--Table of Contents
-
-
-
+                Parts 1150	1159_Rail Licensing Procedures
 
 
 <R03>
-PART 1150_CERTIFICATE TO CONSTRUCT, ACQUIRE, OR OPERATE RAILROAD 
-LINES--Table of Contents
+PART 1150_CERTIFICATE TO CONSTRUCT, ACQUIRE, OR OPERATE RAILROAD LINES--
+Table of Contents
 
 
 
 
               Subpart A_Applications Under 49 U.S.C. 10901
 
-Sec.
+Sec. 
 1150.1 Introduction.
 1150.2 Overview.
 1150.3 Information about applicant(s).
@@ -15853,7 +15774,7 @@ exemptions from these certification requirements. See 49 U.S.C. 10502.
 subpart shall include the information set forth in Sec. Sec. 1150.2 
 through 1150.9. The applicant must also comply with the Energy and 
 Environmental Regulations at 49 CFR parts 1106 and 1105 (including 
-consulting with the Board's Section of Environmental Analysis at least 6 
+consulting with the Board's Sec. ion of Environmental Analysis at least 6 
 months prior to filing an application, to begin the scoping process to 
 identify environmental issues and outline procedures for analysis of 
 this aspect of the proposal).
@@ -16032,7 +15953,7 @@ showing, demonstrate their need to examine data which have previously
 been waived. In such circumstances, the Board only requires that it be 
 produced under Sec. 1150.8 above.
     (b) Filing procedures. The original and 10 copies of the application 
-and all documents shall be filed with the Secretary. A filing fee in the 
+and all documents shall be filed with the Sec. etary. A filing fee in the 
 amount set forth in 49 CFR 1002.2(f)(33) is required to file an 
 application. Copies of documents shall be furnished promptly to 
 interested parties upon request. The application shall include a stamped 
@@ -16079,7 +16000,7 @@ Register or reject the application if it is incomplete.
 filed within 35 days of the filing of the application. Comments must 
 contain the basis for the party's position either in support or 
 opposition. Applicant must be served with a copy of each comment. On the 
-basis of the comments and the assessment by the Section of Environmental 
+basis of the comments and the assessment by the Sec. ion of Environmental 
 Analysis, the Board will decide if a hearing is necessary. A hearing may 
 be either oral or through receipt of written statements (modified 
 procedure). (See 49 CFR 1112.1 et seq.) If there is no opposition to the 
@@ -16177,7 +16098,7 @@ authority from the Board either to commence or to terminate operations,
 the designated operator is a common carrier by railroad subject to all 
 other applicable provisions of 49 U.S.C. Subtitle IV. However, we have 
 exempted designated operators from some aspects of regulation. See 
-Exemption of Certain Designated Operators from Section 11343, 361 ICC 
+Exemption of Certain Designated Operators from Sec. ion 11343, 361 ICC 
 379 (1979), as modified by McGinness v. I.C.C., 662 F.2d 853 (D.C. Cir. 
 1981).
 
@@ -16319,8 +16240,7 @@ the from securities regulation at 49 CFR part 1175.
 
 
 <R05>
-Sec. 1150.32  Procedures and relevant dates--transactions that involve 
-creation of Class III carriers.
+Sec. 1150.32  Procedures and relevant dates--transactions that involve creation of Class III carriers.
 
     (a) To qualify for this exemption, applicant must file a verified 
 notice providing details about the transaction, and a brief caption 
@@ -16339,7 +16259,7 @@ be given to shippers.
 exemption is void ab initio. A petition to revoke under 49 U.S.C. 
 10502(d) does not automatically stay the exemption.
     (d) Applicant must preserve intact all sites and structures more 
-than 50 years old until compliance with the requirements of Section 106 
+than 50 years old until compliance with the requirements of Sec. ion 106 
 of the National Historic Preservation Act, 16 U.S.C. 470 is achieved.
     (e) If the projected annual revenue of the carrier to be created by 
 a transaction under this exemption exceeds $5 million, applicant must, 
@@ -16358,8 +16278,7 @@ FR 5982, Feb. 29, 1988; 62 FR 47584, Sept. 10, 1997; 69 FR 58366, Sept.
 
 
 <R05>
-Sec. 1150.33  Information to be contained in notice--transactions that 
-involve creation of Class III carriers.
+Sec. 1150.33  Information to be contained in notice--transactions that involve creation of Class III carriers.
 
     (a) The full name and address of the applicant;
     (b) The name, address, and telephone number of the representative of 
@@ -16385,8 +16304,7 @@ FR 4626, Feb. 17, 1988; 53 FR 5982, Feb. 29, 1988; 56 FR 36111, July 31,
 
 
 <R05>
-Sec. 1150.34  Caption summary--transactions that involve creation of 
-Class III carriers.
+Sec. 1150.34  Caption summary--transactions that involve creation of Class III carriers.
 
     The caption summary must be in the following form. The information 
 symbolized by numbers is identified in the key below:
@@ -16424,8 +16342,7 @@ as amended at 53 FR 5982, Feb. 29, 1988; 69 FR 58366, Sept. 30, 2004]
 
 
 <R05>
-Sec. 1150.35  Procedures and relevant dates--transactions that involve 
-creation of Class I or Class II carriers.
+Sec. 1150.35  Procedures and relevant dates--transactions that involve creation of Class I or Class II carriers.
 
     (a) To qualify for this exemption, applicant must serve a notice of 
 intent to file a notice of exemption no later than 14 days before the 
@@ -16501,7 +16418,7 @@ parties should begin environmental and historic consultations well
 before the notice of exemption is filed. Environmental requirements may 
 be waived or modified where a petitioner demonstrates in writing that 
 such action is appropriate. See 49 CFR 1105.10(c). It is to the 
-advantage of parties to consult with the Board's Section of 
+advantage of parties to consult with the Board's Sec. ion of 
 Environmental Analysis (SEA) at the earliest possible date to begin 
 environmental review.
     (c) Procedures and dates. (1) At least 20 days prior to the filing 
@@ -16683,8 +16600,7 @@ done so.
 
 
 <R05>
-Sec. 1150.43  Information to be contained in notice for small line 
-acquisitions.
+Sec. 1150.43  Information to be contained in notice for small line acquisitions.
 
     (a) The full name and address of the Class III rail carrier 
 applicant;
@@ -16748,8 +16664,7 @@ transaction.
 
 
 <R05>
-Sec. 1150.45  Procedures and relevant dates--transactions under section 
-10902 that involve creation of Class I or Class II rail carriers.
+Sec. 1150.45  Procedures and relevant dates--transactions under section 10902 that involve creation of Class I or Class II rail carriers.
 
     (a) To qualify for this exemption, applicant must serve a notice of 
 intent to file a notice of exemption no later than 14 days before the 
@@ -16797,7 +16712,7 @@ PART 1151_FEEDER RAILROAD DEVELOPMENT PROGRAM--Table of Contents
 
 
 
-Sec.
+Sec. 
 1151.1 Scope.
 1151.2 Procedures.
 1151.3 Contents of application.
@@ -17107,7 +17022,7 @@ TRANSPORTATION UNDER 49 U.S.C. 10903--Table of Contents
 
                             Subpart A_General
 
-Sec.
+Sec. 
 1152.1 Purpose and scope.
 1152.2 Definitions.
 
@@ -17179,7 +17094,7 @@ Act of 1995), 721(a), 10502, 10903-10905, and 11161.
 Sec. 1152.1  Purpose and scope.
 
     (a) 49 U.S.C. 10903 et seq. governs abandonment of rail lines and 
-discontinuance of rail service by common carriers. Section 10903(d) 
+discontinuance of rail service by common carriers. Sec. ion 10903(d) 
 provides that no line of railroad may be abandoned and no rail service 
 discontinued unless the Board finds that the present or future public 
 convenience and necessity require or permit the abandonment or 
@@ -17303,8 +17218,7 @@ explanation of the interrelationship must be furnished.
 
 
 <R05>
-Sec. 1152.11  Description of lines to accompany the system diagram map 
-or information to be contained in the narrative.
+Sec. 1152.11  Description of lines to accompany the system diagram map or information to be contained in the narrative.
 
     Each carrier required to file a system diagram map or narrative 
 shall list and describe, separately by category and within each category 
@@ -17312,7 +17226,7 @@ by state, all lines or portions of lines identified on its system
 diagram map or to be included in its narrative as falling within 
 categories 1 thru 3 (Sec. 1152.10(b)(1) thru (3)) as follows:
     (a) Carrier's designation for each line (for example, the Zanesville 
-Secondary Track);
+Sec. ndary Track);
     (b) State or states in which each line is located;
     (c) County or counties in which each line is located;
     (d) Mileposts delineating each line or portion of line; and
@@ -17591,7 +17505,7 @@ protest. Parties seeking information concerning the filing of protests
 should refer to Sec. 1152.25.
     Written comments and protests, including all requests for public use 
 and trail use conditions, should indicate the proceeding designation STB 
-No. AB -------- (Sub-No. --------) and must be filed with the Secretary, 
+No. AB -------- (Sub-No. --------) and must be filed with the Sec. etary, 
 Surface Transportation Board, Washington, DC 20423, no later than 
 (insert the date 45 days after the date applicant intends to file its 
 application). Interested persons may file a written comment or protest 
@@ -17618,7 +17532,7 @@ terms is (insert name and business address).
 procedures may contact the Surface Transportation Board or refer to the 
 full abandonment or discontinuance regulations at 49 CFR part 1152. 
 Questions concerning environmental issues may be directed to the Board's 
-Section of Environmental Analysis.
+Sec. ion of Environmental Analysis.
     A copy of the application will be available for public inspection on 
 or after (insert date abandonment application is to be filed with Board) 
 at each agency station or terminal on the line proposed to be abandoned 
@@ -17629,10 +17543,10 @@ location, and business hours)]. The carrier shall furnish a copy of the
 application to any interested person proposing to file a protest or 
 comment, upon request.
     An environmental assessment (EA) (or environmental impact statement 
-(EIS), if necessary) prepared by the Section of Environmental Analysis 
+(EIS), if necessary) prepared by the Sec. ion of Environmental Analysis 
 will be served upon all parties of record and upon any agencies or other 
 persons who commented during its preparation. Any other persons who 
-would like to obtain a copy of the EA (or EIS) may contact the Section 
+would like to obtain a copy of the EA (or EIS) may contact the Sec. ion 
 of Environmental Analysis. EAs in these abandonment proceedings normally 
 will be made available within 33 days of the filing of the application. 
 The deadline for submission of comments on the EA will generally be 
@@ -17827,7 +17741,7 @@ for interim trail use and rail banking under 16 U.S.C. 1247(d) and Sec.
 refer to Sec. 1152.25.
     Written comments and protests, including all requests for public use 
 and trail use conditions, must indicate the proceeding designation STB 
-No. AB----- (Sub-No. ----) and should be filed with the Secretary, 
+No. AB----- (Sub-No. ----) and should be filed with the Sec. etary, 
 Surface Transportation Board (Board), Washington,
 
 [[Page 206]]
@@ -17857,12 +17771,12 @@ terms is (insert name and business address).
 procedures may contact the Surface Transportation Board or refer to the 
 full abandonment or discontinuance regulations at 49 CFR part 1152. 
 Questions concerning environmental issues may be directed to the Board's 
-Section of Environmental Analysis.
+Sec. ion of Environmental Analysis.
     An environmental assessment (EA) (or environmental impact statement 
-(EIS), if necessary) prepared by the Section of Environmental Analysis 
+(EIS), if necessary) prepared by the Sec. ion of Environmental Analysis 
 will be served upon all parties of record and upon any agencies or other 
 persons who commented during its preparation. Any other persons who 
-would like to obtain a copy of the EA (or EIS) may contact the Section 
+would like to obtain a copy of the EA (or EIS) may contact the Sec. ion 
 of Environmental Analysis. EAs in these abandonment proceedings normally 
 will be made available within 33 days of the filing of the application. 
 The deadline for submission of comments on the EA will generally be 
@@ -17906,7 +17820,7 @@ Sec. 1152.24  Filing and service of application.
 
     (a) An original and 10 copies of applications, typewritten or 
 printed on paper approximately 8\1/2\ inches by 11 inches with 1\1/2\ 
-inch left margin, shall be filed with the Secretary of the Surface 
+inch left margin, shall be filed with the Sec. etary of the Surface 
 Transportation Board, Washington, DC 20423. The original shall bear the 
 date and signature and shall be complete in itself; the signature may be 
 stamped or typed and the notarial seal may be omitted on the copies. A 
@@ -17986,7 +17900,7 @@ that abandonment has been consummated.
 <R05>
 Sec. 1152.25  Participation in abandonment or discontinuance proceedings.
 
-    (a) Public participation. (1) Protests and comments. Interested 
+    (a) Public participation--(1) Protests and comments. Interested 
 persons may become parties to an abandonment or discontinuance 
 proceeding by filing written comments or protests with the Board. Any 
 request for a public use condition under 49 U.S.C. 10905 (Sec. 1152.28 
@@ -18057,7 +17971,7 @@ protection.
     (c) Filing and service of written comments, protests, along with 
 evidence and argument, and replies. (1) Written comments and protests, 
 as well as public use and trail use requests, shall be filed with the 
-Board (the Secretary, Surface Transportation Board, Washington, DC 
+Board (the Sec. etary, Surface Transportation Board, Washington, DC 
 20423) within 45 days of the filing with the Board of an abandonment or 
 discontinuance application.
     (2) An original and 10 copies of each written comment or protest 
@@ -18307,7 +18221,7 @@ discontinuance applications and petitions for exemption--(i) Service and
 filing. An offeror must serve its offer of assistance on the carrier 
 owning and operating the line and all parties to the abandonment or 
 discontinuance application or exemption proceeding. The offer must be 
-filed concurrently with the Secretary, Surface Transportation Board, 
+filed concurrently with the Sec. etary, Surface Transportation Board, 
 Washington, DC 20423.
     (A) An offer may be filed and served at any time after the filing of 
 the abandonment or discontinuance application or petition for exemption. 
@@ -18362,7 +18276,7 @@ Register publication).
     (ii) Service and filing. An offeror must serve its offer of 
 assistance on the carrier that instituted the exempt filing as well as 
 all other parties to the proceeding. The offer must be filed 
-concurrently with the Secretary, Surface Transportation Board, 
+concurrently with the Sec. etary, Surface Transportation Board, 
 Washington, DC 20423.
     (A) An offer may be filed and served at any time after the filing of 
 the notice of exemption. Once a notice of exemption is published in the 
@@ -18754,8 +18668,7 @@ decision authorizing the abandonment or discontinuance.
 
 
 <R05>
-Sec. 1152.29  Prospective use of rights-of-way for interim trail use and 
-rail banking.
+Sec. 1152.29  Prospective use of rights-of-way for interim trail use and rail banking.
 
     (a) If any state, political subdivision, or qualified private 
 organization is interested in acquiring or using a right-of-way of a 
@@ -18932,7 +18845,7 @@ railroad's filing of a notice of consummation, and there are no legal or
 regulatory barriers to consummation, the authority to abandon will 
 automatically expire. In that event, a new proceeding would have to be 
 instituted if the railroad wants to abandon the line. Copies of the 
-railroad's notice of consummation shall be filed with the Secretary of 
+railroad's notice of consummation shall be filed with the Sec. etary of 
 the Board. In addition, the notice of consummation shall be sent to the 
 State Public Service Commission (or equivalent agency) of every state 
 through which the line passes. If, however, any legal or regulatory 
@@ -19398,7 +19311,7 @@ Ballast--switching--material......        21-12-16   Do.
                                                      maintenance of way
                                                      11- 11/12-10
                                                      through 17, and 48,
-                                                     sec. 1152.33(a)(2).
+                                                     Sec. 1152.33(a)(2).
     Materials.....................        21-13-37   Do.
     Repairs by others--DR.........        39-13-37   Do.
     Repairs for others--CR........        40-13-37   Do.
@@ -19510,7 +19423,7 @@ Joint facility--credit--other.....        38-13-00   Do.
                                                      Yard diesel and
                                                      yard electric
                                                      locomotive unit
-                                                     hours, Sec.
+                                                     hours, Sec. 
                                                      1152.33(b)(1).
     Materials.....................        21-21-41   Do.
     Repairs by others--DR.........        39-21-41   Do.
@@ -19753,14 +19666,14 @@ Fringe benefits...................        12-23-00  11-23-XX, sec.
     Other expenses................        61-31-61   Do.
       Train and inspection and
        lubrication
-    Salaries and wages............        11-31-62  Train hours, Sec.
+    Salaries and wages............        11-31-62  Train hours, Sec. 
                                                      1152.33(c)(1)(i).
     Materials.....................        21-31-62   Do.
     Purchased services............        41-31-62  Actual.
     Other expenses................        61-31-62   Do.
       Locomotive fuel
     Salaries and wages............        11-31-67  Diesel locomotive
-                                                     unit hours, Sec.
+                                                     unit hours, Sec. 
                                                      1152.33(c)(1)(ii).
     Materials.....................        21-31-67   Do.
     Purchased services............        41-31-67   Do.
@@ -20172,7 +20085,7 @@ developed in paragraph (g)(3)(i) of this section; and
 time-mileage freight cars (Form R-1, schedule 414, column (f)).
 
 
-Second, subtract the mileage portion of the carrier's receipts for hire 
+Sec. nd, subtract the mileage portion of the carrier's receipts for hire 
 of time-mileage freight cars (Form R-1, schedule 414, column (c)). 
 Finally, divide the result by the total car-miles for each car-type 
 developed in paragraph (g)(2) of this section.
@@ -20334,7 +20247,7 @@ latest Annual Report Form R-1 filed by the railroad, with two
 exceptions. First, the amount used in the formula for freight car 
 depreciation shall be calculated using the procedure discussed in 
 paragraph (g)(3)(iii) of this section applied to the average total car 
-fleet of the railroad. Second, the return on investment in freight cars 
+fleet of the railroad. Sec. nd, the return on investment in freight cars 
 shall be computed using the procedure set forth in paragraph (g)(3)(ii) 
 of this section. In addition, the application of URCS shall include the 
 use of the nominal cost of capital for all return on investment 
@@ -20677,8 +20590,7 @@ after the abandonment.
 
 
 <R05>
-Sec. 1152.33  Apportionment rules for the assignment of expenses to 
-on-branch costs.
+Sec. 1152.33  Apportionment rules for the assignment of expenses to on-branch costs.
 
     The accounts specified under Sec. 1152.32 (a), (b), (c), and (d) as 
 having an assignment basis other than ``Actual'' shall be apportioned 
@@ -20723,7 +20635,7 @@ the basis of the ratio of branch diesel and electric locomotive gross
 ton-miles in road service to the total system diesel and electric 
 locomotive gross ton-miles in road service. The costs assigned under 
 these accounts for specialized equipment devoted exclusively to branch 
-line service shall be theactual costs for the specific equipment used.
+line service shall be the actual costs for the specific equipment used.
     (2) Locomotive depreciation. Locomotive depreciation shall be 
 calculated and assigned in accordance with the procedures set forth in 
 Sec. 1152.32(o).
@@ -21119,8 +21031,7 @@ Subpart E [Reserved]
 
 
 <R05>
-Sec. 1152.50  Exempt abandonments and discontinuances of service and 
-trackage rights.
+Sec. 1152.50  Exempt abandonments and discontinuances of service and trackage rights.
 
     (a)(1) A proposed abandonment or discontinuance of service or 
 trackage rights over a railroad line is exempt from the provisions of 49 
@@ -21270,7 +21181,7 @@ shall be in the form set forth below:
 
                     STB No. AB------- (Sub-No.------)
 
-  Notice of Petition for Exemption to Abandon or to Discontinue Service
+  Notice of Petition for Exemption To Abandon or To Discontinue Service
 
     On (insert date petition was filed with the Board) (name of 
 petitioner) filed with the Surface Transportation Board, Washington, 
@@ -21304,12 +21215,12 @@ Register.
 procedures may contact the Surface Transportation Board or refer to the 
 full abandonment or discontinuance regulations at 49 CFR part 1152. 
 Questions concerning environmental issues may be directed to the Board's 
-Section of Environmental Analysis.
+Sec. ion of Environmental Analysis.
     An environmental assessment (EA) (or environmental impact statement 
-(EIS), if necessary) prepared by the Section of Environmental Analysis 
+(EIS), if necessary) prepared by the Sec. ion of Environmental Analysis 
 will be served upon all parties of record and upon any agencies or other 
 persons who commented during its preparation. Any other persons who 
-would like to obtain a copy of the EA (or EIS) may contact the Section 
+would like to obtain a copy of the EA (or EIS) may contact the Sec. ion 
 of Environmental Analysis. EAs in these abandonment proceedings normally 
 will be made available within 60 days of the filing of the petition. The 
 deadline for submission of comments on the EA will generally be within 
@@ -21328,21 +21239,11 @@ consummated.
 
 [61 FR 67883, Dec. 24, 1996, as amended at 62 FR 34670, June 27, 1997]
 
-                       PARTS 1155-1176 [RESERVED]
+                       PARTS 1155	1176 [RESERVED]
 
+                   Parts 1177	1199_Finance Procedures
 
-
-Parts 1177-1199_Finance Procedures--Table of Contents
-
-
-
-
-
-
-Parts 1177-1179_Securities, Security Interests and Financial Structures--Table of Contents
-
-
-
+ Parts 1177 1179_Sec. rities, Sec. rity Interests and Financial Structures
 
 
 <R03>
@@ -21351,7 +21252,7 @@ PART 1177_RECORDATION OF DOCUMENTS--Table of Contents
 
 
 
-Sec.
+Sec. 
 1177.1 Definitions and classifications of documents.
 1177.2 To whom documents should be submitted for recordation.
 1177.3 Requirements for submission.
@@ -21385,7 +21286,7 @@ total or partial.
 Sec. 1177.2  To whom documents should be submitted for recordation.
 
     Documents to be recorded shall be submitted in person or by mail 
-addressed to the Secretary, Surface Transportation Board, Washington, DC 
+addressed to the Sec. etary, Surface Transportation Board, Washington, DC 
 20423. All documents submitted by mail should clearly state ``Documents 
 for Recordation'' on the envelope.
 
@@ -21450,7 +21351,7 @@ personally appeared (name of signor), to me known to be the person
 described in and who executed the foregoing instrument and (s)he 
 acknowledged that (s)he executed the same as his/her free act and deed.
 (SEAL)
-________________________________________________________________________
+[fxsp0]_________________________________________________________________
 
 Signature of Notary Public
 
@@ -21470,7 +21371,7 @@ signed and sealed on behalf of said corporation by authority of its
 Board of Directors, and (s)he acknowledged that the execution of the 
 foregoing instrument was the free act and deed of said corporation.
 (SEAL)
-________________________________________________________________________
+[fxsp0]_________________________________________________________________
 Signature of Notary Public
 My Commission expires___________________________________________________
 
@@ -21503,7 +21404,7 @@ recording of the document. For a sample of a letter, see Sec. 1177.4
 Documents submitted concurrently under the same recordation number may 
 be included in a single transmittal letter. Otherwise, each document 
 must have its own letter of transmittal. The letter should be addressed 
-to the Secretary and include the following information:
+to the Sec. etary and include the following information:
     (1) Type of Agreement. (equipment trust, mortgage, assignment, 
 etc.).
     (2) Whether document is a primary document or a secondary document 
@@ -21583,7 +21484,7 @@ Sec. 1177.4  Sample forms.
 of lessor, mortgagor, bailor, etc.] and [name and address of lessee, 
 mortgagee, bailee, etc.] dated [date], and covering [briefly list amount 
 and types of equipment].
-    (2) Secondary documents. (i) If an assignment--Assignment between 
+    (2) Sec. ndary documents. (i) If an assignment--Assignment between 
 [name and address of assignor] and [name and address of assignee] dated 
 [date of assignment] and covering [list amount and types of equipment], 
 and connected to [type of document primary document is] with Recordation 
@@ -21599,11 +21500,11 @@ document], dated [date of amendment, supplement, release, etc.] and
 covering [list amount and types of equipment].
     (b) Sample Letter of Transmittal.
 
-[Secretary's Name] Secretary, Surface Transportation Board, Washington, 
+[Sec. etary's Name] Sec. etary, Surface Transportation Board, Washington, 
 D.C.
 
-    Dear Secretary: I have enclosed an original and one copy/counterpart 
-of the document(s) described below, to be recorded pursuant to Section 
+    Dear Sec. etary: I have enclosed an original and one copy/counterpart 
+of the document(s) described below, to be recorded pursuant to Sec. ion 
 11301 of Title 49 of the U.S. Code.
     This document is a [mortgage, lease, equipment trust, supplement, 
 etc.], a [primary or secondary] document, dated [date].
@@ -21630,7 +21531,7 @@ whom documents should be returned].
 short summary as described in 1177.4(a).).
  Very truly yours,
 
-________________________________________________________________________
+[fxsp0]_________________________________________________________________
 
 [signature of an executive officer of one of the parties, their 
 attorney, or representative in fact.]
@@ -21669,14 +21570,9 @@ the documents are respected.
 discretionary and encumbrances exist which are not on file with the 
 Board.
 
-                       PARTS 1178-1179 [RESERVED]
+                       PARTS 1178	1179 [RESERVED]
 
-
-<R03>
-Parts 1180-1189_Combinations and Ownership--Table of Contents
-
-
-
+               Parts 1180	1189_Combinations and Ownership
 
 
 <R03>
@@ -21688,7 +21584,7 @@ TRACKAGE RIGHTS, AND LEASE PROCEDURES--Table of Contents
 
                 Subpart A_General Acquisition Procedures
 
-Sec.
+Sec. 
 1180.0 Scope and purpose.
 1180.1 General policy statement for merger or control of at least two 
           Class I railroads.
@@ -21728,7 +21624,7 @@ Sec. 1180.0  Scope and purpose.
 to be filed and the procedures to be followed in control, merger, 
 acquisition, lease, trackage rights, and any other consolidation 
 transaction involving more than one railroad that is initiated under 49 
-U.S.C. 11323. Section 1180.2 separates these transactions into four 
+U.S.C. 11323. Sec. ion 1180.2 separates these transactions into four 
 types: Major, significant, minor, and exempt. The informational 
 requirements for these types of transactions differ. Before an 
 application is filed, the designation of type of transaction may be 
@@ -21764,8 +21660,7 @@ Sec. 1180.4(b)(1)).
 
 
 <R05>
-Sec. 1180.1  General policy statement for merger or control of at least 
-two Class I railroads.
+Sec. 1180.1  General policy statement for merger or control of at least two Class I railroads.
 
     (a) General. To meet the needs of the public and the national 
 defense, the Surface Transportation Board (Board) seeks to ensure 
@@ -21950,7 +21845,7 @@ adverse environmental impacts in deciding whether to approve a
 transaction as proposed, deny the proposal, or approve it with 
 conditions, including appropriate environmental mitigation conditions 
 addressing concerns raised by the parties, including federal, state, and 
-local government entities. The Board's Section of Environmental Analysis 
+local government entities. The Board's Sec. ion of Environmental Analysis 
 (SEA) ensures that the agency meets its responsibilities under NEPA and 
 the implementing regulations at 49 CFR part 1105 by providing the Board 
 with an independent environmental review of merger proposals. In 
@@ -22373,7 +22268,7 @@ applicant. Applications shall be made under oath and shall contain an
 appropriate certification (if a corporation, by its secretary) showing 
 that the affiant is duly authorized to verify and file the application. 
 Any person controlling an applicant shall also sign the application.
-    (ii) The application shall be filed with Secretary, Surface 
+    (ii) The application shall be filed with Sec. etary, Surface 
 Transportation Board, Washington, DC 20423.
     (iii) Each copy of the application shall conform in all respects to 
 the original and shall be complete in itself except that the signature 
@@ -22416,7 +22311,7 @@ application filed under these procedures by first-class mail upon:
 and the Department of Transportation of each State in which any part of 
 the properties of the applicant carriers involved in the proposed 
 transaction is situated;
-    (ii) The Secretary of the United States Department of Transportation 
+    (ii) The Sec. etary of the United States Department of Transportation 
 (Docket Clerk, Office of Chief Counsel, Federal Railroad Administration, 
 Room 5101, 400 Seventh Street, SW., Washington, DC 20590).
     (iii) The Attorney General of the United States;
@@ -22439,7 +22334,7 @@ provide an explanation. The application should be bound, and it may be
 bound in more than one volume. If an application is more than one 
 volume, the cover of each volume should be in a different color. The 
 pages in each volume shall begin with 1, and be sequentially numbered.
-    (iii) The Board's Office of the Secretary will provide informal 
+    (iii) The Board's Office of the Sec. etary will provide informal 
 opinions and interpretations, which are not binding on the Board, 
 regarding the format of or information to be included in the 
 application.
@@ -22507,7 +22402,7 @@ consolidated cases will be issued:
 proceeding for a major transaction;
     (ii) Within 90 days for a significant transaction; and
     (iii) Within 45 days for a minor transaction.
-    (4) The Secretary of Transportation may propose modifications to any 
+    (4) The Sec. etary of Transportation may propose modifications to any 
 transaction and shall have standing to appear before the Board in 
 support of any such proposed modification.
     (f) Waiver or clarification. (1) Upon petition of a prospective 
@@ -22541,7 +22436,7 @@ specific reasons why each waiver or clarification is necessary.
 with the Board at least one week before the transaction is consummated 
 indicating the proposed consummation date. Before a notice is filed, the 
 railroad shall obtain a docket number from the Board's Office of the 
-Secretary.
+Sec. etary.
     (i) The notice shall contain the information required in Sec. 
 1180.6(a)(1)(i)-(iii), (a)(5)-(6), and (a)(7)(ii), and indicate the 
 level of labor protection to be imposed.
@@ -22575,7 +22470,7 @@ filing of a petition to revoke will not stay the transaction.
     Dated:
     By the Board.
 James H. Bayne,
-Secretary.
+Sec. etary.
 
     The following key identifies the information symbolized in the 
 summary.
@@ -22620,7 +22515,7 @@ filing of a petition to revoke will not stay the transaction.
 Dated:
 By the Board.
 [Insert name]
-Secretary.
+Sec. etary.
 
     The following key identifies the information symbolized in the 
 summary.
@@ -22794,11 +22689,11 @@ source, and application of such financial assistance.
 respect to environmental matters prepared in accordance with 49 CFR part 
 1105. In major and significant transaction, applicants shall, as soon as 
 possible, and no later than the filing of a notice of intent, consult 
-with the Board's Section of Environmental Analysis for the proper format 
+with the Board's Sec. ion of Environmental Analysis for the proper format 
 of the environmental report.
     (b) In a major transaction, submit the following information:
     (1) Form 10-K (exhibit 6). Submit: The most recent filing with the 
-Securities and Exchange Commission (SEC) under 17 CFR 249.310 made 
+Sec. rities and Exchange Commission (SEC) under 17 CFR 249.310 made 
 within the year prior to the filing of the application by each applicant 
 or by any entity that is in control of an applicant. These shall not be 
 incorporated by reference, and shall be updated with any Form 10-K 
@@ -23386,15 +23281,14 @@ also must be identified by commodity sector (for example, merchandise,
 intermodal, automotive, unit coal, unit grain etc.). Data for each flow 
 must include: traffic volume in carloads (units), miles (area to area), 
 and elapsed time in hours. Only loaded traffic need be included.
-    (2) Yard and terminal benchmarking.
-    (i) Terminal dwell. Terminal dwell for major yards will be 
-calculated in hours for cars handled, not including run-through and 
-bypass trains or maintenance of way and bad order cars.
+    (2) Yard and terminal benchmarking.--(i) Terminal dwell. Terminal 
+dwell for major yards will be calculated in hours for cars handled, not 
+including run-through and bypass trains or maintenance of way and bad 
+order cars.
     (ii) On time originations by major yard. On time originations are 
 based on the departure of scheduled trains originating at a particular 
 yard.
-    (3) System benchmarking.
-    (i) Cars on line.
+    (3) System benchmarking. (i) Cars on line.
     (ii) Average train velocity, by train type.
     (iii) Locomotive fleet size and applicable bad order ratios.
     (iv) Passenger train performance for commuter and intercity 
@@ -23453,13 +23347,13 @@ FR 9717, Mar. 4, 1997]
 
 
 <R03>
-PART 1182_PURCHASE, MERGER, AND CONTROL OF MOTOR PASSENGER CARRIERS
---Table of Contents
+PART 1182_PURCHASE, MERGER, AND CONTROL OF MOTOR PASSENGER CARRIERS--
+Table of Contents
 
 
 
 
-Sec.
+Sec. 
 1182.1 Applications covered by this part.
 1182.2 Content of applications.
 1182.3 Filing the application.
@@ -23795,7 +23689,7 @@ PART 1184_MOTOR CARRIER POOLING OPERATIONS--Table of Contents
 
 
 
-Sec.
+Sec. 
 1184.1 Scope and purpose.
 1184.2 Contents of a pooling application.
 1184.3 Processing pooling applications.
@@ -23893,7 +23787,7 @@ PART 1185_INTERLOCKING OFFICERS--Table of Contents
 
 
 
-Sec.
+Sec. 
 1185.1 Definitions and scope of regulations.
 1185.2 Contents of application.
 1185.3 Procedures.
@@ -24057,7 +23951,7 @@ person may be elected or appointed with a terminal railroad the
 properties of which are operated or used by the carrier jointly with 
 other carriers.
 
-                       PARTS 1187-1199 [RESERVED]
+                       PARTS 1187	1199 [RESERVED]
 
 
 [[Page 285]]
@@ -24089,7 +23983,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2005)
+                     (Revised as of October 1, 2006)
 
                       Title 1--General Provisions
 
@@ -24103,10 +23997,9 @@ which is published separately and revised annually.
             Subtitle A--Office of Management and Budget Guidance 
                 for Grants and Agreements
          I  Office of Management and Budget Governmentwide 
-                Guidance for Grants and Agreements (Parts 100--
-                199)
+                Guidance for Grants and Agreements (Parts 100-199)
         II  Office of Management and Budget Circulars and Guidance 
-                (Parts 200--299)
+                (200-299)
             Subtitle B--Federal Agency Regulations for Grants and 
                 Agreements [Reserved]
 
@@ -24195,6 +24088,9 @@ which is published separately and revised annually.
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Part 
                 9701)
+      XCIX  Department of Defense Human Resources Management and 
+                Labor Relations Systems (Department of Defense--
+                Office of Personnel Management) (Part 9901)
 
                       Title 6--Homeland Security
 
@@ -24242,13 +24138,13 @@ which is published separately and revised annually.
                 1600--1699)
       XVII  Rural Utilities Service, Department of Agriculture 
                 (Parts 1700--1799)
+
+[[Page 290]]
+
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
                 Agency, Department of Agriculture (Parts 1800--
                 2099)
-
-[[Page 290]]
-
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
       XXVI  Office of Inspector General, Department of Agriculture 
@@ -24736,7 +24632,7 @@ which is published separately and revised annually.
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
-                         Title 35--[Reserved]
+                          Title 35 [Reserved]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -24939,7 +24835,8 @@ which is published separately and revised annually.
            Title 48--Federal Acquisition Regulations System
 
          1  Federal Acquisition Regulation (Parts 1--99)
-         2  Department of Defense (Parts 200--299)
+         2  Defense Acquisition Regulations System, Department of 
+                Defense (Parts 200--299)
          3  Department of Health and Human Services (Parts 300--
                 399)
          4  Department of Agriculture (Parts 400--499)
@@ -24979,11 +24876,11 @@ which is published separately and revised annually.
         44  Federal Emergency Management Agency (Parts 4400--4499)
         51  Department of the Army Acquisition Regulations (Parts 
                 5100--5199)
-        52  Department of the Navy Acquisition Regulations (Parts 
-                5200--5299)
 
 [[Page 303]]
 
+        52  Department of the Navy Acquisition Regulations (Parts 
+                5200--5299)
         53  Department of the Air Force Federal Acquisition 
                 Regulation Supplement (Parts 5300--5399)
         54  Defense Logistics Agency, Department of Defense (Parts 
@@ -25022,7 +24919,7 @@ which is published separately and revised annually.
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
         XI  Research and Innovative Technology Administration, 
-                Department of Transportation (Parts 1400--1499)
+                Department of Transportation - [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
 
@@ -25068,7 +24965,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2005)
+                     (Revised as of October 1, 2006)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -25211,10 +25108,10 @@ Defense Department                                5, XXVI; 32, Subtitle A;
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
+  Defense Acquisition Regulations System          48, II
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Federal Acquisition Regulation                  48, 2
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 32, I
@@ -25348,14 +25245,13 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-General Accounting Office                         4, I
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
+  Federal Management Regulation                   41, 102
 
 [[Page 309]]
 
-  Federal Management Regulation                   41, 102
   Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
@@ -25366,6 +25262,7 @@ General Services Administration                   5, LVII; 41, 105
   Relocation Allowances                           41, 302
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
+Government Accountability Office                  4, I
 Government Ethics, Office of                      5, XVI
 Government National Mortgage Association          24, III
 Grain Inspection, Packers and Stockyards          7, VIII; 9, II
@@ -25376,6 +25273,7 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Child Support Enforcement, Office of            45, III
   Children and Families, Administration for       45, II, III, IV, X
   Community Services, Office of                   45, X
+  Defense Acquisition Regulations System          48, 2
   Family Assistance, Office of                    45, II
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
@@ -25426,11 +25324,10 @@ Indian Health Service                             25, V; 42, I
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
-     Archives and Records Administration
-Inspector General
-
+   Archives and Records Administration
 [[Page 310]]
 
+Inspector General
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
   Housing and Urban Development Department        24, XII
@@ -25507,10 +25404,10 @@ Labor Department                                  5, XLII
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
   Public Contracts                                41, 50
-  Secretary of Labor, Office of                   29, Subtitle A
 
 [[Page 311]]
 
+  Secretary of Labor, Office of                   29, Subtitle A
   Veterans' Employment and Training Service,      41, 61; 20, IX
        Office of the Assistant Secretary for
   Wage and Hour Division                          29, V
@@ -25581,10 +25478,10 @@ Natural Resources Conservation Service            7, VI
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
-Neighborhood Reinvestment Corporation             24, XXV
 
 [[Page 312]]
 
+Neighborhood Reinvestment Corporation             24, XXV
 Northeast Interstate Low-Level Radioactive Waste  10, XVIII
      Commission
 Nuclear Regulatory Commission                     5, XLVIII; 10, I
@@ -25659,10 +25556,10 @@ Surface Mining Reclamation and Enforcement,       30, VII
      Office of
 Surface Transportation Board                      49, X
 Susquehanna River Basin Commission                18, VIII
-Technology Administration                         15, XI
 
 [[Page 313]]
 
+Technology Administration                         15, XI
 Technology Policy, Assistant Secretary for        37, IV
 Technology, Under Secretary for                   37, V
 Tennessee Valley Authority                        5, LXIX; 18, XIII
@@ -25760,5 +25657,16 @@ Chapter X
         removed; (b)(4) and (c)(6)(vi) added.......................32586
 1180.6 (b)(1) through (4), (6) and (8) revised; (b)(9) through 
         (13) added.................................................32587
-1180.7 Revised..
+1180.7 Revised.....................................................32588
+1180.8 (a) and (b) redesignated as (b) and (c); new (a) added......32589
+1180.10 Added......................................................32589
+1180.11 Added......................................................32590
+
+                                  2002
+
+49 CFR
+                                                                   67 FR
+                                                                    Page
+Chapter X
+1002 Policy stateme
 </pre></body></html>

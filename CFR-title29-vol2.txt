@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 29 CFR ]
-[Code of Federal Regulations (annual edition) - July 1, 2005 Edition]
+[Code of Federal Regulations (annual edition) - July 1, 2006 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -14,7 +14,7 @@
 
           Parts 100 to 499
 
-                         Revised as of July 1, 2005
+                         Revised as of July 1, 2006
 
 
           Labor
@@ -27,7 +27,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of July 1, 2005
+          As of July 1, 2006
           With Ancillaries
                     Published by
                     Office of the Federal Register
@@ -100,13 +100,13 @@ ________________________
           Chapter I--National Labor Relations Board                  5
           Chapter II--Office of Labor-Management Standards, 
           Department of Labor                                      119
-          Chapter III--National Railroad Adjustment Board          133
+          Chapter III--National Railroad Adjustment Board          125
           Chapter IV--Office of Labor-Management Standards, 
-          Department of Labor                                      137
+          Department of Labor                                      129
   Finding Aids:
-      Table of CFR Titles and Chapters........................     239
-      Alphabetical List of Agencies Appearing in the CFR......     257
-      List of CFR Sections Affected...........................     267
+      Table of CFR Titles and Chapters........................     231
+      Alphabetical List of Agencies Appearing in the CFR......     249
+      List of CFR Sections Affected...........................     259
 
 [[Page iv]]
 
@@ -162,7 +162,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, July 1, 2005), consult the ``List of CFR 
+revision date (in this case, July 1, 2006), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -234,7 +234,7 @@ volume, contact the issuing agency. The issuing agency's name appears at
 the top of odd-numbered pages.
     For inquiries concerning CFR reference assistance, call 202-741-6000 
 or write to the Director, Office of the Federal Register, National 
-Archives and Records Administration, Washington, DC 20408 or e-mail, 
+Archives and Records Administration, Washington, DC 20408 or e-mail 
 fedreg.info@nara.gov.
 
 SALES
@@ -263,14 +263,14 @@ mail, gpoaccess@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
-information. Connect to NARA's web site at www.archives.gov/federal--
+information. Connect to NARA's web site at www.archives.gov/federal-
 register. The NARA site also contains links to GPO Access.
 
                               Raymond A. Mosley,
                                     Director,
                           Office of the Federal Register.
 
-July 1, 2005.
+July 1, 2006.
 
 [[Page ix]]
 
@@ -283,7 +283,7 @@ volumes are arranged in the following order: parts 0-99, parts 100-499,
 parts 500-899, parts 900-1899, parts 1900-1910, part 1910.1000-End, 
 parts 1911-1925, part 1926, and part 1927 to end. The contents of these 
 volumes represent all current regulations codified under this title as 
-of July 1, 2005.
+of July 1, 2006.
 
     Subject indexes appear following the occupational safety and health 
 standards (part 1910), and following the safety and health regulations 
@@ -301,7 +301,7 @@ Frances D. McDonald, assisted by Alomha S. Morris.
                              TITLE 29--LABOR
 
 
-
+<R02>
 
                   (This book contains parts 100 to 499)
 
@@ -460,8 +460,8 @@ Subpart C--Employee Personal Property Loss Claims [Reserved]
 
 
 <R05>
-Sec. 100.401  Claims under the Federal Tort Claims Act for loss of or 
-damage to property or for personal injury or death.
+Sec. 100.401  Claims under the Federal Tort Claims Act for loss of 
+or damage to property or for personal injury or death.
 
     (a) Filing of claims. Pursuant to 28 U.S.C. 2672, any claim under 
 the Federal Tort Claims Act for money damages for loss of or injury to 
@@ -1316,7 +1316,8 @@ further statement in support of objections to the settlement agreement.
     (3) If the settlement agreement approved by the Regional Director is 
 an informal one, providing for the withdrawal of the complaint, the 
 charging party may appeal the Regional Director's action to the General 
-Counsel, as provided in Sec. of the Board's Rules and Regulations.
+Counsel, as provided in Sec. 102.19 of the Board's Rules and 
+Regulations.
     (d)(1) If the settlement occurs after the opening of the hearing and 
 before issuance of the administrative law judge's decision and there is 
 an all-party informal settlement, the request for withdrawal of the 
@@ -2023,6 +2024,7 @@ Director may process it under the procedures set forth in subpart C.
 Sec. 101.24  Final disposition of a charge which has been held pending 
 investigation of the petition.
 
+
     (a) Upon the determination that the issuance of a direction of 
 election is warranted on the petition, the Regional Director, absent 
 withdrawal of the charge, dismisses it subject to an appeal to the 
@@ -2242,8 +2244,8 @@ of such charge.
 
 
 <R05>
-Sec. 101.32  Investigation of charges; withdrawal of charges; dismissal 
-of charges and appeals to Board.
+Sec. 101.32  Investigation of charges; withdrawal of charges; dismissal of 
+charges and appeals to Board.
 
     These matters are handled as described in Sec. Sec. 101.4 to 101.7, 
 inclusive. Cases involving violation of paragraph (4)(D) of section 8(b) 
@@ -3299,7 +3301,6 @@ Sup. 151-167), (65 Stat. 601; 29 U.S.C. 158, 159, 168), (73 Stat. 519;
 
 <R05>
 Sec. 102.24  Motions; where to file; contents; service on other parties; 
-
 promptness in filing and response; default judgment procedures; summary 
 judgment procedures.
 
@@ -3395,7 +3396,6 @@ Sup. 151-167), (65 Stat. 601; 29 U.S.C. 158, 159, 168), (73 Stat. 519;
 
 <R05>
 Sec. 102.26  Motions, rulings, and orders part of the record; rulings 
-
 not to be appealed directly to the Board without special permission; 
 requests for special permission to appeal.
 
@@ -3448,8 +3448,8 @@ the case shall be closed.
 
 
 <R05>
-Sec. 102.28  Filing of answer or other participation in proceedings 
-not a waiver of rights.
+Sec. 102.28  Filing of answer or other participation in proceedings not 
+a waiver of rights.
 
     The right to make motions or to make objections to rulings upon 
 motions shall not be deemed waived by the filing of an answer or by 
@@ -3570,7 +3570,6 @@ FR 51193, Aug. 1, 1980; 62 FR 1668, Jan. 13, 1997]
 
 <R05>
 Sec. 102.31  Issuance of subpoenas; petitions to revoke subpoenas; 
-
 rulings on claim of privilege against self-incrimination; subpoena 
 enforcement proceedings; right to inspect and copy data.
 
@@ -3760,9 +3759,8 @@ Sup. 151-167), (65 Stat. 601; 29 U.S.C. 158, 159, 168), (73 Stat. 519;
 
 <R05>
 Sec. 102.35  Duties and powers of administrative law judges; stipulations 
-
-of cases to administrative law judges or to the Board; assignment and 
-powers of settlement judges.
+of cases to administrative law judges or to the Board; assignment and powers 
+of settlement judges.
 
     (a) It shall be the duty of the administrative law judge to inquire 
 fully into the facts as to whether the respondent has engaged in or is 
@@ -3945,8 +3943,8 @@ evidence with respect to any issue.
 
 
 <R05>
-Sec. 102.41  Objection to conduct of hearing; how made; objections 
-not waived by further participation.
+Sec. 102.41  Objection to conduct of hearing; how made; objections not 
+waived by further participation.
 
     Any objection with respect to the conduct of the hearing, including 
 any objection to the introduction of evidence, may be stated orally or 
@@ -4042,11 +4040,9 @@ FR 6942, Feb. 23, 1996]
 
 
 <R05>
-Sec. 102.46  Exceptions, cross-exceptions, briefs, answering briefs; 
-
-time for filing; where to file; service on the parties; extension of 
-time; effect of failure to include matter in exceptions; reply briefs; 
-oral arguments.
+Sec. 102.46  Exceptions, cross-exceptions, briefs, answering briefs; time for 
+filing; where to file; service on the parties; extension of time; effect of 
+failure to include matter in exceptions; reply briefs; oral arguments.
 
     (a) Within 28 days, or within such further period as the Board may 
 allow, from the date of the service of the order transferring the case 
@@ -4187,10 +4183,9 @@ matter shall not be filed and if submitted will not be accepted.
 
 
 <R05>
-Sec. 102.48  Action of the Board upon expiration of time to file 
-
-exceptions to the administrative law judge's decision; decisions 
-by the Board; extraordinary postdecisional motions.
+Sec. 102.48  Action of the Board upon expiration of time to file exceptions 
+to the administrative law judge's decision; decisions by the Board; 
+extraordinary postdecisional motions.
 
     (a) In the event no timely or proper exceptions are filed as herein 
 provided, the findings, conclusions, and recommendations of the 
@@ -4540,7 +4535,6 @@ FR 658, Jan. 7, 2002]
 
 <R05>
 Sec. 102.61  Contents of petition for certification; contents of petition 
-
 for decertification; contents of petition for clarification of bargaining 
 unit; contents of petition for amendment of certification.
 
@@ -4962,11 +4956,10 @@ FR 9932, Mar. 5, 1997]
 
 
 <R05>
-Sec. 102.67  Proceedings before the regional director; further hearing; 
+Sec. 102.67  Proceedings before the regional director; further hearing; briefs; 
 
-briefs; action by the regional director; appeals from action by the 
-regional director; statement in opposition to appeal; transfer of case 
-to the Board; proceedings before the Board; Board action.
+action by the regional director; appeals from action by the regional director; 
+statement in opposition to appeal; transfer of case to the Board; proceedings before the Board; Board action.
 
     (a) The regional director may proceed, either forthwith upon the 
 record or after oral argument, the submission of briefs, or further 
@@ -5134,11 +5127,9 @@ transmit the record to the Board.
 
 
 <R05>
-Sec. 102.69  Election procedure; tally of ballots; objections; 
-
-certification by the regional director; report on challenged ballots; 
-report on objections; 
-          exceptions; action of the Board; hearing.
+Sec. 102.69  Election procedure; tally of ballots; objections; certification 
+by the regional director; report on challenged ballots; report on objections; 
+exceptions; action of the Board; hearing.
 
     (a) Unless otherwise directed by the Board, all elections shall be 
 conducted under the supervision of the Regional Director in whose Region 
@@ -5289,7 +5280,7 @@ upon the expiration of the period for filing such exceptions, may decide
 the matter forthwith upon the record or may make other disposition of 
 the case. The Board shall thereupon proceed pursuant to Sec. 102.67: 
 Provided, however, That in any with an unfair labor practice case for 
-purposes of hearing the provisions of Sec. 102.46 of thes rules shall 
+purposes of hearing the provisions of Sec. 102.46 of these rules shall 
 govern with respect to the filing of exceptions or an answering brief to 
 the exceptions to the administrative law judge's decision.
     (g)(1)(i) In a proceeding pursuant to this section in which a 
@@ -5495,13 +5486,11 @@ FR 23748, July 1, 1986]
 
 
 <R05>
-Sec. 102.72  Filing petition with general counsel; investigation upon 
+Sec. 102.72  Filing petition with general counsel; investigation upon motion of 
 
-motion of general counsel; transfer of petition and proceeding from 
-region to general 
-          counsel or to another region; consolidation of proceedings in 
-          same region; severance; procedure before general counsel in 
-          cases over which he has assumed jurisdiction.
+general counsel; transfer of petition and proceeding from region to general counsel 
+or to another region; consolidation of proceedings in same region; severance; procedure 
+before general counsel in cases over which he has assumed jurisdiction.
 
     (a) Whenever it appears necessary in order to effectuate the 
 purposes of the Act, or to avoid unnecessary costs of delay, the general 
@@ -5570,8 +5559,8 @@ which event the provisions of Sec. 102.81 shall be applicable.
 
 
 <R05>
-Sec. 102.75  Suspension of proceedings on the charge where timely 
-petition is filed.
+Sec. 102.75  Suspension of proceedings on the charge where timely petition 
+is filed.
 
     If it appears to the regional director that issuance of a complaint 
 may be warranted but for the pendency of a petition under section 9(c) 
@@ -5712,11 +5701,9 @@ as a stay of any action by the regional director.
 
 
 <R05>
-Sec. 102.81  Review by the general counsel of refusal to proceed on 
-
-charge; resumption of proceedings upon charge held during pendency 
-of petition; review by 
-          the general counsel of refusal to proceed on related charge.
+Sec. 102.81  Review by the general counsel of refusal to proceed on charge; 
+resumption of proceedings upon charge held during pendency of petition; review 
+by the general counsel of refusal to proceed on related charge.
 
     (a) Where an election has been directed by the regional director or 
 the Board in accordance with the provisions of Sec. Sec. 102.77 and 
@@ -5765,8 +5752,8 @@ counsel.
 
 
 <R05>
-Sec. 102.83  Petition for referendum under section 9(e)(1) of the Act; 
-who may file; where to file; withdrawal.
+Sec. 102.83  Petition for referendum under section 9(e)(1) of the Act; who 
+may file; where to file; withdrawal.
 
     A petition to rescind the authority of a labor organization to make 
 an agreement requiring as a condition of employment membership in such 
@@ -5818,8 +5805,8 @@ of documents for petitioners.
 
 
 <R05>
-Sec. 102.85  Investigation of petition by regional director; consent 
-referendum; directed referendum.
+Sec. 102.85  Investigation of petition by regional director; consent referendum; 
+directed referendum.
 
     Where a petition has been filed pursuant to Sec. 102.83 and it 
 appears to the regional director that the petitioner has made an 
@@ -6035,8 +6022,8 @@ recommendations of the trial examiner.
 
 
 <R05>
-Sec. 102.95  Priority of cases pursuant to section 10(l) and (m) of 
-the Act.
+Sec. 102.95  Priority of cases pursuant to section 10(l) and (m) of the 
+Act.
 
     (a) Whenever a charge is filed alleging the commission of an unfair 
 labor practice within the meaning of paragraph (4) (A), (B), (C), or (7) 
@@ -6203,8 +6190,8 @@ issuance of the Board's advisory opinion.
 
 
 <R05>
-Sec. 102.105  Petitions for declaratory orders; who may file; where to 
-file; withdrawal.
+Sec. 102.105  Petitions for declaratory orders; who may file; where to file; 
+withdrawal.
 
     Whenever both an unfair labor practice charge and a representation 
 case relating to the same employer are contemporaneously on file in a 
@@ -6575,12 +6562,10 @@ orders of the Board.
 
 
 <R05>
-Sec. 102.117  Board materials and formal documents available for public 
+Sec. 102.117  Board materials and formal documents available for public inspection 
 
-inspection and copying; requests for described records; time limit for 
-response; appeal 
-          from denial of request; fees for document search and 
-          duplication; files and records not subject to inspection.
+and copying; requests for described records; time limit for response; appeal from 
+denial of request; fees for document search and duplication; files and records not subject to inspection.
 
     (a)(1) This subpart contains the rules that the National Labor 
 Relations Board follows in processing requests for records under the 
@@ -6622,17 +6607,17 @@ Directors in the adjudication of representation cases pursuant to the
 delegation of authority from the Board under section 3(b) of the Act are 
 available to the public for inspection and copying in the original 
 office where issued. Records encompassed within paragraphs (a)(2)(i) 
-through (a)(2)(vii) of this section created on or afterNovember 1, 1996, 
-will be made available by November 1, 1997, to the public by computer 
-telecommunications or, if computer telecommunications means have not 
-been established by the Agency, by other electronic means. The Agency 
-shall maintain and make available for public inspection and copying a 
-current subject matter index of all reading room materials which shall 
-be updated regularly, at least quarterly, with respect to newly included 
-records. Copies of the index are available upon request for a fee of the 
-direct cost of duplication. The index of FOIA-processed records referred 
-to in paragraph (a)(2)(vii) of this section will be available by 
-computer telecommunications by December 31, 1999.
+through (a)(2)(vii) of this section created on or after November 1, 
+1996, will be made available by November 1, 1997, to the public by 
+computer telecommunications or, if computer telecommunications means 
+have not been established by the Agency, by other electronic means. The 
+Agency shall maintain and make available for public inspection and 
+copying a current subject matter index of all reading room materials 
+which shall be updated regularly, at least quarterly, with respect to 
+newly included records. Copies of the index are available upon request 
+for a fee of the direct cost of duplication. The index of FOIA-processed 
+records referred to in paragraph (a)(2)(vii) of this section will be 
+available by computer telecommunications by December 31, 1999.
     (3) Copies of forms prescribed by the board for the filing of 
 charges under section 10 alleging violations of the Act under section 8, 
 or petitions under section 9, may be obtained without charge from any 
@@ -7524,12 +7509,10 @@ FR 42235, Aug. 9, 1993; 60 FR 32587, June 23, 1995; 61 FR 13765, Mar.
 
 
 <R05>
-Sec. 102.118  Present and former Board employees prohibited from producing 
+Sec. 102.118  Present and former Board employees prohibited from producing files, 
 
-files, records, etc., pursuant to subpoena ad testificandum or subpoena 
-duces tecum; 
-          prohibited from testifying in regard thereto; production of 
-          witnesses' statements after direct testimony.
+records, etc., pursuant to subpoena ad testificandum or subpoena duces tecum; prohibited 
+from testifying in regard thereto; production of witnesses' statements after direct testimony.
 
     (a)(1) Except as provided in Sec. 102.117 of these rules respecting 
 requests cognizable under the Freedom of Information Act, no present or 
@@ -8430,8 +8413,8 @@ vouchers, receipts, or other substantiation for any expenses claimed.
 
 
 <R05>
-Sec. 102.148  When an application may be filed; place of filing; 
-service; referral to administrative law judge; stay of proceeding.
+Sec. 102.148  When an application may be filed; place of filing; service; 
+referral to administrative law judge; stay of proceeding.
 
     (a) An application may be filed after entry of the final order 
 establishing that the applicant has prevailed in an adversary 
@@ -9037,10 +9020,8 @@ efforts before referring a debt for tax refund offset.
 
 <R05>
 Sec. 102.177  Exclusion from hearings; Refusal of witness to answer 
-
 questions; Misconduct by attorneys and party representatives before 
-the Agency; Procedures 
-          for processing misconduct allegations.
+the Agency; Procedures for processing misconduct allegations.
 
     (a) Any attorney or other representative appearing or practicing 
 before the Agency shall conform to the standards of ethical and 
@@ -9445,7 +9426,6 @@ application in accordance with the Military Selective Service Act of
 Part                                                                Page
 215             Guidelines, section 5333(b), Federal Transit 
                     Law.....................................         121
-220             Airline employee protection program.........         124
 
 [[Page 121]]
 
@@ -9752,664 +9732,7 @@ number 202-693-0126.
 
 [64 FR 40995, July 28, 1999]
 
-
-<R03>
-PART 220_AIRLINE EMPLOYEE PROTECTION PROGRAM--Table of Contents
-
-
-
-
- Subpart A_Purpose and Scope of the Airline Employee Protection Program
-
-Sec.
-220.01 Definitions.
-220.02 Purpose.
-220.03 Scope.
-220.04 Responsibilities of the Secretary of Labor.
-
-         Subpart B_Designated Employees' Eligibility and Rights
-
-220.10 Eligibility requirements.
-220.11 Designated employees' rights.
-
-                  Subpart C_Carriers' Responsibilities
-
-220.20 Duty to hire.
-220.21 Criteria for employment.
-220.22 Listing a vacancy.
-220.23 Content of vacancy listing.
-220.24 Filling a vacancy.
-220.25 List of protected employees.
-220.26 Appeals to the Secretary.
-220.27 Notice of rights.
-220.28 Air carrier actions to be reported to the Secretary.
-220.29 Equal employment opportunity.
-
-            Subpart D_Designated Employees' Responsibilities
-
-220.30 Designated employees' responsibilities.
-
-            Subpart E_Department of Labor's Responsibilities
-
-220.40 Comprehensive job list.
-220.41 List of protected employees.
-
-                        Subpart F_Administration
-
-220.50 Effective period of the program.
-220.51 Disclosure of information.
-
 [[Page 125]]
-
-
-Appendix I to Part 220--U.S. Carriers Certificated as of October 23, 
-          1978 Under Section 401 of the Federal Aviation Act of 1958, as 
-          Amended
-
-    Authority: Section 43(f) of the Airline Deregulation Act of 1978, 
-Pub. L. No. 95-504, 92 Stat. 1750-1753 (49 U.S.C. 1552); Secretary's 
-Order No. 1-79, 44 FR 13093; Secretary's Order No. 5-96, 62 FR 107, 
-January 2, 1997.
-
-    Source: 50 FR 53101, Dec. 27, 1985, unless otherwise noted.
-
-
-<R04>
- Subpart A_Purpose and Scope of the Airline Employee Protection Program
-
-
-<R05>
-Sec. 220.01  Definitions.
-
-    As used in this part, unless the content otherwise indicates:
-    (a) Act means the Airline Deregulation Act of 1978, Public Law 95-
-504, 92 Stat. 1705.
-    (b) Air Carrier means an air carrier certificated under section 401 
-of the Federal Aviation Act of 1958 (49 U.S.C. 1371).
-    (c) Center means the entity or location which from time to time may 
-be designated by the Secretary to receive, maintain and distribute the 
-job listing information required by this part.
-    (d) Corporate officer means an individual who holds any officer's 
-position established pursuant to the Articles of Incorporation or bylaws 
-of any air carrier, or who is otherwise identified as an officer by any 
-air carrier, in filings with the Federal Aviation Administration, Civil 
-Aeronautics Board or Securities and Exchange Commission or in any 
-reports to stockholders or any public communications of an air carrier.
-    (e) Covered air carrier means an air carrier which was certificated 
-prior to October 24, 1978 (A listing of such carriers appears as an 
-appendix to this part).
-    (f) Designated employee means a protected employee who meets the 
-eligibility requirements set forth in Sec. 220.10.
-    (g) Effective period means the period commencing on the effective 
-date of these regulations and ending on the later of:
-    (1) October 23, 1988, or
-    (2) The last day of the final month in which the Secretary is 
-required to make a payment under section 43 of the Act; except that 
-nothing in these regulations shall preclude the exercise of statutory 
-rights and duties between October 24, 1978, and the effective date of 
-these regulations.
-    (h) Eligibility period means the ten-year period beginning on 
-October 24, 1978.
-    (i) Employment relationship means an attachment to a covered air 
-carrier which includes, but is not limited to, compensated service, 
-furlough, leave, or strike.
-    (j) Equal employment opportunity requirement means a specific equal 
-employment requirement, pursuant to a Federal court or administrative 
-order, consent decree, or conciliation agreement, requiring that named 
-individuals or specific members of a class are entitled to relief by 
-virtue of the carrier's unlawful employment discrimination.
-    (k) Occupational specialty means the class, craft, or field of 
-endeavor in which an individual was employed at the time of separation 
-from a covered air carrier or in which the employee was employed during 
-the 12 months immediately preceding the date of separation.
-    (l) Protected employee means a person other than a member of the 
-Board of Directors or corporate officer of a covered air carrier:
-    (1) Who had an employment relationship with a covered air carrier on 
-October 24, 1978, and
-    (2) Who on October 24, 1978, had four years of employment or four 
-years accrued seniority with a single covered air carrier. The term 
-employee shall include any full or part-time employee other than an 
-employee in seasonal or temporary employment as defined herein. As used 
-herein four years of employment shall mean not less than 48 months 
-(whether or not consecutive) in which the employee actually completed 
-the minimum number of hours of regular employment required for such 
-employee's craft, class or position under the then applicable 
-requirements of the employing carrier.
-    (m) Seasonal employment means employment during limited periods of 
-the year due to peak market conditions or other factors which are 
-periodic in nature, and in positions which do not confer seniority or 
-recall rights.
-
-[[Page 126]]
-
-    (n) Secretary means the Secretary of Labor of the United States.
-    (o) Temporary employment means employment of limited duration which 
-does not confer seniority or recall rights.
-    (p) Terminated, means, unless expressly provided to the contrary, 
-termination of employment, other than for cause.
-    (q) Terminated for cause means the separation of an individual from 
-employment initiated by an air carrier for violation of such carrier's 
-rules, policies, procedures, or practices pertaining to employee 
-standards of conduct, job performance, or dependability.
-    (r) Vacancy means an employment opportunity other than seasonal or 
-temporary employment, which an air carrier seeks to fill from outside 
-its existing or furloughed work force.
-
-
-<R05>
-Sec. 220.02  Purpose.
-
-    Section 43(d) of the Act provides a first-right-of-hire for 
-designated employees of covered air carriers. The regulations in this 
-part are issued to effectuate section 43(d) (1) and (2) of the Act 
-(hereinafter referred to as the Rehire Program).
-
-
-<R05>
-Sec. 220.03  Scope.
-
-    (a) The Rehire Program is applicable only to designated employees, 
-as more fully set forth herein, and only those employees who are 
-expressly granted a hiring preference under the Act and these 
-regulations have any rights under the Rehire Program. The Secretary of 
-Labor will also publish a comprehensive list of jobs available with air 
-carriers.
-
-
-<R05>
-Sec. 220.04  Responsibilities of the Secretary of Labor.
-
-    The Secretary of Labor is responsible for administering the Rehire 
-Program, and the Assistant Secretary for Employment Standards has been 
-delegated responsibility for the following:
-    (a) The development and promulgation of policies, regulations and 
-procedures covering the first-right-of-hire provisions of section 
-43(d)(1) of the Act;
-    (b) The development and promulgation of policies, regulations, and 
-procedures covering the comprehensive job list required under section 
-43(d)(2) of the Act; and
-    (c) The establishment and implementation of reporting requirements 
-for air carriers to obtain pertinent information necessary for 
-fulfilling the Secretary's responsibilities under section 43(d)(2) of 
-the Act.
-
-[50 FR 53101, Dec. 27, 1985, as amended at 62 FR 6092, Feb. 10, 1997]
-
-
-<R04>
-         Subpart B_Designated Employees' Eligibility and Rights
-
-
-<R05>
-Sec. 220.10  Eligibility requirements.
-
-    (a) To qualify as a designated employee eligible for rights under 
-this part 220, an applicant must be a protected employee who is 
-involuntarily placed on furlough or is terminated by a covered air 
-carrier during the eligibility period.
-    (b) A protected employee shall not be deemed to be furloughed or 
-terminated if such employee:
-    (1) Retired voluntarily;
-    (2) Was required to retire by virtue of reaching the mandatory 
-retirement age, if any, established by a covered air carrier or as 
-prescribed by any government agency with regulatory authority over a 
-covered air carrier;
-    (3) Retired due to a disability;
-    (4) Is on strike or is withholding services in support of other 
-employees who have struck the covered air carrier;
-    (5) Is terminated for cause as defined in Sec. 220.01;
-    (6) Resigned or voluntarily quit for any reason.
-    (c) A designated employee who is recalled by his former carrier is 
-no longer eligible under this section to exercise the first-right-of-
-hire. Such a person may become a designated employee in the future due 
-to a subsequent termination or furlough which occurs on or prior to the 
-expiration of the eligibility period.
-
-
-<R05>
-Sec. 220.11  Designated employees' rights.
-
-    (a) A designated employee shall have a first-right-of-hire in such 
-employee's occupational specialty, regardless of age, with any covered 
-air carrier hiring additional employees; Provided, however, That each 
-designated employee must satisfy all qualifications or other
-
-[[Page 127]]
-
-requirements established by the hiring carrier (subject to the 
-limitations contained in Sec. 220.21) and must make a timely 
-application in accordance with normal carrier procedures for any 
-particular job vacancy.
-    (b) A designated employee hired by any covered air carrier pursuant 
-to the provisions of the Act shall not be required, as a condition of 
-employment, or in any other manner, to relinquish, waive, or forfeit any 
-seniority or recall rights which such person may possess with any other 
-air carrier; Provided, however, That the provisions of this part shall 
-not be deemed to create or prolong any such seniority or recall rights.
-
-
-<R04>
-                  Subpart C_Carriers' Responsibilities
-
-
-<R05>
-Sec. 220.20  Duty to hire.
-
-    (a) Subject to Sec. 220.24, a covered air carrier shall have the 
-duty to hire a designated employee, regardless of age, who otherwise 
-meets the qualification requirements established by such carrier before 
-it hires any other applicant when such carrier is seeking to fill a 
-vacancy in the designated employee's occupational specialty from outside 
-its work force. As used herein ``work force'' shall include all present 
-employees and any furloughed or terminated employees who, at the time of 
-furlough or termination, possessed recall or seniority rights.
-    (b) Subject to the provisions of Sec. 220.24, a covered air carrier 
-shall not fill a vacancy, which would otherwise be available to a 
-designated employee, by promoting or reassigning a seasonal or temporary 
-employee, unless such seasonal or temporary employee is a designated 
-employee.
-    (c) When considering applications from more than one designated 
-employee for a particular vacancy, a covered air carrier shall be 
-entitled to offer employment to any such designated employee in its 
-absolute discretion.
-
-
-<R05>
-Sec. 220.21  Criteria for employment.
-
-    (a) A covered air carrier shall be entitled to apply any 
-prerequisites or qualifications determined by it for any vacancy, except 
-that, solely with respect to the duty to hire created by the Act, a 
-covered air carrier shall not be entitled to limit employment 
-opportunities for designated employees on the basis of:
-    (1) Initial hiring age (provided that such prohibition shall not be 
-applicable to retirement ages applicable to all of any class or craft of 
-such air carrier's employees); or
-    (2) The existence of any seniority, recall rights or previous 
-experience with any other air carrier; Provided, however, That covered 
-air carriers shall be entitled to require prospective employees to 
-disclose the existence of any such seniority or recall rights in making 
-application for employment and to take the existence or nonexistence of 
-such rights into account in selecting from among those qualified 
-designated employees who have applied for a particular job vacancy.
-    (b) In filling job vacancies during the effective period, covered 
-air carriers shall be entitled to require applicants to furnish evidence 
-that they are designated employees.
-
-    Editorial Note: A court-ordered justification by the Secretary of 
-Labor relating to 29 CFR 220.21(a)(1) appears at 51 FR 32306, Sept. 11, 
-1986.
-
-
-<R05>
-Sec. 220.22  Listing a vacancy.
-
-    (a) During the effective period all air carriers shall be required 
-to list each vacancy with the Center at the earliest practicable time, 
-and to include with such listing a statement as to whether the carrier 
-is subject to an equal employment opportunity requirement, as defined in 
-these regulations, in filling the vacancy. In addition, any air carrier 
-shall be entitled to list anticipated vacancies with the Center at any 
-time.
-
-
-<R05>
-Sec. 220.23  Content of vacancy listing.
-
-    Air carriers shall provide the Center with a description for each 
-job listing, which shall include, but need not be limited to, the 
-following:
-    (a) Job title;
-    (b) Type of position (full or part-time);
-    (c) Salary;
-    (d) Basic qualifications and/or training requirements;
-    (e) Brief description of duties;
-    (f) Location of vacancy (if known);
-
-[[Page 128]]
-
-    (g) Special requirements such as type rating, licensing, skill 
-requirements, etc.;
-    (h) Whether the vacancy is subject to the duty to hire;
-    (i) Information on how to apply, such as contact person, mailing 
-address, and any special application procedures; and
-    (j) Whether the carrier is subject to an equal employment 
-opportunity requirement, as defined in these regulations, in filling the 
-vacancy.
-
-(Approved by the Office of Management and Budget under OMB control 
-number 1214-0002)
-
-
-<R05>
-Sec. 220.24  Filling a vacancy.
-
-    (a) A covered air carrier may fill a vacancy with a designated 
-employee at any time after a vacancy has been listed with the Center.
-    (b) A covered air carrier may fill a vacancy with someone who is not 
-a designated employee after the vacancy has been listed with the Center 
-for at least 30 days; if
-    (1) No designated employee with the requisite occupational specialty 
-has applied for the vacancy in accordance with Sec. 220.30 within that 
-time;
-    (2) No designated employee who did apply within that time period 
-meets the carriers' criteria for employment as set forth in Sec. 
-220.21; or
-    (3) The vacancy is subject to an equal employment opportunity 
-requirement and the carrier cannot satisfy such equal employment 
-opportunity requirement by hiring a designated employee.
-    (c) A covered air carrier may fill a vacancy on a temporary basis 
-with someone who is not a designated employee while the carrier is 
-considering applications for the vacancy which were received from 
-designated employees during the listing period.
-    (d) The date of the listing shall be the date on which the listing 
-is received by the Center.
-
-
-<R05>
-Sec. 220.25  List of protected employees.
-
-    (a) Within 60 calendar days of the effective date of these 
-regulations, each covered air carrier shall provide the Secretary with a 
-list of all protected employees who were employed by it on October 24, 
-1978.
-    (b) The list shall contain the following information:
-    (1) Protected employee's name;
-    (2) Social Security number (if available); and
-    (3) Current occupational specialty for present employees or 
-occupational specialty at the time of separation from employment for 
-former employees.
-    (c)(1) Not later than 90 calendar days after the effective date of 
-these regulations, each covered air carrier shall provide a onetime 
-notice to each employee with an employment relationship with the carrier 
-on October 24, 1978, stating whether or not the carrier has determined 
-that employee to be a protected employee within the meaning of these 
-regulations, and if so that the carrier has reported his or her name to 
-the Secretary. Employees who are determined to be not protected shall be 
-advised of their rights to appeal.
-    (2) Employees who dispute the carrier's determination of protected 
-status may submit evidence of their status to the covered air carrier 
-within 60 calendar days of receiving the notice required by paragraph 
-(c)(1).
-    (3) The covered air carrier shall consider the evidence submitted by 
-the employee and shall inform the employee of its final determination 
-within 15 calendar days of the submission of evidence. In the event the 
-carrier determines that the employee qualifies as a protected employee, 
-it shall forward the information required by paragraph (b) of this 
-section to the Secretary.
-
-(The requirements contained in Sec. 220.25(a) were approved by the 
-Office of Management and Budget under OMB control number 1214-0002)
-
-
-<R05>
-Sec. 220.26  Appeals to the Secretary.
-
-    (a) If the employee disagrees with the carrier's final determination 
-under Sec. 220.25 that he or she is not a protected employee within the 
-meaning of this part, the employee (or his or her designated 
-representative with express authorization) may appeal such determination 
-to the Secretary within 60 calendar days of the carrier's final decision 
-under Sec. 220.25(c)(3) or the date when such decision was required.
-    (b) An appeal must be written, dated, and signed by the employee. It 
-must set forth:
-
-[[Page 129]]
-
-    (1) The full name, address, and telephone number of the employee;
-    (2) The full name and address of the carrier making the 
-determination; the full name of the individual(s) who made the 
-determination for the carrier and the date of that determination;
-    (3) A summary of the pertinent events and circumstances concerning 
-the employee's status and the basis of the disagreement, including the 
-original date of hire, date of all periods of furlough, leave or 
-termination, and copies of relevant documents; and
-    (4) Such other information as may be required by the Secretary.
-    (c) Any appeal hereunder may be filed with the Airline Employee 
-Protection Program, Division of Statutory Programs, Office of Labor-
-Management Standards, 200 Constitution Avenue, NW., Washington, DC 
-20210.
-    (d)(1) Upon receipt of an appeal, the Secretary will request 
-information from the parties or conduct such other investigation as may 
-be required.
-    (2) Upon review of the entire record, the Secretary shall determine 
-either that:
-    (i) The employee qualifies for protected status, and the Secretary 
-shall add the employee's name to the list of protected employees and so 
-notify the parties; or
-    (ii) The employee does not qualify for protected status and so 
-notify the parties.
-
-[50 FR 53101, Dec. 27, 1985, as amended at 62 FR 6092, Feb. 10, 1997]
-
-
-<R05>
-Sec. 220.27  Notice of rights.
-
-    (a) Not later than the date of separation from employment, a covered 
-air carrier which furloughs or terminates a protected employee during 
-the eligibility period, unless such furlough is limited to a specific 
-period of less than 90 calendar days, shall furnish such protected 
-employee with a notice of rights in the form of a letter or other 
-written documentation that such employee is a designated employee and 
-thereby is entitled to exercise a first-right-of-hire. Such notice of 
-rights shall include, but not be limited to, the following information:
-    (1) Name;
-    (2) Social Security number (if available);
-    (3) Occupational specialty;
-    (4) Date of furlough or termination;
-    (5) An official of the covered air carrier who can verify the 
-individual's status as a designated employee; and
-    (6) Signature, name, and location of the certifying official.
-    (b) As soon as practicable, but not later than 60 calendar days 
-following the effective date of these regulations, each covered air 
-carrier shall make a reasonable effort to provide the notice or rights 
-required in paragraph (a) of this section to any designated employee who 
-was furloughed or terminated by such carrier on or after October 24, 
-1978, and prior to the effective date of these regulations and who has 
-not been recalled to employment by such covered air carrier.
-    (c) A covered air carrier shall provide a verified true copy of the 
-notice of rights to a designated employee who has lost his or her 
-original copy.
-
-(Approved by the Office of Management and Budget under OMB control 
-number 1214-0002)
-
-
-<R05>
-Sec. 220.28  Air carrier actions to be reported to the Secretary.
-
-    (a) A covered air carrier shall report to the Secretary:
-    (1) The names and Social Security numbers (if available) of all 
-designated employees hired by it, and
-    (2) The filling of any vacancy with other than a designated 
-employee.
-
-With respect to any occurrences reported under paragraph (a)(2) of this 
-section, the report of the covered air carrier shall contain the job 
-order number assigned to that vacancy by the Center, the date of hire, 
-and a certification by a corporate officer that the carrier complied 
-with the provisions of this part and that no qualified designated 
-employee with the requisite occupational specialty applied in a timely 
-manner.
-    (b) Two copies of the reports required by this section shall be 
-filed with the Secretary covering the six-month periods ending June 30 
-and December 31 of each calendar year in which these regulations are in 
-effect and shall be submitted within 60 calendar days of the end of the 
-reporting period.
-
-(Approved by the Office of Management and Budget under OMB control 
-number 1214-0002)
-
-[[Page 130]]
-
-
-<R05>
-Sec. 220.29  Equal employment opportunity.
-
-    (a) Where a covered air carrier is under an equal employment 
-opportunity requirement, the covered air carrier shall, to the extent 
-possible, satisfy this equal employment obligation by hiring qualified 
-designated employees.
-    (b) Where a covered air carrier is under an equal employment 
-opportunity requirement and cannot satisfy such requirement by hiring 
-from the pool of qualified designated employees, the carrier may meet 
-its equal employment requirement by hiring non-designated employees. 
-Provided, however, That this provision shall not change or reduce the 
-responsibilities of carriers in regard to the hiring procedures required 
-by Sec. Sec. 220.21, 220.22, 220.23, and 220.24.
-
-
-<R04>
-            Subpart D_Designated Employees' Responsibilities
-
-
-<R05>
-Sec. 220.30  Designated employees' responsibilities.
-
-    It is the responsibility of each designated employee to:
-    (a) Make application to any covered air carrier for whom the 
-designated employee desires to work in the time and manner required by 
-such carrier.
-    (b) To insure that an application previously submitted to a covered 
-air carrier which currently lists a vacancy is in an active status so as 
-to be considered for such vacancy;
-    (c) To provide a copy, if requested, of the notice of rights to a 
-potential employing air carrier; and
-    (d) To retain the original notice of rights for future use.
-
-
-<R04>
-            Subpart E_Department of Labor's Responsibilities
-
-
-<R05>
-Sec. 220.40  Comprehensive job list.
-
-    (a) The Secretary shall establish a Center to maintain a 
-comprehensive listing of all vacancies listed by air carriers in 
-accordance with Sec. Sec. 220.22 and 220.23.
-    (b) The Center will be accessible by telephone throughout the United 
-States to facilitate the listing or modifying of vacancy information by 
-air carriers.
-    (c) The Center shall provide an air carrier with an identifying 
-number for each vacancy listed on the comprehensive listing.
-    (d) The comprehensive listing shall be compiled, published and 
-distributed to each local office of the State Employment Security 
-Agencies on a periodic basis as determined necessary by the Secretary, 
-and it shall be distributed to such other individuals or organizations 
-as may desire to receive copies thereof in accordance with criteria 
-established by the Secretary from time to time.
-
-
-<R05>
-Sec. 220.41  List of protected employees.
-
-    The Secretary shall establish and publish a list of protected 
-employees as reported by covered air carriers under Sec. 220.25. A copy 
-of this list shall be sent to all covered air carriers as soon as 
-available.
-
-
-<R04>
-                        Subpart F_Administration
-
-
-<R05>
-Sec. 220.50  Effective period of the program.
-
-    (a) Beginning date. (1) The requirements set forth in this part 
-shall be effective thirty (30) days after publication in the Federal 
-Register.
-    (b) Ending date. This program and these regulations terminate on the 
-last day of the effective period.
-    (c) Nothing in this part shall affect the rights and duties of 
-protected employees and covered air carriers under the Act prior to the 
-effective date of this part.
-
-
-<R05>
-Sec. 220.51  Disclosure of information.
-
-    The Department of Labor shall make available to covered air carriers 
-and to designated employees or their authorized representatives, all 
-reports, certifications, or lists collected under this part, to the 
-extent permitted by the Privacy Act (5 U.S.C. 552a) and the Department's 
-regulations issued pursuant to that Act (29 CFR part 70a).
-
-[[Page 131]]
-
-  Appendix I to Part 220--U.S. Carriers Certificated as of October 23, 
- 1978, Under Section 401 of the Federal Aviation Act of 1958, as Amended
-
-     (Annotations Reflect Operating Status as of December 2, 1985.)
-
-    1. Airlift International, Inc.
-    2. Air Micronesia, Inc.
-    3. Air Midwest
-    4. Air New England, Inc.*
-    5. Air Wisconsin, Inc.
-    6. Alaska Airlines, Inc.
-    7. Allegheny Airlines, Inc. (2)
-    8. Aloha Airlines, Inc.
-    9. American Airlines, Inc.
-    10. Aspen Airways, Inc.
-    11. Braniff Airways, Inc. (1)
-    12. Capitol International Airways, Inc.*
-    13. Chicago Helicopter Airways, Inc.*
-    14. Colonial Airlines, Inc.*
-    15. Continental Air Lines, Inc.
-    16. Delta Air Lines, Inc.
-    17. Eastern Airlines, Inc.
-    18. Evergreen International Airlines, Inc.
-    19. The Flying Tiger Line, Inc.
-    20. Frontier Airlines, Inc.
-    21. Hawaiian Airlines, Inc.
-    22. Hughes Air Corp.* (4)
-    23. Kodiak Western Alaska Airlines, Inc.*
-    24. Mackey International Airlines, Inc.*
-    25. McCulloch International Airlines, Inc.
-    26. Midway Airlines, Inc.
-    27. Midway (Southwest) Airways, Co.*
-    28. Modern Airways, Inc. (1)
-    29. Munz Northern Airlines, Inc.*
-    30. National Airlines, Inc.* (5)
-    31. New York Airways, Inc.*
-    32. North Central Airlines, Inc.* (4)
-    33. Northwest Airlines, Inc.
-    34. Overseas National Airways, Inc.* (6)
-    35. Ozark Air Lines, Inc.
-    36. Pan American World Airways, Inc.
-    37. Piedmont Aviation, Inc.
-    38. Reeve Aleutian Airways, Inc.
-    39. Rich International Airlines, Inc. (1)
-    40. Seaboard World Airways, Inc.* (7)
-    41. Southern Air Transport, Inc.
-    42. Southern Airways, Inc.* (4)
-    43. Texas International Airlines, Inc. (8)
-    44. Trans International Airlines, Inc. (9)
-    45. Trans World Airlines, Inc.
-    46. United Airlines, Inc.
-    47. Western Air Lines, Inc.
-    48. Wien Air Alaska, Inc.
-    49. World Airways, Inc.
-    50. Wright Air Lines, Inc.
-    51. Zantop International Airlines, Inc.
-
-    * No longer holds certificate.
-    (1) Holds certificate, but not operating.
-    (2) Renamed U.S. Air, Inc.
-    (3) Renamed Capitol Air, Inc.
-    (4) Merged into Republic Airlines, Inc.
-    (5) Merged into Pan American World Airways, Inc.
-    (6) Ceased operation in September 1978. United Air Carriers, Inc., 
-dba National Airlines and dba Overseas National Airways, may be a 
-successor.
-    (7) Merged into Flying Tiger Line, Inc.
-    (8) Merged into Continental Airlines.
-    (9) Renamed Transamerica Airlines, Inc.
-
-[[Page 133]]
 
 
 <R02>
@@ -10420,9 +9743,9 @@ successor.
 
   --------------------------------------------------------------------
 Part                                                                Page
-301             Rules of Procedure..........................         135
+301             Rules of Procedure..........................         127
 
-[[Page 135]]
+[[Page 127]]
 
 
 <R03>
@@ -10519,7 +9842,7 @@ in transportation of passengers or property by water, and all other
 employees of carriers over which jurisdiction is not given to the First, 
 Second, and Third Divisions.
 
-[[Page 136]]
+[[Page 128]]
 
 
 <R05>
@@ -10612,7 +9935,7 @@ national railroad adjustment board,
                                              Attest:--------------------
                                                              [Secretary]
 
-[[Page 137]]
+[[Page 129]]
 
 
 <R02>
@@ -10625,39 +9948,39 @@ national railroad adjustment board,
 
                 SUBCHAPTER A--LABOR-MANAGEMENT STANDARDS
 Part                                                                Page
-401             Meaning of terms used in this subchapter....         139
-402             Labor organization information reports......         141
-403             Labor organization annual financial reports.         144
+401             Meaning of terms used in this subchapter....         131
+402             Labor organization information reports......         133
+403             Labor organization annual financial reports.         136
 404             Labor organization officer and employee 
-                    reports.................................         148
-405             Employer reports............................         150
+                    reports.................................         140
+405             Employer reports............................         142
 406             Reporting by labor relations consultants and 
                     other persons, certain agreements with 
-                    employers...............................         152
-408             Labor organization trusteeship reports......         155
-409             Reports by surety companies.................         157
+                    employers...............................         144
+408             Labor organization trusteeship reports......         147
+409             Reports by surety companies.................         149
 417             Procedure for removal of local labor 
-                    organization officers...................         158
+                    organization officers...................         150
 451             Labor organizations as defined in the Labor-
                     Management Reporting and Disclosure Act 
-                    of 1959.................................         164
+                    of 1959.................................         156
 452             General statement concerning the election 
                     provisions of the Labor-Management 
-                    Reporting and Disclosure Act of 1959....         169
+                    Reporting and Disclosure Act of 1959....         161
 453             General statement concerning the bonding 
                     requirements of the Labor-Management 
-                    Reporting and Disclosure Act of 1959....         201
+                    Reporting and Disclosure Act of 1959....         193
                    SUBCHAPTER B--STANDARDS OF CONDUCT
-457             General.....................................         212
-458             Standards of conduct........................         213
-459             Miscellaneous...............................         227
+457             General.....................................         204
+458             Standards of conduct........................         205
+459             Miscellaneous...............................         219
  SUBCHAPTER C--EMPLOYEE RIGHTS CONCERNING PAYMENT OF UNION DUES OR FEES
 470             Obligations of federal contractors and 
                     subcontractors; notice of employee 
                     rights concerning payment of union dues 
-                    or fees.................................         229
+                    or fees.................................         221
 
-[[Page 139]]
+[[Page 131]]
 
 
 <R03>
@@ -10773,7 +10096,7 @@ Sec. 401.7  Labor dispute.
 
     Labor dispute includes any controversy concerning terms, tenure, or
 
-[[Page 140]]
+[[Page 132]]
 
 conditions of employment, or concerning the association or 
 representation of persons in negotiating, fixing, maintaining, changing, 
@@ -10870,7 +10193,7 @@ Sec. 401.14  Officer.
     Officer means any constitutional officer, any person authorized to 
 perform
 
-[[Page 141]]
+[[Page 133]]
 
 the functions of president, vice president, secretary, treasurer, or 
 other executive functions of a labor organization, and any member of its 
@@ -10985,7 +10308,7 @@ Sec. 402.3  Filing of initial reports.
     (a) Every labor organization shall file with the Office of Labor-
 Management
 
-[[Page 142]]
+[[Page 134]]
 
 Standards the report and (subject to the provisions of paragraph (b) of 
 this section, where applicable) a copy of its constitution and bylaws 
@@ -11068,7 +10391,7 @@ connection with the terminal financial report required by Sec. 403.5 of
 this chapter and shall be signed by the president and treasurer, or 
 corresponding principal officers, of the
 
-[[Page 143]]
+[[Page 135]]
 
 labor organization at the time of its termination or loss of reporting 
 identity and, together with a copy thereof, shall be filed with the 
@@ -11160,7 +10483,7 @@ Sec. 402.11  Attorney-client communications exempted.
     Nothing contained in this part shall be construed to require an 
 attorney
 
-[[Page 144]]
+[[Page 136]]
 
 who is a member in good standing of the bar of any State, to include in 
 any report required to be filed pursuant to the provisions of section 
@@ -11257,7 +10580,7 @@ necessary in such report.
 labor organization required under section 201(b) of the Act and this 
 section, such labor organization is in trusteeship, the labor
 
-[[Page 145]]
+[[Page 137]]
 
 organization which has assumed trusteeship over such labor organization 
 shall file such report as provided in Sec. 408.5 of this chapter.
@@ -11334,7 +10657,7 @@ reports are submitted;
     (3) The national organization with which it is affiliated assumes 
 responsibility for the accuracy of, and submits
 
-[[Page 146]]
+[[Page 138]]
 
 with its annual report, a separate letter-size sheet for each local 
 labor organization containing the following information with respect to 
@@ -11433,7 +10756,7 @@ Date____________________________________________________________________
 Treasurer_______________________________________________________________
 Where signed____________________________________________________________
 
-[[Page 147]]
+[[Page 139]]
 
 Date____________________________________________________________________
 
@@ -11521,7 +10844,7 @@ disbursement, or receipt not otherwise reported on Statement B, to an
 individual or entity in the amount of $5,000 or more, or any two or more 
 disbursements, or receipts not
 
-[[Page 148]]
+[[Page 140]]
 
 otherwise reported on Statement B, to an individual or entity that, in 
 the aggregate, amount to $5,000 or more, because disclosure of such 
@@ -11620,7 +10943,7 @@ the labor organization officer or employee first becomes subject to the
 Act during such fiscal year, may consider such portion as the entire 
 fiscal year in making this report under this part.
 
-[[Page 149]]
+[[Page 141]]
 
     (b) Labor organization officer means any constitutional officer, any 
 person authorized to perform the functions of president, vice president, 
@@ -11709,7 +11032,7 @@ report under section 202(a) of the Act and under this part shall be
 personally responsible for the filing of such report and for any 
 statement contained therein which he knows to be false.
 
-[[Page 150]]
+[[Page 142]]
 
 
 <R05>
@@ -11811,7 +11134,7 @@ thereof to be necessary in such report.
 
 [28 FR 14384, Dec. 27, 1963, as amended at 50 FR 31309, Aug. 1, 1985]
 
-[[Page 151]]
+[[Page 143]]
 
 
 <R05>
@@ -11892,8 +11215,8 @@ attorney-client relationship.
 
 
 <R05>
-Sec. 405.7  Relation of section 8(c) of the National Labor Relations 
-Act, as amended, to the reporting requirements of Sec. 405.2.
+Sec. 405.7  Relation of section 8(c) of the National Labor Relations Act, 
+as amended, to the reporting requirements of Sec. 405.2.
 
     While nothing contained in section 203 of the Act shall be construed 
 as an amendment to, or modification of the rights protected by section 
@@ -11902,7 +11225,7 @@ protected by such section of the said Act are not for that reason
 exempted from the reporting requirements of section 203(a) of the Labor-
 Management Reporting and Disclosure Act of 1959 and Sec. 405.2, and, if
 
-[[Page 152]]
+[[Page 144]]
 
 otherwise subject to such reporting requirements, are required to be 
 reported if they have been engaged in during the course of the reporting 
@@ -11954,14 +11277,14 @@ Sec. 405.11  OMB control number.
 
     The collecting of information requirements in this part have been 
 approved by the Office of Management and Budget and assigned OMB control 
-number1215-0188.
+number 1215-0188.
 
 [59 FR 15116, Mar. 31, 1994, as amended at 63 FR 33779, June 19, 1998]
 
 
 <R03>
-PART 406_REPORTING BY LABOR RELATIONS CONSULTANTS AND OTHER PERSONS, 
-CERTAIN AGREEMENTS WITH EMPLOYERS--Table of Contents
+PART 406_REPORTING BY LABOR RELATIONS CONSULTANTS AND OTHER PERSONS, CERTAIN 
+AGREEMENTS WITH EMPLOYERS--Table of Contents
 
 
 
@@ -12005,7 +11328,7 @@ constitute the fiscal years.
     (c) Undertake means not only the performing of activities, but also 
 the agreeing to perform them or to have them performed.
 
-[[Page 153]]
+[[Page 145]]
 
     (d) A direct or indirect party to an agreement or arrangement 
 includes persons who have secured the services of another or of others 
@@ -12092,7 +11415,7 @@ provisions of this part who during his fiscal year loses his identity as
 a reporting entity through merger, consolidation, dissolution, or 
 otherwise shall within 30 days
 
-[[Page 154]]
+[[Page 146]]
 
 of the effective date thereof or of the effective date of this section, 
 whichever is later, file a terminal report, and one copy thereof, with 
@@ -12137,8 +11460,8 @@ attorney-client relationship.
 
 
 <R05>
-Sec. 406.6  Relation of section 8(c) of the National Labor Relations 
-Act to this part.
+Sec. 406.6  Relation of section 8(c) of the National Labor Relations Act 
+to this part.
 
     While nothing contained in section 203 of the Act shall be construed 
 as an amendment to, or modification of the rights protected by, section 
@@ -12173,7 +11496,7 @@ receipts and applicable resolutions, and shall keep such records
 available for examination for a period of not less than five years after 
 the filing of the documents based on the information which they contain.
 
-[[Page 155]]
+[[Page 147]]
 
 
 <R05>
@@ -12280,7 +11603,7 @@ Sec. 408.4  Semiannual trusteeship report.
 Sec. 408.2 shall thereafter during the continuance of trusteeship over 
 the subordinate labor organization, file with the said Office
 
-[[Page 156]]
+[[Page 148]]
 
 of Labor-Management Standards semiannually, and not later than six 
 months after the due date of the initial trusteeship report, a 
@@ -12312,8 +11635,8 @@ subordinate labor organization on Form LM-2.
 
 
 <R05>
-Sec. 408.6  Amendments to the Labor Organization Information Report 
-filed by or on behalf of the subordinate labor organization.
+Sec. 408.6  Amendments to the Labor Organization Information Report filed 
+by or on behalf of the subordinate labor organization.
 
     During the continuance of a trusteeship, the labor organization 
 which has assumed trusteeship over a subordinate labor organization, 
@@ -12371,7 +11694,7 @@ accuracy and completeness, and shall include vouchers, worksheets,
 receipts, and applicable resolutions, and shall keep such records 
 available for examination for a period
 
-[[Page 157]]
+[[Page 149]]
 
 of not less than five years after the filing of the documents based on 
 the information which they contain.
@@ -12476,7 +11799,7 @@ Stat. 529, 29 U.S.C. 437(b) as amended by 79 Stat. 888) pursuant to a
 finding under section 211 (79 Stat. 888) of the Act that information 
 required to be reported cannot be practicably ascertained
 
-[[Page 158]]
+[[Page 150]]
 
 within 90 days of the end of the fiscal year.
 
@@ -12521,14 +11844,14 @@ Sec. 409.7  OMB control number.
 
     The collecting of information requirements in this part have been 
 approved by the Office of Management and Budget and assigned OMB control 
-number1215-0188.
+number 1215-0188.
 
 [59 FR 15116, Mar. 31, 1994, as amended at 63 FR 33779, June 19, 1998]
 
 
 <R03>
-PART 417_PROCEDURE FOR REMOVAL OF LOCAL LABOR ORGANIZATION OFFICERS
---Table of Contents
+PART 417_PROCEDURE FOR REMOVAL OF LOCAL LABOR ORGANIZATION OFFICERS--Table 
+of Contents
 
 
 
@@ -12556,7 +11879,7 @@ Sec.
 417.14 Form and time for filing of appeal with the Assistant Secretary.
 417.15 Decision of the Assistant Secretary.
 
-Subpart B_Procedures Upon Failure of Union to Take Appropriate Remedial 
+Subpart B_Procedures Upon Failure of Union To Take Appropriate Remedial 
                   Action Following Subpart A Procedures
 
 417.16 Initiation of proceedings.
@@ -12585,7 +11908,7 @@ Sec. 417.1  Purpose and scope.
 of 1959 (29 U.S.C. 481) provides that if, upon application of any member 
 of a local labor organization, the Secretary
 
-[[Page 159]]
+[[Page 151]]
 
 of Labor finds, after hearing in accordance with the Administrative 
 Procedure Act, that the constitution and bylaws of such labor 
@@ -12658,7 +11981,7 @@ organization, and any member of its executive board or similar governing
 body.
     (d) Cause shown means substantial evidence of serious misconduct.
 
-[[Page 160]]
+[[Page 152]]
 
     (e) Interested person means any person or organization whose 
 interests are or may be affected by a proceeding.
@@ -12745,7 +12068,7 @@ hearing is held unless the parties agree to a shorter notice period.
 Such notice shall be transmitted to the labor organization and the 
 officer(s) accused of misconduct and other interested persons,
 
-[[Page 161]]
+[[Page 153]]
 
 insofar as they are known, and shall inform them of:
     (a) The time, place, and nature of the hearings;
@@ -12832,7 +12155,7 @@ call for further evidence or testimony on any matter. After the hearing
 has been closed, no further information shall be received on any matter, 
 except where provision shall have been made for it at
 
-[[Page 162]]
+[[Page 154]]
 
 the hearing, or except as the Administrative Law Judge or Assistant 
 Secretary may direct by reopening the hearing.
@@ -12924,11 +12247,11 @@ issues.
 
 [29 FR 8264, July 1, 1964, as amended at 29 FR 8480, July 7, 1964]
 
-[[Page 163]]
+[[Page 155]]
 
 
 <R04>
-Subpart B_Procedures Upon Failure of Union to Take Appropriate Remedial 
+Subpart B_Procedures Upon Failure of Union To Take Appropriate Remedial 
                   Action Following Subpart A Procedures
 
 
@@ -13014,7 +12337,7 @@ for such hearing, shall be transmitted to the officer or officers
 accused of serious misconduct and other interested persons, insofar as 
 they are known, and shall inform them of (a) the time, place, and
 
-[[Page 164]]
+[[Page 156]]
 
 nature of the hearing; (b) the legal authority and jurisdiction under 
 which the hearing is to be held; (c) the matters of fact and law 
@@ -13115,7 +12438,7 @@ Sec.
 
     Source: 28 FR 14388, Dec. 27, 1963, unless otherwise noted.
 
-[[Page 165]]
+[[Page 157]]
 
 
 <R05>
@@ -13207,7 +12530,7 @@ Sec. 451.3  Requirements of section 3(i).
     (a) Organizations which deal with employers. (1) The term ``labor 
 organization'' includes ``any organization of
 
-[[Page 166]]
+[[Page 158]]
 
 any kind, any agency, or employee representation committee, group, 
 association, or plan * * * in which employees participate and which 
@@ -13291,7 +12614,7 @@ organization for the purposes of the Act with the exception of a labor
 organization composed of employees of the United States Postal Service 
 which is subject
 
-[[Page 167]]
+[[Page 159]]
 
 to the Act by virtue of the Postal Reorganization Act of 1970. 
 (Organizations composed of Federal government employees that meet the 
@@ -13302,7 +12625,7 @@ respectively. In addition, labor organizations subject to the
 Congressional Accountability Act of 1995 are subject to the standards of 
 conduct provisions of the Civil Service Reform Act pursuant to 2 U.S.C. 
 1351(a)(1). The regulations implementing the standards of conduct 
-requirements are contained in parts 457--459 of this title.) However, in 
+requirements are contained in parts 457-459 of this title.) However, in 
 the case of a national, international or intermediate labor organization 
 composed both of government locals and non-government or mixed locals, 
 the parent organization as well as its mixed and non-government locals 
@@ -13377,7 +12700,7 @@ which directly charters local bodies.\12\
 
 ---------------------------------------------------------------------------
 
-[[Page 168]]
+[[Page 160]]
 
     (e) Local or subordinate bodies which have been chartered by a labor 
 organization. This category includes any labor organization that has 
@@ -13462,7 +12785,7 @@ coordinating activities.
 subordinate bodies (1) of a single national or international union; or 
 (2) of a particular
 
-[[Page 169]]
+[[Page 161]]
 
 department of a federation or similar association of national or 
 international unions.
@@ -13559,7 +12882,7 @@ Sec.
 452.30 Run-off elections.
 452.31 One candidate for several offices.
 
-[[Page 170]]
+[[Page 162]]
 
         Subpart E_Candidacy for Office; Reasonable Qualifications
 
@@ -13625,7 +12948,7 @@ Sec.
 452.82 Reprisal for exercising rights.
 452.83 Enforcement of campaign safeguards.
 
-                         Subpart H_Right to Vote
+                         Subpart H_Right To Vote
 
 452.84 General.
 452.85 Reasonable qualifications on right to vote.
@@ -13678,7 +13001,7 @@ Sec.
 452.128 Under-strength representation.
 452.129 Non-discrimination.
 
-[[Page 171]]
+[[Page 163]]
 
 452.130 Expenses of delegates.
 452.131 Casting of ballots; delegate elections.
@@ -13777,7 +13100,7 @@ Sec. 452.3  Interpretations of constitution and bylaws.
     The interpretation consistently placed on a union's constitution by 
 the responsible union official or governing
 
-[[Page 172]]
+[[Page 164]]
 
 body will be accepted unless the interpretation is clearly unreasonable. 
 \3\
@@ -13880,13 +13203,12 @@ the trusteed organization (see Sec. 452.15).
 
 
 <R05>
-Sec. 452.9  Prohibition against certain persons holding office; 
-section 504.
+Sec. 452.9  Prohibition against certain persons holding office; section 504.
 
     Among the safeguards for labor organizations provided in title V is 
 a prohibition against the holding of office by
 
-[[Page 173]]
+[[Page 165]]
 
 certain classes of persons. \10\ This provision makes it a crime for any 
 person willfully to serve in certain positions, including as an elected 
@@ -13972,7 +13294,7 @@ employees not covered by the Act and other locals which are mixed or are
 composed entirely of employees covered by the Act would be subject to 
 the election requirements of the Act. Its mixed locals
 
-[[Page 174]]
+[[Page 166]]
 
 would also be subject to the Act. The requirements would not apply to 
 locals composed entirely of government employees not covered by the Act, 
@@ -14077,7 +13399,7 @@ Sec. 452.17  Officer.
 definition which must be used as a guide in determining what particular 
 positions in a
 
-[[Page 175]]
+[[Page 167]]
 
 labor organization are to be filled in the manner prescribed in the Act. 
 For purposes of the Act, ``officer'' means ``any constitutional officer, 
@@ -14161,7 +13483,7 @@ is the chief or principal executive officer of the labor organization.
 Similarly, he will be regarded as being authorized to perform the 
 functions of treasurer if he
 
-[[Page 176]]
+[[Page 168]]
 
 has principal responsibility for control and management of the 
 organization's funds and fiscal operation. A member of any group, 
@@ -14251,7 +13573,7 @@ election for any office after the statutory period has expired
 constitutes a continuing violation of the Act, which may be brought to 
 the attention of the Secretary in the form of
 
-[[Page 177]]
+[[Page 169]]
 
 a complaint filed in accordance with the appropriate procedure. Title IV 
 establishes only maximum time intervals between elections for officers. 
@@ -14315,8 +13637,7 @@ be elected directly by secret ballot among the members in good standing.
 
 
 <R05>
-Sec. 452.27  National, international organizations, and intermediate 
-bodies.
+Sec. 452.27  National, international organizations, and intermediate bodies.
 
     The officers of a national or international labor organization or of 
 an intermediate body must be elected either directly by secret ballot 
@@ -14349,7 +13670,7 @@ Sec. 452.29  Primary elections.
     Where a union holds primary elections or similar procedures for 
 eliminating candidates prior to the final
 
-[[Page 178]]
+[[Page 170]]
 
 vote in connection with regular elections subject to these provisions, 
 the primary election or other procedure must be conducted in accordance 
@@ -14379,8 +13700,8 @@ one office, a separate election need not be held for each office.
 
 
 <R05>
-Sec. 452.32  Persons who may be candidates and hold office; secret 
-ballot elections.
+Sec. 452.32  Persons who may be candidates and hold office; secret ballot 
+elections.
 
     Section 401(e) provides that in any election of officers required by 
 the Act which is held by secret ballot, every member in good standing 
@@ -14394,8 +13715,8 @@ conventions at which officers will be elected.
 
 
 <R05>
-Sec. 452.33  Persons who may be candidates and hold office; elections 
-at conventions.
+Sec. 452.33  Persons who may be candidates and hold office; elections at 
+conventions.
 
     Where elections of national or international labor organizations or 
 of intermediate bodies are held at a convention of delegates elected by 
@@ -14425,7 +13746,7 @@ date for the installation of officers. A labor organization may within
 reasonable limits adopt stricter standards than those contained in 
 section
 
-[[Page 179]]
+[[Page 171]]
 
 504(a) by extending the period of disability or by barring from union 
 office persons who have been convicted of crimes other than those 
@@ -14534,7 +13855,7 @@ organization for a reasonable period of time, not exceeding two years,
 before the election. However, if a member is involuntarily compelled to 
 transfer from
 
-[[Page 180]]
+[[Page 172]]
 
 one local to another, such a requirement would not be reasonable if he 
 is not given credit for his prior period of membership.
@@ -14616,7 +13937,7 @@ hours, with the result that 96.5 percent of the members were ineligible.
     (b) Other guidance is furnished by lower court decisions which have 
 held
 
-[[Page 181]]
+[[Page 173]]
 
 particular meeting attendance requirements to be unreasonable under the 
 following circumstances: One meeting during each quarter for the three 
@@ -14701,7 +14022,7 @@ off.
     (c) Ordinarily members working part-time at the trade may not for 
 that reason alone be denied the right to run for office.
 
-[[Page 182]]
+[[Page 174]]
 
     (d) A labor organization may postpone the right to run for office of 
 members enrolled in a bona fide apprenticeship program until such 
@@ -14797,7 +14118,7 @@ particularly construction, members who become supervisors, or
 contractors traditionally keep their union membership as a form of job 
 security or as a means of retaining union benefits, such persons may
 
-[[Page 183]]
+[[Page 175]]
 
 not be candidates for or hold office. \29\ Whether a restriction on 
 officeholding by members who are group leaders or others performing some 
@@ -14886,7 +14207,7 @@ Sec. 452.51  Declaration of candidacy.
     A union may not adopt rules which in their effect discourage or 
 paralyze any opposition to the incumbent officers.
 
-[[Page 184]]
+[[Page 176]]
 
 Therefore, it would not be a reasonable qualification to require members 
 to file a declaration of candidacy several months in advance of the 
@@ -14982,7 +14303,7 @@ conform to the provisions of the labor organization's constitution and
 bylaws insofar as they are not inconsistent with the provisions of title 
 IV.
 
-[[Page 185]]
+[[Page 177]]
 
 
 <R05>
@@ -15064,8 +14385,8 @@ there be a reasonable opportunity to nominate and to be a candidate.
 
 
 <R05>
-Sec. 452.60  Nominations for national, international or intermediate 
-body office.
+Sec. 452.60  Nominations for national, international or intermediate body 
+office.
 
     (a) When officers of a national or international labor organization 
 or of an intermediate body are to be elected by secret ballot among the 
@@ -15073,7 +14394,7 @@ members of the constituent local unions, it is not unreasonable for the
 organization to employ a nominating procedure whereby each local may 
 nominate only one
 
-[[Page 186]]
+[[Page 178]]
 
 candidate for each office. When such a procedure is employed the 
 organization may require that each candidate be nominated by a certain 
@@ -15171,7 +14492,7 @@ Sec. 452.66  Statutory provisions.
     The opportunity for members to have a free, fair, and informed 
 expression of
 
-[[Page 187]]
+[[Page 179]]
 
 their choices among candidates seeking union office is a prime objective 
 of title IV of the Act. Voters can best be assured opportunity for an 
@@ -15254,7 +14575,7 @@ derogatory remarks about other candidates. Furthermore, a union's
 contention that mailing of certain campaign literature may constitute 
 libel for which it may
 
-[[Page 188]]
+[[Page 180]]
 
 be sued has been held not to justify its refusal to distribute the 
 literature, since the union is under a statutory duty to distribute the 
@@ -15345,7 +14666,7 @@ equal opportunity to express their views to the membership prior to an
 election. Similarly, a union may issue information sheets containing 
 biographical data on all candidates so
 
-[[Page 189]]
+[[Page 181]]
 
 long as all candidates are given equal opportunity to submit such data.
 
@@ -15433,7 +14754,7 @@ candidacy of a person in any election subject to the provisions of title
 IV is not restricted to employers who employ members of the labor 
 organization in which the election is being conducted,
 
-[[Page 190]]
+[[Page 182]]
 
 or who have any business or contractual relationship with the labor 
 organization.
@@ -15531,7 +14852,7 @@ limited to the distribution of campaign literature by the labor
 organization and the forbearance of such organization from 
 discrimination among candidates with respect to
 
-[[Page 191]]
+[[Page 183]]
 
 the use of membership lists. Of course, all title IV safeguards, 
 including those discussed in this paragraph, are subject to enforcement 
@@ -15542,7 +14863,7 @@ would be through a suit by the Secretary under section 402.
 
 
 <R04>
-                         Subpart H_Right to Vote
+                         Subpart H_Right To Vote
 
 
 <R05>
@@ -15626,7 +14947,7 @@ for a period longer than that for a new member. A new member may
 reasonably be required to establish a relationship with the union by 
 remaining in good standing for a continuous period of time, e.g., 6
 
-[[Page 192]]
+[[Page 184]]
 
 months or a year, before being permitted to vote in an election of 
 officers. However, while the right to vote may be deferred within 
@@ -15731,7 +15052,7 @@ Sec. 452.96  General.
 401, minimum standards for the regular periodic election of officers in 
 labor organizations subject to its provisions. It
 
-[[Page 193]]
+[[Page 185]]
 
 does not, however, prescribe in detail election procedures which must be 
 followed. Labor organizations are free to establish procedures for 
@@ -15814,7 +15135,7 @@ other means of transmission such as posting on a bulletin board or hand
 delivery will not satisfy the requirement. A notice of election must be 
 sent to every member as defined in section 3(o) of the Act, not only to
 
-[[Page 194]]
+[[Page 186]]
 
 members who are eligible to vote in the election. Where the notice, if 
 mailed to the last known permanent or legal residence of the member, 
@@ -15914,7 +15235,7 @@ section 402(a) that resulted in the Secretary filing suit under 402(b).
 
 ---------------------------------------------------------------------------
 
-[[Page 195]]
+[[Page 187]]
 
 
 <R05>
@@ -15994,7 +15315,7 @@ copies of the report are made available. In an election that encompasses
 more than one local, publication may be accomplished by posting on 
 appropriate
 
-[[Page 196]]
+[[Page 188]]
 
 bulletin boards, or in a union newspaper, or by any procedure which 
 allows any member to obtain the information without unusual effort. Of 
@@ -16101,7 +15422,7 @@ restriction on how the ballots are distributed to the voters. Any method
 which actually provides each eligible voter with one blank ballot would 
 be in conformance with the law.
 
-[[Page 197]]
+[[Page 189]]
 
 
 <R05>
@@ -16195,7 +15516,7 @@ been elected by a secret ballot vote of the individual members of the
 constituent units of that body. He may not participate if he was elected 
 by the delegates who make up the intermediate body.
 
-[[Page 198]]
+[[Page 190]]
 
 The secret ballot election required by the Act is an election among the 
 general membership and not an election of delegates by other delegates.
@@ -16289,7 +15610,7 @@ Sec. 452.128  Under-strength representation.
 the union constitution as long as the local is allowed to determine for 
 itself
 
-[[Page 199]]
+[[Page 191]]
 
 whether or not it will send its full quota of delegates to the union 
 convention. The delegates present from a local may cast the entire vote 
@@ -16395,7 +15716,7 @@ investigate each complaint of a violation filed in accordance with the
 requirements of the Act and, if the Secretary finds probable cause to 
 believe that a violation has occurred and has not been
 
-[[Page 200]]
+[[Page 192]]
 
 remedied, he is directed to bring within 60 days after the complaint has 
 been filed a civil action against the labor organization in a Federal 
@@ -16478,7 +15799,7 @@ Sec. 452.138  Application of other laws.
 required by law to conduct elections of officers with greater frequency 
 or in a different
 
-[[Page 201]]
+[[Page 193]]
 
 form or manner than is required by its own constitution or bylaws, 
 except as otherwise provided by the election provisions of the Act.
@@ -16588,7 +15909,7 @@ Sec. 453.1  Scope and significance of this part.
 meaning and scope of section 502 of the Labor-Management Reporting and 
 Disclosure Act of 1959 \1\ (hereinafter referred to as
 
-[[Page 202]]
+[[Page 194]]
 
 the Act), which requires the bonding of certain officials, 
 representatives, and employees of labor organizations and of trusts in 
@@ -16678,7 +15999,7 @@ Act \3\ is a labor organization within the coverage of section 502(a)
 unless its property and annual financial receipts do not exceed $5,000 
 in value. The determination as to
 
-[[Page 203]]
+[[Page 195]]
 
 whether a particular labor organization is excepted from the application 
 of section 502(a) is to be made at the beginning of each of its fiscal 
@@ -16761,7 +16082,7 @@ representatives of or selected by labor organizations, or
 representatives of or selected by employers,\6\ and such personnel must 
 be bonded if they handle
 
-[[Page 204]]
+[[Page 196]]
 
 funds or other property of the trust within the meaning of section 
 502(a).
@@ -16809,8 +16130,8 @@ officials in similar positions.
 
 
 <R05>
-Sec. 453.7  ``Funds or other property'' of a labor organization or of 
-a trust in which a labor organization is interested.
+Sec. 453.7  ``Funds or other property'' of a labor organization or 
+of a trust in which a labor organization is interested.
 
     The affirmative requirement for bonding the specified personnel is 
 applicable only if they handle ``funds or other property'' of the labor 
@@ -16851,7 +16172,7 @@ the reasonable protection of the funds and other property of labor
 organizations and trusts within the coverage of the section, it is 
 equally clear from the legislative history \7\ and the language used
 
-[[Page 205]]
+[[Page 197]]
 
 that Congress was aware of cost considerations and did not intend to 
 require unreasonable, unnecessary or duplicative bonding. In terms of 
@@ -16928,7 +16249,7 @@ Whether others who may influence, authorize or direct disbursements must
 also be considered to handle funds or other property can be determined 
 only by reference to the specific
 
-[[Page 206]]
+[[Page 198]]
 
 duties or responsibilities of these persons in a particular labor 
 organization or trust.
@@ -17017,7 +16338,7 @@ relates.
 the specified personnel in connection with their handling of funds or 
 other property to
 
-[[Page 207]]
+[[Page 199]]
 
 which this section refers. It does not have reference to the special 
 duties imposed upon representatives of labor organizations by virtue of 
@@ -17098,7 +16419,7 @@ handled, it may be assumed as a general principle that at least those
 items which may be handled in a manner similar to cash and which involve 
 a like risk of loss should be included in
 
-[[Page 208]]
+[[Page 200]]
 
 computing the amount of ``funds'' handled.
 
@@ -17182,7 +16503,7 @@ and bonds ``schedule in form'' may include either name schedule or
 position schedule bonds. A name schedule bond is typically a single bond 
 covering a series or list of named individuals, each
 
-[[Page 209]]
+[[Page 201]]
 
 of whom is bonded separately to a designated amount. A position schedule 
 bond is typically a single bond providing coverage with respect to any 
@@ -17263,7 +16584,7 @@ Secretary of the Treasury.
 with which a bond is placed pursuant to that section must be a corporate 
 surety which holds a grant of authority from
 
-[[Page 210]]
+[[Page 202]]
 
 the Secretary of the Treasury under the Act of July 30, 1947 (6 U.S.C. 
 6-13), as an acceptable surety on Federal bonds. That Act provides, 
@@ -17345,7 +16666,7 @@ handle, disburse, or otherwise exercise custody or control of the funds
 or other property of a labor organization or of a trust in which a labor 
 organization is interested. This prohibits personnel who are
 
-[[Page 211]]
+[[Page 203]]
 
 required to be bonded, as explained in Sec. 453.8 from performing any 
 of these acts without being covered by the required bonds. In addition, 
@@ -17427,7 +16748,7 @@ acceptable surety on Federal bonds.
 
 [30 FR 14926, Dec. 2, 1965]
 
-[[Page 212]]
+[[Page 204]]
 
 
 <R03>
@@ -17537,7 +16858,7 @@ personnel system, such term means that other agency. Covered employee,
 employee, employing office, and agency, when used in connection with the 
 CAA, have the meanings
 
-[[Page 213]]
+[[Page 205]]
 
 set forth in 2 U.S.C. 1301 and 1351(a)(2). Activity means any facility, 
 organizational entity, or geographical subdivision or combination 
@@ -17658,7 +16979,9 @@ Sec.
 458.2 Bill of rights of members of labor organizations.
 458.3 Application of LMRDA labor organization reporting requirements.
 
-[[Page 214]]
+[[Page 206]]
+
+458.4 Informing members of the standards of conduct provisions.
 
                               Trusteeships
 
@@ -17753,6 +17076,13 @@ Sec.
 4117; 2 U.S.C. 1351(a)(1); Secretary's Order No. 5-96, 62 FR 107, 
 January 2, 1997.
 
+    Effective Date Note: At 71 FR 31941, June 2, 2006, the authority 
+citation for part 458 was revised, effective July 3, 2006. For the 
+convenience of the user, the revised text is set forth as follows:
+    Authority: 5 U.S.C. 7105, 7111, 7120, 7134; 22 U.S.C. 4107, 4111, 
+4117; 2 U.S.C. 1351(a)(1); Secretary's Order No. 4-2001, 66 FR 29,656, 
+May 31, 2001.
+
     Source: 45 FR 15158, Mar. 7, 1980, unless otherwise noted. 
 Redesignated at 50 FR 31311, Aug. 1, 1985.
 
@@ -17766,19 +17096,18 @@ Sec. 458.1  General.
 
     The term LMRDA means the Labor-Management Reporting and Disclosure 
 Act of 1959, as amended (29 U.S.C. 401 et seq.). Unless otherwise 
-provided in this part or in the CSRA or FSA, any term in any section of 
-the LMRDA which is incorporated into this part by reference, and any 
-term in this part which is also used in the LMRDA, shall have the 
-meaning which that term has under the LMRDA, unless the context in which 
-it is used indicates that such meaning is not applicable. In applying 
-the standards contained in this subpart the Assistant Secretary will be 
-guided
+provided in this part or in the CSRA or FSA, any term
 
-[[Page 215]]
+[[Page 207]]
 
-by the interpretations and policies followed by the Department of Labor 
-in applying the provisions of the LMRDA and by applicable court 
-decisions.
+in any section of the LMRDA which is incorporated into this part by 
+reference, and any term in this part which is also used in the LMRDA, 
+shall have the meaning which that term has under the LMRDA, unless the 
+context in which it is used indicates that such meaning is not 
+applicable. In applying the standards contained in this subpart the 
+Assistant Secretary will be guided by the interpretations and policies 
+followed by the Department of Labor in applying the provisions of the 
+LMRDA and by applicable court decisions.
 
 
 <R05>
@@ -17841,6 +17170,9 @@ such member may be required to exhaust reasonable hearing procedures
 (but not to exceed a 4-month lapse of time) within such organization, 
 before instituting legal or administrative proceedings against such 
 organizations or any officer thereof.
+
+[[Page 208]]
+
     (5) Safeguards against improper disciplinary action. No member of 
 any labor organization may be fined, suspended, expelled, or otherwise 
 disciplined, except for nonpayment of dues by such organization or by 
@@ -17848,13 +17180,9 @@ any officer thereof unless such member has been (i) served with written
 specific charges; (ii) given a reasonable time to prepare his defense; 
 (iii) afforded a full and fair hearing.
     (b) Any provision of the constitution and bylaws of any labor 
-organization
-
-[[Page 216]]
-
-which is inconsistent with the provisions of this section shall not be a 
-defense to any proceeding instituted against the labor organization 
-under this part or under the CSRA or FSA.
+organization which is inconsistent with the provisions of this section 
+shall not be a defense to any proceeding instituted against the labor 
+organization under this part or under the CSRA or FSA.
     (c) Nothing contained in this section shall limit the rights and 
 remedies of any member of a labor organization under any State or 
 Federal law or before any court or other tribunal, or under the 
@@ -17892,6 +17220,51 @@ CSRA or FSA.
 
 [45 FR 15158, Mar. 7, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 59 FR 15116, Mar. 31, 1994; 63 FR 33780, June 19, 1998]
+
+
+<R05>
+Sec. 458.4  Informing members of the standards of conduct provisions.
+
+    (a) Every labor organization subject to the requirements of the 
+CSRA, the FSA, or the CAA shall inform its members concerning the 
+standards of conduct provisions of the Acts and the regulations in this 
+subchapter. Labor organizations shall provide such notice to members by 
+October 2, 2006 and thereafter to all new members within 90 days of the 
+time they join and to all members at least once every three years. 
+Notice must be provided by hand delivery, U.S. mail or e-mail or a 
+combination of the three as long as the method is reasonably calculated 
+to reach all members. Such notice may be included with the required 
+notice of local union elections. Where a union newspaper is used to 
+provide notice, the notice must be conspicuously placed on the front 
+page of the newspaper, or the front page should have a conspicuous 
+reference to the inside page where the notice appears, so that the 
+inclusion of the notice in a particular issue is readily apparent to 
+each member.
+    (b) A labor organization may demonstrate compliance with the 
+requirements of paragraph (a) of this section by showing that another 
+labor organization provided an appropriate notice to all of its members 
+during the necessary time frame.
+    (c) Labor organizations may use the Department of Labor publication 
+Union Member Rights and Officer Responsibilities under the Civil Service 
+Reform Act (available on the OLMS Web site at http://www.dol.gov/esa/
+regs/compliance/olms/CSRAFactSheet.pdf for the pdf version and http://
+www.dol.gov/esa/regs/compliance/olms/CSRAFactSheet.htm for the html 
+version) or may devise their own language as long as the notice 
+accurately states all of the CSRA standards of conduct provisions as set 
+forth in the fact sheet.
+
+[[Page 209]]
+
+    (d) If a labor organization has a Web site, the site must contain a 
+conspicuous link to Union Member Rights and Officer Responsibilities 
+under the Civil Service Reform Act or, alternatively, to the labor 
+organization's own notice prepared in accordance with paragraph (c) of 
+this section.
+
+[71 FR 31942, June 2, 2006]
+
+    Effective Date Note: At 71 FR 31942, June 2, 2006, Sec. 458.4 was 
+added, effective July 3, 2006.
 
                               Trusteeships
 
@@ -17936,18 +17309,14 @@ by a labor organization in conformity with the procedural requirements
 of its constitution and bylaws and authorized or ratified after a fair 
 hearing either before the executive board or before such other body as 
 may be provided in accordance with its constitution and bylaws shall be 
-presumed valid for a period of 18
-
-[[Page 217]]
-
-months from the date of its establishment and shall not be subject to 
-attack during such period except upon clear and convincing proof that 
-the trusteeship was not established or maintained in good faith for 
-purposes allowable under Sec. 458.26. After the expiration of 18 months 
-the trusteeship shall be presumed invalid in any such proceeding, unless 
-the labor organization shall show by clear and convincing proof that the 
-continuation of the trusteeship is necessary for a purpose allowable 
-under Sec. 458.26.
+presumed valid for a period of 18 months from the date of its 
+establishment and shall not be subject to attack during such period 
+except upon clear and convincing proof that the trusteeship was not 
+established or maintained in good faith for purposes allowable under 
+Sec. 458.26. After the expiration of 18 months the trusteeship shall be 
+presumed invalid in any such proceeding, unless the labor organization 
+shall show by clear and convincing proof that the continuation of the 
+trusteeship is necessary for a purpose allowable under Sec. 458.26.
 
                                 Elections
 
@@ -17978,6 +17347,8 @@ of Sec. 417.2(b) of this chapter for removal of such officer, the labor
 organization shall follow a procedure which meets those standards.
 
 [62 FR 6094, Feb. 10, 1997]
+
+[[Page 210]]
 
 
 <R05>
@@ -18035,14 +17406,10 @@ than a labor organization whose property and annual financial receipts
 do not exceed $5,000 in value), or of a trust in which a labor 
 organization is interested, who handles funds or other property thereof 
 shall be bonded in accordance with the principles of section 502(a) of 
-the LMRDA.
-
-[[Page 218]]
-
-In enforcing this requirement the Assistant Secretary will be guided by 
-the interpretations and policies followed by the Department of Labor in 
-applying the provisions of section 502(a) of the LMRDA and by applicable 
-court decisions.
+the LMRDA. In enforcing this requirement the Assistant Secretary will be 
+guided by the interpretations and policies followed by the Department of 
+Labor in applying the provisions of section 502(a) of the LMRDA and by 
+applicable court decisions.
 
 [45 FR 15158, Mar. 7, 1980; 45 FR 28322, Apr. 29, 1980. Redesignated at 
 50 FR 31311, Aug. 1, 1985]
@@ -18077,10 +17444,13 @@ office or employment.
 Sec. 458.37  Prohibition of certain discipline.
 
     No labor organization or any officer, agent, shop steward, or other 
-representative or any employee thereof shall fine, suspend, expel, or 
-otherwise discipline any of its members for exercising any right to 
-which he is entitled under the provisions of the CSRA or FSA or this 
-subchapter.
+representative or any employee thereof
+
+[[Page 211]]
+
+shall fine, suspend, expel, or otherwise discipline any of its members 
+for exercising any right to which he is entitled under the provisions of 
+the CSRA or FSA or this subchapter.
 
 
 <R05>
@@ -18128,12 +17498,8 @@ such persons as he may deem necessary to enable him to determine the
 relevant facts. Every labor organization, its officers, employees, 
 agents, or representatives shall cooperate fully in any investigation 
 and shall testify and produce the records or other documents requested 
-in connection with the investigation.
-
-[[Page 219]]
-
-This section shall be enforced in accordance with the procedures in 
-Sec. Sec. 458.66 through 458.92.
+in connection with the investigation. This section shall be enforced in 
+accordance with the procedures in Sec. Sec. 458.66 through 458.92.
 
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31312, Aug. 1, 1985; 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 
@@ -18170,10 +17536,8 @@ Standards.
 
 <R05>
 Sec. 458.54  Complaints alleging violations of Sec. 458.2, Bill of 
-
 rights of members of labor organization, or Sec. 458.37, prohibition 
-of certain 
-          discipline.
+of certain discipline.
 
     Any member of a labor organization whose rights under the provisions 
 of Sec. 458.2 or Sec. 458.37 are alleged to have been infringed or 
@@ -18184,6 +17548,8 @@ time) within such organization.
 
 [45 FR 15158, Mar. 7, 1980; 45 FR 28322, Apr. 29, 1980. Redesignated at 
 50 FR 31311, Aug. 1, 1985]
+
+[[Page 212]]
 
 
 <R05>
@@ -18243,13 +17609,10 @@ Sec. 458.59  Review of dismissal.
     The complainant may obtain a review of a dismissal by filing a 
 request for review with the Assistant Secretary within fifteen (15) days 
 of service of the notice of dismissal. A copy of such request shall be 
-served on the District Director and the respondent, and a
-
-[[Page 220]]
-
-statement of service shall be filed with the Assistant Secretary. The 
-request for review shall contain a complete statement of the facts and 
-reasons upon which a request is based.
+served on the District Director and the respondent, and a statement of 
+service shall be filed with the Assistant Secretary. The request for 
+review shall contain a complete statement of the facts and reasons upon 
+which a request is based.
 
 [45 FR 15158, Mar. 7, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997]
@@ -18290,12 +17653,14 @@ Sec. 458.62  Hearing procedures.
     The proceedings following issuance of the notice of hearing shall be 
 as provided in Sec. Sec. 458.69 through 458.92 of this part.
 
+[[Page 213]]
+
                 Procedures Involving Election of Officers
 
 
 <R05>
-Sec. 458.63  Complaints alleging violations of Sec. 458.29, election 
-of officers.
+Sec. 458.63  Complaints alleging violations of Sec. 458.29, election of 
+officers.
 
     (a) A member of a labor organization may file a complaint alleging 
 violations of Sec. 458.29 within 1 calendar month after he has (1) 
@@ -18340,8 +17705,6 @@ dismissal.
 [45 FR 15158, Mar. 7, 1980. Redesignated at 50 FR 31311, Aug. 1, 1985, 
 as amended at 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 1997]
 
-[[Page 221]]
-
 
 <R05>
 Sec. 458.65  Procedures following actionable complaint.
@@ -18378,8 +17741,11 @@ conference with the Chief, DOE or his representative concerning such
 alleged violation.
     (b) Whenever it appears to a District Director that a violation of 
 this part (other than Sec. Sec. 458.2, 458.26-458.30, or 458.37) has 
-occurred and has not been remedied, he shall immediately notify any 
-appropriate person and labor organization. Within fifteen (15) days 
+occurred and has not been remedied, he shall immediately notify
+
+[[Page 214]]
+
+any appropriate person and labor organization. Within fifteen (15) days 
 following receipt of such notification, any such person or labor 
 organization may request a conference with the District Director or his 
 representative concerning such alleged violation.
@@ -18420,11 +17786,7 @@ complaint received from a member of a labor organization pursuant to
 Sec. 458.63, a statement setting forth the procedures, if any, followed 
 to invoke available remedies, including the dates when such procedures 
 were invoked, and the substance of any ruling or decision received by 
-the complaining member
-
-[[Page 222]]
-
-from the labor organization or any parent body.
+the complaining member from the labor organization or any parent body.
 
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31313, Aug. 1, 1985; 59 FR 15117, Mar. 31, 1994; 62 FR 6094, Feb. 10, 
@@ -18464,6 +17826,8 @@ hearing shall include the following:
 hearing is to be held.
     (c) A statement of the time and place of the hearing which shall be 
 not less than fifteen (15) days after service of the notice of hearing.
+
+[[Page 215]]
 
 
 <R05>
@@ -18513,13 +17877,9 @@ to the matters under investigation. If the Administrative Law Judge
 denies the request he shall set forth the basis for his ruling. Upon the 
 failure of any party or officer or employee of any party to comply with 
 such a request which has been granted by the Administrative Law Judge, 
-the Administrative Law Judge
-
-[[Page 223]]
-
-and the Assistant Secretary may disregard all related evidence offered 
-by the party failing to comply with the request or take such other 
-action as may be appropriate.
+the Administrative Law Judge and the Assistant Secretary may disregard 
+all related evidence offered by the party failing to comply with the 
+request or take such other action as may be appropriate.
     (c) Employees who have been determined to be necessary as witnesses 
 at a hearing shall be granted official time only for such participation 
 as occurs during their regular work hours and when they would otherwise 
@@ -18552,6 +17912,8 @@ proceeding shall be controlled by such action.
 
 [45 FR 15158, Mar. 7, 1980. Redesignated and amended at 50 FR 31311, 
 31313, Aug. 1, 1985]
+
+[[Page 216]]
 
 
 <R05>
@@ -18605,9 +17967,6 @@ record documentary or other evidence;
     (i) Request the parties at any time during the hearing to state 
 their respective positions concerning any issue in the case or theory in 
 support thereof;
-
-[[Page 224]]
-
     (j) Continue, at his discretion, the hearing from day-to-day, or 
 adjourn it to a later date or to a different place, by announcement 
 thereof at the hearing or by other appropriate notice;
@@ -18646,10 +18005,13 @@ Sec. 458.78  Rules of evidence.
 
     The technical rules of evidence do not apply. Any evidence may be 
 received, except that an Administrative Law Judge may exclude any 
-evidence or offer of proof which is immaterial, irrelevant, unduly 
-repetitious, or customarily privileged. Every party shall have a right 
-to present his case by oral and documentary evidence and to submit 
-rebuttal evidence.
+evidence
+
+[[Page 217]]
+
+or offer of proof which is immaterial, irrelevant, unduly repetitious, 
+or customarily privileged. Every party shall have a right to present his 
+case by oral and documentary evidence and to submit rebuttal evidence.
 
 
 <R05>
@@ -18696,8 +18058,6 @@ the transfer of the case to the Assistant Secretary, but shall be
 considered by the Assistant Secretary only upon the filing of exceptions 
 to the Administrative Law Judge's recommended decision and order in 
 accordance with Sec. 458.88.
-
-[[Page 225]]
 
 
 <R05>
@@ -18747,18 +18107,21 @@ Sec. 458.86  Filing of brief.
 
     Any party desiring to submit a brief to the Administrative Law Judge 
 shall file the original within ten (10) days after the close of the 
-hearing: Provided, however, That prior to the close of the hearing and 
-for good cause, the Administrative Law Judge may grant a reasonable 
-extension of time. Copies of such brief shall be served on all of the 
-parties to the proceeding. Requests for additional time in which to file 
-a brief under authority of this section made after the hearing shall be 
-made in writing to the Administrative Law Judge and copies thereof 
-served on the other parties. A statement of such service shall be 
-furnished. A request for extension of time shall be received not later 
-than three (3) days before the date such briefs are due. In the absence 
-of the Administrative Law Judge such requests shall be ruled upon by the 
-Chief Administrative Law Judge. No reply brief may be filed except by 
-permission of the Administrative Law Judge.
+hearing: Provided, however, That prior to the close of the
+
+[[Page 218]]
+
+hearing and for good cause, the Administrative Law Judge may grant a 
+reasonable extension of time. Copies of such brief shall be served on 
+all of the parties to the proceeding. Requests for additional time in 
+which to file a brief under authority of this section made after the 
+hearing shall be made in writing to the Administrative Law Judge and 
+copies thereof served on the other parties. A statement of such service 
+shall be furnished. A request for extension of time shall be received 
+not later than three (3) days before the date such briefs are due. In 
+the absence of the Administrative Law Judge such requests shall be ruled 
+upon by the Chief Administrative Law Judge. No reply brief may be filed 
+except by permission of the Administrative Law Judge.
 
 
 <R05>
@@ -18791,19 +18154,15 @@ hearing, stipulations, objections, depositions, exhibits, documentary
 evidence and any briefs or other documents submitted by the parties.
     (c) Exceptions to the Administrative Law Judge's recommended 
 decision and order may be filed by any party with the Assistant 
-Secretary within fifteen
-
-[[Page 226]]
-
-(15) days after service of the recommended decision and order: Provided, 
-however, That the Assistant Secretary may for good cause shown extend 
-the time for filing such exceptions. Requests for additional time in 
-which to file exceptions shall be in writing, and copies thereof shall 
-be served on the other parties. Requests for extension of time must be 
-received no later than three (3) days before the date the exceptions are 
-due. Copies of such exceptions and any supporting briefs shall be served 
-on all other parties, and a statement of such service shall be furnished 
-to the Assistant Secretary.
+Secretary within fifteen (15) days after service of the recommended 
+decision and order: Provided, however, That the Assistant Secretary may 
+for good cause shown extend the time for filing such exceptions. 
+Requests for additional time in which to file exceptions shall be in 
+writing, and copies thereof shall be served on the other parties. 
+Requests for extension of time must be received no later than three (3) 
+days before the date the exceptions are due. Copies of such exceptions 
+and any supporting briefs shall be served on all other parties, and a 
+statement of such service shall be furnished to the Assistant Secretary.
 
 
 <R05>
@@ -18831,6 +18190,9 @@ Sec. 458.90  Briefs in support of exceptions.
     (a) Any brief in support of exceptions shall contain only matters 
 included within the scope of the exceptions and shall contain, in the 
 order indicated, the following:
+
+[[Page 219]]
+
     (1) A concise statement of the case containing all that is material 
 to the consideration of the questions presented;
     (2) A specification of the questions involved and to be argued;
@@ -18878,10 +18240,7 @@ Secretary.
 Assistant Secretary, within a specified period, that the required 
 remedial action has been effected. When the Assistant Secretary finds 
 that the required remedial action has not been effected, he shall refer 
-the matter for appropriate action to the Federal Labor Relations
-
-[[Page 227]]
-
+the matter for appropriate action to the Federal Labor Relations 
 Authority (in the case of labor organizations covered by the CSRA), the 
 Foreign Service Labor Relations Board (in the case of labor 
 organizations covered by the FSA), or the Board of Directors of the 
@@ -18928,14 +18287,18 @@ act, event, or default after which the designated period of time begins
 to run, shall not be included. The last day of the period so computed is 
 to be included unless it is a Saturday, Sunday or Federal legal holiday 
 in which event the period shall run until the end of the next day which 
-is neither a Saturday, Sunday, or a Federal legal holiday. When the 
-period of time prescribed or allowed is seven (7) days or less, 
-intermediate Saturdays, Sundays, and Federal legal holidays shall be 
-excluded from the computations. When these regulations require the 
-filing of any paper, such document must be received by the Assistant 
-Secretary or the officer or agent designated to receive such matter 
-before the close of business of the last day of the time limit, if any, 
-for such filing or extension of time that may have been granted.
+is neither a Saturday, Sunday, or a
+
+[[Page 220]]
+
+Federal legal holiday. When the period of time prescribed or allowed is 
+seven (7) days or less, intermediate Saturdays, Sundays, and Federal 
+legal holidays shall be excluded from the computations. When these 
+regulations require the filing of any paper, such document must be 
+received by the Assistant Secretary or the officer or agent designated 
+to receive such matter before the close of business of the last day of 
+the time limit, if any, for such filing or extension of time that may 
+have been granted.
 
 
 <R05>
@@ -18981,10 +18344,7 @@ copy also shall be transmitted to the party.
 <R05>
 Sec. 459.5  Rules to be construed liberally.
 
-    (a) The regulations in this subchapter may be construed liberally to
-
-[[Page 228]]
-
+    (a) The regulations in this subchapter may be construed liberally to 
 effectuate the purposes and provisions of the CSRA or FSA.
     (b) When an act is required or allowed to be done at or within a 
 specified time, the Assistant Secretary may at any time order the period 
@@ -18992,7 +18352,7 @@ altered where it shall be manifest that strict adherence will work
 surprise or injustice or interfere with the proper effectuation of the 
 CSRA or FSA.
 
-[[Page 229]]
+[[Page 221]]
 
 
 <R03>
@@ -19003,9 +18363,7 @@ CSRA or FSA.
 
 <R03>
 PART 470_OBLIGATIONS OF FEDERAL CONTRACTORS AND SUBCONTRACTORS; NOTICE 
-
-OF EMPLOYEE RIGHTS CONCERNING PAYMENT OF UNION DUES OR FEES--Table of 
-Contents
+OF EMPLOYEE RIGHTS CONCERNING PAYMENT OF UNION DUES OR FEES--Table of Contents
 
 
 
@@ -19088,7 +18446,7 @@ or subcontractor, at any tier.
     (h) Employee notice clause means the contract clause that Government 
 contracting departments and agencies
 
-[[Page 230]]
+[[Page 222]]
 
 must include in all nonexempt Government contracts and subcontracts 
 pursuant to Executive Order 13201.
@@ -19163,7 +18521,7 @@ U.S.C. 7103(a)(8), all Government contracting agencies must, to the
 extent consistent with law, include the following provisions in 
 Government contracts entered
 
-[[Page 231]]
+[[Page 223]]
 
 into on or after April 28, 2004, that resulted from solicitations issued 
 on or after April 18, 2001:
@@ -19175,7 +18533,6 @@ The notice must include the following information (except that the last
 two sentences must not be included in notices posted in the plants or 
 offices of carriers subject to the Railway Labor Act, as amended (45 
 U.S.C. 151-188)).
-
 
 ``NOTICE TO EMPLOYEES
 
@@ -19198,9 +18555,9 @@ adjustment, you may be entitled to a refund and to an appropriate
 reduction in future payments.
     ``For further information concerning your rights, you may wish to 
 contact the National Labor Relations Board (NLRB) either at one of its 
-Regional offices or at the following address or toll-free 
-number:National Labor Relations Board, Division of Information, 1099 
-14th Street, NW., Washington, D.C. 20570, 1-866-667-6572, 1-866-315-6572 
+Regional offices or at the following address or toll-free number: 
+National Labor Relations Board, Division of Information, 1099 14th 
+Street, NW., Washington, D.C. 20570, 1-866-667-6572, 1-866-315-6572 
 (TTY).
     ``To locate the nearest NLRB office, see NLRB's website at http://
 www.nlrb.gov.''
@@ -19230,18 +18587,16 @@ subcontractor or vendor, or is threatened with such involvement, as a
 result of such direction, the contractor may request the United States 
 to enter into such litigation to protect the interests of the United 
 States.''
+
     (b) Inclusion by reference. The employee notice clause need not be 
 quoted verbatim in a contract, subcontract, or purchase order. The 
 clause may be made part of the contract, subcontract, or purchase order 
 by citation to 29 CFR part 470.
     (c) Adaptation of language. The Assistant Secretary may make such 
-changes in the contractual provisions
-
-[[Page 232]]
-
-of the Executive Order as may be necessary to reflect Acts of Congress, 
-clarifications in the law by the courts, or otherwise to fully and 
-accurately inform employees of their rights under the Executive Order.
+changes in the contractual provisions of the Executive Order as may be 
+necessary to reflect Acts of Congress, clarifications in the law by the 
+courts, or otherwise to fully and accurately inform employees of their 
+rights under the Executive Order.
     (d) Obtaining employee notice poster. The required employee notice 
 poster, printed by the Department, will be provided by the Federal 
 contracting agency or may be obtained from the Division of 
@@ -19251,8 +18606,11 @@ Washington, DC 20210, or from any field office of the Department's
 Office of Labor-Management Standards or Office of Federal Contract 
 Compliance Programs. A copy of the poster may also be downloaded from 
 the Office of Labor-Management Standards Web site at www.olms.dol.gov. 
-Additionally, contractors may reproduce and use exact duplicate copies 
-of the Department's official poster.
+Additionally, contractors may reproduce and use exact
+
+[[Page 224]]
+
+duplicate copies of the Department's official poster.
 
 
 <R05>
@@ -19312,9 +18670,6 @@ law forbids enforcement of union-security agreements. For purposes of
 this paragraph, the term ``state'' is intended to include any of the 
 entities identified as comprising the United States, as defined in Sec. 
 470.1(2).
-
-[[Page 233]]
-
     (d) Work not performed under Government contracts. Upon the written 
 request of the contractor, the Deputy Assistant Secretary for Labor-
 Management Programs may waive the posting requirements with respect to 
@@ -19328,6 +18683,8 @@ of the Executive Order.
     (e) Work outside the United States. The posting requirement does not 
 apply to work performed outside the United States that does not involve 
 the recruitment or employment of workers within the United States.
+
+[[Page 225]]
 
 
 <R04>
@@ -19362,7 +18719,8 @@ action taken and/or enforcement recommended under Section 470.13.
 
 
 <R05>
-Sec. 470.11  What are the procedures for filing and processing a complaint?
+Sec. 470.11  What are the procedures for filing and processing a 
+complaint?
 
     (a) Filing complaints. An employee of a covered contractor may file 
 a complaint alleging that the contractor has failed to post the employee 
@@ -19389,8 +18747,6 @@ the Executive Order and this part, and, as applicable, a description of
 conciliation efforts made, corrective action taken, and/or enforcement 
 recommended.
 
-[[Page 234]]
-
 
 <R05>
 Sec. 470.12  What are the procedures to be followed when a violation 
@@ -19407,6 +18763,9 @@ subcontractors and vendors to include the employee notice clause), and
 must commit, in writing, not to repeat the violation, before the 
 contractor may be found to be in compliance with the Executive Order or 
 this part.
+
+[[Page 226]]
+
     (c) If a violation cannot be resolved through conciliation efforts, 
 the Deputy Assistant Secretary for Labor-Management Programs may proceed 
 in accordance with Section 470.13.
@@ -19461,15 +18820,11 @@ contractor to provide appropriate remedies, or, subject to the
 procedures in Section 470.14, impose appropriate sanctions and 
 penalties, or any combination thereof.
 
-[[Page 235]]
-
 
 <R05>
 Sec. 470.14  What sanctions and penalties may be imposed for noncompliance, 
-
 and what procedures will the Department follow in imposing such sanctions 
-and 
-          penalties?
+and penalties?
 
     (a) After a final decision on the merits has issued and before 
 imposing the sanctions and penalties described in paragraph (d) of this 
@@ -19484,6 +18839,9 @@ modifications of existing contracts, is essential to the agency's
 mission.
     (c) The sanctions and penalties described in this section, however, 
 will not be imposed if:
+
+[[Page 227]]
+
     (1) The head of the contracting agency continues personally to 
 object to the imposition of such sanctions and penalties, or
     (2) The contractor has not been afforded an opportunity for a 
@@ -19552,14 +18910,10 @@ Sec. 470.20  What authority under this part or the Executive Order may
 the Secretary delegate, and under what circumstances?
 
     Section 9 of the Executive Order grants the Secretary the right to 
-delegate any of his/her functions or duties
-
-[[Page 236]]
-
-under the Order to any officer in the Department of Labor or to any 
-other officer in the executive branch of the Government, with the 
-consent of the head of the department or agency in which that officer 
-serves.
+delegate any of his/her functions or duties under the Order to any 
+officer in the Department of Labor or to any other officer in the 
+executive branch of the Government, with the consent of the head of the 
+department or agency in which that officer serves.
 
 
 <R05>
@@ -19578,11 +18932,15 @@ of intimidation and interference?
     The sanctions and penalties contained in Section 470.14 of this part 
 may be exercised by the Assistant Secretary against any contractor or 
 subcontractor who fails to take all necessary steps to ensure that no 
-person intimidates, threatens, or coerces any individual for the purpose 
-of interfering with the filing of a complaint, furnishing information, 
-or assisting or participating in any manner in a compliance evaluation, 
-complaint investigation, hearing, or any other activity related to the 
-administration of the Executive Order or the regulations in this part.
+person intimidates, threatens, or coerces any
+
+[[Page 228]]
+
+individual for the purpose of interfering with the filing of a 
+complaint, furnishing information, or assisting or participating in any 
+manner in a compliance evaluation, complaint investigation, hearing, or 
+any other activity related to the administration of the Executive Order 
+or the regulations in this part.
 
 
 <R05>
@@ -19605,16 +18963,15 @@ to the Executive Order or this part, is intended to confer any
 substantive or procedural right, benefit, or privilege enforceable at 
 law by any party against the United States, its agencies or 
 instrumentalities, its officers or employees, or any other person.
-
 
-[[Page 237]]
+[[Page 229]]
 
 
 <R02>
                               FINDING AIDS
 
 
-<R03>
+
 
   --------------------------------------------------------------------
 
@@ -19627,16 +18984,16 @@ which is published separately and revised annually.
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
-[[Page 239]]
+[[Page 231]]
 
 
 <R03>
                     Table of CFR Titles and Chapters
 
 
-<R04>
 
-                      (Revised as of July 1, 2005)
+
+                      (Revised as of July 1, 2006)
 
                       Title 1--General Provisions
 
@@ -19649,8 +19006,10 @@ which is published separately and revised annually.
 
             Subtitle A--Office of Management and Budget Guidance 
                 for Grants and Agreements
-         I  [Reserved]
-        II  Office of Management and Budget Circulars and Guidance
+         I  Office of Management and Budget Governmentwide 
+                Guidance for Grants and Agreements (Parts 100-199)
+        II  Office of Management and Budget Circulars and Guidance 
+                (200-299)
             Subtitle B--Federal Agency Regulations for Grants and 
                 Agreements [Reserved]
 
@@ -19661,7 +19020,7 @@ which is published separately and revised annually.
 
                            Title 4--Accounts
 
-         I  General Accounting Office (Parts 1--99)
+         I  Government Accountability Office (Parts 1--99)
 
                    Title 5--Administrative Personnel
 
@@ -19679,7 +19038,7 @@ which is published separately and revised annually.
                 the Federal Labor Relations Authority and Federal 
                 Service Impasses Panel (Parts 2400--2499)
 
-[[Page 240]]
+[[Page 232]]
 
         XV  Office of Administration, Executive Office of the 
                 President (Parts 2500--2599)
@@ -19732,13 +19091,16 @@ which is published separately and revised annually.
                 8401)
      LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
 
-[[Page 241]]
+[[Page 233]]
 
     LXXVII  Office of Management and Budget (Part 8701)
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Part 
                 9701)
+      XCIX  Department of Defense Human Resources Management and 
+                Labor Relations Systems (Department of Defense--
+                Office of Personnel Management) (Part 9901)
 
                       Title 6--Homeland Security
 
@@ -19786,13 +19148,13 @@ which is published separately and revised annually.
                 1600--1699)
       XVII  Rural Utilities Service, Department of Agriculture 
                 (Parts 1700--1799)
+
+[[Page 234]]
+
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
                 Agency, Department of Agriculture (Parts 1800--
                 2099)
-
-[[Page 242]]
-
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
       XXVI  Office of Inspector General, Department of Agriculture 
@@ -19844,7 +19206,7 @@ which is published separately and revised annually.
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
 
-[[Page 243]]
+[[Page 235]]
 
                            Title 10--Energy
 
@@ -19853,6 +19215,8 @@ which is published separately and revised annually.
        III  Department of Energy (Parts 700--999)
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
+      XIII  Nuclear Waste Technical Review Board (Parts 1303--
+                1399)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
      XVIII  Northeast Interstate Low-Level Radioactive Waste 
@@ -19897,13 +19261,12 @@ which is published separately and revised annually.
          V  Emergency Oil and Gas Guaranteed Loan Board, 
                 Department of Commerce (Parts 500--599)
 
+[[Page 236]]
+
                     Title 14--Aeronautics and Space
 
          I  Federal Aviation Administration, Department of 
                 Transportation (Parts 1--199)
-
-[[Page 244]]
-
         II  Office of the Secretary, Department of Transportation 
                 (Aviation Proceedings) (Parts 200--399)
        III  Commercial Space Transportation, Federal Aviation 
@@ -19954,12 +19317,11 @@ which is published separately and revised annually.
          I  Federal Trade Commission (Parts 0--999)
         II  Consumer Product Safety Commission (Parts 1000--1799)
 
+[[Page 237]]
+
              Title 17--Commodity and Securities Exchanges
 
          I  Commodity Futures Trading Commission (Parts 1--199)
-
-[[Page 245]]
-
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
 
@@ -20013,7 +19375,7 @@ which is published separately and revised annually.
        III  Office of National Drug Control Policy (Parts 1400--
                 1499)
 
-[[Page 246]]
+[[Page 238]]
 
                       Title 22--Foreign Relations
 
@@ -20073,7 +19435,7 @@ which is published separately and revised annually.
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
 
-[[Page 247]]
+[[Page 239]]
 
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
@@ -20132,7 +19494,7 @@ which is published separately and revised annually.
          I  Alcohol and Tobacco Tax and Trade Bureau, Department 
                 of the Treasury (Parts 1--399)
 
-[[Page 248]]
+[[Page 240]]
 
         II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
                 Department of Justice (Parts 400--699)
@@ -20185,7 +19547,7 @@ which is published separately and revised annually.
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
-[[Page 249]]
+[[Page 241]]
 
                       Title 30--Mineral Resources
 
@@ -20244,7 +19606,7 @@ which is published separately and revised annually.
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
 
-[[Page 250]]
+[[Page 242]]
 
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
@@ -20280,7 +19642,7 @@ which is published separately and revised annually.
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
-                          Title 35 [Reserved]
+                         Title 35--[RESERVED]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -20304,7 +19666,7 @@ which is published separately and revised annually.
                 1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
 
-[[Page 251]]
+[[Page 243]]
 
        XVI  Morris K. Udall Scholarship and Excellence in National 
                 Environmental Policy Foundation (Parts 1600--1699)
@@ -20362,7 +19724,7 @@ which is published separately and revised annually.
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
 
-[[Page 252]]
+[[Page 244]]
 
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
@@ -20414,7 +19776,7 @@ which is published separately and revised annually.
         IV  Department of Commerce and Department of 
                 Transportation (Parts 400--499)
 
-[[Page 253]]
+[[Page 245]]
 
                        Title 45--Public Welfare
 
@@ -20472,7 +19834,7 @@ which is published separately and revised annually.
 
          I  Federal Communications Commission (Parts 0--199)
 
-[[Page 254]]
+[[Page 246]]
 
         II  Office of Science and Technology Policy and National 
                 Security Council (Parts 200--299)
@@ -20483,7 +19845,8 @@ which is published separately and revised annually.
            Title 48--Federal Acquisition Regulations System
 
          1  Federal Acquisition Regulation (Parts 1--99)
-         2  Department of Defense (Parts 200--299)
+         2  Defense Acquisition Regulations System, Department of 
+                Defense (Parts 200--299)
          3  Department of Health and Human Services (Parts 300--
                 399)
          4  Department of Agriculture (Parts 400--499)
@@ -20506,7 +19869,7 @@ which is published separately and revised annually.
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
-        21  Office of Personnel Management, Federal Employees 
+        21  Office of Personnel Management, Federal Employees' 
                 Group Life Insurance Federal Acquisition 
                 Regulation (Parts 2100--2199)
         23  Social Security Administration (Parts 2300--2399)
@@ -20523,11 +19886,11 @@ which is published separately and revised annually.
         44  Federal Emergency Management Agency (Parts 4400--4499)
         51  Department of the Army Acquisition Regulations (Parts 
                 5100--5199)
+
+[[Page 247]]
+
         52  Department of the Navy Acquisition Regulations (Parts 
                 5200--5299)
-
-[[Page 255]]
-
         53  Department of the Air Force Federal Acquisition 
                 Regulation Supplement (Parts 5300--5399)
         54  Defense Logistics Agency, Department of Defense (Parts 
@@ -20580,7 +19943,7 @@ which is published separately and revised annually.
        III  International Fishing and Related Activities (Parts 
                 300--399)
 
-[[Page 256]]
+[[Page 248]]
 
         IV  Joint Regulations (United States Fish and Wildlife 
                 Service, Department of the Interior and National 
@@ -20601,7 +19964,7 @@ which is published separately and revised annually.
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 257]]
+[[Page 249]]
 
 
 
@@ -20610,9 +19973,9 @@ which is published separately and revised annually.
            Alphabetical List of Agencies Appearing in the CFR
 
 
-<R04>
 
-                      (Revised as of July 1, 2005)
+
+                      (Revised as of July 1, 2006)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -20674,7 +20037,7 @@ American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 
-[[Page 258]]
+[[Page 250]]
 
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -20738,6 +20101,7 @@ Consumer Product Safety Commission                5, LXXI; 16, II
 Cooperative State Research, Education, and        7, XXXIV
      Extension Service
 Copyright Office                                  37, II
+Copyright Royalty Board                           37, III
 Corporation for National and Community Service    45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
@@ -20748,16 +20112,16 @@ Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
 
-[[Page 259]]
+[[Page 251]]
 
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
+  Defense Acquisition Regulations System          48, II
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Federal Acquisition Regulation                  48, 2
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 32, I
@@ -20821,7 +20185,7 @@ Executive Office of the President                 3, I
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
 
-[[Page 260]]
+[[Page 252]]
 
   Trade Representative, Office of the United      15, XX
        States
@@ -20891,14 +20255,13 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-General Accounting Office                         4, I
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
-
-[[Page 261]]
-
   Federal Management Regulation                   41, 102
+
+[[Page 253]]
+
   Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
@@ -20909,6 +20272,7 @@ General Services Administration                   5, LVII; 41, 105
   Relocation Allowances                           41, 302
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
+Government Accountability Office                  4, I
 Government Ethics, Office of                      5, XVI
 Government National Mortgage Association          24, III
 Grain Inspection, Packers and Stockyards          7, VIII; 9, II
@@ -20919,6 +20283,7 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Child Support Enforcement, Office of            45, III
   Children and Families, Administration for       45, II, III, IV, X
   Community Services, Office of                   45, X
+  Defense Acquisition Regulations System          48, 2
   Family Assistance, Office of                    45, II
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
@@ -20969,11 +20334,10 @@ Indian Health Service                             25, V; 42, I
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
-     Archives and Records Administration
+   Archives and Records Administration
+[[Page 254]]
+
 Inspector General
-
-[[Page 262]]
-
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
   Housing and Urban Development Department        24, XII
@@ -21050,10 +20414,10 @@ Labor Department                                  5, XLII
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
   Public Contracts                                41, 50
+
+[[Page 255]]
+
   Secretary of Labor, Office of                   29, Subtitle A
-
-[[Page 263]]
-
   Veterans' Employment and Training Service,      41, 61; 20, IX
        Office of the Assistant Secretary for
   Wage and Hour Division                          29, V
@@ -21063,6 +20427,7 @@ Land Management, Bureau of                        43, II
 Legal Services Corporation                        45, XVI
 Library of Congress                               36, VII
   Copyright Office                                37, II
+  Copyright Royalty Board                         37, III
 Local Television Loan Guarantee Board             7, XX
 Management and Budget, Office of                  5, III, LXXVII; 14, VI; 
                                                   48, 99
@@ -21123,11 +20488,12 @@ Natural Resources Conservation Service            7, VI
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
+
+[[Page 256]]
+
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Interstate Low-Level Radioactive Waste  10, XVIII
-   Commission
-[[Page 264]]
-
+     Commission
 Nuclear Regulatory Commission                     5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
@@ -21200,12 +20566,12 @@ Surface Mining Reclamation and Enforcement,       30, VII
      Office of
 Surface Transportation Board                      49, X
 Susquehanna River Basin Commission                18, VIII
+
+[[Page 257]]
+
 Technology Administration                         15, XI
 Technology Policy, Assistant Secretary for        37, IV
 Technology, Under Secretary for                   37, V
-
-[[Page 265]]
-
 Tennessee Valley Authority                        5, LXIX; 18, XIII
 Thrift Supervision Office, Department of the      12, V
      Treasury
@@ -21268,13 +20634,13 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 267]]
+[[Page 259]]
 
 
 <R03>
 List of CFR Sections Affected
 
-<R04>
+
 
 All changes in this volume of the Code of Federal Regulations that were 
 made by documents published in the Federal Register since January 1, 
@@ -21316,5 +20682,7 @@ Subtitle A
 Chapter I
 102.19 (a) revised.................................................39837
 Chapter IV
-403 Au
+403 Authority citation revised.....................................58447
+403.2 (a) amended; (d) added.......................................58447
+403.5 (a) and (b) amended; (d) added...................
 </pre></body></html>
