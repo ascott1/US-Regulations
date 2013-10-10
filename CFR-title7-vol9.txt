@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 7 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2001 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2002 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -9,30 +9,31 @@
 
           
 <R02>
-                    7
-
-
+          7
           Parts 1000 to 1199
 
           Milk Orders
-                         Revised as of January 1, 2001
+          Revised as of January 1, 2002
 
-Agriculture
+          Agriculture
 
 <R03>
 
 
 
-          Containing a codification of documents of general 
-          applicability and future effect
-          As of January 1, 2001
+          Containing a codification of documents 
+          of general applicability and future effect
+
+          As of January 1, 2002
+
           With Ancillaries
+
           Published by:
           Office of the Federal Register
           National Archives and Records
           Administration
 
-A Special Edition of the Federal Register
+          A Special Edition of the Federal Register
 
 
 
@@ -48,11 +49,10 @@ A Special Edition of the Federal Register
 
 
 
- For sale by the Superintendent of Documents, U. S. Government Printing 
-                                  Office
- Internet: bookstore.gpo.gov    Phone: (202) 512-1800    Fax: (202) 512-
-                                   2250
-                Mail: Stop SSOP, Washington, DC 20402-0001
+ For sale by the Superintendent of Documents, U.S. Government Printing Office
+    Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area 
+                              (202) 512-1800
+      Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001
 
 
 
@@ -135,7 +135,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2001), consult the ``List of CFR 
+revision date (in this case, January 1, 2002), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -214,7 +214,7 @@ SALES
 
     The Government Printing Office (GPO) processes all sales and 
 distribution of the CFR. For payment by credit card, call 202-512-1800, 
-M-F 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2233, 24 hours 
+M-F 8 a.m. to 4 p.m. e.s.t. or fax your order to 202-512-2250, 24 hours 
 a day. For payment by check, write to the Superintendent of Documents, 
 Attn: New Orders, P.O. Box 371954, Pittsburgh, PA 15250-7954. For GPO 
 Customer Service call 202-512-1803.
@@ -242,7 +242,7 @@ site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-January 1, 2001.
+January 1, 2002.
 
 
 
@@ -257,7 +257,7 @@ these volumes are arranged in the following order: parts 1-26, 27-52,
 53-209, 210-299, 300-399, 400-699, 700-899, 900-999, 1000-1199, 1200-
 1599, 1600-1899, 1900-1939, 1940-1949, 1950-1999, and part 2000 to end. 
 The contents of these volumes represent all current regulations codified 
-under this title of the CFR as of January 1, 2001.
+under this title of the CFR as of January 1, 2002.
 
     The Food and Nutrition Service current regulations in the volume 
 containing parts 210-299, include the Child Nutrition Programs and the 
@@ -301,7 +301,7 @@ Chapter X--Agricultural Marketing Service (Marketing
 
 [[Page 3]]
 
-  Subtitle B--Regulations of the Department of Agriculture (Continued)
+  Subtitle B--Regulations of the Department of Agriculture--(Continued)
 
 [[Page 4]]
 
@@ -323,34 +323,27 @@ Part                                                                Page
 900             General regulations [Note]..................           7
 1000            General provisions of Federal milk marketing 
                     orders..................................          37
-1001            Milk in the Northeast marketing area........         100
+1001            Milk in the Northeast marketing area........          99
 1002-1004       [Reserved]
-
-1005            Milk in the Appalachian marketing area......         111
-1006            Milk in Florida marketing area..............         123
-1007            Milk in the Southeast marketing area........         132
+1005            Milk in the Appalachian marketing area......         110
+1006            Milk in Florida marketing area..............         122
+1007            Milk in the Southeast marketing area........         131
 1011-1013       [Reserved]
-
-1030            Milk in the Upper Midwest marketing area....         144
-1032            Milk in the Central marketing area..........         157
-1033            Milk in the Mideast marketing area..........         169
+1030            Milk in the Upper Midwest marketing area....         143
+1032            Milk in the Central marketing area..........         156
+1033            Milk in the Mideast marketing area..........         168
 1036-1120       [Reserved]
-
-1124            Milk in the Pacific Northwest marketing area         181
+1124            Milk in the Pacific Northwest marketing area         180
 1125            [Reserved]
-
-1126            Milk in the Southwest marketing area........         194
-1131            Milk in Arizona-Las Vegas marketing area....         204
+1126            Milk in the Southwest marketing area........         193
+1131            Milk in Arizona-Las Vegas marketing area....         203
 1132-1134       [Reserved]
-
-1135            Milk in the Western marketing area..........         214
+1135            Milk in the Western marketing area..........         213
 1136-1139       [Reserved]
-
-1140            Dairy forward pricing pilot program.........         225
-1150            Dairy promotion program.....................         227
+1140            Dairy forward pricing pilot program.........         224
+1150            Dairy promotion program.....................         226
 1151-1159       [Reserved]
-
-1160            Fluid milk promotion program................         239
+1160            Fluid milk promotion program................         238
 1161-1199       [Reserved]
                                   NOTE
 
@@ -8075,8 +8068,7 @@ Sec.
                        Producer Price Differential
 
 1001.60  Handler's value of milk.
-1001.61  Computation of producer butterfat price and producer price 
-          differential.
+1001.61  Computation of producer price differential.
 1001.62  Announcement of producer prices.
 
                             Payments for Milk
@@ -11290,7 +11282,11 @@ milk products.
     (c) A supply plant from which 50 percent or more of the total 
 quantity of milk that is physically received during the month from dairy 
 farmers and handlers described in Sec. 1000.9(c), including milk that is 
-diverted fpercentage.
+diverted from the plant, is transferred to pool distributing plants. 
+Concentrated milk transferred from the supply plant to a distributing 
+plant for an agreed-upon use other than Class I shall be excluded from 
+the supply plant's shipments in computing the plant's shipping 
+percentage.
     (d) A plant located within the marketing area that is operated by a 
 cooperative association if pool plant status under this paragraph is 
 requested for such plant by the cooperative association and during the 
@@ -11315,22 +11311,21 @@ from a unit, must be filed with the market administrator prior to the
 first day of the month for which it is to be effective.
     (f) The applicable shipping percentages of paragraphs (c) and (d) of 
 this section may be increased or decreased by the market administrator 
-if the market administrator finds that such adjustment is necessary to 
-encourage needed shipments or to prevent uneconomic shipments. Before 
-making such a finding, the market administrator shall investigate the 
-need for adjustment either on the market administrator's own initiative 
-or at the request of
+if the market administrator finds that such
 
 [[Page 134]]
 
-interested parties if the request is made in writing at least 15 days 
-prior to the date for which the requested revision is desired effective. 
-If the investigation shows that an adjustment of the shipping 
-percentages might be appropriate, the market administrator shall issue a 
-notice stating that an adjustment is being considered and invite data, 
-views and arguments. Any decision to revise an applicable shipping 
-percentage must be issued in writing at least one day before the 
-effective date.
+adjustment is necessary to encourage needed shipments or to prevent 
+uneconomic shipments. Before making such a finding, the market 
+administrator shall investigate the need for adjustment either on the 
+market administrator's own initiative or at the request of interested 
+parties if the request is made in writing at least 15 days prior to the 
+date for which the requested revision is desired effective. If the 
+investigation shows that an adjustment of the shipping percentages might 
+be appropriate, the market administrator shall issue a notice stating 
+that an adjustment is being considered and invite data, views and 
+arguments. Any decision to revise an applicable shipping percentage must 
+be issued in writing at least one day before the effective date.
     (g) The term pool plant shall not apply to the following plants:
     (1) A producer-handler plant;
     (2) An exempt plant as defined in Sec. thnsp;1000.8(e);
@@ -11409,12 +11404,13 @@ plant from a handler regulated under another Federal order if the other
 Federal order designates the dairy farmer as a producer under that order 
 and that milk is allocated by request to a utilization other than Class 
 I; and
+
+[[Page 135]]
+
     (4) A dairy farmer whose milk is reported as diverted to a plant 
 fully regulated under another Federal order with respect to that portion 
 of the milk so diverted that is assigned to Class I under the provisions 
 of such other order.
-
-[[Page 135]]
 
 
 <R05>
@@ -11507,13 +11503,13 @@ Sec. 1007.18  Cooperative association.
 
     See Sec. 1000.18.
 
+[[Page 136]]
+
 
 <R05>
 Sec. 1007.19  Commercial food processing establishment.
 
     See Sec. 1000.19.
-
-[[Page 136]]
 
                              Handler Reports
 
@@ -11594,9 +11590,11 @@ reported pursuant to Sec. 1007.30(a)(5), (6), and (7).
     (b) In addition to the reports required pursuant to 
 Secs. thnsp;1007.30, 31, and 32(a), each handler shall report any 
 information the market administrator deems necessary to verify or 
-establish each handler's obligation under the order.
+establish
 
 [[Page 137]]
+
+each handler's obligation under the order.
 
                          Classification of Milk
 
@@ -11711,14 +11709,15 @@ plants;
     (e) Multiply the Class I skim milk and Class I butterfat prices 
 applicable at the location of the nearest unregulated supply plants from 
 which an equivalent volume was received by the pounds of skim milk and 
-butterfat in receipts of concentrated fluid milk products assigned to 
-Class I pursuant to Sec. 1000.43(d) and Sec. 1000.44(a)(3)(i) and
+butterfat in
 
 [[Page 138]]
 
-the corresponding step of Sec. 1000.44(b) and the pounds of skim milk 
-and butterfat subtracted from Class I pursuant to Sec. 1000.44(a)(8) and 
-the corresponding step of Sec. 1000.44(b), excluding such skim milk and 
+receipts of concentrated fluid milk products assigned to Class I 
+pursuant to Sec. 1000.43(d) and Sec. 1000.44(a)(3)(i) and the 
+corresponding step of Sec. 1000.44(b) and the pounds of skim milk and 
+butterfat subtracted from Class I pursuant to Sec. 1000.44(a)(8) and the 
+corresponding step of Sec. 1000.44(b), excluding such skim milk and 
 butterfat in receipts of fluid milk products from an unregulated supply 
 plant to the extent that an equivalent amount of skim milk or butterfat 
 disposed of to such plant by handlers fully regulated under any Federal 
@@ -12238,8 +12237,7 @@ Sec.
                        Producer Price Differential
 
 1030.60  Handler's value of milk.
-1030.61  Computation of producer butterfat price and producer price 
-          differential.
+1030.61  Computation of producer price differential.
 1030.62  Announcement of producer prices.
 
                             Payments for Milk
@@ -13101,7 +13099,7 @@ Class III skim milk price, and the producer butterfat price,
 respectively, as adjusted pursuant to Sec. 1030.75 applicable at the 
 location of the plant from which received.
 
-[64 FR 47978, Sept. 1, 1999, as amended at 65 FR 82837, Dec. 28, 2000]
+[64 FR 47978, Sept. 1, 1999, as amended at 65 FR 82836, Dec. 28, 2000]
 
 
 <R05>
@@ -13269,7 +13267,7 @@ component, and the nature of each deduction claimed by the handler; and
     (8) The net amount of payment to the producer or cooperative 
 association.
 
-[64 FR 47978, Sept. 1, 1999, as amended at 65 FR 82837, Dec. 28, 2000]
+[64 FR 47978, Sept. 1, 1999, as amended at 65 FR 82836, Dec. 28, 2000]
 
 
 <R05>
@@ -13383,8 +13381,7 @@ Sec.
                        Producer Price Differential
 
 1032.60  Handler's value of milk.
-1032.61  Computation of producer butterfat price and producer price 
-          differential.
+1032.61  Computation of producer price differential.
 1032.62  Announcement of producer prices.
 
                             Payments for Milk
@@ -14096,6 +14093,12 @@ receipts of bulk fluid cream products from a plant regulated under other
 Federal orders and bulk concentrated fluid milk products from pool 
 plants, plants regulated under other Federal orders, and unregulated 
 supply plants.
+    (j) For reconstituted milk made from receipts of nonfluid milk 
+products, multiply $1.00 (but not more than the difference between the 
+Class I price applicable at the location of the pool plant and the Class 
+IV price) by the hundredweight of skim milk and butterfat contained in 
+receipts of nonfluid milk products that are allocated to Class I use 
+pursuant to Sec. 1000.43(d).
     (i) Multiply the Class I skim milk and Class I butterfat prices 
 applicable at the location of the nearest unregulated supply plants from 
 which an equivalent volume was received by the pounds of skim milk and 
@@ -14109,12 +14112,6 @@ plant to the extent that an equivalent amount of skim milk or butterfat
 disposed of to such plant by handlers fully regulated under any Federal 
 milk order is classified and priced as Class I milk and is not used as 
 an offset for any other payment obligation under any order.
-    (j) For reconstituted milk made from receipts of nonfluid milk 
-products, multiply $1.00 (but not more than the difference between the 
-Class I price applicable at the location of the pool plant and the Class 
-IV price) by the hundredweight of skim milk and butterfat contained in 
-receipts of nonfluid milk products that are allocated to Class I use 
-pursuant to Sec. 1000.43(d).
 
 [64 FR 47985, Sept. 1, 1999, as amended at 65 FR 82837, Dec. 28, 2000]
 
@@ -14524,8 +14521,7 @@ Sec.
                        Producer Price Differential
 
 1033.60  Handler's value of milk.
-1033.61  Computation of producer butterfat price and producer price 
-          differential.
+1033.61  Computation of producer price differential.
 1033.62  Announcement of producer prices.
 
                             Payments for Milk
@@ -15249,6 +15245,12 @@ bulk fluid cream products from a plant regulated under other Federal
 orders and bulk concentrated fluid milk products from pool plants, 
 plants regulated under other Federal orders, and unregulated supply 
 plants.
+    (j) For reconstituted milk made from receipts of nonfluid milk 
+products, multiply $1.00 (but not more than the difference between the 
+Class I price applicable at the location of the pool plant and the Class 
+IV price) by the hundredweight of skim milk and butterfat contained in 
+receipts of nonfluid milk products that are allocated to Class I use 
+pursuant to Sec. 1000.43(d).
     (i) Multiply the Class I skim milk and Class I butterfat prices 
 applicable at the location of the nearest unregulated supply plants from 
 which an equivalent volume was received by the pounds of skim milk and 
@@ -15260,18 +15262,11 @@ corresponding step of Sec. 1000.44(b), excluding such skim milk and
 butterfat in receipts of fluid milk products from an unregulated supply 
 plant to the extent that an equivalent amount of skim milk or butterfat 
 disposed of to such plant by handlers fully regulated under any Federal 
-milk order is classified and priced as Class I milk and is not used as 
-an offset for any other payment obligation under any order.
-    (j) For reconstituted milk made from receipts of nonfluid milk 
-products, multiply $1.00 (but not more than the difference between the 
-Class I price applicable at the location of the pool plant and the Class 
-IV price) by the hundredweight of skim milk and butterfat contained in 
-receipts of nonfluid
+milk order is classified and priced as Class I milk and is not used
 
 [[Page 177]]
 
-milk products that are allocated to Class I use pursuant to 
-Sec. 1000.43(d).
+as an offset for any other payment obligation under any order.
 
 [64 FR 47991, Sept. 1, 1999, as amended at 65 FR 82838, Dec. 28, 2000]
 
@@ -16797,8 +16792,7 @@ Sec.
                        Producer Price Differential
 
 1126.60  Handler's value of milk.
-1126.61  Computation of producer butterfat price and producer price 
-          differential.
+1126.61  Computation of producer price differential.
 1126.62  Announcement of producer prices.
 
                             Payments for Milk
@@ -18720,8 +18714,7 @@ Sec.
                        Producer Price Differential
 
 1135.60  Handler's value of milk.
-1135.61  Computation of producer butterfat price and producer price 
-          differential.
+1135.61  Computation of producer price differential.
 1135.62  Announcement of producer prices.
 
                             Payments for Milk
@@ -22187,7 +22180,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2001)
+                     (Revised as of January 1, 2002)
 
                       Title 1--General Provisions
 
@@ -22197,6 +22190,8 @@ which is published separately and revised annually.
         IV  Miscellaneous Agencies (Parts 400--500)
 
                           Title 2--[Reserved]
+
+              
 
                         Title 3--The President
 
@@ -22228,11 +22223,11 @@ which is published separately and revised annually.
        XVI  Office of Government Ethics (Parts 2600--2699)
        XXI  Department of the Treasury (Parts 3100--3199)
       XXII  Federal Deposit Insurance Corporation (Part 3201)
-     XXIII  Department of Energy (Part 3301)
-      XXIV  Federal Energy Regulatory Commission (Part 3401)
 
 [[Page 256]]
 
+     XXIII  Department of Energy (Part 3301)
+      XXIV  Federal Energy Regulatory Commission (Part 3401)
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
     XXVIII  Department of Justice (Part 3801)
@@ -22279,15 +22274,14 @@ which is published separately and revised annually.
 
               
 
+[[Page 257]]
+
                          Title 7--Agriculture
 
             Subtitle A--Office of the Secretary of Agriculture 
                 (Parts 0--26)
             Subtitle B--Regulations of the Department of 
                 Agriculture
-
-[[Page 257]]
-
          I  Agricultural Marketing Service (Standards, 
                 Inspections, Marketing Practices), Department of 
                 Agriculture (Parts 27--209)
@@ -22338,13 +22332,13 @@ which is published separately and revised annually.
                 2900--2999)
        XXX  Office of the Chief Financial Officer, Department of 
                 Agriculture (Parts 3000--3099)
+
+[[Page 258]]
+
       XXXI  Office of Environmental Quality, Department of 
                 Agriculture (Parts 3100--3199)
      XXXII  Office of Procurement and Property Management, 
                 Department of Agriculture (Parts 3200--3299)
-
-[[Page 258]]
-
     XXXIII  Office of Transportation, Department of Agriculture 
                 (Parts 3300--3399)
      XXXIV  Cooperative State Research, Education, and Extension 
@@ -22394,13 +22388,12 @@ which is published separately and revised annually.
 
          I  Federal Election Commission (Parts 1--9099)
 
+[[Page 259]]
+
                       Title 12--Banks and Banking
 
          I  Comptroller of the Currency, Department of the 
                 Treasury (Parts 1--199)
-
-[[Page 259]]
-
         II  Federal Reserve System (Parts 200--299)
        III  Federal Deposit Insurance Corporation (Parts 300--399)
         IV  Export-Import Bank of the United States (Parts 400--
@@ -22442,6 +22435,7 @@ which is published separately and revised annually.
                 (Parts 400--499)
          V  National Aeronautics and Space Administration (Parts 
                 1200--1299)
+        VI  Office of Management and Budget (Parts 1300--1399)
 
                  Title 15--Commerce and Foreign Trade
 
@@ -22451,13 +22445,13 @@ which is published separately and revised annually.
                 Foreign Trade
          I  Bureau of the Census, Department of Commerce (Parts 
                 30--199)
+
+[[Page 260]]
+
         II  National Institute of Standards and Technology, 
                 Department of Commerce (Parts 200--299)
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
-
-[[Page 260]]
-
         IV  Foreign-Trade Zones Board, Department of Commerce 
                 (Parts 400--499)
        VII  Bureau of Export Administration, Department of 
@@ -22505,12 +22499,13 @@ which is published separately and revised annually.
 
          I  United States Customs Service, Department of the 
                 Treasury (Parts 1--199)
+
+[[Page 261]]
+
         II  United States International Trade Commission (Parts 
                 200--299)
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
-
-[[Page 261]]
 
                      Title 20--Employees' Benefits
 
@@ -22559,18 +22554,17 @@ which is published separately and revised annually.
                 1100--1199)
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
-      XIII  Board for International Broadcasting (Parts 1300--
-                1399)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
                 Service Impasse Disputes Panel (Parts 1400--1499)
+
+[[Page 262]]
+
         XV  African Development Foundation (Parts 1500--1599)
        XVI  Japan-United States Friendship Commission (Parts 
                 1600--1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
-
-[[Page 262]]
 
                           Title 23--Highways
 
@@ -22623,6 +22617,9 @@ which is published separately and revised annually.
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Interstate Land Sales 
                 Registration Program) (Parts 1700--1799)
+
+[[Page 263]]
+
        XII  Office of Inspector General, Department of Housing and 
                 Urban Development (Parts 2000--2099)
         XX  Office of Assistant Secretary for Housing--Federal 
@@ -22630,8 +22627,6 @@ which is published separately and revised annually.
                 Urban Development (Parts 3200--3899)
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
-
-[[Page 263]]
 
                            Title 25--Indians
 
@@ -22654,7 +22649,7 @@ which is published separately and revised annually.
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
-                (Parts 1--799)
+                (Parts 1--899)
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -22671,6 +22666,14 @@ which is published separately and revised annually.
         VI  Offices of Independent Counsel, Department of Justice 
                 (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
+      VIII  Court Services and Offender Supervision Agency for the 
+                District of Columbia (Parts 800--899)
+        IX  National Crime Prevention and Privacy Compact Council 
+                (Parts 900--999)
+        XI  Department of Justice and Department of State (Parts 
+                1100--1199)
+
+[[Page 264]]
 
                             Title 29--Labor
 
@@ -22688,9 +22691,6 @@ which is published separately and revised annually.
         IX  Construction Industry Collective Bargaining Commission 
                 (Parts 900--999)
          X  National Mediation Board (Parts 1200--1299)
-
-[[Page 264]]
-
        XII  Federal Mediation and Conciliation Service (Parts 
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
@@ -22734,6 +22734,9 @@ which is published separately and revised annually.
                 400--499)
          V  Office of Foreign Assets Control, Department of the 
                 Treasury (Parts 500--599)
+
+[[Page 265]]
+
         VI  Bureau of Engraving and Printing, Department of the 
                 Treasury (Parts 600--699)
        VII  Federal Law Enforcement Training Center, Department of 
@@ -22747,9 +22750,6 @@ which is published separately and revised annually.
 
             Subtitle A--Department of Defense
          I  Office of the Secretary of Defense (Parts 1--399)
-
-[[Page 265]]
-
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
        VII  Department of the Air Force (Parts 800--1099)
@@ -22791,6 +22791,9 @@ which is published separately and revised annually.
                 Department of Education (Parts 200--299)
        III  Office of Special Education and Rehabilitative 
                 Services, Department of Education (Parts 300--399)
+
+[[Page 266]]
+
         IV  Office of Vocational and Adult Education, Department 
                 of Education (Parts 400--499)
          V  Office of Bilingual Education and Minority Languages 
@@ -22802,8 +22805,6 @@ which is published separately and revised annually.
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
-
-[[Page 266]]
 
                         Title 35--Panama Canal
 
@@ -22830,6 +22831,8 @@ which is published separately and revised annually.
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
+       XVI  Morris K. Udall Scholarship and Excellence in National 
+                Environmental Policy Foundation (Parts 1600--1699)
 
              Title 37--Patents, Trademarks, and Copyrights
 
@@ -22844,6 +22847,8 @@ which is published separately and revised annually.
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
          I  Department of Veterans Affairs (Parts 0--99)
+
+[[Page 267]]
 
                        Title 39--Postal Service
 
@@ -22862,8 +22867,6 @@ which is published separately and revised annually.
                 Defense; Uniform National Discharge Standards for 
                 Vessels of the Armed Forces (Parts 1700--1799)
 
-[[Page 267]]
-
           Title 41--Public Contracts and Property Management
 
             Subtitle B--Other Provisions Relating to Public 
@@ -22875,9 +22878,9 @@ which is published separately and revised annually.
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
-        61  Office of the Assistant Secretary for Veterans 
-                Employment and Training, Department of Labor 
-                (Parts 61-1--61-999)
+        61  Office of the Assistant Secretary for Veterans' 
+                Employment and Training Service, Department of 
+                Labor (Parts 61-1--61-999)
             Subtitle C--Federal Property Management Regulations 
                 System
        101  Federal Property Management Regulations (Parts 101-1--
@@ -22902,6 +22905,9 @@ which is published separately and revised annually.
        302  Relocation Allowances (Parts 302-1--302-99)
        303  Payment of Expenses Connected with the Death of 
                 Certain Employees (Part 303-70)
+
+[[Page 268]]
+
        304  Payment from a Non-Federal Source for Travel Expenses 
                 (Parts 304-1--304-99)
 
@@ -22909,8 +22915,8 @@ which is published separately and revised annually.
 
          I  Public Health Service, Department of Health and Human 
                 Services (Parts 1--199)
-        IV  Health Care Financing Administration, Department of 
-                Health and Human Services (Parts 400--499)
+        IV  Centers for Medicare & Medicaid Services, Department 
+                of Health and Human Services (Parts 400--499)
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
 
@@ -22919,9 +22925,6 @@ which is published separately and revised annually.
             Subtitle A--Office of the Secretary of the Interior 
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Lands
-
-[[Page 268]]
-
          I  Bureau of Reclamation, Department of the Interior 
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
@@ -22956,6 +22959,9 @@ which is published separately and revised annually.
         VI  National Science Foundation (Parts 600--699)
        VII  Commission on Civil Rights (Parts 700--799)
       VIII  Office of Personnel Management (Parts 800--899)
+
+[[Page 269]]
+
          X  Office of Community Services, Administration for 
                 Children and Families, Department of Health and 
                 Human Services (Parts 1000--1099)
@@ -22974,9 +22980,6 @@ which is published separately and revised annually.
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
-
-[[Page 269]]
-
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
 
@@ -23011,6 +23014,9 @@ which is published separately and revised annually.
          7  United States Agency for International Development 
                 (Parts 700--799)
          8  Department of Veterans Affairs (Parts 800--899)
+
+[[Page 270]]
+
          9  Department of Energy (Parts 900--999)
         10  Department of the Treasury (Parts 1000--1099)
         12  Department of Transportation (Parts 1200--1299)
@@ -23029,9 +23035,6 @@ which is published separately and revised annually.
                 Group Life Insurance Federal Acquisition 
                 Regulation (Parts 2100--2199)
         23  Social Security Administration (Parts 2300--2399)
-
-[[Page 270]]
-
         24  Department of Housing and Urban Development (Parts 
                 2400--2499)
         25  National Science Foundation (Parts 2500--2599)
@@ -23066,6 +23069,9 @@ which is published separately and revised annually.
                 Transportation
          I  Research and Special Programs Administration, 
                 Department of Transportation (Parts 100--199)
+
+[[Page 271]]
+
         II  Federal Railroad Administration, Department of 
                 Transportation (Parts 200--299)
        III  Federal Motor Carrier Safety Administration, 
@@ -23083,8 +23089,8 @@ which is published separately and revised annually.
                 Transportation (Parts 1000--1399)
         XI  Bureau of Transportation Statistics, Department of 
                 Transportation (Parts 1400--1499)
-
-[[Page 271]]
+       XII  Transportation Security Administration, Department of 
+                Transportation (Parts 1500--1599)
 
                    Title 50--Wildlife and Fisheries
 
@@ -23127,7 +23133,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2001)
+                     (Revised as of January 1, 2002)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -23201,7 +23207,6 @@ Bilingual Education and Minority Languages        34, V
      Affairs, Office of
 Blind or Severely Disabled, Committee for         41, 51
      Purchase From People Who Are
-Board for International Broadcasting              22, XIII
 Broadcasting Board of Governors                   22, V
   Federal Acquisition Regulation                  48, 19
 Census Bureau                                     15, I
@@ -23254,17 +23259,19 @@ Copyright Office                                  37, II
 Corporation for National and Community Service    45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
+Court Services and Offender Supervision Agency    28, VIII
+     for the District of Columbia
 Customs Service, United States                    19, I
 Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
-  Army Department                                 32, V; 33, II; 36, III, 
-                                                  48, 51
 
 [[Page 275]]
 
+  Army Department                                 32, V; 33, II; 36, III, 
+                                                  48, 51
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
@@ -23277,6 +23284,8 @@ Defense Intelligence Agency                       32, I
 Defense Logistics Agency                          32, XII; 48, 54
 Defense Nuclear Facilities Safety Board           10, XVII
 Delaware River Basin Commission                   18, III
+District of Columbia, Court Services and          28, VIII
+     Offender Supervision Agency for the
 Drug Enforcement Administration                   21, II
 East-West Foreign Trade Board                     15, XIII
 Economic Affairs, Under Secretary                 37, V
@@ -23322,7 +23331,8 @@ Equal Opportunity, Office of Assistant Secretary  24, I
 Executive Office of the President                 3, I
   Administration, Office of                       5, XV
   Environmental Quality, Council on               40, V
-  Management and Budget, Office of                25, III, LXXVII; 48, 99
+  Management and Budget, Office of                5, III, LXXVII; 14, VI; 
+                                                  48, 99
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
   Presidential Documents                          3
@@ -23331,14 +23341,14 @@ Executive Office of the President                 3, I
        States
 Export Administration, Bureau of                  15, VII
 Export-Import Bank of the United States           5, LII; 12, IV
+
+[[Page 276]]
+
 Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
 Farm Service Agency                               7, VII, XVIII
 Federal Acquisition Regulation                    48, 1
-
-[[Page 276]]
-
 Federal Aviation Administration                   14, I
   Commercial Space Transportation                 14, III
 Federal Claims Collection Standards               31, IX
@@ -23404,15 +23414,16 @@ General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
-  Federal Property Management Regulations         41, 101
+  Federal Property Management Regulation          41, 101
+
+[[Page 277]]
+
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
        Expenses
   Payment of Expenses Connected With the Death    41, 303
-     of Certain Employees
-[[Page 277]]
-
+       of Certain Employees
   Relocation Allowances                           41, 302
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
@@ -23428,13 +23439,13 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Family Assistance, Office of                    45, II
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
-  Health Care Financing Administration            42, IV
+  Centers for Medicare & Medicaid Services        42, IV
   Human Development Services, Office of           45, XIII
   Indian Health Service                           25, V
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
-Health Care Financing Administration              42, IV
+Centers for Medicare & Medicaid Services          42, IV
 Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
   Community Planning and Development, Office of   24, V, VI
        Assistant Secretary for
@@ -23482,15 +23493,15 @@ Interior Department
   Federal Acquisition Regulation                  48, 14
   Federal Property Management Regulations System  41, 114
   Fish and Wildlife Service, United States        50, I, IV
+
+[[Page 278]]
+
   Geological Survey                               30, IV
   Indian Affairs, Bureau of                       25, I, V
   Indian Affairs, Office of the Assistant         25, VI
        Secretary
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
-
-[[Page 278]]
-
   Minerals Management Service                     30, II
   Mines, Bureau of                                30, VI
   National Indian Gaming Commission               25, III
@@ -23522,7 +23533,8 @@ Interstate Commerce Commission                    5, XL
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                5, XXVIII; 28, I; 40, IV
+Justice Department                                5, XXVIII; 28, I, XI; 40, 
+                                                  IV
   Drug Enforcement Administration                 21, II
   Federal Acquisition Regulation                  48, 28
   Federal Claims Collection Standards             31, IX
@@ -23548,8 +23560,8 @@ Labor Department                                  5, XLII
   Pension and Welfare Benefits Administration     29, XXV
   Public Contracts                                41, 50
   Secretary of Labor, Office of                   29, Subtitle A
-  Veterans' Employment and Training, Office of    41, 61; 20, IX
-       the Assistant Secretary for
+  Veterans' Employment and Training Service,      41, 61; 20, IX
+       Office of the Assistant Secretary for
   Wage and Hour Division                          29, V
   Workers' Compensation Programs, Office of       20, I
 Labor-Management Standards, Office of             29, II, IV
@@ -23557,7 +23569,11 @@ Land Management, Bureau of                        43, II
 Legal Services Corporation                        45, XVI
 Library of Congress                               36, VII
   Copyright Office                                37, II
-Management and Budget, Office of                  5, III, LXXVII; 48, 99
+Management and Budget, Office of                  5, III, LXXVII; 14, VI; 
+                                                  48, 99
+
+[[Page 279]]
+
 Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
 Merit Systems Protection Board                    5, II
@@ -23565,12 +23581,11 @@ Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
 Mines, Bureau of                                  30, VI
-
-[[Page 279]]
-
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
+Morris K. Udall Scholarship and Excellence in     36, XVI
+     National Environmental Policy Foundation
 National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
@@ -23586,6 +23601,8 @@ National Commission on Libraries and Information  45, XVII
 National Council on Disability                    34, XII
 National Counterintelligence Center               32, XVIII
 National Credit Union Administration              12, VII
+National Crime Prevention and Privacy Compact     28, IX
+     Council
 National Drug Control Policy, Office of           21, III
 National Foundation on the Arts and the           45, XI
      Humanities
@@ -23628,6 +23645,9 @@ Oklahoma City National Memorial Trust             36, XV
 Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
 Panama Canal Commission                           48, 35
+
+[[Page 280]]
+
 Panama Canal Regulations                          35, I
 Patent and Trademark Office, United States        37, I
 Payment From a Non-Federal Source for Travel      41, 304
@@ -23639,9 +23659,6 @@ Pennsylvania Avenue Development Corporation       36, IX
 Pension and Welfare Benefits Administration       29, XXV
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-
-[[Page 280]]
-
   Federal Acquisition Regulation                  48, 17
   Federal Employees Group Life Insurance Federal  48, 21
        Acquisition Regulation
@@ -23687,7 +23704,7 @@ Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
 Special Education and Rehabilitative Services,    34, III
      Office of
-State Department                                  22, I
+State Department                                  22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
 Surface Mining and Reclamation Appeals, Board of  30, III
 Surface Mining Reclamation and Enforcement,       30, VII
@@ -23705,6 +23722,9 @@ Transportation, Department of                     5, L
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
   Commercial Space Transportation                 14, III
+
+[[Page 281]]
+
   Contract Appeals, Board of                      48, 63
   Emergency Management and Assistance             44, IV
   Federal Acquisition Regulation                  48, 12
@@ -23715,15 +23735,14 @@ Transportation, Department of                     5, L
   Federal Transit Administration                  49, VI
   Maritime Administration                         46, II
   National Highway Traffic Safety Administration  23, II, III; 49, V
-
-[[Page 281]]
-
   Research and Special Programs Administration    49, I
   Saint Lawrence Seaway Development Corporation   33, IV
   Secretary of Transportation, Office of          14, II; 49, Subtitle A
   Surface Transportation Board                    49, X
+  Transportation Security Administration          49, XII
   Transportation Statistics Bureau                49, XI
 Transportation, Office of                         7, XXXIII
+Transportation Security Administration            49, XII
 Transportation Statistics Brureau                 49, XI
 Travel Allowances, Temporary Duty (TDY)           41, 301
 Treasury Department                               5, XXI; 12, XV; 17, IV; 
@@ -23753,14 +23772,14 @@ Utah Reclamation Mitigation and Conservation      43, III
      Commission
 Veterans Affairs Department                       38, I
   Federal Acquisition Regulation                  48, 8
-Veterans' Employment and Training, Office of the  41, 61; 20, IX
-     Assistant Secretary for
+Veterans' Employment and Training Service,        41, 61; 20, IX
+     Office of the Assistant Secretary for
 Vice President of the United States, Office of    32, XXVIII
 Vocational and Adult Education, Office of         34, IV
 Wage and Hour Division                            29, V
 Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
-World Agricultural Outlook Board                  7, XXXVIII
+World Agricultural Outlook Board                  7, XXXVIII--
 
 [[Page 283]]
 
@@ -26860,29 +26879,5 @@ Chapter X
 1138.13  (d)(1), (2) and (5) stayed in part........................61204
 1139  Removed......................................................47899
     Regulation at 64 FR 47899 eff. date delayed....................53885
-    Statutory amendment............................................61776
-    Regulation at 64 FR 47899 eff. 1-1-00..........................70869
-
-                                  2000
-
-7 CFR
-                                                                   65 FR
-                                                                    Page
-Chapter X
-1000.40  (c)(1)(ii) removed; (d)(1)(i) revised; interim............82833
-1000.50  introductory text amended; (a), (b), (c), (g), (h), (j), 
-        (l), (m), (n), (o), (p)(1) and (q)(3) amended; (q)(4) 
-        added; interim.............................................82833
-1001.60  (c)(3), (d)(2) and (h) revised; interim...................82834
-1001.61  Revised; interim..........................................82834
-1001.62  (e) and (g) revised; interim..............................82835
-1001.71  (b)(2) and (3) revised; interim...........................82835
-
-[[Page 319]]
-
-1001.73  (a) introductory text and (b) introductory text amended 
-                                                                   32010
-    (a)(2)(ii) and (b)(3)(vi) revised; interim.....................82835
-1005.60  (e) revised; interim......................................82835
-1005.61  (a) and (b)(4) 
+    Statutory amendment..........
 </pre></body></html>
