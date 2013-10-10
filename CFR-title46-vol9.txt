@@ -1,20 +1,20 @@
 <html><body><pre>
 [Title 46 CFR ]
-[Code of Federal Regulations (annual edition) - October 1, 2002 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2003 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-
+          
 <R02>
                     46
 
 
           Part 500 to End
 
-                         Revised as of October 1, 2002
+                         Revised as of October 1, 2003
 
 Shipping
 
@@ -24,7 +24,7 @@ Shipping
 
           Containing a codification of documents of general 
           applicability and future effect
-          As of October 1, 2002
+          As of October 1, 2003
           With Ancillaries
           Published by
           Office of the Federal Register
@@ -37,13 +37,13 @@ A Special Edition of the Federal Register
 
 [[Page ii]]
 
-                                      
+
 
 
 
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 2002
+                            WASHINGTON : 2003
 
 
 
@@ -70,21 +70,21 @@ A Special Edition of the Federal Register
   Title 46:
           Chapter IV--Federal Maritime Commission                    3
   Finding Aids:
-      Table of CFR Titles and Chapters........................     265
-      Alphabetical List of Agencies Appearing in the CFR......     283
-      List of CFR Sections Affected...........................     293
+      Table of CFR Titles and Chapters........................     263
+      Alphabetical List of Agencies Appearing in the CFR......     281
+      List of CFR Sections Affected...........................     291
 
 
 
 [[Page iv]]
 
 
-      
+
 
 
                      ----------------------------
 
-                     Cite this Code:  CFR
+                     Cite this Code: CFR
                      To cite the regulations in 
                        this volume use title, 
                        part and section number. 
@@ -130,7 +130,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2002), consult the ``List of CFR 
+revision date (in this case, October 1, 2003), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -221,7 +221,7 @@ ELECTRONIC SERVICES
 CFR Sections Affected), The United States Government Manual, the Federal 
 Register, Public Laws, Public Papers, Weekly Compilation of Presidential 
 Documents and the Privacy Act Compilation are available in electronic 
-format at www.access.gpo.gov/nara (''GPO Access''). For more 
+format at www.access.gpo.gov/nara (``GPO Access''). For more 
 information, contact Electronic Information Dissemination Services, U.S. 
 Government Printing Office. Phone 202-512-1530, or 888-293-6498 (toll-
 free). E-mail, gpoaccess@gpo.gov.
@@ -231,14 +231,14 @@ free). E-mail, gpoaccess@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
-information. Connect to NARA's web site at www.nara.gov/fedreg. The NARA 
-site also contains links to GPO Access.
+information. Connect to NARA's web site at www.archives.gov/federal--
+register. The NARA site also contains links to GPO Access.
 
                               Raymond A. Mosley,
                                     Director,
                           Office of the Federal Register.
 
-October 1, 2002.
+October 1, 2003.
 
 
 
@@ -252,15 +252,15 @@ October 1, 2002.
 volumes are arranged in the following order: Parts 1-40, 41-69, 70-89, 
 90-139, 140-155, 156-165, 166-199, 200-499 and 500 to End. The first 
 seven volumes containing parts 1-199 comprise chapter I--Coast Guard, 
-DOT. The eighth volume, containing parts 200 to 499, includes chapter 
+DHS. The eighth volume, containing parts 200 to 499, includes chapter 
 II--Maritime Administration, DOT and chapter III--Coast Guard (Great 
-Lakes Pilotage), DOT. The ninth volume, containing part 500 to End, 
+Lakes Pilotage), DHS. The ninth volume, containing part 500 to End, 
 includes chapter IV--Federal Maritime Commission. The contents of these 
 volumes represent all current regulations codified under this title of 
-the CFR as of October 1, 2002.
+the CFR as of October 1, 2003.
 
-    Subject indexes appear in subchapters A--I, I-A, J, K, L, and Q--W 
-following the subchapters.
+    Subject indexes appear in Chapter I, subchapters A--I, I-A, J, K, L, 
+and Q--W following the subchapters.
 
 [[Page x]]
 
@@ -287,7 +287,7 @@ chapter iv--Federal Maritime Commission.....................         500
 Cross References: U.S. Customs Service, Department of the Treasury: See 
   Customs Duties, 19 CFR chapter I.
 
-  Coast Guard, Department of Transportation: See Navigation and 
+  Coast Guard, Department of Homeland Security: See Navigation and 
 Navigable Waters, 33 CFR chapter I; Shipping, 46 CFR chapter I; Federal 
 Acquisition Regulations, 48 CFR chapter 12.
 
@@ -354,14 +354,14 @@ Part                                                                Page
                     impairing access of U.S.-flag vessels to 
                     ocean trade between foreign ports.......         252
 565             Controlled carriers.........................         257
+   SUBCHAPTER D--REGULATIONS AFFECTING MARITIME CARRIERS AND RELATED 
+                ACTIVITIES IN FOREIGN COMMERCE [RESERVED]
 
 [[Page 5]]
 
 
 <R03>
            SUBCHAPTER A--GENERAL AND ADMINISTRATIVE PROVISIONS
-
-<R05>
 
 
 <R03>
@@ -370,36 +370,35 @@ PART 501--THE FEDERAL MARITIME COMMISSION--GENERAL--Table of Contents
 <R05>
 
 
-Sec.
-
                   Subpart A--Organization and Functions
 
-501.1  Purpose.
-501.2  General.
-501.3  Organizational components of the Federal Maritime Commission.
-501.4  Lines of responsibility.
-501.5  Functions of the organizational components of the Federal 
-          Maritime Commission.
+Sec.
+501.1 Purpose.
+501.2 General.
+501.3 Organizational components of the Federal Maritime Commission.
+501.4 Lines of responsibility.
+501.5 Functions of the organizational components of the Federal Maritime 
+          Commission.
 
                         Subpart B--Official Seal
 
-501.11  Official seal.
+501.11 Official seal.
 
           Subpart C--Delegation and Redelegation of Authorities
 
-501.21  Delegation of authorities.
-501.22  [Reserved]
-501.23  Delegation to the General Counsel.
-501.24  Delegation to the Secretary.
-501.25  Delegation to and redelegation by the Executive Director.
-501.26  Delegation to the Director, Bureau of Trade Analysis.
-501.27  Delegation to the Director, Bureau of Consumer Complaints and 
+501.21 Delegation of authorities.
+501.22 [Reserved]
+501.23 Delegation to the General Counsel.
+501.24 Delegation to the Secretary.
+501.25 Delegation to and redelegation by the Executive Director.
+501.26 Delegation to the Director, Bureau of Trade Analysis.
+501.27 Delegation to the Director, Bureau of Consumer Complaints and 
           Licensing.
-501.28  Delegation to the Director, Bureau of Enforcement.
+501.28 Delegation to the Director, Bureau of Enforcement.
 
                Subpart D--Public Requests for Information
 
-501.41  Public requests for information and decisions.
+501.41 Public requests for information and decisions.
 
 Appendix A to Part 501--Federal Maritime Commission Organization Chart
 
@@ -1336,7 +1335,6 @@ relating to the specific functions or program activities of their
 respective bureaus and offices as set forth in this chapter; but only if 
 the dissemination of such information or decisions is not prohibited by 
 statute or the Commission's Rules of Practice and Procedure:
-
     (1) Office of the General Counsel
     (2) Office of the Administrative Law Judges
     (3) Office of the Executive Director
@@ -1355,7 +1353,7 @@ to the public within their geographic areas, or will expedite the
 obtaining of information and decisions from headquarters. The addresses 
 of these Area Representatives are as follows. Further information on 
 Area Representatives, including Internet e-mail addresses, can be 
-obtained on the Commission's home page at ``http://www.fmc.gov.''
+obtained on the Commission's home page at http://www.fmc.gov.
 
                                Los Angeles
 
@@ -1391,10 +1389,9 @@ the Director of such Bureau or Office.
 
 [[Page 19]]
 
-          Appendix A to Part 501--Federal Maritime Commission 
-                          Organization Chart
-    [GRAPHIC] [TIFF OMITTED] TR27DE00.023
-    
+ Appendix A to Part 501--Federal Maritime Commission Organization Chart
+[GRAPHIC] [TIFF OMITTED] TR27DE00.023
+
 
 <R03>
 PART 502--RULES OF PRACTICE AND PROCEDURE--Table of Contents
@@ -1405,73 +1402,73 @@ PART 502--RULES OF PRACTICE AND PROCEDURE--Table of Contents
                      Subpart A--General Information
 
 Sec.
-502.1  Scope of rules in this part.
-502.2  Filing of documents; hours; mailing address.
-502.3  Compliance with rules or orders of Commission.
-502.4  Authentication of rules or orders of Commission.
-502.5-502.6  [Reserved]
-502.7  Documents in foreign languages.
+502.1 Scope of rules in this part.
+502.2 Filing of documents; hours; mailing address.
+502.3 Compliance with rules or orders of Commission.
+502.4 Authentication of rules or orders of Commission.
+502.5-502.6 [Reserved]
+502.7 Documents in foreign languages.
+502.8 Denial of applications and notice thereof.
+502.9 Suspension, amendment, etc., of rules in this part.
 
 [[Page 20]]
 
-502.8  Denial of applications and notice thereof.
-502.9  Suspension, amendment, etc., of rules in this part.
-502.10  Waiver of rules in this part.
-502.11  Ex parte communications.
-502.12  Applicability of Federal Rules of Civil Procedure.
+502.10 Waiver of rules in this part.
+502.11 Ex parte communications.
+502.12 Applicability of Federal Rules of Civil Procedure.
 
         Subpart B--Appearance and Practice Before the Commission
 
-502.21  Appearance.
-502.22  Authority for representation.
-502.23  Notice of appearance; substitution and withdrawal of 
+502.21 Appearance.
+502.22 Authority for representation.
+502.23 Notice of appearance; substitution and withdrawal of 
           representative.
-502.24  Practice before the Commission defined.
-502.25  Presiding officer defined.
-502.26  Attorneys at law.
-502.27  Persons not attorneys at law.
-502.29  Hearings.
-502.30  Suspension or disbarment.
-502.31  Statement of interest.
-502.32  Former employees.
+502.24 Practice before the Commission defined.
+502.25 Presiding officer defined.
+502.26 Attorneys at law.
+502.27 Persons not attorneys at law.
+502.29 Hearings.
+502.30 Suspension or disbarment.
+502.31 Statement of interest.
+502.32 Former employees.
 
 Exhibit No. 1 to Subpart B [Secs. 502.23, 502.26, 502.27]--Notice of 
           Appearance
 
                            Subpart C--Parties
 
-502.41  Parties; how designated.
-502.42  Bureau of Enforcement.
-502.43  Substitution of parties.
-502.44  Necessary and proper parties in certain complaint proceedings.
+502.41 Parties; how designated.
+502.42 Bureau of Enforcement.
+502.43 Substitution of parties.
+502.44 Necessary and proper parties in certain complaint proceedings.
 
                           Subpart D--Rulemaking
 
-502.51  Initiation of procedure to issue, amend, or repeal a rule.
-502.52  Notice of proposed rulemaking.
-502.53  Participation in rulemaking.
-502.54  Contents of rules.
-502.55  Effective date of rules.
-502.56  Negotiated rulemaking.
+502.51 Initiation of procedure to issue, amend, or repeal a rule.
+502.52 Notice of proposed rulemaking.
+502.53 Participation in rulemaking.
+502.54 Contents of rules.
+502.55 Effective date of rules.
+502.56 Negotiated rulemaking.
 
            Subpart E--Proceedings; Pleadings; Motions; Replies
 
-502.61  Proceedings.
-502.62  Complaints and fee.
-502.63  Statute of limitations for reparations.
-502.64  Answer to complaint; counter-complaint.
-502.65  Replies to answers not permitted.
-502.66  Order to show cause.
-502.67  Exemption procedures--General.
-502.68  Declaratory orders and fee.
-502.69  Petitions--General and fee.
-502.70  Amendments or supplements to pleadings.
-502.71  Motions for more definite statement.
-502.72  Petition for leave to intervene.
-502.73  Motions.
-502.74  Replies to pleadings, motions, applications, etc.
-502.75  Proceedings involving assessment agreements.
-502.76  Brief of an amicus curiae.
+502.61 Proceedings.
+502.62 Complaints and fee.
+502.63 Statute of limitations for reparations.
+502.64 Answer to complaint; counter-complaint.
+502.65 Replies to answers not permitted.
+502.66 Order to show cause.
+502.67 Exemption procedures--General.
+502.68 Declaratory orders and fee.
+502.69 Petitions--General and fee.
+502.70 Amendments or supplements to pleadings.
+502.71 Motions for more definite statement.
+502.72 Petition for leave to intervene.
+502.73 Motions.
+502.74 Replies to pleadings, motions, applications, etc.
+502.75 Proceedings involving assessment agreements.
+502.76 Brief of an amicus curiae.
 Exhibit No. 1 to Subpart E [Sec. 502.62]--Complaint Form and Information 
           Checklist
 Exhibit No. 2 to Subpart E [Sec. 502.64]--Answer to Complaint
@@ -1480,171 +1477,172 @@ Exhibit No. 3 to Subpart E [Sec. 502.72]--Petition for Leave to
 
                Subpart F--Settlement; Prehearing Procedure
 
-502.91  Opportunity for informal settlement.
-502.92  [Reserved]
-502.94  Prehearing conference.
-502.95  Prehearing statements.
+502.91 Opportunity for informal settlement.
+502.92 [Reserved]
+502.94 Prehearing conference.
+502.95 Prehearing statements.
 Exhibit No. 1 to Subpart F [Sec. 502.92] [Reserved]
 
                              Subpart G--Time
 
-502.101  Computation.
-502.102  Enlargement of time to file documents.
-502.103  Reduction of time to file documents.
-502.104  Postponement of hearing.
-502.105  Waiver of rules governing enlargements of time and 
-          postponements of hearings.
+502.101 Computation.
+502.102 Enlargement of time to file documents.
+502.103 Reduction of time to file documents.
+502.104 Postponement of hearing.
+502.105 Waiver of rules governing enlargements of time and postponements 
+          of hearings.
 
           Subpart H--Form, Execution, and Service of Documents
 
-502.111  Form and appearance of documents filed with Commission.
-502.112  Verification of documents.
-502.113  Service by the Commission.
-502.114  Service by parties of pleadings and other documents.
-502.115  Service on attorney or other representative.
-502.116  Date of service.
-502.117  Certificate of service.
-502.118  Copies of documents for use of the Commission.
-502.119  Documents containing confidential materials.
+502.111 Form and appearance of documents filed with Commission.
+502.112 Verification of documents.
+502.113 Service by the Commission.
+502.114 Service by parties of pleadings and other documents.
+502.115 Service on attorney or other representative.
+502.116 Date of service.
+502.117 Certificate of service.
+502.118 Copies of documents for use of the Commission.
+502.119 Documents containing confidential materials.
 
                            Subpart I--Subpenas
 
-502.131  Requests; issuance.
-502.132  Motions to quash or modify.
-502.133  Attendance and mileage fees.
-502.134  Service of subpenas.
-502.135  Subpena of Commission staff personnel, documents or things.
-502.136  Enforcement.
+502.131 Requests; issuance.
+502.132 Motions to quash or modify.
+502.133 Attendance and mileage fees.
+502.134 Service of subpenas.
+502.135 Subpena of Commission staff personnel, documents or things.
+502.136 Enforcement.
 
             Subpart J--Hearings; Presiding Officers; Evidence
 
-502.141  Hearings not required by statute.
-502.142  Hearings required by statute.
-502.143  Notice of nature of hearing, jurisdiction and issues.
-502.144  Notice of time and place of hearing; postponement of hearing.
+502.141 Hearings not required by statute.
+502.142 Hearings required by statute.
+502.143 Notice of nature of hearing, jurisdiction and issues.
+502.144 Notice of time and place of hearing; postponement of hearing.
+502.145 Presiding officer.
+502.146 Commencement of functions of Office of Administrative Law 
+          Judges.
+502.147 Functions and powers.
+502.148 Consolidation of proceedings.
 
 [[Page 21]]
 
-502.145  Presiding officer.
-502.146  Commencement of functions of Office of Administrative Law 
-          Judges.
-502.147  Functions and powers.
-502.148  Consolidation of proceedings.
-502.149  Disqualification of presiding or participating officer.
-502.150  Further evidence required by presiding officer during hearing.
-502.151  Exceptions to rulings of presiding officer unnecessary.
-502.152  Offer of proof.
-502.153  Appeal from ruling of presiding officer other than orders of 
+502.149 Disqualification of presiding or participating officer.
+502.150 Further evidence required by presiding officer during hearing.
+502.151 Exceptions to rulings of presiding officer unnecessary.
+502.152 Offer of proof.
+502.153 Appeal from ruling of presiding officer other than orders of 
           dismissal in whole or in part.
-502.154  Rights of parties as to presentation of evidence.
-502.155  Burden of proof.
-502.156  Evidence admissible.
-502.157  Written evidence.
-502.158  Documents containing matter not material.
-502.159  [Reserved]
-502.160  Records in other proceedings.
-502.161  Commission's files.
-502.162  Stipulations.
-502.163  Receipt of documents after hearing.
-502.164  Oral argument at hearings.
-502.165  Official transcript.
-502.166  Corrections of transcript.
-502.167  Objection to public disclosure of information.
-502.168  Copies of data or evidence.
-502.169  Record of decision.
+502.154 Rights of parties as to presentation of evidence.
+502.155 Burden of proof.
+502.156 Evidence admissible.
+502.157 Written evidence.
+502.158 Documents containing matter not material.
+502.159 [Reserved]
+502.160 Records in other proceedings.
+502.161 Commission's files.
+502.162 Stipulations.
+502.163 Receipt of documents after hearing.
+502.164 Oral argument at hearings.
+502.165 Official transcript.
+502.166 Corrections of transcript.
+502.167 Objection to public disclosure of information.
+502.168 Copies of data or evidence.
+502.169 Record of decision.
 
                      Subpart K--Shortened Procedure
 
-502.181  Selection of cases for shortened procedure; consent required.
-502.182  Complaint and memorandum of facts and arguments and filing fee.
-502.183  Respondent's answering memorandum.
-502.184  Complainant's memorandum in reply.
-502.185  Service of memoranda upon and by interveners.
-502.186  Contents of memoranda.
-502.187  Procedure after filing of memoranda.
+502.181 Selection of cases for shortened procedure; consent required.
+502.182 Complaint and memorandum of facts and arguments and filing fee.
+502.183 Respondent's answering memorandum.
+502.184 Complainant's memorandum in reply.
+502.185 Service of memoranda upon and by interveners.
+502.186 Contents of memoranda.
+502.187 Procedure after filing of memoranda.
 
      Subpart L--Depositions, Written Interrogatories, and Discovery
 
-502.201  General provisions governing discovery.
-502.202  Persons before whom depositions may be taken.
-502.203  Depositions upon oral examination.
-502.204  Depositions upon written interrogatories.
-502.205  Interrogatories to parties.
-502.206  Production of documents and things and entry upon land for 
+502.201 General provisions governing discovery.
+502.202 Persons before whom depositions may be taken.
+502.203 Depositions upon oral examination.
+502.204 Depositions upon written interrogatories.
+502.205 Interrogatories to parties.
+502.206 Production of documents and things and entry upon land for 
           inspection and other purposes.
-502.207  Requests for admission.
-502.208  Use of discovery procedures directed to Commission staff 
+502.207 Requests for admission.
+502.208 Use of discovery procedures directed to Commission staff 
           personnel.
-502.209  Use of depositions at hearings.
-502.210  Refusal to comply with orders to answer or produce documents; 
+502.209 Use of depositions at hearings.
+502.210 Refusal to comply with orders to answer or produce documents; 
           sanctions; enforcement.
 
      Subpart M--Briefs; Requests for Findings; Decisions; Exceptions
 
-502.221  Briefs; requests for findings.
-502.222  Requests for enlargement of time for filing briefs.
-502.223  Decisions--Administrative law judges.
-502.224  Separation of functions.
-502.225  Decisions--Commission.
-502.226  Decision based on official notice; public documents.
-502.227  Exceptions to decisions or orders of dismissal of 
-          administrative law judges; replies thereto; and review of 
-          decisions or orders of dismissal by Commission.
-502.228  Request for enlargement of time for filing exceptions and 
+502.221 Briefs; requests for findings.
+502.222 Requests for enlargement of time for filing briefs.
+502.223 Decisions--Administrative law judges.
+502.224 Separation of functions.
+502.225 Decisions--Commission.
+502.226 Decision based on official notice; public documents.
+502.227 Exceptions to decisions or orders of dismissal of administrative 
+          law judges; replies thereto; and review of decisions or orders 
+          of dismissal by Commission.
+502.228 Request for enlargement of time for filing exceptions and 
           replies thereto.
-502.229  Certification of record by presiding or other officer.
-502.230  Reopening by presiding officer or Commission.
+502.229 Certification of record by presiding or other officer.
+502.230 Reopening by presiding officer or Commission.
 
          Subpart N--Oral Argument; Submission for Final Decision
 
-502.241  Oral argument.
-502.242  Submission to Commission for final decision.
-502.243  Participation of absent Commissioner.
+502.241 Oral argument.
+502.242 Submission to Commission for final decision.
+502.243 Participation of absent Commissioner.
 
                           Subpart O--Reparation
 
-502.251  Proof on award of reparation.
-502.252  Reparation statements.
-502.253  Interest in reparation proceedings.
-502.254  Attorney's fees in reparation proceedings.
+502.251 Proof on award of reparation.
+502.252 Reparation statements.
+502.253 Interest in reparation proceedings.
+502.254 Attorney's fees in reparation proceedings.
 Exhibit No. 1 to Subpart O [Sec. 502.252]--Reparation Statement to be 
           Filed Pursuant to Rule 252
 
                 Subpart P--Reconsideration of Proceedings
 
-502.261  Petitions for reconsideration and stay.
-502.262  Reply to petition for reconsideration or stay.
+502.261 Petitions for reconsideration and stay.
+502.262 Reply to petition for reconsideration or stay.
 
              Subpart Q--Refund or Waiver of Freight Charges
 
-502.271  Special docket application for permission to refund or waive 
+502.271 Special docket application for permission to refund or waive 
           freight charges.
 Exhibit No. 1 to Subpart Q [Sec. 502.271(d)--Application for Refund or 
           Waiver of Freight Charges Due to Tariff on Quoting Error
 
-[[Page 22]]
-
                 Subpart R--Nonadjudicatory Investigations
 
-502.281  Investigational policy.
-502.282  Initiation of investigations.
-502.283  Order of investigation.
-502.284  By whom conducted.
-502.285  Investigational hearings.
-502.286  Compulsory process.
-502.287  Depositions.
-502.288  Reports.
-502.289  Noncompliance with investigational process.
-502.290  Rights of witness.
-502.291  Nonpublic proceedings.
+502.281 Investigational policy.
+502.282 Initiation of investigations.
+502.283 Order of investigation.
+502.284 By whom conducted.
+
+[[Page 22]]
+
+502.285 Investigational hearings.
+502.286 Compulsory process.
+502.287 Depositions.
+502.288 Reports.
+502.289 Noncompliance with investigational process.
+502.290 Rights of witness.
+502.291 Nonpublic proceedings.
 
      Subpart S--Informal Procedure for Adjudication of Small Claims
 
-502.301  Statement of policy.
-502.302  Limitations of actions.
-502.303  [Reserved]
-502.304  Procedure and filing fee.
-502.305  Applicability of other rules of this part.
+502.301 Statement of policy.
+502.302 Limitations of actions.
+502.303 [Reserved]
+502.304 Procedure and filing fee.
+502.305 Applicability of other rules of this part.
 Exhibit No. 1 to Subpart S [Sec. 502.304(a)]--Small Claim Form for 
           Informal Adjudication and Information Checklist
 Exhibit No. 2 to Subpart S [Sec. 502.304(e)]--Respondent's Consent Form 
@@ -1652,56 +1650,56 @@ Exhibit No. 2 to Subpart S [Sec. 502.304(e)]--Respondent's Consent Form
 
       Subpart T--Formal Procedure for Adjudication of Small Claims
 
-502.311  Applicability.
-502.312  Answer to complaint.
-502.313  Reply of complainant.
-502.314  Additional information.
-502.315  Request for oral hearing.
-502.316  Intervention.
-502.317  Oral argument.
-502.318  Decision.
-502.319  Date of service and computation of time.
-502.320  Service.
-502.321  Applicability of other rules of this part.
+502.311 Applicability.
+502.312 Answer to complaint.
+502.313 Reply of complainant.
+502.314 Additional information.
+502.315 Request for oral hearing.
+502.316 Intervention.
+502.317 Oral argument.
+502.318 Decision.
+502.319 Date of service and computation of time.
+502.320 Service.
+502.321 Applicability of other rules of this part.
 
                 Subpart U--Alternative Dispute Resolution
 
-502.401  Policy.
-502.402  Definitions.
-502.403  General authority.
-502.404  Neutrals.
-502.405  Confidentiality.
-502.406  Arbitration.
-502.407  Authority of the arbitrator.
-502.408  Conduct of arbitration proceedings.
-502.409  Arbitration awards.
-502.410  Representation of parties.
-502.411  Mediation and other alternative means of dispute resolution.
+502.401 Policy.
+502.402 Definitions.
+502.403 General authority.
+502.404 Neutrals.
+502.405 Confidentiality.
+502.406 Arbitration.
+502.407 Authority of the arbitrator.
+502.408 Conduct of arbitration proceedings.
+502.409 Arbitration awards.
+502.410 Representation of parties.
+502.411 Mediation and other alternative means of dispute resolution.
 
     Subpart V--Implementation of the Equal Access to Justice Act in 
                          Commission Proceedings
 
-502.501  General provisions.
-502.502  Information required from applicants.
-502.503  Procedures for considering petitions.
+502.501 General provisions.
+502.502 Information required from applicants.
+502.503 Procedures for considering petitions.
 
      Subpart W--Compromise, Assessment, Mitigation, Settlement, and 
                       Collection of Civil Penalties
 
-502.601  Purpose and scope.
-502.602  Definitions.
-502.603  Assessment of civil penalties: Procedure; criteria for 
+502.601 Purpose and scope.
+502.602 Definitions.
+502.603 Assessment of civil penalties: Procedure; criteria for 
           determining amount; limitations; relation to compromise.
-502.604  Compromise of penalties: Relation to assessment proceedings.
-502.605  Payment of penalty: Method; default.
+502.604 Compromise of penalties: Relation to assessment proceedings.
+502.605 Payment of penalty: Method; default.
 
 Appendix A to Subpart W--Example of Compromise Agreement To Be Used 
           Under 46 CFR 502.604
 
                    Subpart X--Paperwork Reduction Act
 
-502.991  OMB control numbers assigned pursuant to the Paperwork 
-          Reduction Act.
+502.991 OMB control numbers assigned pursuant to the Paperwork Reduction 
+          Act.
 
     Authority: 5 U.S.C. 504, 551, 552, 553, 556(c), 559, 561-569, 571-
 596; 5 U.S.C. 571-584; 12 U.S.C. 1141j(a); 18 U.S.C. 207; 26 U.S.C. 
@@ -2314,10 +2312,10 @@ Commission. [Rule 32.]
     I request to be informed of service of the administrative law 
 judge's initial or recommended decision and of the Commission's decision 
 in this proceeding by:
-[  ] telephone (In the event that I am not available when you call, 
+[ ] telephone (In the event that I am not available when you call, 
 appropriate advice left with my office will suffice.)
-[  ] facsimile transmission
-[  ] electronic mail
+[ ] facsimile transmission
+[ ] electronic mail
 
 ________________________________________________________________________
 [Name]
@@ -3251,7 +3249,7 @@ FR 28400, July 11, 1990; 64 FR 7808, Feb. 17, 1999]
                                  Answer
 
 ------------ v. ------------
-[Complainant]        [Respondent]
+[Complainant] [Respondent]
 Docket No. --------
 
     The above-named respondent, for answer to the complaint in this 
@@ -5669,7 +5667,7 @@ Date of  or tender   charges   Vessel   Voyage    of    Destination   Route  Com
  
  
 --------------------------------------------------------------------------------------------------------------------------------------------------------
-*Here insert name of person paying charges in the first instance, and state whether as consignor, consignee, or in what other capacity.
+ *Here insert name of person paying charges in the first instance, and state whether as consignor, consignee, or in what other capacity.
 
 
 Total amount of reparation $----------------------------------------.
@@ -7547,92 +7545,91 @@ PART 503--PUBLIC INFORMATION--Table of Contents
                            Subpart A--General
 
 Sec.
-503.1  Statement of policy.
+503.1 Statement of policy.
 
              Subpart B--Publication in the Federal Register
 
-503.11  Materials to be published.
-503.12  Effect of nonpublication.
-503.13  Incorporation by reference.
+503.11 Materials to be published.
+503.12 Effect of nonpublication.
+503.13 Incorporation by reference.
 
 Subpart C--Records, Information and Materials Generally Available to the 
      Public Without Resort to Freedom of Information Act Procedures
 
-503.21  Mandatory public records.
-503.22  Records available at the Office of the Secretary.
-503.23  Records available upon written request.
-503.24  Information available via the internet.
+503.21 Mandatory public records.
+503.22 Records available at the Office of the Secretary.
+503.23 Records available upon written request.
+503.24 Information available via the internet.
 
   Subpart D--Requests for records under the Freedom of Information Act
 
-503.31  Records available upon written request under the Freedom of 
+503.31 Records available upon written request under the Freedom of 
           Information Act.
-503.32  Procedures for responding to requests made under the Freedom of 
+503.32 Procedures for responding to requests made under the Freedom of 
           Information Act.
-503.33  Exceptions to availability of records.
-503.34  Annual report of public information request activity.
+503.33 Exceptions to availability of records.
+503.34 Annual report of public information request activity.
 
                              Subpart E--Fees
 
-503.41  Policy and services available.
-503.42  Payment of fees and charges.
-503.43  Fees for services.
+503.41 Policy and services available.
+503.42 Payment of fees and charges.
+503.43 Fees for services.
 
                  Subpart F--Information Security Program
 
-503.51  Definitions.
-503.52  Senior agency official.
-503.53  Oversight Committee.
-503.54  Original classification.
-503.55  Derivative classification.
-503.56  General declassification and downgrading policy.
-503.57  Mandatory review for declassification.
-503.58  Appeals of denials of mandatory declassification review 
-          requests.
-503.59  Safeguarding classified information.
+503.51 Definitions.
+503.52 Senior agency official.
+503.53 Oversight Committee.
+503.54 Original classification.
+503.55 Derivative classification.
+503.56 General declassification and downgrading policy.
+503.57 Mandatory review for declassification.
+503.58 Appeals of denials of mandatory declassification review requests.
+503.59 Safeguarding classified information.
 
   Subpart G--Access to Any Record of Identifiable Personal Information
 
-503.60  Definitions.
-503.61  Conditions of disclosure.
-503.62  Accounting of disclosures.
-503.63  Request for information.
-503.64  Commission procedure on request for information.
-503.65  Request for access to records.
-503.66  Amendment of a record.
-503.67  Appeals from denial of request for amendment of a record.
-503.68  Exemptions.
-503.69  Fees.
+503.60 Definitions.
+503.61 Conditions of disclosure.
+503.62 Accounting of disclosures.
+503.63 Request for information.
+503.64 Commission procedure on request for information.
+503.65 Request for access to records.
+503.66 Amendment of a record.
+503.67 Appeals from denial of request for amendment of a record.
+503.68 Exemptions.
+503.69 Fees.
 
  Subpart H--Public Observation of Federal Maritime Commission Meetings 
    and Public Access to Information Pertaining to Commission Meetings
 
-503.70  Policy.
-503.71  Definitions.
-503.72  General rule--meetings.
-503.73  Exceptions--meetings.
-503.74  Procedures for closing a portion or portions of a meeting or a 
+503.70 Policy.
+503.71 Definitions.
+503.72 General rule--meetings.
+503.73 Exceptions--meetings.
+503.74 Procedures for closing a portion or portions of a meeting or a 
           portion or portions of a series of meetings on agency 
           initiated requests.
-503.75  Procedures for closing a portion of a meeting on request 
+503.75 Procedures for closing a portion of a meeting on request 
           initiated by an interested person.
-503.76  Effect of vote to close a portion or portions of a meeting or 
+503.76 Effect of vote to close a portion or portions of a meeting or 
           series of meetings.
-503.77  Responsibilities of the General Counsel of the agency upon a 
+503.77 Responsibilities of the General Counsel of the agency upon a 
           request to close any portion of any meeting.
-503.78  General rule--information pertaining to meeting.
-503.79  Exceptions--information pertaining to meeting.
+503.78 General rule--information pertaining to meeting.
+503.79 Exceptions--information pertaining to meeting.
 
 [[Page 92]]
 
-503.80  Procedures for withholding information pertaining to meeting.
-503.81  Effect of vote to withhold information pertaining to meeting.
-503.82  Public announcement of agency meeting.
-503.83  Public announcement of changes in meeting.
-503.84  [Reserved]
-503.85  Agency recordkeeping requirements.
-503.86  Public access to records.
-503.87  Effect of provisions of this subpart on other subparts.
+503.80 Procedures for withholding information pertaining to meeting.
+503.81 Effect of vote to withhold information pertaining to meeting.
+503.82 Public announcement of agency meeting.
+503.83 Public announcement of changes in meeting.
+503.84 [Reserved]
+503.85 Agency recordkeeping requirements.
+503.86 Public access to records.
+503.87 Effect of provisions of this subpart on other subparts.
 
     Authority: 5 U.S.C. 552, 552a, 552b, 553; 31 U.S.C. 9701; E.O. 12958 
 of April 20, 1995 (60 FR 19825), sections 5.2(a) and (b).
@@ -9144,32 +9141,32 @@ the individual named in the records an accounting of disclosures and
 access to and opportunity to amend the records. The scope of the 
 exemptions and the reasons therefor are described for each particular 
 system of records.
-    (1) FMC-1  Personnel Security File. All information about 
-individuals that meets the criteria of 5 U.S.C. 552a(k)(5), regarding 
-suitability, eligibility or qualifications for Federal civilian 
-employment or for access to classified information, to the extent that 
-disclosure would reveal the identity of a source who furnished 
-information to the Commission under a promise of confidentiality. 
-Exemption is required to honor promises of confidentiality.
-    (2) FMC-7  Licensed Ocean Freight Forwarders File. All information 
+    (1) FMC-1 Personnel Security File. All information about individuals 
+that meets the criteria of 5 U.S.C. 552a(k)(5), regarding suitability, 
+eligibility or qualifications for Federal civilian employment or for 
+access to classified information, to the extent that disclosure would 
+reveal the identity of a source who furnished information to the 
+Commission under a promise of confidentiality. Exemption is required to 
+honor promises of confidentiality.
+    (2) FMC-7 Licensed Ocean Freight Forwarders File. All information 
 that meets the criteria of 5 U.S.C. 552a(k)(2) regarding investigatory 
 materials compiled for law enforcement purposes. Exemption is 
 appropriate to avoid compromise of ongoing investigations, disclosure of 
 the identity of confidential sources and unwarranted invasions of 
 personal privacy of third parties.
-    (3) FMC-22  Investigatory Files. All information that meets the 
+    (3) FMC-22 Investigatory Files. All information that meets the 
 criteria of 5 U.S.C. 552a(k)(2) regarding investigatory material 
 compiled for law enforcement purposes. Exemption is appropriate to avoid 
 compromise of ongoing investigations, disclosure of the identity of 
 confidential sources and unwarranted invasions of personal privacy of 
 third parties.
-    (4) FMC-24  Informal Inquiries and Complaint Files. All information 
+    (4) FMC-24 Informal Inquiries and Complaint Files. All information 
 that meets the criteria of 5 U.S.C. 552a(k)(2) regarding investigatory 
 material compiled for law enforcement purposes. Exemption is appropriate 
 to avoid compromise of ongoing investigations, disclosure of the 
 identity of confidential sources and unwarranted invasion of personal 
 privacy of third parties.
-    (5) FMC-25  Inspector General File. (i) All information that meets 
+    (5) FMC-25 Inspector General File. (i) All information that meets 
 the criteria of 5 U.S.C. 552a(k)(2) regarding investigatory material 
 compiled for law enforcement purposes. Exemption is appropriate to avoid 
 compromise of ongoing investigations, disclosure of the identity of 
@@ -9182,7 +9179,7 @@ to the extent the disclosure would reveal the identity of a source who
 furnished information to the Commission under the promises of 
 confidentiality. Exemption is required to honor promises of 
 confidentiality.
-    (6) FMC-26  Administrative Grievance File. (i) All information that 
+    (6) FMC-26 Administrative Grievance File. (i) All information that 
 meets the criteria of 5 U.S.C. 552a(k)(2) regarding investigatory 
 material compiled for law enforcement purposes, Exemption is appropriate 
 to avoid compromise of ongoing investigations, disclosure of the 
@@ -9218,8 +9215,8 @@ delivery mail, postage therefor will be added to the basic fee. Also, if
 special handling or packaging is required, costs thereof will be added 
 to the basic fee.
     (1) The copying of records and documents will be available at the 
-rate of five cents per page (one side), limited to size 8\1/4\'' x 14'' 
-or smaller.
+rate of five cents per page (one side), limited to size 8\1/
+4\<gr-thn-eq>x14<gr-thn-eq> or smaller.
     (2) The certification and validation (with Federal Maritime 
 Commission seal) of documents filed with or issued by the Commission 
 will be available at $86 for each certification.
@@ -9835,7 +9832,7 @@ Sec. 503.85  Agency recordkeeping requirements.
 or portions of a series of meetings determined by the agency to be 
 closed to public observation under the provisions of this subpart, the 
 following records shall be maintained by the Secretary of the agency:
-    (1) The certification of the General Counsel f the agency required 
+    (1) The certification of the General Counsel of the agency required 
 by Sec. 503.77;
     (2) A statement from the officer presiding over the portion or 
 portions of the meeting or portion or portions of a series of meetings 
@@ -9976,17 +9973,17 @@ PART 504--PROCEDURES FOR ENVIRONMENTAL POLICY ANALYSIS--Table of Contents
 
 
 Sec.
-504.1  Purpose and scope.
-504.2  Definitions.
-504.3  General information.
-504.4  Categorical exclusions.
-504.5  Environmental assessments.
-504.6  Finding of no significant impact.
-504.7  Environmental impact statements.
-504.8  Record of decision.
-504.9  Information required by the Commission.
-504.10  Time constraints on final administrative actions.
-504.91  OMB control numbers assigned pursuant to the Paperwork Reduction 
+504.1 Purpose and scope.
+504.2 Definitions.
+504.3 General information.
+504.4 Categorical exclusions.
+504.5 Environmental assessments.
+504.6 Finding of no significant impact.
+504.7 Environmental impact statements.
+504.8 Record of decision.
+504.9 Information required by the Commission.
+504.10 Time constraints on final administrative actions.
+504.91 OMB control numbers assigned pursuant to the Paperwork Reduction 
           Act.
 
     Authority: 5 U.S.C. 552, 553; 46 U.S.C. app. 1712 and 1716; 42 
@@ -10399,14 +10396,14 @@ PART 505--ADMINISTRATIVE OFFSET--Table of Contents
 
 
 Sec.
-505.1  Scope of regulations.
-505.2  Definitions.
-505.3  General.
-505.4  Notification procedures.
-505.5  Agency review.
-505.6  Written agreement for repayment.
-505.7  Administrative offset.
-505.8  Jeopardy procedure.
+505.1 Scope of regulations.
+505.2 Definitions.
+505.3 General.
+505.4 Notification procedures.
+505.5 Agency review.
+505.6 Written agreement for repayment.
+505.7 Administrative offset.
+505.8 Jeopardy procedure.
 
     Authority: 31 U.S.C. 3701; 31 U.S.C. 3711; 31 U.S.C. 3716.
 
@@ -10605,11 +10602,11 @@ PART 506--CIVIL MONETARY PENALTY INFLATION ADJUSTMENT--Table of Contents
 
 
 Sec.
-506.1  Scope and purpose.
-506.2  Definitions.
-506.3  Civil monetary penalty inflation adjustment.
-506.4  Cost of living adjustments of civil monetary penalties.
-506.5  Application of increase to violations.
+506.1 Scope and purpose.
+506.2 Definitions.
+506.3 Civil monetary penalty inflation adjustment.
+506.4 Cost of living adjustments of civil monetary penalties.
+506.5 Application of increase to violations.
 
     Authority: 28 U.S.C. 2461.
 
@@ -10761,25 +10758,25 @@ PART 507--ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS 
 
 
 Sec.
-507.101  Purpose.
-507.102  Application.
-507.103  Definitions.
-507.104-507.109  [Reserved]
-507.110  Self-evaluation.
-507.111  Notice.
-507.112-507.129  [Reserved]
-507.130  General prohibitions against discrimination.
-507.131-507.139  [Reserved]
-507.140  Employment.
-507.141-507.148  [Reserved]
-507.149  Program accessibility: Discrimination prohibited.
-507.150  Program accessibility: Existing facilities.
-507.151  Program accessibility: New construction and alterations.
-507.152-507.159  [Reserved]
-507.160  Communications.
-507.161-507.169  [Reserved]
-507.170  Compliance procedures.
-507.171-507.999  [Reserved]
+507.101 Purpose.
+507.102 Application.
+507.103 Definitions.
+507.104-507.109 [Reserved]
+507.110 Self-evaluation.
+507.111 Notice.
+507.112-507.129 [Reserved]
+507.130 General prohibitions against discrimination.
+507.131-507.139 [Reserved]
+507.140 Employment.
+507.141-507.148 [Reserved]
+507.149 Program accessibility: Discrimination prohibited.
+507.150 Program accessibility: Existing facilities.
+507.151 Program accessibility: New construction and alterations.
+507.152-507.159 [Reserved]
+507.160 Communications.
+507.161-507.169 [Reserved]
+507.170 Compliance procedures.
+507.171-507.999 [Reserved]
 
     Authority: 29 U.S.C. 794.
 
@@ -11282,7 +11279,7 @@ PART 508--EMPLOYEE ETHICAL CONDUCT STANDARDS AND FINANCIAL DISCLOSURE REGULATION
 
 
 Sec.
-508.101  Cross-referrence to employee ethical conduct standards and 
+508.101 Cross-referrence to employee ethical conduct standards and 
           financial disclosure regulations.
 
     Authority: 5 U.S.C. 553; 5 U.S.C. 7301; 46 U.S.C. app. 1716.
@@ -11304,8 +11301,6 @@ CFR part 2634.
 <R03>
  SUBCHAPTER B--REGULATIONS AFFECTING OCEAN SHIPPING IN FOREIGN COMMERCE
 
-<R05>
-
 
 <R03>
 PART 515--LICENSING, FINANCIAL RESPONSIBILITY REQUIREMENTS, AND GENERAL DUTIES FOR OCEAN TRANSPORTATION INTERMEDIARIES--Table of Contents
@@ -11318,37 +11313,37 @@ PART 515--LICENSING, FINANCIAL RESPONSIBILITY REQUIREMENTS, AND GENERAL DUTIES F
                            Subpart A--General
 
 Sec.
-515.1  Scope.
-515.2  Definitions.
-515.3  License; when required.
-515.4  License; when not required.
-515.5  Forms and fees.
+515.1 Scope.
+515.2 Definitions.
+515.3 License; when required.
+515.4 License; when not required.
+515.5 Forms and fees.
 
 
 <R04>
            Subpart B--Eligibility and Procedure for Licensing
 
-515.11  Basic requirements for licensing; eligibility.
-515.12  Application for license.
-515.13  Investigation of applicants.
-515.14  Issuance and use of license.
-515.15  Denial of license.
-515.16  Revocation or suspension of license.
-515.17  Application after revocation or denial.
-515.18  Changes in organization.
+515.11 Basic requirements for licensing; eligibility.
+515.12 Application for license.
+515.13 Investigation of applicants.
+515.14 Issuance and use of license.
+515.15 Denial of license.
+515.16 Revocation or suspension of license.
+515.17 Application after revocation or denial.
+515.18 Changes in organization.
 
 
 <R04>
  Subpart C--Financial Responsibility Requirements; Claims Against Ocean 
                       Transportation Intermediaries
 
-515.21  Financial responsibility requirements.
-515.22  Proof of financial responsibility.
-515.23  Claims against an ocean transportation intermediary.
-515.24  Agent for service of process.
-515.25  Filing of proof of financial responsibility.
-515.26  Termination of financial responsibility.
-515.27  Proof of compliance.
+515.21 Financial responsibility requirements.
+515.22 Proof of financial responsibility.
+515.23 Claims against an ocean transportation intermediary.
+515.24 Agent for service of process.
+515.25 Filing of proof of financial responsibility.
+515.26 Termination of financial responsibility.
+515.27 Proof of compliance.
 
 Appendix A to Subpart C--Ocean Transportation Intermediary (OTI) Bond 
           Form [Form-48]
@@ -11364,18 +11359,18 @@ Appendix D to Subpart C--Ocean Transportation Intermediary (OTI) Group
      Subpart D--Duties and Responsibilities of Ocean Transportation 
                   Intermediaries; Reports to Commission
 
-515.31  General duties.
-515.32  Freight forwarder duties.
-515.33  Records required to be kept.
-515.34  Regulated Persons Index.
+515.31 General duties.
+515.32 Freight forwarder duties.
+515.33 Records required to be kept.
+515.34 Regulated Persons Index.
 
 
 <R04>
            Subpart E--Freight Forwarding Fees and Compensation
 
-515.41  Forwarder and principal; fees.
-515.42  Forwarder and carrier; compensation.
-515.91  OMB control number assigned pursuant to the Paperwork Reduction 
+515.41 Forwarder and principal; fees.
+515.42 Forwarder and carrier; compensation.
+515.91 OMB control number assigned pursuant to the Paperwork Reduction 
           Act.
 
     Authority: 5 U.S.C. 553; 31 U.S.C. 9701; 46 U.S.C. app. 1702, 1707, 
@@ -12637,7 +12632,7 @@ related activities of the covered OTI as specified under the 1984 Act.
     2. Now, Therefore, The condition of this obligation is that the 
 penalty amount of this Guaranty shall be available to pay any judgment 
 obtained or any settlement made pursuant to a claim under 46 CFR 
-Sec. 515.23(b) for damages against the Applicant arising fromthe 
+Sec. 515.23(b) for damages against the Applicant arising from the 
 Applicant's transportation-related activities or order for reparations 
 issued pursuant to section 11 of the 1984 Act, 46 U.S.C. app. 1710, or 
 any penalty assessed against the
@@ -12727,12 +12722,7 @@ ________________________________________________________________________
 
 By
 ________________________________________________________________________
-    (Signature and Title)
-
-
-[[Page 154]]
-
-
+ (Signature and Title)
 
  Appendix D to Subpart C of Part 515--Ocean Transportation Intermediary 
                      (OTI) Group Bond Form [FMC-69]
@@ -12745,6 +12735,9 @@ ________________________________________________________________________
 Bond Form (Section 19, Shipping Act of 1984, as amended by the Ocean 
 Shipping Reform Act of 1998 and the Coast Guard Authorization Act of 
 1998)
+
+[[Page 154]]
+
     --------------------[indicate whether NVOCC or Freight Forwarder], 
 as Principal (hereinafter ``Principal''), and --------------------------
 -------------- as Surety (hereinafter ``Surety'') are held and firmly 
@@ -12821,20 +12814,20 @@ effective.
 notify the underwriting Surety and the Director, Bureau of Consumer 
 Complaints and Licensing, Federal Maritime Commission, Washington, DC 
 20573, of any additions, deletions or changes to the OTIs enumerated in 
-Appendix A. In
+Appendix A. In the event of additions to Appendix A, coverage will be 
+effective upon receipt of such notice, in writing, by the Commission at 
+its office in Washington, DC. In the event of deletions to Appendix A, 
+termination of coverage for such OTI(s) shall become effective 30 days 
+after receipt of written notice by the Commission. Neither the Principal 
+nor the Surety shall be liable for any transportation-related activities 
+of the OTI(s) deleted from Appendix A after the expiration of the 30-day 
+period, but such termination shall not affect the liability of the 
+Principal and Surety for any transportation-related activities of said 
+OTI(s) occurring prior to the date when said termination becomes 
+effective.
 
 [[Page 155]]
 
-the event of additions to Appendix A, coverage will be effective upon 
-receipt of such notice, in writing, by the Commission at its office in 
-Washington, DC. In the event of deletions to Appendix A, termination of 
-coverage for such OTI(s) shall become effective 30 days after receipt of 
-written notice by the Commission. Neither the Principal nor the Surety 
-shall be liable for any transportation-related activities of the OTI(s) 
-deleted from Appendix A after the expiration of the 30-day period, but 
-such termination shall not affect the liability of the Principal and 
-Surety for any transportation-related activities of said OTI(s) 
-occurring prior to the date when said termination becomes effective.
     The underwriting Surety will promptly notify the Director, Bureau of 
 Consumer Complaints and Licensing, Federal Maritime Commission, 
 Washington, DC 20573, of any claim(s) against this bond.
@@ -12935,9 +12928,6 @@ Commission has been obtained, no licensee shall, directly or indirectly:
 shipments as an associate, correspondent, officer, employee, agent, or 
 sub-agent of any person whose license has been revoked or suspended 
 pursuant to Sec. 515.16;
-
-[[Page 156]]
-
     (2) Assist in the furtherance of any ocean transportation 
 intermediary business of such person;
     (3) Share forwarding fees or freight compensation with any such 
@@ -12948,11 +12938,14 @@ transportation intermediary business of the licensee.
     (e) False or fraudulent claims, false information. No licensee shall 
 prepare or file or assist in the preparation or filing of any claim, 
 affidavit, letter of indemnity, or other paper or document concerning an 
-ocean transportation intermediary transaction which it has reason to 
-believe is false or fraudulent, nor shall any such licensee knowingly 
-impart to a principal, shipper, common carrier or other person, false 
-information relative to any ocean transportation intermediary 
-transaction.
+ocean transportation
+
+[[Page 156]]
+
+intermediary transaction which it has reason to believe is false or 
+fraudulent, nor shall any such licensee knowingly impart to a principal, 
+shipper, common carrier or other person, false information relative to 
+any ocean transportation intermediary transaction.
     (f) Errors and omissions of the principal or shipper. A licensee who 
 has reason to believe that its principal or shipper has not, with 
 respect to a shipment to be handled by such licensee, complied with the 
@@ -13011,11 +13004,8 @@ transaction from its principal, and each licensed freight forwarder
 shall comply with the laws of the United States and shall exercise due 
 diligence to assure that all information provided to its principal or 
 provided in any export declaration, bill of lading, affidavit, or other 
-document which the licensed freight forwarder
-
-[[Page 157]]
-
-executes in connection with a shipment is accurate.
+document which the licensed freight forwarder executes in connection 
+with a shipment is accurate.
     (d) Invoices; documents available upon request. Upon the request of 
 its principal(s), each licensed freight forwarder shall provide a 
 complete breakout of its charges and a true copy of any underlying 
@@ -13026,6 +13016,8 @@ to a principal:
     Upon request, we shall provide a detailed breakout of the components 
 of all charges assessed and a true copy of each pertinent document 
 relating to these charges.
+
+[[Page 157]]
 
 
 <R05>
@@ -13097,9 +13089,6 @@ and be readily distinguishable from a bill of lading.
 contracts are entered into by a licensed freight forwarder, the 
 forwarder shall not deny equal terms to other shippers similarly 
 situated.
-
-[[Page 158]]
-
     (d) Reduced forwarding fees. No licensed freight forwarder shall 
 render, or offer to render, any freight forwarding service free of 
 charge or at a reduced fee in consideration of receiving compensation 
@@ -13109,8 +13098,12 @@ relief agencies or charitable organizations, which are designated as
 such in the tariff of the common carrier, free of charge or at reduced 
 fees.
     (e) In-plant arrangements. A licensed freight forwarder may place an 
-employee or employees on the premises of its principal as part of the 
-services rendered to such principal, provided:
+employee or employees on the premises of
+
+[[Page 158]]
+
+its principal as part of the services rendered to such principal, 
+provided:
     (1) The in-plant forwarder arrangement is reduced to writing in the 
 manner of a special contract under Sec. 515.33(d), which shall identify 
 all services provided by either party (whether or not constituting a 
@@ -13172,9 +13165,6 @@ carrier's effective tariff(s). No conference or group of common carriers
 shall deny in the export commerce of the United States compensation to 
 an ocean freight forwarder or limit that compensation, as provided for 
 by section 19(e)(4) of the Act and 46 CFR part 535.
-
-[[Page 159]]
-
     (e) Electronic data interchange. A licensed freight forwarder may 
 own, operate, or otherwise maintain or supervise an electronic data 
 interchange-based computer system in its forwarding business; however, 
@@ -13183,11 +13173,14 @@ paragraph (c) of this section in order to be entitled to carrier
 compensation.
     (f) Compensation; services performed by underlying carrier; 
 exemptions. No licensed freight forwarder shall charge or collect 
-compensation in the event the underlying common carrier, or its agent, 
-has, at the request of such forwarder, performed any of the forwarding 
-services set forth in Sec. 515.2(i), unless such carrier or agent is 
-also a licensed freight forwarder, or unless no other licensed freight 
-forwarder is willing and able to perform such services.
+compensation in the event the underlying common carrier, or its
+
+[[Page 159]]
+
+agent, has, at the request of such forwarder, performed any of the 
+forwarding services set forth in Sec. 515.2(i), unless such carrier or 
+agent is also a licensed freight forwarder, or unless no other licensed 
+freight forwarder is willing and able to perform such services.
     (g) Duplicative compensation. A common carrier shall not pay 
 compensation for the services described in paragraph (c) of this section 
 more than once on the same shipment.
@@ -13231,21 +13224,21 @@ PART 520--CARRIER AUTOMATED TARIFFS--Table of Contents
 
 
 Sec.
-520.1  Scope and purpose.
-520.2  Definitions.
-520.3  Publication responsibilities.
-520.4  Tariff contents.
-520.5  Standard tariff terminology.
-520.6  Retrieval of information.
-520.7  Tariff limitations.
-520.8  Effective dates.
-520.9  Access to tariffs.
-520.10  Integrity of tariffs.
-520.11  Non-vessel-operating common carriers.
-520.12  Time/Volume rates.
-520.13  Exemptions and exceptions.
-520.14  Special permission.
-520.91  OMB control number assigned pursuant to the Paperwork Reduction 
+520.1 Scope and purpose.
+520.2 Definitions.
+520.3 Publication responsibilities.
+520.4 Tariff contents.
+520.5 Standard tariff terminology.
+520.6 Retrieval of information.
+520.7 Tariff limitations.
+520.8 Effective dates.
+520.9 Access to tariffs.
+520.10 Integrity of tariffs.
+520.11 Non-vessel-operating common carriers.
+520.12 Time/Volume rates.
+520.13 Exemptions and exceptions.
+520.14 Special permission.
+520.91 OMB control number assigned pursuant to the Paperwork Reduction 
           Act.
 
 Appendix A to Part 520--Standard Terminology and Codes
@@ -13267,9 +13260,6 @@ transportation with inland carriers. They implement the tariff
 publication requirements of section 8 of the Shipping Act of 1984 
 (``Act''), as modified by the Ocean Shipping Reform Act of 1998 and 
 section 424 of Public Law 105-258.
-
-[[Page 160]]
-
     (b) Purpose. The requirements of this part are intended to permit:
     (1) Shippers and other members of the public to obtain reliable and 
 useful information concerning the rates and charges that will be 
@@ -13280,6 +13270,9 @@ pursuant to section 8 of the Act;
     (3) The Commission to ensure that carrier tariff publications are 
 accurate and accessible and to protect the public from violations by 
 carriers of section 10 of the Act; and
+
+[[Page 160]]
+
     (4) The Commission to review and monitor the activities of 
 controlled carriers pursuant to section 9 of the Act.
 
@@ -13342,9 +13335,6 @@ passengers or cargo for all members, but the term does not include joint
 service, consortium, pooling, sailing, or transshipment agreements.
     Consignee means the recipient of cargo from a shipper; the person to 
 whom a transported commodity is to be delivered.
-
-[[Page 161]]
-
     Container means a demountable and reusable freight-carrying unit 
 designed to be transported by different modes of transportation and 
 having construction, fittings, and fastenings able to withstand, without 
@@ -13355,9 +13345,13 @@ refrigerated, flat rack, vehicle rack, liquid tank, and open-top
 containers without chassis, but does not include crates, boxes or 
 pallets.
     Controlled carrier means an ocean common carrier that is, or whose 
-operating assets are, directly or indirectly owned or controlled by a 
-government; ownership or control by a government shall be deemed to 
-exist with respect to any common carrier if:
+operating assets are, directly or indirectly
+
+[[Page 161]]
+
+owned or controlled by a government; ownership or control by a 
+government shall be deemed to exist with respect to any common carrier 
+if:
     (1) A majority portion of the interest in the common carrier is 
 owned or controlled in any manner by that government, by an agency 
 thereof, or by any public or private person controlled in any manner by 
@@ -13414,20 +13408,21 @@ of a single common carrier (or any one common carrier participating in a
 conference tariff), the application of which is not contingent upon a 
 prior or subsequent movement.
     Location group means a logical collection of geographic points, 
-ports, states/
-
-[[Page 162]]
-
-provinces, countries, or combinations thereof, which is primarily used 
-to identify, by location group name, a group that may represent tariff 
-origin and/or destination scope and TRI origin and/or destination.
+ports, states/provinces, countries, or combinations thereof, which is 
+primarily used to identify, by location group name, a group that may 
+represent tariff origin and/or destination scope and TRI origin and/or 
+destination.
     Loyalty contract means a contract with an ocean common carrier or 
 agreement by which a shipper obtains lower rates by committing all or a 
 fixed portion of its cargo to that carrier or agreement and the contract 
 provides for a deferred rebate arrangement.
     Motor vehicle means a wheeled vehicle whose primary purpose is 
 ordinarily the non-commercial transportation of passengers, including an 
-automobile, pickup truck, minivan, or sport utility vehicle.
+automobile,
+
+[[Page 162]]
+
+pickup truck, minivan, or sport utility vehicle.
     Ocean common carrier means a common carrier that operates, for all 
 or part of its common carrier service, a vessel on the high seas or the 
 Great Lakes between a port in the United States and a port in a foreign 
@@ -13485,12 +13480,9 @@ level of transportation service for a stated cargo quantity, from origin
 to destination, on and after a stated effective date or within a defined 
 time frame.
     Retrieval means the process by which a person accesses a tariff via 
-dial-up telecommunications or a network link
-
-[[Page 163]]
-
-and interacts with the carrier's or publisher's system on a transaction-
-by-transaction basis to retrieve published tariff matter.
+dial-up telecommunications or a network link and interacts with the 
+carrier's or publisher's system on a transaction-by-transaction basis to 
+retrieve published tariff matter.
     Rules means the stated terms and conditions set by the tariff owner 
 which govern the application of tariff rates, charges and other matters.
     Scope means the location group(s) (geographic groupings(s)) listing 
@@ -13501,6 +13493,9 @@ bill of lading.
     (1) A cargo owner;
     (2) The person for whose account the ocean transportation is 
 provided;
+
+[[Page 163]]
+
     (3) The person to whom delivery is to be made;
     (4) A shipper's association; or
     (5) An NVOCC that accepts responsibility for payment of all charges 
@@ -13554,11 +13549,7 @@ business as) name.
     Transshipment means the physical transfer of cargo from a vessel of 
 one carrier to a vessel of another in the course of all-water or through 
 transportation, where at least one of the exchanging carriers is an 
-ocean common
-
-[[Page 164]]
-
-carrier subject to the Commission's jurisdiction.
+ocean common carrier subject to the Commission's jurisdiction.
 
 [64 FR 11225, Mar. 8, 1999, as amended at 64 FR 23022, Apr. 29, 1999; 65 
 FR 26512, May 8, 2000; 67 FR 39860, June 11, 2002]
@@ -13576,8 +13567,11 @@ established.
     (b) Conferences. Conferences shall publish, in their automated 
 tariff systems, rates offered pursuant to independent action by their 
 members and may publish any open rates offered by their members. 
-Alternatively, open rates may be published in individual tariffs of 
-conference members.
+Alternatively, open
+
+[[Page 164]]
+
+rates may be published in individual tariffs of conference members.
     (c) Agents. Common carriers or conferences may use agents to meet 
 their publication requirements under this part.
     (d) Notification. Each common carrier and conference shall notify 
@@ -13639,9 +13633,6 @@ tariffs.
 bill of lading);
     (5) Contact person and address;
     (6) Default measurement and currency units;
-
-[[Page 165]]
-
     (7) Origination and destination scope; and
     (8) A statement certifying that all information contained in the 
 tariff is true and accurate and no unlawful alterations will be 
@@ -13654,6 +13645,9 @@ required to use any numeric code to identify commodities, but should
 they choose to do so, they are encouraged to use the U.S. Harmonized 
 Tariff Schedule (``U.S. HTS'') for both the commodity coding and 
 associated terminology (definitions).
+
+[[Page 165]]
+
     (2) If a tariff publisher uses a numeric code to identify 
 commodities, the following commodity types shall be preceded by their 
 associated 2-digit prefixes, with the remaining digits at the 
@@ -13717,9 +13711,6 @@ measure and distance. They are intended to provide a standard
 terminology baseline for tariffs to facilitate retriever efficiency. 
 Tariff publishers may use additional codes, if they are clearly defined 
 in their tariffs.
-
-[[Page 166]]
-
     (b) Geographic names. Tariffs should employ locations (points) that 
 are published in the National Imagery and Mapping Agency (``NIMA'') 
 gazetteer or the Geographic Names Information System (``GNIS'') 
@@ -13737,6 +13728,9 @@ ability to:
     (1) Search for commonly understood tariff objects (e.g., 
 commodities, origins, destinations, etc.) without restricting such 
 search to a specific tariff;
+
+[[Page 166]]
+
     (2) Search a tariff for a rate on the basis of origin, destination 
 and commodity;
     (3) Employ a tariff selection option; or
@@ -13797,23 +13791,22 @@ carriers in the case of rates for through transportation.
 same commodity over the same route and under similar conditions, and the 
 application is dependent upon the quantity of the commodity shipped, the 
 total freight charges assessed against the shipment may not exceed the 
-total
-
-[[Page 167]]
-
-charges computed for a larger quantity, if the TRI specifying a required 
-minimum quantity (either weight or measurement; per container or in 
-containers) will be applicable to the contents of the container(s), and 
-if the minimum set forth is met or exceeded. At the shipper's option, a 
-quantity less than the minimum level may be freighted at the lower TRI 
-if the weight or measurement declared for rating purposes is increased 
-to the minimum level.
+total charges computed for a larger quantity, if the TRI specifying a 
+required minimum quantity (either weight or measurement; per container 
+or in containers) will be applicable to the contents of the 
+container(s), and if the minimum set forth is met or exceeded. At the 
+shipper's option, a quantity less than the minimum level may be 
+freighted at the lower TRI if the weight or measurement declared for 
+rating purposes is increased to the minimum level.
     (e) Green salted hides. The shipping weight for green salted hides 
 shall be either a scale weight or a scale weight minus a deduction, 
 which amount and method of computation are specified in the commodity 
 description. The shipper must furnish the carrier a weight certificate 
-or dock receipt from an inland common carrier for each shipment at or 
-before the time the shipment is tendered for ocean transportation.
+or dock receipt from an inland common carrier for each shipment
+
+[[Page 167]]
+
+at or before the time the shipment is tendered for ocean transportation.
     (f) Conference situations. (1) New members of a conference shall 
 cancel any independent tariffs applicable to the trades served by the 
 conference, within ninety (90) days of membership in the conference. 
@@ -13872,9 +13865,6 @@ additional charges, or other provisions not under the control of the
 common carriers or conferences, which merely acts as a collection agent 
 for such charges and the agency making such changes does so without 
 notifying the tariff owner.
-
-[[Page 168]]
-
     (c) Controlled carriers. Published rates by or for controlled 
 carriers shall be governed by the procedures set forth in part 565 of 
 this chapter.
@@ -13894,6 +13884,9 @@ to their published tariffs, via a personal computer (``PC''), by:
 that tariffs provide:
     (i) A minimum of a 14.4Kbps modem capable of receiving incoming 
 calls;
+
+[[Page 168]]
+
     (ii) Smart terminal capability for VT-100 terminal or terminal 
 emulation access; and
     (iii) Telephone line quality for data transmission.
@@ -13954,9 +13947,6 @@ adjustments and assessorial charges that were effective on the access
 date for rate calculations and designation of applicable surcharges. The 
 access date shall also apply to the alignment of tariff objects for any 
 governing tariffs.
-
-[[Page 169]]
-
     (c) Periodic review. The Commission will periodically review 
 published tariff systems and will prohibit the use of any system that 
 fails to meet the requirements of this part.
@@ -13974,6 +13964,9 @@ its tariff publication:
     (1) That it has furnished the Commission proof of its financial 
 responsibility in the manner and amount required by part 515 of this 
 chapter;
+
+[[Page 169]]
+
     (2) The manner of its financial responsibility;
     (3) Whether it is relying on coverage provided by a group or 
 association to which it is a member;
@@ -14034,12 +14027,8 @@ intention to use a time/volume rate prior to tendering any shipments
 under the time/volume arrangement.
     (c) Accepted rates. Once a time/volume rate is accepted by one 
 shipper, it shall remain in effect for the time specified, without 
-amendment. If no shipper
-
-[[Page 170]]
-
-gives notice within 30 days of publication, the time/volume rate may be 
-canceled.
+amendment. If no shipper gives notice within 30 days of publication, the 
+time/volume rate may be canceled.
     (d) Records. Shipper notices and shipment records supporting a time/
 volume rate shall be maintained by the offering carrier or conference 
 for at least 5 years after a shipper's use of a time/volume rate has 
@@ -14055,8 +14044,12 @@ volume offer.
 Sec. 520.13  Exemptions and exceptions.
 
     (a) General. Exemptions from the requirements of this part are 
-governed by section 16 of the Act and Rule 67 of the Commission's Rules 
-of Practice and Procedure, Sec. 502.67 of this chapter.
+governed by section 16 of the Act and Rule 67 of the
+
+[[Page 170]]
+
+Commission's Rules of Practice and Procedure, Sec. 502.67 of this 
+chapter.
     (b) Services. The following services are exempt from the 
 requirements of this part:
     (1) Equipment interchange agreements. Equipment-interchange 
@@ -14113,9 +14106,6 @@ Transportation of used household goods and personal effects by ocean
 transportation intermediaries shipped for federal civilian executive 
 agencies under the International Household Goods Program administered by 
 the General Services Administration.
-
-[[Page 171]]
-
     (d) Services involving foreign countries. The following 
 transportation services involving foreign countries are not subject to 
 the requirements of this part:
@@ -14129,7 +14119,11 @@ ocean common carrier accepts custody of the cargo in a foreign country
 and issues a through bill of lading covering its transportation to a 
 foreign point of destination.
     (2) Between Canada and U.S. The following services are exempt from 
-the filing requirements of the Act and the rules of this part:
+the
+
+[[Page 171]]
+
+filing requirements of the Act and the rules of this part:
     (i) Prince Rupert and Alaska. (A) Vehicles. Transportation by 
 vessels operated by the State of Alaska between Prince Rupert, Canada 
 and ports in southeastern Alaska, if all the following conditions are 
@@ -14190,12 +14184,9 @@ Sec. 520.14  Special permission.
 
     (a) General. Section 8(d) of the Act authorizes the Commission, in 
 its discretion and for good cause shown, to permit increases or 
-decreases in rates, or the issuance of new or initial rates,
-
-[[Page 172]]
-
-on less than the statutory notice. Section 9(c) of the Act authorizes 
-the Commission to permit a controlled carrier's rates, charges, 
+decreases in rates, or the issuance of new or initial rates, on less 
+than the statutory notice. Section 9(c) of the Act authorizes the 
+Commission to permit a controlled carrier's rates, charges, 
 classifications, rules or regulations to become effective on less than 
 30 days' notice. The Commission may also in its discretion and for good 
 cause shown, permit departures from the requirements of this part.
@@ -14205,6 +14196,9 @@ application based thereon must plainly specify the error and present
 clear evidence of its existence, together with a full statement of the 
 attending circumstances, and shall be submitted with reasonable 
 promptness after publishing the defective tariff material.
+
+[[Page 172]]
+
     (c) Application. (1) Applications for special permission to 
 establish rate increases or decreases on less than statutory notice or 
 for waiver of the provisions of this part, shall be made by the common 
@@ -14243,7 +14237,7 @@ information is 3072-0064.
 
          Appendix A to Part 520--Standard Terminology and Codes
 
-                   I.--Publishing/Amendment Type Codes
+                   I--Publishing/Amendment Type Codes
 ------------------------------------------------------------------------
              Code                              Definition
 ------------------------------------------------------------------------
@@ -14282,7 +14276,7 @@ X............................  Exemption for controlled carrier data in
 ------------------------------------------------------------------------
 
 
-                             II.--Unit Codes
+                             II--Unit Codes
 A. Weight Units:
   Kilograms..................................  KGS
   1000 Kgs (Metric Ton)......................  KT
@@ -14298,10 +14292,6 @@ C. Length Units:
   Inches.....................................  IN
   Meters.....................................  M
 D. Measure Board Feet:
-
-[[Page 173]]
-
- 
   Thousand Board Feet........................  MBF
 E. Distance Units:
   Kilometers.................................  KM
@@ -14322,6 +14312,10 @@ G. Container Size Codes:
   20 FT 8[foot]6<gr-thn-eq>..................  20
   20 FT 9[foot]0<gr-thn-eq> High Cube........  20A
   20 FT 9[foot]6<gr-thn-eq> High Cube........  20B
+
+[[Page 173]]
+
+ 
   20 FT 8[foot]0<gr-thn-eq>..................  20S
   20 FT Any Height...........................  20X
   24 FT 8[foot]6<gr-thn-eq>..................  24
@@ -14450,10 +14444,6 @@ J. Packaging Codes:
   Liquid Bulk................................  LBK
   Lifts......................................  LIF
   Log........................................  LOG
-
-[[Page 174]]
-
- 
   Loose......................................  LSE
   Lug........................................  LUG
   Lift Van...................................  LVN
@@ -14474,6 +14464,10 @@ J. Packaging Codes:
   Rail (semiconductor).......................  RAL
   Rack.......................................  RCK
   Reel.......................................  REL
+
+[[Page 174]]
+
+ 
   Roll.......................................  ROL
   Reverse Reel...............................  RVR
   Sack.......................................  SAK
@@ -14568,10 +14562,10 @@ PART 525--MARINE TERMINAL OPERATOR SCHEDULES--Table of Contents
 
 
 Sec.
-525.1  Purpose and scope.
-525.2  Terminal schedules.
-525.3  Availability of marine terminal operator schedules.
-525.4  OMB Control number assigned pursuant to the Paperwork Reduction 
+525.1 Purpose and scope.
+525.2 Terminal schedules.
+525.3 Availability of marine terminal operator schedules.
+525.4 OMB Control number assigned pursuant to the Paperwork Reduction 
           Act.
 
     Authority: 46 U.S.C. app. 1702, 1707, 1709, as amended by Pub. L. 
@@ -14591,12 +14585,8 @@ regard to identifying and preventing unreasonable preference or
 prejudice and unjust discrimination pursuant to section 10 of the Act.
     (b) Scope. This part sets forth the regulations for the publication 
 of terminal schedules by marine terminal operators. Information made 
-available under
-
-[[Page 175]]
-
-this part may be used to determine marine terminal operators' compliance 
-with shipping statutes and regulations.
+available under this part may be used to determine marine terminal 
+operators' compliance with shipping statutes and regulations.
     (c) Definitions. The following definitions apply to the regulations 
 of this part:
     (1) Act means the Shipping Act of 1984, as amended by the Ocean 
@@ -14604,9 +14594,12 @@ Shipping Reform Act of 1998 and the Coast Guard Authorization Act of
 1998.
     (2) Bulk cargo means cargo that is loaded and carried in bulk 
 without mark or count, in a loose unpackaged form, having homogenous 
-characteristics. Bulk cargo loaded into intermodal equipment, except 
-LASH or Seabee barges, is subject to mark and count and is, therefore, 
-subject to the requirements of this part.
+characteristics. Bulk cargo loaded into intermodal
+
+[[Page 175]]
+
+equipment, except LASH or Seabee barges, is subject to mark and count 
+and is, therefore, subject to the requirements of this part.
     (3) Checking means the service of counting and checking cargo 
 against appropriate documents for the account of the cargo or the 
 vessel, or other person requesting same.
@@ -14664,18 +14657,17 @@ specified level of marine terminal service or facility for a stated
 cargo quantity, on and after a stated effective date or within a defined 
 time frame.
     (17) Schedule means a publication containing the actual rates, 
-charges,
-
-[[Page 176]]
-
-classifications, regulations and practices of a marine terminal 
+charges, classifications, regulations and practices of a marine terminal 
 operator. The term ``practices'' refers to those usages, customs or 
 modes of operation which in any way affect, determine or change the 
 rates, charges or services provided by a marine terminal operator.
     (18) Terminal facilities means one or more structures comprising a 
 terminal unit, which include, but are not limited to, wharves, 
 warehouses, covered and/or open storage spaces, cold storage plants, 
-cranes, grain elevators and/or bulk cargo loading and/or unloading 
+cranes, grain elevators and/or bulk cargo loading and/or unloading
+
+[[Page 176]]
+
 structures, landings, and receiving stations, used for the transmission, 
 care and convenience of cargo and/or passengers in the interchange of 
 same between land and water carriers or between two water carriers.
@@ -14736,12 +14728,8 @@ schedule covering those same services shall not be enforceable as an
 implied contract.
     (b) Cargo types not subject to this part. (1) Except as set forth in 
 paragraph (b)(2) of this section, this part does not apply to bulk 
-cargo, forest products,
-
-[[Page 177]]
-
-recycled metal scrap, new assembled motor vehicles, waste paper and 
-paper waste in terminal schedules.
+cargo, forest products, recycled metal scrap, new assembled motor 
+vehicles, waste paper and paper waste in terminal schedules.
     (2) Marine terminal operators which voluntarily make available 
 terminal schedules covering any of the commodities identified in 
 paragraph (b)(1) of this section thereby subject their services with 
@@ -14749,6 +14737,8 @@ respect to those commodities to the requirements of this part.
     (c) Marine terminal operator agreements. The regulations relating to 
 agreements to which a marine terminal operator is a party are located at 
 part 535 of this chapter.
+
+[[Page 177]]
 
 
 <R05>
@@ -14813,9 +14803,6 @@ website at www.fmc.gov. Any changes to the above information shall be
 immediately transmitted to BTCL. The Commission will publish a list on 
 its website of the location of any terminal schedule made available to 
 the public.
-
-[[Page 178]]
-
     (g) Form and manner. Each terminal schedule made available by a 
 marine terminal operator shall contain an individual identification 
 number, effective date, expiration date, if any, and the complete 
@@ -14828,7 +14815,10 @@ facilities.
 <R05>
 Sec. 525.4  OMB control number assigned pursuant to the Paperwork Reduction Act.
 
-    The Commission has received Office of Management and Budget approval 
+    The Commission has received Office of Management and Budget approval
+
+[[Page 178]]
+
 for this collection of information pursuant to the Paperwork Reduction 
 Act of 1995, as amended. In accordance with that Act, agencies are 
 required to display a currently valid control number. In this regard, 
@@ -14845,34 +14835,35 @@ PART 530--SERVICE CONTRACTS--Table of Contents
                       Subpart A--General Provisions
 
 Sec.
-530.1  Purpose.
-530.2  Scope and applicability.
-530.3  Definitions.
-530.4  Confidentiality.
-530.5  Duty to file.
-530.6  Certification of shipper status.
-530.7  Duty to labor organizations.
+530.1 Purpose.
+530.2 Scope and applicability.
+530.3 Definitions.
+530.4 Confidentiality.
+530.5 Duty to file.
+530.6 Certification of shipper status.
+530.7 Duty to labor organizations.
 
                      Subpart B--Filing Requirements
 
-530.8  Service contracts.
-530.9  Notices.
-530.10  Amendment, correction, and cancellation.
-530.11  [Reserved]
+530.8 Service contracts.
+530.9 Notices.
+530.10 Amendment, correction, cancellation, and electronic transmission 
+          errors.
+530.11 [Reserved]
 
                 Subpart C--Publication of Essential Terms
 
-530.12  Publication.
+530.12 Publication.
 
                 Subpart D--Exceptions and Implementation
 
-530.13  Exceptions and exemptions.
-530.14  Implementation.
+530.13 Exceptions and exemptions.
+530.14 Implementation.
 
                    Subpart E--Recordkeeping and Audit
 
-530.15  Recordkeeping and audit.
-530.91  OMB control numbers assigned pursuant to the Paperwork Reduction 
+530.15 Recordkeeping and audit.
+530.91 OMB control numbers assigned pursuant to the Paperwork Reduction 
           Act.
 
 Appendix A to Part 530--Instructions for the Filing of Service Contracts
@@ -14925,9 +14916,6 @@ is authorized to file service contracts on behalf of the carrier party
 to a service contract and to publish the corresponding statement of 
 essential terms and is registered by the Commission to file under 
 Sec. 530.5(d) and appendix A to this part.
-
-[[Page 179]]
-
     (d) BTCL means the Commission's Bureau of Tariffs, Certification and 
 Licensing or its successor bureau.
     (e) Commission means the Federal Maritime Commission.
@@ -14938,11 +14926,14 @@ the United States and a foreign country for compensation that:
 point of receipt to the port or point of destination; and
     (2) Utilizes, for all or part of that transportation, a vessel 
 operating on the high seas or the Great Lakes between a port in the 
-United States and a port in a foreign country, except that the term does 
-not include a common carrier engaged in ocean transportation by ferry 
-boat, ocean tramp, or chemical parcel tanker, or by a vessel when 
-primarily engaged in the carriage of perishable agricultural 
-commodities:
+United States and
+
+[[Page 179]]
+
+a port in a foreign country, except that the term does not include a 
+common carrier engaged in ocean transportation by ferry boat, ocean 
+tramp, or chemical parcel tanker, or by a vessel when primarily engaged 
+in the carriage of perishable agricultural commodities:
     (i) If the common carrier and the owner of those commodities are 
 wholly owned, directly or indirectly, by a person primarily engaged in 
 the marketing and distribution of those commodities and
@@ -14993,9 +14984,6 @@ the Great Lakes between a port in the United States and a port in a
 foreign country, except that the term does not include a common carrier 
 engaged in ocean transportation by ferry boat, ocean tramp, or chemical 
 parcel-tanker.
-
-[[Page 180]]
-
     (o) OIRM means the Commission's Office of Information and Resources 
 Management.
     (p) Non-vessel-operating common carrier (``NVOCC'') means an ocean 
@@ -15007,9 +14995,13 @@ which the shipper makes a commitment to provide a certain minimum
 quantity or portion of its cargo or freight revenue over a fixed time 
 period, and the individual ocean common carrier or the agreement commits 
 to a certain rate or rate schedule and a defined service level, such as, 
-assured space, transit time, port rotation, or similar service features. 
-The contract may also specify provisions in the event of nonperformance 
-on the part of any party.
+assured space, transit
+
+[[Page 180]]
+
+time, port rotation, or similar service features. The contract may also 
+specify provisions in the event of nonperformance on the part of any 
+party.
     (r) Shipper means a cargo owner; the person for whose account the 
 ocean transportation is provided; the person to whom delivery is to be 
 made; a shippers' association; or an NVOCC that accepts responsibility 
@@ -15076,11 +15068,7 @@ NVOCC joins a shippers' association during the term of a service
 contract and is thereby entitled to receive service under the contract, 
 the NVOCC shall provide to the ocean common carrier, agreement or 
 conference the proof of compliance required by paragraph (b) of this 
-section
-
-[[Page 181]]
-
-prior to making any shipments under the contract.
+section prior to making any shipments under the contract.
     (d) Reliance on NVOCC proof; independent knowledge. An ocean common 
 carrier, agreement or conference executing a service contract shall be 
 deemed to have complied with section 10(b)(12) of the Act upon meeting 
@@ -15094,6 +15082,9 @@ Sec. 530.7  Duty to labor organizations.
 
     (a) Terms. When used in this section, the following terms will have 
 these meanings:
+
+[[Page 181]]
+
     (1) Dock area and within the port area shall have the same meaning 
 and scope as defined in the applicable collective bargaining agreement.
     (2) Reasonable period of time ordinarily means:
@@ -15149,10 +15140,7 @@ and without reference to this section.
 effect on the lawfulness or unlawfulness under the Shipping Act of 1984, 
 the National Labor Relations Act, the Taft-Hartley Act, the Federal 
 Trade Commission Act, the antitrust laws, or any other federal or state 
-law, or any revisions or amendments thereto, of any collective
-
-[[Page 182]]
-
+law, or any revisions or amendments thereto, of any collective 
 bargaining agreement or element thereof, including any element that 
 constitutes an essential term of a service contract under section 8(c) 
 of the Act.
@@ -15169,6 +15157,9 @@ Sec. 530.8  Service Contracts.
 in appendix A of this part, a true and complete copy of every service 
 contract or amendment to a filed service contract before any cargo moves 
 pursuant to that service contract or amendment.
+
+[[Page 182]]
+
     (b) Every service contract filed with the Commission shall include 
 the complete terms of the service contract including, but not limited 
 to, the following:
@@ -15227,9 +15218,6 @@ under 46 CFR part 535 (if applicable); and
     (4) An indication of the method by which the statement of essential 
 terms will be published.
     (e) Exception in case of malfunction of Commission filing system.
-
-[[Page 183]]
-
     (1) In the event that the Commission's filing systems are not 
 functioning and cannot receive service contract filings for twenty-four 
 (24) continuous hours or more, affected parties will not be subject to 
@@ -15241,8 +15229,12 @@ within twenty-four (24) hours of the Commission's filing systems' return
 to service.
     (3) Failure to file a service contract that goes into effect before 
 it is filed, pursuant to paragraph (e)(1) of this section, within 
-twenty-four (24) hours of the Commission's filing systems' return to 
-service will be considered a violation of Commission regulations.
+twenty-four (24) hours of
+
+[[Page 183]]
+
+the Commission's filing systems' return to service will be considered a 
+violation of Commission regulations.
 
 [64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 64 
 FR 41042, July 29, 1999]
@@ -15269,7 +15261,7 @@ receive or authorized to offer services under the contract.
 
 
 <R05>
-Sec. 530.10  Amendment, correction, and cancellation.
+Sec. 530.10  Amendment, correction, cancellation, and electronic transmission errors.
 
     (a) Terms. When used in this section, the following terms will have 
 these meanings:
@@ -15304,9 +15296,6 @@ or amended service contract to be corrected;
     (2) A paper copy of the proposed correct terms. Corrections shall be 
 indicated as follows:
     (i) Matter being deleted shall be struck through; and
-
-[[Page 184]]
-
     (ii) Matter to be added shall immediately follow the language being 
 deleted and be underscored;
     (3) An affidavit from the filing party attesting with specificity to 
@@ -15318,7 +15307,28 @@ concurring in the request for correction.
     (6) If the request for correction is granted, the carrier, agreement 
 or conference shall file the corrected contract provisions using a 
 special case number as described in appendix A to this part.
-    (d) Cancellation. (1) An account may be adjusted for events and 
+    (d) Electronic transmission errors. An authorized person who 
+experiences a purely technical electronic transmission error or a data 
+conversion
+
+[[Page 184]]
+
+error in transmitting a service contract filing or an amendment thereto 
+is permitted to file a Corrected Transmission (``CT'') of that filing 
+within 48 hours of the date and time of receipt recorded in SERVCON 
+(excluding Saturdays, Sundays and legal public holidays). This time-
+limited permission to correct an initial defective service contract 
+filing is not to be used to make changes in the original service 
+contract rates, terms or conditions that are otherwise provided for in 
+paragraphs 530.10(b) and (c) of this section. The CT tab box in SERVCON 
+must be checked at the time of resubmitting a previously filed service 
+contract, and a description of the corrections made must be stated at 
+the beginning of the corrected service contract in a comment box. 
+Failure to check the CT box and enter a description of the correction 
+will result in the rejection of a file with the same name, since 
+documents with duplicate file names or service contract and amendment 
+numbers are not accepted by SERVCON.
+    (e) Cancellation. (1) An account may be adjusted for events and 
 damages covered by the service contract. This shall include adjustment 
 necessitated by either liability for liquidated damages appearing in the 
 service contract as filed with the Commission under Sec. 530.8(b)(7), or 
@@ -15329,14 +15339,14 @@ section.
 prohibited; and
     (ii) The cargo previously carried under the contract shall be re-
 rated according to the otherwise applicable tariff provisions.
-    (e) If the amendment, correction or cancellation affects an 
+    (f) If the amendment, correction or cancellation affects an 
 essential term required to be published under Sec. 530.12 of this part, 
 the statement of essential terms shall be changed as soon as possible 
 after the filing of the amendment to accurately reflect the change to 
 the contract terms.
 
 [64 FR 11206, Mar. 8, 1999, as amended at 64 FR 23793, May 4, 1999; 67 
-FR 39860, June 11, 2002]
+FR 39860, June 11, 2002; 68 FR 43327, July 22, 2003]
 
 
 <R05>
@@ -15381,15 +15391,15 @@ eligible-to-participate carriers' individual automated tariff systems,
 clearly indicating the relevant FMC-assigned agreement number.
     (d) References. The statement of essential terms shall contain a 
 reference to the ``SC Number'' as described in Sec. 530.8(d)(1).
+
+[[Page 185]]
+
     (e) Terms. (1) The publication of the statement of essential terms 
 shall accurately reflect the terms as filed confidentially with the 
 Commission.
     (2) If any of the published essential terms include information not 
-required to be filed with the Commission but
-
-[[Page 185]]
-
-filed voluntarily, the statement of essential terms shall so note.
+required to be filed with the Commission but filed voluntarily, the 
+statement of essential terms shall so note.
     (f) Agents. Common carriers, conferences, or agreements may use 
 agents to meet their publication requirements under this part.
     (g) Commission listing. The Commission will publish on its website, 
@@ -15468,13 +15478,13 @@ notice that an initial or amended service contract has been prohibited
 under section 9(d) or suspended under section 11a(e)(1)(B) of the Act:
     (1) Further or continued implementation of the service contract is 
 prohibited;
+
+[[Page 186]]
+
     (2) All services performed under the contract shall be re-rated in 
 accordance with the otherwise applicable tariff provisions for such 
 services with notice to the shipper within five (5) days of the date of 
 prohibition or suspension; and
-
-[[Page 186]]
-
     (3) Detailed notice shall be given to the Commission under 
 Sec. 530.9 within thirty (30) days of:
     (i) The re-rating or other account adjustment resulting from 
@@ -15554,30 +15564,28 @@ other than the individual registrant. The Commission reserves the right
 to disable any log-on ID that is shared with, loaned to or used by 
 parties other than the registrant.
 
+[[Page 187]]
+
                                 B. Filing
 
     After receiving a log-on ID and a password, a filer may log-on to 
 the service contract filing area on the Commission's home page and file 
-service contracts. The filing screen will
-
-[[Page 187]]
-
-request such information as: filer name, Registered Persons Index 
-(``RPI'') number and carrier RPI number (if different); Service Contract 
-and amendment number; and effective date. The filer will attach the 
-entire service contract file and submit it into the system. When the 
-service contract has been submitted for filing, the system will assign a 
-filing date and an FMC control number, both of which will be included in 
-the acknowledgment/confirmation message.
+service contracts. The filing screen will request such information as: 
+filer name, Registered Persons Index (``RPI'') number and carrier RPI 
+number (if different); Service Contract and amendment number; and 
+effective date. The filer will attach the entire service contract file 
+and submit it into the system. When the service contract has been 
+submitted for filing, the system will assign a filing date and an FMC 
+control number, both of which will be included in the acknowledgment/
+confirmation message.
 
 [64 FR 41042, July 29, 1999]
 
 [[Page 188]]
 
-       Exhibit 1 to Part 530--Service Contract Registration [Form 
-                                FMC-83]
-    [GRAPHIC] [TIFF OMITTED] TR08MR99.023
-    
+   Exhibit 1 to Part 530--Service Contract Registration [Form FMC-83]
+[GRAPHIC] [TIFF OMITTED] TR08MR99.023
+
 
 [[Page 189]]
 
@@ -15637,92 +15645,92 @@ PART 535--AGREEMENTS BY OCEAN COMMON CARRIERS AND OTHER PERSONS SUBJECT TO THE S
                       Subpart A--General Provisions
 
 Sec.
-535.101  Authority.
-535.102  Purpose.
-535.103  Policies.
-535.104  Definitions.
+535.101 Authority.
+535.102 Purpose.
+535.103 Policies.
+535.104 Definitions.
 
                             Subpart B--Scope
 
-535.201  Subject agreements.
-535.202  Non-subject agreements.
+535.201 Subject agreements.
+535.202 Non-subject agreements.
 
                           Subpart C--Exemptions
 
-535.301  Exemption procedures.
-535.302  Non-substantive agreements and non-substantive modifications to 
+535.301 Exemption procedures.
+535.302 Non-substantive agreements and non-substantive modifications to 
           existing agreements--exemption.
-535.303  Husbanding agreements--exemption.
-535.304  Agency agreements--exemption.
-535.305  Equipment interchange agreements--exemption.
-535.306  Non-exclusive transshipment agreements--exemption.
-535.307  Marine terminal agreements--exemption.
-535.308  Agreements between or among wholly-owned subsidiaries and/or 
+535.303 Husbanding agreements--exemption.
+535.304 Agency agreements--exemption.
+535.305 Equipment interchange agreements--exemption.
+535.306 Non-exclusive transshipment agreements--exemption.
+535.307 Marine terminal agreements--exemption.
+535.308 Agreements between or among wholly-owned subsidiaries and/or 
           their parent--exemption.
-535.309  Miscellaneous modifications to agreements--exemptions.
-535.310  Marine terminal services agreements--exemption.
-535.311  Marine terminal facilities agreement--exemption.
+535.309 Miscellaneous modifications to agreements--exemptions.
+535.310 Marine terminal services agreements--exemption.
+535.311 Marine terminal facilities agreement--exemption.
 
                      Subpart D--Filing of Agreements
 
-535.401  General requirements.
-535.402  Form of agreements.
-535.403  Agreement provisions.
-535.404  Organization of conference and interconference agreements.
-535.405  Modifications of agreements.
-535.406  Application for waiver.
-535.407  Complete and definite agreements.
+535.401 General requirements.
+535.402 Form of agreements.
+535.403 Agreement provisions.
+535.404 Organization of conference and interconference agreements.
+535.405 Modifications of agreements.
+535.406 Application for waiver.
+535.407 Complete and definite agreements.
 
                 Subpart E--Information Form Requirements
 
-535.501  General requirements.
-535.502  Subject agreements.
-535.503  Information form for Class A/B agreements.
-535.504  Information form for Class C agreements.
-535.505  Application for waiver.
+535.501 General requirements.
+535.502 Subject agreements.
+535.503 Information form for Class A/B agreements.
+535.504 Information form for Class C agreements.
+535.505 Application for waiver.
 
 [[Page 190]]
 
                      Subpart F--Action on Agreements
 
-535.601  Preliminary review--rejection of agreements.
-535.602  Federal Register notice.
-535.603  Comment.
-535.604  Waiting period.
-535.605  Requests for expedited approval.
-535.606  Requests for additional information.
-535.607  Failure to comply with requests for additional information.
-535.608  Confidentiality of submitted material.
-535.609  Negotiations.
+535.601 Preliminary review--rejection of agreements.
+535.602 Federal Register notice.
+535.603 Comment.
+535.604 Waiting period.
+535.605 Requests for expedited approval.
+535.606 Requests for additional information.
+535.607 Failure to comply with requests for additional information.
+535.608 Confidentiality of submitted material.
+535.609 Negotiations.
 
          Subpart G--Reporting and Record Retention Requirements
 
-535.701  General requirements.
-535.702  Agreements subject to Monitoring Report requirements.
-535.703  Monitoring report for Class A agreements.
-535.704  Monitoring report for Class B agreements.
-535.705  Monitoring report for Class C agreements.
-535.706  Filing of minutes--including shippers' requests and complaints, 
+535.701 General requirements.
+535.702 Agreements subject to Monitoring Report requirements.
+535.703 Monitoring report for Class A agreements.
+535.704 Monitoring report for Class B agreements.
+535.705 Monitoring report for Class C agreements.
+535.706 Filing of minutes--including shippers' requests and complaints, 
           and consultations.
-535.707  Other documents.
-535.708  Retention of records.
-535.709  Application for waiver.
+535.707 Other documents.
+535.708 Retention of records.
+535.709 Application for waiver.
 
              Subpart H--Mandatory and Prohibited Provisions
 
-535.801  Independent action.
-535.802  Service contracts.
-535.803  Ocean freight forwarder compensation.
+535.801 Independent action.
+535.802 Service contracts.
+535.803 Ocean freight forwarder compensation.
 
                           Subpart I--Penalties
 
-535.901  Failure to file.
-535.902  Falsification of reports.
+535.901 Failure to file.
+535.902 Falsification of reports.
 
                      Subpart J--Paperwork Reduction
 
-535.991  OMB control numbers assigned pursuant to the Paperwork 
-          Reduction Act.
+535.991 OMB control numbers assigned pursuant to the Paperwork Reduction 
+          Act.
 
 Appendix A to Part 535--Information Form for Class A/B Agreements and 
           Instructions
@@ -17816,46 +17824,46 @@ agreement.
  Agreement Number_______________________________________________________
 (Assigned by FMC)
 
-                         Part I  Agreement Name:
+                         Part I Agreement Name:
 
-                        Part II  Other Agreements
+                        Part II Other Agreements
 
     Lists all effective agreements covering all or part of the 
 geographic scope of this agreement, whose parties include one or more of 
 the parties to this agreement.
 
-                        Part III  Agreement Type
+                         Part III Agreement Type
 
     (A) Rate Agreements
     Does the agreement authorize the parties to collectively fix rates 
 on a binding basis under a common tariff, or to agree upon rates on a 
 non-binding basis, or to discuss rates?
 
-Yes [squ]      No [squ]
+Yes [squ] No [squ]
     (B) Joint Service Agreements
     Does the agreement authorize the parties to establish a joint 
 service?
 
-Yes [squ]      No [squ]
+Yes [squ] No [squ]
 
     (C) Pooling Agreements
     Does the agreement authorize the parties to pool cargoes or 
 revenues?
 
-Yes [squ]      No [squ]
+Yes [squ] No [squ]
     (D) Vessel-Operating Costs
     Does the agreement authorize the parties to discuss or exchange data 
 on vessel-operating costs?
 
-Yes [squ]      No [squ]
+Yes [squ] No [squ]
     (E) Service Contracts
     Does the agreement authorize the parties to discuss or agree on 
 service contract terms and conditions, on either a binding or non-
 binding basis?
 
-Yes [squ]      No [squ]
+Yes [squ] No [squ]
 
-                    Part IV  Market Share Information
+                    Part IV Market Share Information
 
     Provide the market shares of all liner operators within the entire 
 scope of the agreement and within each agreement sub-trade during the 
@@ -17874,20 +17882,20 @@ Agreement Market Share:
   Line A........................................       X,XXX          XX
   Line B........................................       X,XXX          XX
   Line C........................................       X,XXX          XX
-                                                 -----------------------
+                                                 --------------
     Total Agreement Market Share................       X,XXX          XX
-                                                 -----------------------
+                                                 --------------
 Non-Agreement Market Share:
   Line X........................................       X,XXX          XX
   Line Y........................................       X,XXX          XX
   Line Z........................................       X,XXX          XX
-                                                 -----------------------
+                                                 --------------
     Total Non-Agreement Market Share............       X,XXX          XX
-                                                 -----------------------
+                                                 --------------
       Total Market..............................       X,XXX         100
 ------------------------------------------------------------------------
 
-            Part V  Cargo and Revenue Results Agreement-Wide
+             Part V Cargo and Revenue Results Agreement-Wide
 
     For each party that served all or any part of the geographic area 
 covered by the entire agreement during all or any part of the most 
@@ -17907,13 +17915,13 @@ in the format below:
                                       measurement                 of
                                                              measurement
 ------------------------------------------------------------------------
-A...................................  ...........   $           $
-B...................................  ...........   $           $
-C...................................  ...........   $           $
-Etc.................................  ...........   $           $
+A...................................  ...........         $           $
+B...................................  ...........         $           $
+C...................................  ...........         $           $
+Etc.................................  ...........         $           $
 ------------------------------------------------------------------------
 
-                      Part VI  Leading Commodities
+                       Part VI Leading Commodities
 
     For each sub-trade within the scope of the agreement, list the top 
 10 commodities carried by all the parties during the same time period 
@@ -17936,7 +17944,7 @@ the format below:
 
     A. First leading commodity etc.
 
-            Part VII  Cargo and Revenue Results by Sub-Trade
+             Part VII Cargo and Revenue Results by Sub-Trade
 
     For the same time period used in responding to Parts V and VI, and 
 for each sub-trade within the scope of the agreement, and for each of 
@@ -17962,7 +17970,7 @@ II. Sub-trade B
     A. First leading commodity
     1. etc.
 
-                         Part VIII  Port Service
+                         Part VIII Port Service
 
     For each port within the entire geographic scope of the agreement, 
 state the number of port calls by each of the parties over the same time 
@@ -18114,7 +18122,7 @@ agreement.
 Part I Agreement Name:
 ________________________________________________________________________
 
-                        Part II  Other Agreements
+                        Part II Other Agreements
 
     List all effective agreements covering all or part of the geographic 
 scope of this agreement, whose parties include one or more of the 
@@ -18378,13 +18386,13 @@ ________________________________________________________________________
     Indicate any change occurring during the calendar quarter to the 
 list of other agreements set forth in Part II of the Information Form.
 
-                     Part III  Conference Agreements
+                     Part III Conference Agreements
 
     Does the agreement authorize the parties to operate as a conference?
 
-Yes [squ]      No [squ]
+Yes [squ] No [squ]
 
-                    Part IV  Market Share Information
+                    Part IV Market Share Information
 
     Provide the market shares of all liner operators within the entire 
 geographic scope of the agreement and within each agreement sub-trade 
@@ -18403,18 +18411,18 @@ Agreement Market Share:
   Line A......................................        X,XXX          XX%
   Line B......................................        X,XXX          XX%
   Line C......................................        X,XXX          XX%
-                                               -------------------------
+                                               --------------
       Total Agreement Market Share............        X,XXX          XX%
 Non-Agreement Market Share:
   Line X......................................        X,XXX          XX%
   Line Y......................................        X,XXX          XX%
   Line Z......................................        X,XXX          XX%
-                                               -------------------------
+                                               --------------
       Total Non-Agreement Market Share........        X,XXX          XX%
       Total Market............................        X,XXX         100%
 ------------------------------------------------------------------------
 
-            Part V  Cargo and Revenue Results Agreement-Wide
+             Part V Cargo and Revenue Results Agreement-Wide
 
     For each agreement member line, provide total cargo carryings 
 (measured in TEUs or other unit of measurement) during the calendar 
@@ -18432,13 +18440,13 @@ information should be provided in the format below:
                                       measurement                 of
                                                              measurement
 ------------------------------------------------------------------------
-A...................................  ...........   $           $
-B...................................  ...........   $           $
-C...................................  ...........   $           $
-Etc.................................  ...........   $           $
+A...................................  ...........         $           $
+B...................................  ...........         $           $
+C...................................  ...........         $           $
+Etc.................................  ...........         $           $
 ------------------------------------------------------------------------
 
-                      Part VI  Leading Commodities
+                       Part VI Leading Commodities
 
     For each sub-trade within the scope of the agreement, list the top 
 10 commodities carried by all the parties during the calendar quarter, 
@@ -18456,7 +18464,7 @@ I. Sub-trade
 II. Sub-trade
     A. First leading commodity etc.
 
-            Part VIII  Cargo and Revenue Results by Sub-Trade
+            Part VIII Cargo and Revenue Results by Sub-Trade
 
     For each sub-trade within the scope of the agreement, and for each 
 of the leading commodities listed for each sub-trade in the response to 
@@ -18482,7 +18490,7 @@ II. Sub-trade B
     A. First leading commodity
     1. etc.
 
-           Part VIII  Independent Rate Actions (if applicable)
+           Part VIII Independent Rate Actions (if applicable)
 
     For each sub-trade within the scope of the agreement, and for each 
 of the leading commodities listed for each sub-trade in the response to 
@@ -18515,7 +18523,7 @@ II. Sub-trade B
     A. First leading commodity
     1. etc.
 
-                          Part IX  Port Service
+                          Part IX Port Service
 
     For each party, state any change in the nature or type of service 
 (such as base port designation, frequency of vessel calls, use of 
@@ -18699,17 +18707,17 @@ agreement.
  Agreement Number_______________________________________________________
 (Assigned by FMC)
 
-                            Part I  Agreement
+                            Part I Agreement
 
 Name:
 ________________________________________________________________________
 
-                        Part II  Other Agreements
+                        Part II Other Agreements
 
     Indicate any change occurring during the calendar quarter to the 
 list of other agreements set forth in Part II of the Information Form.
 
-                   Part III  Market Share Information
+                    Part III Market Share Information
 
     Provide the market shares of all liner operators within the entire 
 geographic scope of the agreement and within each sub-trade during the 
@@ -18728,19 +18736,19 @@ Agreement Market Share:
 Line A..........................................       X,XXX          XX
 Line B..........................................       X,XXX          XX
 Line C..........................................       X,XXX          XX
-                                                 -----------------------
+                                                 --------------
   Total Agreement Market Share..................       X,XXX          XX
-                                                 =======================
+                                                 ==============
 Non-Agreement Market Share:
 Line X..........................................       X,XXX          XX
 Line Y..........................................       X,XXX          XX
 Line Z..........................................       X,XXX          XX
-                                                 -----------------------
+                                                 --------------
   Total Non-Agreement Market Share..............       X,XXX          XX
   Total Market..................................       X,XXX         100
 ------------------------------------------------------------------------
 
-            Part IV  Cargo and Revenue Results Agreement-Wide
+            Part IV Cargo and Revenue Results Agreement-Wide
 
     For each agreement member line, provide total cargo carryings 
 (measured in TEUs or other unit of measurement) during the calendar 
@@ -18758,13 +18766,13 @@ information should be provided in the format below:
                                       measurement                 of
                                                              measurement
 ------------------------------------------------------------------------
-A...................................  ...........   $           $
-B...................................  ...........   $           $
-C...................................  ...........   $           $
-Etc.................................  ...........   $           $
+A...................................  ...........         $           $
+B...................................  ...........         $           $
+C...................................  ...........         $           $
+Etc.................................  ...........         $           $
 ------------------------------------------------------------------------
 
-                          Part V  Port Service
+                           Part V Port Service
 
     For each party, state any change in the nature or type of service 
 (such as base port designation, frequency of vessel calls, use of 
@@ -18855,17 +18863,17 @@ agreement.
  Agreement Number_______________________________________________________
 (Assigned by FMC)
 
-                            Part I  Agreement
+                            Part I Agreement
 
 Name:
 ________________________________________________________________________
 
-                        Part II  Other Agreements
+                        Part II Other Agreements
 
     Indicate any change occurring during the calendar quarter to the 
 list of other agreements set forth in Part II of the Information Form.
 
-                         Part III  Port Service
+                          Part III Port Service
 
     For each party, state any change in the nature or type of service 
 (such as base port designation, frequency of vessel calls, use of 
@@ -18915,18 +18923,18 @@ Subpart A--Proof of Financial Responsibility, Bonding and Certification
                     Nonperformance of Transportation
 
 Sec.
-540.1  Scope.
-540.2  Definitions.
-540.3  Proof of financial responsibility, when required.
-540.4  Procedure for establishing financial responsibility.
-540.5  Insurance, guaranties, and escrow accounts.
-540.6  Surety bonds.
+540.1 Scope.
+540.2 Definitions.
+540.3 Proof of financial responsibility, when required.
+540.4 Procedure for establishing financial responsibility.
+540.5 Insurance, guaranties, and escrow accounts.
+540.6 Surety bonds.
 
 [[Page 225]]
 
-540.7  Evidence of financial responsibility.
-540.8  Denial, revocation, suspension, or modification.
-540.9  Miscellaneous.
+540.7 Evidence of financial responsibility.
+540.8 Denial, revocation, suspension, or modification.
+540.9 Miscellaneous.
 
 Form FMC-131
 Form FMC-132A
@@ -18938,22 +18946,22 @@ Subpart B--Proof of Financial Responsibility, Bonding and Certification
   of Financial Responsibility To Meet Liability Incurred for Death or 
             Injury to Passengers or Other Persons on Voyages
 
-540.20  Scope.
-540.21  Definitions.
-540.22  Proof of financial responsibility, when required.
-540.23  Procedure for establishing financial responsibility.
-540.24  Insurance, surety bonds, self-insurance, guaranties, and escrow 
+540.20 Scope.
+540.21 Definitions.
+540.22 Proof of financial responsibility, when required.
+540.23 Procedure for establishing financial responsibility.
+540.24 Insurance, surety bonds, self-insurance, guaranties, and escrow 
           accounts.
-540.25  Evidence of financial responsibility.
-540.26  Denial, revocation, suspension, or modification.
-540.27  Miscellaneous.
+540.25 Evidence of financial responsibility.
+540.26 Denial, revocation, suspension, or modification.
+540.27 Miscellaneous.
 
 Form FMC-132B
 Form FMC-133B
 
                            Subpart C--General
 
-540.91  OMB control numbers assigned pursuant to the Paperwork Reduction 
+540.91 OMB control numbers assigned pursuant to the Paperwork Reduction 
           Act.
 
     Authority: 5 U.S.C. 552, 553; 31 U.S.C. 9701; secs. 2 and 3, Pub. L. 
@@ -19321,14 +19329,14 @@ obtained the requisite Certificate (Performance) from the Commission.
     In compliance with the provisions of Public Law 89-777 and 46 CFR 
 part 540, application is hereby made for a Certificate of Financial 
 Responsibility (check one or both as applicable):
-    [  ] for indemnification of passengers for nonperformance. [  ] 
-Initial application [  ] Certificate has previously been applied for (if
+    [ ] for indemnification of passengers for nonperformance. [ ] 
+Initial application [ ] Certificate has previously been applied for (if
 
 [[Page 230]]
 
 so, give date of application and action taken thereon).
-    [  ] to meet liability incurred for death or injury to passengers or 
-other persons. [  ] Initial application [  ] Certificate has previously 
+    [ ] to meet liability incurred for death or injury to passengers or 
+other persons. [ ] Initial application [ ] Certificate has previously 
 been applied for (if so, give date of application and action taken 
 thereon).
 
@@ -19381,7 +19389,7 @@ only if applying as a self-insurer under part II or part III).
 
     4. In relation to the passenger transportation engaged in by you to 
 or from U.S. ports:
-    Do you own all the vessels? [  ] Yes [  ] No (If ``No'' indicate the 
+    Do you own all the vessels? [ ] Yes [ ] No (If ``No'' indicate the 
 nature of the arrangements under which those not owned by you are 
 available to you (e.g., bareboat, time, voyage, or other charter, or 
 arrangement).)
@@ -19431,10 +19439,10 @@ this question.
 
     10. Items 11-14 are optional methods; answer only the one item which 
 is applicable to this application. Check the appropriate box below:
-    [  ] Insurance (item 11).
-    [  ] Escrow (item 12).
-    [  ] Surety bond (item 13).
-    [  ] Guaranty (item 14).
+    [ ] Insurance (item 11).
+    [ ] Escrow (item 12).
+    [ ] Surety bond (item 13).
+    [ ] Guaranty (item 14).
     11. (a) Total amount of performance insurance which is to be 
 computed in accordance with 46 CFR 540.5. (Evidence of insurance
 
@@ -19525,10 +19533,10 @@ accompanying schedules and statements, and to the best of my knowledge
 and belief, it is true, correct and complete.
 
  By_____________________________________________________________________
-          (Signature of official)
+     (Signature of official)
 
 ________________________________________________________________________
-                    (Date)
+     (Date)
 Comments:
 
 [49 FR 36313, Sept. 14, 1984, as amended at 55 FR 34568, Aug. 23, 1990; 
@@ -19611,16 +19619,16 @@ instrument on ---- day of --------, 19--.
                                 PRINCIPAL
 
  Name___________________________________________________________________
-   By___________________________________________________________________
-          (Signature and title)
+ By_____________________________________________________________________
+     (Signature and title)
 
  Witness________________________________________________________________
 
                                  SURETY
 
-   [SEAL] Name__________________________________________________________
+ [SEAL] Name____________________________________________________________
  By_____________________________________________________________________
-          (Signature and title)
+     (Signature and title)
 
  Witness________________________________________________________________
     Only corporations or associations of individual insurers may qualify 
@@ -19708,19 +19716,19 @@ for the Protection of the Public.''
 
 ________________________________________________________________________
 
-          (Place and Date of Execution)
+     (Place and Date of Execution)
 
 ________________________________________________________________________
 
-          (Type Name of Guarantor)
+     (Type Name of Guarantor)
 
 ________________________________________________________________________
 
-          (Type Address of Guarantor)
+     (Type Address of Guarantor)
 
  By_____________________________________________________________________
 
-          (Signature and Title)
+     (Signature and Title)
 
 [[Page 234]]
 
@@ -19997,7 +20005,6 @@ Five thousand dollars for each passenger accommodation in excess of
 1,500;
 
 
-
 Except that, if the applicant is operating more than one vessel subject 
 to this subpart, the amount prescribed by this paragraph shall be based 
 upon the number of passenger accommodations on the vessel being so 
@@ -20055,13 +20062,13 @@ statement of income and surplus;
     (3) An annual current balance sheet and an annual current statement 
 of income and surplus to be certified by appropriate certified public 
 accountants;
+    (4) An annual current statement of the book value or current market 
+value of any assets physically located within
 
 [[Page 238]]
 
-    (4) An annual current statement of the book value or current market 
-value of any assets physically located within the United States together 
-with a certification as to the existence and amount of any encumbrances 
-thereon;
+the United States together with a certification as to the existence and 
+amount of any encumbrances thereon;
     (5) An annual current credit rating report by Dun and Bradstreet or 
 any similar concern found acceptable to the Commission;
     (6) A list of all contractual requirements or other encumbrances 
@@ -20137,11 +20144,11 @@ the requirements of this subpart, or for any reason, fails to provide
 adequate or satisfactory protection to the public, the Commission will 
 notify the applicant stating the deficiencies thereof.
     (b) Any financial evidence submitted to the Commission under the 
-rules of this subpart shall be written in the full
+rules of this subpart shall be written in the full and correct name of 
+the person to whom the Certificate (Casualty) is to
 
 [[Page 239]]
 
-and correct name of the person to whom the Certificate (Casualty) is to 
 be issued, and in case of a partnership, all partners shall be named.
     (c) The Commission's bond (Form FMC-132B), guaranty (Form FMC-133B), 
 and application (Form FMC-131 as set forth in subpart A of this part) 
@@ -20219,15 +20226,16 @@ described.
     Now, therefore, the condition of this obligation is such that if the 
 Principal shall pay or cause to be paid to passengers or other persons 
 any sum or sums for which the Principal may be held legally liable by 
-reason of the Principal's failure faithfully to meet any
+reason of the Principal's failure faithfully to meet any liability the 
+Principal may incur for death or
 
 [[Page 240]]
 
-liability the Principal may incur for death or injury to passengers or 
-other persons on voyages to or from U.S. ports, while this bond is in 
-effect pursuant to and in accordance with the provisions of subpart B of 
-part 540 of title 46, Code of Federal Regulations, then this obligation 
-shall be void, otherwise, to remain in full force and effect.
+injury to passengers or other persons on voyages to or from U.S. ports, 
+while this bond is in effect pursuant to and in accordance with the 
+provisions of subpart B of part 540 of title 46, Code of Federal 
+Regulations, then this obligation shall be void, otherwise, to remain in 
+full force and effect.
     The liability of the Surety with respect to any passenger or other 
 persons shall in no event exceed the amount of the Principal's legal 
 liability under any final judgment or settlement agreement, except that, 
@@ -20262,7 +20270,7 @@ instrument on the ---- day of --------, 19--.
  Name___________________________________________________________________
  By_____________________________________________________________________
 
-          (Signature and title)
+     (Signature and title)
 
  Witness________________________________________________________________
 
@@ -20271,7 +20279,7 @@ instrument on the ---- day of --------, 19--.
  Name___________________________________________________________________
  By [SEAL]______________________________________________________________
 
-          (Signature and title)
+     (Signature and title)
 
  Witness________________________________________________________________
 
@@ -20366,19 +20374,19 @@ section 2 of the Pub. L 89-777 (80 Stat. 1357, 1358), entitled
 
 ________________________________________________________________________
 
-        (Place and Date of Execution)
+     (Place and Date of Execution)
 
 ________________________________________________________________________
 
-          (Name and Guarantor)
+     (Name and Guarantor)
 
 ________________________________________________________________________
 
-          (Address of Guarantor)
+     (Address of Guarantor)
 
  By_____________________________________________________________________
 
-          (Name and Title)
+     (Name and Title)
 
                Schedule of Vessels Referred to in Clause 1
 
@@ -20424,13 +20432,12 @@ PART 545--INTERPRETATIONS AND STATEMENTS OF POLICY--Table of Contents
 
 
 Sec.
-545.1  Interpretation of Shipping Act of 1984--Refusal to negotiate with 
+545.1 Interpretation of Shipping Act of 1984--Refusal to negotiate with 
           shippers' associations.
-545.2  Interpretation of Shipping Act of 1984--Unpaid ocean freight 
+545.2 Interpretation of Shipping Act of 1984--Unpaid ocean freight 
           charges.
-545.3  Interpretation of Sec. 515.23(b) of this chapter--Payment 
-          pursuant to a claim against an ocean transportation 
-          intermediary.
+545.3 Interpretation of Sec. 515.23(b) of this chapter--Payment pursuant 
+          to a claim against an ocean transportation intermediary.
 
     Authority: 5 U.S.C. 553; 46 U.S.C. app. 1706, 1707, 1709, 1716, and 
 1718; Pub. L. 105-383, 112 Stat. 3411; 46 CFR 515.23.
@@ -20498,8 +20505,6 @@ and subject matter of the claim.
   SUBCHAPTER C--REGULATIONS AND ACTIONS TO ADDRESS RESTRICTIVE FOREIGN 
                            MARITIME PRACTICES
 
-<R05>
-
 
 <R03>
 PART 550--REGULATIONS TO ADJUST OR MEET CONDITIONS UNFAVORABLE TO SHIPPING IN THE FOREIGN TRADE OF THE UNITED STATES--Table of Contents
@@ -20510,44 +20515,44 @@ PART 550--REGULATIONS TO ADJUST OR MEET CONDITIONS UNFAVORABLE TO SHIPPING IN TH
                       Subpart A--General Provisions
 
 Sec.
-550.101  Purpose.
-550.102  Scope.
-550.103  Definitions.
-550.104  Confidentiality.
-550.105  Consultation.
+550.101 Purpose.
+550.102 Scope.
+550.103 Definitions.
+550.104 Confidentiality.
+550.105 Consultation.
 
                   Subpart B--Production of Information
 
-550.201  Information orders.
-550.202  Type of information.
-550.203  Failure to provide information.
+550.201 Information orders.
+550.202 Type of information.
+550.203 Failure to provide information.
 
               Subpart C--Conditions Unfavorable to Shipping
 
-550.301  Findings.
+550.301 Findings.
 
                Subpart D--Petitions For Section 19 Relief
 
-550.401  Who may file.
-550.402  Filing of petitions.
-550.403  Contents of petitions.
-550.404  Amendment or dismissal of petitions.
+550.401 Who may file.
+550.402 Filing of petitions.
+550.403 Contents of petitions.
+550.404 Amendment or dismissal of petitions.
 
                          Subpart E--Proceedings
 
-550.501  Participation of interested persons.
-550.502  Discovery.
-550.503  Subpoenas.
-550.504  Witness fees.
-550.505  Failure to supply information.
-550.506  Enforcement of orders.
-550.507  Postponement, discontinuance, or suspension of action.
-550.508  Publication, content, and effective date of regulation.
+550.501 Participation of interested persons.
+550.502 Discovery.
+550.503 Subpoenas.
+550.504 Witness fees.
+550.505 Failure to supply information.
+550.506 Enforcement of orders.
+550.507 Postponement, discontinuance, or suspension of action.
+550.508 Publication, content, and effective date of regulation.
 
                       Subpart F--Corrective Actions
 
-550.601  Actions to correct unfavorable conditions.
-550.602  Penalty.
+550.601 Actions to correct unfavorable conditions.
+550.602 Penalty.
 
     Authority: 5 U.S.C. 553; sec. 19 (a)(2), (e), (f), (g), (h), (i), 
 (j), (k) and (l) of the Merchant Marine Act, 1920, 46 U.S.C. app. 876 
@@ -21034,7 +21039,7 @@ PART 551--ACTIONS TO ADJUST OR MEET CONDITIONS UNFAVORABLE TO SHIPPING IN THE U.
 
 
 Sec.
-551.1  Actions to adjust or meet conditions unfavorable to shipping in 
+551.1 Actions to adjust or meet conditions unfavorable to shipping in 
           specific trades.
 
     Authority: 46 U.S.C. app. 876(1)(b); 46 U.S.C. app. 876 (5) through 
@@ -21070,17 +21075,17 @@ PART 555--ACTIONS TO ADDRESS ADVERSE CONDITIONS AFFECTING U.S.-FLAG CARRIERS THA
 
 
 Sec.
-555.1  Purpose.
-555.2  Definitions.
-555.3  Scope.
-555.4  Petitions.
-555.5  Investigations.
-555.6  Information demands and subpoenas.
-555.7  Notification to Secretary of State.
+555.1 Purpose.
+555.2 Definitions.
+555.3 Scope.
+555.4 Petitions.
+555.5 Investigations.
+555.6 Information demands and subpoenas.
+555.7 Notification to Secretary of State.
 
 [[Page 249]]
 
-555.8  Action against foreign carriers.
+555.8 Action against foreign carriers.
 
     Authority: 5 U.S.C. 553; sec. 10002 of the Foreign Shipping 
 Practices Act of 1988 (46 U.S.C. app. 1710a), as amended by Pub. L. 105-
@@ -21397,15 +21402,15 @@ PART 560--ACTIONS TO ADDRESS CONDITIONS UNDULY IMPAIRING ACCESS OF U.S.-FLAG VES
 
 
 Sec.
-560.1  Purpose; general provisions.
-560.2  Factors indicating conditions unduly impairing access.
-560.3  Petitions for relief.
-560.4  Proceeding.
-560.5  Receipt of relevant information.
-560.6  Notification to Secretary of State.
-560.7  Decision; sanctions; effective date.
-560.8  Submission of decision to the President.
-560.9  Postponement, discontinuance, or suspension of action.
+560.1 Purpose; general provisions.
+560.2 Factors indicating conditions unduly impairing access.
+560.3 Petitions for relief.
+560.4 Proceeding.
+560.5 Receipt of relevant information.
+560.6 Notification to Secretary of State.
+560.7 Decision; sanctions; effective date.
+560.8 Submission of decision to the President.
+560.9 Postponement, discontinuance, or suspension of action.
 
     Authority: 5 U.S.C. 553; secs. 13(b)(6), 15 and 17 of the Shipping 
 Act of 1984, 46 U.S.C. app. 1712(b)(6), 1714, and 1716, as amended by 
@@ -21764,21 +21769,21 @@ PART 565--CONTROLLED CARRIERS--Table of Contents
 
 
 Sec.
-565.1  Purpose and scope.
-565.2  Definitions.
-565.3  Classification as controlled carrier.
-565.4  Notification to Commission of change in control.
-565.5  Exceptions.
-565.6  Level of rates and charges generally.
-565.7  Effective dates.
-565.8  Special permission.
-565.9  Commission review, suspension and prohibition of rates, charges, 
+565.1 Purpose and scope.
+565.2 Definitions.
+565.3 Classification as controlled carrier.
+565.4 Notification to Commission of change in control.
+565.5 Exceptions.
+565.6 Level of rates and charges generally.
+565.7 Effective dates.
+565.8 Special permission.
+565.9 Commission review, suspension and prohibition of rates, charges, 
           classifications, rules or regulations.
-565.10  Suspension procedures, period of suspension, and replacement 
+565.10 Suspension procedures, period of suspension, and replacement 
           rates.
-565.11  Presidential review.
-565.12  Stay, postponement, discontinuance or suspension of action.
-565.13  OMB control number assigned pursuant to the Paperwork Reduction 
+565.11 Presidential review.
+565.12 Stay, postponement, discontinuance or suspension of action.
+565.13 OMB control number assigned pursuant to the Paperwork Reduction 
           Act
 
     Authority: 46 U.S.C. App. 1708, as amended by Pub. L. 105-258.
@@ -22075,16 +22080,14 @@ In accordance with that Act, agencies are required to display a
 currently valid control number. The valid control number for this 
 collection of information is 3072-0060.
 
-[[Page 261]]
-
 
 <R03>
    SUBCHAPTER D--REGULATIONS AFFECTING MARITIME CARRIERS AND RELATED 
                 ACTIVITIES IN FOREIGN COMMERCE [RESERVED]
 
-<R05>
+
 
-[[Page 263]]
+[[Page 261]]
 
 
 <R02>
@@ -22106,7 +22109,7 @@ which is published separately and revised annually.
 
 
 
-[[Page 265]]
+[[Page 263]]
 
 
 <R03>
@@ -22115,7 +22118,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2002)
+                     (Revised as of October 1, 2003)
 
                       Title 1--General Provisions
 
@@ -22124,7 +22127,7 @@ which is published separately and revised annually.
         II  Office of the Federal Register (Parts 50--299)
         IV  Miscellaneous Agencies (Parts 400--500)
 
-                          Title 2  [Reserved]
+                          Title 2 [Reserved]
 
                         Title 3--The President
 
@@ -22159,7 +22162,7 @@ which is published separately and revised annually.
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
 
-[[Page 266]]
+[[Page 264]]
 
     XXVIII  Department of Justice (Part 3801)
       XXIX  Federal Communications Commission (Parts 3900--3999)
@@ -22180,6 +22183,8 @@ which is published separately and revised annually.
        LII  Export-Import Bank of the United States (Part 6201)
       LIII  Department of Education (Parts 6300--6399)
        LIV  Environmental Protection Agency (Part 6401)
+        LV  National Endowment for the Arts (Part 6501)
+       LVI  National Endowment for the Humanitiess (Part 6601)
       LVII  General Services Administration (Part 6701)
      LVIII  Board of Governors of the Federal Reserve System (Part 
                 6801)
@@ -22193,6 +22198,7 @@ which is published separately and revised annually.
                 7501)
       LXVI  National Archives and Records Administration (Part 
                 7601)
+     LXVII  Institute of Museum and Library Services (Part 7701)
       LXIX  Tennessee Valley Authority (Part 7901)
       LXXI  Consumer Product Safety Commission (Part 8101)
     LXXIII  Department of Agriculture (Part 8301)
@@ -22201,9 +22207,12 @@ which is published separately and revised annually.
      LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
     LXXVII  Office of Management and Budget (Part 8701)
 
-                          Title 6  [Reserved]
+                      Title 6--Homeland Security
 
-              
+         I  Department of Homeland Security, Office of the 
+                Secretary (Parts 0--99)
+
+[[Page 265]]
 
                          Title 7--Agriculture
 
@@ -22214,9 +22223,6 @@ which is published separately and revised annually.
          I  Agricultural Marketing Service (Standards, 
                 Inspections, Marketing Practices), Department of 
                 Agriculture (Parts 27--209)
-
-[[Page 267]]
-
         II  Food and Nutrition Service, Department of Agriculture 
                 (Parts 210--299)
        III  Animal and Plant Health Inspection Service, Department 
@@ -22253,6 +22259,8 @@ which is published separately and revised annually.
                 Service, Rural Utilities Service, and Farm Service 
                 Agency, Department of Agriculture (Parts 1800--
                 2099)
+        XX  Local Television Loan Guarantee Board (Parts 2200--
+                2299)
       XXVI  Office of Inspector General, Department of Agriculture 
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
@@ -22263,6 +22271,9 @@ which is published separately and revised annually.
                 2900--2999)
        XXX  Office of the Chief Financial Officer, Department of 
                 Agriculture (Parts 3000--3099)
+
+[[Page 266]]
+
       XXXI  Office of Environmental Quality, Department of 
                 Agriculture (Parts 3100--3199)
      XXXII  Office of Procurement and Property Management, 
@@ -22272,9 +22283,6 @@ which is published separately and revised annually.
      XXXIV  Cooperative State Research, Education, and Extension 
                 Service, Department of Agriculture (Parts 3400--
                 3499)
-
-[[Page 268]]
-
       XXXV  Rural Housing Service, Department of Agriculture 
                 (Parts 3500--3599)
      XXXVI  National Agricultural Statistics Service, Department 
@@ -22290,8 +22298,10 @@ which is published separately and revised annually.
 
                     Title 8--Aliens and Nationality
 
-         I  Immigration and Naturalization Service, Department of 
-                Justice (Parts 1--599)
+         I  Department of Homeland Security (Immigration and 
+                Naturalization) (Parts 1--599)
+         V  Executive Office for Immigration Review, Department of 
+                Justice (Parts 1000--1400)
 
                  Title 9--Animals and Animal Products
 
@@ -22315,6 +22325,8 @@ which is published separately and revised annually.
      XVIII  Northeast Interstate Low-Level Radioactive Waste 
                 Commission (Part 1800)
 
+[[Page 267]]
+
                       Title 11--Federal Elections
 
          I  Federal Election Commission (Parts 1--9099)
@@ -22327,9 +22339,6 @@ which is published separately and revised annually.
        III  Federal Deposit Insurance Corporation (Parts 300--399)
         IV  Export-Import Bank of the United States (Parts 400--
                 499)
-
-[[Page 269]]
-
          V  Office of Thrift Supervision, Department of the 
                 Treasury (Parts 500--599)
         VI  Farm Credit Administration (Parts 600--699)
@@ -22374,6 +22383,9 @@ which is published separately and revised annually.
 
             Subtitle A--Office of the Secretary of Commerce (Parts 
                 0--29)
+
+[[Page 268]]
+
             Subtitle B--Regulations Relating to Commerce and 
                 Foreign Trade
          I  Bureau of the Census, Department of Commerce (Parts 
@@ -22384,9 +22396,6 @@ which is published separately and revised annually.
                 Commerce (Parts 300--399)
         IV  Foreign-Trade Zones Board, Department of Commerce 
                 (Parts 400--499)
-
-[[Page 270]]
-
        VII  Bureau of Industry and Security, Department of 
                 Commerce (Parts 700--799)
       VIII  Bureau of Economic Analysis, Department of Commerce 
@@ -22428,16 +22437,19 @@ which is published separately and revised annually.
       VIII  Susquehanna River Basin Commission (Parts 800--899)
       XIII  Tennessee Valley Authority (Parts 1300--1399)
 
+[[Page 269]]
+
                        Title 19--Customs Duties
 
-         I  United States Customs Service, Department of the 
-                Treasury (Parts 1--199)
+         I  Bureau of Customs and Border Protection, Department of 
+                Homeland Security; Department of the Treasury 
+                (Parts 0--199)
         II  United States International Trade Commission (Parts 
                 200--299)
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
-
-[[Page 271]]
+        IV  Bureau of Immigration and Customs Enforcement, 
+                Department of Homeland Security (Parts 400--599)
 
                      Title 20--Employees' Benefits
 
@@ -22485,6 +22497,9 @@ which is published separately and revised annually.
                 1100--1199)
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
+
+[[Page 270]]
+
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
@@ -22493,8 +22508,6 @@ which is published separately and revised annually.
        XVI  Japan-United States Friendship Commission (Parts 1600-
                 -1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
-
-[[Page 272]]
 
                           Title 23--Highways
 
@@ -22543,6 +22556,9 @@ which is published separately and revised annually.
         IX  Office of Assistant Secretary for Public and Indian 
                 Housing, Department of Housing and Urban 
                 Development (Parts 900--1699)
+
+[[Page 271]]
+
          X  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Interstate Land Sales 
@@ -22554,8 +22570,6 @@ which is published separately and revised annually.
                 Urban Development (Parts 3200--3899)
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
-
-[[Page 273]]
 
                            Title 25--Indians
 
@@ -22582,12 +22596,14 @@ which is published separately and revised annually.
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
-         I  Bureau of Alcohol, Tobacco and Firearms, Department of 
-                the Treasury (Parts 1--299)
+         I  Alcohol and Tobacco Tax and Trade Bureau, Department 
+                of the Treasury (Parts 1--299)
+        II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
+                Department of Justice (Parts 400--699)
 
                    Title 28--Judicial Administration
 
-         I  Department of Justice (Parts 0--199)
+         I  Department of Justice (Parts 0--299)
        III  Federal Prison Industries, Inc., Department of Justice 
                 (Parts 300--399)
          V  Bureau of Prisons, Department of Justice (Parts 500--
@@ -22595,6 +22611,9 @@ which is published separately and revised annually.
         VI  Offices of Independent Counsel, Department of Justice 
                 (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
+
+[[Page 272]]
+
       VIII  Court Services and Offender Supervision Agency for the 
                 District of Columbia (Parts 800--899)
         IX  National Crime Prevention and Privacy Compact Council 
@@ -22611,9 +22630,6 @@ which is published separately and revised annually.
         II  Office of Labor-Management Standards, Department of 
                 Labor (Parts 200--299)
        III  National Railroad Adjustment Board (Parts 300--399)
-
-[[Page 274]]
-
         IV  Office of Labor-Management Standards, Department of 
                 Labor (Parts 400--499)
          V  Wage and Hour Division, Department of Labor (Parts 
@@ -22629,8 +22645,8 @@ which is published separately and revised annually.
                 Department of Labor (Parts 1900--1999)
         XX  Occupational Safety and Health Review Commission 
                 (Parts 2200--2499)
-       XXV  Pension and Welfare Benefits Administration, 
-                Department of Labor (Parts 2500--2599)
+       XXV  Employee Benefits Security Administration, Department 
+                of Labor (Parts 2500--2599)
      XXVII  Federal Mine Safety and Health Review Commission 
                 (Parts 2700--2799)
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
@@ -22653,6 +22669,9 @@ which is published separately and revised annually.
 
             Subtitle A--Office of the Secretary of the Treasury 
                 (Parts 0--50)
+
+[[Page 273]]
+
             Subtitle B--Regulations Relating to Money and Finance
          I  Monetary Offices, Department of the Treasury (Parts 
                 51--199)
@@ -22670,8 +22689,6 @@ which is published separately and revised annually.
                 Treasury (Parts 800--899)
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
-
-[[Page 275]]
 
                       Title 32--National Defense
 
@@ -22699,8 +22716,8 @@ which is published separately and revised annually.
 
                Title 33--Navigation and Navigable Waters
 
-         I  Coast Guard, Department of Transportation (Parts 1--
-                199)
+         I  Coast Guard, Department of Homeland Security (Parts 1-
+                -199)
         II  Corps of Engineers, Department of the Army (Parts 200-
                 -399)
         IV  Saint Lawrence Seaway Development Corporation, 
@@ -22710,6 +22727,9 @@ which is published separately and revised annually.
 
             Subtitle A--Office of the Secretary, Department of 
                 Education (Parts 1--99)
+
+[[Page 274]]
+
             Subtitle B--Regulations of the Offices of the 
                 Department of Education
          I  Office for Civil Rights, Department of Education 
@@ -22724,13 +22744,9 @@ which is published separately and revised annually.
                 Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
                 Education (Parts 600--699)
-       VII  Office of Educational Research and Improvement, 
-                Department of Education (Parts 700--799)
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
-
-[[Page 276]]
 
                         Title 35--Panama Canal
 
@@ -22770,6 +22786,8 @@ which is published separately and revised annually.
          V  Under Secretary for Technology, Department of Commerce 
                 (Parts 500--599)
 
+[[Page 275]]
+
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
          I  Department of Veterans Affairs (Parts 0--99)
@@ -22787,9 +22805,6 @@ which is published separately and revised annually.
          V  Council on Environmental Quality (Parts 1500--1599)
         VI  Chemical Safety and Hazard Investigation Board (Parts 
                 1600--1699)
-
-[[Page 277]]
-
        VII  Environmental Protection Agency and Department of 
                 Defense; Uniform National Discharge Standards for 
                 Vessels of the Armed Forces (Parts 1700--1799)
@@ -22829,10 +22844,13 @@ which is published separately and revised annually.
        300  General (Parts 300-1--300-99)
        301  Temporary Duty (TDY) Travel Allowances (Parts 301-1--
                 301-99)
+
+[[Page 276]]
+
        302  Relocation Allowances (Parts 302-1--302-99)
        303  Payment of Expenses Connected with the Death of 
                 Certain Employees (Part 303-70)
-       304  Payment from a Non-Federal Source for Travel Expenses 
+       304  Payment of Travel Expenses from a Non-Federal Source 
                 (Parts 304-1--304-99)
 
                         Title 42--Public Health
@@ -22843,8 +22861,6 @@ which is published separately and revised annually.
                 of Health and Human Services (Parts 400--499)
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
-
-[[Page 278]]
 
                    Title 43--Public Lands: Interior
 
@@ -22860,7 +22876,8 @@ which is published separately and revised annually.
 
              Title 44--Emergency Management and Assistance
 
-         I  Federal Emergency Management Agency (Parts 0--399)
+         I  Federal Emergency Management Agency, Department of 
+                Homeland Security (Parts 0--399)
         IV  Department of Commerce and Department of 
                 Transportation (Parts 400--499)
 
@@ -22882,6 +22899,9 @@ which is published separately and revised annually.
                 Human Services (Parts 400--499)
          V  Foreign Claims Settlement Commission of the United 
                 States, Department of Justice (Parts 500--599)
+
+[[Page 277]]
+
         VI  National Science Foundation (Parts 600--699)
        VII  Commission on Civil Rights (Parts 700--799)
       VIII  Office of Personnel Management (Parts 800--899)
@@ -22900,9 +22920,6 @@ which is published separately and revised annually.
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
-
-[[Page 279]]
-
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
@@ -22911,12 +22928,12 @@ which is published separately and revised annually.
 
                           Title 46--Shipping
 
-         I  Coast Guard, Department of Transportation (Parts 1--
-                199)
+         I  Coast Guard, Department of Homeland Security (Parts 1-
+                -199)
         II  Maritime Administration, Department of Transportation 
                 (Parts 200--399)
        III  Coast Guard (Great Lakes Pilotage), Department of 
-                Transportation (Parts 400--499)
+                Homeland Security (Parts 400--499)
         IV  Federal Maritime Commission (Parts 500--599)
 
                       Title 47--Telecommunication
@@ -22937,6 +22954,9 @@ which is published separately and revised annually.
          4  Department of Agriculture (Parts 400--499)
          5  General Services Administration (Parts 500--599)
          6  Department of State (Parts 600--699)
+
+[[Page 278]]
+
          7  United States Agency for International Development 
                 (Parts 700--799)
          8  Department of Veterans Affairs (Parts 800--899)
@@ -22954,9 +22974,6 @@ which is published separately and revised annually.
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
-
-[[Page 280]]
-
         21  Office of Personnel Management, Federal Employees 
                 Group Life Insurance Federal Acquisition 
                 Regulation (Parts 2100--2199)
@@ -22976,8 +22993,8 @@ which is published separately and revised annually.
                 5200--5299)
         53  Department of the Air Force Federal Acquisition 
                 Regulation Supplement (Parts 5300--5399)
-        54  Defense Logistics Agency, Department of Defense (Part 
-                5452)
+        54  Defense Logistics Agency, Department of Defense (Parts 
+                5400--5499)
         57  African Development Foundation (Parts 5700--5799)
         61  General Services Administration Board of Contract 
                 Appeals (Parts 6100--6199)
@@ -22986,6 +23003,8 @@ which is published separately and revised annually.
         99  Cost Accounting Standards Board, Office of Federal 
                 Procurement Policy, Office of Management and 
                 Budget (Parts 9900--9999)
+
+[[Page 279]]
 
                        Title 49--Transportation
 
@@ -22999,8 +23018,8 @@ which is published separately and revised annually.
                 Transportation (Parts 200--299)
        III  Federal Motor Carrier Safety Administration, 
                 Department of Transportation (Parts 300--399)
-        IV  Coast Guard, Department of Transportation (Parts 400--
-                499)
+        IV  Coast Guard, Department of Homeland Security (Parts 
+                400--499)
          V  National Highway Traffic Safety Administration, 
                 Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
@@ -23010,13 +23029,10 @@ which is published separately and revised annually.
       VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
-
-[[Page 281]]
-
         XI  Bureau of Transportation Statistics, Department of 
                 Transportation (Parts 1400--1499)
        XII  Transportation Security Administration, Department of 
-                Transportation (Parts 1500--1599)
+                Homeland Security (Parts 1500--1599)
 
                    Title 50--Wildlife and Fisheries
 
@@ -23048,7 +23064,7 @@ which is published separately and revised annually.
 
 
 
-[[Page 283]]
+[[Page 281]]
 
 
 
@@ -23059,7 +23075,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2002)
+                     (Revised as of October 1, 2003)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -23111,18 +23127,21 @@ Agriculture Department                            5, LXXIII
   World Agricultural Outlook Board                7, XXXVIII
 Air Force Department                              32, VII
   Federal Acquisition Regulation Supplement       48, 53
-Alcohol, Tobacco and Firearms, Bureau of          27, I
+Air Transportation Stabilization Board            14, VI
+Alcohol and Tobacco Tax and Trade Bureau          27, I
+Alcohol, Tobacco, Firearms, and Explosives,       27, II
+     Bureau of
 AMTRAK                                            49, VII
 American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
+
+[[Page 282]]
+
 Architectural and Transportation Barriers         36, XI
      Compliance Board
 Arctic Research Commission                        45, XXIII
-
-[[Page 284]]
-
 Armed Forces Retirement Home                      5, XI
 Army Department                                   32, V
   Engineers, Corps of                             33, II; 36, III
@@ -23187,15 +23206,15 @@ Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
 Court Services and Offender Supervision Agency    28, VIII
      for the District of Columbia
-Customs Service, United States                    19, I
+Customs and Border Protection Bureau              19, I
 Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
+
+[[Page 283]]
+
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
-
-[[Page 285]]
-
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
   Defense Intelligence Agency                     32, I
@@ -23235,6 +23254,7 @@ Educational Research and Improvement, Office of   34, VII
 Elementary and Secondary Education, Office of     34, II
 Emergency Oil and Gas Guaranteed Loan Board       13, V
 Emergency Steel Guarantee Loan Board              13, IV
+Employee Benefits Security Administration         29, XXV
 Employees' Compensation Appeals Board             20, IV
 Employees Loyalty Board                           5, V
 Employment and Training Administration            20, V
@@ -23263,13 +23283,13 @@ Executive Office of the President                 3, I
   National Security Council                       32, XXI; 47, 2
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
+
+[[Page 284]]
+
   Trade Representative, Office of the United      15, XX
        States
 Export-Import Bank of the United States           5, LII; 12, IV
 Family Assistance, Office of                      45, II
-
-[[Page 286]]
-
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
 Farm Service Agency                               7, VII, XVIII
@@ -23338,12 +23358,12 @@ General Accounting Office                         4, I
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
+
+[[Page 285]]
+
   Federal Management Regulation                   41, 102
-  Federal Property Management Regulation          41, 101
+  Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
-
-[[Page 287]]
-
   General                                         41, 300
   Payment From a Non-Federal Source for Travel    41, 304
        Expenses
@@ -23366,10 +23386,18 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
   Human Development Services, Office of           45, XIII
-  Indian Health Service                           25, V
+  Indian Health Service                           25, V; 42, I
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
+Homeland Security, Department of                  6, I
+  Coast Guard                                     33, I; 46, I; 49, IV
+  Coast Guard (Great Lakes Pilotage)              46, III
+  Customs and Border Protection Bureau            19, I
+  Federal Emergency Management Agency             44, I
+  Immigration and Customs Enforcement Bureau      19, IV
+  Immigration and Naturalization                  8, I
+  Transportation Security Administration          49, XII
 Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
   Community Planning and Development, Office of   24, V, VI
        Assistant Secretary for
@@ -23392,18 +23420,23 @@ Housing--Federal Housing Commissioner, Office of  24, II, VIII, X, XX
 Housing, Office of, and Multifamily Housing       24, IV
      Assistance Restructuring, Office of
 Human Development Services, Office of             45, XIII
-Immigration and Naturalization Service            8, I
+Immigration and Customs Enforcement Bureau        19, IV
+Immigration and Naturalization                    8, I
+Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
 Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
      Secretary
 Indian Arts and Crafts Board                      25, II
-Indian Health Service                             25, V
+Indian Health Service                             25, V; 42, I
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
      Archives and Records Administration
 Inspector General
+
+[[Page 286]]
+
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
   Housing and Urban Development Department        24, XII
@@ -23418,9 +23451,6 @@ Interior Department
   Fish and Wildlife Service, United States        50, I, IV
   Geological Survey                               30, IV
   Indian Affairs, Bureau of                       25, I, V
-
-[[Page 288]]
-
   Indian Affairs, Office of the Assistant         25, VI
        Secretary
   Indian Arts and Crafts Board                    25, II
@@ -23457,18 +23487,21 @@ Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
 Justice Department                                5, XXVIII; 28, I, XI; 40, 
                                                   IV
+  Alcohol, Tobacco, Firearms, and Explosives,     27, II
+       Bureau of
   Drug Enforcement Administration                 21, II
   Federal Acquisition Regulation                  48, 28
   Federal Claims Collection Standards             31, IX
   Federal Prison Industries, Inc.                 28, III
   Foreign Claims Settlement Commission of the     45, V
        United States
-  Immigration and Naturalization Service          8, I
+  Immigration Review, Executive Office for        8, V
   Offices of Independent Counsel                  28, VI
   Prisons, Bureau of                              28, V
   Property Management Regulations                 41, 128
 Labor Department                                  5, XLII
   Benefits Review Board                           20, VII
+  Employee Benefits Security Administration       29, XXV
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
   Employment Standards Administration             20, VI
@@ -23479,9 +23512,11 @@ Labor Department                                  5, XLII
   Labor-Management Standards, Office of           29, II, IV
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
-  Pension and Welfare Benefits Administration     29, XXV
   Public Contracts                                41, 50
   Secretary of Labor, Office of                   29, Subtitle A
+
+[[Page 287]]
+
   Veterans' Employment and Training Service,      41, 61; 20, IX
        Office of the Assistant Secretary for
   Wage and Hour Division                          29, V
@@ -23491,14 +23526,12 @@ Land Management, Bureau of                        43, II
 Legal Services Corporation                        45, XVI
 Library of Congress                               36, VII
   Copyright Office                                37, II
+Local Television Loan Guarantee Board             7, XX
 Management and Budget, Office of                  5, III, LXXVII; 14, VI; 
                                                   48, 99
 Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
 Merit Systems Protection Board                    5, II
-
-[[Page 289]]
-
 Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
@@ -23555,7 +23588,9 @@ Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Interstate Low-Level Radioactive Waste  10, XVIII
-     Commission
+   Commission
+[[Page 288]]
+
 Nuclear Regulatory Commission                     5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
@@ -23570,12 +23605,9 @@ Patent and Trademark Office, United States        37, I
 Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
-   Certain Employees
-[[Page 290]]
-
+     Certain Employees
 Peace Corps                                       22, III
 Pennsylvania Avenue Development Corporation       36, IX
-Pension and Welfare Benefits Administration       29, XXV
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
   Federal Acquisition Regulation                  48, 17
@@ -23632,55 +23664,18 @@ Surface Transportation Board                      49, X
 Susquehanna River Basin Commission                18, VIII
 Technology Administration                         15, XI
 Technology Policy, Assistant Secretary for        37, IV
+
+[[Page 289]]
+
 Technology, Under Secretary for                   37, V
 Tennessee Valley Authority                        5, LXIX; 18, XIII
 Thrift Supervision Office, Department of the      12, V
      Treasury
 Trade Representative, United States, Office of    15, XX
 Transportation, Department of                     5, L
-  Coast Guard                                     33, I; 46, I; 49, IV
-  Coast Guard (Great Lakes Pilotage)              46, III
   Commercial Space Transportation                 14, III
   Contract Appeals, Board of                      48, 63
   Emergency Management and Assistance             44, IV
   Federal Acquisition Regulation                  48, 12
-  Federal Aviation Administration                 14, I
-  Federal Highway Administration                  23, I, II
-
-[[Page 291]]
-
-  Federal Motor Carrier Safety Administration     49, III
-  Federal Railroad Administration                 49, II
-  Federal Transit Administration                  49, VI
-  Maritime Administration                         46, II
-  National Highway Traffic Safety Administration  23, II, III; 49, V
-  Research and Special Programs Administration    49, I
-  Saint Lawrence Seaway Development Corporation   33, IV
-  Secretary of Transportation, Office of          14, II; 49, Subtitle A
-  Surface Transportation Board                    49, X
-  Transportation Security Administration          49, XII
-  Transportation Statistics Bureau                49, XI
-Transportation, Office of                         7, XXXIII
-Transportation Security Administration            49, XII
-Transportation Statistics Bureau                  49, XI
-Travel Allowances, Temporary Duty (TDY)           41, 301
-Treasury Department                               5, XXI; 12, XV; 17, IV; 
-                                                  31, IX
-  Alcohol, Tobacco and Firearms, Bureau of        27, I
-  Community Development Financial Institutions    12, XVIII
-       Fund
-  Comptroller of the Currency                     12, I
-  Customs Service, United States                  19, I
-  Engraving and Printing, Bureau of               31, VI
-  Federal Acquisition Regulation                  48, 10
-  Federal Law Enforcement Training Center         31, VII
-  Fiscal Service                                  31, II
-  Foreign Assets Control, Office of               31, V
-  Internal Revenue Service                        26, I
-  International Investment, Office of             31, VIII
-  Monetary Offices                                31, I
-  Secret Service                                  31, IV
-  Secretary of the Treasury, Office of            31, Subtitle A
-  Thrift Supervision, Office of                   12, V
-Truman, Harry S. Scholarship Foundation          
+  Federal Avi
 </pre></body></html>
