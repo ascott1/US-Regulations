@@ -1,52 +1,84 @@
 <html><body><pre>
 [Title 6 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2004 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2005 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-
+          
 <R02>
-                    6
+          6
 
-                         As of January 1, 2004
-
-Homeland Security
-
-<R03>
+                         As of January 1, 2005
 
 
+          Homeland Security
+          
+          <R03>
+
+
+________________________
 
           Containing a codification of documents of general 
           applicability and future effect
-          As of January 1, 2004
-          With Ancillaries
-          Published by
-          Office of the Federal Register
-          National Archives and Records
-          Administration
 
-A Special Edition of the Federal Register
+          As of January 1, 2005
+          With Ancillaries
+                    Published by
+                    Office of the Federal Register
+                    National Archives and Records
+                    Administration
+                    A Special Edition of the Federal Register
 
 [[Page ii]]
 
+          U.S. GOVERNMENT OFFICIAL EDITION NOTICE
 
+          Legal Status and Use of Seals and Logos
+          <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+          
+          The seal of the National Archives and Records Administration 
+              (NARA) authenticates the Code of Federal Regulations (CFR) as 
+              the official codification of Federal regulations established 
+              under the Federal Register Act. Under the provisions of 44 
+              U.S.C. 1507, the contents of the CFR, a special edition of the 
+              Federal Register, shall be judicially noticed. The CFR is 
+              prima facie evidence of the original documents published in 
+              the Federal Register (44 U.S.C. 1510).
 
+          It is prohibited to use NARA's official seal and the stylized Code 
+              of Federal Regulations logo on any republication of this 
+              material without the express, written permission of the 
+              Archivist of the United States or the Archivist's designee. 
+              Any person using NARA's official seals and logos in a manner 
+              inconsistent with the provisions of 36 CFR part 1200 is 
+              subject to the penalties specified in 18 U.S.C. 506, 701, and 
+              1017.
 
+          Use of ISBN Prefix
 
+          This is the Official U.S. Government edition of this publication 
+              and is herein identified to certify its authenticity. Use of 
+              the 0--16 ISBN prefix is for U.S. Government Printing Office 
+              Official Editions only. The Superintendent of Documents of the 
+              U.S. Government Printing Office requests that any reprinted 
+              edition clearly be labeled as a copy of the authentic work 
+              with a new ISBN.
 
-                     U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 2004
+              <GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
+              
+          U . S . G O V E R N M E N T P R I N T I N G O F F I C E
 
+          ------------------------------------------------------------------
 
+          U.S. Superintendent of Documents <bullet> Washington, DC 20402-
+              0001
 
-  For sale by the Superintendent of Documents, U.S. Government Printing 
-                                  Office
-  Internet: bookstore.gpo.gov Phone: toll free (866) 512-1800; DC area 
-                              (202) 512-1800
-      Fax: (202) 512-2250 Mail: Stop SSOP, Washington, DC 20402-0001
+          http://bookstore.gpo.gov
+
+          Phone: toll-free (866) 512-1800; DC area (202) 512-1800
 
 [[Page iii]]
 
@@ -64,23 +96,23 @@ A Special Edition of the Federal Register
           Chapter I--Department of Homeland Security, Office 
           of the Secretary                                           3
   Finding Aids:
-      Table of CFR Titles and Chapters........................      91
-      Alphabetical List of Agencies Appearing in the CFR......     109
-      List of CFR Sections Affected...........................     119
+      Table of CFR Title and Chapters.........................     101
+      Alphabetical List of Agencies Appearing in the CFR......     119
+      List of CFR Sections Affected...........................     129
 
 [[Page iv]]
 
 
-
+      
 
 
                      ----------------------------
 
-                     Cite this Code: CFR
+                     Cite this Code:  CFR
                      To cite the regulations in 
                        this volume use title, 
                        part and section number. 
-                       Thus,  6 CFR 5.1 refers to 
+                       Thus, 6 CFR 5.1 refers to 
                        title 6, part 5, section 
                        1.
 
@@ -122,7 +154,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2004), consult the ``List of CFR 
+revision date (in this case, January 1, 2005), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -184,8 +216,8 @@ the revision dates of the 50 CFR titles.
 
 REPUBLICATION OF MATERIAL
 
-    There are no restrictions on the republication of material appearing 
-in the Code of Federal Regulations.
+    There are no restrictions on the republication of textual material 
+appearing in the Code of Federal Regulations.
 
 INQUIRIES
 
@@ -195,12 +227,12 @@ the top of odd-numbered pages.
     For inquiries concerning CFR reference assistance, call 202-741-6000 
 or write to the Director, Office of the Federal Register, National 
 Archives and Records Administration, Washington, DC 20408 or e-mail 
-info@fedreg.nara.gov.
+fedreg.info@nara.gov.
 
 SALES
 
     The Government Printing Office (GPO) processes all sales and 
-distribution of the CFR. For payment by credit card, call toll free, 
+distribution of the CFR. For payment by credit card, call toll-free, 
 866-512-1800, or DC area, 202-512-1800, M-F 8 a.m. to 4 p.m. e.s.t. or 
 fax your order to 202-512-2250, 24 hours a day. For payment by check, 
 write to the Superintendent of Documents, Attn: New Orders, P.O. Box 
@@ -230,7 +262,7 @@ register. The NARA site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-January 1, 2004.
+January 1, 2005.
 
 [[Page ix]]
 
@@ -244,12 +276,12 @@ Secretary. Chapter I contains the current Freedom of Information Act,
 Privacy Act and Classified National Security Information issued by the 
 Department of Homeland Security. The contents of this volume represent 
 all current regulations codified under this title of the CFR as of 
-January 1, 2004.
+January 1, 2005.
 
-[[Page x]]
-
-<GRAPHIC(S) NOT AVAILABLE IN TIFF FORMAT>
-
+    For this volume, Ruth Green was Chief Editor. The Code of Federal 
+Regulations publication program is under the direction of Frances D. 
+McDonald, assisted by Alomha S. Morris.
+
 
 [[Page 1]]
 
@@ -286,7 +318,7 @@ Part                                                                Page
                     of Homeland Security....................          44
 17              Nondiscrimination on the basis of sex in 
                     education programs or activities 
-                    receiving Federal financial assistance..          51
+                    receiving Federal financial assistance..          57
 21              Nondiscrimination on the basis of race, 
                     color, or national origin in programs or 
                     activities receiving Federal financial 
@@ -294,6 +326,8 @@ Part                                                                Page
                     Homeland Security.......................          68
 25              Regulations to support anti-terrorism by 
                     fostering effective technologies........          78
+29              Protected critical infrastructure 
+                    information.............................          88
 
 [[Page 5]]
 
@@ -307,55 +341,55 @@ PART 5--DISCLOSURE OF RECORDS AND INFORMATION--Table of Contents
                   Subpart A--Freedom of Information Act
 
 Sec.
-5.1 General provisions.
-5.2 Public reading rooms.
-5.3 Requirements for making requests.
-5.4 Responsibility for responding to requests.
-5.5 Timing of responses to requests.
-5.6 Responses to requests.
-5.7 Classified information.
-5.8 Business information.
-5.9 Appeals.
-5.10 Preservation of records.
-5.11 Fees.
-5.12 Other rights and services.
+5.1  General provisions.
+5.2  Public reading rooms.
+5.3  Requirements for making requests.
+5.4  Responsibility for responding to requests.
+5.5  Timing of responses to requests.
+5.6  Responses to requests.
+5.7  Classified information.
+5.8  Business information.
+5.9  Appeals.
+5.10  Preservation of records.
+5.11  Fees.
+5.12  Other rights and services.
 
                          Subpart B--Privacy Act
 
-5.20 General provisions.
-5.21 Requests for access to records.
-5.22 Responsibility for responding to requests for access to records.
-5.23 Responses to requests for access to records.
-5.24 Classified information.
-5.25 Appeals.
-5.26 Requests for amendment or correction of records.
-5.27 Requests for an accounting of record disclosures.
-5.28 Preservation of records.
-5.29 Fees.
-5.30 Notice of court-ordered and emergency disclosures.
-5.31 Security of systems of records.
-5.32 Contracts for the operation of record systems.
-5.33 Use and collection of social security numbers.
-5.34 Standards of conduct for administration of the Privacy Act.
-5.35 Sanctions and penalties.
-5.36 Other rights and services.
+5.20  General provisions.
+5.21  Requests for access to records.
+5.22  Responsibility for responding to requests for access to records.
+5.23  Responses to requests for access to records.
+5.24  Classified information.
+5.25  Appeals.
+5.26  Requests for amendment or correction of records.
+5.27  Requests for an accounting of record disclosures.
+5.28  Preservation of records.
+5.29  Fees.
+5.30  Notice of court-ordered and emergency disclosures.
+5.31  Security of systems of records.
+5.32  Contracts for the operation of record systems.
+5.33  Use and collection of social security numbers.
+5.34  Standards of conduct for administration of the Privacy Act.
+5.35  Sanctions and penalties.
+5.36  Other rights and services.
 
            Subpart C--Disclosure of Information in Litigation
 
-5.41 Purpose and scope; definitions.
-5.42 Service of summonses and complaints.
-5.43 Service of subpoenas, court orders, and other demands or requests 
+5.41  Purpose and scope; definitions.
+5.42  Service of summonses and complaints.
+5.43  Service of subpoenas, court orders, and other demands or requests 
           for official information or action.
-5.44 Testimony and production of documents prohibited unless approved by 
-          appropriate Department officials.
-5.45 Procedure when testimony or production of documents is sought; 
+5.44  Testimony and production of documents prohibited unless approved 
+          by appropriate Department officials.
+5.45  Procedure when testimony or production of documents is sought; 
           general.
-5.46 Procedure when response to demand is required prior to receiving 
+5.46  Procedure when response to demand is required prior to receiving 
           instructions.
-5.47 Procedure in the event of an adverse ruling.
-5.48 Considerations in determining whether the Department will comply 
+5.47  Procedure in the event of an adverse ruling.
+5.48  Considerations in determining whether the Department will comply 
           with a demand or request.
-5.49 Prohibition on providing expert or opinion testimony.
+5.49  Prohibition on providing expert or opinion testimony.
 
 Appendix A to Part 5--FOIA/Privacy Act Offices of the Department of 
           Homeland Security
@@ -1698,8 +1732,8 @@ nature, and purpose of each disclosure, as well as the name and address
 of the person, organization, or agency to which the disclosure was made. 
 Your request for an accounting should identify each particular record in 
 question and should be made by writing directly to the Department 
-component that maintains the record, following the procedures in Sec. 
-5.21.
+component that maintains the record, following the procedures in 
+Sec. 5.21.
     (b) Where accountings are not required. Components are not required 
 to provide accountings to you where they relate to:
     (1) Disclosures for which accountings are not required to be kept, 
@@ -2009,7 +2043,7 @@ is delivered to an employee of the Department other than in the manner
 specified in this part, the recipient thereof shall decline to accept 
 the proffered service and may notify the person attempting to make 
 service of the Departmental regulations set forth herein.
-    (c) Except as otherwise provided Sec.Sec. 5.42(d) and 5.43(c), the 
+    (c) Except as otherwise provided Secs. 5.42(d) and 5.43(c), the 
 Department is not an authorized agent for service of process with 
 respect to civil litigation against Department employees purely in their 
 personal, non-official capacity. Copies of summonses or complaints 
@@ -2530,13 +2564,13 @@ PART 7--CLASSIFIED NATIONAL SECURITY INFORMATION--Table of Contents
 
 
 Sec.
-7.1 Purpose.
-7.2 Scope.
-7.3 Definitions.
-7.11 Authority of the Under Secretary for Information Analysis and 
+7.1  Purpose.
+7.2  Scope.
+7.3  Definitions.
+7.11  Authority of the Under Secretary for Information Analysis and 
           Infrastructure Protection.
-7.21 Classification and declassification authority.
-7.31 Mandatory review for declassification requests.
+7.21  Classification and declassification authority.
+7.31  Mandatory review for declassification requests.
 
     Authority: 5 U.S.C. 301; 6 U.S.C. 122; E.O. 12958, 60 FR 19825; 3 
 CFR, 1995 Comp., p. 333; E.O. 13142, 64 FR 66089, 3 CFR, 1999 Comp., p. 
@@ -2649,34 +2683,34 @@ PART 9--RESTRICTIONS UPON LOBBYING--Table of Contents
                            Subpart A--General
 
 Sec.
-9.1 Conditions on use of funds.
-9.2 Definitions.
-9.3 Certification and disclosure.
+9.1  Conditions on use of funds.
+9.2  Definitions.
+9.3  Certification and disclosure.
 
                  Subpart B--Activities by Own Employees
 
-9.11 Agency and legislative liaison.
-9.15 Professional and technical services.
-9.20 Reporting.
+9.11  Agency and legislative liaison.
+9.15  Professional and technical services.
+9.20  Reporting.
 
             Subpart C--Activities by Other than Own Employees
 
-9.23 Professional and technical services.
+9.23  Professional and technical services.
 
                   Subpart D--Penalties and Enforcement
 
-9.31 Penalties.
-9.32 Penalty procedures.
-9.33 Enforcement.
+9.31  Penalties.
+9.32  Penalty procedures.
+9.33  Enforcement.
 
                           Subpart E--Exemptions
 
-9.41 Secretary of Defense.
+9.41  Secretary of Defense.
 
                         Subpart F--Agency Reports
 
-9.51 Semi-annual compilation.
-9.52 Inspector General report.
+9.51  Semi-annual compilation.
+9.52  Inspector General report.
 
 Appendix A to Part 9--Certification Regarding Lobbying
 Appendix B to Part 9--Disclosure Form to Report Lobbying
@@ -2701,13 +2735,14 @@ person for influencing or attempting to influence an officer or employee
 of any agency, a Member of Congress, an officer or employee of Congress, 
 or an employee of a Member of Congress in connection with any of the 
 following covered Federal actions: the awarding of any Federal contract, 
-the making of any Federal grant, the making of any Federal loan,
+the making of any Federal grant, the making of any Federal loan, the 
+entering into of any cooperative
 
 [[Page 35]]
 
-the entering into of any cooperative agreement, and the extension, 
-continuation, renewal, amendment, or modification of any Federal 
-contract, grant, loan, or cooperative agreement.
+agreement, and the extension, continuation, renewal, amendment, or 
+modification of any Federal contract, grant, loan, or cooperative 
+agreement.
     (b) Each person who requests or receives from an agency a Federal 
 contract, grant, loan, or cooperative agreement shall file with that 
 agency a certification, set forth in Appendix A to this part, that the 
@@ -2921,8 +2956,8 @@ or C of this part.
 <R05>
 Sec. 9.11  Agency and legislative liaison.
 
-    (a) The prohibition on the use of appropriated funds, in Sec. 
-9.1(a), does not apply in the case of a payment of reasonable 
+    (a) The prohibition on the use of appropriated funds, in 
+Sec. 9.1(a), does not apply in the case of a payment of reasonable 
 compensation made to an officer or employee of a person requesting or 
 receiving a Federal contract, grant, loan, or cooperative agreement if 
 the payment is for agency and legislative liaison activities not 
@@ -2961,8 +2996,8 @@ allowable under this section.
 <R05>
 Sec. 9.15  Professional and technical services.
 
-    (a) The prohibition on the use of appropriated funds, in Sec. 
-9.1(a), does not apply in the case of a payment of reasonable 
+    (a) The prohibition on the use of appropriated funds, in 
+Sec. 9.1(a), does not apply in the case of a payment of reasonable 
 compensation made to an officer or employee of a person requesting or 
 receiving a Federal contract, grant, loan, or cooperative agreement or 
 an extension, continuation, renewal, amendment, or modification of a 
@@ -3022,8 +3057,8 @@ person.
 <R05>
 Sec. 9.23  Professional and technical services.
 
-    (a) The prohibition on the use of appropriated funds, in Sec. 
-9.1(a), does not apply in the case of any reasonable payment to a 
+    (a) The prohibition on the use of appropriated funds, in 
+Sec. 9.1(a), does not apply in the case of any reasonable payment to a 
 person, other than an officer or employee of a person requesting or 
 receiving a covered Federal action, if the payment is for professional 
 or technical services rendered directly in the preparation, submission, 
@@ -3287,18 +3322,18 @@ PART 15--ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF DISABILITY IN PROGRAMS
 
 
 Sec.
-15.1 Purpose.
-15.2 Application.
-15.3 Definitions.
-15.10 Self-evaluation.
-15.11 Notice.
-15.30 General prohibitions against discrimination.
-15.40 Employment.
-15.49 Program accessibility; discrimination prohibited.
-15.50 Program accessibility; existing facilities.
-15.51 Program accessibility; new construction and alterations.
-15.60 Communications.
-15.70 Compliance procedures.
+15.1  Purpose.
+15.2  Application.
+15.3  Definitions.
+15.10  Self-evaluation.
+15.11  Notice.
+15.30  General prohibitions against discrimination.
+15.40  Employment.
+15.49  Program accessibility; discrimination prohibited.
+15.50  Program accessibility; existing facilities.
+15.51  Program accessibility; new construction and alterations.
+15.60  Communications.
+15.70  Compliance procedures.
 
     Authority: Pub. L. 107-296, 116 Stat. 2135 (6 U.S.C. 1 et seq.); 5 
 U.S.C. 301; 29 U.S.C. 794.
@@ -3803,72 +3838,72 @@ PART 17--NONDISCRIMINATION ON THE BASIS OF SEX IN EDUCATION PROGRAMS OR ACTIVITI
                          Subpart A--Introduction
 
 Sec.
-17.100 Purpose and effective date.
-17.105 Definitions.
-17.110 Remedial and affirmative action and self-evaluation.
-17.115 Assurance required.
-17.120 Transfers of property.
-17.125 Effect of other requirements.
-17.130 Effect of employment opportunities.
-17.135 Designation of responsible employee and adoption of grievance 
+17.100  Purpose and effective date.
+17.105  Definitions.
+17.110  Remedial and affirmative action and self-evaluation.
+17.115  Assurance required.
+17.120  Transfers of property.
+17.125  Effect of other requirements.
+17.130  Effect of employment opportunities.
+17.135  Designation of responsible employee and adoption of grievance 
           procedures.
-17.140 Dissemination of policy.
+17.140  Dissemination of policy.
 
                            Subpart B--Coverage
 
-17.200 Application.
-17.205 Educational institutions and other entities controlled by 
+17.200  Application.
+17.205  Educational institutions and other entities controlled by 
           religious organizations.
-17.210 Military and merchant marine educational institutions.
-17.215 Membership practices of certain organizations.
-17.220 Admissions.
-17.225 Educational institutions eligible to submit transition plans.
-17.230 Transition plans.
-17.235 Statutory amendments.
+17.210  Military and merchant marine educational institutions.
+17.215  Membership practices of certain organizations.
+17.220  Admissions.
+17.225  Educational institutions eligible to submit transition plans.
+17.230  Transition plans.
+17.235  Statutory amendments.
 
      Subpart C--Discrimination on the Basis of Sex in Admission and 
                          Recruitment Prohibited
 
-17.300 Admission.
-17.305 Preference in admission.
-17.310 Recruitment.
+17.300  Admission.
+17.305  Preference in admission.
+17.310  Recruitment.
 
  Subpart D--Discrimination on the Basis of Sex in Education Programs or 
                           Activities Prohibited
 
-17.400 Education programs or activities.
-17.405 Housing.
-17.410 Comparable facilities.
-17.415 Access to course offerings.
-17.420 Access to schools operated by LEAs.
-17.425 Counseling and use of appraisal and counseling materials.
-17.430 Financial assistance.
-17.435 Employment assistance to students.
-17.440 Health and insurance benefits and services.
-17.445 Marital or parental status.
-17.450 Athletics.
-17.455 Textbooks and curricular material.
+17.400  Education programs or activities.
+17.405  Housing.
+17.410  Comparable facilities.
+17.415  Access to course offerings.
+17.420  Access to schools operated by LEAs.
+17.425  Counseling and use of appraisal and counseling materials.
+17.430  Financial assistance.
+17.435  Employment assistance to students.
+17.440  Health and insurance benefits and services.
+17.445  Marital or parental status.
+17.450  Athletics.
+17.455  Textbooks and curricular material.
 
 Subpart E--Discrimination on the Basis of Sex in Employment in Education 
                     Programs or Activities Prohibited
 
-17.500 Employment.
-17.505 Employment criteria.
-17.510 Recruitment.
-17.515 Compensation.
-17.520 Job classification and structure.
-17.525 Fringe benefits.
-17.530 Marital or parental status.
-17.535 Effect of state or local law or other requirements.
-17.540 Advertising.
-17.545 Pre-employment inquiries.
-17.550 Sex as a bona fide occupational qualification.
+17.500  Employment.
+17.505  Employment criteria.
+17.510  Recruitment.
+17.515  Compensation.
+17.520  Job classification and structure.
+17.525  Fringe benefits.
+17.530  Marital or parental status.
+17.535  Effect of state or local law or other requirements.
+17.540  Advertising.
+17.545  Pre-employment inquiries.
+17.550  Sex as a bona fide occupational qualification.
 
                           Subpart F--Procedures
 
-17.600 Notice of covered programs.
-17.605 Enforcement procedures.
-17.635 Forms and instructions; coordination.
+17.600  Notice of covered programs.
+17.605  Enforcement procedures.
+17.635  Forms and instructions; coordination.
 
     Authority: Pub. L. 107-296, 116 Stat. 2135 (6 U.S.C. 1 et seq.); 5 
 U.S.C. 301; 20 U.S.C. 1681, 1682, 1683, 1685, 1686, 1687, 1688.
@@ -4113,7 +4148,7 @@ fair market value
 
 of the property is not upon such sale or transfer properly accounted for 
 to the Federal Government, both the transferor and the transferee shall 
-be deemed to be recipients, subject to the provisions of Sec.Sec. 17.205 
+be deemed to be recipients, subject to the provisions of Secs. 17.205 
 through 17.235(a).
 
 
@@ -4195,7 +4230,7 @@ them by Title IX and these Title IX regulations, but shall state at
 
 least that the requirement not to discriminate in education programs or 
 activities extends to employment therein, and to admission thereto 
-unless Sec.Sec. 17.300 through 17.310 do not apply to the recipient, and 
+unless Secs. 17.300 through 17.310 do not apply to the recipient, and 
 that inquiries concerning the application of Title IX and these Title IX 
 regulations to such recipient may be referred to the employee designated 
 pursuant to Sec. 17.135, or to the designated agency official.
@@ -4234,8 +4269,8 @@ require such representatives to adhere to such policy.
 <R05>
 Sec. 17.200  Application.
 
-    Except as provided in Sec.Sec. 17.205 through 17.235(a), these Title 
-IX regulations apply to every recipient and to each education program or 
+    Except as provided in Secs. 17.205 through 17.235(a), these Title IX 
+regulations apply to every recipient and to each education program or 
 activity operated by such recipient that receives Federal financial 
 assistance.
 
@@ -4295,18 +4330,17 @@ Sec. 17.220  Admissions.
     (a) General. Admissions to educational institutions prior to June 
 24, 1973, are not covered by these Title IX regulations.
     (b) Administratively separate units. For the purposes only of this 
-section, Sec.Sec. 17.225, 17.230, and 17.300 through 17.310, each 
+section, Secs. 17.225, 17.230, and 17.300 through 17.310, each 
 administratively separate unit shall be deemed to be an educational 
 institution.
-    (c) Application of Sec.Sec. 17.300 through 17.310. Except as 
-provided in paragraphs (d) and (e) of this section, Sec.Sec. 17.300 
-through 17.310 apply to each recipient. A recipient to which Sec.Sec. 
-17.300 through 17.310 apply shall not discriminate on the basis of sex 
-in admission or recruitment in violation of Sec.Sec. 17.300 through 
-17.310.
+    (c) Application of Secs. 17.300 through 17.310. Except as provided 
+in paragraphs (d) and (e) of this section, Secs. 17.300 through 17.310 
+apply to each recipient. A recipient to which Secs. 17.300 through 
+17.310 apply shall not discriminate on the basis of sex in admission or 
+recruitment in violation of Secs. 17.300 through 17.310.
     (d) Educational institutions. Except as provided in paragraph (e) of 
 this section as to recipients that are educational institutions, 
-Sec.Sec. 17.300 through 17.310 apply only to institutions of vocational 
+Secs. 17.300 through 17.310 apply only to institutions of vocational 
 education, professional education, graduate higher education, and public 
 institutions of undergraduate higher education.
     (e) Public institutions of undergraduate higher education. Sections 
@@ -4320,7 +4354,7 @@ sex.
 Sec. 17.225  Educational institutions eligible to submit transition plans.
 
     (a) Application. This section applies to each educational 
-institution to which Sec.Sec. 17.300 through 17.310 apply that:
+institution to which Secs. 17.300 through 17.310 apply that:
     (1) Admitted students of only one sex as regular students as of June 
 23, 1972; or
     (2) Admitted students of only one sex as regular students as of June 
@@ -4328,7 +4362,7 @@ institution to which Sec.Sec. 17.300 through 17.310 apply that:
 sex not admitted prior to June 23, 1965.
     (b) Provision for transition plans. An educational institution to 
 which this section applies shall not discriminate on the basis of sex in 
-admission or recruitment in violation of Sec.Sec. 17.300 through 17.310.
+admission or recruitment in violation of Secs. 17.300 through 17.310.
 
 
 <R05>
@@ -4366,9 +4400,9 @@ apply for, be admitted to, and enter each
 class during the period covered by the plan.
     (c) Nondiscrimination. No policy or practice of a recipient to which 
 Sec. 17.225 applies shall result in treatment of applicants to or 
-students of such recipient in violation of Sec.Sec. 17.300 through 
-17.310 unless such treatment is necessitated by an obstacle identified 
-in paragraph (b)(3) of this section and a schedule for eliminating that 
+students of such recipient in violation of Secs. 17.300 through 17.310 
+unless such treatment is necessitated by an obstacle identified in 
+paragraph (b)(3) of this section and a schedule for eliminating that 
 obstacle has been provided as required by paragraph (b)(4) of this 
 section.
     (d) Effects of past exclusion. To overcome the effects of past 
@@ -4480,11 +4514,11 @@ Sec. 17.300  Admission.
 
     (a) General. No person shall, on the basis of sex, be denied 
 admission, or be subjected to discrimination in admission, by any 
-recipient to which Sec.Sec. 17.300 through 17.310 apply, except as 
-provided in Sec.Sec. 17.225 and 17.230.
+recipient to which Secs. 17.300 through 17.310 apply, except as provided 
+in Secs. 17.225 and 17.230.
     (b) Specific prohibitions. (1) In determining whether a person 
 satisfies any policy or criterion for admission, or in making any offer 
-of admission, a recipient to which Sec.Sec. 17.300 through 17.310 apply 
+of admission, a recipient to which Secs. 17.300 through 17.310 apply 
 shall not:
     (i) Give preference to one person over another on the basis of sex, 
 by ranking applicants separately on such basis, or otherwise;
@@ -4501,7 +4535,7 @@ disproportionately adverse effect are shown to be unavailable.
     (c) Prohibitions relating to marital or parental status. In 
 determining whether a person satisfies any policy or criterion for 
 admission, or in making any offer of admission, a recipient to which 
-Sec.Sec. 17.300 through 17.310 apply:
+Secs. 17.300 through 17.310 apply:
     (1) Shall not apply any rule concerning the actual or potential 
 parental, family, or marital status of a student or applicant that 
 treats persons differently on the basis of sex;
@@ -4515,42 +4549,43 @@ in the same manner and under the same policies as any other temporary
 disability or physical condition; and
     (4) Shall not make pre-admission inquiry as to the marital status of 
 an applicant for admission, including whether such applicant is ``Miss'' 
-or ``Mrs.'' A recipient may make pre-admission
+or ``Mrs.'' A
 
 [[Page 60]]
 
-inquiry as to the sex of an applicant for admission, but only if such 
-inquiry is made equally of such applicants of both sexes and if the 
-results of such inquiry are not used in connection with discrimination 
-prohibited by these Title IX regulations.
+recipient may make pre-admission inquiry as to the sex of an applicant 
+for admission, but only if such inquiry is made equally of such 
+applicants of both sexes and if the results of such inquiry are not used 
+in connection with discrimination prohibited by these Title IX 
+regulations.
 
 
 <R05>
 Sec. 17.305  Preference in admission.
 
-    A recipient to which Sec.Sec. 17.300 through 17.310 apply shall not 
+    A recipient to which Secs. 17.300 through 17.310 apply shall not 
 give preference to applicants for admission, on the basis of attendance 
 at any educational institution or other school or entity that admits as 
 students only or predominantly members of one sex, if the giving of such 
 preference has the effect of discriminating on the basis of sex in 
-violation of Sec.Sec. 17.300 through 17.310.
+violation of Secs. 17.300 through 17.310.
 
 
 <R05>
 Sec. 17.310  Recruitment.
 
-    (a) Nondiscriminatory recruitment. A recipient to which Sec.Sec. 
-17.300 through 17.310 apply shall not discriminate on the basis of sex 
-in the recruitment and admission of students. A recipient may be 
-required to undertake additional recruitment efforts for one sex as 
-remedial action pursuant to Sec. 17.110(a), and may choose to undertake 
-such efforts as affirmative action pursuant to Sec. 17.110(b).
+    (a) Nondiscriminatory recruitment. A recipient to which Secs. 17.300 
+through 17.310 apply shall not discriminate on the basis of sex in the 
+recruitment and admission of students. A recipient may be required to 
+undertake additional recruitment efforts for one sex as remedial action 
+pursuant to Sec. 17.110(a), and may choose to undertake such efforts as 
+affirmative action pursuant to Sec. 17.110(b).
     (b) Recruitment at certain institutions. A recipient to which 
-Sec.Sec. 17.300 through 17.310 apply shall not recruit primarily or 
+Secs. 17.300 through 17.310 apply shall not recruit primarily or 
 exclusively at educational institutions, schools, or entities that admit 
 as students only or predominantly members of one sex, if such actions 
 have the effect of discriminating on the basis of sex in violation of 
-Sec.Sec. 17.300 through 17.310.
+Secs. 17.300 through 17.310.
 
 
 <R04>
@@ -4569,10 +4604,10 @@ occupational training, or other education program or activity operated
 by a recipient that receives Federal financial assistance. Sections 
 17.400 through 17.455 do not apply to actions of a recipient in 
 connection with admission of its students to an education program or 
-activity of a recipient to which Sec.Sec. 17.300 through 17.310 do not 
-apply, or an entity, not a recipient, to which Sec.Sec. 17.300 through 
+activity of a recipient to which Secs. 17.300 through 17.310 do not 
+apply, or an entity, not a recipient, to which Secs. 17.300 through 
 17.310 would not apply if the entity were a recipient.
-    (b) Specific prohibitions. Except as provided in Sec.Sec. 17.400 
+    (b) Specific prohibitions. Except as provided in Secs. 17.400 
 through 17.455, in providing any aid, benefit, or service to a student, 
 a recipient shall not, on the basis of sex:
     (1) Treat one person differently from another in determining whether 
@@ -4815,8 +4850,8 @@ without discrimination on the basis of sex; and
 person that discriminates on the basis of sex in its employment 
 practices.
     (b) Employment of students by recipients. A recipient that employs 
-any of its students shall not do so in a manner that violates Sec.Sec. 
-17.500 through 17.550.
+any of its students shall not do so in a manner that violates 
+Secs. 17.500 through 17.550.
 
 
 <R05>
@@ -4826,8 +4861,8 @@ Sec. 17.440  Health and insurance benefits and services.
 accident, or life insurance benefit, service, policy, or plan to any of 
 its students, a recipient shall not discriminate on the basis of sex, or 
 provide such benefit, service, policy, or plan in a manner that would 
-violate Sec.Sec. 17.500 through 17.550 if it were provided to employees 
-of the recipient. This section shall not prohibit a recipient from 
+violate Secs. 17.500 through 17.550 if it were provided to employees of 
+the recipient. This section shall not prohibit a recipient from 
 providing any benefit or service that may be used by a different 
 proportion of students of one sex than of the other, including family 
 planning services. However, any recipient that provides full coverage 
@@ -4967,7 +5002,7 @@ employees in any way that could adversely affect any applicant's or
 employee's employment opportunities or status because of sex.
     (3) A recipient shall not enter into any contractual or other 
 relationship which directly or indirectly has the effect of subjecting 
-employees or students to discrimination prohibited by Sec.Sec. 17.500 
+employees or students to discrimination prohibited by Secs. 17.500 
 through 17.550, including relationships with employment and referral 
 agencies, with labor unions, and with organizations providing or 
 administering fringe benefits to employees of the recipient.
@@ -5029,7 +5064,7 @@ as to overcome the effects of such past or present discrimination.
     (b) Recruitment patterns. A recipient shall not recruit primarily or 
 exclusively at entities that furnish as applicants only or predominantly 
 members of one sex if such actions have the effect of discriminating on 
-the basis of sex in violation of Sec.Sec. 17.500 through 17.550.
+the basis of sex in violation of Secs. 17.500 through 17.550.
 
 
 <R05>
@@ -5124,11 +5159,11 @@ employment.
 <R05>
 Sec. 17.535  Effect of state or local law or other requirements.
 
-    (a) Prohibitory requirements. The obligation to comply with Sec.Sec. 
-17.500 through 17.550 is not obviated or alleviated by the existence of 
-any State or local law or other requirement that imposes prohibitions or 
-limits upon employment of members of one sex that are not imposed upon 
-members of the other sex.
+    (a) Prohibitory requirements. The obligation to comply with 
+Secs. 17.500 through 17.550 is not obviated or alleviated by the 
+existence of any State or local law or other requirement that imposes 
+prohibitions or limits upon employment of members of one sex that are 
+not imposed upon members of the other sex.
     (b) Benefits. A recipient that provides any compensation, service, 
 or benefit to members of one sex pursuant to a State or local law or 
 other requirement shall provide the same compensation, service, or 
@@ -5160,7 +5195,7 @@ regulations.
 <R05>
 Sec. 17.550  Sex as a bona fide occupational qualification.
 
-    A recipient may take action otherwise prohibited by Sec.Sec. 17.500 
+    A recipient may take action otherwise prohibited by Secs. 17.500 
 through 17.550 provided it is shown that sex is a bona fide occupational 
 qualification for that action, such that consideration of sex with 
 regard to such action is essential to successful operation of the 
@@ -5225,25 +5260,24 @@ been taken by the designated official of this Department.
 
 
 <R03>
-PART 21--NONDISCRIMINATION ON THE BASIS OF RACE, COLOR, OR NATIONAL ORIGIN IN PROGRAMS OR ACTIVITIES RECEIVING FEDERAL FINANCIAL ASSISTANCE FROM THE DEPARTMENT 
-OF HOMELAND SECURITY--Table of Contents
+PART 21--NONDISCRIMINATION ON THE BASIS OF RACE, COLOR, OR NATIONAL ORIGIN IN PROGRAMS OR ACTIVITIES RECEIVING FEDERAL FINANCIAL ASSISTANCE FROM THE DEPARTMENT OF HOMELAND SECURITY--Table of Contents
 
 <R05>
 
 
 Sec.
-21.1 Purpose.
-21.3 Application.
-21.4 Definitions.
-21.5 Discrimination prohibited.
-21.7 Assurances required.
-21.9 Compliance information.
-21.11 Conduct of investigations.
-21.13 Procedure for effecting compliance.
-21.15 Hearings.
-21.17 Decisions and notices.
-21.19 Judicial review.
-21.21 Effect on other regulations, forms, and instructions.
+21.1  Purpose.
+21.3  Application.
+21.4  Definitions.
+21.5  Discrimination prohibited.
+21.7  Assurances required.
+21.9  Compliance information.
+21.11  Conduct of investigations.
+21.13  Procedure for effecting compliance.
+21.15  Hearings.
+21.17  Decisions and notices.
+21.19  Judicial review.
+21.21  Effect on other regulations, forms, and instructions.
 
 Appendix A to Part 21--Activities to Which This Part Applies
 Appendix B to Part 21--Activities to Which This Part Applies When a 
@@ -5703,8 +5737,8 @@ by voluntary means;
     (ii) There has been an express finding on the record, after 
 opportunity for hearing, of a failure by the applicant or recipient to 
 comply with a requirement imposed by or pursuant to this part;
-    (iii) The action has been approved by the Secretary pursuant to Sec. 
-21.17(e); and
+    (iii) The action has been approved by the Secretary pursuant to 
+Sec. 21.17(e); and
     (iv) The expiration of 30 days after the Secretary has filed with 
 the committee of the House and the committee of the Senate having 
 legislative jurisdiction over the program involved, a full written 
@@ -5754,9 +5788,9 @@ of the hearing. An applicant or recipient may waive a hearing and submit
 written information and argument for the record. The failure of an 
 applicant or recipient to request a hearing under this paragraph or to 
 appear at a hearing for which a date has been set shall be deemed to be 
-a waiver of the right to a hearing under section 602 of the Act and Sec. 
-21.13(c) and consent to the making of a decision on the basis of such 
-information as is available.
+a waiver of the right to a hearing under section 602 of the Act and 
+Sec. 21.13(c) and consent to the making of a decision on the basis of 
+such information as is available.
     (b) Time and place of hearing. Hearings shall be held at the offices 
 of the Department in Washington, DC, at a time fixed by the Secretary 
 unless he determines that the convenience of the applicant or recipient 
@@ -5996,17 +6030,17 @@ PART 25--REGULATIONS TO SUPPORT ANTI-TERRORISM BY FOSTERING EFFECTIVE TECHNOLOGI
 
 
 Sec.
-25.1 Purpose.
-25.2 Delegation.
-25.3 Designation of qualified anti-terrorism technologies.
-25.4 Obligations of seller.
-25.5 Procedures for designation of qualified anti-terrorism 
+25.1  Purpose.
+25.2  Delegation.
+25.3  Designation of qualified anti-terrorism technologies.
+25.4  Obligations of seller.
+25.5  Procedures for designation of qualified anti-terrorism 
           technologies.
-25.6 Government contractor defense.
-25.7 Procedures for certification of approved products for homeland 
+25.6  Government contractor defense.
+25.7  Procedures for certification of approved products for homeland 
           security.
-25.8 Confidentiality and protection of intellectual property.
-25.9 Definitions.
+25.8  Confidentiality and protection of intellectual property.
+25.9  Definitions.
 
     Authority: Subtitle G, Title VIII, Pub. L. 107-296, 116 Stat. 2238 
 (6 U.S.C. 441-444).
@@ -6129,18 +6163,17 @@ Designation). The Designation may, but need not, also specify others who
 are required to be covered by the liability insurance required to be 
 purchased by the Seller. The Designation shall include the Under 
 Secretary's certification required by Sec. 25.4(h). The Designation may 
-also include such other
+also include such other specifications as the Under Secretary
 
 [[Page 80]]
 
-specifications as the Under Secretary may deem to be appropriate, 
-including, but not limited to, specific applications of the technology, 
-materials or processes required to be used in producing or using the 
-technology, restrictions on transfer or licensing, and training and 
-instructions required to be provided to persons involved in the 
-deployment of the technology. Failure to specify a covered person or 
-entity in a Designation will not preclude application of the Act's 
-protections to that person or entity.
+may deem to be appropriate, including, but not limited to, specific 
+applications of the technology, materials or processes required to be 
+used in producing or using the technology, restrictions on transfer or 
+licensing, and training and instructions required to be provided to 
+persons involved in the deployment of the technology. Failure to specify 
+a covered person or entity in a Designation will not preclude 
+application of the Act's protections to that person or entity.
     (g) Government procurements. The Under Secretary may coordinate a 
 SAFETY Act review in connection with a Federal, state, or local 
 government agency procurement of an anti-terrorism technology in any 
@@ -6411,7 +6444,7 @@ this section, the Under Secretary shall take one of the following
 actions:
     (1) Approve the Application and issue an appropriate Designation to 
 the Seller, which shall include the certification required by 
-Sec.25.4(h);
+Sec. 25.4(h);
     (2) Notify the Seller in writing that the technology is potentially 
 eligible for a Designation, but that additional specified information is 
 needed before a decision may be reached; or
@@ -6534,10 +6567,10 @@ laboratory or other person or entity engaged by the Seller.
     (b) Extent of liability. Should a product liability or other lawsuit 
 be filed for claims arising out of, relating to, or resulting from an 
 act of terrorism when qualified anti-terrorism technologies certified by 
-the Under Secretary as provided in Sec.Sec. 25.6 and 25.7 of this part 
-have been deployed in defense against or response or recovery from such 
-act and such claims result or may result in loss to the Seller, there 
-shall be a rebuttable presumption that the government contractor defense 
+the Under Secretary as provided in Secs. 25.6 and 25.7 of this part have 
+been deployed in defense against or response or recovery from such act 
+and such claims result or may result in loss to the Seller, there shall 
+be a rebuttable presumption that the government contractor defense 
 applies in such lawsuit. This presumption shall only be overcome by 
 evidence showing that the Seller acted fraudulently or with willful 
 misconduct in submitting information to the Assistant Secretary during 
@@ -6563,7 +6596,7 @@ Sec. 25.7  Procedures for certification of approved products for homeland securi
 
     (a) Application procedure. A Seller seeking certification of anti-
 terrorism technology as an Approved Product for Homeland Security under 
-Sec.25.6 (a ``Certification'') shall submit information supporting such 
+Sec. 25.6 (a ``Certification'') shall submit information supporting such 
 request to the Assistant Secretary. The Under Secretary shall make 
 application forms available at http://www.dhs.gov, and copies may also 
 be obtained by mail by sending a request to: Directorate of Science and 
@@ -6640,12 +6673,12 @@ effective for the same period of time for which the related Designation
 is issued, and shall terminate upon the termination of such related 
 Designation. The Seller may apply for renewal of the Certification in 
 connection with an application for renewal of the related Designation. 
-An application for renewal must be made using the ``Application for
+An application for renewal must
 
 [[Page 87]]
 
-Certification of an Approved Product for Homeland Security'' form issued 
-by the Under Secretary.
+be made using the ``Application for Certification of an Approved Product 
+for Homeland Security'' form issued by the Under Secretary.
     (h) Application of Certification to licensees. Any certification 
 shall apply to any other person or entity to which the Seller licenses 
 (exclusively or nonexclusively) the right to manufacture and sell the 
@@ -6715,13 +6748,13 @@ intended, conforms to the Seller's specifications, and is safe for use
 as intended.
     Contractor--The term ``contractor'' of a Seller means any person or 
 entity with whom or with which the Seller has entered into a contract 
-relating to the manufacture, sale, use, or operation of anti-terrorism 
-technology for
+relating to
 
 [[Page 88]]
 
-which a Designation is issued (regardless of whether such contract is 
-entered into before or after the issuance of such Designation), 
+the manufacture, sale, use, or operation of anti-terrorism technology 
+for which a Designation is issued (regardless of whether such contract 
+is entered into before or after the issuance of such Designation), 
 including, without limitation, an independent laboratory or other entity 
 engaged in testing or verifying the safety, utility, performance, or 
 effectiveness of such technology, or the conformity of such technology 
@@ -6761,7 +6794,771 @@ which (as appropriate) a Designation has been issued under this Part
 Secretary for Science and Technology of the Department of Homeland 
 Security.
 
+
+<R03>
+PART 29--PROTECTED CRITICAL INFRASTRUCTURE INFORMATION--Table of Contents
+
+<R05>
+
+
+Sec.
+29.1  Purpose and scope.
+29.2  Definitions.
+29.3  Effect of provisions.
+29.4  Protected Critical Infrastructure Information Program 
+          administration.
+29.5  Requirements for protection.
+29.6  Acknowledgment of receipt, validation, and marking.
+29.7  Safeguarding of Protected Critical Infrastructure Information.
+29.8  Disclosure of Protected Critical Infrastructure Information.
+29.9  Investigation and reporting of violation of Protected CII 
+          procedures.
+
+    Authority: Pub. L. 107-296, 116 Stat. 2135 (6 U.S.C. 1 et seq.); 5 
+U.S.C. 301.
+
+    Source: 69 FR 8083, Feb. 20, 2004, unless otherwise noted.
+
+
+<R05>
+Sec. 29.1  Purpose and scope.
+
+    (a) Purpose of the rule. This part implements section 214 of Title 
+II, Subtitle B, of the Homeland Security Act of 2002 through the 
+establishment of uniform procedures for the receipt, care, and storage 
+of Critical Infrastructure Information (CII) voluntarily submitted to 
+the Federal government through the Department of Homeland Security. 
+Title II, Subtitle B, of the Homeland Security Act is referred to herein 
+as the Critical Infrastructure Information Act of 2002 (CII Act of 
+2002). Consistent with the statutory mission of the Department of 
+Homeland Security (DHS) to prevent terrorist attacks within the United 
+States and reduce the vulnerability of the United States to terrorism, 
+it is the policy of DHS to encourage the voluntary submission of CII by 
+safeguarding and protecting that information from unauthorized 
+disclosure and
+
 [[Page 89]]
+
+by ensuring that such information is expeditiously and securely shared 
+with appropriate authorities including Federal national security, 
+homeland security, and law enforcement entities and, consistent with the 
+CII Act of 2002, with State and local officials, where doing so may 
+reasonably be expected to assist in preventing, preempting, and 
+disrupting terrorist threats to our homeland. As required by the CII Act 
+of 2002, the procedures established herein include mechanisms regarding:
+    (1) The acknowledgement of receipt by DHS of voluntarily submitted 
+CII;
+    (2) The maintenance of the identification of CII voluntarily 
+submitted to DHS for purposes of, and subject to the provisions of the 
+CII Act of 2002;
+    (3) The receipt, handling, storage, and proper marking of 
+information as Protected CII;
+    (4) The safeguarding and maintenance of the confidentiality of such 
+information that permits the sharing of such information within the 
+Federal government and with foreign, State, and local governments and 
+government authorities, and the private sector or the general public, in 
+the form of advisories or warnings; and
+    (5) The issuance of notices and warnings related to the protection 
+of critical infrastructure and protected systems in such a manner as to 
+protect from unauthorized disclosure the identity of the submitting 
+person or entity as well as information that is proprietary, business 
+sensitive, relates specifically to the submitting person or entity, and 
+is not customarily available in the public domain.
+    (b) Scope. These procedures apply to all Federal agencies that 
+handle, use, or store Protected CII pursuant to the CII Act of 2002. In 
+addition, these procedures apply to United States Government 
+contractors, to foreign, State, and local governments, and to government 
+authorities, pursuant to any necessary express written agreements, 
+treaties, bilateral agreements, or other statutory authority.
+
+
+<R05>
+Sec. 29.2  Definitions.
+
+    For purposes of this part:
+    Critical Infrastructure has the definition referenced in section 2 
+of the Homeland Security Act of 2002 and means systems and assets, 
+whether physical or virtual, so vital to the United States that the 
+incapacity or destruction of such systems and assets would have a 
+debilitating impact on security, national economic security, national 
+public health or safety, or any combination of those matters.
+    Critical Infrastructure Information, or CII means information not 
+customarily in the public domain and related to the security of critical 
+infrastructure or protected systems. CII consists of records and 
+information concerning:
+    (1) Actual, potential, or threatened interference with, attack on, 
+compromise of, or incapacitation of critical infrastructure or protected 
+systems by either physical or computer-based attack or other similar 
+conduct (including the misuse of or unauthorized access to all types of 
+communications and data transmission systems) that violates Federal, 
+State, or local law, harms the interstate commerce of the United States, 
+or threatens public health or safety;
+    (2) The ability of any critical infrastructure or protected system 
+to resist such interference, compromise, or incapacitation, including 
+any planned or past assessment, projection, or estimate of the 
+vulnerability of critical infrastructure or a protected system, 
+including security testing, risk evaluation, risk-management planning, 
+or risk audit; or
+    (3) Any planned or past operational problem or solution regarding 
+critical infrastructure or protected systems, including repair, 
+recovery, reconstruction, insurance, or continuity, to the extent it is 
+related to such interference, compromise, or incapacitation.
+    Critical Infrastructure Information Program, or CII Program means 
+the maintenance, management, and review of these procedures and of the 
+information provided to DHS in furtherance of the protections provided 
+by the CII Act of 2002.
+    Information Sharing and Analysis Organization, or ISAO means any 
+formal or informal entity or collaboration created or employed by public 
+or private sector organizations for purposes of:
+    (1) Gathering and analyzing CII in order to better understand 
+security
+
+[[Page 90]]
+
+problems and interdependencies related to critical infrastructure and 
+protected systems in order to ensure the availability, integrity, and 
+reliability thereof;
+    (2) Communicating or sharing CII to help prevent, detect, mitigate, 
+or recover from the effects of an interference, compromise, or 
+incapacitation problem related to critical infrastructure or protected 
+systems; and
+    (3) Voluntarily disseminating CII to its members, Federal, State, 
+and local governments, or to any other entities that may be of 
+assistance in carrying out the purposes specified in this section.
+    Local Government has the same meaning as is established in section 2 
+of the Homeland Security Act of 2002 and means:
+    (1) A county, municipality, city, town, township, local public 
+authority, school district, special district, intrastate district, 
+council of governments (regardless of whether the council of governments 
+is incorporated as a nonprofit corporation under State law), regional or 
+interstate government entity, or agency or instrumentality of a local 
+government;
+    (2) An Indian tribe or authorized tribal organization, or in Alaska 
+a Native village or Alaska Regional Native Corporation; and
+    (3) A rural community, unincorporated town or village, or other 
+public entity.
+    Protected Critical Infrastructure Information, or Protected CII 
+means CII (including the identity of the submitting person or entity) 
+that is voluntarily submitted to DHS for its use regarding the security 
+of critical infrastructure and protected systems, analysis, warning, 
+interdependency study, recovery, reconstitution, or other informational 
+purpose, when accompanied by an express statement as described in 
+Sec. 29.5. This information maintains its protected status unless DHS's 
+Protected CII Program Manager or the Protected CII Program Manager's 
+designees render a final decision that the information is not Protected 
+CII.
+    Protected System means any service, physical or computer-based 
+system, process, or procedure that directly or indirectly affects the 
+viability of a facility of critical infrastructure and includes any 
+physical or computer-based system, including a computer, computer 
+system, computer or communications network, or any component hardware or 
+element thereof, software program, processing instructions, or 
+information or data in transmission or storage therein, irrespective of 
+the medium of transmission or storage.
+    Purpose of CII has the meaning set forth in section 214(a)(1) of the 
+CII Act of 2002 and includes the security of critical infrastructure and 
+protected systems, analysis, warning, interdependency study, recovery, 
+reconstitution, or other informational purpose.
+    Submission to DHS as referenced in these procedures means any 
+transmittal of CII to the DHS Protected CII Program Manager or the 
+Protected CII Program Manager's designees, as set forth in Sec. 29.5.
+    Voluntary or Voluntarily, when used in reference to any submission 
+of CII to DHS, means submitted in the absence of DHS's exercise of legal 
+authority to compel access to or submission of such information; such 
+submission may be accomplished by (i.e., come from) a single entity or 
+by an ISAO acting on behalf of its members. In the case of any action 
+brought under the securities laws--as is defined in section 3(a)(47) of 
+the Securities Exchange Act of 1934 (15 U.S.C. 78c(a)(47))--the term 
+``voluntary'' does not include information or statements contained in 
+any documents or materials filed, pursuant to section 12(i) of the 
+Securities Exchange Act of 1934 (15 U.S.C. 781(i)), with the Securities 
+and Exchange Commission or with Federal banking regulators; and with 
+respect to the submission of CII, it does not include any disclosure or 
+writing that when made accompanies the solicitation of an offer or a 
+sale of securities. The term also explicitly excludes information or 
+statements submitted during a regulatory proceeding or relied upon as a 
+basis for making licensing or permitting determinations.
+
+
+<R05>
+Sec. 29.3  Effect of provisions.
+
+    (a) Mandatory submissions of information. The CII Act of 2002 and 
+these procedures do not apply to or affect any requirement pertaining to 
+information
+
+[[Page 91]]
+
+that must be submitted to DHS pursuant to a Federal legal requirement, 
+nor do they pertain to any obligation of any Federal agency to disclose 
+mandatorily submitted information (even where it is identical to 
+information voluntarily submitted to DHS pursuant to the CII Act of 
+2002). The fact that a person or entity has voluntarily submitted 
+information pursuant to the CII Act of 2002 does not constitute 
+compliance with any requirement to submit that information to a Federal 
+agency under any other provision of law. Information submitted to any 
+other Federal agency pursuant to a Federal legal requirement is not to 
+be marked as submitted or protected under the CII Act of 2002 or 
+otherwise afforded the protection of the CII Act of 2002, provided, 
+however, that such information, if it is separately submitted to DHS 
+pursuant to these procedures, may upon submission to DHS be marked as 
+Protected CII or otherwise afforded the protections of the CII Act of 
+2002.
+    (b) Freedom of Information Act disclosure exemptions. Information 
+that is separately exempt from disclosure under the Freedom of 
+Information Act or applicable State or local law does not lose its 
+separate exemption protection due to the applicability of these 
+procedures or any failure to follow them.
+    (c) Restriction on use of Protected CII by regulatory and other 
+Federal agencies. No Federal agency shall request, obtain, maintain, or 
+use information protected under the CII Act of 2002 as a substitute for 
+the exercise of its own legal authority to compel access to or 
+submission of that same information. Federal agencies shall not utilize 
+Protected CII for regulatory purposes without the written consent of the 
+submitter or another party on the submitter's behalf.
+    (d) Independently obtained information. These procedures shall not 
+be construed to limit or in any way affect the ability of a Federal, 
+State, or local government entity, agency, or authority, or any third 
+party, under applicable law, to otherwise obtain CII by means of a 
+different law, regulation, rule, or other authority, including such 
+information as is lawfully and customarily disclosed to the public. 
+Independently obtained information does not include any information 
+derived directly or indirectly from Protected CII subsequent to its 
+submission. Nothing in these procedures shall be construed to limit or 
+in any way affect the ability of such entities, agencies, authorities, 
+or third parties to use such information in any manner permitted by law.
+    (e) No private right of action. Nothing contained in these 
+procedures is intended to confer any substantive or procedural right or 
+privilege on any person or entity. Nothing in these procedures shall be 
+construed to create a private right of action for enforcement of any 
+provision of these procedures or a defense to noncompliance with any 
+independently applicable legal obligation.
+
+
+<R05>
+Sec. 29.4  Protected Critical Infrastructure Information Program administration.
+
+    (a) IAIP Directorate Program Management. The Secretary of the 
+Department of Homeland Security hereby designates the Under Secretary of 
+the Information Analysis and Infrastructure Protection (IAIP) 
+Directorate as the senior DHS official responsible for the direction and 
+administration of the Protected CII Program.
+    (b) Appointment of a Protected CII Program Manager. The Under 
+Secretary for IAIP shall:
+    (1) Appoint a Protected CII Program Manager within the IAIP 
+Directorate who is responsible to the Under Secretary for the 
+administration of the Protected CII Program;
+    (2) Commit resources necessary to the effective implementation of 
+the Protected CII Program;
+    (3) Ensure that sufficient personnel, including such detailees or 
+assignees from other Federal national security, homeland security, or 
+law enforcement entities as the Under Secretary deems appropriate, are 
+assigned to the Protected CII Program to facilitate the expeditious and 
+secure sharing with appropriate authorities, including Federal national 
+security, homeland security, and law enforcement entities and, 
+consistent with the CII Act of 2002, with State and local officials, 
+where doing so may reasonably be expected to
+
+[[Page 92]]
+
+assist in preventing, preempting, or disrupting terrorist threats to our 
+homeland; and
+    (4) Promulgate implementing directives and prepare training 
+materials as appropriate for the proper treatment of Protected CII.
+    (c) Appointment of Protected CII Officers. The Protected CII Program 
+Manager shall establish procedures to ensure that any DHS component or 
+other Federal, State, or local entity that works with Protected CII 
+appoints one or more employees to serve as a Protected CII Officer for 
+the activity in order to carry out the responsibilities stated in 
+paragraph (d) of this section. Persons appointed to these positions 
+shall be fully familiar with these procedures.
+    (d) Responsibilities of Protected CII Officers. Protected CII 
+Officers shall:
+    (1) Oversee the handling, use, and storage of Protected CII;
+    (2) Ensure the expeditious and secure sharing of Protected CII with 
+appropriate authorities, as set forth in Sec. 29.1(a) and paragraph 
+(b)(3) of this section;
+    (3) Establish and maintain an ongoing self-inspection program, to 
+include periodic review and assessment of the entity's handling, use, 
+and storage of Protected CII;
+    (4) Establish additional procedures as necessary to prevent 
+unauthorized access to Protected CII; and
+    (5) Ensure prompt and appropriate coordination with the Protected 
+CII Program Manager regarding any request, challenge, or complaint 
+arising out of the implementation of these procedures.
+    (e) Protected Critical Infrastructure Information Management System 
+(PCIIMS). The Protected CII Program Manager or the Protected CII Program 
+Manager's designees shall develop and use an electronic database, to be 
+known as the ``Protected Critical Infrastructure Information Management 
+System'' (PCIIMS), to record the receipt, acknowledgement, validation, 
+storage, dissemination, and destruction of Protected CII. This 
+compilation of Protected CII shall be safeguarded and protected in 
+accordance with the provisions of the CII Act of 2002.
+
+
+<R05>
+Sec. 29.5  Requirements for protection.
+
+    (a) CII shall receive the protections of section 214 of the CII Act 
+of 2002 only when:
+    (1) Such information is voluntarily submitted to the Protected CII 
+Program Manager or the Protected CII Program Manager's designees;
+    (2) The information is submitted for use by DHS for the security of 
+critical infrastructure and protected systems, analysis, warning, 
+interdependency study, recovery, reconstitution, or other informational 
+purposes including, without limitation, the identification, analysis, 
+prevention, preemption, and/or disruption of terrorist threats to our 
+homeland, as evidenced below;
+    (3) The information is accompanied by an express statement as 
+follows:
+    (i) In the case of written information or records, through a written 
+marking on the information or records substantially similar to the 
+following: ``This information is voluntarily submitted to the Federal 
+government in expectation of protection from disclosure as provided by 
+the provisions of the Critical Infrastructure Information Act of 2002''; 
+or
+    (ii) In the case of oral information, within fifteen calendar days 
+of the oral submission, through a written statement comparable to the 
+one specified above, and a certification as specified below, accompanied 
+by a written or otherwise tangible version of the oral information 
+initially provided; and
+    (4) The submitted information additionally is accompanied by a 
+statement, signed by the submitting entity, certifying essentially to 
+the following on behalf of the named entity:
+    (i) The submitter is voluntarily providing the information for the 
+purposes of the CII Act of 2002;
+    (ii) The information being submitted is not being submitted in lieu 
+of independent compliance with a Federal legal requirement;
+    (iii) The information is or is not required to be submitted to a 
+Federal agency. If the information is required to be submitted to a 
+Federal agency, the submitter shall identify the Federal agency 
+requiring submission and the legal authority that mandates the 
+submission; and
+
+[[Page 93]]
+
+    (iv) The information is of a type not customarily in the public 
+domain.
+    (b) Information that is not submitted to the Protected CII Program 
+Manager or the Protected CII Program Manager's designees will not 
+qualify for protection under the CII Act of 2002. Any DHS component 
+other than the IAIP Directorate that receives information with a request 
+for protection under the CII Act of 2002, shall immediately forward the 
+information to the Protected CII Program Manager. Only the Protected CII 
+Program Manager or the Protected CII Program Manager's designees are 
+authorized to acknowledge receipt and validate Protected CII pursuant to 
+Sec. 29.6(a).
+    (c) Federal agencies and DHS components other than the IAIP 
+Directorate shall maintain information as protected by the provisions of 
+the CII Act of 2002 when that information is provided to the agency or 
+component by the Protected CII Program Manager or the Protected CII 
+Program Manager's designees and is marked as required in Sec. 29.6(c).
+    (d) All submissions seeking Protected CII status shall be regarded 
+as submitted with the presumption of good faith on the part of the 
+submitter.
+    (e) Submissions must affirm the understanding of the submitter that 
+any false representations on such submissions may constitute a violation 
+of 18 U.S.C. 1001 and are punishable by fine and imprisonment.
+
+
+<R05>
+Sec. 29.6  Acknowledgment of receipt, validation, and marking.
+
+    (a) Authorized officials. Only the Protected CII Program Manager or 
+the Protected CII Program Manager's designees are authorized to 
+acknowledge receipt of and validate information as Protected CII.
+    (b) Presumption of protection. All information submitted in 
+accordance with the procedures set forth herein will be presumed to be 
+and will be treated as Protected CII from the time the information is 
+received by DHS, either through the DHS component or the Protected CII 
+Program Manager or the Protected CII Program Manager's designees. The 
+information shall remain protected unless and until the Protected CII 
+Program Manager or the Protected CII Program Manager's designees render 
+a final decision that the information is not Protected CII.
+    (c) Marking of information. In addition to markings made pursuant to 
+Sec. 29.5(a) by submitters of CII requesting review, all Protected CII 
+shall be clearly identified through markings made by the Protected CII 
+Program Manager or the Protected CII Program Manager's designees. The 
+Protected CII Program Manager or the Protected CII Program Manager's 
+designees shall mark Protected CII materials as follows: ``This document 
+contains Protected CII. In accordance with the provisions of 6 CFR part 
+29, it is exempt from release under the Freedom of Information Act (5 
+U.S.C. 552(b)(3)). Unauthorized release may result in civil penalty or 
+other action. It is to be safeguarded and disseminated in accordance 
+with Protected CII Program requirements.''
+    (d) Acknowledgement of receipt of information. The Protected CII 
+Program Manager or the Protected CII Program Manager's designees shall 
+acknowledge receipt of information submitted as CII and accompanied by 
+an express statement and certification, and in so doing shall:
+    (1) Contact the submitter, within thirty calendar days of receipt, 
+by the means of delivery prescribed in procedures developed by the 
+Protected CII Program Manager or the Protected CII Program Manager. In 
+the case of oral submissions, receipt will be acknowledged in writing 
+within thirty calendar days after receipt by the Protected CII Program 
+Manager or the Protected CII Program Manager's designees of a written 
+statement, certification, and documentation of the oral submission, as 
+referenced in Sec. 29.5(a)(3)(ii);
+    (2) Maintain a database including date of receipt, name of 
+submitter, description of information, manner of acknowledgment, 
+tracking number, and validation status; and
+    (3) Provide the submitter with a unique tracking number that will 
+accompany the information from the time it is received by the Protected 
+CII Program Manager or the Protected CII Program Manager's designees.
+    (e) Validation of information. (1) The Protected CII Program Manager 
+or the
+
+[[Page 94]]
+
+Protected CII Program Manager's designees shall be responsible for 
+reviewing all submissions that request protection under the CII Act of 
+2002. The Protected CII Program Manager or the Protected CII Program 
+Manager's designee shall review the submitted information as soon as 
+practicable. If a determination is made that the submitted information 
+meets the requirements for protection, the Protected CII Program Manager 
+or the Protected CII Program Manager's designee shall mark the 
+information as required in paragraph (c) of this section, and disclose 
+it only pursuant to Sec. 29.8.
+    (2) If the Protected CII Program Manager or the Protected CII 
+Program Manager's designees make an initial determination that the 
+information submitted does not meet the requirements for protection 
+under the CII Act of 2002, the Protected CII Program Manager or the 
+Protected CII Program Manager's designees shall:
+    (i) Notify the submitter of the initial determination that the 
+information is not considered to be Protected CII. This notification 
+also shall:
+    (A) Request that the submitter further explain the nature of the 
+information and the submitter's basis for believing the information 
+qualifies for protection under the CII Act of 2002;
+    (B) Advise the submitter that the Protected CII Program Manager or 
+the Protected CII Program Manager's designees will review any further 
+information provided before rendering a final determination;
+    (C) Provide the submitter with an opportunity to withdraw the 
+submission;
+    (D) Notify the submitter that any response to the notification must 
+be received by the Protected CII Program Manager or the Protected CII 
+Program Manager's designees no later than thirty calendar days after the 
+date of the notification; and
+    (E) Request the submitter to state whether, in the event the 
+Protected CII Program Manager or the Protected CII Program Manager's 
+designees make a final determination that any such information is not 
+Protected CII, the submitter prefers that the information be maintained 
+without the protections of the CII Act of 2002 or be disposed of in 
+accordance with the Federal Records Act.
+    (ii) If the Protected CII Program Manager or the Protected CII 
+Program Manager's designees, after following the procedures set forth in 
+paragraph (e)(2)(i) of this section, make a final determination that the 
+information is not Protected CII, the Protected CII Program Manager or 
+the Protected CII Program Manager's designees, in accordance with the 
+submitter's written preference, shall maintain the information without 
+protection or following coordination, as appropriate, with other Federal 
+national security, homeland security, or law enforcement authorities, 
+destroy it in accordance with the Federal Records Act unless the 
+Protected CII Program Manager or the Protected CII Program Manager's 
+designees, consistent with the coordination required in this subpart, 
+determine there is a need to retain it for law enforcement and/or 
+national security reasons. The Protected CII Program Manager or the 
+Protected CII Program Manager's designees shall destroy the information 
+within thirty calendar days of making a final determination. If the 
+submitter, however, cannot be notified or the submitter's response is 
+not received within thirty calendar days after the submitter received 
+the notification, as provided in paragraph (e)(2)(i) of this section, 
+the Protected CII Program Manager or the Protected CII Program Manager's 
+designee will destroy the information in accordance with the Federal 
+Records Act, unless the Protected CII Program Manager or the Protected 
+CII Program Manager's designee, after coordination with other Federal 
+national security, homeland security, or law enforcement authorities, as 
+appropriate, determines that there is a need to retain it for law 
+enforcement and/or national security reasons.
+    (f) Changing the status of Protected CII to non-Protected CII. Once 
+information is validated, only the Protected CII Program Manager or the 
+Protected CII Program Manager's designees may change the status of 
+Protected CII to that of non-Protected CII and remove its Protected CII 
+markings. Status
+
+[[Page 95]]
+
+changes may take place when the submitter requests in writing that the 
+information no longer be protected under the CII Act of 2002 or when the 
+Protected CII Program Manager or the Protected CII Program Manager's 
+designee determines that the information was customarily in the public 
+domain, is publicly available through legal means, or is required to be 
+submitted to DHS by Federal law or regulation. The Protected CII Program 
+Manager or the Protected CII Program Manager's designees shall inform 
+the submitter when a change in status is made. Notice of the change in 
+status of Protected CII shall be provided to all recipients of that 
+Protected CII under Sec. 29.8.
+
+
+<R05>
+Sec. 29.7  Safeguarding of Protected Critical Infrastructure Information.
+
+    (a) Safeguarding. All persons granted access to Protected CII are 
+responsible for safeguarding all such information in their possession or 
+control. Protected CII shall be protected at all times by appropriate 
+storage and handling. Each person who works with Protected CII is 
+personally responsible for taking proper precautions to ensure that 
+unauthorized persons do not gain access to it.
+    (b) Use and storage. When Protected CII is in the physical 
+possession of a person, reasonable steps shall be taken to minimize the 
+risk of access to Protected CII by unauthorized persons. When Protected 
+CII is not in the physical possession of a person, it shall be stored in 
+a secure environment that affords it the necessary level of protection 
+commensurate with its vulnerability and sensitivity.
+    (c) Reproduction. Pursuant to procedures prescribed by the Protected 
+CII Program Manager, a document or other material containing PCII may be 
+reproduced to the extent necessary consistent with the need to carry out 
+official duties, provided that the reproduced documents or material are 
+marked and protected in the same manner as the original documents or 
+material.
+    (d) Disposal of information. Documents and material containing 
+Protected CII may be disposed of by any method that prevents 
+unauthorized retrieval.
+    (e) Transmission of information. Protected CII shall be transmitted 
+only by secure means of delivery as determined by the Protected CII 
+Program Manager or the Protected CII Program Manager's designees.
+    (f) Automated Information Systems. The Protected CII Program Manager 
+or the Protected CII Program Manager's designees shall establish 
+security requirements for Automated Information Systems that contain 
+Protected CII.
+
+
+<R05>
+Sec. 29.8  Disclosure of Protected Critical Infrastructure Information.
+
+    (a) Authorization of access. The Under Secretary for IAIP, or the 
+Under Secretary's designee, may choose to provide or authorize access to 
+Protected CII when it is determined that this access supports a lawful 
+and authorized Government purpose as enumerated in the CII Act of 2002, 
+other law, regulation, or legal authority. Any disclosure or use of 
+Protected CII within the Federal government is limited by the terms of 
+the CII Act of 2002. Accordingly, any advisories, alerts, or warnings 
+issued to the public pursuant to paragraph (e) of this section shall 
+protect from disclosure:
+    (1) The source of any voluntarily submitted CII that forms the basis 
+for the warning, and
+    (2) Any information that is proprietary, business sensitive, relates 
+specifically to the submitting person or entity, and is not customarily 
+in the public domain.
+    (b) Federal, State, and local government sharing. The Protected CII 
+Program Manager or the Protected CII Program Manager's designees may 
+provide Protected CII to an employee of the Federal government, or of a 
+State or local government, provided that such information is shared for 
+purposes of securing the critical infrastructure and protected systems, 
+analysis, warning, interdependency study, recovery, reconstitution, or 
+for another informational purpose including, without limitation, the 
+identification, analysis, prevention, preemption, and/or disruption of 
+terrorist threats to our homeland. Protected CII may be provided to a 
+State or local government entity only pursuant to its express written
+
+[[Page 96]]
+
+agreement with the Protected CII Program Manager to comply with the 
+requirements of paragraph (d) of this section and that acknowledges the 
+understanding and responsibilities of the recipient.
+    (c) Disclosure of information to Federal contractors. Disclosure of 
+Protected CII to Federal contractors may be made only after the 
+Protected CII Program Manager or a Protected CII Officer certifies that 
+the contractor is performing services in support of the purposes of DHS, 
+the contractor has signed corporate or individual confidentiality 
+agreements as appropriate, covering an identified category of contractor 
+employees where appropriate, and has agreed by contract to comply with 
+all the requirements of the Protected CII Program. The contractor shall 
+safeguard Protected CII in accordance with these procedures and shall 
+not remove any ``Protected CII'' markings. Contractors shall not further 
+disclose Protected CII to any of their components, additional employees, 
+or other contractors (including subcontractors) without the prior 
+written approval of the Protected CII Program Manager or the Protected 
+CII Program Manager's designees, unless such disclosure is expressly 
+authorized in writing by the submitter and is the subject of timely 
+notification to the Protected CII Program Manager.
+    (d) Further use or disclosure of information by State and local 
+governments. (1) State and local governments receiving information 
+marked ``Protected Critical Infrastructure Information'' shall not share 
+that information with any other party, or remove any Protected CII 
+markings, without first obtaining authorization from the Protected CII 
+Program Manager or the Protected CII Program Manager's designees who 
+shall be responsible for requesting and obtaining written consent for 
+any such State or local government disclosure from the person or entity 
+that submitted the information or on whose behalf the information was 
+submitted.
+    (2) The Protected CII Program Manager or a Protected CII Program 
+Manager's designee may not authorize State and local governments to 
+further disclose the information to another party unless the Protected 
+CII Program Manager or a Protected CII Program Manager's designee first 
+obtains the written consent of the person or entity submitting the 
+information.
+    (3) State and local governments may use Protected CII only for the 
+purpose of protecting critical infrastructure or protected systems, or 
+in furtherance of an investigation or the prosecution of a criminal act.
+    (e) Disclosure of information to appropriate entities or to the 
+general public. The IAIP Directorate may provide advisories, alerts, and 
+warnings to relevant companies, targeted sectors, other governmental 
+entities, ISAOs or the general public regarding potential threats and 
+vulnerabilities to critical infrastructure as appropriate. In issuing a 
+warning, the IAIP Directorate shall protect from disclosure the source 
+of any Protected CII that forms the basis for the warning as well as any 
+information that is proprietary, business sensitive, relates 
+specifically to the submitting person or entity, and is not customarily 
+in the public domain.
+    (f) Access by Congress and whistleblower protection. (1) Exceptions 
+for disclosure.
+    (i) Pursuant to section 214(a)(1)(D) of the CII Act of 2002, 
+Protected CII shall not, without the written consent of the person or 
+entity submitting such information, be used or disclosed by any officer 
+or employee of the United States for purposes other than the purposes of 
+the CII Act of 2002, except--
+    (A) In furtherance of an investigation or the prosecution of a 
+criminal act; or
+    (B) When disclosure of the information is made--
+    (1) To either House of Congress, or to the extent of matter within 
+its jurisdiction, any committee or subcommittee thereof, any joint 
+committee thereof or subcommittee of any such joint committee; or
+    (2) To the Comptroller General, or any authorized representative of 
+the Comptroller General, in the course of the performance of the duties 
+of the General Accounting Office.
+    (ii) If any officer or employee of the United States makes any 
+disclosure pursuant to these exceptions, contemporaneous written 
+notification must be provided to the Department through the Protected 
+CII Program Manager.
+
+[[Page 97]]
+
+    (2) Consistent with the authority to disclose information for any 
+purpose described in Sec. 29.2, disclosure of Protected CII may be made, 
+without the written consent of the person or entity submitting such 
+information, to the DHS Inspector General, or to any other employee 
+designated by the Secretary of Homeland Security.
+    (3) Subject to the limitations of title 5 U.S.C., section 1213 (the 
+``Whistleblower Protection Act''), disclosure of Protected CII may be 
+made by any officer or employee of the United States who reasonably 
+believes that such information:
+    (i) Evidences an employee's or agency's conduct in violation of 
+criminal law, or any other law, rule, or regulation, affecting or 
+relating to the protection of the critical infrastructure and protected 
+systems, analysis, warning, interdependency study, recovery, or 
+reconstitution or
+    (ii) Evidences mismanagement, a gross waste of funds, an abuse of 
+authority, or a substantial and specific danger to public health or 
+safety affecting or relating to the protection of the critical 
+infrastructure and protected systems, analysis, warning, interdependency 
+study, recovery, or reconstitution.
+    (4) Disclosures of all of the information cited in paragraphs (f)(1) 
+through (3) of this section, including under paragraph (f)(1)(i)(A), are 
+authorized by law and therefore are not subject to penalty under section 
+214(f) of the Homeland Security Act of 2002.
+    (g) Responding to requests made under the Freedom of Information Act 
+or State/local information access laws. (1) Protected CII shall be 
+treated as exempt from disclosure under the Freedom of Information Act 
+and, if provided by the Protected CII Program Manager or the Protected 
+CII Program Manager's designees to a State or local government agency, 
+entity, or authority, or an employee or contractor thereof, shall not be 
+made available pursuant to any State or local law requiring disclosure 
+of records or information. Any Federal, State, or local government 
+agency with questions regarding the protection of Protected CII from 
+public disclosure shall contact the Protected CII Program Manager, who 
+shall in turn consult with the DHS Office of the General Counsel.
+    (2) These procedures do not limit or otherwise affect the ability of 
+a State or local government entity, agency, or authority to obtain under 
+applicable State or local law information directly from the same person 
+or entity voluntarily submitting information to DHS. Information 
+independently obtained by a State or local government entity, agency, or 
+authority is not subject to the CII Act of 2002's prohibition on making 
+such information available pursuant to any State or local law requiring 
+disclosure of records or information.
+    (h) Ex parte communications with decisionmaking officials. Pursuant 
+to section 214(a)(1)(B) of the Homeland Security Act of 2002, Protected 
+CII is not subject to any agency rules or judicial doctrine regarding ex 
+parte communications with a decision making official.
+    (i) Restriction on use of Protected CII in civil actions. Pursuant 
+to section 214(a)(1)(C) of the Homeland Security Act of 2002, Protected 
+CII shall not, without the written consent of the person or entity 
+submitting such information, be used directly by any Federal, State, or 
+local authority, or by any third party, in any civil action arising 
+under Federal or State law if such information is submitted in good 
+faith under the CII Act of 2002.
+    (j) Disclosure to foreign governments. The Protected CII Program 
+Manager or the Protected CII Program Manager's designees may provide 
+Protected CII to a foreign Government without the written consent of the 
+person or entity submitting such information to the same extent, and 
+under the same conditions, it may provide advisories, alerts, and 
+warnings to other governmental entities as described in paragraph (e) of 
+this section, or in furtherance of an investigation or the prosecution 
+of a criminal act. Before disclosing Protected CII to a foreign 
+government, the Protected CII Program Manager or the Protected CII 
+Program Manager's designees shall protect from disclosure the source of 
+the Protected CII, any information that is proprietary or business 
+sensitive, relates specifically to the
+
+[[Page 98]]
+
+submitting person or entity, or is otherwise not appropriate for such 
+disclosure.
+    (k) Obtaining written consent for further disclosure from the person 
+or entity submitting information. (1) Authority to Seek and Obtain 
+Submitter's Consent to Disclosure. The Protected CII Program Manager or 
+any Protected CII Program Manager's designee may seek and obtain written 
+consent from persons or entities submitting information when such 
+consent is required under the CII Act of 2002 to permit disclosure. In 
+exigent circumstances, and so long as contemporaneous notice is provided 
+to the Protected CII Program Manager or the Protected CII Program 
+Manager's designees, any Federal government employee may seek the 
+consent of the submitting party to the disclosure of Protected CII where 
+such consent is required under the CII Act of 2002.
+    (2) Consequence of Consent. Whether given in response to a request 
+from the Protected CII Program Manager, the Protected CII Program 
+Manager's designees, or another Federal government employee pursuant to 
+paragraph (k)(1) of this section, a person's or entity's consent to 
+additional disclosure, if conditioned on a limited release of Protected 
+CII that is made for DHS's purposes and in a manner that offers 
+reasonable protection against disclosure to the general public, shall 
+not result in the information's loss of treatment as Protected CII.
+
+
+<R05>
+Sec. 29.9  Investigation and reporting of violation of protected CII procedures.
+
+    (a) Reporting of possible violations. Persons authorized to have 
+access to Protected CII shall report any possible violation of security 
+procedures, the loss or misplacement of Protected CII, and any 
+unauthorized disclosure of Protected CII immediately to the Protected 
+CII Program Manager or the Protected CII Program Manager's designees who 
+shall in turn report the incident to the IAIP Directorate Security 
+Officer and to the DHS Inspector General.
+    (b) Review and investigation of written report. The Inspector 
+General, Protected CII Program Manager, or IAIP Security Officer shall 
+investigate the incident and, in consultation with the DHS Office of the 
+General Counsel, determine whether a violation of procedures, loss of 
+information, and/or unauthorized disclosure has occurred. If the 
+investigation reveals any evidence of wrongdoing, DHS, through its 
+Office of the General Counsel, shall immediately contact the Department 
+of Justice's Criminal Division for consideration of prosecution under 
+the criminal penalty provisions of section 214(f) of the CII Act of 
+2002.
+    (c) Notification to originator of Protected CII. If the Protected 
+CII Program Manager or the IAIP Security Officer determines that a loss 
+of information or an unauthorized disclosure has occurred, the Protected 
+CII Program Manager or the Protected CII Program Manager's designees 
+shall notify the submitter of the information in writing, unless 
+providing such notification could reasonably be expected to harm the 
+investigation of that loss or any other law enforcement, national 
+security, or homeland security interest. The written notice shall 
+contain a description of the incident and the date of disclosure, if 
+known.
+    (d) Criminal and administrative penalties. As established in section 
+214(f) of the CII Act, whoever, being an officer or employee of the 
+United States or of any department or agency thereof, knowingly 
+publishes, divulges, discloses, or makes known in any manner or to any 
+extent not authorized by law any information protected from disclosure 
+by the CII Act of 2002 and coming to the officer or employee in the 
+course of his or her employment or official duties or by reason of any 
+examination or investigation made by, or return, report, or record made 
+to or filed with, such department or agency or officer or employee 
+thereof, shall be fined under title 18 of the United States Code, 
+imprisoned not more than one year, or both, and shall be removed from 
+office or employment.
+
+
+[[Page 99]]
 
 
 <R02>
@@ -6773,15 +7570,15 @@ Security.
   --------------------------------------------------------------------
 
   A list of CFR titles, subtitles, chapters, subchapters and parts, and 
-analphabetical list of agencies publishing in the CFR are included in 
-the CFRIndex and Finding Aids volume to the Code of Federal Regulations 
-which ispublished separately and revised annually.
+an alphabetical list of agencies publishing in the CFR are included in 
+the CFR Index and Finding Aids volume to the Code of Federal Regulations 
+which is published separately and revised annually.
 
   Table of CFR Titles and Chapters
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
-[[Page 91]]
+[[Page 101]]
 
 
 <R03>
@@ -6790,7 +7587,7 @@ which ispublished separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2004)
+                     (Revised as of January 1, 2005)
 
                       Title 1--General Provisions
 
@@ -6799,7 +7596,16 @@ which ispublished separately and revised annually.
         II  Office of the Federal Register (Parts 50--299)
         IV  Miscellaneous Agencies (Parts 400--500)
 
-                          Title 2 [Reserved]
+                    Title 2--Grants and Agreements
+
+            Subtitle A--Office of Management and Budget Guidance 
+                for Grants and Agreements
+         I  [Reserved]
+        II  Office of Management and Budget Circulars and Guidance 
+                [Reserved]
+            Subtitle B--Federal Agency Regulations for Grants and 
+                Agreements [Reserved]
+              
 
                         Title 3--The President
 
@@ -6815,17 +7621,20 @@ which ispublished separately and revised annually.
         II  Merit Systems Protection Board (Parts 1200--1299)
        III  Office of Management and Budget (Parts 1300--1399)
          V  The International Organizations Employees Loyalty 
-                Board (Parts1500--1599)
+                Board (Parts 1500--1599)
         VI  Federal Retirement Thrift Investment Board (Parts 
                 1600--1699)
       VIII  Office of Special Counsel (Parts 1800--1899)
         IX  Appalachian Regional Commission (Parts 1900--1999)
         XI  Armed Forces Retirement Home (Part 2100)
        XIV  Federal Labor Relations Authority, General Counsel of 
-                the Federal LaborRelations Authority and Federal 
+                the Federal Labor Relations Authority and Federal 
                 Service Impasses Panel (Parts 2400--2499)
+
+[[Page 102]]
+
         XV  Office of Administration, Executive Office of the 
-                President (Parts2500--2599)
+                President (Parts 2500--2599)
        XVI  Office of Government Ethics (Parts 2600--2699)
        XXI  Department of the Treasury (Parts 3100--3199)
       XXII  Federal Deposit Insurance Corporation (Part 3201)
@@ -6833,9 +7642,6 @@ which ispublished separately and revised annually.
       XXIV  Federal Energy Regulatory Commission (Part 3401)
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
-
-[[Page 92]]
-
     XXVIII  Department of Justice (Part 3801)
       XXIX  Federal Communications Commission (Parts 3900--3999)
        XXX  Farm Credit System Insurance Corporation (Parts 4000--
@@ -6876,128 +7682,130 @@ which ispublished separately and revised annually.
     LXXIII  Department of Agriculture (Part 8301)
      LXXIV  Federal Mine Safety and Health Review Commission (Part 
                 8401)
+
+[[Page 103]]
+
      LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
     LXXVII  Office of Management and Budget (Part 8701)
 
                       Title 6--Homeland Security
 
          I  Department of Homeland Security, Office of the 
-                Secretary (Parts0--99)
-
-[[Page 93]]
+                Secretary (Parts 0--99)
 
                          Title 7--Agriculture
 
             Subtitle A--Office of the Secretary of Agriculture 
-                (Parts0--26)
+                (Parts 0--26)
             Subtitle B--Regulations of the Department of 
                 Agriculture
          I  Agricultural Marketing Service (Standards, 
-                Inspections, MarketingPractices), Department of 
+                Inspections, Marketing Practices), Department of 
                 Agriculture (Parts 27--209)
         II  Food and Nutrition Service, Department of Agriculture 
-                (Parts210--299)
+                (Parts 210--299)
        III  Animal and Plant Health Inspection Service, Department 
-                of Agriculture(Parts 300--399)
+                of Agriculture (Parts 300--399)
         IV  Federal Crop Insurance Corporation, Department of 
-                Agriculture (Parts400--499)
+                Agriculture (Parts 400--499)
          V  Agricultural Research Service, Department of 
-                Agriculture (Parts500--599)
+                Agriculture (Parts 500--599)
         VI  Natural Resources Conservation Service, Department of 
-                Agriculture(Parts 600--699)
+                Agriculture (Parts 600--699)
        VII  Farm Service Agency, Department of Agriculture (Parts 
                 700--799)
       VIII  Grain Inspection, Packers and Stockyards 
-                Administration (Federal GrainInspection Service), 
+                Administration (Federal Grain Inspection Service), 
                 Department of Agriculture (Parts 800--899)
         IX  Agricultural Marketing Service (Marketing Agreements 
-                and Orders;Fruits, Vegetables, Nuts), Department 
+                and Orders; Fruits, Vegetables, Nuts), Department 
                 of Agriculture (Parts 900--999)
          X  Agricultural Marketing Service (Marketing Agreements 
-                and Orders; Milk),Department of Agriculture (Parts 
-                1000--1199)
+                and Orders; Milk), Department of Agriculture 
+                (Parts 1000--1199)
         XI  Agricultural Marketing Service (Marketing Agreements 
-                and Orders;Miscellaneous Commodities), Department 
+                and Orders; Miscellaneous Commodities), Department 
                 of Agriculture (Parts 1200--1299)
        XIV  Commodity Credit Corporation, Department of 
-                Agriculture (Parts1400--1499)
+                Agriculture (Parts 1400--1499)
         XV  Foreign Agricultural Service, Department of 
-                Agriculture (Parts1500--1599)
+                Agriculture (Parts 1500--1599)
        XVI  Rural Telephone Bank, Department of Agriculture (Parts 
                 1600--1699)
       XVII  Rural Utilities Service, Department of Agriculture 
-                (Parts1700--1799)
+                (Parts 1700--1799)
      XVIII  Rural Housing Service, Rural Business-Cooperative 
-                Service, RuralUtilities Service, and Farm Service 
-                Agency, Department of Agriculture (Parts1800--
+                Service, Rural Utilities Service, and Farm Service 
+                Agency, Department of Agriculture (Parts 1800--
                 2099)
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
+
+[[Page 104]]
+
       XXVI  Office of Inspector General, Department of Agriculture 
-                (Parts2600--2699)
+                (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
-                of Agriculture(Parts 2700--2799)
+                of Agriculture (Parts 2700--2799)
     XXVIII  Office of Operations, Department of Agriculture (Parts 
                 2800--2899)
       XXIX  Office of Energy, Department of Agriculture (Parts 
                 2900--2999)
        XXX  Office of the Chief Financial Officer, Department of 
-                Agriculture (Parts3000--3099)
-
-[[Page 94]]
-
+                Agriculture (Parts 3000--3099)
       XXXI  Office of Environmental Quality, Department of 
-                Agriculture (Parts3100--3199)
+                Agriculture (Parts 3100--3199)
      XXXII  Office of Procurement and Property Management, 
-                Department ofAgriculture (Parts 3200--3299)
+                Department of Agriculture (Parts 3200--3299)
     XXXIII  Office of Transportation, Department of Agriculture 
-                (Parts3300--3399)
+                (Parts 3300--3399)
      XXXIV  Cooperative State Research, Education, and Extension 
-                Service,Department of Agriculture (Parts 3400--
+                Service, Department of Agriculture (Parts 3400--
                 3499)
       XXXV  Rural Housing Service, Department of Agriculture 
-                (Parts3500--3599)
+                (Parts 3500--3599)
      XXXVI  National Agricultural Statistics Service, Department 
-                of Agriculture(Parts 3600--3699)
+                of Agriculture (Parts 3600--3699)
     XXXVII  Economic Research Service, Department of Agriculture 
-                (Parts3700--3799)
+                (Parts 3700--3799)
    XXXVIII  World Agricultural Outlook Board, Department of 
-                Agriculture (Parts3800--3899)
+                Agriculture (Parts 3800--3899)
        XLI  [Reserved]
       XLII  Rural Business-Cooperative Service and Rural Utilities 
-                Service,Department of Agriculture (Parts 4200--
+                Service, Department of Agriculture (Parts 4200--
                 4299)
 
                     Title 8--Aliens and Nationality
 
          I  Department of Homeland Security (Immigration and 
-                Naturalization) (Parts1--499)
+                Naturalization) (Parts 1--499)
          V  Executive Office for Immigration Review, Department of 
-                Justice (Parts1000--1399)
+                Justice (Parts 1000--1399)
 
                  Title 9--Animals and Animal Products
 
          I  Animal and Plant Health Inspection Service, Department 
-                of Agriculture(Parts 1--199)
+                of Agriculture (Parts 1--199)
         II  Grain Inspection, Packers and Stockyards 
-                Administration (Packers andStockyards Programs), 
+                Administration (Packers and Stockyards Programs), 
                 Department of Agriculture (Parts 200--299)
        III  Food Safety and Inspection Service, Department of 
-                Agriculture (Parts300--599)
+                Agriculture (Parts 300--599)
 
                            Title 10--Energy
 
          I  Nuclear Regulatory Commission (Parts 0--199)
         II  Department of Energy (Parts 200--699)
+
+[[Page 105]]
+
        III  Department of Energy (Parts 700--999)
-         X  Department of Energy (General Provisions) (Parts 
-                1000--1099)
+         X  Department of Energy (General Provisions) (Parts 1000-
+                -1099)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
      XVIII  Northeast Interstate Low-Level Radioactive Waste 
                 Commission (Part 1800)
-
-[[Page 95]]
 
                       Title 11--Federal Elections
 
@@ -7006,53 +7814,54 @@ which ispublished separately and revised annually.
                       Title 12--Banks and Banking
 
          I  Comptroller of the Currency, Department of the 
-                Treasury (Parts1--199)
+                Treasury (Parts 1--199)
         II  Federal Reserve System (Parts 200--299)
        III  Federal Deposit Insurance Corporation (Parts 300--399)
         IV  Export-Import Bank of the United States (Parts 400--
                 499)
          V  Office of Thrift Supervision, Department of the 
-                Treasury (Parts500--599)
+                Treasury (Parts 500--599)
         VI  Farm Credit Administration (Parts 600--699)
        VII  National Credit Union Administration (Parts 700--799)
       VIII  Federal Financing Bank (Parts 800--899)
         IX  Federal Housing Finance Board (Parts 900--999)
         XI  Federal Financial Institutions Examination Council 
-                (Parts1100--1199)
+                (Parts 1100--1199)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
         XV  Department of the Treasury (Parts 1500--1599)
       XVII  Office of Federal Housing Enterprise Oversight, 
-                Department of Housingand Urban Development (Parts 
+                Department of Housing and Urban Development (Parts 
                 1700--1799)
      XVIII  Community Development Financial Institutions Fund, 
-                Department of theTreasury (Parts 1800--1899)
+                Department of the Treasury (Parts 1800--1899)
 
                Title 13--Business Credit and Assistance
 
          I  Small Business Administration (Parts 1--199)
        III  Economic Development Administration, Department of 
-                Commerce (Parts300--399)
+                Commerce (Parts 300--399)
         IV  Emergency Steel Guarantee Loan Board, Department of 
-                Commerce (Parts400--499)
+                Commerce (Parts 400--499)
          V  Emergency Oil and Gas Guaranteed Loan Board, 
-                Department of Commerce(Parts 500--599)
+                Department of Commerce (Parts 500--599)
 
                     Title 14--Aeronautics and Space
 
          I  Federal Aviation Administration, Department of 
-                Transportation (Parts1--199)
+                Transportation (Parts 1--199)
         II  Office of the Secretary, Department of Transportation 
-                (AviationProceedings) (Parts 200--399)
+                (Aviation Proceedings) (Parts 200--399)
+
+[[Page 106]]
+
        III  Commercial Space Transportation, Federal Aviation 
-                Administration,Department of Transportation (Parts 
-                400--499)
+                Administration, Department of Transportation 
+                (Parts 400--499)
          V  National Aeronautics and Space Administration (Parts 
                 1200--1299)
         VI  Air Transportation System Stabilization (Parts 1300--
                 1399)
-
-[[Page 96]]
 
                  Title 15--Commerce and Foreign Trade
 
@@ -7063,30 +7872,30 @@ which ispublished separately and revised annually.
          I  Bureau of the Census, Department of Commerce (Parts 
                 30--199)
         II  National Institute of Standards and Technology, 
-                Department of Commerce(Parts 200--299)
+                Department of Commerce (Parts 200--299)
        III  International Trade Administration, Department of 
-                Commerce (Parts300--399)
+                Commerce (Parts 300--399)
         IV  Foreign-Trade Zones Board, Department of Commerce 
                 (Parts 400--499)
        VII  Bureau of Industry and Security, Department of 
-                Commerce (Parts700--799)
+                Commerce (Parts 700--799)
       VIII  Bureau of Economic Analysis, Department of Commerce 
-                (Parts800--899)
+                (Parts 800--899)
         IX  National Oceanic and Atmospheric Administration, 
-                Department of Commerce(Parts 900--999)
+                Department of Commerce (Parts 900--999)
         XI  Technology Administration, Department of Commerce 
-                (Parts1100--1199)
+                (Parts 1100--1199)
       XIII  East-West Foreign Trade Board (Parts 1300--1399)
        XIV  Minority Business Development Agency (Parts 1400--
                 1499)
             Subtitle C--Regulations Relating to Foreign Trade 
                 Agreements
         XX  Office of the United States Trade Representative 
-                (Parts2000--2099)
+                (Parts 2000--2099)
             Subtitle D--Regulations Relating to Telecommunications 
-                andInformation
+                and Information
      XXIII  National Telecommunications and Information 
-                Administration, Departmentof Commerce (Parts 
+                Administration, Department of Commerce (Parts 
                 2300--2399)
 
                     Title 16--Commercial Practices
@@ -7100,56 +7909,55 @@ which ispublished separately and revised annually.
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
 
+[[Page 107]]
+
           Title 18--Conservation of Power and Water Resources
 
          I  Federal Energy Regulatory Commission, Department of 
-                Energy (Parts1--399)
+                Energy (Parts 1--399)
        III  Delaware River Basin Commission (Parts 400--499)
         VI  Water Resources Council (Parts 700--799)
-
-[[Page 97]]
-
       VIII  Susquehanna River Basin Commission (Parts 800--899)
       XIII  Tennessee Valley Authority (Parts 1300--1399)
 
                        Title 19--Customs Duties
 
          I  Bureau of Customs and Border Protection, Department of 
-                HomelandSecurity; Department of the Treasury 
+                Homeland Security; Department of the Treasury 
                 (Parts 0--199)
         II  United States International Trade Commission (Parts 
                 200--299)
        III  International Trade Administration, Department of 
-                Commerce (Parts300--399)
+                Commerce (Parts 300--399)
         IV  Bureau of Immigration and Customs Enforcement, 
-                Department of HomelandSecurity (Parts 400--599)
+                Department of Homeland Security (Parts 400--599)
 
                      Title 20--Employees' Benefits
 
          I  Office of Workers' Compensation Programs, Department 
-                of Labor (Parts1--199)
+                of Labor (Parts 1--199)
         II  Railroad Retirement Board (Parts 200--399)
        III  Social Security Administration (Parts 400--499)
-        IV  Employees' Compensation Appeals Board, Department of 
-                Labor (Parts500--599)
+        IV  Employees Compensation Appeals Board, Department of 
+                Labor (Parts 500--599)
          V  Employment and Training Administration, Department of 
-                Labor (Parts600--699)
+                Labor (Parts 600--699)
         VI  Employment Standards Administration, Department of 
-                Labor (Parts700--799)
-       VII  Benefits Review Board, Department of Labor (Parts 
-                800--899)
+                Labor (Parts 700--799)
+       VII  Benefits Review Board, Department of Labor (Parts 800-
+                -899)
       VIII  Joint Board for the Enrollment of Actuaries (Parts 
                 900--999)
         IX  Office of the Assistant Secretary for Veterans' 
-                Employment andTraining, Department of Labor (Parts 
-                1000--1099)
+                Employment and Training, Department of Labor 
+                (Parts 1000--1099)
 
                        Title 21--Food and Drugs
 
          I  Food and Drug Administration, Department of Health and 
-                Human Services(Parts 1--1299)
+                Human Services (Parts 1--1299)
         II  Drug Enforcement Administration, Department of Justice 
-                (Parts1300--1399)
+                (Parts 1300--1399)
        III  Office of National Drug Control Policy (Parts 1400--
                 1499)
 
@@ -7158,212 +7966,210 @@ which ispublished separately and revised annually.
          I  Department of State (Parts 1--199)
         II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
+
+[[Page 108]]
+
         IV  International Joint Commission, United States and 
-                Canada (Parts400--499)
+                Canada (Parts 400--499)
          V  Broadcasting Board of Governors (Parts 500--599)
        VII  Overseas Private Investment Corporation (Parts 700--
                 799)
         IX  Foreign Service Grievance Board Regulations (Parts 
                 900--999)
-
-[[Page 98]]
-
          X  Inter-American Foundation (Parts 1000--1099)
         XI  International Boundary and Water Commission, United 
-                States and Mexico,United States Section (Parts 
+                States and Mexico, United States Section (Parts 
                 1100--1199)
        XII  United States International Development Cooperation 
-                Agency (Parts1200--1299)
+                Agency (Parts 1200--1299)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
-                RelationsAuthority; General Counsel of the Federal 
-                Labor Relations Authority; and theForeign Service 
-                Impasse Disputes Panel (Parts 1400--1499)
+                Relations Authority; General Counsel of the 
+                Federal Labor Relations Authority; and the Foreign 
+                Service Impasse Disputes Panel (Parts 1400--1499)
         XV  African Development Foundation (Parts 1500--1599)
-       XVI  Japan-United States Friendship Commission (Parts 
-                1600--1699)
+       XVI  Japan-United States Friendship Commission (Parts 1600-
+                -1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
 
                           Title 23--Highways
 
          I  Federal Highway Administration, Department of 
-                Transportation (Parts1--999)
+                Transportation (Parts 1--999)
         II  National Highway Traffic Safety Administration and 
-                Federal HighwayAdministration, Department of 
+                Federal Highway Administration, Department of 
                 Transportation (Parts 1200--1299)
        III  National Highway Traffic Safety Administration, 
-                Department ofTransportation (Parts 1300--1399)
+                Department of Transportation (Parts 1300--1399)
 
                 Title 24--Housing and Urban Development
 
             Subtitle A--Office of the Secretary, Department of 
-                Housing andUrban Development (Parts 0--99)
+                Housing and Urban Development (Parts 0--99)
             Subtitle B--Regulations Relating to Housing and Urban 
                 Development
          I  Office of Assistant Secretary for Equal Opportunity, 
-                Department ofHousing and Urban Development (Parts 
+                Department of Housing and Urban Development (Parts 
                 100--199)
         II  Office of Assistant Secretary for Housing-Federal 
-                Housing Commissioner,Department of Housing and 
+                Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
-                of Housing andUrban Development (Parts 300--399)
+                of Housing and Urban Development (Parts 300--399)
         IV  Office of Housing and Office of Multifamily Housing 
-                AssistanceRestructuring, Department of Housing and 
-                Urban Development (Parts 400--499)
+                Assistance Restructuring, Department of Housing 
+                and Urban Development (Parts 400--499)
          V  Office of Assistant Secretary for Community Planning 
-                and Development,Department of Housing and Urban 
+                and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
         VI  Office of Assistant Secretary for Community Planning 
-                and Development,Department of Housing and Urban 
+                and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
+
+[[Page 109]]
+
        VII  Office of the Secretary, Department of Housing and 
-                Urban Development(Housing Assistance Programs and 
-                Public and Indian Housing Programs) (Parts700--
+                Urban Development (Housing Assistance Programs and 
+                Public and Indian Housing Programs) (Parts 700--
                 799)
-
-[[Page 99]]
-
       VIII  Office of the Assistant Secretary for Housing--Federal 
-                HousingCommissioner, Department of Housing and 
-                Urban Development (Section 8 HousingAssistance 
+                Housing Commissioner, Department of Housing and 
+                Urban Development (Section 8 Housing Assistance 
                 Programs, Section 202 Direct Loan Program, Section 
-                202 SupportiveHousing for the Elderly Program and 
-                Section 811 Supportive Housing for PersonsWith 
+                202 Supportive Housing for the Elderly Program and 
+                Section 811 Supportive Housing for Persons With 
                 Disabilities Program) (Parts 800--899)
         IX  Office of Assistant Secretary for Public and Indian 
-                Housing, Departmentof Housing and Urban 
+                Housing, Department of Housing and Urban 
                 Development (Parts 900--1699)
          X  Office of Assistant Secretary for Housing--Federal 
-                HousingCommissioner, Department of Housing and 
-                Urban Development (Interstate Land 
-                SalesRegistration Program) (Parts 1700--1799)
+                Housing Commissioner, Department of Housing and 
+                Urban Development (Interstate Land Sales 
+                Registration Program) (Parts 1700--1799)
        XII  Office of Inspector General, Department of Housing and 
-                UrbanDevelopment (Parts 2000--2099)
+                Urban Development (Parts 2000--2099)
         XX  Office of Assistant Secretary for Housing--Federal 
-                HousingCommissioner, Department of Housing and 
-                Urban Development (Parts3200--3899)
+                Housing Commissioner, Department of Housing and 
+                Urban Development (Parts 3200--3899)
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
 
                            Title 25--Indians
 
          I  Bureau of Indian Affairs, Department of the Interior 
-                (Parts1--299)
+                (Parts 1--299)
         II  Indian Arts and Crafts Board, Department of the 
-                Interior (Parts300--399)
+                Interior (Parts 300--399)
        III  National Indian Gaming Commission, Department of the 
-                Interior (Parts500--599)
+                Interior (Parts 500--599)
         IV  Office of Navajo and Hopi Indian Relocation (Parts 
                 700--799)
          V  Bureau of Indian Affairs, Department of the Interior, 
-                and Indian HealthService, Department of Health and 
-                Human Services (Part 900)
+                and Indian Health Service, Department of Health 
+                and Human Services (Part 900)
         VI  Office of the Assistant Secretary-Indian Affairs, 
-                Department of theInterior (Parts 1000--1199)
+                Department of the Interior (Parts 1000--1199)
        VII  Office of the Special Trustee for American Indians, 
-                Department of theInterior (Part 1200)
+                Department of the Interior (Part 1200)
 
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
-                (Parts1--899)
+                (Parts 1--899)
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
          I  Alcohol and Tobacco Tax and Trade Bureau, Department 
-                of the Treasury(Parts 1--399)
+                of the Treasury (Parts 1--399)
         II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
-                Department ofJustice (Parts 400--699)
+                Department of Justice (Parts 400--699)
+
+[[Page 110]]
 
                    Title 28--Judicial Administration
 
          I  Department of Justice (Parts 0--299)
-
-[[Page 100]]
-
        III  Federal Prison Industries, Inc., Department of Justice 
-                (Parts300--399)
+                (Parts 300--399)
          V  Bureau of Prisons, Department of Justice (Parts 500--
                 599)
         VI  Offices of Independent Counsel, Department of Justice 
-                (Parts600--699)
+                (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
       VIII  Court Services and Offender Supervision Agency for the 
-                District ofColumbia (Parts 800--899)
+                District of Columbia (Parts 800--899)
         IX  National Crime Prevention and Privacy Compact Council 
-                (Parts900--999)
+                (Parts 900--999)
         XI  Department of Justice and Department of State (Parts 
                 1100--1199)
 
                             Title 29--Labor
 
-            Subtitle A--Office of the Secretary of Labor (Parts 
-                0--99)
+            Subtitle A--Office of the Secretary of Labor (Parts 0-
+                -99)
             Subtitle B--Regulations Relating to Labor
          I  National Labor Relations Board (Parts 100--199)
         II  Office of Labor-Management Standards, Department of 
-                Labor (Parts200--299)
+                Labor (Parts 200--299)
        III  National Railroad Adjustment Board (Parts 300--399)
         IV  Office of Labor-Management Standards, Department of 
-                Labor (Parts400--499)
+                Labor (Parts 400--499)
          V  Wage and Hour Division, Department of Labor (Parts 
                 500--899)
         IX  Construction Industry Collective Bargaining Commission 
-                (Parts900--999)
+                (Parts 900--999)
          X  National Mediation Board (Parts 1200--1299)
        XII  Federal Mediation and Conciliation Service (Parts 
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
                 1699)
       XVII  Occupational Safety and Health Administration, 
-                Department of Labor(Parts 1900--1999)
+                Department of Labor (Parts 1900--1999)
         XX  Occupational Safety and Health Review Commission 
-                (Parts2200--2499)
+                (Parts 2200--2499)
        XXV  Employee Benefits Security Administration, Department 
-                of Labor (Parts2500--2599)
+                of Labor (Parts 2500--2599)
      XXVII  Federal Mine Safety and Health Review Commission 
-                (Parts2700--2799)
+                (Parts 2700--2799)
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
-                Labor (Parts1--199)
+                Labor (Parts 1--199)
         II  Minerals Management Service, Department of the 
-                Interior (Parts200--299)
+                Interior (Parts 200--299)
        III  Board of Surface Mining and Reclamation Appeals, 
-                Department of theInterior (Parts 300--399)
+                Department of the Interior (Parts 300--399)
+
+[[Page 111]]
+
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
-
-[[Page 101]]
-
        VII  Office of Surface Mining Reclamation and Enforcement, 
-                Department of theInterior (Parts 700--999)
+                Department of the Interior (Parts 700--999)
 
                  Title 31--Money and Finance: Treasury
 
             Subtitle A--Office of the Secretary of the Treasury 
-                (Parts0--50)
+                (Parts 0--50)
             Subtitle B--Regulations Relating to Money and Finance
          I  Monetary Offices, Department of the Treasury (Parts 
                 51--199)
-        II  Fiscal Service, Department of the Treasury (Parts 
-                200--399)
-        IV  Secret Service, Department of the Treasury (Parts 
-                400--499)
+        II  Fiscal Service, Department of the Treasury (Parts 200-
+                -399)
+        IV  Secret Service, Department of the Treasury (Parts 400-
+                -499)
          V  Office of Foreign Assets Control, Department of the 
-                Treasury (Parts500--599)
+                Treasury (Parts 500--599)
         VI  Bureau of Engraving and Printing, Department of the 
-                Treasury (Parts600--699)
+                Treasury (Parts 600--699)
        VII  Federal Law Enforcement Training Center, Department of 
-                the Treasury(Parts 700--799)
+                the Treasury (Parts 700--799)
       VIII  Office of International Investment, Department of the 
-                Treasury (Parts800--899)
-        IX  Federal Claims Collection Standards (Department of 
-                theTreasury--Department of Justice) (Parts 900--
-                999)
+                Treasury (Parts 800--899)
+        IX  Federal Claims Collection Standards (Department of the 
+                Treasury--Department of Justice) (Parts 900--999)
 
                       Title 32--National Defense
 
@@ -7379,7 +8185,7 @@ which ispublished separately and revised annually.
      XVIII  National Counterintelligence Center (Parts 1800--1899)
        XIX  Central Intelligence Agency (Parts 1900--1999)
         XX  Information Security Oversight Office, National 
-                Archives and RecordsAdministration (Parts 2000--
+                Archives and Records Administration (Parts 2000--
                 2099)
        XXI  National Security Council (Parts 2100--2199)
       XXIV  Office of Science and Technology Policy (Parts 2400--
@@ -7387,45 +8193,43 @@ which ispublished separately and revised annually.
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
     XXVIII  Office of the Vice President of the United States 
-                (Parts2800--2899)
+                (Parts 2800--2899)
 
                Title 33--Navigation and Navigable Waters
 
-         I  Coast Guard, Department of Homeland Security (Parts 
-                1--199)
-        II  Corps of Engineers, Department of the Army (Parts 
-                200--399)
+         I  Coast Guard, Department of Homeland Security (Parts 1-
+                -199)
+        II  Corps of Engineers, Department of the Army (Parts 200-
+                -399)
 
-[[Page 102]]
+[[Page 112]]
 
         IV  Saint Lawrence Seaway Development Corporation, 
-                Department ofTransportation (Parts 400--499)
+                Department of Transportation (Parts 400--499)
 
                           Title 34--Education
 
             Subtitle A--Office of the Secretary, Department of 
-                Education(Parts 1--99)
+                Education (Parts 1--99)
             Subtitle B--Regulations of the Offices of the 
-                Department ofEducation
+                Department of Education
          I  Office for Civil Rights, Department of Education 
                 (Parts 100--199)
         II  Office of Elementary and Secondary Education, 
-                Department of Education(Parts 200--299)
+                Department of Education (Parts 200--299)
        III  Office of Special Education and Rehabilitative 
-                Services, Department ofEducation (Parts 300--399)
+                Services, Department of Education (Parts 300--399)
         IV  Office of Vocational and Adult Education, Department 
-                of Education(Parts 400--499)
+                of Education (Parts 400--499)
          V  Office of Bilingual Education and Minority Languages 
-                Affairs,Department of Education (Parts 500--599)
+                Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
-                Education (Parts600--699)
+                Education (Parts 600--699)
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
-                        Title 35--Panama Canal
-
-         I  Panama Canal Regulations (Parts 1--299)
+                         Title 35  [Reserved]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -7433,8 +8237,8 @@ which ispublished separately and revised annually.
                 (Parts 1--199)
         II  Forest Service, Department of Agriculture (Parts 200--
                 299)
-       III  Corps of Engineers, Department of the Army (Parts 
-                300--399)
+       III  Corps of Engineers, Department of the Army (Parts 300-
+                -399)
         IV  American Battle Monuments Commission (Parts 400--499)
          V  Smithsonian Institution (Parts 500--599)
        VII  Library of Congress (Parts 700--799)
@@ -7444,24 +8248,25 @@ which ispublished separately and revised annually.
                 900--999)
          X  Presidio Trust (Parts 1000--1099)
         XI  Architectural and Transportation Barriers Compliance 
-                Board (Parts1100--1199)
+                Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
        XVI  Morris K. Udall Scholarship and Excellence in National 
-                EnvironmentalPolicy Foundation (Parts 1600--1699)
-
-[[Page 103]]
+                Environmental Policy Foundation (Parts 1600--1699)
 
              Title 37--Patents, Trademarks, and Copyrights
 
          I  United States Patent and Trademark Office, Department 
-                of Commerce(Parts 1--199)
+                of Commerce (Parts 1--199)
+
+[[Page 113]]
+
         II  Copyright Office, Library of Congress (Parts 200--299)
         IV  Assistant Secretary for Technology Policy, Department 
-                of Commerce(Parts 400--499)
+                of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
-                (Parts500--599)
+                (Parts 500--599)
 
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
@@ -7476,122 +8281,122 @@ which ispublished separately and revised annually.
 
          I  Environmental Protection Agency (Parts 1--1099)
         IV  Environmental Protection Agency and Department of 
-                Justice (Parts1400--1499)
+                Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
         VI  Chemical Safety and Hazard Investigation Board (Parts 
                 1600--1699)
        VII  Environmental Protection Agency and Department of 
-                Defense; UniformNational Discharge Standards for 
-                Vessels of the Armed Forces (Parts1700--1799)
+                Defense; Uniform National Discharge Standards for 
+                Vessels of the Armed Forces (Parts 1700--1799)
 
           Title 41--Public Contracts and Property Management
 
             Subtitle B--Other Provisions Relating to Public 
                 Contracts
-        50  Public Contracts, Department of Labor (Parts50-1--50-
+        50  Public Contracts, Department of Labor (Parts 50-1--50-
                 999)
         51  Committee for Purchase From People Who Are Blind or 
-                Severely Disabled(Parts 51-1--51-99)
+                Severely Disabled (Parts 51-1--51-99)
         60  Office of Federal Contract Compliance Programs, Equal 
-                EmploymentOpportunity, Department of Labor (Parts 
+                Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
         61  Office of the Assistant Secretary for Veterans' 
-                Employment and TrainingService, Department of 
+                Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
             Subtitle C--Federal Property Management Regulations 
                 System
-       101  Federal Property Management Regulations (Parts101-1--
+       101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
-                (Parts109-1--109-99)
+                (Parts 109-1--109-99)
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
-
-[[Page 104]]
-
        128  Department of Justice (Parts 128-1--128-99)
+
+[[Page 114]]
+
             Subtitle D--Other Provisions Relating to Property 
-                Management[Reserved]
+                Management [Reserved]
             Subtitle E--Federal Information Resources Management 
-                RegulationsSystem
+                Regulations System
        201  Federal Information Resources Management Regulation 
-                (Parts201-1--201-99) [Reserved]
+                (Parts 201-1--201-99) [Reserved]
             Subtitle F--Federal Travel Regulation System
        300  General (Parts 300-1--300-99)
-       301  Temporary Duty (TDY) Travel Allowances (Parts301-1--
+       301  Temporary Duty (TDY) Travel Allowances (Parts 301-1--
                 301-99)
        302  Relocation Allowances (Parts 302-1--302-99)
        303  Payment of Expenses Connected with the Death of 
-                Certain Employees (Part303-70)
+                Certain Employees (Part 303-1--303-99)
        304  Payment of Travel Expenses from a Non-Federal Source 
-                (Parts304-1--304-99)
+                (Parts 304-1--304-99)
 
                         Title 42--Public Health
 
          I  Public Health Service, Department of Health and Human 
-                Services (Parts1--199)
+                Services (Parts 1--199)
         IV  Centers for Medicare & Medicaid Services, Department 
-                of Health andHuman Services (Parts 400--499)
+                of Health and Human Services (Parts 400--499)
          V  Office of Inspector General-Health Care, Department of 
-                Health and HumanServices (Parts 1000--1999)
+                Health and Human Services (Parts 1000--1999)
 
                    Title 43--Public Lands: Interior
 
             Subtitle A--Office of the Secretary of the Interior 
-                (Parts1--199)
+                (Parts 1--199)
             Subtitle B--Regulations Relating to Public Lands
          I  Bureau of Reclamation, Department of the Interior 
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
-                (Parts1000--9999)
+                (Parts 1000--9999)
        III  Utah Reclamation Mitigation and Conservation 
-                Commission (Parts10000--10010)
+                Commission (Parts 10000--10010)
 
              Title 44--Emergency Management and Assistance
 
          I  Federal Emergency Management Agency, Department of 
-                Homeland Security(Parts 0--399)
+                Homeland Security (Parts 0--399)
         IV  Department of Commerce and Department of 
-                Transportation (Parts400--499)
+                Transportation (Parts 400--499)
 
                        Title 45--Public Welfare
 
             Subtitle A--Department of Health and Human Services 
-                (Parts1--199)
+                (Parts 1--199)
             Subtitle B--Regulations Relating to Public Welfare
 
-[[Page 105]]
+[[Page 115]]
 
         II  Office of Family Assistance (Assistance Programs), 
-                Administration forChildren and Families, 
-                Department of Health and Human Services 
-                (Parts200--299)
+                Administration for Children and Families, 
+                Department of Health and Human Services (Parts 
+                200--299)
        III  Office of Child Support Enforcement (Child Support 
-                EnforcementProgram), Administration for Children 
-                and Families, Department of Health andHuman 
+                Enforcement Program), Administration for Children 
+                and Families, Department of Health and Human 
                 Services (Parts 300--399)
         IV  Office of Refugee Resettlement, Administration for 
-                Children andFamilies, Department of Health and 
+                Children and Families, Department of Health and 
                 Human Services (Parts 400--499)
          V  Foreign Claims Settlement Commission of the United 
-                States, Departmentof Justice (Parts 500--599)
+                States, Department of Justice (Parts 500--599)
         VI  National Science Foundation (Parts 600--699)
        VII  Commission on Civil Rights (Parts 700--799)
       VIII  Office of Personnel Management (Parts 800--899)
          X  Office of Community Services, Administration for 
-                Children and Families,Department of Health and 
+                Children and Families, Department of Health and 
                 Human Services (Parts 1000--1099)
         XI  National Foundation on the Arts and the Humanities 
-                (Parts1100--1199)
+                (Parts 1100--1199)
        XII  Corporation for National and Community Service (Parts 
                 1200--1299)
       XIII  Office of Human Development Services, Department of 
-                Health and HumanServices (Parts 1300--1399)
+                Health and Human Services (Parts 1300--1399)
        XVI  Legal Services Corporation (Parts 1600--1699)
       XVII  National Commission on Libraries and Information 
-                Science (Parts1700--1799)
+                Science (Parts 1700--1799)
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
@@ -7603,25 +8408,25 @@ which ispublished separately and revised annually.
 
                           Title 46--Shipping
 
-         I  Coast Guard, Department of Homeland Security (Parts 
-                1--199)
+         I  Coast Guard, Department of Homeland Security (Parts 1-
+                -199)
         II  Maritime Administration, Department of Transportation 
-                (Parts200--399)
+                (Parts 200--399)
        III  Coast Guard (Great Lakes Pilotage), Department of 
-                Homeland Security(Parts 400--499)
+                Homeland Security (Parts 400--499)
         IV  Federal Maritime Commission (Parts 500--599)
 
                       Title 47--Telecommunication
 
          I  Federal Communications Commission (Parts 0--199)
         II  Office of Science and Technology Policy and National 
-                Security Council(Parts 200--299)
+                Security Council (Parts 200--299)
 
-[[Page 106]]
+[[Page 116]]
 
        III  National Telecommunications and Information 
-                Administration, Departmentof Commerce (Parts 300--
-                399)
+                Administration, Department of Commerce (Parts 300-
+                -399)
 
            Title 48--Federal Acquisition Regulations System
 
@@ -7633,7 +8438,7 @@ which ispublished separately and revised annually.
          5  General Services Administration (Parts 500--599)
          6  Department of State (Parts 600--699)
          7  United States Agency for International Development 
-                (Parts700--799)
+                (Parts 700--799)
          8  Department of Veterans Affairs (Parts 800--899)
          9  Department of Energy (Parts 900--999)
         10  Department of the Treasury (Parts 1000--1099)
@@ -7642,7 +8447,7 @@ which ispublished separately and revised annually.
         14  Department of the Interior (Parts 1400--1499)
         15  Environmental Protection Agency (Parts 1500--1599)
         16  Office of Personnel Management, Federal Employees 
-                Health BenefitsAcquisition Regulation (Parts 
+                Health Benefits Acquisition Regulation (Parts 
                 1600--1699)
         17  Office of Personnel Management (Parts 1700--1799)
         18  National Aeronautics and Space Administration (Parts 
@@ -7650,8 +8455,8 @@ which ispublished separately and revised annually.
         19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
         21  Office of Personnel Management, Federal Employees 
-                Group Life InsuranceFederal Acquisition Regulation 
-                (Parts 2100--2199)
+                Group Life Insurance Federal Acquisition 
+                Regulation (Parts 2100--2199)
         23  Social Security Administration (Parts 2300--2399)
         24  Department of Housing and Urban Development (Parts 
                 2400--2499)
@@ -7659,80 +8464,80 @@ which ispublished separately and revised annually.
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
         30  Department of Homeland Security, Homeland Security 
-                AcquisitionRegulation (HSAR) (Parts 3000--3099)
+                Acquisition Regulation (HSAR) (Parts 3000--3099)
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
-        35  Panama Canal Commission (Parts 3500--3599)
+        35  RESERVED
         44  Federal Emergency Management Agency (Parts 4400--4499)
         51  Department of the Army Acquisition Regulations (Parts 
                 5100--5199)
         52  Department of the Navy Acquisition Regulations (Parts 
                 5200--5299)
         53  Department of the Air Force Federal Acquisition 
-                Regulation Supplement(Parts 5300--5399)
+                Regulation Supplement (Parts 5300--5399)
 
-[[Page 107]]
+[[Page 117]]
 
         54  Defense Logistics Agency, Department of Defense (Parts 
                 5400--5499)
         57  African Development Foundation (Parts 5700--5799)
         61  General Services Administration Board of Contract 
-                Appeals (Parts6100--6199)
+                Appeals (Parts 6100--6199)
         63  Department of Transportation Board of Contract Appeals 
-                (Parts6300--6399)
+                (Parts 6300--6399)
         99  Cost Accounting Standards Board, Office of Federal 
-                Procurement Policy,Office of Management and Budget 
-                (Parts 9900--9999)
+                Procurement Policy, Office of Management and 
+                Budget (Parts 9900--9999)
 
                        Title 49--Transportation
 
             Subtitle A--Office of the Secretary of Transportation 
-                (Parts1--99)
+                (Parts 1--99)
             Subtitle B--Other Regulations Relating to 
                 Transportation
          I  Research and Special Programs Administration, 
-                Department ofTransportation (Parts 100--199)
+                Department of Transportation (Parts 100--199)
         II  Federal Railroad Administration, Department of 
-                Transportation (Parts200--299)
+                Transportation (Parts 200--299)
        III  Federal Motor Carrier Safety Administration, 
-                Department ofTransportation (Parts 300--399)
+                Department of Transportation (Parts 300--399)
         IV  Coast Guard, Department of Homeland Security (Parts 
                 400--499)
          V  National Highway Traffic Safety Administration, 
-                Department ofTransportation (Parts 500--599)
+                Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
-                Transportation (Parts600--699)
+                Transportation (Parts 600--699)
        VII  National Railroad Passenger Corporation (AMTRAK) 
                 (Parts 700--799)
       VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
-                Transportation (Parts1000--1399)
+                Transportation (Parts 1000--1399)
         XI  Bureau of Transportation Statistics, Department of 
-                Transportation(Parts 1400--1499)
+                Transportation (Parts 1400--1499)
        XII  Transportation Security Administration, Department of 
-                Homeland Security(Parts 1500--1599)
+                Homeland Security (Parts 1500--1699)
 
                    Title 50--Wildlife and Fisheries
 
          I  United States Fish and Wildlife Service, Department of 
-                the Interior(Parts 1--199)
+                the Interior (Parts 1--199)
         II  National Marine Fisheries Service, National Oceanic 
-                and AtmosphericAdministration, Department of 
+                and Atmospheric Administration, Department of 
                 Commerce (Parts 200--299)
        III  International Fishing and Related Activities (Parts 
                 300--399)
         IV  Joint Regulations (United States Fish and Wildlife 
-                Service, Departmentof the Interior and National 
-                Marine Fisheries Service, National Oceanic 
-                andAtmospheric Administration, Department of 
-                Commerce); Endangered SpeciesCommittee Regulations 
-                (Parts 400--499)
+                Service, Department of the Interior and National 
+                Marine Fisheries Service, National Oceanic and 
+                Atmospheric Administration, Department of 
+                Commerce); Endangered Species Committee 
+                Regulations (Parts 400--499)
 
-[[Page 108]]
+[[Page 118]]
 
          V  Marine Mammal Commission (Parts 500--599)
         VI  Fishery Conservation and Management, National Oceanic 
-                and AtmosphericAdministration, Department of 
+                and Atmospheric Administration, Department of 
                 Commerce (Parts 600--699)
 
                       CFR Index and Finding Aids
@@ -7743,7 +8548,7 @@ which ispublished separately and revised annually.
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 109]]
+[[Page 119]]
 
 
 
@@ -7754,7 +8559,7 @@ which ispublished separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2004)
+                     (Revised as of January 1, 2005)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -7816,7 +8621,7 @@ American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 
-[[Page 110]]
+[[Page 120]]
 
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -7884,13 +8689,13 @@ Corporation for National and Community Service    45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
 Court Services and Offender Supervision Agency    28, VIII
-     for the District ofColumbia
+     for the District of Columbia
 Customs and Border Protection Bureau              19, I
 Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
 
-[[Page 111]]
+[[Page 121]]
 
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
@@ -7909,7 +8714,7 @@ Defense Logistics Agency                          32, XII; 48, 54
 Defense Nuclear Facilities Safety Board           10, XVII
 Delaware River Basin Commission                   18, III
 District of Columbia, Court Services and          28, VIII
-     Offender Supervision Agency forthe
+     Offender Supervision Agency for the
 Drug Enforcement Administration                   21, II
 East-West Foreign Trade Board                     15, XIII
 Economic Affairs, Under Secretary                 37, V
@@ -7963,7 +8768,7 @@ Executive Office of the President                 3, I
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
 
-[[Page 112]]
+[[Page 122]]
 
   Trade Representative, Office of the United      15, XX
        States
@@ -7996,7 +8801,7 @@ Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
 Federal Housing Finance Board                     12, IX
 Federal Labor Relations Authority, and General    5, XIV; 22, XIV
-     Counsel of the FederalLabor Relations 
+     Counsel of the Federal Labor Relations 
      Authority
 Federal Law Enforcement Training Center           31, VII
 Federal Management Regulation                     41, 102
@@ -8038,7 +8843,7 @@ General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
 
-[[Page 113]]
+[[Page 123]]
 
   Federal Management Regulation                   41, 102
   Federal Property Management Regulations         41, 101
@@ -8087,17 +8892,17 @@ Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
        of
   Government National Mortgage Association        24, III
   Housing--Federal Housing Commissioner, Office   24, II, VIII, X, XX
-       of AssistantSecretary for
+       of Assistant Secretary for
   Housing, Office of, and Multifamily Housing     24, IV
-       Assistance Restructuring,Office of
+       Assistance Restructuring, Office of
   Inspector General, Office of                    24, XII
   Public and Indian Housing, Office of Assistant  24, IX
        Secretary for
   Secretary, Office of                            24, Subtitle A, VII
 Housing--Federal Housing Commissioner, Office of  24, II, VIII, X, XX
-     AssistantSecretary for
+     Assistant Secretary for
 Housing, Office of, and Multifamily Housing       24, IV
-     Assistance Restructuring,Office of
+     Assistance Restructuring, Office of
 Human Development Services, Office of             45, XIII
 Immigration and Customs Enforcement Bureau        19, IV
 Immigration and Naturalization                    8, I
@@ -8111,10 +8916,10 @@ Indian Health Service                             25, V; 42, I
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
-     Archives and RecordsAdministration
+     Archives and Records Administration
 Inspector General
 
-[[Page 114]]
+[[Page 124]]
 
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
@@ -8145,7 +8950,7 @@ Interior Department
        Office of
 Internal Revenue Service                          26, I
 International Boundary and Water Commission,      22, XI
-     United States and Mexico,United States 
+     United States and Mexico, United States 
      Section
 International Development, United States Agency   22, II
      for
@@ -8194,10 +8999,10 @@ Labor Department                                  5, XLII
   Public Contracts                                41, 50
   Secretary of Labor, Office of                   29, Subtitle A
 
-[[Page 115]]
+[[Page 125]]
 
   Veterans' Employment and Training Service,      41, 61; 20, IX
-       Office of the AssistantSecretary for
+       Office of the Assistant Secretary for
   Wage and Hour Division                          29, V
   Workers' Compensation Programs, Office of       20, I
 Labor-Management Standards, Office of             29, II, IV
@@ -8218,7 +9023,7 @@ Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
 Morris K. Udall Scholarship and Excellence in     36, XVI
-     National EnvironmentalPolicy Foundation
+     National Environmental Policy Foundation
 National Aeronautics and Space Administration     5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
@@ -8268,7 +9073,7 @@ Navy Department                                   32, VI
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Interstate Low-Level Radioactive Waste  10, XVIII
    Commission
-[[Page 116]]
+[[Page 126]]
 
 Nuclear Regulatory Commission                     5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
@@ -8278,8 +9083,6 @@ Offices of Independent Counsel                    28, VI
 Oklahoma City National Memorial Trust             36, XV
 Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
-Panama Canal Commission                           48, 35
-Panama Canal Regulations                          35, I
 Patent and Trademark Office, United States        37, I
 Payment From a Non-Federal Source for Travel      41, 304
      Expenses
@@ -8305,5 +9108,54 @@ Prisons, Bureau of                                28, V
 Procurement and Property Management, Office of    7, XXXII
 Productivity, Technology and Innovation,          37, IV
      Assistant Secretary
-Public Contracts, Department
+Public Contracts, Department of Labor             41, 50
+Public and Indian Housing, Office of Assistant    24, IX
+     Secretary for
+Public Health Service                             42, I
+Railroad Retirement Board                         20, II
+Reclamation, Bureau of                            43, I
+Refugee Resettlement, Office of                   45, IV
+Regional Action Planning Commissions              13, V
+Relocation Allowances                             41, 302
+Research and Special Programs Administration      49, I
+Rural Business-Cooperative Service                7, XVIII, XLII
+Rural Development Administration                  7, XLII
+Rural Housing Service                             7, XVIII, XXXV
+Rural Telephone Bank                              7, XVI
+Rural Utilities Service                           7, XVII, XVIII, XLII
+Saint Lawrence Seaway Development Corporation     33, IV
+Science and Technology Policy, Office of          32, XXIV
+Science and Technology Policy, Office of, and     47, II
+     National Security Council
+Secret Service                                    31, IV
+Securities and Exchange Commission                17, II
+Selective Service System                          32, XVI
+Small Business Administration                     13, I
+Smithsonian Institution                           36, V
+Social Security Administration                    20, III; 48, 23
+Soldiers' and Airmen's Home, United States        5, XI
+Special Counsel, Office of                        5, VIII
+Special Education and Rehabilitative Services,    34, III
+     Office of
+State Department                                  22, I; 28, XI
+  Federal Acquisition Regulation                  48, 6
+Surface Mining and Reclamation Appeals, Board of  30, III
+Surface Mining Reclamation and Enforcement,       30, VII
+     Office of
+Surface Transportation Board                      49, X
+Susquehanna River Basin Commission                18, VIII
+Technology Administration                         15, XI
+Technology Policy, Assistant Secretary for        37, IV
+Technology, Under Secretary for                   37, V
+Tennessee Valley Authority                        5, LXIX; 18, XIII
+
+[[Page 127]]
+
+Thrift Supervision Office, Department of the      12, V
+     Treasury
+Trade Representative, United States, Office of    15, XX
+Transportation, Department of                     5, L
+  Commercial Space Transportation                 14, III
+  Contract Appeals, Board of                      48, 63
+  Emergency Managemen
 </pre></body></html>
