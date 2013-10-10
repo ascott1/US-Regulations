@@ -1,63 +1,49 @@
 <html><body><pre>
 [Title 50 CFR ]
-[Code of Federal Regulations (annual edition) - October 1, 2003 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2004 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-   
+
 <R02>
-                    50
+          50
 
 
           Parts 1 to 16
 
-                         Revised as of October 1, 2003
-
-Wildlife and Fisheries
-
-<R03>
+                         Revised as of October 1, 2004
 
 
+          Wildlife and Fisheries
+          
+          <R03>
+
+
+________________________
 
           Containing a codification of documents of general 
           applicability and future effect
-          As of October 1, 2003
-          With Ancillaries
-          Published by
-          the Office of the Federal Register
-          National Archives and Records
-          Administration
 
-A Special Edition of the Federal Register
+          As of October 1, 2004
+          With Ancillaries
+                    Published by
+                    Office of the Federal Register
+                    National Archives and Records
+                    Administration
+                    A Special Edition of the Federal Register
 
 [[Page ii]]
 
 
-                 --------------------------------------------------------
-               As of October 1, 2003
-               Title 50, Parts 1 to 17,
-               Revised as of October 1, 2002
-               Is Replaced by Four Volumes
 
-               Title 50, Parts 1 to 16
 
-               Title 50, Part 17, Vol. 1 of 3
-               [Contains Sec.Sec. 17.1 to 17.95]
 
-               Title 50, Part 17, Vol. 2 of 3
-               [Contains Sec.Sec. 17.96 to 17.99(h)]
-
-               Title 50, Part 17, Vol. 3 of 3
-               [Contains Sec.Sec. 17.99(i) to End
-               and 17.100 to End]
-
-               ----------------------------------------------------------
 
                      U.S. GOVERNMENT PRINTING OFFICE
-                            WASHINGTON : 2003
+                            WASHINGTON : 2004
 
 
 
@@ -142,7 +128,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2003), consult the ``List of CFR 
+revision date (in this case, October 1, 2004), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -251,7 +237,7 @@ the top of odd-numbered pages.
     For inquiries concerning CFR reference assistance, call 202-741-6000 
 or write to the Director, Office of the Federal Register, National 
 Archives and Records Administration, Washington, DC 20408 or e-mail 
-info@fedreg.nara.gov.
+fedreg.info@nara.gov.
 
 SALES
 
@@ -265,14 +251,14 @@ write to the Superintendent of Documents, Attn: New Orders, P.O. Box
 
 ELECTRONIC SERVICES
 
-    The full text of the Code of Federal Regulations, The United States 
-Government Manual, the Federal Register, Public Laws, Public Papers, 
-Weekly Compilation of Presidential Documents and the Privacy Act 
-Compilation are available in electronic format at www.access.gpo.gov/
-nara (``GPO Access''). For more information, contact Electronic 
-Information Dissemination Services, U.S. Government Printing Office. 
-Phone 202-512-1530, or 888-293-6498 (toll-free). E-mail, 
-gpoaccess@gpo.gov.
+    The full text of the Code of Federal Regulations, the LSA (List of 
+CFR Sections Affected), The United States Government Manual, the Federal 
+Register, Public Laws, Public Papers, Weekly Compilation of Presidential 
+Documents and the Privacy Act Compilation are available in electronic 
+format at www.access.gpo.gov/nara (``GPO Access''). For more 
+information, contact Electronic Information Dissemination Services, U.S. 
+Government Printing Office. Phone 202-512-1530, or 888-293-6498 (toll-
+free). E-mail, gpoaccess@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
@@ -283,7 +269,7 @@ register. The NARA site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-October 1, 2003.
+October 1, 2004.
 
 [[Page ix]]
 
@@ -311,13 +297,17 @@ seventh volume (part 600 to End) contains the current regulations issued
 under chapter VI--Fishery Conservation and Management, National Oceanic 
 and Atmospheric Administration, Department of Commerce. The contents of 
 these volumes represent all current regulations codified under this 
-title of the CFR as of October 1, 2003.
+title of the CFR as of October 1, 2004.
 
     Alphabetical listings of endangered and threatened wildlife and 
 plants appear in part 17.
 
     The OMB control numbers for the National Oceanic and Atmospheric 
 Administration appear in 15 CFR 902.1.
+
+    For this volume, Cheryl E. Sirofchuck was Chief Editor. The Code of 
+Federal Regulations publication program is under the direction of 
+Frances D. McDonald, assisted by Alomha S. Morris.
 
 [[Page x]]
 
@@ -331,7 +321,7 @@ Administration appear in 15 CFR 902.1.
                     TITLE 50--WILDLIFE AND FISHERIES
 
 
-<R02>
+
 
                    (This book contains parts 1 to 16)
 
@@ -354,8 +344,8 @@ of Land Management: 43 CFR 2200.0-1--2272.1.
 Engineers: 33 CFR part 209.
 
   Fishing, hunting, trapping, and protection of wildlife in national 
-forests and wildlife refuges, Forest Service: 36 CFR part 241, Sec.Sec. 
-261.8, 261.9.
+forests and wildlife refuges, Forest Service: 36 CFR part 241, 
+Sec. Sec. 261.8, 261.9.
 
   Fishing, hunting, trapping, and protection of wildlife in national 
 parks, memorials, recreation areas, etc., National Park Service: 36 CFR 
@@ -382,7 +372,7 @@ National Park Service: 43 CFR 5.1.
                                 INTERIOR
 
 
-<R03>
+
 
   --------------------------------------------------------------------
 
@@ -407,15 +397,15 @@ Part                                                                Page
 
 
 <R03>
-                    SUBCHAPTER A--GENERAL PROVISIONS
+                     SUBCHAPTER A_GENERAL PROVISIONS
 
-<R05>
+
 
 
 <R03>
-PART 1--DEFINITIONS--Table of Contents
+PART 1_DEFINITIONS--Table of Contents
 
-<R05>
+
 
 
 Sec.
@@ -506,9 +496,9 @@ representative of such official.
 
 
 <R03>
-PART 2--FIELD ORGANIZATION--Table of Contents
+PART 2_FIELD ORGANIZATION--Table of Contents
 
-<R05>
+
 
 
 Sec.
@@ -580,9 +570,10 @@ Alaska), 1011 E. Tudor Road, Anchorage, Alaska 99503.
 
 
 <R03>
-PART 3--NONDISCRIMINATION--CONTRACTS, PERMITS, AND USE OF FACILITIES--Table of Contents
+PART 3_NONDISCRIMINATION_CONTRACTS, PERMITS, AND USE OF FACILITIES
+--Table of Contents
 
-<R05>
+
 
 
 Sec.
@@ -658,19 +649,19 @@ or agreement.
 
 
 <R03>
-   SUBCHAPTER B--TAKING, POSSESSION, TRANSPORTATION, SALE, PURCHASE, 
-       BARTER, EXPORTATION, AND IMPORTATION OF WILDLIFE AND PLANTS
+SUBCHAPTER B_TAKING, POSSESSION, TRANSPORTATION, SALE, PURCHASE, BARTER, 
+           EXPORTATION, AND IMPORTATION OF WILDLIFE AND PLANTS
 
-<R05>
+
 
 
 <R03>
-PART 10--GENERAL PROVISIONS--Table of Contents
-
-<R05>
+PART 10_GENERAL PROVISIONS--Table of Contents
 
 
-                         Subpart A--Introduction
+
+
+                         Subpart A_Introduction
 
 Sec.
 10.1 Purpose of regulations.
@@ -678,13 +669,13 @@ Sec.
 10.3 Other applicable laws.
 10.4 When regulations apply.
 
-                         Subpart B--Definitions
+                          Subpart B_Definitions
 
 10.11 Scope of definitions.
 10.12 Definitions.
 10.13 List of Migratory Birds.
 
-                          Subpart C--Addresses
+                           Subpart C_Addresses
 
 10.21 Director.
 10.22 Law enforcement offices.
@@ -697,7 +688,7 @@ U.S.C. 742a-742j-l; 16 U.S.C. 3371-3378.
 
 
 <R04>
-                         Subpart A--Introduction
+                         Subpart A_Introduction
 
 
 <R05>
@@ -765,7 +756,7 @@ permit which is renewed after such effective date.
 
 
 <R04>
-                         Subpart B--Definitions
+                          Subpart B_Definitions
 
 
 <R05>
@@ -809,8 +800,8 @@ or not included in a manufactured product or in a processed food
 product.
     Director means the Director of the United States Fish and Wildlife 
 Service, Department of the Interior, or his authorized representative.
-    Endangered wildlife means any wildlife listed in Sec. 17.11 or Sec. 
-17.12 of this subchapter.
+    Endangered wildlife means any wildlife listed in Sec. 17.11 or 
+Sec. 17.12 of this subchapter.
     Fish means a member of any of the following classes:
     (1) Cyclostomata, including, but not limited to, hagfishes and 
 lampreys;
@@ -1338,11 +1329,10 @@ Heron:
     Night (see Night-Heron)
     Pacific Reef, Egretta sacra
     Tricolored, Egretta tricolor
-Hoopoe:
-    Upupa epops
-    House-Martin, Common, Delichon urbica
-    Hummingbird (see Carib, Emerald, Mango, Starthroat, Woodstar, 
-Violet-ear):
+Hoopoe, Upupa epops
+House-Martin, Common, Delichon urbica
+Hummingbird (see Carib, Emerald, Mango, Starthroat, Woodstar, Violet-
+ear):
     Allen's, Selasphorus sasin
     Anna's, Calypte anna
     Antillean Crested, Orthorhynchus cristatus
@@ -1437,10 +1427,10 @@ Magpie:
 Mallard (see DUCKS)
 Mango:
     Antillean, Anthracothorax dominicus
+    Green, Anthracothorax viridis
 
 [[Page 15]]
 
-    Green, Anthracothorax viridis
 Martin:
     Caribbean, Progne dominicensis
     Cuban, Progne cryptoleuca
@@ -1573,10 +1563,10 @@ Plover:
     Great Sand, Charadrius leschenaultii
     Little Ringed, Charadrius dubius
     Mongolian, Charadrius mongolus
+    Mountain, Charadrius montanus
 
 [[Page 16]]
 
-    Mountain, Charadrius montanus
     Piping, Charadrius melodus
     Semipalmated, Charadrius semipalmatus
     Snowy, Charadrius alexandrinus
@@ -1708,10 +1698,10 @@ Sparrow:
     Cassin's, Aimophila cassinii
     Chipping, Spizella passerina
     Clay-colored, Spizella pallida
+    Field, Spizella pusilla
 
 [[Page 17]]
 
-    Field, Spizella pusilla
     Five-striped, Amphispiza quinquestriata
     Fox, Passerella iliaca
     Golden-crowned, Zonotrichia atricapilla
@@ -1844,10 +1834,10 @@ Towhee:
     Abert's, Pipilo aberti
     Brown, Pipilo fuscus
     Green-tailed, Pipilo chlorurus
+    Rufous-sided, Pipilo erythrophthalmus
 
 [[Page 18]]
 
-    Rufous-sided, Pipilo erythrophthalmus
 Tree-Pipit, Olive, Anthus hodgsoni
 Trogon:
     Eared, Euptilotus neoxenus
@@ -1942,11 +1932,11 @@ Waxwing:
     Bohemian, Bombycilla garrulus
     Cedar, Bombycilla cedrorum
 Wheatear, Northern, Oenanthe oenanthe
-Whimbrel, Numenius phaeopus
-Whip-poor-will, Caprimulgus vociferus
-Whistling-Duck (see DUCKS)
-Wigeon (see DUCKS)
-Willet, Catoptrophorus semipalmatus
+    Whimbrel, Numenius phaeopus
+    Whip-poor-will, Caprimulgus vociferus
+    Whistling-Duck (see DUCKS)
+    Wigeon (see DUCKS)
+    Willet, Catoptrophorus semipalmatus
 Wood-Pewee:
     Eastern, Contopus virens
     Western, Contopus sordidulus
@@ -1981,10 +1971,10 @@ Wren:
     House, Troglodytes aedon
     Marsh, Cistothorus palustris
     Rock, Salpinctes obsoletus
+    Sedge, Cistothorus platensis
 
 [[Page 19]]
 
-    Sedge, Cistothorus platensis
     Winter, Troglodytes troglodytes
 Wryneck, Eurasian, Jynx torquilla
 Yellowlegs:
@@ -3105,7 +3095,7 @@ Subfamily CARDUELINAE
 
 
 <R04>
-                          Subpart C--Addresses
+                           Subpart C_Addresses
 
 
 <R05>
@@ -3184,19 +3174,19 @@ FR 31291, Aug. 6, 1984; 51 FR 23551, June 30, 1986; 53 FR 6649, Mar. 2,
 
 
 <R03>
-PART 11--CIVIL PROCEDURES--Table of Contents
-
-<R05>
+PART 11_CIVIL PROCEDURES--Table of Contents
 
 
-                         Subpart A--Introduction
+
+
+                         Subpart A_Introduction
 
 Sec.
 11.1 Purpose of regulations.
 11.2 Scope of regulations.
 11.3 Filing of documents.
 
-                     Subpart B--Assessment Procedure
+                     Subpart B_Assessment Procedure
 
 11.11 Notice of violation.
 11.12 Petition for relief.
@@ -3206,7 +3196,7 @@ Sec.
 11.16 Final administrative decision.
 11.17 Payment of final assessment.
 
-                Subpart C--Hearing and Appeal Procedures
+                 Subpart C_Hearing and Appeal Procedures
 
 11.21 Commencement of hearing procedures.
 11.22 Appearance and practice.
@@ -3229,7 +3219,7 @@ Mammal Protection Act of 1972, sec. 112(a), 86 Stat. 1042, 16 U.S.C.
 
 
 <R04>
-                         Subpart A--Introduction
+                         Subpart A_Introduction
 
 
 <R05>
@@ -3276,7 +3266,7 @@ may be granted.
 
 
 <R04>
-                     Subpart B--Assessment Procedure
+                     Subpart B_Assessment Procedure
 
 
 <R05>
@@ -3352,11 +3342,11 @@ assessed.
 Sec. 11.15  Request for a hearing.
 
     Except where a right to request a hearing is deemed to have been 
-waived as provided in Sec. 11.11, the respondent may, within 45 calendar 
-days from the date of the notice of assessment referred to in Sec. 
-11.14, file a dated, written request for a hearing with the Hearings 
-Division, Office of Hearings and Appeals, U.S. Department of the 
-Interior, 801 North Quincy Street, Arlington, Virginia 22203. The 
+waived as provided in Sec. 11.11, the respondent may, within 45 
+calendar days from the date of the notice of assessment referred to in 
+Sec. 11.14, file a dated, written request for a hearing with the 
+Hearings Division, Office of Hearings and Appeals, U.S. Department of 
+the Interior, 801 North Quincy Street, Arlington, Virginia 22203. The 
 request should state the respondent's preference as to the place and 
 date for a hearing. The request must enclose a copy of the notice of 
 violation and notice of assessment. A copy of the request shall be 
@@ -3393,7 +3383,7 @@ action in the U.S. District Court to collect the penalty.
 
 
 <R04>
-                Subpart C--Hearing and Appeal Procedures
+                 Subpart C_Hearing and Appeal Procedures
 
 
 <R05>
@@ -3489,12 +3479,12 @@ this service shall be as established by the Director of that Office.
 
 
 <R03>
-PART 12--SEIZURE AND FORFEITURE PROCEDURES--Table of Contents
-
-<R05>
+PART 12_SEIZURE AND FORFEITURE PROCEDURES--Table of Contents
 
 
-                      Subpart A--General Provisions
+
+
+                      Subpart A_General Provisions
 
 Sec.
 12.1 Purpose of regulations.
@@ -3504,12 +3494,12 @@ Sec.
 12.5 Seizure by other agencies.
 12.6 Bonded release.
 
-                   Subpart B--Preliminary Requirements
+                   Subpart B_Preliminary Requirements
 
 12.11 Notification of seizure.
 12.12 Appraisement.
 
-                    Subpart C--Forfeiture Proceedings
+                    Subpart C_Forfeiture Proceedings
 
 12.21 Criminal prosecutions.
 12.22 Civil actions to obtain forfeiture.
@@ -3517,7 +3507,7 @@ Sec.
 12.24 Petition for remission of forfeiture.
 12.25 Transfers in settlement of civil penalty claims.
 
-         Subpart D--Disposal of Forfeited or Abandoned Property
+          Subpart D_Disposal of Forfeited or Abandoned Property
 
 12.30 Purpose.
 12.31 Accountability.
@@ -3531,12 +3521,12 @@ Sec.
 12.38 Destruction.
 12.39 Information on property available for disposal.
 
-    Subpart E--Restoration of Proceeds and Recovery of Storage Costs
+     Subpart E_Restoration of Proceeds and Recovery of Storage Costs
 
 12.41 Petition for restoration of proceeds.
 12.42 Recovery of certain storage costs.
 
-                      Subpart F--Return of Property
+                      Subpart F_Return of Property
 
 12.51 Return procedure.
 
@@ -3558,7 +3548,7 @@ U.S.C. 1996.
 
 
 <R04>
-                      Subpart A--General Provisions
+                      Subpart A_General Provisions
 
 
 <R05>
@@ -3611,8 +3601,8 @@ to the place of appraisement shall be reported.
     (4) Solicitor means the Solicitor of the Department of the Interior 
 or an authorized representative.
     (b) The definitions of paragraph (a) of this section are in addition 
-to, and not in lieu of, those contained in Sec.Sec. 1.1 through 1.8 and 
-10.12 of this title.
+to, and not in lieu of, those contained in Sec. Sec. 1.1 through 1.8 
+and 10.12 of this title.
 
 [45 FR 17864, Mar. 19, 1980, as amended at 47 FR 17525, Apr. 23, 1982]
 
@@ -3667,7 +3657,7 @@ FR 56860, Dec. 21, 1982]
 
 
 <R04>
-                   Subpart B--Preliminary Requirements
+                   Subpart B_Preliminary Requirements
 
 
 <R05>
@@ -3697,14 +3687,14 @@ seq.; Eagle Protection Act, 16 U.S.C. 668 et seq.; Airborne Hunting Act,
 16 U.S.C. 742j-1, et seq.; or the Lacey Act Amendments of 1981, 16 
 U.S.C. 3371 et seq. If the seized property may lawfully be sold in the 
 United States, its domestic value shall be determined in accordance with 
-Sec. 12.3. If the seized property may not lawfully be sold in the United 
-States, its value shall be determined by other reasonable means.
+Sec. 12.3. If the seized property may not lawfully be sold in the 
+United States, its value shall be determined by other reasonable means.
 
 [47 FR 56860, Dec. 21, 1982]
 
 
 <R04>
-                    Subpart C--Forfeiture Proceedings
+                    Subpart C_Forfeiture Proceedings
 
 
 <R05>
@@ -3942,7 +3932,7 @@ instrument provided by the Department.
 
 
 <R04>
-         Subpart D--Disposal of Forfeited or Abandoned Property
+          Subpart D_Disposal of Forfeited or Abandoned Property
 
     Source: 47 FR 17525, Apr. 23, 1982, unless otherwise noted.
 
@@ -4150,8 +4140,8 @@ Sec. 12.37  Sale.
     (a) Wildlife and plants may be sold or offered for sale, except any 
 species which at the time it is to be sold or offered for sale falls 
 into one of the following categories:
-    (1) Listed in Sec. 10.13 of this title as a migratory bird protected 
-by the Migratory Bird Treaty Act (16 U.S.C. 703-712);
+    (1) Listed in Sec. 10.13 of this title as a migratory bird 
+protected by the Migratory Bird Treaty Act (16 U.S.C. 703-712);
     (2) Protected under the Eagle Protection Act (16 U.S.C. 668-668d);
     (3) Listed in Sec. 23.33 of this title as ``Appendix I'' under the 
 Convention on International Trade in Endangered Species of Wild Fauna 
@@ -4207,7 +4197,7 @@ Charge listed in Sec. 10.22 of this title.
 
 
 <R04>
-    Subpart E--Restoration of Proceeds and Recovery of Storage Costs
+     Subpart E_Restoration of Proceeds and Recovery of Storage Costs
 
 
 <R05>
@@ -4306,7 +4296,7 @@ action on the matter.
 
 
 <R04>
-                      Subpart F--Return of Property
+                      Subpart F_Return of Property
 
 
 <R05>
@@ -4327,12 +4317,12 @@ requirements.
 
 
 <R03>
-PART 13--GENERAL PERMIT PROCEDURES--Table of Contents
-
-<R05>
+PART 13_GENERAL PERMIT PROCEDURES--Table of Contents
 
 
-                         Subpart A--Introduction
+
+
+                         Subpart A_Introduction
 
 Sec.
 13.1 General.
@@ -4341,12 +4331,12 @@ Sec.
 13.4 Emergency variation from requirements.
 13.5 Information collection requirements.
 
-                   Subpart B--Application for Permits
+                    Subpart B_Application for Permits
 
 13.11 Application procedures.
 13.12 General information requirements on applications for permits.
 
-                    Subpart C--Permit Administration
+                     Subpart C_Permit Administration
 
 13.21 Issuance of permits.
 13.22 Renewal of permits.
@@ -4358,7 +4348,7 @@ Sec.
 13.28 Permit revocation.
 13.29 Review procedures.
 
-                          Subpart D--Conditions
+                          Subpart D_Conditions
 
 13.41 Humane conditions.
 
@@ -4374,15 +4364,15 @@ Sec.
 13.49 Surrender of permit.
 13.50 Acceptance of liability.
 
-    Authority: 16 U.S.C. 668a, 704, 712, 742j-1, 1382, 1538(d), 1539, 
-1540(f), 3374, 4901-4916; 18 U.S.C. 42; 19 U.S.C. 1202; E.O. 11911, 41 
-FR 15683; 31 U.S.C. 9701.
+    Authority: 16 U.S.C. 668(a), 704, 712, 742j-l, 1374(g), 1382, 
+1538(d), 1539, 1540(f), 3374, 4901-4916; 18 U.S.C. 42; 19 U.S.C. 1202; 
+31 U.S.C. 9701.
 
     Source: 39 FR 1161, Jan. 4, 1974, unless otherwise noted.
 
 
 <R04>
-                         Subpart A--Introduction
+                         Subpart A_Introduction
 
 
 <R05>
@@ -4471,7 +4461,7 @@ Washington, DC 20603.
 
 
 <R04>
-                   Subpart B--Application for Permits
+                    Subpart B_Application for Permits
 
 
 <R05>
@@ -4672,7 +4662,7 @@ FR 32377, June 24, 1977; 44 FR 54006, Sept. 17, 1979; 44 FR 59083, Oct.
 
 
 <R04>
-                    Subpart C--Permit Administration
+                     Subpart C_Permit Administration
 
 
 <R05>
@@ -4768,14 +4758,14 @@ Sec. 13.22  Renewal of permits.
 
     (a) Application for renewal. Applicants for renewal of a permit must 
 submit a written application at least 30 days prior to the expiration 
-date of the permit. Applicants must certify in the form required by Sec. 
-13.12(a)(5) that all statements and information in the original 
+date of the permit. Applicants must certify in the form required by 
+Sec. 13.12(a)(5) that all statements and information in the original 
 application remain current and correct, unless previously changed or 
 corrected. If such information is no longer current or correct, the 
 applicant must provide corrected information.
     (b) Renewal criteria. The Service shall issue a renewal of a permit 
-if the applicant meets the criteria for issuance in Sec. 13.21(b) and is 
-not disqualified under Sec. 13.21(c).
+if the applicant meets the criteria for issuance in Sec. 13.21(b) and 
+is not disqualified under Sec. 13.21(c).
     (c) Continuation of permitted activity. Any person holding a valid, 
 renewable permit, who has complied with this section, may continue the 
 activities authorized by the expired permit until the Service has acted 
@@ -4801,7 +4791,8 @@ cause at any time during its term, upon written finding of necessity,
 provided that any such amendment of a permit issued under Sec. 17.22(b) 
 through (d) or Sec. 17.32(b) through (d) of this subchapter shall be 
 consistent with the requirements of Sec. 17.22(b)(5), (c)(5) and (d)(5) 
-or Sec. 17.32(b)(5), (c)(5) and (d)(5) of this subchapter, respectively.
+or Sec. 17.32(b)(5), (c)(5) and (d)(5) of this subchapter, 
+respectively.
     (c) Change of name or address. A permittee is not required to obtain 
 a new permit if there is a change in the legal individual or business 
 name, or in the mailing address of the permittee. A permittee is 
@@ -4832,8 +4823,8 @@ assignee for the benefit of creditors.
 section, the person or persons desiring to continue the activity shall 
 furnish the permit to the issuing officer for endorsement within 90 days 
 from the date the successor begins to carry on the activity.
-    (c) In the case of permits issued under Sec. 17.22(b) through (d) or 
-Sec. 17.32(b) through (d) of this subchapter B, the successor's 
+    (c) In the case of permits issued under Sec. 17.22(b) through (d) 
+or Sec. 17.32(b) through (d) of this subchapter B, the successor's 
 authorization under the permit is also subject to a determination by the 
 Service that:
     (1) The successor meets all of the qualifications under this part 
@@ -4853,12 +4844,11 @@ Sec. 13.25  Transfer of permits and scope of permit authorization.
 
     (a) Except as otherwise provided for in this section, permits issued 
 under this part are not transferable or assignable.
-    (b) Permits issued under Sec. 17.22(b) through (d) or Sec. 17.32(b) 
-through (d) of this subchapter B may be transferred in whole or in part 
-through a joint submission by the permittee and the proposed transferee, 
-or in the case of a deceased permittee, the deceased permittee's legal 
-representative and the proposed transferee, provided the Service 
-determines that:
+    (b) Permits issued under Sec. 17.22(b) or Sec. 17.32(b) of this 
+subchapter B may be transferred in whole or in part through a joint 
+submission by the permittee and the proposed transferee or in the case 
+of a deceased permittee, the deceased permittee's legal representative 
+and the proposed transferee, provided the Service determines that:
     (1) The proposed transferee meets all of the qualifications under 
 this part for holding a permit;
     (2) The proposed transferee has provided adequate written assurances 
@@ -4868,11 +4858,16 @@ permit, including any outstanding minimization and mitigation
 requirements; and
     (3) The proposed transferee has provided such other information as 
 the Service determines is relevant to the processing of the submission.
-    (c) Except as otherwise stated on the face of the permit, any person 
+    (c) In the case of the transfer of lands subject to an agreement and 
+permit issued under Sec. 17.22(c) or (d) or Sec. 17.32 (c) or (d) of 
+this subchapter B, the Service will transfer the permit to the new owner 
+if the new owner agrees in writing to become a party to the original 
+agreement and permit.
+    (d) Except as otherwise stated on the face of the permit, any person 
 who is under the direct control of the permittee, or who is employed by 
 or under contract to the permittee for purposes authorized by the 
 permit, may carry out the activity authorized by the permit.
-    (d) In the case of permits issued under Sec. 17.22(b)-(d) or Sec. 
+    (e) In the case of permits issued under Sec. 17.22(b)-(d) or Sec. 
 17.32(b)-(d) of this subchapter to a State or local governmental entity, 
 a person is under the direct control of the permittee where:
     (1) The person is under the jurisdiction of the permittee and the 
@@ -4882,7 +4877,8 @@ activity; or
 or has executed a written instrument with the governmental entity, 
 pursuant to the terms of the implementing agreement.
 
-[64 FR 32711, June 17, 1999, as amended at 64 FR 52676, Sept. 30, 1999]
+[64 FR 32711, June 17, 1999, as amended at 64 FR 52676, Sept. 30, 1999; 
+69 FR 24092, May 3, 2004]
 
 
 <R05>
@@ -4895,9 +4891,12 @@ permit to the issuing office together with a written statement
 surrendering the permit for cancellation. The permit shall be deemed 
 void and cancelled upon its receipt by the issuing office. No refund of 
 any fees paid for issuance of the permit or for any other fees or costs 
-associated with a permitted activity shall be made when a permit is 
-surrendered for cancellation for any reason prior to the expiration date 
-stated on the face of the permit.
+associated with a permitted activity shall be made
+
+[[Page 47]]
+
+when a permit is surrendered for cancellation for any reason prior to 
+the expiration date stated on the face of the permit.
 
 [54 FR 38149, Sept. 14, 1989]
 
@@ -4906,17 +4905,14 @@ stated on the face of the permit.
 Sec. 13.27  Permit suspension.
 
     (a) Criteria for suspension. The privileges of exercising some or 
-all of the permit authority may be suspended at
-
-[[Page 47]]
-
-any time if the permittee is not in compliance with the conditions of 
-the permit, or with any applicable laws or regulations governing the 
-conduct of the permitted activity. The issuing officer may also suspend 
-all or part of the privileges authorized by a permit if the permittee 
-fails to pay any fees, penalties or costs owed to the Government. Such 
-suspension shall remain in effect until the issuing officer determines 
-that the permittee has corrected the deficiencies.
+all of the permit authority may be suspended at any time if the 
+permittee is not in compliance with the conditions of the permit, or 
+with any applicable laws or regulations governing the conduct of the 
+permitted activity. The issuing officer may also suspend all or part of 
+the privileges authorized by a permit if the permittee fails to pay any 
+fees, penalties or costs owed to the Government. Such suspension shall 
+remain in effect until the issuing officer determines that the permittee 
+has corrected the deficiencies.
     (b) Procedure for suspension. (1) When the issuing officer believes 
 there are valid grounds for suspending a permit the permittee shall be 
 notified in writing of the proposed suspension by certified or 
@@ -4935,8 +4931,8 @@ the end of the objection period. The issuing officer shall notify the
 permittee in writing of the Service's decision and the reasons 
 therefore. The issuing officer shall also provide the applicant with the 
 information concerning the right to request reconsideration of the 
-decision under Sec. 13.29 of this part and the procedures for requesting 
-reconsideration.
+decision under Sec. 13.29 of this part and the procedures for 
+requesting reconsideration.
 
 [54 FR 38149, Sept. 14, 1989]
 
@@ -4977,20 +4973,21 @@ be in writing, must be filed within 45 calendar days of the date of the
 notice of proposal, must state the reasons why the permittee objects to 
 the proposed revocation, and may include supporting documentation.
     (3) A decision on the revocation shall be made within 45 days after 
-the end of the objection period. The issuing officer shall notify the 
-permittee in writing of the Service's decision and the reasons 
-therefore, together with the information concerning the right to request 
-and the procedures for requesting reconsideration.
-    (4) Unless a permittee files a timely request for reconsideration, 
-any wildlife held under authority of a permit that is revoked must be 
-disposed of in accordance with instructions of the
+the end of
 
 [[Page 48]]
 
-issuing officer. If a permittee files a timely request for 
-reconsideration of a proposed revocation, such permittee may retain 
-possession of any wildlife held under authority of the permit until 
-final disposition of the appeal process.
+the objection period. The issuing officer shall notify the permittee in 
+writing of the Service's decision and the reasons therefore, together 
+with the information concerning the right to request and the procedures 
+for requesting reconsideration.
+    (4) Unless a permittee files a timely request for reconsideration, 
+any wildlife held under authority of a permit that is revoked must be 
+disposed of in accordance with instructions of the issuing officer. If a 
+permittee files a timely request for reconsideration of a proposed 
+revocation, such permittee may retain possession of any wildlife held 
+under authority of the permit until final disposition of the appeal 
+process.
 
 [54 FR 38149, Sept. 14, 1989, as amended at 64 FR 32711, June 17, 1999]
 
@@ -5053,19 +5050,19 @@ located, or to the Director for offices which report directly to the
 Director. An appeal must be submitted within 45 days of the date of the 
 notification of the decision on the request for reconsideration. The 
 appeal shall state the reason(s) and issue(s) upon which the appeal is 
-based and may contain any additional evidence or arguments to support 
-the appeal.
+based
+
+[[Page 49]]
+
+and may contain any additional evidence or arguments to support the 
+appeal.
     (f) Decision on appeal. (1) Before a decision is made concerning the 
 appeal the appellant may present oral arguments before the Regional 
 Director or the Director, as appropriate, if such official judges oral 
 arguments are necessary to clarify issues raised in the written record.
     (2) The Service shall notify the appellant in writing of its 
-decision within 45 calendar days of receipt of the appeal,
-
-[[Page 49]]
-
-unless extended for good cause and the appellant notified of the 
-extension.
+decision within 45 calendar days of receipt of the appeal, unless 
+extended for good cause and the appellant notified of the extension.
     (3) The decision of the Regional Director or the Director shall 
 constitute the final administrative decision of the Department of the 
 Interior.
@@ -5074,7 +5071,7 @@ Interior.
 
 
 <R04>
-                          Subpart D--Conditions
+                          Subpart D_Conditions
 
 
 <R05>
@@ -5159,6 +5156,8 @@ B.
 
 [39 FR 1161, Jan. 4, 1974, as amended at 42 FR 32377, June 24, 1977]
 
+[[Page 50]]
+
 
 <R05>
 Sec. 13.48  Compliance with conditions of permit.
@@ -5169,8 +5168,6 @@ permit and with all appllicable laws and regulations governing the
 permitted activity.
 
 [54 FR 38150, Sept. 14, 1989]
-
-[[Page 50]]
 
 
 <R05>
@@ -5187,22 +5184,22 @@ exhausted.
 <R05>
 Sec. 13.50  Acceptance of liability.
 
-    Except as otherwise limited in the case of permits described in Sec. 
-13.25(d), any person holding a permit under this subchapter B assumes 
-all liability and responsibility for the conduct of any activity 
+    Except as otherwise limited in the case of permits described in 
+Sec. 13.25(d), any person holding a permit under this subchapter B 
+assumes all liability and responsibility for the conduct of any activity 
 conducted under the authority of such permit.
 
 [64 FR 32711, June 17, 1999]
 
 
 <R03>
-PART 14--IMPORTATION, EXPORTATION, AND TRANSPORTATION OF WILDLIFE
+PART 14_IMPORTATION, EXPORTATION, AND TRANSPORTATION OF WILDLIFE
 --Table of Contents
 
-<R05>
 
 
-                         Subpart A--Introduction
+
+                         Subpart A_Introduction
 
 Sec.
 14.1 Purpose of regulations.
@@ -5210,7 +5207,7 @@ Sec.
 14.3 Information collection requirements.
 14.4 What terms do I have to understand?
 
-       Subpart B--Importation and Exportation at Designated Ports
+        Subpart B_Importation and Exportation at Designated Ports
 
 14.11 General restrictions.
 14.12 Designated ports.
@@ -5227,7 +5224,7 @@ Sec.
 14.23 Live farm-raised fish and farm-raised fish eggs.
 14.24 Scientific specimens.
 
-              Subpart C--Designated Port Exception Permits
+               Subpart C_Designated Port Exception Permits
 
 14.31 Permits to import or export wildlife at nondesignated port for 
           scientific purposes.
@@ -5238,7 +5235,7 @@ Sec.
 
 Subpart D [Reserved]
 
-             Subpart E--Inspection and Clearance of Wildlife
+             Subpart E_Inspection and Clearance of Wildlife
 
 14.51 Inspection of wildlife.
 14.52 Clearance of imported wildlife.
@@ -5246,7 +5243,7 @@ Subpart D [Reserved]
 14.54 Unavailability of Service officers.
 14.55 Exceptions to clearance requirements.
 
-                    Subpart F--Wildlife Declarations
+                     Subpart F_Wildlife Declarations
 
 14.61 Import declaration requirements.
 14.62 Exceptions to import declaration requirements.
@@ -5255,19 +5252,19 @@ Subpart D [Reserved]
 
 Subpart G [Reserved]
 
-              Subpart H--Marking of Containers or Packages
+               Subpart H_Marking of Containers or Packages
 
 14.81 Marking requirement.
 14.82 Alternatives and exceptions to the marking requirement.
 
-                    Subpart I--Import/Export Licenses
+                    Subpart I_Import/Export Licenses
 
 14.91 License requirement.
 14.92 Exceptions to license requirement.
 14.93 License application procedure, conditions, and duration.
 14.94 What fees apply to me?
 
-  Subpart J--Standards for the Humane and Healthful Transport of Wild 
+   Subpart J_Standards for the Humane and Healthful Transport of Wild 
                  Mammals and Birds to the United States
 
 14.101 Purposes.
@@ -5280,6 +5277,9 @@ Subpart G [Reserved]
 14.108 Food and water.
 14.109 Care in transit.
 14.110 Terminal facilities.
+
+[[Page 51]]
+
 14.111 Handling.
 14.112 Other applicable provisions.
 
@@ -5293,9 +5293,6 @@ Subpart G [Reserved]
                        Pinnipeds, and Polar Bears)
 
 14.131 Primary enclosures.
-
-[[Page 51]]
-
 14.132 Food and water.
 14.133 Care in transit.
 
@@ -5324,7 +5321,7 @@ Subpart G [Reserved]
 
 
 <R04>
-                         Subpart A--Introduction
+                         Subpart A_Introduction
 
 
 <R05>
@@ -5388,15 +5385,16 @@ of the American Association of Systematic Collections, or any State or
 Federal government agency that conducts biological or medical research.
     Commercial means related to the offering for sale or resale, 
 purchase, trade, barter, or the actual or intended transfer in the 
-pursuit of gain or profit, of any item of wildlife and includes the use 
-of any wildlife article as an exhibit for the purpose of soliciting 
-sales, without regard to quantity or weight. There is a presumption that 
-eight or more similar unused items are for commercial use. The Service 
-or the importer/exporter/owner may rebut this presumption based upon the 
-particular facts and circumstances of each case.
+pursuit of gain or profit,
 
 [[Page 52]]
 
+of any item of wildlife and includes the use of any wildlife article as 
+an exhibit for the purpose of soliciting sales, without regard to 
+quantity or weight. There is a presumption that eight or more similar 
+unused items are for commercial use. The Service or the importer/
+exporter/owner may rebut this presumption based upon the particular 
+facts and circumstances of each case.
     Domesticated animals includes, but is not limited to, the following 
 domesticated animals that are exempted from the requirements of this 
 subchapter B (except for species obtained from wild populations).
@@ -5443,7 +5441,7 @@ of the tariff laws of the United States.
 
 
 <R04>
-       Subpart B--Importation and Exportation at Designated Ports
+        Subpart B_Importation and Exportation at Designated Ports
 
 
 <R05>
@@ -5474,6 +5472,9 @@ ports:''
     (j) Portland, Oregon.
     (k) Baltimore, Maryland.
     (l) Boston, Massachusetts.
+
+[[Page 53]]
+
     (m) Atlanta, Georgia.
     (n) Anchorage, Alaska.
 
@@ -5485,13 +5486,9 @@ Sec. 14.13  Emergency diversion.
 
     Wildlife which has been imported into the United States at any port 
 or place other than a designated port solely as a result of a diversion 
-due to an
-
-[[Page 53]]
-
-aircraft or vessel emergency must proceed as an in-transit shipment 
-under Customs bond to a designated port, or to any port where a permit 
-or other provision of this part provides for lawful importation.
+due to an aircraft or vessel emergency must proceed as an in-transit 
+shipment under Customs bond to a designated port, or to any port where a 
+permit or other provision of this part provides for lawful importation.
 
 
 <R05>
@@ -5570,6 +5567,8 @@ Sec. 14.17  Personally owned pet birds.
     Any person may import a personally owned pet bird at any port 
 designated under, and in accordance with, 9 CFR part 92.
 
+[[Page 54]]
+
 
 <R05>
 Sec. 14.18  Marine mammals.
@@ -5578,11 +5577,7 @@ Sec. 14.18  Marine mammals.
 lawfully taken a marine mammal on the high seas and who is authorized to 
 import such marine mammal in accordance with the Marine Mammal 
 Protection Act of 1972 and implementing regulations (50 CFR parts 18 and 
-216) may
-
-[[Page 54]]
-
-import such marine mammal at any port or place.
+216) may import such marine mammal at any port or place.
 
 
 <R05>
@@ -5668,6 +5663,8 @@ Customs port.
 
 [59 FR 41714, Aug. 15, 1994]
 
+[[Page 55]]
+
 
 <R05>
 Sec. 14.24  Scientific specimens.
@@ -5676,35 +5673,31 @@ Sec. 14.24  Scientific specimens.
 21, 22 or 23 of this subchapter, dead, preserved, dried, or embedded 
 scientific specimens or parts thereof, imported or exported by 
 accredited scientists or accredited scientific institutions for 
-taxonomic or systematic research purposes may
-
-[[Page 55]]
-
-enter or exit through any U.S. Customs port, or may be shipped through 
-the international mail system. Provided, that this exception will not 
-apply to any specimens or parts thereof taken as a result of sport 
-hunting.
+taxonomic or systematic research purposes may enter or exit through any 
+U.S. Customs port, or may be shipped through the international mail 
+system. Provided, that this exception will not apply to any specimens or 
+parts thereof taken as a result of sport hunting.
 
 [61 FR 31869, June 21, 1996]
 
 
 <R04>
-              Subpart C--Designated Port Exception Permits
+               Subpart C_Designated Port Exception Permits
 
 
 <R05>
-Sec. 14.31  Permits to import or export wildlife at nondesignated port for 
-scientific purposes.
+Sec. 14.31  Permits to import or export wildlife at nondesignated port 
+for scientific purposes.
 
     (a) General. The Director may, upon receipt of an application 
-submitted in accordance with the provisions of this section and Sec.Sec. 
-13.11 and 13.12 of this subchapter, and in accordance with the issuance 
-criteria of this section, issue a permit authorizing importation or 
-exportation of wildlife for scientific purposes at one or more named 
-Customs port(s) of entry not otherwise authorized by subpart B. Such 
-permits may authorize a single importation or exportation, a series of 
-importations or exportations, or importation or exportation during a 
-specified period of time.
+submitted in accordance with the provisions of this section and 
+Sec. Sec. 13.11 and 13.12 of this subchapter, and in accordance with 
+the issuance criteria of this section, issue a permit authorizing 
+importation or exportation of wildlife for scientific purposes at one or 
+more named Customs port(s) of entry not otherwise authorized by subpart 
+B. Such permits may authorize a single importation or exportation, a 
+series of importations or exportations, or importation or exportation 
+during a specified period of time.
     (b) Application procedure. Applications for permits to import or 
 export wildlife at a nondesignated port for scientific purposes must be 
 submitted to the Director. Each application must contain the general 
@@ -5744,26 +5737,26 @@ issuance.
 
 
 <R05>
-Sec. 14.32  Permits to import or export wildlife at nondesignated port to 
-minimize deterioration or loss.
+Sec. 14.32  Permits to import or export wildlife at nondesignated port 
+to minimize deterioration or loss.
 
     (a) General. The Director may, upon receipt of an application 
-submitted in accordance with the provisions of this section and Sec.Sec. 
-13.11 and 13.12 of this subchapter, and in accordance with the issuance 
-criteria of this section, issue a permit authorizing importation or 
-exportation of wildlife, in order to minimize deterioration or loss, at 
-one or more named Customs port(s) of entry not otherwise authorized by 
-subpart B. Such permits may authorize a single importation or 
-exportation, a series of importations or exportations, or importation or 
-exportation during a specified period of time.
+submitted in accordance with the provisions of this section and 
+Sec. Sec. 13.11 and 13.12 of this subchapter, and in accordance with 
+the issuance criteria of this section, issue a permit authorizing 
+importation or exportation of wildlife, in order to minimize 
+deterioration or loss, at one or more named Customs port(s) of entry not 
+otherwise authorized by subpart B. Such permits may authorize a single 
+importation or exportation, a series of importations or exportations, or 
+importation or exportation during a specified period of time.
+
+[[Page 56]]
+
     (b) Application procedure. Applications for permits to import or 
 export wildlife at a nondesignated port to minimize deterioration or 
 loss must be submitted to the Director. Each application must contain 
 the general information and certification required in Sec. 13.12(a) of 
 this subchapter, plus the following additional information:
-
-[[Page 56]]
-
     (1) The number and kinds of wildlife described by scientific and 
 common names to be imported or exported where such number and kinds can 
 be determined;
@@ -5800,18 +5793,18 @@ FR 31869, June 21, 1996]
 
 
 <R05>
-Sec. 14.33  Permits to import or export wildlife at nondesignated port to 
-alleviate undue economic hardship.
+Sec. 14.33  Permits to import or export wildlife at nondesignated port 
+to alleviate undue economic hardship.
 
     (a) General. The Director may, upon receipt of an application 
-submitted in accordance with the provisions of this section and Sec.Sec. 
-13.11 and 13.12 of this subchapter, and in accordance with the issuance 
-criteria of this section, issue a permit authorizing importation or 
-exportation of wildlife in order to alleviate undue economic hardship at 
-one or more named Customs port(s) of entry not otherwise authorized by 
-subpart B. Such permits may authorize a single importation or 
-exportation, a series of importations or exportations, or importation or 
-exportation during a specified period of time.
+submitted in accordance with the provisions of this section and 
+Sec. Sec. 13.11 and 13.12 of this subchapter, and in accordance with 
+the issuance criteria of this section, issue a permit authorizing 
+importation or exportation of wildlife in order to alleviate undue 
+economic hardship at one or more named Customs port(s) of entry not 
+otherwise authorized by subpart B. Such permits may authorize a single 
+importation or exportation, a series of importations or exportations, or 
+importation or exportation during a specified period of time.
     (b) Application procedure. Applications for permits to import or 
 export wildlife at a nondesignated port to alleviate undue economic 
 hardship must be submitted to the Director. Each application must 
@@ -5830,12 +5823,12 @@ requested, and the reasons why importation or exportation should be
 allowed at the requested port(s) of entry rather than at a designated 
 port (information must be included to show the monetary difference 
 between the cost of importation or exportation at the port requested and 
-the lowest cost of importation or exportation at the port through which 
-importation or exportation is authorized by subpart B without a permit); 
-and
+the lowest cost of importation or exportation at the port through
 
 [[Page 57]]
 
+which importation or exportation is authorized by subpart B without a 
+permit); and
     (5) A statement as to whether the exception is being requested for a 
 single shipment, a series of shipments, or shipments over a specified 
 period of time and the date(s) involved.
@@ -5869,7 +5862,7 @@ Subpart D [Reserved]
 
 
 <R04>
-             Subpart E--Inspection and Clearance of Wildlife
+             Subpart E_Inspection and Clearance of Wildlife
 
 
 <R05>
@@ -5917,10 +5910,10 @@ packing lists or invoices);
 regulations of the United States;
     (3) All permits or other documents required by the laws or 
 regulations of any foreign country;
-    (4) The wildlife being imported or exported; and
 
 [[Page 58]]
 
+    (4) The wildlife being imported or exported; and
     (5) Any documents and permits required by the country of export or 
 re-export for the wildlife.
 
@@ -5963,10 +5956,10 @@ has filed an incorrect or incomplete declaration for importation or
 exportation as provided in Sec. 14.61 or Sec. 14.63; or
     (5) The importer, exporter, or the importer's or exporter's agent 
 has not paid any fee or portion of balance due for inspection fees 
-required by Sec. 14.93 or Sec. 14.94, or penalties assessed against the 
-importer or exporter under 50 CFR part 11. This paragraph does not apply 
-to penalty assessments on appeal in accordance with the provisions of 
-part 11.
+required by Sec. 14.93 or Sec. 14.94, or penalties assessed against 
+the importer or exporter under 50 CFR part 11. This paragraph does not 
+apply to penalty assessments on appeal in accordance with the provisions 
+of part 11.
 
 [61 FR 31869, June 21, 1996]
 
@@ -5998,14 +5991,14 @@ imported at any port of entry under Sec. 14.15, may, if a Service
 officer is not available within a reasonable time, be cleared by Customs 
 officers, subject to post-clearance inspection and investigation by the 
 Service.
-    (e) Personally owned pet birds. Personally owned pet birds lawfully 
-imported at a port of entry under Sec. 14.17, may, if
 
 [[Page 59]]
 
-a Service officer is not available within a reasonable time, be cleared 
-by Customs officers, subject to post-clearance inspection and 
-investigation by the Service.
+    (e) Personally owned pet birds. Personally owned pet birds lawfully 
+imported at a port of entry under Sec. 14.17, may, if a Service officer 
+is not available within a reasonable time, be cleared by Customs 
+officers, subject to post-clearance inspection and investigation by the 
+Service.
     (f) Exports. Exporters or their agents must notify the Service and 
 make the shipment available for inspection at least 48 hours prior to 
 the estimated time of exportation of any wildlife.
@@ -6036,7 +6029,7 @@ parts thereof taken as a result of sport hunting.
 
 
 <R04>
-                    Subpart F--Wildlife Declarations
+                     Subpart F_Wildlife Declarations
 
 
 <R05>
@@ -6050,12 +6043,12 @@ importation of any wildlife at the place where Service clearance under
 Sec. 14.52 is requested. However, wildlife may be transshipped under 
 bond to a different port for release from custody by Customs Service 
 officers under 19 U.S.C. 1499. For certain antique articles as specified 
-in Sec. 14.22, importers or their agents must file a Form 3-177 with the 
-District Director of Customs at the port of entry prior to release from 
-Customs custody. Importers or their agents must furnish all applicable 
-information requested on the Form 3-177 and the importer, or the 
-importer's agent, must certify that the information furnished is true 
-and complete to the best of his/her knowledge and belief.
+in Sec. 14.22, importers or their agents must file a Form 3-177 with 
+the District Director of Customs at the port of entry prior to release 
+from Customs custody. Importers or their agents must furnish all 
+applicable information requested on the Form 3-177 and the importer, or 
+the importer's agent, must certify that the information furnished is 
+true and complete to the best of his/her knowledge and belief.
 
 [61 FR 49980, Sept. 24, 1996]
 
@@ -6080,14 +6073,14 @@ for commercial use and are used as clothing or contained in accompanying
 personal baggage, except that an importer or his/her agent must file a 
 Form 3-177 for raw or dressed furs; for raw, salted, or crusted hides or 
 skins; and for game or game trophies; and
-    (3) Wildlife products or manufactured articles that are not intended 
-for commercial use and are a part of a shipment of the household effects 
-of persons moving their residence to the United States, except that an 
-importer or his/her agent must file a declaration
 
 [[Page 60]]
 
-for raw or dressed furs and for raw, salted, or crusted hides or skins.
+    (3) Wildlife products or manufactured articles that are not intended 
+for commercial use and are a part of a shipment of the household effects 
+of persons moving their residence to the United States, except that an 
+importer or his/her agent must file a declaration for raw or dressed 
+furs and for raw, salted, or crusted hides or skins.
     (c) General declarations for certain specimens. Notwithstanding the 
 provisions of 14.61 and except for wildlife included in paragraph (d) of 
 this section, an importer or his/her agent may describe in general terms 
@@ -6158,13 +6151,13 @@ trophies, that are not intended for commercial use and are used as
 clothing or contained in accompanying personal baggage or are part of a 
 shipment of the household effects of persons moving their residence from 
 the United States; and
-    (3) Shipments of dead, preserved, dried, or embedded scientific 
-specimens or parts thereof, exported by accredited scientists or 
-accredited scientific institutions for taxonomic or systematic research 
-purposes. An exporter or his/her agent must file a Form 3-177 within 180
 
 [[Page 61]]
 
+    (3) Shipments of dead, preserved, dried, or embedded scientific 
+specimens or parts thereof, exported by accredited scientists or 
+accredited scientific institutions for taxonomic or systematic research 
+purposes. An exporter or his/her agent must file a Form 3-177 within 180 
 days of exportation with the appropriate Assistant Regional Director--
 Law Enforcement in the Region where the exportation occurs. The 
 declaration must identify the specimens to the most accurate taxonomic 
@@ -6185,7 +6178,7 @@ Subpart G [Reserved]
 
 
 <R04>
-              Subpart H--Marking of Containers or Packages
+               Subpart H_Marking of Containers or Packages
 
     Source: 52 FR 45341, Nov. 27, 1987, unless otherwise noted.
 
@@ -6239,19 +6232,18 @@ packing list, bill of lading, or other similar document that accurately
 states the information required by paragraph (a)(1)(ii) of this section.
     (3) In the case of subcontainers or packages within a larger packing 
 container, only the outermost container must be marked in accordance 
-with this section. Except, that for live fish or wildlife that are 
-packed in subcontainers within a larger packing container, if the 
-subcontainers are numbered or labeled, the packing list, invoice, bill 
-or lading, or other similar document, must reflect that number or label. 
-However, each subcontainer containing a venomous species must be clearly 
-marked as venomous.
-    (4) A conveyance (truck, plane, boat, etc.) is not considered a 
-container for
+with this section. Except, that for live fish or
 
 [[Page 62]]
 
-purposes of requiring specific marking of the conveyance itself, 
-provided that:
+wildlife that are packed in subcontainers within a larger packing 
+container, if the subcontainers are numbered or labeled, the packing 
+list, invoice, bill or lading, or other similar document, must reflect 
+that number or label. However, each subcontainer containing a venomous 
+species must be clearly marked as venomous.
+    (4) A conveyance (truck, plane, boat, etc.) is not considered a 
+container for purposes of requiring specific marking of the conveyance 
+itself, provided that:
     (i) The fish or wildlife within the conveyance is carried loosely or 
 is readily identifiable, and is accompanied by the document required by 
 paragraph (a)(1)(ii) of this section, or
@@ -6277,7 +6269,7 @@ where first offloaded.
 
 
 <R04>
-                    Subpart I--Import/Export Licenses
+                    Subpart I_Import/Export Licenses
 
 
 <R05>
@@ -6328,6 +6320,9 @@ exported for purposes of human or animal consumption;
 under part 17 or 23 of this subchapter B and that are taken in waters 
 under the jurisdiction of the United States or on the high seas for 
 recreational purposes;
+
+[[Page 63]]
+
     (3) Fox, nutria, rabbit, mink, chinchilla, marten, fisher, muskrat, 
 and karakul and their products if the animals have been bred and born in 
 captivity;
@@ -6335,12 +6330,9 @@ captivity;
 requiring a permit under part 17 or 23 of this subchapter B that are 
 being exported;
     (5) Live aquatic invertebrates of the Class Pelecypoda (commonly 
-known as oysters, clams, mussels, and scallops)
-
-[[Page 63]]
-
-and the eggs, larvae, or juvenile forms thereof exported for purposes of 
-propagation or research related to propagation; and
+known as oysters, clams, mussels, and scallops) and the eggs, larvae, or 
+juvenile forms thereof exported for purposes of propagation or research 
+related to propagation; and
     (6) Pearls imported or exported for commercial purposes.
     (b) Certain persons. The following persons may engage in business as 
 importers or exporters of wildlife without procuring an import/export 
@@ -6371,9 +6363,10 @@ only and not for purchase, sale, barter, or transfer of such wildlife.
 Sec. 14.93  License application procedure, conditions, and duration.
 
     (a) General. The Director may, upon receipt of an application 
-submitted in accordance with the provisions of this section and Sec.Sec. 
-13.11 and 13.12 of this subchapter, issue a license authorizing the 
-applicant to engage in business as an importer or exporter of wildlife.
+submitted in accordance with the provisions of this section and 
+Sec. Sec. 13.11 and 13.12 of this subchapter, issue a license 
+authorizing the applicant to engage in business as an importer or 
+exporter of wildlife.
     (b) Application procedure. Applications for import/export licenses 
 must be submitted to the appropriate Special Agent in Charge (see Sec. 
 10.22 of this subchapter). Each application must contain the general 
@@ -6403,17 +6396,17 @@ records must include a general description of the form of the wildlife,
 such as ``live,'' ``raw hides,'' or ``fur garments;'' the quantity of 
 wildlife, in numbers, weight, or other appropriate measure; the common 
 and scientific names; the country or place of origin of the wildlife, if 
-known; the date and place of import or export; the date of the 
-subsequent disposition of the wildlife; the manner of disposition, 
+known; the date and place of import or export; the date of
+
+[[Page 64]]
+
+the subsequent disposition of the wildlife; the manner of disposition, 
 whether by sale, barter, consignment, loan, delivery, destruction, or 
 other means; and the name and address of the person who received the 
 wildlife pursuant to such disposition, if applicable;
     (2) Licensees shall include and retain in their records copies of 
 all permits required by the laws and regulations of the United States 
 and any country of export or origin;
-
-[[Page 64]]
-
     (3) Licensees shall maintain such books and records for a period of 
 five years;
     (4) Subject to applicable limitations of law, licensees must provide 
@@ -6478,17 +6471,17 @@ inspection during normal work hours but the Service cannot perform the
 inspection during normal work hours on that day, the service will give 
 the importer/exporter the option of performing the inspection later 
 during normal work hours or charging for overtime. The Service's ability 
-to perform inspections during overtime hours will depend on the 
+to perform inspections during overtime hours will depend on the
+
+[[Page 65]]
+
 availability of Service personnel. The Service will use the following 
 parameters when calculating the overtime fee:
     (1) Inspection overtime commences when a Service officer departs 
 that officer's residence or official duty station enroute to the 
-inspection site or at the end of normal work hours. Inspection
-
-[[Page 65]]
-
-overtime terminates when the officer returns to the point of departure 
-or official duty station or when the inspection is completed, whichever 
+inspection site or at the end of normal work hours. Inspection overtime 
+terminates when the officer returns to the point of departure or 
+official duty station or when the inspection is completed, whichever 
 occurs later.
     (2) For an inspection at a designated port beginning less than 1 
 hour before normal work hours, the Service will charge 1 hour of time, 
@@ -6543,12 +6536,19 @@ inspection and clearance, including, salary, travel and transportation
 costs, and per diem.
     (d) Schedule.
 
+------------------------------------------------------------------------
+ 
+------------------------------------------------------------------------
                               General Fees
 ------------------------------------------------------------------------
  
  Import/Export license fee.......  $50 per year.
 Inspection fee...................  $55 per shipment.
 ----------------------------------
+ 
+
+[[Page 66]]
+
  
                          Inspection Fee Schedule
 ------------------------------------------------------------------------
@@ -6558,10 +6558,6 @@ Designated ports: Licensees:
      work hours.
 Inspections beginning less than 1  $55 Inspection fee plus $30.
  hour before normal work hours.
-
-[[Page 66]]
-
- 
 Inspections beginning more than 1  $55 Inspection fee plus 2 hour
  hour before normal work hours.     minimum at $30/hr.
 Inspections after normal work      $55 Inspection fee plus 2 hour
@@ -6625,7 +6621,7 @@ paragraph.
 
 
 <R04>
-  Subpart J--Standards for the Humane and Healthful Transport of Wild 
+   Subpart J_Standards for the Humane and Healthful Transport of Wild 
                  Mammals and Birds to the United States
 
     Source: 57 FR 27108, June 17, 1992, unless otherwise noted.
@@ -6637,10 +6633,12 @@ Sec. 14.101  Purposes.
     The purpose of this subpart is to prescribe requirements necessary 
 to ensure that live wild mammals and birds shipped to the United States 
 arrive alive, healthy, and uninjured, and that transportation of such 
-animals occurs under humane and healthful conditions. These regulations 
-implement section 9(d) of the Lacey Act Amendments of 1981.
+animals occurs
 
 [[Page 67]]
+
+under humane and healthful conditions. These regulations implement 
+section 9(d) of the Lacey Act Amendments of 1981.
 
 
 <R05>
@@ -6709,12 +6707,13 @@ by air, land, or sea.
     Transporting device means any vehicle or device used to transport an 
 animal between a conveyance and a terminal facility, in and around a 
 terminal facility of a carrier, or within a conveyance.
-    Unweaned means a bird or mammal incapable of feeding itself 
-independently.
-    Wild means the same as fish or wildlife, as defined in Sec. 10.12 of 
-this chapter.
 
 [[Page 68]]
+
+    Unweaned means a bird or mammal incapable of feeding itself 
+independently.
+    Wild means the same as fish or wildlife, as defined in Sec. 10.12 
+of this chapter.
 
 
 <R05>
@@ -6792,22 +6791,24 @@ presence of live animal shipments.
 Sec. 14.106  Primary enclosures.
 
     No carrier shall accept for transport to the United States any live 
-wild mammal or bird in a primary enclosure that does not conform to the 
-following requirements:
-    (a) The Container Requirements of the Live Animal Regulations (LAR), 
-20th edition, October 1, 1993, published
+wild mammal or bird in a primary enclosure
 
 [[Page 69]]
 
-by the International Air Transport Association (IATA) shall be complied 
-with by all parties transporting wild mammals or birds to the United 
-States. The incorporation by reference of the LAR was approved by the 
-Director of the Federal Register in accordance with 5 U.S.C. 552(a) and 
-1 CFR part 51. Copies may be obtained from IATA, 2000 Peel St., 
-Montreal, Quebec, Canada H3A 2R4. Copies may be inspected at the U.S. 
-Fish and Wildlife Service, 4401 N. Fairfax Dr., Arlington, VA 22203 or 
-at the Office of the Federal Register, 800 North Capitol Street, NW., 
-suite 700, Washington, DC.
+that does not conform to the following requirements:
+    (a) The Container Requirements of the Live Animal Regulations (LAR), 
+20th edition, October 1, 1993, published by the International Air 
+Transport Association (IATA) shall be complied with by all parties 
+transporting wild mammals or birds to the United States. The 
+incorporation by reference of the LAR was approved by the Director of 
+the Federal Register in accordance with 5 U.S.C. 552(a) and 1 CFR part 
+51. Copies may be obtained from IATA, 2000 Peel St., Montreal, Quebec, 
+Canada H3A 2R4. Copies may be inspected at the U.S. Fish and Wildlife 
+Service, 4401 N. Fairfax Dr., Arlington, VA 22203 or at the National 
+Archives and Records Administration (NARA). For information on the 
+availability of this material at NARA, call 202-741-6030, or go to: 
+http://www.archives.gov/federal--register/code--of--federal--
+regulations/ibr--locations.html.
     (b) A primary enclosure shall be constructed so that--
     (1) The strength of the enclosure is sufficient to contain the 
 mammal or bird and to withstand the normal effects of transport;
@@ -6859,18 +6860,18 @@ shall contain unused absorbent litter on the solid bottom or in the
 leak-proof tray in sufficient quantity to absorb and cover excreta. This 
 litter shall be safe and nontoxic and shall not resemble food normally 
 consumed by the mammals. An enclosure used to transport marine mammals 
-in water, in a waterproof enclosure, a sling, or on foam is exempt from 
-the requirement to contain litter. An enclosure used to transport birds 
-shall not contain litter, unless it is specified in writing by the 
-examining veterinarian as medically necessary.
-    (f) If an enclosure has been previously used to transport or store 
-wild mammals or birds, it shall have been
+in water,
 
 [[Page 70]]
 
-cleaned and sanitized in a manner that will destroy pathogenic agents 
-and pests injurious to the health of mammals and birds before the 
-enclosure can be re-used.
+in a waterproof enclosure, a sling, or on foam is exempt from the 
+requirement to contain litter. An enclosure used to transport birds 
+shall not contain litter, unless it is specified in writing by the 
+examining veterinarian as medically necessary.
+    (f) If an enclosure has been previously used to transport or store 
+wild mammals or birds, it shall have been cleaned and sanitized in a 
+manner that will destroy pathogenic agents and pests injurious to the 
+health of mammals and birds before the enclosure can be re-used.
     (g) An enclosure that is not permanently affixed in the conveyance 
 shall be clearly marked in English on the outside of the top and one or 
 more sides of the enclosure, in letters not less than 2.5 centimeters (1 
@@ -6906,7 +6907,8 @@ primary enclosure shall occupy at least 90 percent of the total surface
 area of the front wall of the enclosure and be covered with bars or wire 
 mesh.
 
-[57 FR 27108, June 17, 1992, as amended at 59 FR 36719, July 19, 1994]
+[57 FR 27108, June 17, 1992, as amended at 59 FR 36719, July 19, 1994; 
+69 FR 18803, Apr. 9, 2004]
 
 
 <R05>
@@ -6938,15 +6940,16 @@ Sec. 14.108  Food and water.
 
     (a) No carrier shall accept any wild mammal or bird for transport to 
 the United States unless written instructions from the shipper 
-concerning the animal's food and water requirements are securely affixed 
-to the outside of its primary enclosure. Such instructions shall be 
-consistent with professionally accepted standards of care and include 
-specifically the quantity of water required, the amount and type of food 
-required, and the frequency of feeding and watering necessary to ensure 
-that the animal is transported humanely and healthfully.
+concerning the animal's food and water requirements
 
 [[Page 71]]
 
+are securely affixed to the outside of its primary enclosure. Such 
+instructions shall be consistent with professionally accepted standards 
+of care and include specifically the quantity of water required, the 
+amount and type of food required, and the frequency of feeding and 
+watering necessary to ensure that the animal is transported humanely and 
+healthfully.
     (b) A mammal or bird requiring drinking water shall have 
 uncontaminated water suitable for drinking made available to it at all 
 times prior to commencement of transport to the United States, during 
@@ -7016,15 +7019,16 @@ area.
 terminal facility shall provide the following:
     (1) A holding area cleaned and sanitized so as to destroy pathogenic 
 agents, maintained so that there is no accumulation of debris or 
-excreta, and in which vermin infestation is minimized;
+excreta, and
+
+[[Page 72]]
+
+in which vermin infestation is minimized;
     (2) An effective program for the control of insects, ectoparasites, 
 and pests of mammals or birds;
     (3) Sufficient fresh air to allow the animals to breathe normally 
 with ventilation maintained so as to minimize drafts, odors, and 
 moisture condensation;
-
-[[Page 72]]
-
     (4) Ambient air temperatures maintained within prescribed limits as 
 specified in Sec. 14.109(b).
 
@@ -7072,10 +7076,10 @@ causes vibration.
 <R05>
 Sec. 14.112  Other applicable provisions.
 
-    In addition to the provisions of Sec.Sec. 14.101-14.111, the 
-requirements of Sec.Sec. 14.121-14.172 applicable for particular groups 
-of animals shall be met for all shipments of wild mammals and birds 
-covered by this part.
+    In addition to the provisions of Sec. Sec. 14.101-14.111, the 
+requirements of Sec. Sec. 14.121-14.172 applicable for particular 
+groups of animals shall be met for all shipments of wild mammals and 
+birds covered by this part.
 
                   Specifications for Nonhuman Primates
 
@@ -7099,18 +7103,18 @@ movements according to professionally accepted standards of care when
 greater freedom of movement would constitute a danger to the primate or 
 to its handler or other persons.
     (c) Except as provided in Sec. 14.106(j), ventilation openings must 
-be located on at least two walls of a primary enclosure. When the 
-required ventilation openings are located on two opposite walls of the 
-primary enclosure, these ventilation openings shall comprise at least 30 
-percent of the total surface
+be located
 
 [[Page 73]]
 
-area of the ventilated wall and be situated above the midline of the 
-enclosure. If ventilation openings are located on all four walls of the 
-enclosure, the openings on each wall shall comprise at least 20 percent 
-of the total surface area of the wall and be situated above the midline 
-of the primary enclosure.
+on at least two walls of a primary enclosure. When the required 
+ventilation openings are located on two opposite walls of the primary 
+enclosure, these ventilation openings shall comprise at least 30 percent 
+of the total surface area of the ventilated wall and be situated above 
+the midline of the enclosure. If ventilation openings are located on all 
+four walls of the enclosure, the openings on each wall shall comprise at 
+least 20 percent of the total surface area of the wall and be situated 
+above the midline of the primary enclosure.
 
 
 <R05>
@@ -7178,12 +7182,13 @@ be of the same species and be maintained in compatible groups. A marine
 mammal that has not reached puberty shall not be transported in the same 
 primary enclosure with an adult marine mammal other than its mother. 
 Socially dependent animals (e.g., siblings, mother, and offspring) 
-transported in the same conveyance shall be allowed visual and, when 
-appropriate for the species, olfactory contact. A female marine mammal 
-shall not be transported in the same primary enclosure with any mature 
-male marine mammal.
+transported in the same conveyance shall be allowed visual and,
 
 [[Page 74]]
+
+when appropriate for the species, olfactory contact. A female marine 
+mammal shall not be transported in the same primary enclosure with any 
+mature male marine mammal.
 
 
 <R05>
@@ -7263,14 +7268,13 @@ habitually housed together may be shipped in the same primary enclosure.
 shall be large enough to allow the animal to lie or stand in a natural 
 upright position with the head extended, but not large enough for the 
 animal to roll over.
-    (d) A primary enclosure used to transport an elephant or ungulate 
-with horns or tusks shall be designed and constructed to prevent the 
-horns or
 
 [[Page 75]]
 
-tusks from becoming trapped or injuring the animal itself, other animals 
-nearby, attendants, or cargo handlers.
+    (d) A primary enclosure used to transport an elephant or ungulate 
+with horns or tusks shall be designed and constructed to prevent the 
+horns or tusks from becoming trapped or injuring the animal itself, 
+other animals nearby, attendants, or cargo handlers.
     (e) A primary enclosure for an elephant or ungulate shall be 
 equipped with a removable water trough that can be securely hung within 
 the enclosure above the floor and can be filled from outside the 
@@ -7421,12 +7425,12 @@ another.
 
 
 <R03>
-PART 15--WILD BIRD CONSERVATION ACT--Table of Contents
-
-<R05>
+PART 15_WILD BIRD CONSERVATION ACT--Table of Contents
 
 
-             Subpart A--Introduction and General Provisions
+
+
+              Subpart A_Introduction and General Provisions
 
 Sec.
 15.1 Purpose of regulations.
@@ -7434,14 +7438,14 @@ Sec.
 15.3 Definitions.
 15.4 Information collection requirements.
 
-                Subpart B--Prohibitions and Requirements
+                 Subpart B_Prohibitions and Requirements
 
 15.11 Prohibitions.
 15.12 Requirements.
 
 [[Page 77]]
 
-    Subpart C--Permits and Approval of Cooperative Breeding Programs
+     Subpart C_Permits and Approval of Cooperative Breeding Programs
 
 15.21 General application procedures.
 15.22 Permits for scientific research.
@@ -7450,7 +7454,7 @@ Sec.
 15.25 Permits for personal pets.
 15.26 Approval of cooperative breeding programs.
 
-  Subpart D--Approved List of Species Listed in the Appendices to the 
+   Subpart D_Approved List of Species Listed in the Appendices to the 
                                Convention
 
 15.31 Criteria for including species in the approved list for captive-
@@ -7459,14 +7463,14 @@ Sec.
           captive-bred species.
 15.33 Species included in the approved list.
 
-   Subpart E--Qualifying Facilities Breeding Exotic Birds in Captivity
+   Subpart E_Qualifying Facilities Breeding Exotic Birds in Captivity
 
 15.41 Criteria for including facilities as qualifying for imports. 
           [Reserved]
 15.42 List of foreign qualifying breeding facilities. [Reserved]
 
- Subpart F--List of Prohibited Species Not Listed in the Appendices to 
-                             the Convention
+Subpart F_List of Prohibited Species Not Listed in the Appendices to the 
+                               Convention
 
 15.51 Criteria for including species and countries in the prohibited 
           list. [Reserved]
@@ -7479,7 +7483,7 @@ Sec.
 
 
 <R04>
-             Subpart A--Introduction and General Provisions
+              Subpart A_Introduction and General Provisions
 
 
 <R05>
@@ -7586,7 +7590,7 @@ Reduction Project (1018-0093), Washington, DC 20603.
 
 
 <R04>
-                Subpart B--Prohibitions and Requirements
+                 Subpart B_Prohibitions and Requirements
 
 
 <R05>
@@ -7643,7 +7647,7 @@ aforementioned permit or certificate.
 
 
 <R04>
-    Subpart C--Permits and Approval of Cooperative Breeding Programs
+     Subpart C_Permits and Approval of Cooperative Breeding Programs
 
 
 <R05>
@@ -7666,7 +7670,7 @@ Office of Management Authority), 4401 N. Fairfax Drive, Room 700,
 Arlington, VA 22203. Each application must contain the general 
 information and certification required in Sec. 13.12(a) of this 
 subchapter, and all of the information specified in the applicable 
-section Sec.Sec. 15.22 through 15.26.
+section Sec. Sec. 15.22 through 15.26.
 
 [58 FR 60536, Nov. 16, 1993, as amended at 63 FR 52634, Oct. 1, 1998]
 
@@ -8087,7 +8091,7 @@ in part 13 of this subchapter.
 
 
 <R04>
-  Subpart D--Approved List of Species Listed in the Appendices to the 
+   Subpart D_Approved List of Species Listed in the Appendices to the 
                                Convention.
 
     Source: 59 FR 62262, Dec. 2, 1994, unless otherwise noted.
@@ -8426,11 +8430,12 @@ pursuant to subpart C of this part.
 
 
 <R04>
-   Subpart E--Qualifying Facilities Breeding Exotic Birds in Captivity
+   Subpart E_Qualifying Facilities Breeding Exotic Birds in Captivity
 
 
 <R05>
-Sec. 15.41  Criteria for including facilities as qualifying for imports. [Reserved]
+Sec. 15.41  Criteria for including facilities as qualifying for imports. 
+[Reserved]
 
 
 <R05>
@@ -8438,12 +8443,13 @@ Sec. 15.42  List of foreign qualifying breeding facilities. [Reserved]
 
 
 <R04>
- Subpart F--List of Prohibited Species Not Listed in the Appendices to 
-                             the Convention
+Subpart F_List of Prohibited Species Not Listed in the Appendices to the 
+                               Convention
 
 
 <R05>
-Sec. 15.51  Criteria for including species and countries in the prohibited list. [Reserved]
+Sec. 15.51  Criteria for including species and countries in the prohibited 
+list. [Reserved]
 
 
 <R05>
@@ -8455,19 +8461,19 @@ Sec. 15.53  Countries of export included in the prohibited list. [Reserved]
 
 
 <R03>
-PART 16--INJURIOUS WILDLIFE--Table of Contents
-
-<R05>
+PART 16_INJURIOUS WILDLIFE--Table of Contents
 
 
-                         Subpart A--Introduction
+
+
+                         Subpart A_Introduction
 
 Sec.
 16.1 Purpose of regulations.
 16.2 Scope of regulations.
 16.3 General restrictions.
 
-        Subpart B--Importation or Shipment of Injurious Wildlife
+         Subpart B_Importation or Shipment of Injurious Wildlife
 
 16.11 Importation of live wild mammals.
 16.12 Importation of live wild birds or their eggs.
@@ -8476,11 +8482,11 @@ Sec.
 16.14 Importation of live amphibians or their eggs.
 16.15 Importation of live reptiles or their eggs.
 
-                           Subpart C--Permits
+                            Subpart C_Permits
 
 16.22 Injurious wildlife permits.
 
-                    Subpart D--Additional Exemptions
+                     Subpart D_Additional Exemptions
 
 16.32 Importation by Federal agencies.
 16.33 Importation of natural-history specimens.
@@ -8491,7 +8497,7 @@ Sec.
 
 
 <R04>
-                         Subpart A--Introduction
+                         Subpart A_Introduction
 
 
 <R05>
@@ -8530,12 +8536,12 @@ the Commonwealth of Puerto Rico, or any territory or possession of the
 United States by any means whatsoever, is prohibited except for certain 
 purposes and under certain conditions as hereinafter provided in this 
 part: Provided, That the provisions of this section shall not apply to 
-psittacine birds (see also Sec.Sec. 16.32 and 16.33 for other 
+psittacine birds (see also Sec. Sec. 16.32 and 16.33 for other 
 exemptions).
 
 
 <R04>
-        Subpart B--Importation or Shipment of Injurious Wildlife
+         Subpart B_Importation or Shipment of Injurious Wildlife
 
 
 <R05>
@@ -8620,8 +8626,8 @@ Sec. 16.13  Importation of live or dead fish, mollusks, and crustaceans,
 or their eggs.
 
     (a) Upon an exporter filing a written declaration with the District 
-Director of Customs at the port of entry as required under Sec. 14.61 of 
-this chapter, live or dead fish, mollusks, and crustaceans, or parts 
+Director of Customs at the port of entry as required under Sec. 14.61 
+of this chapter, live or dead fish, mollusks, and crustaceans, or parts 
 thereof, or their gametes or fertilized eggs, may be imported, 
 transported, and possessed in captivity without a permit except as 
 follows:
@@ -8724,15 +8730,16 @@ Wildlife Service on -------- (date), as a certifying official for ------
 the fish lot(s) of origin for this shipment of -------- (weight in 
 kilograms) dead uneviscerated salmonid fish, live salmonid fish, live 
 salmonid fish eggs disinfected as described in Sec. 16.13, or live 
-salmonid gametes to be shipped under -------- (bill of lading number or 
-airway bill number), were sampled at
--------- (location of fish facility) on -------- (sampling date) and the 
-required viral assays were completed on -------- (date assays were 
-completed) at -------- (location where assays were conducted) using the 
-methodology described in Sec. 16.13. I further certify that Oncorhynchus 
-masou virus and the viruses causing viral hemorrhagic septicemia, 
-infectious hematopoietic necrosis, and infectious pancreatic necrosis 
-have not been detected in viral assays of the fish lot(s) of origin.
+salmonid gametes to be shipped under -------- (bill of lading number or  
+airway  bill  number),  were  sampled  at -------- (location  of  fish  
+facility)  on
+-------- (sampling date) and the required viral assays were completed on 
+-------- (date assays were completed) at -------- (location where assays 
+were conducted) using the methodology described in Sec. 16.13. I 
+further certify that Oncorhynchus masou virus and the viruses causing 
+viral hemorrhagic septicemia, infectious hematopoietic necrosis, and 
+infectious pancreatic necrosis have not been detected in viral assays of 
+the fish lot(s) of origin.
     The shipment is scheduled to depart -------- (city and country) on 
 -------- (date), via -------- (name of carrier) with anticipated arrival 
 at the port of -------- (city), U.S.A., on -------- (date).
@@ -8815,8 +8822,8 @@ inspected at least four times during that period (at intervals of
 approximately 6 months) and no pathogens of concern detected.
     (iv) Fish must be alive when collected and processed within 48 hours 
 after collection. Tissue and fluid samples shall be stored in sealed, 
-aseptic containers and kept at 4<deg<ls-thn-eq> Celsius (C.) or on ice 
-but not frozen.
+aseptic containers and kept at 4[deg] Celsius (C.) or on ice but not 
+frozen.
     (v) Tissue collection shall be as follows:
     (A) Sac Fry and fry to 4 centimeter (cm): Assay entire fish. If 
 present, remove the yolk sac.
@@ -8845,18 +8852,18 @@ units/milliliter (IU/ml) of penicillin, or 800 [mu] g/ml of
 streptomycin. Antifungal agent concentrations should not exceed 200 IU/
 ml of mycostatin (Nystatin) of 20 [mu] g/ml of amphotericin B 
 (Fungizone).
-    (iv) Sample temperature must be maintained between 4 at 15 
-<deg<ls-thn-eq>C. during processing. Use separate sets of sterile 
-homogenization and processing equipment to process fluids or tissues 
-from each fish lot sampled. Processing equipment need not be sterilized 
-between samples within a single lot.
+    (iv) Sample temperature must be maintained between 4 at 15 [deg]C. 
+during processing. Use separate sets of sterile homogenization and 
+processing equipment to process fluids or tissues from each fish lot 
+sampled. Processing equipment need not be sterilized between samples 
+within a single lot.
     (v) Homogenized tissue samples may be diluted 1:10 with buffered 
 cell culture medium (pH 7.4-7.8) containing antibiotics and antifungal 
 agents not exceeding the concentrations described in paragraph 
 (e)(2)(iii) of this section. Centrifuge tissue suspensions and ovarian 
-fluid samples 4 <deg<ls-thn-eq>C. at 2,500 x gravity (g) (relative 
-centrifugal force) for 15 minutes. Resulting supernatant solutions can 
-be stored overnight at 4 <deg<ls-thn-eq>C.
+fluid samples 4 [deg]C. at 2,500 x gravity (g) (relative centrifugal 
+force) for 15 minutes. Resulting supernatant solutions can be stored 
+overnight at 4 [deg]C.
     (vi) At the time of inoculation onto cell cultures, total dilution 
 of processed tissue samples must not exceed 1:100 ((volume to volume) 
 (v/v)); total dilution of ovarian fluid samples must not exceed 1:20 (v/
@@ -8879,11 +8886,11 @@ assay work.
 of each cell line, and inoculate four replicate wells per cell line with 
 .10 ml per well of each processed sample. When all wells have been 
 inoculated, tilt plates to spread the inocula evenly. Incubate 
-inoculated plates for 1 hour at 15<deg<ls-thn-eq> C. for sample contact. 
-After the 1 hour contact add cell culture medium. Medium shall be 
-buffered or cells incubated so that a pH between 7.4 and 7.8 is 
-maintained. All cell culture assays shall be incubated, without 
-overlays, at 15<deg<ls-thn-eq>C. for 21 days.
+inoculated plates for 1 hour at 15 [deg]C. for sample contact. After the 
+1 hour contact add cell culture medium. Medium shall be buffered or 
+cells incubated so that a pH between 7.4 and 7.8 is maintained. All cell 
+culture assays shall be incubated, without overlays, at 15 [deg]C. for 
+21 days.
     (4) Virus identification by serological methods. All cell cultures 
 showing cytopathic effects (CPE) must be sub-cultured onto fresh cell 
 cultures. If CPE is observed, determine the presence and identity the 
@@ -8948,7 +8955,7 @@ written permission for release from such agency.
 
 
 <R04>
-                           Subpart C--Permits
+                            Subpart C_Permits
 
 
 <R05>
@@ -8990,14 +8997,14 @@ in the permit.
     (2) No live wildlife, acquired under permit, or any eggs or progeny 
 thereof, may be sold, donated, traded, loaned, or transferred to any 
 other person unless such person has a permit issued by the Director 
-under Sec. 16.22 authorizing him to acquire and possess such wildlife or 
-the eggs or progeny thereof.
+under Sec. 16.22 authorizing him to acquire and possess such wildlife 
+or the eggs or progeny thereof.
     (3) Permittees shall notify the nearest Special Agent-in-Charge (see 
-Sec. 10.22 of this chapter) by telephone or other expedient means within 
-24 hours following the escape of any wildlife imported or transported 
-under authority of a permit issued under this section, or the escape of 
-any progeny of such wildlife, unless otherwise specifically exempted by 
-terms of the permit.
+Sec. 10.22 of this chapter) by telephone or other expedient means 
+within 24 hours following the escape of any wildlife imported or 
+transported under authority of a permit issued under this section, or 
+the escape of any progeny of such wildlife, unless otherwise 
+specifically exempted by terms of the permit.
     (c) Issuance criteria. The Director shall consider the following in 
 determining whether to issue a permit to import or ship injurious 
 wildlife for zoological, educational, medical, or scientific purposes:
@@ -9043,7 +9050,7 @@ FR 52634, Oct. 1, 1998]
 
 
 <R04>
-                    Subpart D--Additional Exemptions
+                     Subpart D_Additional Exemptions
 
 
 <R05>
@@ -9074,6 +9081,7 @@ the importation of which is governed by regulations under part 14 of
 this chapter; or to dead bald and golden eagles or their eggs, the 
 importation of which is governed by regulations under part 22 of this 
 chapter.
+
 
 [[Page 99]]
 
@@ -9100,7 +9108,7 @@ which is published separately and revised annually.
 
             Material Approved for Incorporation by Reference
 
-                     (Revised as of October 1, 2003)
+                     (Revised as of October 1, 2004)
 
   The Director of the Federal Register has approved under 5 U.S.C. 
 552(a) and 1 CFR part 51 the incorporation by reference of the following 
@@ -9132,7 +9140,7 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
 <R04>
 
-                     (Revised as of October 1, 2003)
+                     (Revised as of October 1, 2004)
 
                       Title 1--General Provisions
 
@@ -9141,7 +9149,16 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         II  Office of the Federal Register (Parts 50--299)
         IV  Miscellaneous Agencies (Parts 400--500)
 
-                          Title 2 [Reserved]
+                    Title 2--Grants and Agreements
+
+            Subtitle A--Office of Management and Budget Guidance 
+                for Grants and Agreements
+         I  [Reserved]
+        II  Office of Management and Budget Circulars and Guidance 
+                [Reserved]
+            Subtitle B--Federal Agency Regulations for Grants and 
+                Agreements [Reserved]
+
 
                         Title 3--The President
 
@@ -9166,6 +9183,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
        XIV  Federal Labor Relations Authority, General Counsel of 
                 the Federal Labor Relations Authority and Federal 
                 Service Impasses Panel (Parts 2400--2499)
+
+[[Page 104]]
+
         XV  Office of Administration, Executive Office of the 
                 President (Parts 2500--2599)
        XVI  Office of Government Ethics (Parts 2600--2699)
@@ -9175,9 +9195,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
       XXIV  Federal Energy Regulatory Commission (Part 3401)
        XXV  Department of the Interior (Part 3501)
       XXVI  Department of Defense (Part 3601)
-
-[[Page 104]]
-
     XXVIII  Department of Justice (Part 3801)
       XXIX  Federal Communications Commission (Parts 3900--3999)
        XXX  Farm Credit System Insurance Corporation (Parts 4000--
@@ -9198,7 +9215,7 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
       LIII  Department of Education (Parts 6300--6399)
        LIV  Environmental Protection Agency (Part 6401)
         LV  National Endowment for the Arts (Part 6501)
-       LVI  National Endowment for the Humanitiess (Part 6601)
+       LVI  National Endowment for the Humanities (Part 6601)
       LVII  General Services Administration (Part 6701)
      LVIII  Board of Governors of the Federal Reserve System (Part 
                 6801)
@@ -9218,6 +9235,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
     LXXIII  Department of Agriculture (Part 8301)
      LXXIV  Federal Mine Safety and Health Review Commission (Part 
                 8401)
+
+[[Page 105]]
+
      LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
     LXXVII  Office of Management and Budget (Part 8701)
 
@@ -9225,8 +9245,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
          I  Department of Homeland Security, Office of the 
                 Secretary (Parts 0--99)
-
-[[Page 105]]
 
                          Title 7--Agriculture
 
@@ -9275,6 +9293,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 2099)
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
+
+[[Page 106]]
+
       XXVI  Office of Inspector General, Department of Agriculture 
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
@@ -9285,9 +9306,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 2900--2999)
        XXX  Office of the Chief Financial Officer, Department of 
                 Agriculture (Parts 3000--3099)
-
-[[Page 106]]
-
       XXXI  Office of Environmental Quality, Department of 
                 Agriculture (Parts 3100--3199)
      XXXII  Office of Procurement and Property Management, 
@@ -9313,9 +9331,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                     Title 8--Aliens and Nationality
 
          I  Department of Homeland Security (Immigration and 
-                Naturalization) (Parts 1--599)
+                Naturalization) (Parts 1--499)
          V  Executive Office for Immigration Review, Department of 
-                Justice (Parts 1000--1400)
+                Justice (Parts 1000--1399)
 
                  Title 9--Animals and Animal Products
 
@@ -9331,15 +9349,16 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
          I  Nuclear Regulatory Commission (Parts 0--199)
         II  Department of Energy (Parts 200--699)
+
+[[Page 107]]
+
        III  Department of Energy (Parts 700--999)
-         X  Department of Energy (General Provisions) (Parts 1000-
-                -1099)
+         X  Department of Energy (General Provisions) (Parts 
+                1000--1099)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
      XVIII  Northeast Interstate Low-Level Radioactive Waste 
                 Commission (Part 1800)
-
-[[Page 107]]
 
                       Title 11--Federal Elections
 
@@ -9375,9 +9394,10 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
          I  Small Business Administration (Parts 1--199)
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
-        IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
-         V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
-                500--599)
+        IV  Emergency Steel Guarantee Loan Board, Department of 
+                Commerce (Parts 400--499)
+         V  Emergency Oil and Gas Guaranteed Loan Board, 
+                Department of Commerce (Parts 500--599)
 
                     Title 14--Aeronautics and Space
 
@@ -9385,6 +9405,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 Transportation (Parts 1--199)
         II  Office of the Secretary, Department of Transportation 
                 (Aviation Proceedings) (Parts 200--399)
+
+[[Page 108]]
+
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
                 (Parts 400--499)
@@ -9397,9 +9420,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
             Subtitle A--Office of the Secretary of Commerce (Parts 
                 0--29)
-
-[[Page 108]]
-
             Subtitle B--Regulations Relating to Commerce and 
                 Foreign Trade
          I  Bureau of the Census, Department of Commerce (Parts 
@@ -9442,6 +9462,8 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
 
+[[Page 109]]
+
           Title 18--Conservation of Power and Water Resources
 
          I  Federal Energy Regulatory Commission, Department of 
@@ -9450,8 +9472,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         VI  Water Resources Council (Parts 700--799)
       VIII  Susquehanna River Basin Commission (Parts 800--899)
       XIII  Tennessee Valley Authority (Parts 1300--1399)
-
-[[Page 109]]
 
                        Title 19--Customs Duties
 
@@ -9471,14 +9491,14 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 of Labor (Parts 1--199)
         II  Railroad Retirement Board (Parts 200--399)
        III  Social Security Administration (Parts 400--499)
-        IV  Employees' Compensation Appeals Board, Department of 
+        IV  Employees Compensation Appeals Board, Department of 
                 Labor (Parts 500--599)
          V  Employment and Training Administration, Department of 
                 Labor (Parts 600--699)
         VI  Employment Standards Administration, Department of 
                 Labor (Parts 700--799)
-       VII  Benefits Review Board, Department of Labor (Parts 800-
-                -899)
+       VII  Benefits Review Board, Department of Labor (Parts 
+                800--899)
       VIII  Joint Board for the Enrollment of Actuaries (Parts 
                 900--999)
         IX  Office of the Assistant Secretary for Veterans' 
@@ -9499,28 +9519,29 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
          I  Department of State (Parts 1--199)
         II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
+
+[[Page 110]]
+
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
          V  Broadcasting Board of Governors (Parts 500--599)
        VII  Overseas Private Investment Corporation (Parts 700--
                 799)
-        IX  Foreign Service Grievance Board (Parts 900--999)
+        IX  Foreign Service Grievance Board Regulations (Parts 
+                900--999)
          X  Inter-American Foundation (Parts 1000--1099)
         XI  International Boundary and Water Commission, United 
                 States and Mexico, United States Section (Parts 
                 1100--1199)
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
-
-[[Page 110]]
-
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
                 Service Impasse Disputes Panel (Parts 1400--1499)
         XV  African Development Foundation (Parts 1500--1599)
-       XVI  Japan-United States Friendship Commission (Parts 1600-
-                -1699)
+       XVI  Japan-United States Friendship Commission (Parts 
+                1600--1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
 
                           Title 23--Highways
@@ -9556,6 +9577,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
+
+[[Page 111]]
+
        VII  Office of the Secretary, Department of Housing and 
                 Urban Development (Housing Assistance Programs and 
                 Public and Indian Housing Programs) (Parts 700--
@@ -9570,9 +9594,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         IX  Office of Assistant Secretary for Public and Indian 
                 Housing, Department of Housing and Urban 
                 Development (Parts 900--1699)
-
-[[Page 111]]
-
          X  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Interstate Land Sales 
@@ -9611,9 +9632,11 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
            Title 27--Alcohol, Tobacco Products and Firearms
 
          I  Alcohol and Tobacco Tax and Trade Bureau, Department 
-                of the Treasury (Parts 1--299)
+                of the Treasury (Parts 1--399)
         II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
                 Department of Justice (Parts 400--699)
+
+[[Page 112]]
 
                    Title 28--Judicial Administration
 
@@ -9625,9 +9648,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         VI  Offices of Independent Counsel, Department of Justice 
                 (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
-
-[[Page 112]]
-
       VIII  Court Services and Offender Supervision Agency for the 
                 District of Columbia (Parts 800--899)
         IX  National Crime Prevention and Privacy Compact Council 
@@ -9637,8 +9657,8 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
                             Title 29--Labor
 
-            Subtitle A--Office of the Secretary of Labor (Parts 0-
-                -99)
+            Subtitle A--Office of the Secretary of Labor (Parts 
+                0--99)
             Subtitle B--Regulations Relating to Labor
          I  National Labor Relations Board (Parts 100--199)
         II  Office of Labor-Management Standards, Department of 
@@ -9674,6 +9694,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 Interior (Parts 200--299)
        III  Board of Surface Mining and Reclamation Appeals, 
                 Department of the Interior (Parts 300--399)
+
+[[Page 113]]
+
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
        VII  Office of Surface Mining Reclamation and Enforcement, 
@@ -9683,16 +9706,13 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
             Subtitle A--Office of the Secretary of the Treasury 
                 (Parts 0--50)
-
-[[Page 113]]
-
             Subtitle B--Regulations Relating to Money and Finance
          I  Monetary Offices, Department of the Treasury (Parts 
                 51--199)
-        II  Fiscal Service, Department of the Treasury (Parts 200-
-                -399)
-        IV  Secret Service, Department of the Treasury (Parts 400-
-                -499)
+        II  Fiscal Service, Department of the Treasury (Parts 
+                200--399)
+        IV  Secret Service, Department of the Treasury (Parts 
+                400--499)
          V  Office of Foreign Assets Control, Department of the 
                 Treasury (Parts 500--599)
         VI  Bureau of Engraving and Printing, Department of the 
@@ -9730,10 +9750,13 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
                Title 33--Navigation and Navigable Waters
 
-         I  Coast Guard, Department of Homeland Security (Parts 1-
-                -199)
-        II  Corps of Engineers, Department of the Army (Parts 200-
-                -399)
+         I  Coast Guard, Department of Homeland Security (Parts 
+                1--199)
+        II  Corps of Engineers, Department of the Army (Parts 
+                200--399)
+
+[[Page 114]]
+
         IV  Saint Lawrence Seaway Development Corporation, 
                 Department of Transportation (Parts 400--499)
 
@@ -9741,9 +9764,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
             Subtitle A--Office of the Secretary, Department of 
                 Education (Parts 1--99)
-
-[[Page 114]]
-
             Subtitle B--Regulations of the Offices of the 
                 Department of Education
          I  Office for Civil Rights, Department of Education 
@@ -9772,8 +9792,8 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 (Parts 1--199)
         II  Forest Service, Department of Agriculture (Parts 200--
                 299)
-       III  Corps of Engineers, Department of the Army (Parts 300-
-                -399)
+       III  Corps of Engineers, Department of the Army (Parts 
+                300--399)
         IV  American Battle Monuments Commission (Parts 400--499)
          V  Smithsonian Institution (Parts 500--599)
        VII  Library of Congress (Parts 700--799)
@@ -9790,6 +9810,8 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
        XVI  Morris K. Udall Scholarship and Excellence in National 
                 Environmental Policy Foundation (Parts 1600--1699)
 
+[[Page 115]]
+
              Title 37--Patents, Trademarks, and Copyrights
 
          I  United States Patent and Trademark Office, Department 
@@ -9799,8 +9821,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
                 (Parts 500--599)
-
-[[Page 115]]
 
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
@@ -9813,7 +9833,7 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
                   Title 40--Protection of Environment
 
-         I  Environmental Protection Agency (Parts 1--799)
+         I  Environmental Protection Agency (Parts 1--1099)
         IV  Environmental Protection Agency and Department of 
                 Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
@@ -9847,6 +9867,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 (Parts 109-1--109-99)
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
+
+[[Page 116]]
+
        128  Department of Justice (Parts 128-1--128-99)
             Subtitle D--Other Provisions Relating to Property 
                 Management [Reserved]
@@ -9858,9 +9881,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
        300  General (Parts 300-1--300-99)
        301  Temporary Duty (TDY) Travel Allowances (Parts 301-1--
                 301-99)
-
-[[Page 116]]
-
        302  Relocation Allowances (Parts 302-1--302-99)
        303  Payment of Expenses Connected with the Death of 
                 Certain Employees (Part 303-70)
@@ -9886,7 +9906,7 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
        III  Utah Reclamation Mitigation and Conservation 
-                Commission (Parts 10000--10005)
+                Commission (Parts 10000--10010)
 
              Title 44--Emergency Management and Assistance
 
@@ -9900,6 +9920,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
             Subtitle A--Department of Health and Human Services 
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Welfare
+
+[[Page 117]]
+
         II  Office of Family Assistance (Assistance Programs), 
                 Administration for Children and Families, 
                 Department of Health and Human Services (Parts 
@@ -9909,13 +9932,10 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 and Families, Department of Health and Human 
                 Services (Parts 300--399)
         IV  Office of Refugee Resettlement, Administration for 
-                Children and Families Department of Health and 
+                Children and Families, Department of Health and 
                 Human Services (Parts 400--499)
          V  Foreign Claims Settlement Commission of the United 
                 States, Department of Justice (Parts 500--599)
-
-[[Page 117]]
-
         VI  National Science Foundation (Parts 600--699)
        VII  Commission on Civil Rights (Parts 700--799)
       VIII  Office of Personnel Management (Parts 800--899)
@@ -9942,8 +9962,8 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
                           Title 46--Shipping
 
-         I  Coast Guard, Department of Homeland Security (Parts 1-
-                -199)
+         I  Coast Guard, Department of Homeland Security (Parts 
+                1--199)
         II  Maritime Administration, Department of Transportation 
                 (Parts 200--399)
        III  Coast Guard (Great Lakes Pilotage), Department of 
@@ -9955,9 +9975,12 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
          I  Federal Communications Commission (Parts 0--199)
         II  Office of Science and Technology Policy and National 
                 Security Council (Parts 200--299)
+
+[[Page 118]]
+
        III  National Telecommunications and Information 
-                Administration, Department of Commerce (Parts 300-
-                -399)
+                Administration, Department of Commerce (Parts 
+                300--399)
 
            Title 48--Federal Acquisition Regulations System
 
@@ -9968,9 +9991,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
          4  Department of Agriculture (Parts 400--499)
          5  General Services Administration (Parts 500--599)
          6  Department of State (Parts 600--699)
-
-[[Page 118]]
-
          7  United States Agency for International Development 
                 (Parts 700--799)
          8  Department of Veterans Affairs (Parts 800--899)
@@ -9980,7 +10000,7 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         13  Department of Commerce (Parts 1300--1399)
         14  Department of the Interior (Parts 1400--1499)
         15  Environmental Protection Agency (Parts 1500--1599)
-        16  Office of Personnel Management Federal Employees 
+        16  Office of Personnel Management, Federal Employees 
                 Health Benefits Acquisition Regulation (Parts 
                 1600--1699)
         17  Office of Personnel Management (Parts 1700--1799)
@@ -9997,6 +10017,8 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
+        30  Department of Homeland Security, Homeland Security 
+                Acquisition Regulation (HSAR) (Parts 3000--3099)
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
         35  Panama Canal Commission (Parts 3500--3599)
@@ -10007,6 +10029,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 5200--5299)
         53  Department of the Air Force Federal Acquisition 
                 Regulation Supplement (Parts 5300--5399)
+
+[[Page 119]]
+
         54  Defense Logistics Agency, Department of Defense (Parts 
                 5400--5499)
         57  African Development Foundation (Parts 5700--5799)
@@ -10017,8 +10042,6 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         99  Cost Accounting Standards Board, Office of Federal 
                 Procurement Policy, Office of Management and 
                 Budget (Parts 9900--9999)
-
-[[Page 119]]
 
                        Title 49--Transportation
 
@@ -10046,7 +10069,7 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
         XI  Bureau of Transportation Statistics, Department of 
                 Transportation (Parts 1400--1499)
        XII  Transportation Security Administration, Department of 
-                Homeland Security (Parts 1500--1599)
+                Homeland Security (Parts 1500--1699)
 
                    Title 50--Wildlife and Fisheries
 
@@ -10063,6 +10086,9 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
                 Atmospheric Administration, Department of 
                 Commerce); Endangered Species Committee 
                 Regulations (Parts 400--499)
+
+[[Page 120]]
+
          V  Marine Mammal Commission (Parts 500--599)
         VI  Fishery Conservation and Management, National Oceanic 
                 and Atmospheric Administration, Department of 
@@ -10087,7 +10113,7 @@ Live Animal Regulations, 20th Edition, October 1,                 14.106
 
 <R04>
 
-                     (Revised as of October 1, 2003)
+                     (Revised as of October 1, 2004)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -10730,25 +10756,4 @@ United States and Mexico, International Boundary  22, XI
      and Water Commission, United States Section
 Utah Reclamation Mitigation and Conservation      43, III
      Commission
-Veterans Affairs Department                       38, I
-  Federal Acquisition Regulation                  48, 8
-Veterans' Employment and Training Service,        41, 61; 20, IX
-     Office of the Assistant Secretary for
-Vice President of the United States, Office of    32, XXVIII
-Vocational and Adult Education, Office of         34, IV
-Wage and Hour Division                            29, V
-Water Resources Council                           18, VI
-Workers' Compensation Programs, Office of         20, I
-World Agricultural Outlook Board                  7, XXXVIII
-
-[[Page 131]]
-
-
-<R03>
-List of CFR Sections Affected
-
-<R04>
-
-All changes in this volume of the Code of Federal Regulations which were 
-made by documents publish
 </pre></body></html>
