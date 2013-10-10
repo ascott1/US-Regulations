@@ -1,25 +1,25 @@
 <html><body><pre>
 [Title 41 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2006 Edition]
+[Code of Federal Regulations (annual edition) - July 1, 2007 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-
+          
 <R02>
           41
 
 
           Chapter 101
 
-                         Revised as of July 1, 2005
+                         Revised as of July 1, 2007
 
 
           Public Contracts and Property Management
           
-          <R03>
+<R03>
 
 
 ________________________
@@ -27,7 +27,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of July 1, 2005
+          As of July 1, 2007
           With Ancillaries
                     Published by
                     Office of the Federal Register
@@ -100,9 +100,9 @@ ________________________
       System:
           Chapter 101--Federal Property Management Regulations       5
   Finding Aids:
-      Table of CFR Titles and Chapters........................     209
-      Alphabetical List of Agencies Appearing in the CFR......     227
-      List of CFR Sections Affected...........................     237
+      Table of CFR Titles and Chapters........................     199
+      Alphabetical List of Agencies Appearing in the CFR......     217
+      List of CFR Sections Affected...........................     227
 
 [[Page iv]]
 
@@ -158,7 +158,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, July 1, 2005), consult the ``List of CFR 
+revision date (in this case, July 1, 2007), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -230,7 +230,7 @@ volume, contact the issuing agency. The issuing agency's name appears at
 the top of odd-numbered pages.
     For inquiries concerning CFR reference assistance, call 202-741-6000 
 or write to the Director, Office of the Federal Register, National 
-Archives and Records Administration, Washington, DC 20408 or e-mail, 
+Archives and Records Administration, Washington, DC 20408 or e-mail 
 fedreg.info@nara.gov.
 
 SALES
@@ -259,14 +259,14 @@ mail, gpoaccess@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
-information. Connect to NARA's web site at www.archives.gov/federal--
+information. Connect to NARA's web site at www.archives.gov/federal-
 register. The NARA site also contains links to GPO Access.
 
                               Raymond A. Mosley,
                                     Director,
                           Office of the Federal Register.
 
-July 1, 2005.
+July 1, 2007.
 
 [[Page ix]]
 
@@ -284,7 +284,7 @@ Federal Travel Regulation System.
 
     As of July 1, 1985, the text of subtitle A is no longer published in 
 the Code of Federal Regulations. For an explanation of the status of 
-subtitle A, see 41 CFR chapters 1--100 (page 3).
+subtitle A, see 41 CFR chapters 1-100 (page 3).
 
     Other government-wide procurement regulations relating to public 
 contracts appear in chapters 50 through 100, subtitle B.
@@ -300,13 +300,14 @@ which implement chapter 101 are numerically keyed to it.
 F is issued by the General Services Administration.
 
     Title 41 is composed of four volumes. The chapters in these volumes 
-are arranged as follows: Chapters 1--100, chapter 101, chapters 102--
-200, and chapter 201 to End. These volumes represent all current 
-regulations codified under this title of the CFR as of July 1, 2005.
+are arranged as follows: Chapters 1-100, chapter 101, chapters 102-200, 
+and chapter 201 to End. These volumes represent all current regulations 
+codified under this title of the CFR as of July 1, 2007.
 
-    For this volume, Carol A. Conroy was Chief Editor. The Code of 
+    For this volume, Cheryl E. Sirofchuck was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
-Frances D. McDonald, assisted by Alomha S. Morris.
+Frances D. McDonald, assisted by Ann Worley.
+
 
 [[Page 1]]
 
@@ -315,7 +316,7 @@ Frances D. McDonald, assisted by Alomha S. Morris.
            TITLE 41--PUBLIC CONTRACTS AND PROPERTY MANAGEMENT
 
 
-
+<R02>
 
                     (This book contains chapter 101)
 
@@ -337,7 +338,7 @@ chapter 101--Federal Property Management Regulations........       101-1
           CHAPTER 101--FEDERAL PROPERTY MANAGEMENT REGULATIONS
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 
@@ -361,17 +362,22 @@ Part                                                                Page
 101-14--101-15  [Reserved]
 
 
+
                 SUBCHAPTER D--PUBLIC BUILDINGS AND SPACE
 101-16          [Reserved]
-101-17          Assignment and utilization of space.........          70
-101-18          Acquisition of real property................          70
+
+101-17          Assignment and utilization of space.........          69
+101-18          Acquisition of real property................          69
 101-19          Construction and alteration of public 
-                    buildings...............................          70
+                    buildings...............................          69
 101-20          Management of buildings and grounds.........          70
 101-21          Federal Buildings Fund......................          70
 Appendix to Subchapter D--Temporary Regulations.............          70
                   SUBCHAPTER E--SUPPLY AND PROCUREMENT
 101-22--101-24  [Reserved]
+
+
+
 101-25          General.....................................          71
 101-26          Procurement sources and program.............          84
 101-27          Inventory management........................         117
@@ -383,6 +389,7 @@ Appendix to Subchapter D--Temporary Regulations.............          70
 101-30          Federal catalog system......................         138
 101-31          Inspection and quality control..............         152
 101-32          [Reserved]
+
 101-33          Public utilities............................         153
 101-34          [Reserved]
 
@@ -411,7 +418,7 @@ Appendix to Subchapter G--Temporary Regulations [Reserved]
                     abandoned and forfeited personal 
                     property................................         196
 101-49          Utilization, donation, and disposal of 
-                    foreign gifts and decorations...........         206
+                    foreign gifts and decorations...........         196
 Appendix to Subchapter H--Temporary Regulations [Reserved]
 
 [[Page 7]]
@@ -421,12 +428,10 @@ Appendix to Subchapter H--Temporary Regulations [Reserved]
                           SUBCHAPTER A_GENERAL
 
 
-
-
 <R03>
 PART 101-1_INTRODUCTION--Table of Contents
 
-
+<R05>
 
 
                     Subpart 101-1.1_Regulation System
@@ -712,8 +717,9 @@ Felix Street, Forth Worth, TX 76115.
 
 
 <R05>
-Sec. 101-1.4902-2053  GSA Form 2053, Agency Consolidated Requirements 
-for GSA Regulations and Other External Issuances.
+Sec. 101-1.4902-2053  GSA Form 2053, Agency Consolidated Requirements for GSA 
+
+Regulations and Other External Issuances.
 
     Note: The form listed in Sec. 101-1.4902-2053 is filed as part of 
 the original document. Copies of the form may be obtained from the 
@@ -725,7 +731,7 @@ General Services Administration (3BRD), Washington, DC 20407.
 <R03>
 PART 101-3_ANNUAL REAL PROPERTY INVENTORIES--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 486(c).
@@ -734,8 +740,9 @@ PART 101-3_ANNUAL REAL PROPERTY INVENTORIES--Table of Contents
 
 
 <R05>
-Sec. 101-3.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-3.000  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220).
 
     For information on annual real property inventories previously 
 contained in this part, see FMR part 84 (41 CFR part 102-84).
@@ -744,10 +751,11 @@ contained in this part, see FMR part 84 (41 CFR part 102-84).
 
 
 <R03>
-PART 101-4_NONDISCRIMINATION ON THE BASIS OF SEX IN EDUCATION PROGRAMS 
-OR ACTIVITIES RECEIVING FEDERAL FINANCIAL ASSISTANCE--Table of Contents
+PART 101-4_NONDISCRIMINATION ON THE BASIS OF SEX IN EDUCATION PROGRAMS OR 
 
+ACTIVITIES RECEIVING FEDERAL FINANCIAL ASSISTANCE--Table of Contents
 
+<R05>
 
 
                          Subpart A_Introduction
@@ -1013,7 +1021,7 @@ with these Title IX regulations. An assurance of compliance with these
 Title IX regulations shall not be satisfactory to the designated agency 
 official if the applicant or recipient to whom such assurance applies 
 fails to commit itself to take whatever remedial action is necessary in 
-accordance withSec. 101-4.110(a) to eliminate existing discrimination 
+accordance with Sec. 101-4.110(a) to eliminate existing discrimination 
 on the basis of sex or to eliminate the effects of past discrimination 
 whether occurring prior to or subsequent to the submission to the 
 designated agency official of such assurance.
@@ -1095,8 +1103,9 @@ sex than for members of the other sex.
 
 
 <R05>
-Sec. 101-4.135  Designation of responsible employee and adoption of 
-grievance procedures.
+Sec. 101-4.135  Designation of responsible employee and adoption of grievance 
+
+procedures.
 
     (a) Designation of responsible employee. Each recipient shall 
 designate at least one employee to coordinate its efforts to comply with 
@@ -1181,8 +1190,9 @@ Federal financial assistance.
 
 
 <R05>
-Sec. 101-4.205  Educational institutions and other entities controlled 
-by religious organizations.
+Sec. 101-4.205  Educational institutions and other entities controlled by 
+
+religious organizations.
 
     (a) Exemption. These Title IX regulations do not apply to any 
 operation of an educational institution or other entity that is 
@@ -1236,7 +1246,7 @@ are not covered by these Title IX regulations.
 section, Sec. Sec. 101-4.225 and 101-4.230, and Sec. Sec. 101-4.300 
 through 101-4.310, each administratively separate unit shall be deemed 
 to be an educational institution.
-    (c) Application of Sec. Sec. 101-4.300 through101-4.310. Except as 
+    (c) Application of Sec. Sec. 101-4.300 through 101-4.310. Except as 
 provided in paragraphs (d) and (e) of this section, Sec. Sec. 101-4.300 
 through 101-4.310 apply to each recipient. A recipient to which 
 Sec. Sec. 101-4.300 through 101-4.310 apply shall not discriminate on 
@@ -1258,8 +1268,7 @@ had a policy of admitting students of only one sex.
 
 
 <R05>
-Sec. 101-4.225  Educational institutions eligible to submit transition 
-plans.
+Sec. 101-4.225  Educational institutions eligible to submit transition plans.
 
     (a) Application. This section applies to each educational 
 institution to which Sec. Sec. 101-4.300 through 101-4.310 apply that:
@@ -1887,6 +1896,7 @@ textbooks or curricular materials.
 
 <R04>
 Subpart E_Discrimination on the Basis of Sex in Employment in Education 
+
                     Programs or Activities Prohibited
 
 
@@ -2094,7 +2104,7 @@ Sec. 101-4.545  Pre-employment inquiries.
 inquiry as to the marital status of an applicant for employment, 
 including whether such applicant is ``Miss'' or ``Mrs.''
     (b) Sex. A recipient may make pre-employment inquiry as to the sex 
-of an applicant for employment, but only if such inquiry is madeequally 
+of an applicant for employment, but only if such inquiry is made equally 
 of such applicants of both sexes and if the results of such inquiry are 
 not used in connection with discrimination prohibited by these Title IX 
 regulations.
@@ -2143,10 +2153,11 @@ These procedures may be found at 41 CFR part 101-6, subpart 101-6.2.
 
 
 <R03>
-PART 101-5_CENTRALIZED SERVICES IN FEDERAL BUILDINGS AND COMPLEXES
---Table of Contents
+PART 101-5_CENTRALIZED SERVICES IN FEDERAL BUILDINGS AND COMPLEXES--Table of 
 
+Contents
 
+<R05>
 
 
 Sec.
@@ -2662,7 +2673,7 @@ buildings prescribed in this part 101-5.
 <R03>
 PART 101-6_MISCELLANEOUS REGULATIONS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -3435,8 +3446,9 @@ of this subpart 101-6.2.
 
 
 <R05>
-Sec. 101-6.211-3  Termination of or refusal to grant or to continue 
-Federal financial assistance.
+Sec. 101-6.211-3  Termination of or refusal to grant or to continue Federal 
+
+financial assistance.
 
     No order suspending, terminating or refusing to grant or continue 
 Federal financial assistance shall become effective until (a) the 
@@ -3586,8 +3598,7 @@ Sec. 101-6.213  Decisions and notices.
 
 
 <R05>
-Sec. 101-6.213-1  Decision by person other than the responsible GSA 
-official.
+Sec. 101-6.213-1  Decision by person other than the responsible GSA official.
 
     If the hearing is held by a hearing examiner such hearing examiner 
 shall either make an initial decision, if so authorized, or certify the 
@@ -3610,6 +3621,7 @@ the final decision of the responsible GSA official.
 
 <R05>
 Sec. 101-6.213-2  Decisions on record or review by the responsible GSA 
+
 official.
 
     Whenever a record is certified to the responsible GSA official for 
@@ -3864,8 +3876,9 @@ FR 56560, Oct. 1, 2003]
 
 
 <R05>
-Sec. 101-6.217  Laws authorizing Federal financial assistance for programs 
-to which this subpart applies.
+Sec. 101-6.217  Laws authorizing Federal financial assistance for programs to 
+
+which this subpart applies.
 
     (a)(1) Donation of surplus personal property to educational 
 activities which are of special interest to the armed services (section 
@@ -3955,15 +3968,14 @@ without reimbursement (Pub. L. 88-233, 77 Stat. 472).
 <R04>
                        Subpart 101-6.3_Ridesharing
 
-    Authority: 40 U.S.C. 486(c); Executive Order 12191 datedFebruary 1, 
+    Authority: 40 U.S.C. 486(c); Executive Order 12191 dated February 1, 
 1980; Sec. 205(c), 63 Stat. 390.
 
     Source: 67 FR 76882, Dec. 13, 2002, unless otherwise noted.
 
 
 <R05>
-Sec. 101-6.300  Cross-reference to the Federal Management Regulation 
-(FMR) 41 CFR chapter 102 parts 1 through 220.
+Sec. 101-6.300  Cross-reference to the Federal Management Regulation (FMR) 41 CFR chapter 102 parts 1 through 220.
 
     For information on Federal facility ridesharing, see FMR part 102-74 
 (41 CFR part 102-74).
@@ -3979,8 +3991,9 @@ Sec. 101-6.300  Cross-reference to the Federal Management Regulation
 
 
 <R05>
-Sec. 101-6.400  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-6.400  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220).
 
     For policy concerning official use of Government passenger carriers 
 between residence and place of employment previously contained in this 
@@ -4040,11 +4053,12 @@ cover shipping and handling.
 
 
 <R05>
-Sec. 101-6.600  Cross-reference to the Federal Management Regulation 
-(FMR) 41 CFR chapter 102 parts 1 through 220.
+Sec. 101-6.600  Cross-reference to the Federal Management Regulation (FMR) 41 
+
+CFR chapter 102 parts 1 through 220.
 
     For information on fire protection (firesafety) engineering, see FMR 
-part 102-74 (41 CFR part 102-74) andFMR part 102-80 (41 CFR part 102-
+part 102-74 (41 CFR part 102-74) and FMR part 102-80 (41 CFR part 102-
 80).
 
 Subparts 101-6.7--101-6.9 [Reserved]
@@ -4060,8 +4074,7 @@ U.S.C., App.; and E.O. 12024, 3 CFR, 1977 Comp., p. 158.
 
 
 <R05>
-Sec. 101-6.1001  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-6.1001  Cross-reference to the Federal Management Regulation (FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
 
     For Federal advisory committee management information previously 
 contained in this subpart, see FMR part 102-3 (41 CFR part 102-3).
@@ -4129,16 +4142,18 @@ Territory of the Pacific Islands.
 
 
 <R05>
-Sec. 101-6.2103  What programs and activities of GSA are subject to 
-these regulations?
+Sec. 101-6.2103  What programs and activities of GSA are subject to these 
+
+regulations?
 
     The Administrator publishes in the Federal Register a list of GSA's 
 programs and activities that are subject to these regulations.
 
 
 <R05>
-Sec. 101-6.2104  What are the Administrator's general responsibilities 
-under the Order?
+Sec. 101-6.2104  What are the Administrator's general responsibilities under 
+
+the Order?
 
     (a) The Administrator provides opportunities for consultation by 
 elected officials of those State and local governments that would 
@@ -4176,8 +4191,9 @@ representative of, or accountable to, State or local elected officials.
 
 
 <R05>
-Sec. 101-6.2105  What is the Administrator's obligation with respect 
-to Federal interagency coordination?
+Sec. 101-6.2105  What is the Administrator's obligation with respect to 
+
+Federal interagency coordination?
 
     The Administrator, to the extent practicable, consults with and 
 seeks advice from all other substantially affected Federal departments 
@@ -4187,8 +4203,9 @@ regulations.
 
 
 <R05>
-Sec. 101-6.2106  What procedures apply to the selection of programs 
-and activities under these regulations?
+Sec. 101-6.2106  What procedures apply to the selection of programs and 
+
+activities under these regulations?
 
     (a) A State may select any program or activity published in the 
 Federal Register in accordance with Sec. 101-6.2103 of this part for 
@@ -4209,8 +4226,9 @@ is notified of its selections.
 
 
 <R05>
-Sec. 101-6.2107  How does the Administrator communicate with State and 
-local officials concerning GSA's programs and activities?
+Sec. 101-6.2107  How does the Administrator communicate with State and local 
+
+officials concerning GSA's programs and activities?
 
     (a) [Reserved]
     (b) The Administrator provides notice to directly affected State, 
@@ -4226,9 +4244,10 @@ appropriate.
 
 
 <R05>
-Sec. 101-6.2108  How does the Administrator provide States an opportunity 
+Sec. 101-6.2108  How does the Administrator provide States an opportunity to 
 
-to comment on proposed Federal financial assistance and direct Federal 
+comment on proposed Federal financial assistance and direct Federal 
+
 development?
 
     (a) Except in unusual circumstances, the Administrator gives State 
@@ -4243,8 +4262,7 @@ review, coordination, and communication with GSA have been delegated.
 
 
 <R05>
-Sec. 101-6.2109  How does the Administrator receive and respond to 
-comments?
+Sec. 101-6.2109  How does the Administrator receive and respond to comments?
 
     (a) The Administrator follows the procedures in Sec. 101-6.2110 if:
     (1) A State office or official is designated to act as a single 
@@ -4278,6 +4296,7 @@ point of contact, or directly to GSA by a commenting party.
 
 <R05>
 Sec. 101-6.2110  How does the Administrator make efforts to accommodate 
+
 intergovernmental concerns?
 
     (a) If a State process provides a State process recommendation to 
@@ -4304,6 +4323,7 @@ notification.
 
 <R05>
 Sec. 101-6.2111  What are the Administrator's obligations in interstate 
+
 situations?
 
     (a) The Administrator is responsible for:
@@ -4327,6 +4347,7 @@ single point of contact.
 
 <R05>
 Sec. 101-6.2112  How may a State simplify, consolidate, or substitute 
+
 federally required State plans?
 
     (a) As used in this section:
@@ -4352,6 +4373,7 @@ its contents meet Federal requirements.
 
 <R05>
 Sec. 101-6.2113  May the Administrator waive any provision of these 
+
 regulations?
 
     In an emergency, the Administrator may waive any provision of these 
@@ -4380,11 +4402,11 @@ Sec. 101-6.4901  [Reserved]
 
 
 <R05>
-Sec. 101-6.4902  Format of certification required for budget submissions 
+Sec. 101-6.4902  Format of certification required for budget submissions of 
 
-of estimates of obligations in excess of $100,000 for acquisitions of 
-real and related 
-          personal property.
+estimates of obligations in excess of $100,000 for acquisitions of real and 
+
+related personal property.
 
     Note: The illustration in Sec. 101-6.4902 is filed as part of the 
 original document.
@@ -4394,9 +4416,10 @@ original document.
 
 <R03>
 PART 101-8_NONDISCRIMINATION IN PROGRAMS RECEIVING FEDERAL FINANCIAL 
+
 ASSISTANCE--Table of Contents
 
-
+<R05>
 
 
 Subparts 101-8.1--101-8.2 [Reserved]
@@ -4687,8 +4710,9 @@ Sec. 101-8.302 of this subpart.
 
 
 <R05>
-Sec. 101-8.304  Effect of State or local law or other requirements and 
-effect of employment opportunities.
+Sec. 101-8.304  Effect of State or local law or other requirements and effect 
+
+of employment opportunities.
 
     (a) The obligation to comply with this subpart is not obviated or 
 alleviated by the existence of any State or local law or other 
@@ -4971,7 +4995,7 @@ eligible for listing in the National Register of Historic Places.
     (3) Substantial impairment means a permanent alteration that results 
 in a significant loss of the integrity of finished materials, design 
 quality or special character.
-    (b) Obligation--(1)  Accessibility. A recipient shall operate any 
+    (b) Obligation--(1) Accessibility. A recipient shall operate any 
 program or activity involving Historic Preservation Programs so that 
 when each part is viewed in its entirety it is readily accessible to and 
 usable by handicapped persons.
@@ -5073,8 +5097,9 @@ Federal financial assistance.
 
 
 <R05>
-Sec. 101-8.701  Scope of General Services Administration's age 
-discrimination regulation.
+Sec. 101-8.701  Scope of General Services Administration's age discrimination 
+
+regulation.
 
     This regulation sets out General Services Administration's (GSA) 
 policies and procedures under the Age Discrimination Act of 1975, as 
@@ -5221,8 +5246,9 @@ Sec. 101-8.706  Exceptions to the rules against age discrimination.
 
 
 <R05>
-Sec. 101-8.706-1  Normal operation or statutory objective of any program 
-or activity.
+Sec. 101-8.706-1  Normal operation or statutory objective of any program or 
+
+activity.
 
     A recipient is permitted to take an action, otherwise prohibited, if 
 the action reasonably takes into account age as a factor necessary to 
@@ -5278,8 +5304,9 @@ notwithstanding the provisions of Sec. 101-8.705.
 
 
 <R05>
-Sec. 101-8.710  Age distinctions contained in General Services 
-Administration regulation.
+Sec. 101-8.710  Age distinctions contained in General Services Administration 
+
+regulation.
 
     Any age distinctions contained in a rule or regulation issued by GSA 
 are presumed to be necessary to the achievement of a statutory objective 
@@ -5322,6 +5349,7 @@ regulation.
 
 <R05>
 Sec. 101-8.713  Assurance of compliance and recipient assessment of age 
+
 distinctions.
 
     (a) Each recipient of Federal financial assistance from GSA signs a 
@@ -5796,7 +5824,7 @@ authorizing the Federal financial assistance.
 <R03>
 PART 101-9_FEDERAL MAIL MANAGEMENT--Table of Contents
 
-
+<R05>
 
 
     Authority: Sec. 2, Pub. L. 94-575, as amended, 44 U.S.C. 2904; 40 
@@ -5806,8 +5834,7 @@ U.S.C. 486(c); Sec. 205(c), 63 Stat. 390.
 
 
 <R05>
-Sec. 101-9.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-9.000  Cross-reference to the Federal Management Regulation (FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
 
     For Federal mail management information previously contained in this 
 part, see FMR part 192 (41 CFR part 102-192).
@@ -5819,13 +5846,10 @@ part, see FMR part 192 (41 CFR part 102-192).
        SUBCHAPTER B_MANAGEMENT AND USE OF INFORMATION AND RECORDS
 
 
-
-
 <R03>
-PART 101-11_FEDERAL RECORDS AND STANDARD AND OPTIONAL FORMS
---Table of Contents
+PART 101-11_FEDERAL RECORDS AND STANDARD AND OPTIONAL FORMS--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 486(c).
@@ -5834,8 +5858,9 @@ PART 101-11_FEDERAL RECORDS AND STANDARD AND OPTIONAL FORMS
 
 
 <R05>
-Sec. 101-11.0  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 1 through 220).
+Sec. 101-11.0  Cross-reference to the Federal Management Regulation (FMR) (41 
+
+CFR chapter 102, parts 1 through 220).
 
     For information on records and standard and optional forms, see FMR 
 parts 102-193 and 102-194 (41 CFR parts 102-193 and 102-194).
@@ -5846,17 +5871,15 @@ parts 102-193 and 102-194 (41 CFR parts 102-193 and 102-194).
 <R03>
                      SUBCHAPTER C_DEFENSE MATERIALS
 
-
+<R05>
 
                      PARTS 101-14_101-15 [RESERVED]
-
-[[Page 70]]
 
 
 <R03>
                  SUBCHAPTER D_PUBLIC BUILDINGS AND SPACE
 
-
+<R05>
 
                          PART 101-16 [RESERVED]
 
@@ -5864,7 +5887,7 @@ parts 102-193 and 102-194 (41 CFR parts 102-193 and 102-194).
 <R03>
 PART 101-17_ASSIGNMENT AND UTILIZATION OF SPACE--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 285, 304c, 601 et seq., 490 note; E.O. 12072, 
@@ -5874,8 +5897,9 @@ PART 101-17_ASSIGNMENT AND UTILIZATION OF SPACE--Table of Contents
 
 
 <R05>
-Sec. 101-17.0  Cross-reference to the Federal Management Regulation (FMR) 
-(41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-17.0  Cross-reference to the Federal Management Regulation (FMR) (41 
+
+CFR chapter 102, parts 102-1 through 102-220).
 
     For information on assignment and utilization of space, see FMR part 
 102-79 (41 CFR part 102-79).
@@ -5884,7 +5908,7 @@ Sec. 101-17.0  Cross-reference to the Federal Management Regulation (FMR)
 <R03>
 PART 101-18_ACQUISITION OF REAL PROPERTY--Table of Contents
 
-
+<R05>
 
 
     Authority: E.O. 12072, Sec. 1-201(b), 43 FR 36869.
@@ -5893,18 +5917,18 @@ PART 101-18_ACQUISITION OF REAL PROPERTY--Table of Contents
 
 
 <R05>
-Sec. 101-18.0  Cross-reference to the Federal Management Regulation 
-(FMR) 41 CFR chapter 102 parts 1 through 220).
+Sec. 101-18.0  Cross-reference to the Federal Management Regulation (FMR) 41 
+
+CFR chapter 102 parts 1 through 220).
 
     For information on acquisition of real property, see FMR part 102-73 
 (41 CFR part 102-73).
 
 
 <R03>
-PART 101-19_CONSTRUCTION AND ALTERATION OF PUBLIC BUILDINGS
---Table of Contents
+PART 101-19_CONSTRUCTION AND ALTERATION OF PUBLIC BUILDINGS--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 486(c); 40 U.S.C. 490 (The Federal Property and 
@@ -5916,29 +5940,33 @@ amended); Pub. L. 92-313.
 
 
 <R05>
-Sec. 101-19.0  Cross-reference to the Federal Management Regulation 
-(FMR) 41 CFR chapter 102 parts 1 through 220).
+Sec. 101-19.0  Cross-reference to the Federal Management Regulation (FMR) 41 
+
+CFR chapter 102 parts 1 through 220).
 
     For information on construction and alteration of public buildings, 
 see FMR parts 102-74 (41 CFR part 102-74) and 102-76 (41 CFR part 102-
 76).
 
+[[Page 70]]
+
 
 <R03>
 PART 101-20_MANAGEMENT OF BUILDINGS AND GROUNDS--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 486(c); The Federal Property and Administrative 
-Services Act of 1949, as amended, Sec.205(c), 63 Stat. 390.
+Services Act of 1949, as amended, Sec. 205(c), 63 Stat. 390.
 
     Source: 67 FR 76883, Dec. 13, 2002, unless otherwise noted.
 
 
 <R05>
-Sec. 101-20.0  Cross-reference to the Federal Management Regulation 
-(FMR) 41 CFR chapter 102 parts 1 through 220).
+Sec. 101-20.0  Cross-reference to the Federal Management Regulation (FMR) 41 
+
+CFR chapter 102 parts 1 through 220).
 
     For information on management of buildings and grounds, see FMR part 
 102-74 (41 CFR part 102-74).
@@ -5947,7 +5975,7 @@ Sec. 101-20.0  Cross-reference to the Federal Management Regulation
 <R03>
 PART 101-21_FEDERAL BUILDINGS FUND--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 486(c); 40 U.S.C. 490(j) (The Federal Property 
@@ -5959,8 +5987,9 @@ and Administrative Services Act of 1949, as amended, Sec. 205(c) and
 
 
 <R05>
-Sec. 101-21.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220.)
+Sec. 101-21.000  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220.)
 
     For information previously contained in this part, see FMR part 85 
 (41 CFR part 102-85).
@@ -5984,7 +6013,7 @@ part 102-83).
 <R03>
                    SUBCHAPTER E_SUPPLY AND PROCUREMENT
 
-
+<R05>
 
                      PARTS 101-22_101-24 [RESERVED]
 
@@ -5992,7 +6021,7 @@ part 102-83).
 <R03>
 PART 101-25_GENERAL--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -6113,6 +6142,7 @@ for coverage in other parts of this subchapter E.
 
 <R05>
 Sec. 101-25.100  Use of Government personal property and nonpersonal 
+
 services.
 
     Except in emergencies, Government personal property and nonpersonal 
@@ -6192,8 +6222,9 @@ implementation of emergency plans is required for an indefinite period.
 
 
 <R05>
-Sec. 101-25.101-3  Supply through consolidated purchase for direct 
-delivery to use points.
+Sec. 101-25.101-3  Supply through consolidated purchase for direct delivery 
+
+to use points.
 
     The following criteria shall govern in determining whether an item 
 can be most advantageously supplied through consolidated purchase for 
@@ -6219,8 +6250,7 @@ to store and issue the items.
 
 
 <R05>
-Sec. 101-25.101-4  Supply through indefinite quantity requirement 
-contracts.
+Sec. 101-25.101-4  Supply through indefinite quantity requirement contracts.
 
     The following criteria shall govern in determining whether an item 
 can be most advantageously supplied through the medium of indefinite 
@@ -6275,6 +6305,7 @@ Government.
 
 <R05>
 Sec. 101-25.102  Exchange or sale of personal property for replacement 
+
 purposes.
 
     Policies and methods governing executive agencies in exercising the 
@@ -6306,8 +6337,7 @@ Sec. 101-25.103-2  [Reserved]
 
 
 <R05>
-Sec. 101-25.103-3  Trading stamps or bonus goods received from 
-contractors.
+Sec. 101-25.103-3  Trading stamps or bonus goods received from contractors.
 
     When contracts contain a price reduction clause, any method (such as 
 trading stamps or bonus goods) by which the price of a commodity or 
@@ -6324,8 +6354,9 @@ that effect and dispose of the items as provided in Sec. 101-25.103.4.
 
 
 <R05>
-Sec. 101-25.103-4  Disposition of promotional materials, trading stamps, 
-or bonus goods.
+Sec. 101-25.103-4  Disposition of promotional materials, trading stamps, or 
+
+bonus goods.
 
     (a) Agencies shall, through the lowest appropriate activity, arrange 
 for transfer of promotional materials, trading stamps, or bonus goods, 
@@ -6441,6 +6472,7 @@ required;
 
 <R05>
 Sec. 101-25.107  Guidelines for requisitioning and proper use of consumable 
+
 or low cost items.
 
     Consumable and low value items in inventory (cupboard stocks are not 
@@ -6645,6 +6677,7 @@ Sec. 101-25.110-1  [Reserved]
 
 <R05>
 Sec. 101-25.110-2  Tires obtained through Federal Supply Schedules or 
+
 regional term contracts.
 
     When tire manufacturers ship tires direct against orders placed 
@@ -6793,6 +6826,7 @@ furnished to the General Accounting Office by GSA.
 
 <R05>
 Sec. 101-25.202  Factors to be used to determine assignment of purchase 
+
 responsibility.
 
     With their consent or upon direction of the President, executive 
@@ -6874,8 +6908,9 @@ executive agencies, or with specified limited exceptions, by GSA.
 
 
 <R05>
-Sec. 101-25.204  Centralized purchases by designated executive agencies 
-under authority delegated by the Administrator of General Services.
+Sec. 101-25.204  Centralized purchases by designated executive agencies under 
+
+authority delegated by the Administrator of General Services.
 
     Designated executive agencies will exclusively, or with specified 
 limited exceptions, make purchases and contracts on a continuing basis 
@@ -6903,8 +6938,9 @@ executive agency.
 
 
 <R05>
-Sec. 101-25.205  Arrangement for performance of purchasing functions 
-other than centralized.
+Sec. 101-25.205  Arrangement for performance of purchasing functions other 
+
+than centralized.
 
     (a) Upon request, GSA will make purchases and contracts for any of 
 the items or item groups of articles or services authorized to be 
@@ -7197,9 +7233,9 @@ following conditions provided a written justification supporting such
 replacement is approved by the agency head or an authorized designee. 
 The justification shall be retained in the agency files.
     (1) When the cumulative repair costs on a piece of equipment appears 
-to be excessive as indicated by repair rec ords. However, because an 
-item of equipment accrues repair costs equal to the acquisition cost, it 
-is not necessarily indicative of the current condition of the equipment. 
+to be excessive as indicated by repair records. However, because an item 
+of equipment accrues repair costs equal to the acquisition cost, it is 
+not necessarily indicative of the current condition of the equipment. 
 For example, a substantial repair expenditure included in the cumulative 
 cost may actually have resulted in restoring the equipment to as good as 
 new condition. While cumulative repair costs suggest an area for 
@@ -7219,8 +7255,9 @@ equipment is not readily available.
 
 
 <R05>
-Sec. 101-25.500  Cross-reference to the Federal Acquisition Regulation 
-(FAR) (48 CFR chapter 1, parts 1-99).
+Sec. 101-25.500  Cross-reference to the Federal Acquisition Regulation (FAR) 
+
+(48 CFR chapter 1, parts 1-99).
 
     For guidance see Federal Acquisition Regulation Subpart 7.4 (48 CFR 
 Subpart 7.4).
@@ -7233,7 +7270,7 @@ Subparts 101-25.6--101-25.49 [Reserved]
 <R03>
 PART 101-26_PROCUREMENT SOURCES AND PROGRAM--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -7764,10 +7801,10 @@ the requisitions are submitted. For example, a FEDSTRIP/MILSTRIP
 requisition should be prepared to include Document Identifier Code A0E 
 or A05 and reflect the annotation in the ``Remarks'' block. With this 
 information GSA will attempt to complete procurement action before the 
-end of the fiscal year. When a req uistion is received too late to 
-permit GSA to complete procurement action before the end of the fiscal 
-year, the requisitioning activity will be so notified and requested to 
-furnish instructions regarding the action to be taken. Based on these 
+end of the fiscal year. When a requistion is received too late to permit 
+GSA to complete procurement action before the end of the fiscal year, 
+the requisitioning activity will be so notified and requested to furnish 
+instructions regarding the action to be taken. Based on these 
 instructions, procurement action will be taken or the requisition will 
 be canceled and returned to the ordering activity.
 
@@ -7776,8 +7813,9 @@ be canceled and returned to the ordering activity.
 
 
 <R05>
-Sec. 101-26.105  Justification to support negotiated procurement by 
-GSA for other agencies.
+Sec. 101-26.105  Justification to support negotiated procurement by GSA for 
+
+other agencies.
 
     When a requisition submitted by an agency to GSA requires 
 procurement without providing for full and open competition, the agency 
@@ -8049,6 +8087,7 @@ the provisions of Sec. 101-26.100-2.
 
 <R05>
 Sec. 101-26.301-2  Issue of used, repaired, and rehabilitated items in 
+
 serviceable condition.
 
     Stock items returned to GSA under the provisions of subpart 101-27.5 
@@ -8705,8 +8744,7 @@ Government National Credit Card.
 
 
 <R05>
-Sec. 101-26.503  Multiple award schedule purchases made by GSA supply 
-distribution facilities.
+Sec. 101-26.503  Multiple award schedule purchases made by GSA supply distribution facilities.
 
     GSA supply distribution facilities are responsible for quickly and 
 economically providing customers with frequently needed common-use 
@@ -8773,8 +8811,9 @@ window curtains.
 
 
 <R05>
-Sec. 101-26.505-3  Requests to procure similar items from sources other 
-than GSA supply sources.
+Sec. 101-26.505-3  Requests to procure similar items from sources other than 
+
+GSA supply sources.
 
     When an agency required to obtain items of office and household 
 furniture and furnishings from GSA stock or Federal Supply Schedule 
@@ -8791,8 +8830,7 @@ Sec. Sec. 101-26.505-4--101-26.505-6  [Reserved]
 
 
 <R05>
-Sec. 101-26.505-7  GSA assistance in selection of furniture and 
-furnishings.
+Sec. 101-26.505-7  GSA assistance in selection of furniture and furnishings.
 
     The Customer Service Representative in each GSA regional office 
 will, upon request, furnish agencies with information on the types, 
@@ -8965,6 +9003,7 @@ schedule.
 
 <R05>
 Sec. 101-26.507-3  Purchase of security equipment from Federal Supply 
+
 Schedules.
 
     To ensure that a readily available source exists to meet the 
@@ -8992,6 +9031,7 @@ the requirements.
 
 <R05>
 Sec. 101-26.508  Electronic data processing (EDP) tape and instrumentation 
+
 tape (wide and intermediate band).
 
     Procurement by Federal agencies of EDP tape and instrumentation tape 
@@ -9003,6 +9043,7 @@ the provisions of this Sec. 101-26.508.
 
 <R05>
 Sec. 101-26.508-1  Requisitioning data processing tape available through 
+
 Federal Supply Schedule contracts.
 
     Federal Supply Schedules, FSC group 70, part XI, and FSC group 58, 
@@ -9023,8 +9064,9 @@ requisitioner is located.
 
 
 <R05>
-Sec. 101-26.508-2  Requisitioning data processing tape not available 
-from Federal Supply Schedule contracts.
+Sec. 101-26.508-2  Requisitioning data processing tape not available from 
+
+Federal Supply Schedule contracts.
 
     (a) Requisitions for types of EDP tape and instrumentation tape 
 (wide and intermediate band) covered by Federal Supply Schedule 
@@ -9099,8 +9141,9 @@ made in accordance with the provisions of this Sec. 101-26.509.
 
 
 <R05>
-Sec. 101-26.509-1  Requisitioning tabulating machine cards available 
-from Federal Supply Schedule contracts.
+Sec. 101-26.509-1  Requisitioning tabulating machine cards available from 
+
+Federal Supply Schedule contracts.
 
     Federal Supply Schedule, FSC group 75, part VIII, includes contracts 
 for tabulating cards applicable to electrical and mechanical contact 
@@ -9119,8 +9162,9 @@ located.
 
 
 <R05>
-Sec. 101-26.509-2  Requisitioning tabulating machine cards not available 
-from Federal Supply Schedule contracts.
+Sec. 101-26.509-2  Requisitioning tabulating machine cards not available from 
+
+Federal Supply Schedule contracts.
 
     (a) Requisitions for tabulating machine cards covered by Federal 
 Supply Schedule contracts which exceed the maximum order limitation of 
@@ -9200,8 +9244,9 @@ Sec. 101-26.601  [Reserved]
 
 
 <R05>
-Sec. 101-26.602  Fuels and packaged petroleum products obtained from 
-or through the Defense Logistics Agency.
+Sec. 101-26.602  Fuels and packaged petroleum products obtained from or 
+
+through the Defense Logistics Agency.
 
     (a) Agencies shall be governed by the provisions of this Sec. 101-
 26.602 in satisfying requirements for coal, natural gas from sources 
@@ -9228,6 +9273,7 @@ Card.
 
 <R05>
 Sec. 101-26.602-1  Procurement of lubricating oils, greases, and gear 
+
 lubricants.
 
     (a) The Defense Fuel Supply Center will make annual procurements of 
@@ -9320,6 +9366,7 @@ local purchase action.
 
 <R05>
 Sec. 101-26.602-3  Procurement of gasoline, fuel oil (diesel and burner), 
+
 kerosene, and solvents.
 
     (a) Estimates of annual requirements will be solicited annually by 
@@ -9606,8 +9653,9 @@ deducted from the contract price.
 
 
 <R05>
-Sec. 101-26.602-5  Procurement of natural gas from the wellhead and 
-other supply sources.
+Sec. 101-26.602-5  Procurement of natural gas from the wellhead and other 
+
+supply sources.
 
     (a) Natural gas requirements shall be satisfied from sources that 
 are most advantageous to the Government in terms of economy, efficiency, 
@@ -9642,6 +9690,7 @@ establish a natural gas contract will take 5 to 7 months.
 
 <R05>
 Sec. 101-26.603  Electronic items available from the Defense Logistics 
+
 Agency.
 
     Executive agencies shall satisfy their requirements for electronic 
@@ -9662,8 +9711,9 @@ requisitions by DGSC set forth in Sec. 101-26.602-2(c).
 
 
 <R05>
-Sec. 101-26.605  Items other than petroleum products and electronic 
-items available from the Defense Logistics Agency.
+Sec. 101-26.605  Items other than petroleum products and electronic items 
+
+available from the Defense Logistics Agency.
 
     Agencies required to use GSA supply sources should also use Defense 
 supply centers (DSC's) as sources of supply for items listed in the 
@@ -9687,8 +9737,9 @@ publications.
 
 
 <R05>
-Sec. 101-26.606  Supply support available from the inventory control 
-points of the military departments.
+Sec. 101-26.606  Supply support available from the inventory control points 
+
+of the military departments.
 
     Federal civil agencies may obtain items of supply which are procured 
 and managed by the inventory control points (ICP) of the Army, Navy, and 
@@ -9772,8 +9823,9 @@ are encouraged to obtain their requirements in the same manner.
 
 
 <R05>
-Sec. 101-26.701  Purchase of products and services from the blind 
-and other severely handicapped persons.
+Sec. 101-26.701  Purchase of products and services from the blind and other 
+
+severely handicapped persons.
 
     (a) Purchases by executive agencies of products produced by 
 workshops of the blind or other severely handicapped persons which are 
@@ -9800,6 +9852,7 @@ section.
 
 <R05>
 Sec. 101-26.702  Purchase of products manufactured by the Federal Prison 
+
 Industries, Inc.
 
     (a) Purchases by executive agencies of prison-made products carried 
@@ -9898,8 +9951,9 @@ space, communications, and printing.
 
 
 <R05>
-Sec. 101-26.803  Discrepancies or deficiencies in shipments, material, 
-or billings.
+Sec. 101-26.803  Discrepancies or deficiencies in shipments, material, or 
+
+billings.
 
 
 <R05>
@@ -10009,8 +10063,9 @@ publication cited in Sec. 101-26.803-1.
 
 
 <R05>
-Sec. 101-26.803-3  Reporting of discrepancies in transportation, 
-shipments, material, or billings.
+Sec. 101-26.803-3  Reporting of discrepancies in transportation, shipments, 
+
+material, or billings.
 
     (a) Transportation-type discrepancies shall be processed under the 
 instructions in subpart 101-40.7 when the discrepancies are the fault of 
@@ -10076,6 +10131,7 @@ GSA regional office providing support to the requesting agency.
 
 <R05>
 Sec. 101-26.4901-149  Standard Form 149, U.S. Government National Credit 
+
 Card.
 
     Note: The form illustrated in Sec. 101-26.4901-149 is filed as part 
@@ -10103,6 +10159,7 @@ DC 20405.
 
 <R05>
 Sec. 101-26.4902-457  GSA Form 457, FSS Publications Mailing List 
+
 Application.
 
     Note: The form illustrated in Sec. 101-26.4902-457 is filed as part 
@@ -10113,8 +10170,9 @@ the Code of Federal Regulations.
 
 
 <R05>
-Sec. 101-26.4902-1398  GSA Form 1398: Motor vehicle purchase and 
-inspection label.
+Sec. 101-26.4902-1398  GSA Form 1398: Motor vehicle purchase and inspection 
+
+label.
 
     Note: The form illustrated in Sec. 101-26.4902-1398 is filed as 
 part of the original document and does not appear in the Federal 
@@ -10134,8 +10192,7 @@ Register or the Code of Federal Regulations.
 
 
 <R05>
-Sec. 101-26.4902-1781  GSA Form 1781, Motor Vehicle Requisition--Delivery 
-Order.
+Sec. 101-26.4902-1781  GSA Form 1781, Motor Vehicle Requisition--Delivery Order.
 
     Note: The form illustrated in Sec. 101-26.4902-1781 is filed as 
 part of the original document
@@ -10149,8 +10206,9 @@ Regulations.
 
 
 <R05>
-Sec. 101-26.4902-2891  GSA Form 2891: Instructions to Users of Federal 
-Supply Schedules.
+Sec. 101-26.4902-2891  GSA Form 2891: Instructions to Users of Federal Supply 
+
+Schedules.
 
     Note: The form illustrated in Sec. 101-26.4902-2891 is filed as 
 part of the original document and does not appear in the Federal 
@@ -10175,6 +10233,7 @@ correspond with the applicable agency form numbers.
 
 <R05>
 Sec. 101-26.4904-416  DD Form 416: Purchase Request for Coal, Coke, or 
+
 Briquettes.
 
     Note: The form illustrated in Sec. 101-26.4904-416 is filed as part 
@@ -10187,7 +10246,7 @@ the Code of Federal Regulations.
 <R03>
 PART 101-27_INVENTORY MANAGEMENT--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -11244,7 +11303,7 @@ activity shipping the material to GSA.
 <R03>
 PART 101-28_STORAGE AND DISTRIBUTION--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -11252,7 +11311,7 @@ Sec.
 
 Subpart 101-28.1 [Reserved]
 
-   Subpart 101-28.2_Interagency Cross- Servicing in Storage Activities
+   Subpart 101-28.2_Interagency Cross-Servicing in Storage Activities
 
 101-28.200 Scope of subpart.
 101-28.201 Applicability.
@@ -11260,7 +11319,7 @@ Subpart 101-28.1 [Reserved]
 101-28.202-1 Request for services.
 101-28.202-2 Cancellation of cross-servicing arrangements.
 101-28.202-3 Cross-servicing rates.
-101-28.202-4 Reimbursement for serv ices.
+101-28.202-4 Reimbursement for services.
 101-28.203 Definitions.
 101-28.203-1 Government storage activity.
 101-28.203-2--101-28.203-3 [Reserved]
@@ -11574,8 +11633,7 @@ somewhat from the sale price for a particular transaction.
 
 
 <R05>
-Sec. 101-28.306  Customer supply center (CSC) accounts and related 
-controls.
+Sec. 101-28.306  Customer supply center (CSC) accounts and related controls.
 
 
 <R05>
@@ -11713,7 +11771,7 @@ any CSCs located within his or her region.
 <R03>
 PART 101-29_FEDERAL PRODUCT DESCRIPTIONS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -11819,6 +11877,7 @@ representing industrial producers and consumers.
 
 <R05>
 Sec. 101-29.102  Use of metric system of measurement in Federal product 
+
 descriptions.
 
     In accordance with Public Law 94-168, 15 U.S.C. 205b, the 
@@ -11999,8 +12058,7 @@ agency, but which may be used by other Federal agencies.
 
 
 <R05>
-Sec. 101-29.216  Department of Defense Index of Specifications and 
-Standards (DODISS).
+Sec. 101-29.216  Department of Defense Index of Specifications and Standards (DODISS).
 
     The Department of Defense Index of Specifications and Standards is a 
 Department of Defense (DoD) publication of unclassified Federal and 
@@ -12029,8 +12087,9 @@ referenced in 21 U.S.C. 351.
 
 
 <R05>
-Sec. 101-29.219  Index of Federal Specifications, Standards and 
-Commercial Item Descriptions.
+Sec. 101-29.219  Index of Federal Specifications, Standards and Commercial 
+
+Item Descriptions.
 
     The Index of Federal Specification, Standards and Commercial Item 
 Descriptions is a GSA publication that lists Federal specifications, 
@@ -12049,6 +12108,7 @@ the products.
 
 <R05>
 Sec. 101-29.221  Federal Specifications, Standards and Commercial Item 
+
 Description Program (Federal Standardization Program).
 
     The Federal Specifications, Standards and Commercial Item 
@@ -12173,8 +12233,9 @@ in the product description.
 
 
 <R05>
-Sec. 101-29.401  Federal product descriptions listed in the GSA Index 
-of Federal Specifications, Standards and Commercial Item Descriptions.
+Sec. 101-29.401  Federal product descriptions listed in the GSA Index of 
+
+Federal Specifications, Standards and Commercial Item Descriptions.
 
     (a) Federal product descriptions shall be used by all Federal 
 agencies in the procurement of supplies and services covered by such 
@@ -12190,8 +12251,7 @@ descriptions for acquisition shall be:
 
 
 <R05>
-Sec. 101-29.402  Exceptions to mandatory use of Federal product 
-descriptions.
+Sec. 101-29.402  Exceptions to mandatory use of Federal product descriptions.
 
     (a) Federal product descriptions do not need to be used under any of 
 the following circumstances:
@@ -12262,8 +12322,9 @@ applicable, recommendation for revision or amendment to the description)
 
 
 <R05>
-Sec. 101-29.403-2  Agency responsibility relative to exceptions to 
-Federal product descriptions.
+Sec. 101-29.403-2  Agency responsibility relative to exceptions to Federal 
+
+product descriptions.
 
     Each agency taking exceptions shall establish procedures whereby a 
 designated official having substantial procurement responsibility shall 
@@ -12304,6 +12365,7 @@ request for proposal.
 
 <R05>
 Sec. 101-29.502  Use of Federal specifications and interim Federal 
+
 specifications in Federal construction contracts.
 
     When material, equipment, or services covered by an available 
@@ -12326,7 +12388,7 @@ descriptions.
 <R03>
 PART 101-30_FEDERAL CATALOG SYSTEM--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -13074,7 +13136,7 @@ items.
 is a consolidated listing of NSN's and related supply management data of 
 each integrated manager and military service. These data include 
 Government source of supply, unit of issue, unit price, etc.
-    (4) Federal item logistics data rec ords (FILDR). A microfiche 
+    (4) Federal item logistics data records (FILDR). A microfiche 
 publication containing complete identification data in tabular format 
 for all descriptive-type item identifications. The data are arranged in 
 NSN sequence within Federal supply class. An FILDR is known in hard copy 
@@ -13309,8 +13371,9 @@ Sec. 101-30.201(b).
 
 
 <R05>
-Sec. 101-30.504  Cataloging data from Defense Logistics Services 
-Center (DLSC).
+Sec. 101-30.504  Cataloging data from Defense Logistics Services Center 
+
+(DLSC).
 
     Upon receipt of cataloging data from civil agencies, DLSC will 
 process the data and provide for their inclusion in the Federal Catalog 
@@ -13724,6 +13787,7 @@ regional office providing support to the requesting activity.
 
 <R05>
 Sec. 101-30.4901-1303  Standard Form 1303, Request for Federal 
+
 Cataloging/Supply Support Action.
 
     Note: The form illustrated in Sec. 101-30.4901-1303 is filed with 
@@ -13735,7 +13799,7 @@ the original document and does not appear in the Federal Register.
 <R03>
 PART 101-31_INSPECTION AND QUALITY CONTROL--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -13767,8 +13831,9 @@ Subpart 101-31.1 [Reserved]
 
 
 <R05>
-Sec. 101-31.200  Cross-reference to the Federal Acquisition Regulation 
-(FAR) (48 CFR chapter 1, parts 1-99).
+Sec. 101-31.200  Cross-reference to the Federal Acquisition Regulation (FAR) 
+
+(48 CFR chapter 1, parts 1-99).
 
     For guidance see Federal Acquisition Regulation (e.g., Subpart 7.5, 
 and parts 37 and 46) (48 CFR Subpart 7.5, and parts 37 and 46).
@@ -13783,7 +13848,7 @@ and parts 37 and 46) (48 CFR Subpart 7.5, and parts 37 and 46).
 <R03>
 PART 101-33_PUBLIC UTILITIES--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 486(c); The Federal Property and Administrative 
@@ -13793,8 +13858,9 @@ Services Act of 1949, as amended, Sec. 205(c), 63 Stat. 390.
 
 
 <R05>
-Sec. 101-33.0  Cross-reference to the Federal Management Regulation 
-(FMR) 41 CFR chapter 102 parts 1 through 220).
+Sec. 101-33.0  Cross-reference to the Federal Management Regulation (FMR) 41 
+
+CFR chapter 102 parts 1 through 220).
 
     For information on public utilities, see FMR part 102-82 (41 CFR 
 part 102-82).
@@ -13807,8 +13873,6 @@ part 102-82).
 <R03>
                          SUBCHAPTER F [RESERVED]
 
-
-
 [[Page 154]]
 
 
@@ -13816,13 +13880,12 @@ part 102-82).
         SUBCHAPTER G_AVIATION, TRANSPORTATION, AND MOTOR VEHICLES
 
 
-
-
 <R03>
-PART 101-37_GOVERNMENT AVIATION ADMINISTRATION AND COORDINATION
---Table of Contents
+PART 101-37_GOVERNMENT AVIATION ADMINISTRATION AND COORDINATION--Table of 
 
+Contents
 
+<R05>
 
 
     Authority: 40 U.S.C. 121(c); the Budget and Accounting Act of 1921, 
@@ -13835,11 +13898,11 @@ May 22, 1992).
 
 
 <R05>
-Sec. 101-37.000  Cross-reference to the Federal Management Regulation 
+Sec. 101-37.000  Cross-reference to the Federal Management Regulation (FMR) 
 
-(FMR) (41 CFR chapter 102, part 102-33 and the Federal Travel 
-Regulation (FTR) (41 CFR 
-          chapters 300-304, parts 300-3, 301-10, and 301-70)).
+(41 CFR chapter 102, part 102-33 and the Federal Travel Regulation (FTR) (41 
+
+CFR chapters 300-304, parts 300-3, 301-10, and 301-70)).
 
     (a) For information on Government aviation administration and 
 coordination, previously contained in subparts 101-37.1, 101-37.2, 101-
@@ -13853,7 +13916,7 @@ contained in subparts 101-37.1 and 101-37.4, see 41 CFR parts 300-3,
 <R03>
 PART 101-38_MOTOR VEHICLE MANAGEMENT--Table of Contents
 
-
+<R05>
 
 
     Authority: Sec. 205(c), 63 Stat. 390 (40 U.S.C. 486(c)).
@@ -13862,8 +13925,9 @@ PART 101-38_MOTOR VEHICLE MANAGEMENT--Table of Contents
 
 
 <R05>
-Sec. 101-38.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-38.000  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220).
 
     For motor vehicle management policy, see FMR part 34 (41 CFR part 
 102-34).
@@ -13872,7 +13936,7 @@ Sec. 101-38.000  Cross-reference to the Federal Management Regulation
 <R03>
 PART 101-39_INTERAGENCY FLEET MANAGEMENT SYSTEMS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -14276,8 +14340,9 @@ agencies affected and to the Director, OMB, before taking action.
 
 
 <R05>
-Sec. 101-39.105-1  Transfers from discontinued or curtailed fleet 
-management systems.
+Sec. 101-39.105-1  Transfers from discontinued or curtailed fleet management 
+
+systems.
 
     When a fleet management system is discontinued or curtailed, 
 transfers of vehicles and related equipment and supplies, personnel, 
@@ -14341,7 +14406,7 @@ acquired and used.
     (d) Unless inclusion is mutually agreed upon by the Administrator, 
 GSA, and the head of the agency concerned:
     (1) Motor vehicles for the use of the heads of the executive 
-agencies, ambassadors, ministers, charges d`affaires, and other 
+agencies, ambassadors, ministers, charges d'affaires, and other 
 principal diplomatic and consular officials.
     (2) Motor vehicles regularly and principally used for the 
 transportation of diplomats and representatives of foreign countries or 
@@ -14469,8 +14534,9 @@ IFMS fleet management center.
 
 
 <R05>
-Sec. 101-39.203-1  Obtaining motor vehicles while on temporary duty 
-(TDY) travel.
+Sec. 101-39.203-1  Obtaining motor vehicles while on temporary duty (TDY) 
+
+travel.
 
     Federal employees on TDY requiring short-term use of vehicles in the 
 destination area shall obtain service directly from the appropriate 
@@ -15102,7 +15168,7 @@ offices will provide support to requesting activities needing forms.
 <R03>
 PART 101-40_TRANSPORTATION AND TRAFFIC MANAGEMENT--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 486(c); Sec. 205(c), 63 Stat. 390.
@@ -15111,8 +15177,9 @@ PART 101-40_TRANSPORTATION AND TRAFFIC MANAGEMENT--Table of Contents
 
 
 <R05>
-Sec. 101-40.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-40.000  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220).
 
     For information on transportation and traffic management previously 
 contained in this part, see FMR part 117 (41 CFR part 102-117).
@@ -15121,7 +15188,7 @@ contained in this part, see FMR part 117 (41 CFR part 102-117).
 <R03>
 PART 101-41_TRANSPORTATION DOCUMENTATION AND AUDIT--Table of Contents
 
-
+<R05>
 
 
     Authority: 31 U.S.C. 3726; and 40 U.S.C. 486(c).
@@ -15130,8 +15197,9 @@ PART 101-41_TRANSPORTATION DOCUMENTATION AND AUDIT--Table of Contents
 
 
 <R05>
-Sec. 101-41.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-41.000  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220).
 
     For transportation payment and audit policy, see FMR part 102-118 
 (41 CFR part 102-118).
@@ -15145,13 +15213,12 @@ Sec. 101-41.000  Cross-reference to the Federal Management Regulation
                   SUBCHAPTER H_UTILIZATION AND DISPOSAL
 
 
-
-
 <R03>
-PART 101-42_UTILIZATION AND DISPOSAL OF HAZARDOUS MATERIALS AND 
-CERTAIN CATEGORIES OF PROPERTY--Table of Contents
+PART 101-42_UTILIZATION AND DISPOSAL OF HAZARDOUS MATERIALS AND CERTAIN 
 
+CATEGORIES OF PROPERTY--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -15551,8 +15618,9 @@ required to be reported.
 
 
 <R05>
-Sec. 101-42.206  Special requirements for utilization of hazardous 
-materials and certain categories of property.
+Sec. 101-42.206  Special requirements for utilization of hazardous materials 
+
+and certain categories of property.
 
     Special utilization requirements for certain categories of property 
 are provided in Sec. 101-42.1102. Many hazardous materials require 
@@ -15566,8 +15634,9 @@ inspecting excess hazardous materials.
 
 
 <R05>
-Sec. 101-42.207  Transfer of hazardous materials and certain categories 
-of property.
+Sec. 101-42.207  Transfer of hazardous materials and certain categories of 
+
+property.
 
     (a) Excess hazardous materials may be transferred among Federal 
 agencies under Sec. 101-43.309-5, except that the Standard Form (SF) 
@@ -15606,8 +15675,9 @@ agency with that agency's consent.
 
 
 <R05>
-Sec. 101-42.209  Cost of care and handling of hazardous materials and 
-certain categories of property.
+Sec. 101-42.209  Cost of care and handling of hazardous materials and certain 
+
+categories of property.
 
     The special handling requirements associated with many hazardous 
 materials often increase the cost of core and handling of hazardous 
@@ -15692,8 +15762,7 @@ certifications and agreements accompany the SF 123.
 
 
 <R05>
-Sec. 101-42.303  Hazardous materials distributed to donees by State 
-agencies.
+Sec. 101-42.303  Hazardous materials distributed to donees by State agencies.
 
     Donation of surplus personal property designated as hazardous 
 material shall be accomplished by the use of State agency distribution 
@@ -15704,6 +15773,7 @@ shall certify to the conditions in Sec. 101-42.301(b).
 
 <R05>
 Sec. 101-42.304  Special requirements for donation of certain hazardous 
+
 materials.
 
     Special donation requirements for specific hazardous materials are 
@@ -15868,8 +15938,9 @@ requirements of the hazardous materials regulations.
 
 
 <R05>
-Sec. 101-42.406  Abandonment or destruction of surplus hazardous 
-materials and certain categories of property.
+Sec. 101-42.406  Abandonment or destruction of surplus hazardous materials 
+
+and certain categories of property.
 
     In addition to the requirements for the abandonment or destruction 
 of surplus property prescribed in subpart 101-45.9, hazardous materials, 
@@ -15897,6 +15968,7 @@ hazardous items.
 
 <R05>
 Sec. 101-42.1101  Federal supply classification (FSC) groups and classes 
+
 which contain hazardous materials.
 
     (a) Hazardous material identification is required for all material 
@@ -16081,9 +16153,9 @@ Group 61...........  Electric wire and power  Power factor capacitors
                       and security detection   batteries or radioactive
                       systems.                 material.
 6505...............  Drugs, biologicals and   Hazadous items as defined
-                      official reagents.       in Sec. 101-42.001.
+                      official reagents.       in Sec.  101-42.001.
 6508...............  Medicated cosmetics and  Hazardous items as defined
-                      toiletries.              in Sec. 101-42.001
+                      toiletries.              in Sec.  101-42.001
                                                subject to DOT Hazardous
                                                Materials Regulations.
 6510...............  Surgical dressing        Items containing flammable
@@ -16160,11 +16232,11 @@ Group 61...........  Electric wire and power  Power factor capacitors
 
 
 <R05>
-Sec. 101-42.1102  Special requirements for utilization, donation, 
+Sec. 101-42.1102  Special requirements for utilization, donation, sale, and 
 
-sale, and abandonment or destruction of hazardous materials and 
-certain categories of 
-          property.
+abandonment or destruction of hazardous materials and certain categories of 
+
+property.
 
 
 <R05>
@@ -16502,8 +16574,9 @@ Nuclear Regulatory Commission, Washington, DC 20555.
 
 
 <R05>
-Sec. 101-42.1102-5  Drugs, biologicals, and reagents other than 
-controlled substances.
+Sec. 101-42.1102-5  Drugs, biologicals, and reagents other than controlled 
+
+substances.
 
     In addition to the requirements of subparts 101-42.2 through 101-
 42.4, drugs, biologicals, and reagents which are fit for human use shall 
@@ -16834,8 +16907,9 @@ electronic products shall be abandoned under the provisions of subpart
 
 
 <R05>
-Sec. 101-42.1102-7  Lead-containing paint and items bearing 
-lead-containing paint.
+Sec. 101-42.1102-7  Lead-containing paint and items bearing lead-containing 
+
+paint.
 
     (a) General--(1) Health hazard. Lead is a cumulative toxic heavy 
 metal which, in humans, exerts its effects on the renal, hematopoietic, 
@@ -16975,6 +17049,7 @@ accordance with this Sec. 101-42.1102-7.
 
 <R05>
 Sec. 101-42.1102-8  United States Munitions List items which require 
+
 demilitarization.
 
     (a) General. The United States Munitions List is located in 22 CFR 
@@ -17263,7 +17338,7 @@ firearms shall be subject to the provisions of part 101-48.
 <R03>
 PART 101-43_UTILIZATION OF PERSONAL PROPERTY--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 486(c); Sec. 205(c), 63 Stat. 390.
@@ -17272,8 +17347,9 @@ PART 101-43_UTILIZATION OF PERSONAL PROPERTY--Table of Contents
 
 
 <R05>
-Sec. 101-43.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-43.000  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220).
 
     For information on the disposition of excess personal property 
 previously contained in this part, see FMR part 36 (41 CFR part 102-36).
@@ -17282,7 +17358,7 @@ previously contained in this part, see FMR part 36 (41 CFR part 102-36).
 <R03>
 PART 101-44_DONATION OF SURPLUS PERSONAL PROPERTY--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 486(c); Sec. 205(c), 63 Stat. 390.
@@ -17291,18 +17367,20 @@ PART 101-44_DONATION OF SURPLUS PERSONAL PROPERTY--Table of Contents
 
 
 <R05>
-Sec. 101-44.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-44.000  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220).
 
     For information on donation of surplus personal property previously 
 contained in this part, see FMR part 102-37 (41 CFR part 102-37).
 
 
 <R03>
-PART 101-45_SALE, ABANDONMENT, OR DESTRUCTION OF PERSONAL PROPERTY
---Table of Contents
+PART 101-45_SALE, ABANDONMENT, OR DESTRUCTION OF PERSONAL PROPERTY--Table of 
 
+Contents
 
+<R05>
 
 
 Sec.
@@ -17322,8 +17400,9 @@ Sec.
 
 
 <R05>
-Sec. 101-45.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-45.000  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220).
 
     For information on the sale of personal property previously 
 contained in this part, see FMR part 38 (41 CFR part 102-38).
@@ -17475,10 +17554,11 @@ mutilated in a manner to prevent operational use.
 
 
 <R03>
-PART 101-46_REPLACEMENT OF PERSONAL PROPERTY PURSUANT TO THE 
-EXCHANGE/SALE AUTHORITY--Table of Contents
+PART 101-46_REPLACEMENT OF PERSONAL PROPERTY PURSUANT TO THE EXCHANGE/SALE 
 
+AUTHORITY--Table of Contents
 
+<R05>
 
 
     Authority: Sec. 205(c), 63 Stat. 390 (40 U.S.C. 486(c)).
@@ -17487,8 +17567,9 @@ EXCHANGE/SALE AUTHORITY--Table of Contents
 
 
 <R05>
-Sec. 101-46.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-46.000  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220).
 
     For information on replacement of personal property pursuant to the 
 exchange/sale authority previously contained in this part, see FMR part 
@@ -17500,7 +17581,7 @@ exchange/sale authority previously contained in this part, see FMR part
 <R03>
 PART 101-47_UTILIZATION AND DISPOSAL OF REAL PROPERTY--Table of Contents
 
-
+<R05>
 
 
     Authority: 40 U.S.C. 486(c); The Federal Property and Administrative 
@@ -17510,986 +17591,43 @@ Services Act of 1949, as amended, Sec. 205(c), 63 Stat. 390.
 
 
 <R05>
-Sec. 101-47.0  Cross-reference to the Federal Management Regulation 
-(FMR) 41 CFR chapter 102 parts 1 through 220).
+Sec. 101-47.0  Cross-reference to the Federal Management Regulation (FMR) 41 
+
+CFR chapter 102 parts 1 through 220).
 
     For information on utilization and disposal of real property, see 
 FMR part 102-75 (41 CFR part 102-75).
 
 
 <R03>
-PART 101-48_UTILIZATION, DONATION, OR DISPOSAL OF ABANDONED AND 
-FORFEITED PERSONAL PROPERTY--Table of Contents
+PART 101-48_UTILIZATION, DONATION, OR DISPOSAL OF ABANDONED AND FORFEITED 
+
+PERSONAL PROPERTY--Table of Contents
+
+<R05>
 
 
-
-
-Sec.
-101-48.000 Scope of part.
-101-48.001 Definitions.
-101-48.001-1 Abandoned or other unclaimed property.
-101-48.001-2 Distilled spirits.
-101-48.001-3 Eleemosynary institution.
-101-48.001-4 Firearms.
-101-48.001-5 Forfeited property.
-101-48.001-6 Malt beverages.
-101-48.001-7 Property.
-101-48.001-8 Voluntarily abandoned property.
-101-48.001-9 Wine.
-101-48.001-10 Drug paraphernalia.
-
-    Subpart 101-48.1_Utilization of Abandoned and Forfeited Personal 
-                                Property
-
-101-48.100 Scope of subpart.
-101-48.101 Forfeited or voluntarily abandoned property.
-101-48.101-1 Sources of property available for utilization.
-101-48.101-2 Custody of property.
-101-48.101-3 Cost of care and handling.
-101-48.101-4 Retention by holding agency.
-101-48.101-5 Property required to be reported.
-101-48.101-6 Transfer to other Federal agencies.
-101-48.101-7 Reimbursement and costs incident to transfer.
-101-48.101-8 Billing.
-101-48.101-9 Disposition of proceeds.
-101-48.102 Abandoned or other unclaimed property.
-101-48.102-1 Vesting of title in the United States.
-101-48.102-2 Reporting.
-101-48.102-3 Reimbursement.
-101-48.102-4 Proceeds.
-
- Subpart 101-48.2_Donation of Abandoned and Forfeited Personal Property
-
-101-48.200 Scope of subpart.
-101-48.201 Donation of forfeited distilled spirits, wine, and malt 
-          beverages.
-101-48.201-1 General.
-101-48.201-2 Establishment of eligibility.
-101-48.201-3 Requests by institutions.
-101-48.201-4 Filling requests.
-101-48.201-5 Donation of lots not required to be reported.
-101-48.201-6 Packing and shipping costs.
-101-48.202 Donation of forfeited drug paraphernalia.
-
- Subpart 101-48.3_Disposal of Abandoned and Forfeited Personal Property
-
-101-48.300 Scope of subpart.
-101-48.301 General.
-101-48.302 Distilled spirits, wine, and malt beverages.
-101-48.303 Firearms.
-101-48.304 Drug paraphernalia.
-101-48.305 Property other than distilled spirits, wine, malt beverages, 
-          firearms, and drug paraphernalia.
-101-48.306 Disposition of proceeds from sale.
-101-48.306-1 Abandoned or other unclaimed property.
-101-48.306-2 Forfeited or voluntarily abandoned property.
-
-Subparts 101-48.4--101-48.48 [Reserved]
-
-                Subpart 101-48.49_Illustrations of Forms
-
-101-48.4900 Scope of subpart.
-101-48.4901 [Reserved]
-101-48.4902 GSA forms.
-101-48.4902-18 GSA Form 18, Application of Eleemosynary Institution.
-
-    Authority: Sec. 205(c), 63 Stat. 390; 40 U.S.C. 486(c).
-
-    Source: 42 FR 55813, Oct. 19, 1977, unless otherwise noted.
+    Authority: 40 U.S.C. 121(c).
 
 
 <R05>
-Sec. 101-48.000  Scope of part.
+Sec. 101-48.000  Cross-reference to the Federal Management Regulation (FMR) 
 
-    This part prescribes the policies and methods governing the 
-utilization, donation, and disposal of abandoned and forfeited personal 
-property under the custody or control of any Federal agency in the 
-United States, the Commonwealth of Puerto Rico, American Samoa, Guam, 
-the Trust Territory of the Pacific Islands, and the Virgin Islands. In 
-addition to the requirements of this part 101-48, the disposition of
+(41 CFR chapter 102, part 102-41).
 
-[[Page 197]]
+    For information on the disposition of seized, forfeited, voluntarily 
+abandoned, and unclaimed personal property, see FMR part 102-41 (41 CFR 
+part 102-41).
 
-abandoned and forfeited hazardous materials shall be accomplished in 
-accordance with part 101-42.
-
-[57 FR 39137, Aug. 28, 1992]
-
-
-<R05>
-Sec. 101-48.001  Definitions.
-
-    For the purposes of this part 101-48, the following terms shall have 
-the meanings set forth in this section.
-
-
-<R05>
-Sec. 101-48.001-1  Abandoned or other unclaimed property.
-
-    Abandoned or other unclaimed property means personal property that 
-is found on premises owned or leased by the Government and which is 
-subject to the filing of a claim therefor by the former owner(s) within 
-3 years from the vesting of title in the United States.
-
-
-<R05>
-Sec. 101-48.001-2  Distilled spirits.
-
-    Distilled spirits, as defined in the Federal Alcohol Administration 
-Act (27 U.S.C. 211), as now in force or hereafter amended, means ethyl 
-alcohol; hydrated oxide of ethyl; or spirits of wine, whiskey, rum, 
-brandy, gin, and other distilled spirits, including all dilutions and 
-mixtures thereof.
-
-
-<R05>
-Sec. 101-48.001-3  Eleemosynary institution.
-
-    Eleemosynary institution means a nonprofit institution organized and 
-operated for charitable purposes whose net income does not inure in 
-whole or in part to the benefit of shareholders or individuals and which 
-shall have filed with the GSA National Capital Region a satisfactory 
-statement establishing such status.
-
-[56 FR 40260, Aug. 14. 1991]
-
-
-<R05>
-Sec. 101-48.001-4  Firearms.
-
-    Firearms, as defined in 18 U.S.C. 921, as now in force or hereafter 
-amended, means any weapon (including a starter gun) which will, or is 
-designed to, or may readily be converted to expel a projectile by the 
-action of an explosive; the frame or receiver of any such weapon or any 
-firearm muffler or firearm silencer; or any destructive device. This 
-term does not include an antique firearm.
-
-
-<R05>
-Sec. 101-48.001-5  Forfeited property.
-
-    Forfeited property means personal property acquired by a Federal 
-agency either by summary process or by order of a court of competent 
-jurisdiction pursuant to any law of the United States.
-
-
-<R05>
-Sec. 101-48.001-6  Malt beverages.
-
-    Malt beverages, as defined in the Federal Alcohol Administration Act 
-(27 U.S.C. 211), as now in force or hereafter amended, means beverages 
-made by the alcoholic fermentation of an infusion or decoction, or 
-combination of both, in potable brewing water, of malted barley with 
-hops or their parts or products and with or without other malted 
-cereals; and with or without the addition of unmalted or prepared 
-cereals, other carbohydrates, or products prepared therefrom; and with 
-or without the addition of carbon dioxide; and with or without other 
-wholesome products suitable for human food consumption.
-
-
-<R05>
-Sec. 101-48.001-7  Property.
-
-    Property means all personal property, including but not limited to 
-vessels, vehicles, aircraft, distilled spirits, wine, and malt 
-beverages.
-
-
-<R05>
-Sec. 101-48.001-8  Voluntarily abandoned property.
-
-    Voluntarily abandoned property means personal property abandoned to 
-a Federal agency in such a manner as to vest title thereto in the United 
-States.
-
-
-<R05>
-Sec. 101-48.001-9  Wine.
-
-    Wine means any of the wines defined in sections 5381 and 5385 of the 
-Internal Revenue Code of 1954 (26 U.S.C. 5381, 5385), as now in force or 
-hereafter amended, and other alcoholic beverages not so defined, but 
-made in the manner of wine, including sparkling and carbonated wine; 
-wine made from condensed grape must; wine made from agricultural 
-products other than the juice of sound, ripe grapes; imitation wine; 
-compounds sold as wine; vermouth; cider; perry; and sake. The alcoholic 
-content of these beverages shall not contain less than 7 percent nor 
-more than 24 percent of alcohol by
-
-[[Page 198]]
-
-volume and shall not be for industrial use.
-
-
-<R05>
-Sec. 101-48.001-10  Drug paraphernalia.
-
-    Drug paraphernalia means any equipment, product, or material of any 
-kind which is primarily intended or designed for use in manufacturing, 
-compounding, converting, concealing, producing, processing, preparing, 
-injecting, ingesting, inhaling, or otherwise introducing into the human 
-body a controlled substance in violation of the Controlled Substances 
-Act (title II of Pub. L. 91-513). It includes items primarily intended 
-or designed for use in ingesting, inhaling, or otherwise introducing 
-marijuana, cocaine, hashish, hashish oil, PCP, or amphetamines into the 
-human body, such as:
-    (1) Metal, wooden, acrylic, glass, stone, plastic, or ceramic pipes 
-with or without screens, permanent screens, hashish heads, or punctured 
-metal bowls;
-    (2) Water pipes;
-    (3) Carburetion tubes and devices;
-    (4) Smoking and carburetion masks;
-    (5) Roach clips: Meaning objects used to hold burning material, such 
-as a marijuana cigarette, that has become too small or too short to be 
-held in the hand;
-    (6) Miniature spoons with level capacities of one-tenth cubic 
-centimeter or less;
-    (7) Chamber pipes;
-    (8) Carburetor pipes;
-    (9) Electric pipes;
-    (10) Air-driven pipes;
-    (11) Chillums;
-    (12) Bongs;
-    (13) Ice pipes or chillers;
-    (14) Wired cigarette papers; or
-    (15) Cocaine freebase kits.
-
-[56 FR 40260, Aug. 14, 1991]
-
-
-<R04>
-    Subpart 101-48.1_Utilization of Abandoned and Forfeited Personal 
-                                Property
-
-
-<R05>
-Sec. 101-48.100  Scope of subpart.
-
-    This subpart 101-48.1 prescribes the policies and methods for 
-utilization and transfer within the Government of forfeited or 
-voluntarily abandoned personal property subject to the provisions of 40 
-U.S.C. 304f through m, and abandoned and other unclaimed property found 
-on premises owned or leased by the Government subject to the provisions 
-of 40 U.S.C. 484(m), which may come into the custody or control of any 
-Federal agency in the United States, the Commonwealth of Puerto Rico, 
-American Samoa, Guam, and Trust Territory of the Pacific Islands, or the 
-Virgin Islands. Property in this category located elsewhere shall be 
-utilized and transferred in accordance with the regulations of the 
-agency having custody thereof. This subpart also governs seized and 
-forfeited drug paraphernalia under the provisions of 21 U.S.C. 857(c).
-
-[56 FR 40260, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.101  Forfeited or voluntarily abandoned property.
-
-    Forfeited or voluntarily abandoned property, subject to the 
-provisions of 40 U.S.C. 304(f) through m, except as otherwise indicated 
-in this subpart 101-48.1, shall be reported and handled in the same 
-manner as excess property under subpart 101-43.3.
-
-
-<R05>
-Sec. 101-48.101-1  Sources of property available for utilization.
-
-    Property available for utilization under Sec. 101-48.101 is 
-property which is in the custody or under the control of any agency of 
-the U.S. Government, as a result of forfeiture or voluntary abandonment.
-
-
-<R05>
-Sec. 101-48.101-2  Custody of property.
-
-    (a) GSA generally will not take possession of property that is 
-forfeited or voluntarily abandoned. Such property shall remain in the 
-custody of and be the responsibility of the holding agency.
-    (b) GSA will direct the disposition of forfeited firearms that are 
-subject to the disposal provisions of 26 U.S.C. 5872(b). GSA authorizes 
-the retention of any such firearm by the Secretary of the Treasury or 
-his delegate for official use.
-    (c) GSA will direct the disposition of distilled spirits, wine, and 
-malt beverages that are forfeited other than by court decree or by order 
-of a court:
-
-[[Page 199]]
-
-    (1) By transfer to Government agencies which have a need for such 
-beverages for medicinal, scientific, or mechanical purposes, or for any 
-other purpose for which appropriated funds may be expended by a 
-Government agency;
-    (2) By donation to eleemosynary institutions (as defined in Sec. 
-101-48.001-3) which have a need for such beverages for medicinal 
-purposes; or
-    (3) By destruction.
-    (d) GSA will direct the disposition of forfeited drug paraphernalia 
-that is subject to the disposal provisions of 21 U.S.C. 857(c) by 
-ordering such paraphernalia destroyed or by authorizing its use for law 
-enforcement or educational purposes by Federal, State, or local 
-authorities.
-
-[42 FR 55813, Oct. 19, 1977, as amended at 56 FR 40260, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.101-3  Cost of care and handling.
-
-    Each holding agency shall be responsible for performing care and 
-handling of forfeited or voluntarily abandoned personal property pending 
-disposition.
-
-
-<R05>
-Sec. 101-48.101-4  Retention by holding agency.
-
-    (a) Subject to the limitations on certain types of passenger 
-vehicles (see Sec. 101-43.307-9), a Federal agency may retain and 
-devote to official use any property in its custody that is forfeited 
-other than by court decree or determined by the agency to be voluntarily 
-abandoned. Large sedans and limousines may be retained by an agency and 
-devoted to official use only if such retention is clearly authorized by 
-the provisions of subpart 101-38.1.
-    (b) A holding agency, when reporting property pursuant to Sec. 101-
-48.101-5, which is subject to pending court proceedings for forfeiture, 
-may at the same time file a request for that property for its official 
-use. A request for only components or accessories of a complete and 
-operable item shall contain a detailed justification concerning the need 
-for the components or accessories and an explanation of the effect their 
-removal will have on the item. Upon receipt of a request, GSA will make 
-application to the court requesting delivery of the property to the 
-holding agency, provided that, when a holding agency has requested only 
-components or accessories of a complete and operable item, GSA 
-determines that their removal from the item is in the best interest of 
-the Government.
-    (c) Except where otherwise specifically provided, any property that 
-is retained by a Federal agency for official use under this subpart 101-
-48.1 shall thereupon lose its identity as forfeited or voluntarily 
-abandoned property. When such property is no longer required for 
-official use, it shall be reported as excess in accordance with Sec. 
-101-43.304.
-
-(Sec. 307, 49 Stat. 880; 40 U.S.C. 304l)
-
-[42 FR 55813, Oct. 19, 1977, as amended at 44 FR 42202, July 19, 1979; 
-56 FR 40260, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.101-5  Property required to be reported.
-
-    (a) A Federal agency shall promptly report, in accordance with Sec. 
-101-43.304, property in its custody that is forfeited other than by 
-court decree or voluntarily abandoned and not desired for retention by 
-that agency for its official use and property on which proceedings for 
-forfeiture by court decree are being started or have begun, except that:
-    (1) Reports shall be submitted to the GSA National Capital Region 
-(mailing address: General Services Administration (3FBP-W), Washington, 
-DC 20407) in lieu of being submitted to the GSA regional office for the 
-region in which the property is located.
-    (2) The reporting agency's internal documents containing information 
-relevant to the property may be used in lieu of the Standard Form 120, 
-Report of Excess Personal Property; and
-    (3) Distilled spirits, wine and malt beverages fit for human 
-consumption in quantities of 5 wine gallons or more shall be reported 
-regardless of acquisition cost.
-    (b) The following information shall be furnished:
-    (1) Whether property was:
-    (i) Abandoned;
-    (ii) Forfeited other than by court decree; or
-    (iii) The subject of a court proceeding and, if so, the name of the 
-defendant and the place and judicial district of
-
-[[Page 200]]
-
-the court from which the decree has been or will be issued;
-    (2) Existence or probability of a lien or claim of lien, or other 
-accrued or accruing charges, and the amount involved; and
-    (3) If the property is distilled spirits, wine, or malt beverages: 
-Quantities and kinds (rye or bourbon or other whiskey and its brand, if 
-any; sparkling or still wine and its color or brand; cordial, brandy, 
-gin, etc.), proof rating, and condition for shipping.
-    (c) In addition to the exceptions and special handling described in 
-Sec. Sec. 101-43.305 and 101-43.307, the following forfeited or 
-voluntarily abandoned property need not be reported:
-    (1) Forfeited arms or munitions of war which are handled pursuant to 
-22 U.S.C. 401;
-    (2) Forfeited firearms which are transferable by the holding agency 
-to the Secretary of Defense;
-    (3) Abandoned, condemned, or forfeited tobacco, snuff, cigars, or 
-cigarettes which the holding agency estimates will not, if offered for 
-sale by competitive bid, bring a price equal to the internal revenue tax 
-due and payable thereon; and which is subject to destruction or delivery 
-without payment of any tax to any hospital maintained by the United 
-States for the use of present or former members of the military or naval 
-forces of the United States;
-    (4) Forfeited distilled spirits (including alcohol), wine and malt 
-beverages not fit for human consumption nor for medicinal, scientific, 
-or mechanical purposes. (Domestic forfeited distilled spirits, wine, and 
-malt beverages which were not produced at a registered distillery, 
-winery, or brewery or which are in containers that have been opened or 
-entered shall be regarded as not fit for human consumption. (See Sec. 
-101-48.302 for disposition.));
-    (5) Distilled spirits, wine, and malt beverages in any one seizure 
-of less than 5 wine gallons (see Sec. Sec. 101-48.201-5 and 101-48.302 
-for disposition);
-    (6) Effects of deserters from the Coast Guard or the military 
-services, or of deceased persons of the Coast Guard or the military 
-services, or of deceased inmates of naval or soldiers' homes or 
-Government hospitals;
-    (7) Seeds, plants, or misbranded packages seized by the Department 
-of Agriculture pursuant to authorities provided by law;
-    (8) Game and equipment (other than vessels, including cargo) seized 
-by the Department of the Interior pursuant to authorities provided by 
-law;
-    (9) Files of papers, all dead and undeliverable mail matter, and 
-nonmailable matter in the custody of the Postmaster General;
-    (10) Infringing articles in the custody of the Patent Office, 
-Department of Commerce;
-    (11) Unclaimed and abandoned personal property subject to applicable 
-customs laws and regulations;
-    (12) Collection seizures to satisfy tax liens and property acquired 
-by the United States in payment of or as security for debts arising 
-under the internal revenue laws;
-    (13) Property, the vesting and disposition of which is controlled by 
-the provisions of 38 U.S.C. 5201 (et seq.), Disposition of deceased 
-veterans' personal property; and
-    (14) Motor vehicles which are 4 or more years old.
-    (d) The general rule for reporting specified in this Sec. 101-
-48.101-5 is modified with respect to the following:
-    (1) Controlled substances (as defined in Sec. 101-43.001-3), 
-regardless of quantity, condition, or acquisition cost, shall be 
-reported to the Drug Enforcement Administration, Department of Justice, 
-Washington, DC 20537;
-    (2) Forfeited firearms not desired for retention by the seizing 
-agency, except those covered by paragraphs (c) (1) and (2) of this 
-section, shall be reported provided such firearms are in excellent 
-serviceable condition and known to be used for law enforcement or 
-security purposes or are sufficiently unusual to be of interest to a 
-Federal museum. Forfeited firearms not report able in accordance with 
-the foregoing criteria shall be destroyed and disposed of pursuant to 
-Sec. 101-48.303;
-    (3) Property forfeited other than by court decree which is suitable 
-for human consumption or which may be used in the preparation of food 
-may be immediately transferred by the agency having custody to the 
-nearest Federal agency known to be a user of such
-
-[[Page 201]]
-
-property, without specific authorization from GSA;
-    (4) Vessels of 1,500 gross tons or more which the Maritime 
-Administration determines to be merchant vessels or capable of 
-conversion to merchant use shall be reported to the Maritime 
-Administration;
-    (5) Property seized by one Federal agency but adopted by another for 
-prosecution under laws enforced by the adopting Federal agency shall be 
-reported by the adopting agency to the extent and in the manner required 
-by this subpart 101-48.1;
-    (6) Lost, abandoned, or unclaimed personal property controlled by 
-the provisions of 10 U.S.C. 2575 shall be disposed of as provided by 10 
-U.S.C. 2575 and regulations issued thereunder by appropriate authority; 
-and
-    (7) Drug paraphernalia seized and forfeited under the provisions of 
-21 U.S.C. 857, which is not retained for official use by the seizing 
-agency or transferred to another Federal agency under seizing agency 
-authorities, or such drug paraphernalia retained for official use but no 
-longer required by the agency, shall be reported on Standard Form 120 to 
-the General Services Administration, Property Management Division (FBP), 
-Washington, DC 20406.
-    (e) Property not required to be reported pursuant to this Sec. 101-
-48.101-5 and not excepted or modified with respect to reporting pursuant 
-to this Sec. 101-48.101-5 shall be handled as set forth in Sec. 101-
-43.305.
-
-[42 FR 55813, Oct. 19, 1977, as amended at 56 FR 40260, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.101-6  Transfer to other Federal agencies.
-
-    (a) Normally, the transfer of forfeited or voluntarily abandoned 
-personal property shall be accomplished by submitting for approval a 
-Standard Form 122, Transfer Order Excess Personal Property (see Sec. 
-101-43.4901-122), or any other transfer order form approved by GSA, to 
-the General Services Administration (3FBP-W), Washington, DC 20407, for 
-approval.
-    (b) Except for property which is subject to court action, the 
-transfer order shall indicate the agency having custody of the property, 
-the location of the property, the report or case number on which the 
-property is listed, the property required, and the fair value, if 
-applicable.
-    (c) Property subject to court action may be requested by submitting 
-a transfer order or a letter setting forth the need for the property by 
-the agency. If proceedings for the forfeiture of the property by court 
-decree are being started or have begun, application will be made by GSA 
-to the court, prior to entry of a decree, for an order requiring 
-delivery of the property to an appropriate recipient for its official 
-use.
-    (d) Transfers of forfeited or voluntarily abandoned distilled 
-spirits, wine, and malt beverages shall be limited to those for 
-medicinal, scientific, or mechanical purposes or for any other official 
-purposes for which appropriated funds may be expended by a government 
-agency. Transfer orders shall be signed by the head of the requesting 
-agency or a designee. Where officials are designed to sign, the General 
-Services Administration (3FBP-W), Washington, DC 20407, shall be advised 
-of designees by letter signed by the head of the agency concerned. No 
-transfer order will be acted upon unless it is signed as provided 
-herein.
-    (e) Transfer orders requesting the transfer of forfeited or 
-voluntarily abandoned firearms shall set forth the need for the property 
-by the requesting agency.
-    (f) Transfer orders requesting the transfer of reportable forfeited 
-drug paraphernalia shall be submitted to the General Services 
-Administration, Property management Division (FBP), Washington, DC 
-20406, for approval. Transfers will not be approved unless the Standard 
-Form 122 or other transfer document contains a certification that the 
-paraphernalia will be used for law enforcement or educational purposes 
-only.
-    (g) Any property transferred for official use under this subpart 
-101-48.1, with the exception of drug paraphernalia, shall thereupon lose 
-its identify as forfeited or voluntarily abandoned property. When no 
-longer required for official use, it shall be reported as excess in 
-accordance with Sec. 101-43.304. Drug paraphernalia shall
-
-[[Page 202]]
-
-not lose its identity as forfeited property. When no longer required for 
-official use, it shall be reported in accordance with Sec. 101-48.101-
-5(d)(7).
-
-[42 FR 55813, Oct. 19, 1977, as amended at 56 FR 40261, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.101-7  Reimbursement and costs incident to transfer.
-
-    (a) Reimbursement upon transfer of personal property forfeited or 
-voluntarily abandoned other than by court decree shall be in accordance 
-with Sec. 101-43.309-3.
-    (b) Reimbursement for judicially forfeited property shall be in 
-accordance with provisions of the court decree.
-    (c) Commercial charges incurred at the time of and subsequent to 
-forfeiture or voluntary abandonment but prior to transfer shall be borne 
-by the transferee agency when billed by the commercial organization.
-    (d) The direct costs incurred by the holding agency prior to the 
-transfer of forfeited or voluntarly abandoned property shall be borne by 
-the transferee agency when billed by the holding agency. Overhead or 
-administrative costs or charges shall not be included. Only costs set 
-forth in 40 U.S.C. 304j, such as storage, packing, preparation for 
-shipment, loading, and transportation shall be recovered by the holding 
-agency.
-
-[42 FR 55813, Oct. 19, 1977, as amended at 56 FR 40261, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.101-8  Billing.
-
-    (a) Each holding agency shall be responsible for billing and 
-collecting the costs of care and handling, as well as the fair value of 
-property transferred to other agencies, when such reimbursement is 
-required in accordance with Sec. 101-43.309-3.
-    (b) Commercial organizations accruing charges prior to transfer 
-shall be responsible for billing and collecting these charges from the 
-transferee agency.
-
-[42 FR 55813, Oct. 19, 1977, as amended at 56 FR 40261, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.101-9  Disposition of proceeds.
-
-    Where reimbursement for fair value is to be made in accordance with 
-Sec. 101-43.309-3, the fair value proceeds shall be deposited in the 
-Treasury to miscellaneous receipts or in the appropriate agency account 
-by the transferor agency.
-
-[56 FR 40261, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.102  Abandoned or other unclaimed property.
-
-
-<R05>
-Sec. 101-48.102-1  Vesting of title in the United States.
-
-    Abandoned or other unclaimed property, subject to the provisions of 
-section 203(m) of the Federal Property and Administrative Services Act 
-of 1949, as amended (40 U.S.C. 484(m)), shall remain in the custody of 
-and be the responsibility of the agency finding such property. The 
-property shall be held for a period of 30 days from the date of finding 
-such property. Upon expiration of this 30-day period, title to such 
-property vests in the United States, except that title reverts to the 
-owner where a proper claim is filed by the owner prior to official use 
-or transfer for official use and, if there is no official use or 
-transfer for official use, prior to sale of the property.
-
-
-<R05>
-Sec. 101-48.102-2  Reporting.
-
-    (a) Abandoned or other unclaimed property not utilized by the 
-holding agency shall be reported and handled in the same manner as 
-excess property under subpart 101-43.3, except as provided in Sec. 101-
-48.102-2(b).
-    (b) Abandoned for other unclaimed property which, by the provisions 
-of Sec. 101-43.304, is not required to be reported and which is not 
-otherwise transferred pursuant to subpart 101-43.3, shall be subject to 
-the provisions of subpart 101-48.3.
-
-[42 FR 55813, Oct. 19, 1977, as amended at 56 FR 40261, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.102-3  Reimbursement.
-
-    Reimbursement of fair market value, as determined by the head of the 
-finding or transferor agency, shall be required in connection with 
-official use by the finding agency or transfer for official use of 
-abandoned or other unclaimed property. Fair market value as used herein 
-does not mean fair value as determined under Sec. 101-43.309-3.
-
-[56 FR 40261, Aug. 14, 1991]
-
-[[Page 203]]
-
-
-<R05>
-Sec. 101-48.102-4  Proceeds.
-
-    Reimbursement for official use by the finding agency or transfer for 
-official use of abandoned or other unclaimed property shall be deposited 
-in a special fund by the finding or transferor agency for a period of at 
-least 3 years. A former owner may be reimbursed from the special fund, 
-based upon a proper claim made to the finding or transferor agency and 
-filed within 3 years from the date of vesting of title in the United 
-States. Such reimbursement shall not exceed fair market value at the 
-time title was vested in the United States, less the costs incident to 
-the care and handling of such property as determined by the head of the 
-agency concerned.
-
-
-<R04>
- Subpart 101-48.2_Donation of Abandoned and Forfeited Personal Property
-
-
-<R05>
-Sec. 101-48.200  Scope of subpart.
-
-    This subpart 101-48.2 prescribes the policies and methods governing 
-the donation by Federal agencies of abandoned and forfeited property in 
-their custody or control in the United States, the Commonwealth of 
-Puerto Rico, American Samoa, Guam, the Trust Territory of the Pacific 
-Islands, or the Virgin Islands.
-
-
-<R05>
-Sec. 101-48.201  Donation of forfeited distilled spirits, wine, and 
-malt beverages.
-
-
-<R05>
-Sec. 101-48.201-1  General.
-
-    Forfeited distilled spirits, wine, and malt beverages for which 
-there is no Federal utilization shall be made available to appropriate 
-eleemosynary institutions prior to other disposition.
-
-
-<R05>
-Sec. 101-48.201-2  Establishment of eligibility.
-
-    Eleemosynary institutions desiring to obtain available distilled 
-spirits, wine, and malt beverages shall submit GSA Form 18, Application 
-of Eleemosynary Institution (see Sec. 101-48.4902-18), to the General 
-Services Administration (3FBP-W), Washington, DC 20407. The Office of 
-Management and Budget Approval Number 3090-0001 has been assigned to 
-this form.
-
-[56 FR 40261, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.201-3  Requests by institutions.
-
-    Eligible institutions desiring to obtain available distilled 
-spirits, wine, and malt beverages shall show on the GSA Form 18, 
-Application of Eleemosynary Institution, the kind and quantity desired. 
-The GSA National Capital Region will inform the eligible institution 
-when these alcoholic beverages become available, request confirmation 
-that the institution's requirement is current, and inform the 
-institution that shipment will be initiated upon this confirmation.
-
-[56 FR 40261, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.201-4  Filling requests.
-
-    The GSA National Capital Region will authorize the seizing agency to 
-fill such requests as the region may determine proper to ensure 
-equitable distribution among requesting institutions.
-
-[56 FR 40262, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.201-5  Donation of lots not required to be reported.
-
-    Forfeited distilled spirits, wine, and malt beverages not required 
-to be reported under Sec. 101-48.101-5 may be donated to eleemosynary 
-institutions known to be eligible therefor if the beverages are 
-determined by the seizing agency to be suitable for human consumption. 
-The holding agency shall promptly report these donations by letter to 
-the General Services Administration (3FBP-W), Washington, DC 20407. This 
-report shall state the quantity and type donated, the name and address 
-of the donee institution, and date of the donation.
-
-[56 FR 40262, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.201-6  Packing and shipping costs.
-
-    The receiving institution shall pay all costs of packing, shipping, 
-and transportation.
-
-[[Page 204]]
-
-
-<R05>
-Sec. 101-48.202  Donation of forfeited drug paraphernalia.
-
-    (a) Forfeited drug paraphernalia for which there is no Federal 
-utilization may be made available through State agencies, at the 
-discretion of GSA, to State and local governments for law enforcement or 
-educational purposes only. Donations will be made in accordance with 
-part 101-44, except as otherwise provided in this subpart 101-48.2.
-    (b) All transfers of drug paraphernalia to the State agencies for 
-donation to State and local governments shall be accomplished by use of 
-SF 123, Transfer Order Surplus Personal Property (see Sec. 101-44.4901-
-123). The SF 123 shall be accompanied by a letter of justification, 
-signed and dated by the authorized representative of the proposed donee, 
-setting forth a detailed plan of utilization for the property and 
-certifying that the donee will comply with all Federal State, and local 
-laws, regulations, ordinances, and requirements governing use of the 
-property. The SF 123, with the letter of justification, shall be 
-submitted for approval to the General Services Administration, Property 
-Management Division (FBP), Washington, DC 20406.
-    (c) A State agency shall not pick up or store drug paraphernalia in 
-its distribution centers. This property shall be released from the 
-holding agency directly to the designated donee.
-
-[56 FR 40262, Aug. 14, 1991]
-
-
-<R04>
- Subpart 101-48.3_Disposal of Abandoned and Forfeited Personal Property
-
-
-<R05>
-Sec. 101-48.300  Scope of subpart.
-
-    This subpart 101-48.3 prescribes the policies and methods governing 
-the disposal of abandoned or other unclaimed, voluntarily abandoned, or 
-forfeited personal property which may come into the custody or control 
-of any Federal agency in the United States, the Commonwealth of Puerto 
-Rico, American Samoa, Guam, the Trust Territory of the Pacific Islands, 
-or the Virgin Islands. Property in this category located elsewhere shall 
-be disposed of under the regulations of the agency having custody 
-thereof.
-
-
-<R05>
-Sec. 101-48.301  General.
-
-    Any property in the custody of a Federal agency which is not desired 
-for retention by that agency nor utilized within any Federal agency in 
-accordance with subpart 101-48.1 nor donated in accordance with subpart 
-101-48.2 shall be disposed of in accordance with the provisions of this 
-subpart 101-48.3
-
-
-<R05>
-Sec. 101-48.302  Distilled spirits, wine, and malt beverages.
-
-    (a) Distilled spirits, wine, and malt beverages (as defined in Sec. 
-101-48.001) which are not required to be reported under Sec. 101-
-48.101-5(c)(4) shall be destroyed as prescribed in Sec. 101-48.302(b); 
-distilled spirits, wine, and malt beverages which are not required to be 
-reported under Sec. 101-48.101-5(c)(5) and which have not been donated 
-as prescribed in subpart 101-48.2 shall be destroyed in like manner.
-    (b) When reportable abandoned or forfeited distilled spirits, wine, 
-and malt beverages are not retained by the holding agency, transferred 
-to another agency, or donated to an eligible eleemosynary institution by 
-GSA, the GSA National Capital Region will issue clearance to the agency 
-which submitted the report as prescribed by Sec. 101-48.101-5 for 
-destruction of the distilled spirits, wine, and malt beverages. A record 
-of the destruction showing time, place, and nomenclature and quantities 
-destroyed shall be filed with papers and documents relating to the 
-abandonment or forfeiture.
-
-[42 FR 55813, Oct. 19, 1977, as amended at 56 FR 40262, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.303  Firearms.
-
-    Abandoned or forfeited firearms or voluntarily abandoned firearms 
-shall not be sold as firearms. They may be disposed of by sale as scrap 
-in the manner prescribed in Sec. 101-45.309-4.
-
-
-<R05>
-Sec. 101-48.304  Drug paraphernalia.
-
-    (a) When forfeited drug paraphernalia is neither utilized within any 
-Federal agency in accordance with subpart 101-48.1 nor donated in 
-accordance with subpart 101-48.2, GSA will issue clearance to the 
-reporting agency to destroy the items. The destruction shall be 
-performed by an employee of the holding
-
-[[Page 205]]
-
-agency in the presence of two additional employees of the agency as 
-witnesses to the destruction. A statement of certification describing 
-the fact, manner, date, type, and quantity destroyed shall be certified 
-to by the agency employee charged with the responsibility for that 
-destruction. The two agency employees who witnessed the destruction 
-shall sign the following statement which shall appear on the 
-certification below the signature of the certifying employee:
-
-    ``I have witnessed the destruction of the (list the drug 
-paraphernalia) described in the foregoing certification in the manner 
-and on the date stated herein:''
-
-________________________________________________________________________
-Witness Date
-________________________________________________________________________
-Witness Date
-
-    (b) The signed certification and statement of destruction shall be 
-made a matter of record and shall be retained in the case files of the 
-holding agency.
-
-[56 FR 40262, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.305  Property other than distilled spirits, wine, malt 
-beverages, firearms, and drug paraphernalia.
-
-    (a) Property forfeited other than by court decree or voluntarily 
-abandoned, except distilled spirts, wine, malt beverages, firearms, and 
-drug paraphernalia, which is not returned to a claimant, retained by the 
-agency of custody, or transferred in accordance with subpart 101-48.1 
-may be released to the holding agency by the GSA National Capital Region 
-for public sale, except as otherwise provided by law.
-    (b) Abandoned or other unclaimed property which is not retained by 
-the holding agency, not transferred to another agency, or not required 
-to be reported by the provisions of Sec. 101-48.102, may be reported 
-for sale to the appropriate selling activity at any time after title 
-vests in the United States as provided in Sec. 101-48.102-1.
-    (c) Voluntarily abandoned, abandoned, or other unclaimed property 
-and, in the absence of specific direction by a court, forfeited 
-property, normally shall be sold by competitive bid as prescribed in 
-Sec. 101-45.304-1, subject to the same terms and conditions as would be 
-applicable to the sale of surplus personal property. Voluntarily 
-abandoned, abandoned, or other unclaimed property and forfeited property 
-may be sold also by negotiation at the discretion of the selling agency 
-but only under the circumstances set forth in Sec. 101-45.304-2. Such 
-property shall be identified by the holding agency as abandoned or other 
-unclaimed, voluntarily abandoned, or forfeited property, and shall be 
-reported for sale to the appropriate GSA regional office or to such 
-other agency as otherwise is responsible for selling its surplus 
-personal property unless specifically required by law to be sold by the 
-holding agency.
-
-[56 FR 40262, Aug. 14, 1991]
-
-
-<R05>
-Sec. 101-48.306  Disposition of proceeds from sale.
-
-
-<R05>
-Sec. 101-48.306-1  Abandoned or other unclaimed property.
-
-    (a) Proceeds from sale of abandoned or other unclaimed property 
-shall be deposited in a special fund by the finding agency for a period 
-of 3 years. A former owner may be reimbursed for abandoned or other 
-unclaimed property which had been disposed of in accordance with the 
-provisions of this subpart 101-48.3 upon filing a proper claim with the 
-finding agency within 3 years from the date of vesting of title in the 
-United States. Such reimbursement shall not exceed the proceeds realized 
-from the disposal of such property less disposal costs and costs of the 
-care and handling of such property as determined by the head of the 
-agency concerned.
-    (b) Records of abandoned or other unclaimed property shall be 
-maintained in such a manner as to permit identification of the property 
-with the original owner, if known, when such property is offered for 
-sale. Records of proceeds received from the sale of abandoned or other 
-unclaimed property shall be maintained as part of the permanent file and 
-record of sale until the 3-year period for filing claims has elapsed.
-
-[56 FR 40262, Aug. 14, 1991]
-
-[[Page 206]]
-
-
-<R05>
-Sec. 101-48.306-2  Forfeited or voluntarily abandoned property.
-
-    Proceeds from sale of property which has been forfeited other than 
-by court decree, by court decree, or which has been voluntarily 
-abandoned, shall be deposited in the Treasury of the United States as 
-miscellaneous receipts or in such other agency accounts as provided by 
-law or regulations.
-
-[56 FR 40262, Aug. 14, 1991]
-
-Subparts 101-48.4--101-48.48 [Reserved]
-
-
-<R04>
-                Subpart 101-48.49_Illustrations of Forms
-
-
-<R05>
-Sec. 101-48.4900  Scope of subpart.
-
-    This subpart illustrates forms prescribed for use in connection with 
-subject matter covered in this part 101-48.
-
-
-<R05>
-Sec. 101-48.4901  [Reserved]
-
-
-<R05>
-Sec. 101-48.4902  GSA forms.
-
-    (a) GSA Form 18, Application of Eleemosynary Institution, is 
-illustrated in this Sec. 101-8.4902 to show the text, format, and 
-arrangement of the form and to provide a ready source of reference.
-    (b) Copies of the GSA Form 18 may be obtained from the General 
-Services Administration (WDP), Washington, DC 20407.
-
-[42 FR 55813, Oct. 19, 1977, as amended at 46 FR 39593, Aug. 4, 1981]
-
-
-<R05>
-Sec. 101-48.4902-18  GSA Form 18, Application of Eleemosynary Institution.
-
-    Note: The form illustrated at Sec. 101-48.4902-18 is filed with the 
-original document.
+[71 FR 41370, July 21, 2006]
 
 
 <R03>
 PART 101-49_UTILIZATION, DONATION, AND DISPOSAL OF FOREIGN GIFTS AND 
+
 DECORATIONS--Table of Contents
 
-
+<R05>
 
 
     Authority: Sec. 205(c), 63 Stat. 390 (40 U.S.C. 486(c)); sec. 515, 
@@ -18499,8 +17637,9 @@ DECORATIONS--Table of Contents
 
 
 <R05>
-Sec. 101-49.000  Cross-reference to the Federal Management Regulation 
-(FMR) (41 CFR chapter 102, parts 102-1 through 102-220).
+Sec. 101-49.000  Cross-reference to the Federal Management Regulation (FMR) 
+
+(41 CFR chapter 102, parts 102-1 through 102-220).
 
     For information on utilization, donation, and disposal of foreign 
 gifts and decorations previously contained in this part, see FMR part 42 
@@ -18508,9 +17647,7 @@ gifts and decorations previously contained in this part, see FMR part 42
 
        Appendix to Subchapter H--Temporary Regulations [Reserved]
 
-
-[[Page 207]]
-
+[[Page 197]]
 
 <R02>
                               FINDING AIDS
@@ -18529,7 +17666,7 @@ which is published separately and revised annually.
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
-[[Page 209]]
+[[Page 199]]
 
 
 <R03>
@@ -18538,7 +17675,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of July 1, 2005)
+                      (Revised as of July 1, 2007)
 
                       Title 1--General Provisions
 
@@ -18551,19 +17688,41 @@ which is published separately and revised annually.
 
             Subtitle A--Office of Management and Budget Guidance 
                 for Grants and Agreements
-         I  [Reserved]
-        II  Office of Management and Budget Circulars and Guidance
+         I  Office of Management and Budget Governmentwide 
+                Guidance for Grants and Agreements (Parts 100-199)
+        II  Office of Management and Budget Circulars and Guidance 
+                (200-299)
             Subtitle B--Federal Agency Regulations for Grants and 
-                Agreements [Reserved]
-
+                Agreements
+       III  Department of Health and Human Services (Part 376)
+        VI  Department of State (Part 601)
+      VIII  Department of Veterans Affairs (Part 801)
+        IX  Department of Energy (Part 901)
+        XI  Department of Defense (Part 1125)
+       XIV  Department of the Interior (Part 1400)
+        XV  Environmental Protection Agency (Part 1532)
+     XVIII  National Aeronautics and Space Administration (Part 
+                1880 )
+      XXII  Corporation for National and Community Service (Part 
+                2200)
+       XXV  National Science Foundation (Part 2520)
+      XXVI  National Archives and Records Administration (Part 
+                2600)
+    XXVIII  Department of Justice (Part 2867)
+     XXXII  National Endowment for the Arts (Part 3254)
+    XXXIII  National Endowment for the Humanities (Part 3369)
+      XXXV  Export-Import Bank of the United States (Part 3513)
+    XXXVII  Peace Corps (Part 3700)
 
                         Title 3--The President
 
          I  Executive Office of the President (Parts 100--199)
 
+[[Page 200]]
+
                            Title 4--Accounts
 
-         I  General Accounting Office (Parts 1--99)
+         I  Government Accountability Office (Parts 1--99)
 
                    Title 5--Administrative Personnel
 
@@ -18580,9 +17739,6 @@ which is published separately and revised annually.
        XIV  Federal Labor Relations Authority, General Counsel of 
                 the Federal Labor Relations Authority and Federal 
                 Service Impasses Panel (Parts 2400--2499)
-
-[[Page 210]]
-
         XV  Office of Administration, Executive Office of the 
                 President (Parts 2500--2599)
        XVI  Office of Government Ethics (Parts 2600--2699)
@@ -18614,6 +17770,9 @@ which is published separately and revised annually.
         LV  National Endowment for the Arts (Part 6501)
        LVI  National Endowment for the Humanities (Part 6601)
       LVII  General Services Administration (Part 6701)
+
+[[Page 201]]
+
      LVIII  Board of Governors of the Federal Reserve System (Part 
                 6801)
        LIX  National Aeronautics and Space Administration (Part 
@@ -18622,6 +17781,7 @@ which is published separately and revised annually.
        LXI  National Labor Relations Board (Part 7101)
       LXII  Equal Employment Opportunity Commission (Part 7201)
      LXIII  Inter-American Foundation (Part 7301)
+     LXIVV  Merit Systems Protection Board (Part 7401)
        LXV  Department of Housing and Urban Development (Part 
                 7501)
       LXVI  National Archives and Records Administration (Part 
@@ -18633,19 +17793,21 @@ which is published separately and revised annually.
      LXXIV  Federal Mine Safety and Health Review Commission (Part 
                 8401)
      LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
-
-[[Page 211]]
-
     LXXVII  Office of Management and Budget (Part 8701)
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Part 
                 9701)
+      XCIX  Department of Defense Human Resources Management and 
+                Labor Relations Systems (Department of Defense--
+                Office of Personnel Management) (Part 9901)
 
-                      Title 6--Homeland Security
+                      Title 6--Domestic Security
 
          I  Department of Homeland Security, Office of the 
                 Secretary (Parts 0--99)
+         X  Privacy and Civil Liberties Oversight Board (Parts 
+                1000)
 
                          Title 7--Agriculture
 
@@ -18668,6 +17830,9 @@ which is published separately and revised annually.
                 Agriculture (Parts 600--699)
        VII  Farm Service Agency, Department of Agriculture (Parts 
                 700--799)
+
+[[Page 202]]
+
       VIII  Grain Inspection, Packers and Stockyards 
                 Administration (Federal Grain Inspection Service), 
                 Department of Agriculture (Parts 800--899)
@@ -18692,9 +17857,6 @@ which is published separately and revised annually.
                 Service, Rural Utilities Service, and Farm Service 
                 Agency, Department of Agriculture (Parts 1800--
                 2099)
-
-[[Page 212]]
-
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
       XXVI  Office of Inspector General, Department of Agriculture 
@@ -18725,6 +17887,9 @@ which is published separately and revised annually.
    XXXVIII  World Agricultural Outlook Board, Department of 
                 Agriculture (Parts 3800--3899)
        XLI  [Reserved]
+
+[[Page 203]]
+
       XLII  Rural Business-Cooperative Service and Rural Utilities 
                 Service, Department of Agriculture (Parts 4200--
                 4299)
@@ -18746,8 +17911,6 @@ which is published separately and revised annually.
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
 
-[[Page 213]]
-
                            Title 10--Energy
 
          I  Nuclear Regulatory Commission (Parts 0--199)
@@ -18755,6 +17918,8 @@ which is published separately and revised annually.
        III  Department of Energy (Parts 700--999)
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
+      XIII  Nuclear Waste Technical Review Board (Parts 1303--
+                1399)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
      XVIII  Northeast Interstate Low-Level Radioactive Waste 
@@ -18778,6 +17943,9 @@ which is published separately and revised annually.
        VII  National Credit Union Administration (Parts 700--799)
       VIII  Federal Financing Bank (Parts 800--899)
         IX  Federal Housing Finance Board (Parts 900--999)
+
+[[Page 204]]
+
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
@@ -18803,9 +17971,6 @@ which is published separately and revised annually.
 
          I  Federal Aviation Administration, Department of 
                 Transportation (Parts 1--199)
-
-[[Page 214]]
-
         II  Office of the Secretary, Department of Transportation 
                 (Aviation Proceedings) (Parts 200--399)
        III  Commercial Space Transportation, Federal Aviation 
@@ -18834,6 +17999,9 @@ which is published separately and revised annually.
                 Commerce (Parts 700--799)
       VIII  Bureau of Economic Analysis, Department of Commerce 
                 (Parts 800--899)
+
+[[Page 205]]
+
         IX  National Oceanic and Atmospheric Administration, 
                 Department of Commerce (Parts 900--999)
         XI  Technology Administration, Department of Commerce 
@@ -18859,9 +18027,6 @@ which is published separately and revised annually.
              Title 17--Commodity and Securities Exchanges
 
          I  Commodity Futures Trading Commission (Parts 1--199)
-
-[[Page 215]]
-
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
 
@@ -18885,6 +18050,8 @@ which is published separately and revised annually.
                 Commerce (Parts 300--399)
         IV  Bureau of Immigration and Customs Enforcement, 
                 Department of Homeland Security (Parts 400--599)
+
+[[Page 206]]
 
                      Title 20--Employees' Benefits
 
@@ -18915,8 +18082,6 @@ which is published separately and revised annually.
        III  Office of National Drug Control Policy (Parts 1400--
                 1499)
 
-[[Page 216]]
-
                       Title 22--Foreign Relations
 
          I  Department of State (Parts 1--199)
@@ -18927,8 +18092,7 @@ which is published separately and revised annually.
          V  Broadcasting Board of Governors (Parts 500--599)
        VII  Overseas Private Investment Corporation (Parts 700--
                 799)
-        IX  Foreign Service Grievance Board Regulations (Parts 
-                900--999)
+        IX  Foreign Service Grievance Board (Parts 900--999)
          X  Inter-American Foundation (Parts 1000--1099)
         XI  International Boundary and Water Commission, United 
                 States and Mexico, United States Section (Parts 
@@ -18943,6 +18107,8 @@ which is published separately and revised annually.
        XVI  Japan-United States Friendship Commission (Parts 
                 1600--1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
+
+[[Page 207]]
 
                           Title 23--Highways
 
@@ -18974,9 +18140,6 @@ which is published separately and revised annually.
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
-
-[[Page 217]]
-
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
@@ -19006,6 +18169,8 @@ which is published separately and revised annually.
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
 
+[[Page 208]]
+
                            Title 25--Indians
 
          I  Bureau of Indian Affairs, Department of the Interior 
@@ -19033,9 +18198,6 @@ which is published separately and revised annually.
 
          I  Alcohol and Tobacco Tax and Trade Bureau, Department 
                 of the Treasury (Parts 1--399)
-
-[[Page 218]]
-
         II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
                 Department of Justice (Parts 400--699)
 
@@ -19062,6 +18224,9 @@ which is published separately and revised annually.
                 0--99)
             Subtitle B--Regulations Relating to Labor
          I  National Labor Relations Board (Parts 100--199)
+
+[[Page 209]]
+
         II  Office of Labor-Management Standards, Department of 
                 Labor (Parts 200--299)
        III  National Railroad Adjustment Board (Parts 300--399)
@@ -19086,8 +18251,6 @@ which is published separately and revised annually.
                 (Parts 2700--2799)
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
-
-[[Page 219]]
 
                       Title 30--Mineral Resources
 
@@ -19121,6 +18284,9 @@ which is published separately and revised annually.
                 the Treasury (Parts 700--799)
       VIII  Office of International Investment, Department of the 
                 Treasury (Parts 800--899)
+
+[[Page 210]]
+
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
 
@@ -19145,9 +18311,6 @@ which is published separately and revised annually.
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
-
-[[Page 220]]
-
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
 
@@ -19178,6 +18341,9 @@ which is published separately and revised annually.
                 Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
                 Education (Parts 600--699)
+
+[[Page 211]]
+
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
@@ -19205,9 +18371,6 @@ which is published separately and revised annually.
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
-
-[[Page 221]]
-
        XVI  Morris K. Udall Scholarship and Excellence in National 
                 Environmental Policy Foundation (Parts 1600--1699)
 
@@ -19235,6 +18398,9 @@ which is published separately and revised annually.
                   Title 40--Protection of Environment
 
          I  Environmental Protection Agency (Parts 1--1099)
+
+[[Page 212]]
+
         IV  Environmental Protection Agency and Department of 
                 Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
@@ -19263,9 +18429,6 @@ which is published separately and revised annually.
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
-
-[[Page 222]]
-
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
@@ -19292,6 +18455,9 @@ which is published separately and revised annually.
 
          I  Public Health Service, Department of Health and Human 
                 Services (Parts 1--199)
+
+[[Page 213]]
+
         IV  Centers for Medicare & Medicaid Services, Department 
                 of Health and Human Services (Parts 400--499)
          V  Office of Inspector General-Health Care, Department of 
@@ -19315,8 +18481,6 @@ which is published separately and revised annually.
                 Homeland Security (Parts 0--399)
         IV  Department of Commerce and Department of 
                 Transportation (Parts 400--499)
-
-[[Page 223]]
 
                        Title 45--Public Welfare
 
@@ -19346,6 +18510,9 @@ which is published separately and revised annually.
                 (Parts 1100--1199)
        XII  Corporation for National and Community Service (Parts 
                 1200--1299)
+
+[[Page 214]]
+
       XIII  Office of Human Development Services, Department of 
                 Health and Human Services (Parts 1300--1399)
        XVI  Legal Services Corporation (Parts 1600--1699)
@@ -19373,9 +18540,6 @@ which is published separately and revised annually.
                       Title 47--Telecommunication
 
          I  Federal Communications Commission (Parts 0--199)
-
-[[Page 224]]
-
         II  Office of Science and Technology Policy and National 
                 Security Council (Parts 200--299)
        III  National Telecommunications and Information 
@@ -19385,7 +18549,8 @@ which is published separately and revised annually.
            Title 48--Federal Acquisition Regulations System
 
          1  Federal Acquisition Regulation (Parts 1--99)
-         2  Department of Defense (Parts 200--299)
+         2  Defense Acquisition Regulations System, Department of 
+                Defense (Parts 200--299)
          3  Department of Health and Human Services (Parts 300--
                 399)
          4  Department of Agriculture (Parts 400--499)
@@ -19400,6 +18565,9 @@ which is published separately and revised annually.
         13  Department of Commerce (Parts 1300--1399)
         14  Department of the Interior (Parts 1400--1499)
         15  Environmental Protection Agency (Parts 1500--1599)
+
+[[Page 215]]
+
         16  Office of Personnel Management, Federal Employees 
                 Health Benefits Acquisition Regulation (Parts 
                 1600--1699)
@@ -19408,7 +18576,7 @@ which is published separately and revised annually.
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
-        21  Office of Personnel Management, Federal Employees 
+        21  Office of Personnel Management, Federal Employees' 
                 Group Life Insurance Federal Acquisition 
                 Regulation (Parts 2100--2199)
         23  Social Security Administration (Parts 2300--2399)
@@ -19427,9 +18595,6 @@ which is published separately and revised annually.
                 5100--5199)
         52  Department of the Navy Acquisition Regulations (Parts 
                 5200--5299)
-
-[[Page 225]]
-
         53  Department of the Air Force Federal Acquisition 
                 Regulation Supplement (Parts 5300--5399)
         54  Defense Logistics Agency, Department of Defense (Parts 
@@ -19456,6 +18621,9 @@ which is published separately and revised annually.
                 Transportation (Parts 200--299)
        III  Federal Motor Carrier Safety Administration, 
                 Department of Transportation (Parts 300--399)
+
+[[Page 216]]
+
         IV  Coast Guard, Department of Homeland Security (Parts 
                 400--499)
          V  National Highway Traffic Safety Administration, 
@@ -19468,7 +18636,7 @@ which is published separately and revised annually.
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
         XI  Research and Innovative Technology Administration, 
-                Department of Transportation (Parts 1400--1499)
+                Department of Transportation [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
 
@@ -19481,9 +18649,6 @@ which is published separately and revised annually.
                 Commerce (Parts 200--299)
        III  International Fishing and Related Activities (Parts 
                 300--399)
-
-[[Page 226]]
-
         IV  Joint Regulations (United States Fish and Wildlife 
                 Service, Department of the Interior and National 
                 Marine Fisheries Service, National Oceanic and 
@@ -19503,7 +18668,7 @@ which is published separately and revised annually.
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 227]]
+[[Page 217]]
 
 
 
@@ -19514,7 +18679,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of July 1, 2005)
+                      (Revised as of July 1, 2007)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -19576,7 +18741,7 @@ American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 
-[[Page 228]]
+[[Page 218]]
 
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -19640,6 +18805,7 @@ Consumer Product Safety Commission                5, LXXI; 16, II
 Cooperative State Research, Education, and        7, XXXIV
      Extension Service
 Copyright Office                                  37, II
+Copyright Royalty Board                           37, III
 Corporation for National and Community Service    45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
@@ -19650,16 +18816,16 @@ Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
 
-[[Page 229]]
+[[Page 219]]
 
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
+  Defense Acquisition Regulations System          48, II
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Federal Acquisition Regulation                  48, 2
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 32, I
@@ -19723,7 +18889,7 @@ Executive Office of the President                 3, I
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
 
-[[Page 230]]
+[[Page 220]]
 
   Trade Representative, Office of the United      15, XX
        States
@@ -19793,14 +18959,13 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-General Accounting Office                         4, I
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
-
-[[Page 231]]
-
   Federal Management Regulation                   41, 102
+
+[[Page 221]]
+
   Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
@@ -19811,6 +18976,7 @@ General Services Administration                   5, LVII; 41, 105
   Relocation Allowances                           41, 302
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
+Government Accountability Office                  4, I
 Government Ethics, Office of                      5, XVI
 Government National Mortgage Association          24, III
 Grain Inspection, Packers and Stockyards          7, VIII; 9, II
@@ -19821,6 +18987,7 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Child Support Enforcement, Office of            45, III
   Children and Families, Administration for       45, II, III, IV, X
   Community Services, Office of                   45, X
+  Defense Acquisition Regulations System          48, 2
   Family Assistance, Office of                    45, II
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
@@ -19871,11 +19038,10 @@ Indian Health Service                             25, V; 42, I
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
-     Archives and Records Administration
+   Archives and Records Administration
+[[Page 222]]
+
 Inspector General
-
-[[Page 232]]
-
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
   Housing and Urban Development Department        24, XII
@@ -19952,10 +19118,10 @@ Labor Department                                  5, XLII
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
   Public Contracts                                41, 50
+
+[[Page 223]]
+
   Secretary of Labor, Office of                   29, Subtitle A
-
-[[Page 233]]
-
   Veterans' Employment and Training Service,      41, 61; 20, IX
        Office of the Assistant Secretary for
   Wage and Hour Division                          29, V
@@ -19965,6 +19131,7 @@ Land Management, Bureau of                        43, II
 Legal Services Corporation                        45, XVI
 Library of Congress                               36, VII
   Copyright Office                                37, II
+  Copyright Royalty Board                         37, III
 Local Television Loan Guarantee Board             7, XX
 Management and Budget, Office of                  5, III, LXXVII; 14, VI; 
                                                   48, 99
@@ -20025,11 +19192,12 @@ Natural Resources Conservation Service            7, VI
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
+
+[[Page 224]]
+
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Interstate Low-Level Radioactive Waste  10, XVIII
-   Commission
-[[Page 234]]
-
+     Commission
 Nuclear Regulatory Commission                     5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
@@ -20102,12 +19270,12 @@ Surface Mining Reclamation and Enforcement,       30, VII
      Office of
 Surface Transportation Board                      49, X
 Susquehanna River Basin Commission                18, VIII
+
+[[Page 225]]
+
 Technology Administration                         15, XI
 Technology Policy, Assistant Secretary for        37, IV
 Technology, Under Secretary for                   37, V
-
-[[Page 235]]
-
 Tennessee Valley Authority                        5, LXIX; 18, XIII
 Thrift Supervision Office, Department of the      12, V
      Treasury
@@ -20170,7 +19338,7 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 237]]
+[[Page 227]]
 
 
 <R03>
@@ -20199,5 +19367,89 @@ Chapter 101
     Technical correction...........................................39560
 101-6.000--101-6.4902 (Subpart 101-6) Authority citation revised 
                                                                     5358
-101-6.300 (g) added.....................................
+101-6.300 (g) added.................................................5358
+101-6.600 Existing text designated as (a); (b) added................5358
+101-11 (Subchapter B) Added........................................48358
+101-17.0 (Subpart 101-17) Revised...................................5358
+101-18.000--101-18.203 (Subpart 101-18) Authority citation revised
+                                                                    5358
+101-18.000 Existing text designated as (a); (b) added...............5358
+101-19.000--101-19.607 (Part 101-19) Authority citation revised.....5358
+101-19.000 Existing text designated as (a); (b) added...............5358
+101-20.000--101-20.502 (Part 101-20) Authority citation revised.....5359
+101-20.000 Existing text designated as (a); (b) added...............5359
+101-20.102 (e) removed; interim....................................23169
+101-21 Revised; interim............................................23169
+101-16--101-21 (Subchapter D) Appendix amended......................5359
+101-33.000--101-33.306 (Part 101-33) Authority citation revised.....5359
+101-33.000 Existing text designated as (a); (b) added...............5359
+101-46 Revised.....................................................48614
+101-47.000--101-47.4914 (Part 101-47) Authority citation revised 
+                                                                    5359
+101-47.000 Existing text designated as (a); (b) added...............5359
+
+                                  2002
+
+41 CFR
+                                                                   67 FR
+                                                                    Page
+Chapter 101
+101-3 Regulation at 66 FR 55594 confirmed..........................11425
+101-5.200--101-5.205-4 (Subpart 101-5.2) Removed...................78732
+101-6.300--101-6.305 (Subpart 101-6.3) Revised.....................78732
+101-6.600--101-6.605 (Subpart 101-6.6) Revised.....................78732
+101-9 Revised; interim.............................................38897
+101-17--101-21 (Subchapter D) Appendix amended.....................76883
+101-18 Revised.....................................................76882
+101-19 Revised.....................................................76883
+101-20 Revised.....................................................76883
+101-25.103-2 Removed...............................................17650
+101-33 Revised.....................................................76883
+101-37 Authority citation revised..................................67743
+101-37.000 Revised.................................................67743
+101-37.200--101-37.205 (Subpart 101-37.2) Removed..................67743
+101-37.300--101-37.305 (Subpart 101-37.3) Removed..................67743
+101-37.500--101-37.506 (Subpart 101-37.5) Removed..................67743
+101-37.600--101-37.610 (Subpart 101-37.6) Removed..................67743
+
+[[Page 228]]
+
+101-37.1100--101-37.1109 (Subpart 101-37.11) Removed...............67743
+101-37.1200--101-37.1214 (Subpart 101-37.12) Removed...............67743
+101-37.1400--101-37.1401 (Subpart 101-37.14) Removed...............67743
+101-44 Revised......................................................2584
+101-47 Revised.....................................................76883
+
+                                  2003
+
+41 CFR
+                                                                   68 FR
+                                                                    Page
+Chapter 101
+101-6.201 Amended..................................................51373
+101-6.203 (a), (b) and (c) amended.................................51373
+101-6.204-2 (a)(4) amended.........................................51373
+101-6.204-3 Amended; heading revised...............................51373
+101-6.205-1 (a), (b) and (d) amended...............................51373
+101-6.205-2 Amended; heading revised...............................51373
+101-6.205-4 (b) revised; (c) amended...............................51373
+101-6.206 (b) and (d) amended......................................51373
+101-6.209-2 Amended................................................51373
+101-6.209-4 Amended................................................51373
+101-6.212-5 Amended................................................51373
+101-6.213-6 Amended................................................51373
+101-6.215-1 Introductory text amended..............................51373
+101-6.216 (f) revised; (h) and (i) amended.........................51373
+    (f)(3)(ii) corrected...........................................56560
+101-8 Heading revised..............................................51374
+    Technical correction...........................................57730
+101-8.300 (b) amended..............................................51374
+101-8.301 (f) added................................................51374
+101-8.302 Amended..................................................51374
+101-8.303 (a)(5), (c), (d)(2), (f), (g) and (h) amended............51374
+101-8.305 (c) and (d)(8) amended...................................51374
+101-8.306 (a), (c) introductory text and (1) amended...............51374
+101-8.309 Heading and (b) heading revised; (a), (b), (c) and 
+        (f)(3) amended.............................................51374
+101-8.311 Hea
 </pre></body></html>

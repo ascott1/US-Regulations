@@ -1,25 +1,25 @@
 <html><body><pre>
 [Title 32 CFR ]
-[Code of Federal Regulations (annual edition) - July 1, 2006 Edition]
+[Code of Federal Regulations (annual edition) - July 1, 2007 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-
+          
 <R02>
           32
 
 
           Part 800 to End
 
-                         Revised as of July 1, 2006
+                         Revised as of July 1, 2007
 
 
           National Defense
           
-          <R03>
+<R03>
 
 
 ________________________
@@ -27,7 +27,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of July 1, 2006
+          As of July 1, 2007
           With Ancillaries
                     Published by
                     Office of the Federal Register
@@ -105,20 +105,20 @@ ________________________
           Chapter XIX--Central Intelligence Agency                 413
           Chapter XX--Information Security Oversight Office, 
           National Archives and Records Administration             465
-          Chapter XXI--National Security Council                   517
+          Chapter XXI--National Security Council                   513
           Chapter XXIV--Office of Science and Technology 
-          Policy                                                   527
+          Policy                                                   523
           Chapter XXVII--Office for Micronesian Status 
-          Negotiations                                             543
+          Negotiations                                             539
           Chapter XXVIII--Office of the Vice President of the 
-          United States                                            553
+          United States                                            549
+  Finding Aids:
+      Table of CFR Titles and Chapters........................     563
+      Alphabetical List of Agencies Appearing in the CFR......     581
 
 [[Page iv]]
 
-  Finding Aids:
-      Table of CFR Titles and Chapters........................     567
-      Alphabetical List of Agencies Appearing in the CFR......     585
-      List of CFR Sections Affected...........................     595
+      List of CFR Sections Affected...........................     591
 
 [[Page v]]
 
@@ -174,7 +174,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, July 1, 2006), consult the ``List of CFR 
+revision date (in this case, July 1, 2007), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -282,7 +282,7 @@ register. The NARA site also contains links to GPO Access.
                                     Director,
                           Office of the Federal Register.
 
-July 1, 2006.
+July 1, 2007.
 
 [[Page ix]]
 
@@ -308,9 +308,9 @@ Council, Office of Science and Technology Policy, Office for Micronesian
 Status Negotiations, and Office of the Vice President of the United 
 States appear in the volume containing parts 800 to end.
 
-    For this volume, Ruth Green was Chief Editor. The Code of Federal 
+    For this volume, Jonn Lilyea was Chief Editor. The Code of Federal 
 Regulations publication program is under the direction of Frances D. 
-McDonald, assisted by Alomha S. Morris.
+McDonald, assisted by Ann Worley.
 
 [[Page 1]]
 
@@ -363,13 +363,16 @@ chapter xxviii--Office of the Vice President of the United
                 CHAPTER VII--DEPARTMENT OF THE AIR FORCE
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 
                       SUBCHAPTER A--ADMINISTRATION
 Part                                                                Page
-800             [Reserved]
+800
+
+[Reserved]
+
 806             Air Force Freedom of Information Act program           7
 806b            Privacy Act program.........................          36
 807             Sale to the public..........................          70
@@ -408,7 +411,9 @@ Part                                                                Page
                     civilian authorities for trial..........         201
 887             Issuing of certificates in lieu of lost or 
                     destroyed certificates of separation....         207
-888-888g        [Reserved]
+888-888g
+
+[Reserved]
 
                SUBCHAPTER J--CIVILIAN PERSONNEL [RESERVED]
                SUBCHAPTER K--MILITARY TRAINING AND SCHOOLS
@@ -429,14 +434,10 @@ Part                                                                Page
 <R03>
                        SUBCHAPTER A_ADMINISTRATION
 
-
-
                            PART 800 [RESERVED]
 
 
-<R03>
 PART 806_AIR FORCE FREEDOM OF INFORMATION ACT PROGRAM--Table of Contents
-
 
 
 
@@ -2610,6 +2611,7 @@ heard anything from Bob Battle.'' (Exemptions 6 and 7)
 
 <R05>
 Sec. 806.31  Requirements of 5 U.S.C. 552(b)(4) to submitters of 
+
 nongovernment contract-related information.
 
     (a) The FOIA requires federal agencies to provide their records, 
@@ -2842,7 +2844,7 @@ Redact--To remove nonreleasable material.
 <R03>
 PART 806b_PRIVACY ACT PROGRAM--Table of Contents
 
-
+<R05>
 
 
               Subpart A_Overview of the Privacy Act Program
@@ -3616,8 +3618,9 @@ is not subject to amendment procedures.
 
 
 <R05>
-Sec. 806b.27  When to include a Privacy Act warning statement in 
-publications.
+Sec. 806b.27  When to include a Privacy Act warning statement 
+
+in publications.
 
     Include a Privacy Act Warning Statement in each Air Force 
 publication that requires collecting or keeping information in a system 
@@ -4093,6 +4096,7 @@ or proposed use.
 
 <R05>
 Sec. 806b.47  Rules for releasing Privacy Act information without 
+
 consent of the subject.
 
     The Privacy Act prohibits disclosing personal information to anyone 
@@ -4353,8 +4357,9 @@ Officer/P for coordination.
 
 
 <R05>
-Sec. 806b.54  Information collections, records, and forms or information 
-management tools (IMT).
+Sec. 806b.54  Information collections, records, and forms or 
+
+information management tools (IMT).
 
     (a) Information Collections. No information collections are required 
 by this publication.
@@ -5526,9 +5531,9 @@ exempt materials from other systems of records may in turn become part
 of the case record in this system. To the extent that copies of exempt 
 records from those `other' systems of records are entered into this 
 system, the Department of the Air Force hereby claims the same 
-exemptions for the records from those `other7rsquo; systems that are 
-entered into this system, as claimed for the original primary system of 
-which they are a part.
+exemptions for the records from those `other' systems that are entered 
+into this system, as claimed for the original primary system of which 
+they are a part.
     (ii) Authority: 5 U.S.C. 552a(j)(2), (k)(1), (k)(2), (k)(3), (k)(4), 
 (k)(5), (k)(6), and (k)(7).
     (iii) Reason: Records are only exempt from pertinent provisions of 5 
@@ -6021,7 +6026,7 @@ require amendment or revision? Explain.
 <R03>
 PART 807_SALE TO THE PUBLIC--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -6095,8 +6100,10 @@ contracting officer approves these requirements.
 
 <R05>
 Sec. 807.3  Requests for classified material, For Official Use Only 
+
 material, accountable forms, storage safeguard forms, Limited (L) 
-distribution items, and items with restrictive distribution caveats.
+distribution items, and 
+          items with restrictive distribution caveats.
 
     (a) Classified material. The unit receiving the requests should tell 
 the requester that the Air Force cannot authorize the material for 
@@ -6164,10 +6171,12 @@ procedures for depositing them.
 
 
 <R03>
-PART 809a_INSTALLATION ENTRY POLICY, CIVIL DISTURBANCE INTERVENTION AND 
-DISASTER ASSISTANCE--Table of Contents
+PART 809a_INSTALLATION ENTRY POLICY, CIVIL DISTURBANCE INTERVENTION
 
 
+AND DISASTER ASSISTANCE--Table of Contents
+
+<R05>
 
 
 Sec.
@@ -6419,14 +6428,15 @@ host nation civil or military support as quickly as possible.
 <R03>
                      SUBCHAPTER B_SALES AND SERVICES
 
-
+<R05>
 
 
 <R03>
-PART 811_RELEASE, DISSEMINATION, AND SALE OF VISUAL INFORMATION MATERIALS
---Table of Contents
+PART 811_RELEASE, DISSEMINATION, AND SALE OF VISUAL INFORMATION 
 
+MATERIALS--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -6475,7 +6485,8 @@ governments and international organizations or their representatives.
 
 
 <R05>
-Sec. 811.3  Official requests for visual information productions or 
+Sec. 811.3  Official requests for visual information productions or
+
 materials.
 
     (a) Send official Air Force requests for productions or materials 
@@ -6613,7 +6624,7 @@ http://www.defenselink.mil/pubs.
 <R03>
 PART 813_VISUAL INFORMATION DOCUMENTATION PROGRAM--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -6631,7 +6642,8 @@ Sec.
 
 
 <R05>
-Sec. 813.1  Purpose of the visual information documentation (VIDOC) 
+Sec. 813.1  Purpose of the visual information documentation (VIDOC)
+
 program.
 
     Using various visual and audio media, the Air Force VIDOC program 
@@ -6795,7 +6807,8 @@ teams.
 
 
 <R05>
-Sec. 813.5  Shipping or transmitting visual information documentation 
+Sec. 813.5  Shipping or transmitting visual information documentation
+
 images.
 
     (a) COMCAM images. Send COMCAM images to the DoD Joint Combat Camera 
@@ -6847,7 +6860,7 @@ Training System, for specific information and reporting criteria.
 <R03>
                 SUBCHAPTER C_PUBLIC RELATIONS [RESERVED]
 
-
+<R05>
 
 [[Page 81]]
 
@@ -6855,14 +6868,15 @@ Training System, for specific information and reporting criteria.
 <R03>
                    SUBCHAPTER D_CLAIMS AND LITIGATION
 
-
+<R05>
 
 
 <R03>
-PART 841_LICENSING GOVERNMENT-OWNED INVENTIONS IN THE CUSTODY OF THE 
-DEPARTMENT OF THE AIR FORCE--Table of Contents
+PART 841_LICENSING GOVERNMENT-OWNED INVENTIONS IN THE
 
+CUSTODY OF THE DEPARTMENT OF THE AIR FORCE--Table of Contents
 
+<R05>
 
 
                       Subpart A_General Information
@@ -7276,6 +7290,7 @@ objection is received within 60 days.
 
 <R05>
 Sec. 841.15  Determination to grant or deny exclusive or partially 
+
 exclusive licenses.
 
     (a) After the notice is published in the Federal Register that a 
@@ -7380,7 +7395,7 @@ under 5 U.S.C. 552.
 <R03>
 PART 842_ADMINISTRATIVE CLAIMS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -7498,7 +7513,7 @@ Sec.
 842.80 Reconsideration of final denial.
 842.81 Settlement agreement.
 
-  Subpart J_Admiralty Claims (10 U.S.C. 9801-9804, 9806; 46 U.S.C. 740)
+  Subpart J_Admiralty Claims (10 U.S.C. 9801	9804, 9806; 46 U.S.C. 740)
 
 842.82 Scope of this subpart.
 842.83 Definitions.
@@ -7506,7 +7521,7 @@ Sec.
 842.85 Reconsidering claims against the United States.
 
  Subpart K_Claims Under the Federal Tort Claims Act (28 U.S.C. 1346(b), 
-                      2402, 2671, 2672, 2674-2680)
+                      2402, 2671, 2672, 2674	2680)
 
 842.86 Scope of this subpart.
 842.87 Definitions.
@@ -7516,7 +7531,7 @@ Sec.
 842.91 Settlement agreements.
 
 Subpart L_Property Damage Tort Claims in Favor of the United States (31 
-                         U.S.C. 3701, 3711-3719)
+                         U.S.C. 3701, 3711	3719)
 
 842.92 Scope of this subpart.
 842.93 Delegations of authority.
@@ -7548,7 +7563,7 @@ Subpart L_Property Damage Tort Claims in Favor of the United States (31
 842.113 Government's right of subrogation, indemnity, and contribution.
 842.114 Attorney fees.
 
-        Subpart N_Hospital Recovery Claims (42 U.S.C. 2651-2653)
+        Subpart N_Hospital Recovery Claims (42 U.S.C. 2651	2653)
 
 842.115 Scope of this subpart.
 842.116 Definitions.
@@ -7577,7 +7592,7 @@ Subpart L_Property Damage Tort Claims in Favor of the United States (31
 842.136 Claim payments and deposits.
 
     Subpart P_Civil Air Patrol Claims (5 U.S.C. 8101(1)(B), 8102(a), 
-         8116(c), 8141; 10 U.S.C. 9441, 9442; 36 U.S.C. 201-208)
+         8116(c), 8141; 10 U.S.C. 9441, 9442; 36 U.S.C. 201	208)
 
 842.137 Scope of this subpart.
 842.138 Definitions.
@@ -9689,7 +9704,7 @@ effect.
 
 
 <R04>
-  Subpart J_Admiralty Claims (10 U.S.C. 9801-9804, 9806; 46 U.S.C. 740)
+  Subpart J_Admiralty Claims (10 U.S.C. 9801	9804, 9806; 46 U.S.C. 740)
 
 
 <R05>
@@ -9772,7 +9787,7 @@ subpart.
 
 <R04>
  Subpart K_Claims Under the Federal Tort Claims Act (28 U.S.C. 1346(b), 
-                      2402, 2671, 2672, 2674-2680)
+                      2402, 2671, 2672, 2674	2680)
 
 
 <R05>
@@ -9907,7 +9922,7 @@ before any payment is made.
 
 <R04>
 Subpart L_Property Damage Tort Claims in Favor of the United States (31 
-                         U.S.C. 3701, 3711-3719)
+                         U.S.C. 3701, 3711	3719)
 
 
 <R05>
@@ -10013,8 +10028,9 @@ to contact.
 
 
 <R05>
-Sec. 842.97  Referring a claim to the US Attorney or the Department of 
-Justice.
+Sec. 842.97  Referring a claim to the US Attorney or the Department 
+
+of Justice.
 
     All claims must be authorized for referral by HQ USAF/JACC prior to 
 being sent to either the US Attorney or the Department of Justice. All 
@@ -10478,6 +10494,7 @@ administrative action on the claim.
 
 <R05>
 Sec. 842.113  Government's right of subrogation, indemnity, and 
+
 contribution.
 
     The Air Force becomes subrogated to the rights of the claimant upon 
@@ -10500,7 +10517,7 @@ not its future value.
 
 
 <R04>
-        Subpart N_Hospital Recovery Claims (42 U.S.C. 2651-2653)
+        Subpart N_Hospital Recovery Claims (42 U.S.C. 2651	2653)
 
 
 <R05>
@@ -10939,8 +10956,9 @@ further correspondence to the NAFI paying the claim.
 
 
 <R05>
-Sec. 842.133  Claims by customers, members, participants, or authorized 
-users.
+Sec. 842.133  Claims by customers, members, participants, or 
+
+authorized users.
 
     (a) Customer complaints. Do not automatically adjudicate customer 
 complaint claims until a determination is made that a valid claim 
@@ -11024,7 +11042,7 @@ payment of its pro rata share to the sending State office.
 
 <R04>
     Subpart P_Civil Air Patrol Claims (5 U.S.C. 8101(1)(B), 8102(a), 
-         8116(c), 8141; 10 U.S.C. 9441, 9442; 36 U.S.C. 201-208)
+         8116(c), 8141; 10 U.S.C. 9441, 9442; 36 U.S.C. 201	208)
 
 
 <R05>
@@ -11223,10 +11241,11 @@ lawsuit.
 
 
 <R03>
-PART 845_COUNSEL FEES AND OTHER EXPENSES IN FOREIGN TRIBUNALS--Table of 
-Contents
+PART 845_COUNSEL FEES AND OTHER EXPENSES IN FOREIGN 
 
+TRIBUNALS--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -11311,8 +11330,9 @@ adjudged sentence, if any.
 
 
 <R05>
-Sec. 845.4  Criteria for the provision of counsel and payment of expenses 
-in criminal cases.
+Sec. 845.4  Criteria for the provision of counsel and payment of
+
+expenses in criminal cases.
 
     Requests for the provision of counsel and payment of expenses in 
 criminal cases may be approved in pretrial, trial, appellate and 
@@ -11351,6 +11371,7 @@ efforts have been made to secure release of pretrial custody to the US.
 
 <R05>
 Sec. 845.6  Criteria for the provision of counsel and payment of 
+
 expenses in civil cases.
 
     Requests for provision of counsel and payment of expenses in civil 
@@ -11498,7 +11519,7 @@ payment of counsel fees and other expenses.
 <R03>
                     SUBCHAPTER E_SECURITY [RESERVED]
 
-
+<R05>
 
 [[Page 134]]
 
@@ -11506,14 +11527,15 @@ payment of counsel fees and other expenses.
 <R03>
                           SUBCHAPTER F_AIRCRAFT
 
-
+<R05>
 
 
 <R03>
-PART 855_CIVIL AIRCRAFT USE OF UNITED STATES AIR FORCE AIRFIELDS--Table 
-of Contents
+PART 855_CIVIL AIRCRAFT USE OF UNITED STATES AIR FORCE 
 
+AIRFIELDS--Table of Contents
 
+<R05>
 
 
                       Subpart A_General Provisions
@@ -11816,7 +11838,8 @@ to this part, before the aircraft operates into the Air Force airfield.
 
 
 <R05>
-Sec. 855.6  Aircraft exempt from the requirement for a civil aircraft 
+Sec. 855.6  Aircraft exempt from the requirement for a civil aircraft
+
 landing permit.
 
     (a) Any aircraft owned by:
@@ -13728,10 +13751,11 @@ DATE____________________________________________________________________
 
 
 <R03>
-PART 861_DEPARTMENT OF DEFENSE COMMERCIAL AIR TRANSPORTATION QUALITY AND 
-SAFETY REVIEW PROGRAM--Table of Contents
+PART 861_DEPARTMENT OF DEFENSE COMMERCIAL AIR TRANSPORTATION QUALITY 
 
+AND SAFETY REVIEW PROGRAM--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -14670,6 +14694,8 @@ the extent directed by the CARB or higher authority.
 
 <R05>
 Sec. 861.7  Disclosure of voluntarily provided safety-related 
+
+
 information.
 
     (a) General. In accordance with paragraph (h) of the reference in 
@@ -14702,13 +14728,13 @@ information unless specifically authorized.
 <R03>
               SUBCHAPTER G_ORGANIZATION AND MISSION_GENERAL
 
-
+<R05>
 
 
 <R03>
 PART 865_PERSONNEL REVIEW BOARDS--Table of Contents
 
-
+<R05>
 
 
       Subpart A_Air Force Board for Correction of Military Records
@@ -16121,6 +16147,7 @@ set forth in the service record portion of the decisional document.
 
 <R05>
 Sec. 865.113  Recommendations by the Director of the Personnel Council 
+
 and Secretarial Review Authority.
 
     (a) The Director of the Personnel Council may forward cases for 
@@ -16388,8 +16415,9 @@ notation as to the place where the record is stored.
 
 
 <R05>
-Sec. 865.118  Availability of Discharge Review Board documents for public 
-inspection and copying.
+Sec. 865.118  Availability of Discharge Review Board documents for
+
+public inspection and copying.
 
     (a) A copy of the decisional document prepared in accordance with 
 Sec. 865.114 of this subpart, shall be made available for public 
@@ -16621,7 +16649,8 @@ records or other evidence.
 
 
 <R05>
-Sec. 865.121  Complaints concerning decisional documents and index 
+Sec. 865.121  Complaints concerning decisional documents and index
+
 entries.
 
     Former members of the Air Force or their counsel or representative 
@@ -16723,7 +16752,7 @@ Note: Identify numbers separately for regional DRB hearings. Use of additional f
 <R03>
                          SUBCHAPTER H [RESERVED]
 
-
+<R05>
 
 [[Page 199]]
 
@@ -16731,14 +16760,15 @@ Note: Identify numbers separately for regional DRB hearings. Use of additional f
 <R03>
                      SUBCHAPTER I_MILITARY PERSONNEL
 
-
+<R05>
 
 
 <R03>
 PART 881_DETERMINATION OF ACTIVE MILITARY SERVICE AND DISCHARGE FOR 
+
 CIVILIAN OR CONTRACTUAL GROUPS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -16964,10 +16994,11 @@ benefits under 38 U.S.C. 106.
 
 
 <R03>
-PART 884_DELIVERY OF PERSONNEL TO UNITED STATES CIVILIAN AUTHORITIES FOR 
-TRIAL--Table of Contents
+PART 884_DELIVERY OF PERSONNEL TO UNITED STATES CIVILIAN AUTHORITIES
 
+FOR TRIAL--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -17122,7 +17153,8 @@ therefore inapplicable to members in pretrial confinement.
 
 
 <R05>
-Sec. 884.6  Requests by Federal authorities for military personnel 
+Sec. 884.6  Requests by Federal authorities for military personnel
+
 stationed within the United States and its possessions.
 
     (a) When Federal authorities request the delivery of service 
@@ -17137,8 +17169,9 @@ statement in substantially the form set out in Sec. 884.18.
 
 
 <R05>
-Sec. 884.7  Requests by state and local authorities when the requested 
-member is located in that state.
+Sec. 884.7  Requests by state and local authorities when the
+
+requested member is located in that state.
 
     (a) The Air Force normally will turn over to the civilian 
 authorities of the state, upon their request. Air Force members charged 
@@ -17169,8 +17202,9 @@ discharged from the Air Force.
 
 
 <R05>
-Sec. 884.8  Request for delivery by state authorities when the member 
-is located in a different state.
+Sec. 884.8  Request for delivery by state authorities when the 
+
+member is located in a different state.
 
     (a) This part applies to members who are located in the United 
 States. With respect to the extradition process, Air Force personnel 
@@ -17186,8 +17220,9 @@ making the member amenable to prosecution by civilian authorities.
 
 
 <R05>
-Sec. 884.9  Requests for custody of members stationed outside the United 
-States.
+Sec. 884.9  Requests for custody of members stationed outside the 
+
+United States.
 
     (a) Authority. This section implements Pub. L. 100-456, section 
 721(a), and DoD Directive 5525.9, December 27, 1988.
@@ -17244,6 +17279,8 @@ cause for noncompliance.\4\
 
 <R05>
 Sec. 884.10  Returning members, employees, and family members from 
+
+
 overseas.
 
     The Air Force expects persons overseas wanted by Federal or state 
@@ -17257,8 +17294,9 @@ employees, and family members from overseas.
 
 
 <R05>
-Sec. 884.11  Procedures for return of an Air Force member to the United 
-States.
+Sec. 884.11  Procedures for return of an Air Force member to the 
+
+United States.
 
     (a) Include the following information in a request for return of an 
 Air Force member to the United States for delivery to civilian 
@@ -17348,8 +17386,9 @@ under AFPD 51-10, paragraph 3, unless approved by USD/P&R.
 
 
 <R05>
-Sec. 884.13  Denials of a request for return of a member to the United 
-States.
+Sec. 884.13  Denials of a request for return of a member to the 
+
+United States.
 
     (a) A request for return of a member to the United States for 
 delivery to civilian authorities may be denied when:
@@ -17377,6 +17416,8 @@ denial in determining whether to grant a delay.
 
 <R05>
 Sec. 884.14  Compliance with court orders by civilian employees and 
+
+
 family members.
 
     (a) The Air Force expects civilian employees and family members to 
@@ -17398,8 +17439,10 @@ state court of competent jurisdiction.
 
 <R05>
 Sec. 884.15  Procedures involving a request by Federal or state 
+
 authorities for custody of an overseas civilian employee or a 
-command-sponsored family member.
+command-sponsored family
+member.
 
     (a) The procedures of this section apply to civilian employees, 
 including nonappropriated fund instrumentality (NAFI) employees, who are 
@@ -17465,7 +17508,8 @@ instruction will then be given to you.
 
 
 <R05>
-Sec. 884.18  Civilian authority's acknowledgment of transfer of custody 
+Sec. 884.18  Civilian authority's acknowledgment of transfer of custody
+
 and agreement to notify member's commander.
 
     1. A warrant for the arrest of (name, rank, and SSN), hereinafter 
@@ -17497,9 +17541,10 @@ recruiting office nearest place of trial] will be notified.
 
 <R03>
 PART 887_ISSUING OF CERTIFICATES IN LIEU OF LOST OR DESTROYED 
+
 CERTIFICATES OF SEPARATION--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -17639,7 +17684,8 @@ grade of master sergeant or above, or a civilian in grade GS-7 or above.
 
 
 <R05>
-Sec. 887.7  Persons separated under other than honorable conditions 
+Sec. 887.7  Persons separated under other than honorable conditions
+
 (undesirable or bad conduct) or dishonorable discharge.
 
     Those persons whose character of service was under other than 
@@ -17709,13 +17755,13 @@ their equivalent) will conspicuously affix an ``official'' seal or stamp
 on them to indicate that these documents are copies made from official 
 United States Air Force military personnel records.
 
-                        PARTS 888-888g [RESERVED]
+                        PARTS 888	888g [RESERVED]
 
 
 <R03>
                SUBCHAPTER J_CIVILIAN PERSONNEL [RESERVED]
 
-
+<R05>
 
 [[Page 210]]
 
@@ -17723,14 +17769,15 @@ United States Air Force military personnel records.
 <R03>
                SUBCHAPTER K_MILITARY TRAINING AND SCHOOLS
 
-
+<R05>
 
 
 <R03>
-PART 901_APPOINTMENT TO THE UNITED STATES AIR FORCE ACADEMY--Table of 
-Contents
+PART 901_APPOINTMENT TO THE UNITED STATES AIR FORCE 
 
+ACADEMY--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -18080,8 +18127,9 @@ proceedings were initiated before their 15th birthday.
 
 
 <R05>
-Sec. 901.11  Children of deceased or disabled veterans and children of 
-military or civilian personnel in a missing status category.
+Sec. 901.11  Children of deceased or disabled veterans and children 
+
+of military or civilian personnel in a missing status category.
 
     Appointments to fill vacancies from this competitive category are 
 made from candidates in order of merit. Appointments authorized in this 
@@ -18110,8 +18158,9 @@ proceedings were initiated before the 15th birthday.
 
 
 <R05>
-Sec. 901.12  Honor military and honor Naval schools--AFROTC and AFJROTC 
-category.
+Sec. 901.12  Honor military and honor Naval schools--AFROTC and 
+
+AFJROTC category.
 
     Appointments to fill vacancies from this competitive category are 
 made from candidates in order of merit. Twenty appointments are 
@@ -18518,7 +18567,7 @@ approved by the Office of Management and Budget under control numbers
 <R03>
 PART 903_AIR FORCE ACADEMY PREPARATORY SCHOOL--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -18735,8 +18784,9 @@ the Air Force Academy.
 
 
 <R05>
-Sec. 903.11  Reassignment of students who are disenrolled or not offered 
-an appointment to a service academy.
+Sec. 903.11  Reassignment of students who are disenrolled or not
+
+offered an appointment to a service academy.
 
     These students will be reported by USAFA/PL to USAFA/DPMU.
     (a) Regular Air Force members will be reported by USAFA/DPMU to 
@@ -18777,9 +18827,11 @@ Denver CO 80240.
 
 
 <R05>
-Sec. 903.12  Reassignment of regular and reserve members of the Air 
-Force and regular members of the Army, Navy, and Marine Corps who accept 
-an appointment to a service academy.
+Sec. 903.12  Reassignment of regular and reserve members of the Air
+
+Force and regular members of the Army, Navy, and Marine Corps who
+accept an appointment to 
+          a service academy.
 
     (a) Regular and Reserve Airmen will be released from enlisted active 
 duty and will be reassigned as active duty Air Force Academy cadets, to 
@@ -18897,9 +18949,9 @@ appropriate.
 
 
 <R03>
-                       SUBCHAPTERS L-M [RESERVED]
+                       SUBCHAPTERS L	M [RESERVED]
 
-
+<R05>
 
 [[Page 224]]
 
@@ -18907,13 +18959,13 @@ appropriate.
 <R03>
             SUBCHAPTER N_TERRITORIAL AND INSULAR REGULATIONS
 
-
+<R05>
 
 
 <R03>
 PART 935_WAKE ISLAND CODE--Table of Contents
 
-
+<R05>
 
 
                             Subpart A_General
@@ -20416,13 +20468,13 @@ prescribed by the Commander.
 <R03>
               SUBCHAPTER O_SPECIAL INVESTIGATION [RESERVED]
 
-
+<R05>
 
 
 <R03>
-                       SUBCHAPTERS P-S [RESERVED]
+                       SUBCHAPTERS P	S [RESERVED]
 
-
+<R05>
 
 [[Page 240]]
 
@@ -20430,13 +20482,13 @@ prescribed by the Commander.
 <R03>
                   SUBCHAPTER T_ENVIRONMENTAL PROTECTION
 
-
+<R05>
 
 
 <R03>
 PART 989_ENVIRONMENTAL IMPACT ANALYSIS PROCESS (EIAP)--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -20538,7 +20590,7 @@ Order, 32 CFR Part 187, and this part must be used together.
 and terms. Refer to 40 CFR 1508 for definitions of other terminology 
 used in this part.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -20830,7 +20882,7 @@ additional technical support.
 assistance to EPFs to ensure consideration of safety standards and 
 requirements.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -20900,7 +20952,7 @@ and the affected MAJCOM EPFs.
     (e) The MAJCOM of the scheduling unit managing affected airspace is 
 responsible for preparing and approving environmental analyses.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -21064,7 +21116,7 @@ actions. The form helps narrow and focus the issues to potential
 environmental impacts. AF Form 813 must be retained with the EA or EIS 
 to record the focusing of environmental issues.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -21096,7 +21148,7 @@ on AF Form 813 or elsewhere, except as noted in the CATEX list.
     (e) Application of a CATEX to an action does not eliminate the need 
 to meet air conformity requirements (see Sec. 989.30).
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -21181,7 +21233,7 @@ described in
 
 Sec. 989.18 or the public notice process in Sec.  989.24.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -21295,7 +21347,7 @@ and must also distribute it to requesting agencies, organizations, and
 individuals. Along with the draft NOI, the EPF must also forward the 
 completed DOPAA, through the MAJCOM, to HQ USAF for information.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -21329,26 +21381,27 @@ special efforts shall be made to reach these populations. This might
 include special informational meetings or notices in minority and low-
 income areas concerning the regular scoping process.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001; 66 FR 26793, 
-May 15, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001; 
+66 FR 26793, May 15, 2001]
 
 
 <R05>
 Sec. 989.19  Draft EIS.
 
     (a) Preliminary draft. The EPF supports the proponent in preparation 
-of a preliminary draft EIS (PDEIS) (40 CFR
+of a
 
 [[Page 251]]
 
-1502.9) based on the scope of issues decided on during the scoping 
-process. The format of the EIS must be in accordance with the format 
-recommended in the CEQ regulations (40 CFR 1502.10 and 1502.11). The CEQ 
-regulations indicate that EISs normally contain fewer than 150 pages 
-(300 pages for proposals of unusual complexity). The EPF provides a 
-sufficient number of copies of the PDEIS to HQ USAF/ILEB for HQ USAF 
-ESOHC security and policy review in each member's area of responsibility 
-and to AFCEE/EC for technical review.
+preliminary draft EIS (PDEIS) (40 CFR 1502.9) based on the scope of 
+issues decided on during the scoping process. The format of the EIS must 
+be in accordance with the format recommended in the CEQ regulations (40 
+CFR 1502.10 and 1502.11). The CEQ regulations indicate that EISs 
+normally contain fewer than 150 pages (300 pages for proposals of 
+unusual complexity). The EPF provides a sufficient number of copies of 
+the PDEIS to HQ USAF/ILEB for HQ USAF ESOHC security and policy review 
+in each member's area of responsibility and to AFCEE/EC for technical 
+review.
     (b) Review of draft EIS. After the HQ USAF ESOHC review, the EPF 
 assists the appropriate Air Force organization in making any necessary 
 revisions to the PDEIS and forwards it to HQ USAF/ILEB as a draft EIS to 
@@ -21403,14 +21456,15 @@ environmental controversy concerning the proposed action. Significant
 new information leading to public controversy regarding the scope after 
 the scoping process is such a changed circumstance. An additional public 
 comment period may also be necessary after the publication of the draft 
-EIS due to public controversy or changes made as the result of previous
+EIS due to public controversy or
 
 [[Page 252]]
 
-public comments. Such periods when additional public comments are sought 
-shall last for at least 30 days.
+changes made as the result of previous public comments. Such periods 
+when additional public comments are sought shall last for at least 30 
+days.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -21443,7 +21497,7 @@ a new scoping process is not required.
 5 years from the date of the Final EIS approval, reevaluation of the 
 documentation should be accomplished to ensure its continued validity.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -21473,7 +21527,7 @@ including essential considerations of national policy.
 practicable means to avoid, minimize, or mitigate environmental impacts 
 and, if not, explain why.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -21482,17 +21536,18 @@ Sec. 989.22  Mitigation.
     (a) When preparing EIAP documents, indicate clearly whether 
 mitigation measures (40 CFR 1508.20) must be implemented for the 
 alternative selected. If using Best Management Practices (BMPs), 
-identify the specific BMPs being used and include those BMPs in the 
-mitigation plan. Discuss mitigation measures in terms of ``will'' and
+identify the specific BMPs
 
 [[Page 253]]
 
-``would'' when such measures have already been incorporated into the 
-proposal. Use terms like ``may'' and ``could'' when proposing or 
-suggesting mitigation measures. Both the public and the Air Force 
-community need to know what commitments are being considered and 
-selected, and who will be responsible for implementing, funding, and 
-monitoring the mitigation measures.
+being used and include those BMPs in the mitigation plan. Discuss 
+mitigation measures in terms of ``will'' and ``would'' when such 
+measures have already been incorporated into the proposal. Use terms 
+like ``may'' and ``could'' when proposing or suggesting mitigation 
+measures. Both the public and the Air Force community need to know what 
+commitments are being considered and selected, and who will be 
+responsible for implementing, funding, and monitoring the mitigation 
+measures.
     (b) The proponent funds and implements mitigation measures in the 
 mitigation plan that is approved by the decision-maker. Where possible 
 and appropriate because of amount, the proponent should include the cost 
@@ -21520,7 +21575,7 @@ proponent will complete the mitigation. The mitigation plan will be
 forwarded, through the MAJCOM EPF to HQ USAF/ILEB for review within 90 
 days from the date of signature of the FONSI or ROD.
 
-[64 FR 38129, July 15, 1999; 66 FR 16868, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16868, Mar. 28, 2001]
 
 
 <R05>
@@ -21560,10 +21615,12 @@ EPF funds an advertisement in a prominent section of the local
 newspaper(s) of general circulation (not ``legal'' newspapers or ``legal 
 section'' of general newspapers).
     (d) For the purpose of EIAP, the EPF begins the time period of local 
-notification when it sends written notification to the state SPOC or 
-other equivalent agency (date of letter of notification).
+notification when it sends written notification
 
 [[Page 254]]
+
+to the state SPOC or other equivalent agency (date of letter of 
+notification).
 
 
 <R05>
@@ -21634,15 +21691,15 @@ proposed action, such as by preparing separate classified annexes to
 unclassified documents, as necessary.
     (f) Whenever a proponent believes that EIAP documents should be kept 
 classified, the EPF must make a report of the matter to SAF/MIQ, 
-including proposed modifications of the normal EIAP to protect 
-classified information. The EPF may make such submissions
+including proposed modifications of the normal
 
 [[Page 255]]
 
-at whatever level of security classification is needed to provide a 
-comprehensive understanding of the issues. SAF/MIQ, with support from 
-SAF/GC and other staff elements as necessary, makes final decisions on 
-EIAP procedures for classified actions.
+EIAP to protect classified information. The EPF may make such 
+submissions at whatever level of security classification is needed to 
+provide a comprehensive understanding of the issues. SAF/MIQ, with 
+support from SAF/GC and other staff elements as necessary, makes final 
+decisions on EIAP procedures for classified actions.
 
 
 <R05>
@@ -21690,7 +21747,7 @@ will forward a copy of all EAs for force structure and unit moves to HQ
 USAF/ILEB for information only at the preliminary draft and preliminary 
 final stages.
 
-[64 FR 38129, July 15, 1999; 66 FR 16869, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001]
 
 
 <R05>
@@ -21723,15 +21780,16 @@ source, whenever feasible. Pollution prevention approaches should be
 applied to all pollution-generating activities. The environmental 
 document should analyze potential pollution that may result from the 
 proposed action and alternatives and must discuss potential pollution 
-prevention measures when such measures are feasible for incorporation 
-into the proposal or alternatives. Where pollution
+prevention
 
 [[Page 256]]
 
-cannot be prevented, the environmental analysis and proposed mitigation 
-measures should include, wherever possible, recycling, energy recovery, 
-treatment, and environmentally safe disposal actions (see AFI 32-7080, 
-Pollution Prevention Program \11\).
+measures when such measures are feasible for incorporation into the 
+proposal or alternatives. Where pollution cannot be prevented, the 
+environmental analysis and proposed mitigation measures should include, 
+wherever possible, recycling, energy recovery, treatment, and 
+environmentally safe disposal actions (see AFI 32-7080, Pollution 
+Prevention Program \11\).
 ---------------------------------------------------------------------------
 
     \11\ See footnote 1 to Sec. 989.1.
@@ -21754,7 +21812,7 @@ Air Installation Compatible Use Zone (AICUZ) Program. Draft EIAP
 aircraft noise/land use analysis associated with air installations will 
 be coordinated with the MAJCOM AICUZ program manager.
 
-[64 FR 38129, July 15, 1999; 66 FR 16869, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001]
 
 
 <R05>
@@ -21790,7 +21848,7 @@ or this part. The immediate notification requirement does not apply
 where emergency action must be taken without delay. Coordination in this 
 instance must take place as soon as practicable.
 
-[64 FR 38129, July 15, 1999; 66 FR 16869, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001]
 
 
 <R05>
@@ -21809,7 +21867,7 @@ Records Disposition Schedule.\12\
 
     \12\ See footnote 1 to Sec. 989.1.
 
-[64 FR 38129, July 15, 1999; 66 FR 16869, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001]
 
 
 <R05>
@@ -21817,18 +21875,18 @@ Sec. 989.36  Waivers.
 
     In order to deal with unusual circumstances and to allow growth in 
 the NEPA process, SAF/MIQ may grant waivers to those procedures 
-contained in this part not required by NEPA or the CEQ Regulations. Such 
-waivers shall not be used to limit compliance
+contained
 
 [[Page 257]]
 
-with NEPA or the CEQ Regulations but only to substitute other, more 
-suitable procedures relative to the context of the particular action. 
-Such waivers may also be granted on occasion to allow experimentation in 
-procedures in order to allow growth in the EIAP. This authority may not 
-be delegated.
+in this part not required by NEPA or the CEQ Regulations. Such waivers 
+shall not be used to limit compliance with NEPA or the CEQ Regulations 
+but only to substitute other, more suitable procedures relative to the 
+context of the particular action. Such waivers may also be granted on 
+occasion to allow experimentation in procedures in order to allow growth 
+in the EIAP. This authority may not be delegated.
 
-[64 FR 38129, July 15, 1999; 66 FR 16869, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001]
 
 
 <R05>
@@ -21867,7 +21925,7 @@ States public, in accordance with 32 CFR Part 187. HQ USAF/ILEB also may
 inform interested foreign governments or furnish copies of studies, in 
 accordance with 32 CFR Part 187.
 
-[64 FR 38129, July 15, 1999; 66 FR 16869, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001]
 
 Appendix A to Part 989--Glossary of References, Abbreviations, Acronyms, 
                                 and Terms
@@ -21911,13 +21969,12 @@ Department of Defense Regulation 5000.2-R, Mandatory Procedures for
 Major Defense Acquisition Programs and Major Automated Information 
 System Acquisition Programs
 
+[[Page 258]]
+
                          Air Force Publications
 
 AFPD 32-70, Environmental Quality
 AFI 32-1021, Planning and Programming of Facility Construction Projects
-
-[[Page 258]]
-
 AFI 32-7002, Environmental Information Management System
 AFI 32-7005, Environmental Protection Committees
 AFI 32-7040, Air Quality Compliance
@@ -22014,12 +22071,12 @@ SAF/PA.......................  Air Force Office of Public Affairs
 SJA..........................  Staff Judge Advocate
 SM...........................  Single Manager
 SPD..........................  Single Program Director
-SPOC.........................  Single Point of Contact
-TDY..........................  Temporary Duty
 
 [[Page 259]]
 
  
+SPOC.........................  Single Point of Contact
+TDY..........................  Temporary Duty
 U.S.C........................  United States Code
 ------------------------------------------------------------------------
 
@@ -22071,7 +22128,7 @@ The territories and possessions of the United States include American
 Samoa, Guam, Johnston Atoll, Kingman Reef, Midway Island, Navassa 
 Island, Palmyra Island, the Virgin Islands, and Wake Island.
 
-[64 FR 38129, July 15, 1999; 66 FR 16869, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001]
 
              Appendix B to Part 989--Categorical Exclusions
 
@@ -22103,11 +22160,12 @@ contact with the surrounding environment.
 remains, historical sites, or other protected resources.
     A2.2.7. Proposals adversely affecting areas of critical 
 environmental concern, such as prime or unique agricultural lands, 
-wetlands, coastal zones, wilderness areas, floodplains, or wild and 
-scenic river areas.
+wetlands,
 
 [[Page 260]]
 
+coastal zones, wilderness areas, floodplains, or wild and scenic river 
+areas.
     A2.2.8. Proposals with disproportionately high and adverse human 
 health or environmental effects on minority populations or low-income 
 populations.
@@ -22200,14 +22258,14 @@ causes.
 than personnel and funding allocations.
     A2.3.25. The analysis and assessment of the natural environment 
 without altering it (inspections, audits, surveys, investigations). This 
-CATEX includes the granting of any permits necessary for such surveys, 
-provided that the technology or procedure involved is
+CATEX includes the granting of any
 
 [[Page 261]]
 
-well understood and there are no adverse environmental impacts 
-anticipated from it. The EPF must document application of this CATEX on 
-AF Form 813.
+permits necessary for such surveys, provided that the technology or 
+procedure involved is well understood and there are no adverse 
+environmental impacts anticipated from it. The EPF must document 
+application of this CATEX on AF Form 813.
     A2.3.26. Undertaking specific investigatory activities to support 
 remedial action activities for purposes of cleanup of Environmental 
 Restoration Account (ERA)--Air Force and Resource Conservation and 
@@ -22274,7 +22332,7 @@ crowds gather at an Air Force installation, so long as crowd and traffic
 control, etc., have not in the past presented significant safety or 
 environmental impacts.
 
-[64 FR 38129, July 15, 1999; 66 FR 16869, Mar. 28, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001]
 
 Appendix C to Part 989--Procedures for Holding Public Hearings on Draft 
                   Environmental Impact Statements (EIS)
@@ -22485,8 +22543,8 @@ additional written remarks in the hearing record. The officer should
 also notify attendees of the deadline for the commenting period of the 
 Draft EIS.
 
-[64 FR 38129, July 15, 1999; 66 FR 16869, Mar. 28, 2001, as amended at 
-66 FR 31177, June 11, 2001]
+[64 FR 38129, July 15, 1999, as amended at 66 FR 16869, Mar. 28, 2001, 
+as amended at 66 FR 31177, June 11, 2001]
 
 [[Page 265]]
 
@@ -22499,7 +22557,7 @@ Draft EIS.
                   CHAPTER XII--DEFENSE LOGISTICS AGENCY
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 
@@ -22524,20 +22582,21 @@ Part                                                                Page
 <R03>
                          SUBCHAPTER A [RESERVED]
 
-
+<R05>
 
 
 <R03>
                        SUBCHAPTER B_MISCELLANEOUS
 
-
+<R05>
 
 
 <R03>
-PART 1280_INVESTIGATING AND PROCESSING CERTAIN NONCONTRACTUAL CLAIMS AND 
-REPORTING RELATED LITIGATION--Table of Contents
+PART 1280_INVESTIGATING AND PROCESSING CERTAIN NONCONTRACTUAL CLAIMS
 
+AND REPORTING RELATED LITIGATION--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -22808,10 +22867,11 @@ Judge Advocate General.
 
 
 <R03>
-PART 1285_DEFENSE LOGISTICS AGENCY FREEDOM OF INFORMATION ACT PROGRAM
---Table of Contents
+PART 1285_DEFENSE LOGISTICS AGENCY FREEDOM OF INFORMATION ACT 
 
+PROGRAM--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -24233,10 +24293,11 @@ Wright-Patterson AFB, OH 45433-5000.
 
 
 <R03>
-PART 1288_REGISTRATION OF PRIVATELY OWNED MOTOR VEHICLES--Table of 
-Contents
+PART 1288_REGISTRATION OF PRIVATELY OWNED MOTOR VEHICLES--Table 
 
+of Contents
 
+<R05>
 
 
 Sec.
@@ -24435,10 +24496,11 @@ height.
     
 
 <R03>
-PART 1290_PREPARING AND PROCESSING MINOR OFFENSES AND VIOLATION NOTICES 
-REFERRED TO U.S. DISTRICT COURTS--Table of Contents
+PART 1290_PREPARING AND PROCESSING MINOR OFFENSES AND VIOLATION 
 
+NOTICES REFERRED TO U.S. DISTRICT COURTS--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -24814,7 +24876,7 @@ appearance (if known by officer), and check mark in Box ``A''.
 <R03>
 PART 1292_SECURITY OF DLA ACTIVITIES AND RESOURCES--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -24980,11 +25042,14 @@ Stat. 1005.
                   CHAPTER XVI--SELECTIVE SERVICE SYSTEM
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
-1600-1601       [Reserved]
+1600-1601
+
+ [Reserved]
+
 1602            Definitions.................................         305
 1605            Selective Service System organization.......         306
 1609            Uncompensated personnel.....................         312
@@ -25009,7 +25074,10 @@ Part                                                                Page
 1659            Extraordinary expenses of registrants.......         354
 1662            Freedom of Information Act (FOIA) procedures         354
 1665            Privacy Act procedures......................         358
-1690            [Reserved]
+1690
+
+[Reserved]
+
 1697            Salary offset...............................         364
 1698            Advisory opinions...........................         368
 1699            Enforcement of Nondiscrimination on the 
@@ -25019,13 +25087,13 @@ Part                                                                Page
 
 [[Page 305]]
 
-                       PARTS 1600-1601 [RESERVED]
+                       PARTS 1600	1601 [RESERVED]
 
 
 <R03>
 PART 1602_DEFINITIONS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -25282,7 +25350,7 @@ Sec. 1602.25  Director.
 <R03>
 PART 1605_SELECTIVE SERVICE SYSTEM ORGANIZATION--Table of Contents
 
-
+<R05>
 
 
                          National Administration
@@ -25810,7 +25878,7 @@ not be permitted to function in this capacity.
 <R03>
 PART 1609_UNCOMPENSATED PERSONNEL--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -25932,7 +26000,7 @@ authorized by law.
 <R03>
 PART 1615_ADMINISTRATION OF REGISTRATION--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -25991,7 +26059,8 @@ FR 60101, Oct. 10, 2000]
 
 
 <R05>
-Sec. 1615.2  Responsibility of Director of Selective Service in 
+Sec. 1615.2  Responsibility of Director of Selective Service in
+
 registration.
 
     Whenever the President by proclamation or other public notice fixes 
@@ -26072,7 +26141,7 @@ and Registration Form are synonomous.
 <R03>
 PART 1618_NOTICE TO REGISTRANTS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -26110,6 +26179,7 @@ deemed to have been received on that date.
 
 <R05>
 Sec. 1618.4  Transmission of orders and other official papers to 
+
 registrants.
 
     Personnel of the Selective Service System will transmit orders or 
@@ -26121,7 +26191,7 @@ reported by him in writing to the Selective Service System.
 <R03>
 PART 1621_DUTY OF REGISTRANTS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -26197,7 +26267,7 @@ report for examination.
 <R03>
 PART 1624_INDUCTIONS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -26504,7 +26574,7 @@ the processing of his claim will be completed.
 <R03>
 PART 1627_VOLUNTEERS FOR INDUCTION--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -26558,7 +26628,7 @@ processed for induction.
 <R03>
 PART 1630_CLASSIFICATION RULES--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -26629,6 +26699,7 @@ the Secretary of Defense.
 
 <R05>
 Sec. 1630.11  Class 1-A-0: Conscientious objector available for 
+
 noncombatant military service only.
 
     In accord with part 1636 of this chapter any registrant shall be 
@@ -26638,7 +26709,8 @@ in combatant military tranining and service in the Armed Forces.
 
 
 <R05>
-Sec. 1630.12  Class 1-C: Member of the Armed Forces of the United 
+Sec. 1630.12  Class 1-C: Member of the Armed Forces of the United
+
 States, the National Oceanic and Atmospheric Administration or the 
 Public Health Service.
 
@@ -26671,7 +26743,8 @@ Stat. 674), as amended.
 
 
 <R05>
-Sec. 1630.13  Class 1-D-D: Deferment for certain members of a reserve 
+Sec. 1630.13  Class 1-D-D: Deferment for certain members of a reserve
+
 component or student taking military training.
 
     In Class 1-D-D shall be placed any registrant who:
@@ -26750,7 +26823,8 @@ the Selective Service System that he is not serving satisfactorily.
 
 
 <R05>
-Sec. 1630.14  Class 1-D-E: Exemption of certain members of a reserve 
+Sec. 1630.14  Class 1-D-E: Exemption of certain members of a reserve
+
 component or student taking military training.
 
     In Class 1-D-E shall be placed any registrant who:
@@ -26766,6 +26840,7 @@ duty, which was not for training only.
 
 <R05>
 Sec. 1630.15  Class 1-H: Registrant not subject to processing for 
+
 induction.
 
     In Class 1-H shall be placed any registrant who is not eligible for 
@@ -26795,7 +26870,8 @@ this section.
 
 
 <R05>
-Sec. 1630.17  Class 1-O-S: Conscientious objector to all military 
+Sec. 1630.17  Class 1-O-S: Conscientious objector to all military
+
 service (separated).
 
     Any registrant who has been separated from the Armed Forces 
@@ -26811,7 +26887,8 @@ Service.
 
 
 <R05>
-Sec. 1630.18  Class 1-W: Conscientious objector ordered to perform 
+Sec. 1630.18  Class 1-W: Conscientious objector ordered to perform
+
 alternative service.
 
     In Class 1-W shall be placed any registrant who has been ordered to 
@@ -26824,8 +26901,9 @@ national health, safety, or interest.
 
 
 <R05>
-Sec. 1630.26  Class 2-D: Registrant deferred because of study preparing 
-for the ministry.
+Sec. 1630.26  Class 2-D: Registrant deferred because of study
+
+preparing for the ministry.
 
     In accord with part 1639 of this chapter any registrant shall be 
 placed in Class 2-D who has requested such deferment and:
@@ -26847,8 +26925,9 @@ the deferment.
 
 
 <R05>
-Sec. 1630.30  Class 3-A: Registrant deferred because of hardship to 
-dependents.
+Sec. 1630.30  Class 3-A: Registrant deferred because of hardship 
+
+to dependents.
 
     (a) In accord with part 1642 of this chapter any registrant shall be 
 classified in Class 3-A:
@@ -26867,8 +26946,9 @@ granted for a period longer than 365 days.
 
 
 <R05>
-Sec. 1630.31  Class 3-A-S: Registrant deferred because of hardship to 
-dependents (separated).
+Sec. 1630.31  Class 3-A-S: Registrant deferred because of hardship
+
+to dependents (separated).
 
     Any registrant who has been separated from active military service 
 by reason of dependency or hardship shall be placed in Class 3-A-S 
@@ -27019,7 +27099,8 @@ for military service.
 
 
 <R05>
-Sec. 1630.45  Class 4-G: Registrant exempted from service because of 
+Sec. 1630.45  Class 4-G: Registrant exempted from service because of
+
 the death of his parent or sibling while serving in the Armed Forces 
 or whose parent or sibling is in a captured or missing in action status.
 
@@ -27056,6 +27137,7 @@ the United States.
 
 <R05>
 Sec. 1630.47  Class 4-W: Registrant who has completed alternative 
+
 service in lieu of induction.
 
     In Class 4-W shall be placed any registrant who subsequent to being 
@@ -27067,8 +27149,9 @@ satisfactory service.
 
 
 <R05>
-Sec. 1630.48  Class 4-A-A: Registrant who has performed military service 
-for a foreign nation.
+Sec. 1630.48  Class 4-A-A: Registrant who has performed military 
+
+service for a foreign nation.
 
     In Class 4-A-A shall be placed any registrant who, while an alien, 
 has served on active duty for a period of not less than 12 months in the 
@@ -27090,7 +27173,7 @@ language.
 <R03>
 PART 1633_ADMINISTRATION OF CLASSIFICATION--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -27356,7 +27439,7 @@ classification.
 <R03>
 PART 1636_CLASSIFICATION OF CONSCIENTIOUS OBJECTORS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -27533,8 +27616,9 @@ nature are to be given equal consideration.
 
 
 <R05>
-Sec. 1636.8  Considerations relevant to granting or denying a claim for 
-classification as a conscientious objector.
+Sec. 1636.8  Considerations relevant to granting or denying a claim
+
+for classification as a conscientious objector.
 
     (a) After the registrant has submitted a claim for classification as 
 a conscientious objector and his file is complete, a determination of 
@@ -27648,10 +27732,11 @@ denial.
 
 
 <R03>
-PART 1639_CLASSIFICATION OF REGISTRANTS PREPARING FOR THE MINISTRY--Table 
-of Contents
+PART 1639_CLASSIFICATION OF REGISTRANTS PREPARING FOR THE 
 
+MINISTRY--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -27762,8 +27847,9 @@ school over another, and all are to be given equal consideration.
 
 
 <R05>
-Sec. 1639.6  Considerations relevant to granting or denying claims for 
-Class 2-D.
+Sec. 1639.6  Considerations relevant to granting or denying claims
+
+for Class 2-D.
 
     (a) The registrant's claim for Class 2-D must include the following:
     (1) A statement from a church or religious organization that the 
@@ -27820,10 +27906,11 @@ the statement of reasons accompanying the denial.
 
 
 <R03>
-PART 1642_CLASSIFICATION OF REGISTRANTS DEFERRED BECAUSE OF HARDSHIP TO 
-DEPENDENTS--Table of Contents
+PART 1642_CLASSIFICATION OF REGISTRANTS DEFERRED BECAUSE OF HARDSHIP 
 
+TO DEPENDENTS--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -27962,7 +28049,8 @@ hardship over another.
 
 
 <R05>
-Sec. 1642.6  Considerations relevant to granting or denying claims 
+Sec. 1642.6  Considerations relevant to granting or denying claims
+
 for Class 3-A.
 
     (a) The registrant's claim for Class 3-A must include the following, 
@@ -28011,7 +28099,7 @@ the statement of reasons accompanying the denial.
 <R03>
 PART 1645_CLASSIFICATION OF MINISTERS OF RELIGION--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -28123,8 +28211,9 @@ minister over a regular minister.
 
 
 <R05>
-Sec. 1645.6  Considerations relevant to granting or denying a claim for 
-Class 4-D.
+Sec. 1645.6  Considerations relevant to granting or denying a claim 
+
+for Class 4-D.
 
     (a) The board shall first determine whether the registrant is 
 requesting classification in Class 4-D because he is a regular minister 
@@ -28210,7 +28299,7 @@ of reasons accompanying the denial.
 <R03>
 PART 1648_CLASSIFICATION BY LOCAL BOARD--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -28300,8 +28389,9 @@ registrant in writing of its action under this paragraph.
 
 
 <R05>
-Sec. 1648.5  Procedures during personal appearance before the local 
-board.
+Sec. 1648.5  Procedures during personal appearance before the 
+
+local board.
 
     (a) A quorum of the prescribed membership of a board shall be 
 present during all personal appearances. Only those members of the board 
@@ -28386,7 +28476,7 @@ jurisdiction in the manner prescribed by the Director.
 <R03>
 PART 1651_CLASSIFICATION BY DISTRICT APPEAL BOARD--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -28566,6 +28656,7 @@ close the hearing.
 
 <R05>
 Sec. 1651.5  File to be returned after appeal to the district appeal 
+
 board is decided.
 
     When the appeal to a district appeal board has been decided, the 
@@ -28576,7 +28667,7 @@ Service.
 <R03>
 PART 1653_APPEAL TO THE PRESIDENT--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -28736,6 +28827,7 @@ public.
 
 <R05>
 Sec. 1653.4  File to be returned after appeal to the President is 
+
 decided.
 
     When the appeal to the President has been decided, the file shall be 
@@ -28745,7 +28837,7 @@ returned as prescribed by the Director of Selective Service.
 <R03>
 PART 1656_ALTERNATIVE SERVICE--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -29308,8 +29400,9 @@ following the religious holiday.
 
 
 <R05>
-Sec. 1656.15  Suspension of order to perform alternative service because 
-of hardship to dependents.
+Sec. 1656.15  Suspension of order to perform alternative service 
+
+because of hardship to dependents.
 
     (a) Whenever, after an ASW has begun work, a condition develops that 
 results in hardship to his dependent as contemplated by Sec. 1630.30(a) 
@@ -29487,7 +29580,7 @@ person.
 <R03>
 PART 1657_OVERSEAS REGISTRANT PROCESSING--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -29577,7 +29670,7 @@ board shall be at the registrant's own expense.
 <R03>
 PART 1659_EXTRAORDINARY EXPENSES OF REGISTRANTS--Table of Contents
 
-
+<R05>
 
 
     Authority: Military Selective Service Act, 50 U.S.C. App. 451 et 
@@ -29629,7 +29722,7 @@ original payment of such expenses.
 <R03>
 PART 1662_FREEDOM OF INFORMATION ACT (FOIA) PROCEDURES--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -29958,7 +30051,7 @@ the commercial interest of the requester.
 <R03>
 PART 1665_PRIVACY ACT PROCEDURES--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -29979,8 +30072,9 @@ Sec.
 
 
 <R05>
-Sec. 1665.1  Rules for determining if an individual is the subject of 
-a record.
+Sec. 1665.1  Rules for determining if an individual is the 
+
+subject of a record.
 
     (a) Individuals desiring to know if a specific system of records 
 maintained by the Selective Service System (SSS) contains a record 
@@ -30369,8 +30463,9 @@ Arlington, VA 22209-2425.
 
 
 <R05>
-Sec. 1665.7  Information available to the public or to former employers 
-of registrants.
+Sec. 1665.7  Information available to the public or to former
+
+employers of registrants.
 
     (a) Each area office maintains a classification record which 
 contains the name, Selective Service number, and the current and past 
@@ -30393,8 +30488,9 @@ Arlington, VA 22209-2425.
 
 
 <R05>
-Sec. 1665.8  Systems of records exempted from certain provisions of 
-this act.
+Sec. 1665.8  Systems of records exempted from certain provisions 
+
+of this act.
 
     Pursuant to 5 U.S.C. 552a(k)(2), the Selective Service System will 
 not reveal to the suspected violator the informant's name or other 
@@ -30408,7 +30504,7 @@ identifying information relating to the informant.
 <R03>
 PART 1697_SALARY OFFSET--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -30743,7 +30839,7 @@ costs in accordance with the Federal Claims Collection Standards, 4 CFR
 <R03>
 PART 1698_ADVISORY OPINIONS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -30808,8 +30904,9 @@ person to whom the request pertains and invite his comments on it.
 
 
 <R05>
-Sec. 1698.4  Confidentiality of advisory opinions and requests for 
-advisory opinions.
+Sec. 1698.4  Confidentiality of advisory opinions and requests 
+
+for advisory opinions.
 
     Advisory opinions will be confidential except as provided in Sec. 
 1698.6. Requests for advisory opinions will be confidential except as 
@@ -30850,11 +30947,12 @@ insonsistent with that advisory opinion.
 
 
 <R03>
-PART 1699_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN 
-PROGRAMS OR ACTIVITIES CONDUCTED BY SELECTIVE SERVICE SYSTEM--Table of 
-Contents
+PART 1699_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP
 
+IN PROGRAMS OR ACTIVITIES CONDUCTED BY SELECTIVE SERVICE 
+SYSTEM--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -31334,7 +31432,7 @@ Sec. Sec. 1699.171-1699.999  [Reserved]
            CHAPTER XVIII--NATIONAL COUNTERINTELLIGENCE CENTER
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
@@ -31367,10 +31465,11 @@ Part                                                                Page
 
 
 <R03>
-PART 1800_PUBLIC ACCESS TO NACIC RECORDS UNDER THE FREEDOM OF INFORMATION 
-ACT (FOIA)--Table of Contents
+PART 1800_PUBLIC ACCESS TO NACIC RECORDS UNDER THE FREEDOM OF 
 
+INFORMATION ACT (FOIA)--Table of Contents
 
+<R05>
 
 
                             Subpart A_General
@@ -31820,8 +31919,9 @@ to file an administrative appeal of any adverse determination.
 
 
 <R05>
-Sec. 1800.22  Action and determination(s) by originator(s) or any 
-interested party.
+Sec. 1800.22  Action and determination(s) by originator(s) or
+
+any interested party.
 
     (a) Initial action for access. (1) NACIC components tasked pursuant 
 to a FOIA request shall search all relevant record systems within their 
@@ -31852,8 +31952,9 @@ response to the requester (for other agency records) or return to NACIC
 
 
 <R05>
-Sec. 1800.23  Payment of fees, notification of decision, and right of 
-appeal.
+Sec. 1800.23  Payment of fees, notification of decision, and
+
+right of appeal.
 
     (a) Fees in general. Fees collected under this part do not accrue to 
 the National Counterintelligence Center and shall be deposited 
@@ -32177,7 +32278,7 @@ right to judicial review.
 <R03>
 PART 1801_PUBLIC RIGHTS UNDER THE PRIVACY ACT OF 1974--Table of Contents
 
-
+<R05>
 
 
                             Subpart A_General
@@ -32458,8 +32559,9 @@ her right to file an administrative appeal.
 
 
 <R05>
-Sec. 1801.22  Action and determination(s) by originator(s) or any 
-interested party.
+Sec. 1801.22  Action and determination(s) by originator(s) 
+
+or any interested party.
 
     (a) Initial action for access. NACIC offices tasked pursuant to a 
 Privacy Act access request shall search all relevant record systems 
@@ -32847,10 +32949,12 @@ an implied promise of confidentiality.
 
 
 <R03>
-PART 1802_CHALLENGES TO CLASSIFICATION OF DOCUMENTS BY AUTHORIZED HOLDERS 
-PURSUANT TO SECTION 1.9 OF EXECUTIVE ORDER 12958--Table of Contents
+PART 1802_CHALLENGES TO CLASSIFICATION OF DOCUMENTS BY AUTHORIZED 
 
+HOLDERS PURSUANT TO SECTION 1.9 OF EXECUTIVE ORDER 12958--Table 
+of Contents
 
+<R05>
 
 
                             Subpart A_General
@@ -33136,11 +33240,12 @@ rules to be promulgated by the Information Security Oversight Office
 
 
 <R03>
-PART 1803_PUBLIC REQUESTS FOR MANDATORY DECLASSIFICATION REVIEW OF 
-CLASSIFIED INFORMATION PURSUANT TO SECTION 3.6 OF EXECUTIVE ORDER 12958
---Table of Contents
+PART 1803_PUBLIC REQUESTS FOR MANDATORY DECLASSIFICATION REVIEW OF
 
+CLASSIFIED INFORMATION PURSUANT TO SECTION 3.6 OF EXECUTIVE ORDER 
+12958--Table of Contents
 
+<R05>
 
 
                             Subpart A_General
@@ -33479,10 +33584,11 @@ Office (ISOO).
 
 <R03>
 PART 1804_ACCESS BY HISTORICAL RESEARCHERS AND FORMER PRESIDENTIAL 
-APPOINTEES PURSUANT TO SECTION 4.5 OF EXECUTIVE ORDER 12958--Table 
+
+APPOINTEES PURSUANT TO SECTION 4.5 OF EXECUTIVE ORDER 12958--Table
 of Contents
 
-
+<R05>
 
 
                             Subpart A_General
@@ -33761,11 +33867,13 @@ of Sec. 1804.14(a).
 
 
 <R03>
-PART 1805_PRODUCTION OF OFFICIAL RECORDS OR DISCLOSURE OF OFFICIAL 
-INFORMATION IN PROCEEDINGS BEFORE FEDERAL, STATE OR LOCAL GOVERNMENT 
-ENTITIES OF COMPETENT JURISDICTION--Table of Contents
+ PART 1805_PRODUCTION OF OFFICIAL RECORDS OR DISCLOSURE OF OFFICIAL 
+ 
+ INFORMATION IN PROCEEDINGS BEFORE FEDERAL, STATE OR LOCAL GOVERNMENT
+ ENTITIES OF COMPETENT 
+JURISDICTION--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -33913,10 +34021,11 @@ this part shall be applicable.
 
 
 <R03>
-PART 1806_PROCEDURES GOVERNING ACCEPTANCE OF SERVICE OF PROCESS--Table 
+PART 1806_PROCEDURES GOVERNING ACCEPTANCE OF SERVICE OF PROCESS--Table
+
 of Contents
 
-
+<R05>
 
 
 Sec.
@@ -34038,11 +34147,13 @@ referred to the NACIC Counsel for resolution
 
 
 <R03>
-PART 1807_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF DISABILITY 
-IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COUNTERINTELLIGENCE 
+PART 1807_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF DISABILITY
+
+IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COUNTERINTELLIGENCE
+
 CENTER--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -34472,7 +34583,7 @@ making the final determination may not be delegated.
                 CHAPTER XIX--CENTRAL INTELLIGENCE AGENCY
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
@@ -34508,10 +34619,11 @@ Part                                                                Page
 
 
 <R03>
-PART 1900_PUBLIC ACCESS TO CIA RECORDS UNDER THE FREEDOM OF INFORMATION 
+PART 1900_PUBLIC ACCESS TO CIA RECORDS UNDER THE FREEDOM OF INFORMATION
+
 ACT (FOIA)--Table of Contents
 
-
+<R05>
 
 
                                  General
@@ -34982,6 +35094,7 @@ Amendments of 1996.
 
 <R05>
 Sec. 1900.22  Action and determination(s) by originator(s) or any 
+
 interested party.
 
     (a) Initial action for access. CIA components tasked pursuant to a 
@@ -35018,8 +35131,9 @@ pursuant to the Electronic Freedom of Information Act Amendments of
 
 
 <R05>
-Sec. 1900.23  Payment of fees, notification of decision, and right of 
-appeal.
+Sec. 1900.23  Payment of fees, notification of decision, and right 
+
+of appeal.
 
     (a) Fees in general. Fees collected under this part do not accrue to 
 the Central Intelligence Agency and shall be deposited immediately to 
@@ -35430,7 +35544,7 @@ officer responsible, and include a notice of a right to judicial review.
 <R03>
 PART 1901_PUBLIC RIGHTS UNDER THE PRIVACY ACT OF 1974--Table of Contents
 
-
+<R05>
 
 
                                  General
@@ -35711,6 +35825,7 @@ right to file an administrative appeal.
 
 <R05>
 Sec. 1901.22  Action and determination(s) by originator(s) or any 
+
 interested party.
 
     (a) Initial action for access. CIA components tasked pursuant to a 
@@ -36287,7 +36402,7 @@ an implied promise of confidentiality.
 <R03>
 PART 1902_INFORMATION SECURITY REGULATIONS--Table of Contents
 
-
+<R05>
 
 
 Subparts A-E [Reserved]
@@ -36347,7 +36462,7 @@ be declassified.
 <R03>
 PART 1903_CONDUCT ON AGENCY INSTALLATIONS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -36679,8 +36794,9 @@ of the Armed Forces if such possession is authorized by law.
 
 
 <R05>
-Sec. 1903.11  Restrictions on photographic, transmitting, and recording 
-equipment.
+Sec. 1903.11  Restrictions on photographic, transmitting, and 
+
+recording equipment.
 
     (a) Except as otherwise authorized under this section, the following 
 are prohibited on Agency installations:
@@ -36839,10 +36955,11 @@ installation is situated.
 
 
 <R03>
-PART 1904_PROCEDURES GOVERNING ACCEPTANCE OF SERVICE OF PROCESS--Table 
-of Contents
+PART 1904_PROCEDURES GOVERNING ACCEPTANCE OF SERVICE OF 
 
+PROCESS--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -36959,10 +37076,12 @@ referred to the Office of General Counsel for resolution.
 
 <R03>
 PART 1905_PRODUCTION OF OFFICIAL RECORDS OR DISCLOSURE OF OFFICIAL 
-INFORMATION IN PROCEEDINGS BEFORE FEDERAL, STATE OR LOCAL GOVERNMENTAL 
-ENTITIES OF COMPETENT JURISDICTION--Table of Contents
 
+INFORMATION IN PROCEEDINGS BEFORE FEDERAL, STATE OR LOCAL 
+GOVERNMENTAL ENTITIES OF COMPETENT 
+JURISDICTION--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -37117,11 +37236,12 @@ In such cases the provisions of this regulation shall be applicable.
 
 
 <R03>
-PART 1906_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN 
-PROGRAMS OR ACTIVITIES CONDUCTED BY THE CENTRAL INTELLIGENCE AGENCY
---Table of Contents
+PART 1906_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN
 
+PROGRAMS OR ACTIVITIES CONDUCTED BY THE CENTRAL INTELLIGENCE
+AGENCY--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -37615,10 +37735,12 @@ making the final determination may not be delegated.
 
 
 <R03>
-PART 1907_CHALLENGES TO CLASSIFICATION OF DOCUMENTS BY AUTHORIZED HOLDERS 
-PURSUANT TO SECTION 1.9 OF EXECUTIVE ORDER 12958--Table of Contents
+PART 1907_CHALLENGES TO CLASSIFICATION OF DOCUMENTS BY AUTHORIZED
 
+HOLDERS PURSUANT TO   1.9 OF EXECUTIVE ORDER 12958--Table of 
+Contents
 
+<R05>
 
 
                                  General
@@ -37918,11 +38040,12 @@ rules to be promulgated by the Information Security Oversight Office
 
 
 <R03>
-PART 1908_PUBLIC REQUESTS FOR MANDATORY DECLASSIFICATION REVIEW OF 
-CLASSIFIED INFORMATION PURSUANT TO SECTION 3.6 OF EXECUTIVE ORDER 
+PART 1908_PUBLIC REQUESTS FOR MANDATORY DECLASSIFICATION REVIEW 
+
+OF CLASSIFIED INFORMATION PURSUANT TO   3.6 OF EXECUTIVE ORDER 
 12958--Table of Contents
 
-
+<R05>
 
 
                                  General
@@ -38314,11 +38437,12 @@ Office (ISOO).
 
 
 <R03>
-PART 1909_ACCESS BY HISTORICAL RESEARCHERS AND FORMER PRESIDENTIAL 
-APPOINTEES PURSUANT TO SECTION 4.5 OF EXECUTIVE ORDER 12958--Table 
-of Contents
+PART 1909_ACCESS BY HISTORICAL RESEARCHERS AND FORMER PRESIDENTIAL
 
+APPOINTEES PURSUANT TO   4.5 OF EXECUTIVE ORDER 12958--Table of 
+Contents
 
+<R05>
 
 
                                  General
@@ -38616,7 +38740,7 @@ more of the requirements of 32 CFR 1909.14(a).
 <R03>
 PART 1910_DEBARMENT AND SUSPENSION PROCEDURES--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -38649,19 +38773,19 @@ CHAPTER XX--INFORMATION SECURITY OVERSIGHT OFFICE, NATIONAL ARCHIVES AND
                          RECORDS ADMINISTRATION
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
-2000            Administrative procedures [Reserved]
+2000
+
+Administrative procedures [Reserved]
+
 2001            Classified national security information....         467
-2002            General guidelines for systematic 
-                    declassification review of foreign 
-                    government information..................         502
 2003            National security information--standard 
-                    forms...................................         507
+                    forms...................................         502
 2004            National industrial security program 
-                    directive No. 1.........................         514
+                    directive No. 1.........................         509
 
 [[Page 467]]
 
@@ -38671,7 +38795,7 @@ Part                                                                Page
 <R03>
 PART 2001_CLASSIFIED NATIONAL SECURITY INFORMATION--Table of Contents
 
-
+<R05>
 
 
                         Subpart A_Classification
@@ -40353,7 +40477,8 @@ other storage media may be obtained from the GSA.
 
 
 <R05>
-Sec. 2001.47  Loss, possible compromise or unauthorized disclosure 
+Sec. 2001.47  Loss, possible compromise or unauthorized disclosure
+
 [4.1, 4.2].
 
     (a) General. Any person who has knowledge that classified 
@@ -40406,6 +40531,7 @@ for that SAP.
 
 <R05>
 Sec. 2001.49  Telecommunications automated information systems and 
+
 network security [4.1, 4.2].
 
     Each agency head shall ensure that classified information 
@@ -41515,388 +41641,9 @@ and their amendments for publication in the Federal Register.
 
 
 <R03>
-PART 2002_GENERAL GUIDELINES FOR SYSTEMATIC DECLASSIFICATION REVIEW OF 
-FOREIGN GOVERNMENT INFORMATION--Table of Contents
-
-
-
-
-Sec.
-2002.1 Purpose.
-2002.2 Definition.
-2002.3 Scope.
-2002.4 Responsibilities.
-2002.5 Effect of publication.
-2002.6 Categories requiring item-by-item review.
-2002.7 Referral and decision.
-2002.8 Downgrading.
-
-    Authority: Sec. 3.3, E.O. 12356, 47 FR 14874, April 6, 1982.
-
-    Source: 48 FR 4402, Jan. 31, 1983, unless otherwise noted.
-
-
-<R05>
-Sec. 2002.1  Purpose.
-
-    These general guidelines for the systematic declassification review 
-of foreign government information have been developed in accordance with 
-the provisions of section 3.3 of Executive Order 12356, ``National 
-Security Information,'' and Sec. 2001.31 of Information Security 
-Oversight Office Directive No. 1. All foreign government information 
-that has been incorporated into the permanently valuable records of the 
-United States Government and that has been accessioned into the National 
-Archives of the United States shall be systematically reviewed for 
-declassification by the Archivist of the United States. Declassification 
-reviews shall be conducted in accordance with the provisions of these 
-general guidelines or, if available, in accordance with specific 
-systematic review guidelines for foreign government information provided 
-by the agency heads who have declassification authority over that 
-information. All foreign government information--
-    (a) Not identified in Sec. 2002.6 of these general guidelines or in 
-specific agency guidelines as requiring item-by-item declassification 
-review and final determination by an agency declassification authority, 
-and
-    (b) For which a prior declassification date has not been 
-established, shall be declassified as that information becomes thirty 
-years old.
-
-
-<R05>
-Sec. 2002.2  Definition.
-
-    Foreign government information as used in these guidelines means:
-    (a) Information provided by a foreign government or governments, an 
-international organization of governments, or any element thereof with 
-the expectation, expressed or implied, that the information, the source 
-of the information, or both, are to be held in confidence; or
-    (b) Information produced by the United States pursuant to or as a 
-result of a joint arrangement with a foreign government or governments 
-or an international organization of governments, or any element thereof, 
-requiring that the information, the arrangement, or both, are to be held 
-in confidence.
-
-
-<R05>
-Sec. 2002.3  Scope.
-
-    (a) These guidelines apply to foreign government information that 
-has been received or classified by the United States Government or its 
-agents, and has been incorporated into records determined by the 
-Archivist of the United States to have permanent value.
-    (b) Atomic energy information (including information originated 
-prior to 1947 and not marked as such; information received from the 
-United Kingdom or Canada marked ``Atomic,'' or information received from 
-NATO marked ``Atomal'') that is defined and identified as ``Restricted 
-Data'' or ``Formerly Restricted Data'' in Sections 11y and 142d of the 
-Atomic Energy Act of 1954, as amended, is outside the scope of these 
-guidelines. Such information is not subject to systematic review and may 
-not be automatically downgraded
-
-[[Page 503]]
-
-or declassified. Any document containing information within the 
-definition of ``Restricted Data'' or ``Formerly Restricted Data'' that 
-is not so marked shall be referred to the Department of Energy Office of 
-Classification for review and appropriate marking, except for licensing 
-and related regulatory matters which shall be referred to the Division 
-of Security, U.S. Nuclear Regulatory Commission.
-
-
-<R05>
-Sec. 2002.4  Responsibilities.
-
-    (a) Foreign government information transferred to the General 
-Services Administration for accession into the National Archives of the 
-United States shall be reviewed by the Archivist of the United States 
-for declassification in accordance with Executive Order 12356, the 
-directives of the Information Security Oversight Office, these general 
-guidelines, and any specific systematic declassification guidelines 
-provided by the agency with declassification authority over the 
-information.
-    (b) Accessioned foreign government information in file series 
-concerning intelligence activities (including special activities), or 
-intelligence sources or methods created after 1945, and cryptology 
-records created after 1945, shall be subject to review by the Archivist 
-for declassification as it becomes 50 years old. All other accessioned 
-foreign government information shall be subject to review by the 
-Archivist for declassification as it becomes 30 years old.
-    (c) Agency heads who have declassification jurisidiction over 
-permanently valuable foreign government information in agency records 
-not yet accessioned into the National Archives of the United States are 
-encouraged to conduct systematic declassification reviews of it in 
-accordance with the time limits specified in paragraph (b) of this 
-section. These reviews shall comply with the provisions of Executive 
-Order 12356, the directives of the Information Security Oversight 
-Office, these general guidelines, and specific agency systematic review 
-guidelines that have been issued in consultation with the Archivist of 
-the United States and the ISOO Director.
-    (d) Foreign government information falling within any of the 
-categories listed in Sec. 2002.6 of these guidelines shall be 
-declassified or downgraded only upon specific authorization of the 
-agency that has declassification authority over it. Such information 
-shall be referred to the responsible agency(ies) for review. Information 
-so referred shall remain classified until the responsible agency(ies) 
-has declassified it. If the responsible agency cannot be readily 
-identified from the document or material, referral shall be made in 
-accordance with Sec. 2002.7 of these guidelines.
-    (e) When required, the agency having declassification authority over 
-the information shall consult with foreign governments concerning its 
-proposed declassification.
-
-
-<R05>
-Sec. 2002.5  Effect of publication.
-
-    (a) Foreign government information shall be considered declassified 
-when published in an unclassified United States Government executive 
-branch publication (e.g., the Foreign Relations of the United States 
-series) or when cleared for publication by United States Government 
-executive branch officials authorized to declassify the information; or 
-if officially published as unclassified by the foreign government(s) or 
-international organization(s) of governments that furnished the 
-information unless the fact of the U.S. Government's possession of the 
-information requires continued protection.
-    (b) The unofficial publication, in the United States or abroad, of 
-foreign government information contained in classified United States or 
-foreign documents does not in or of itself constitute or permit the 
-declassification of such information. Although prior unofficial 
-publication is a factor to be considered in the systematic review 
-process, there may be valid reasons for continued protection of the 
-information which could preclude its declassification. In particular, 
-the classification status of foreign government information which 
-concerns or derives from intelligence activities (including special 
-activities), intelligence sources or methods shall not be affected by 
-any unofficial publication of identical or related information. The 
-final declassification determination shall be made
-
-[[Page 504]]
-
-by the agency or agencies having declassification authority over it.
-
-
-<R05>
-Sec. 2002.6  Categories requiring item-by-item review.
-
-    Foreign government information falling into the following categories 
-require item-by-item review for declassification by agencies having 
-declassification authority over it.
-    (a) Information exempted from declassification under any joint 
-arrangement evidenced by an exchange of letters, memorandum of 
-understanding, or other written record, with the foreign government or 
-international organization of governments, or element(s) thereof, that 
-furnished the information. Questions concerning the existence or 
-applicability of such arrangements shall be referred to the agency or 
-agencies having declassification authority over the records under 
-review.
-    (b) Information related to the safeguarding of nuclear materials or 
-facilities, foreign and domestic, including but not necessarily limited 
-to vulnerabilities and vulnerability assessments of nuclear facilities 
-and Special Nuclear Material.
-    (c) Nuclear arms control information (see also paragraph (k) of this 
-section).
-    (d) Information regarding foreign nuclear programs (other than 
-``Restricted Data'' and ``Formerly Restricted Data''), such as:
-    (1) Nuclear weapons testing.
-    (2) Nuclear weapons storage and stockpile.
-    (3) Nuclear weapons effects, hardness, and vulnerability.
-    (4) Nuclear weapons safety.
-    (5) Cooperation in nuclear programs including, but not limited to, 
-peaceful and military applications of nuclear energy.
-    (6) Exploration, production and import of uranium and thorium from 
-foreign countries.
-    (e) Information concerning intelligence activities (including 
-special activities) or intelligence or counterintelligence sources or 
-methods including but not limited to intelligence, counterintelligence 
-and covert action programs, plans, policies, operations, or assessments; 
-or which would reveal or identify:
-    (1) Any present, past or prospective undercover personnel, 
-installation, unit, or clandestine human agent, of the United States or 
-a foreign government;
-    (2) Any present, past or prospective method, procedure, mode, 
-technique or requirement used or being developed by the United States or 
-by foreign governments, individually or in combination to produce, 
-acquire, transmit, analyze, correlate, assess, evaluate or process 
-intelligence or counterintelligence, or to support an intelligence or 
-counterintelligence source, operation, or activity;
-    (3) The present, past or proposed existence of any joint United 
-States and foreign government intelligence, counterintelligence, or 
-covert action activity or facility, or the nature thereof. (For guidance 
-on protecting United States foreign intelligence liaison relationships, 
-see Director of Central Intelligence Directive ``Security Classification 
-Guidance and Foreign Security Services,'' effective January 18, 1982.)
-    (f) Information that could result in or lead to actions which would 
-place an individual in jeopardy attributable to disclosure of the 
-information, including but not limited to:
-    (1) Information identifying any individual or organization as a 
-confidential source of intelligence or counterintelligence.
-    (2) Information revealing the identity of an intelligence or covert 
-action agent or agents.
-    (3) Information identifying any individual or organization used to 
-develop or support intelligence, counterintelligence, or covert action 
-agents, sources or activities.
-    (g) Information about foreign individuals, organizations or events 
-which if disclosed, could be expected to:
-    (1) Adversely affect a foreign country's or international 
-organization's present or future relations with the United States.
-    (2) Adversely affect present or future confidential exchanges beween 
-the United States and any foreign government or international 
-organization of governments.
-    (h) Information related to plans (whether executed or not, whether 
-presented in whole or in part), programs,
-
-[[Page 505]]
-
-operations, negotiations, and assessments shared by one or several 
-foreign governments with the United States, including but not limited to 
-those involving the territory, political regime or government of another 
-country, and which if disclosed could be expected to adversely affect 
-the conduct of U.S. foreign policy or the conduct of another country's 
-foreign policy with respect to a third country or countries. This item 
-would include contigency plans, plans for covert political, military or 
-paramilitary activities or operations by a foreign government acting 
-alone or jointly with the United States Government, and positions or 
-actions taken by a foreign government alone or jointly with the United 
-States concerning border disputes or other territorial issues.
-    (i) Information concerning arrangements with respect to foreign 
-basing of cryptologic operations and/or foreign policy considerations 
-relating thereto.
-    (j) Scientific information such as that concerning space, energy, 
-climatology, communications, maritime, undersea, and polar projects, the 
-disclosure of which could be expected to adversely affect current and/or 
-future exchanges of such information between the United States and any 
-foreign governments or international organizations of governments.
-    (k) Information on foreign policy aspects of nuclear matters, the 
-disclosure of which could be expected to adversely affect cooperation 
-between one or more foreign governments and the United States 
-Government.
-    (l) Information concerning physical security arrangements, plans or 
-equipment for safeguarding United States Government embassies, missions 
-or facilities abroad, the disclosure of which could reasonably be 
-expected to increase the vulnerability of such facilities to 
-penetration, attack, take-over, and the like.
-    (m) Nuclear propulsion information.
-    (n) Information concerning the establishment, operation, and support 
-of nuclear detection systems.
-    (o) Information concerning or revealing military or paramilitary 
-escape, evasion, cover or deception plans, procedures, and techniques, 
-whether executed or not.
-    (p) Information which could adversely affect the current or future 
-usefullness of military defense policies, programs, weapons systems, 
-operations, or plans.
-    (q) Information concerning research, development, testing and 
-evaluation of chemical and biological weapons and defense systems; 
-specific identification of chemical and biological agents and munitions; 
-and chemical and biological warfare plans.
-    (r) Technical information concerning weapons systems and military 
-equipment that reveals the capabilities, limitations, or vulnerabilities 
-of such systems, or equipment that could be exploited to destroy, 
-counter, render ineffective or neutralize such weapons or equipment.
-    (s) Cryptologic information, including cryptologic sources and 
-methods, currently in use. This includes information concerning or 
-revealing the processes, techniques, operations, and scope of signals 
-intelligence comprising communications intelligence, electronics 
-intelligence, and telemetry intelligence, the crytosecurity and emission 
-security components of communications security, and the communications 
-portion of cover and deception plans.
-    (t) Information concerning electronic warfare (electronic warfare 
-support measures, electronic counter-countermeasures) or related 
-activities, including but not necessarily limited to:
-    (1) Nomenclature, functions, technical characteristics or 
-descriptions of communications and electronic equipment, its employment/
-development, and its association with weapoins systems or military 
-operations.
-    (2) The processes, techniques, operations or scope of activities 
-involved in the acquisition, analysis and evaluation of such 
-information, and the degree of success achieved by the above processes, 
-techniques, operations or activities.
-    (u) Present, past or proposed protective intelligence information 
-relating to the sources, plans, techniques, equipment and methods used 
-in carrying out assigned duties of protecting United States Government 
-officials or other protectees abroad and foreign officials while in the 
-United States or
-
-[[Page 506]]
-
-United States possessions. This includes information concerning the 
-identification of witnesses, informants and persons suspected of being 
-dangerous to persons under protection.
-    (v) Information on deposits of foreign official institutions in 
-United States banks and on foreign official institutions' holdings, 
-purchases and sales of long-term marketable securities in the United 
-States.
-    (w) Information concerning economic and policy studies and sensitive 
-assessments or analyses of economic conditions, policies or activities 
-of foreign countries or international organizations of governments 
-received through the Multilateral Development Banks and Funds or through 
-the International Monetary Fund (IMF) and the Organization for Economic 
-Cooperation and Development (OECD).
-    (x) Information described in paragraphs (a) through (w) contained in 
-correspondence, transcripts, memoranda of conversation, or minutes of 
-meetings between the President of the United States or the Vice 
-President of the United States and foreign government officials.
-    (y) Information described in paragrpahs (a) through (w) contained in 
-documents originated by or sent to the Assistant to the President for 
-National Security Affairs, his Deputy, members of the National Security 
-Council staff, or any other person on the White House or the Executive 
-Office of the President staffs performing national security functions.
-    (z) Federal agency originated documents bearing Presidential, 
-National Security Council, or White House or Executive Office of the 
-President staffs' comments relating to categories of information 
-described in paragraphs (a) through (w).
-    (aa) Information as described in paragraphs (a) through (w) 
-contained in correspondence to or from the President or the Vice 
-President, including background briefing memoranda and talking points 
-for meetings between the President or the Vice President and foreign 
-government officials, and discussions of the timing and purposes of such 
-meetings.
-    (bb) Information as described in paragraphs (a) through (w) 
-contained in agency message traffic originated by White House or 
-Executive Office of the President staff members but sent through agency 
-communication networks.
-
-
-<R05>
-Sec. 2002.7  Referral and decision.
-
-    (a) When the identity of the agencies having declassification 
-authority over foreign government information is not apparent to the 
-agency holding the information, or when reviewing officials do not 
-possess the requisite expertise, the information shall be referred for 
-review and a declassification determination as follows:
-    (1) Categories 2002.6 (b) through (d), Department of Energy or 
-Nuclear Regulatory Commission (as appropriate).
-    (2) Categories 2002.6 (e) and (f), Central Intelligence Agency.
-    (3) Categories 2002.6 (g) through (l), Department of State.
-    (4) Categories 2002.6 (m) through (t), Department of Defense.
-    (5) Categories 2002.6 (u) and (w), Department of the Treasury.
-    (6) Categories 2002.6 (x) through (bb), National Security Council.
-    (b) Referrals to agencies shall include copies of the documents 
-containing the foreign government information. Agencies shall review the 
-referred documents and promptly notify the Archivist of the United 
-States of the declassification determination. Forwarded copies of the 
-documents shall be marked to reflect any downgrading or declassification 
-action and shall be returned to the National Archives.
-
-
-<R05>
-Sec. 2002.8  Downgrading.
-
-    Foreign government information classified ``Top Secret'' may be 
-downgraded to ``Secret'' after 30 years unless the agency with 
-declassification authority over it determines on its own, or after 
-consultation, as appropriate, with the foreign government or 
-international organization of governments which furnished the 
-information, that it requires continued protection at the ``Top Secret'' 
-level.
-
-[[Page 507]]
-
-
-<R03>
 PART 2003_NATIONAL SECURITY INFORMATION_STANDARD FORMS--Table of Contents
 
-
+<R05>
 
 
                       Subpart A_General Provisions
@@ -41986,32 +41733,34 @@ subpart B.
 
 
 <R05>
-Sec. 2003.20  Classified Information Nondisclosure Agreement: SF 312; Classified 
-Information Nondisclosure Agreement: SF 189; Classified Information Nondisclosure 
-Agreement (Industrial/Commercial/Non-Government): SF 189-A.
+Sec. 2003.20  Classified Information Nondisclosure Agreement: 
+
+SF 312; Classified Information Nondisclosure Agreement: SF 189; 
+Classified Information 
+          Nondisclosure Agreement (Industrial/Commercial/Non-
+          Government): SF 189-A.
 
     (a) SF 312, SF 189, and SF 189-A are nondisclosure agreements 
 between the United States and an individual. The prior execution of at 
 least one of these agreements, as appropriate, by an individual is 
 necessary before the United States Government may grant that individual 
 access to classified information. From the effective date of this rule, 
-September 29, 1988, the SF 312 shall be used in lieu of both the SF 189 
-and the SF 189-A for this purpose. In any instance in which the language 
-in the SF 312 differs from the language in either the SF 189 or SF 189-
-A, agency heads shall interpret and enforce the SF 189 or SF 189-A in a 
-manner that is fully consistent with the interpretation and enforcement 
-of the SF 312.
+September 29, 1988, the SF 312
+
+[[Page 503]]
+
+shall be used in lieu of both the SF 189 and the SF 189-A for this 
+purpose. In any instance in which the language in the SF 312 differs 
+from the language in either the SF 189 or SF 189-A, agency heads shall 
+interpret and enforce the SF 189 or SF 189-A in a manner that is fully 
+consistent with the interpretation and enforcement of the SF 312.
     (b) All employees of executive branch departments, and independent 
 agencies or offices, who have not previously signed the SF 189, must 
 sign the SF 312 before being granted access to classified information. 
-An employee who has
-
-[[Page 508]]
-
-previously signed the SF 189 is permitted, at his or her own choosing, 
-to substitute a signed SF 312 for the SF 189. In these instances, 
-agencies shall take all reasonable steps to dispose of the superseded 
-nondisclosure agreement or to indicate on it that it has been 
+An employee who has previously signed the SF 189 is permitted, at his or 
+her own choosing, to substitute a signed SF 312 for the SF 189. In these 
+instances, agencies shall take all reasonable steps to dispose of the 
+superseded nondisclosure agreement or to indicate on it that it has been 
 superseded.
     (c) All Government contractor, licensee, and grantee employees, or 
 other non-Government personnel requiring access to classified 
@@ -42069,23 +41818,23 @@ SF 189, and the SF 189-A, ``classified information'' is marked or
 unmarked classified information, including oral communications; and 
 unclassified information that meets the standards for classification and 
 is in the process of a classification determination, as provided in 
-sections 1.1(c) and 1.2(e) of Executive Order 12356 or any other statute 
-or Executive order that requires interim protection for certain 
-information while a classification determination is pending. 
-``Classified information'' does not include unclassified information 
-that may be subject to possible classification at some future date, but 
-is not currently in the process of a classification determination.
+sections 1.1(c) and 1.2(e) of Executive
+
+[[Page 504]]
+
+Order 12356 or any other statute or Executive order that requires 
+interim protection for certain information while a classification 
+determination is pending. ``Classified information'' does not include 
+unclassified information that may be subject to possible classification 
+at some future date, but is not currently in the process of a 
+classification determination.
     (3) Basis for liability. A party to the SF 312, SF 189 or SF 189-A 
 may be liable for disclosing ``classified information'' only if he or 
 she knows or reasonably should know that: (i) The marked or unmarked 
-information is
-
-[[Page 509]]
-
-classified, or meets the standards for classification and is in the 
-process of a classification determination; and (ii) his or her action 
-will result, or reasonably could result in the unauthorized disclosure 
-of that information.
+information is classified, or meets the standards for classification and 
+is in the process of a classification determination; and (ii) his or her 
+action will result, or reasonably could result in the unauthorized 
+disclosure of that information.
 
 In no instance may a party to the SF 312, SF 189 or SF 189-A be liable 
 for violating its nondisclosure provisions by disclosing information 
@@ -42151,18 +41900,18 @@ possession,'' refer to ``all classified materials which have or may come
 into my possession,'' exclusively.
     (j) Each agency must retain its executed copies of the SF 312, SF 
 189, and SF 189-A in file systems from which an agreement can be 
-expeditiously retrieved in the event that the United States must seek 
-its enforcement or a subsequent employer must confirm its prior 
-execution. The original, or a legally enforceable facsimile that is 
-retained in lieu of the original, such as microfiche, microfilm, 
+expeditiously retrieved in the event that the United
+
+[[Page 505]]
+
+States must seek its enforcement or a subsequent employer must confirm 
+its prior execution. The original, or a legally enforceable facsimile 
+that is retained in lieu of the original, such as microfiche, microfilm, 
 computer disk, or electronic storage medium, must be retained for 50 
 years following its date of execution. For agreements executed by 
 civilian employees of the United States Government, an agency may store 
 the executed copy of the SF 312 and SF 189 in the United States Office 
-of Personnel Management's Official Personnel Folder (OPF) as a long-term
-
-[[Page 510]]
-
+of Personnel Management's Official Personnel Folder (OPF) as a long-term 
 (right side) document for that employee. An agency may permit its 
 contractors, licensees and grantees to retain the executed agreements of 
 their employees during the time of employment. Upon the termination of 
@@ -42227,6 +41976,9 @@ Sec. 2003.22  Activity Security Checklist: SF 701.
     (a) SF 701 provides a systematic means to make a thorough end-of-day 
 security inspection for a particular work area and to allow for employee 
 accountability in the event that irregularities are discovered.
+
+[[Page 506]]
+
     (b) SF 701 shall be used in all situations that call for the use of 
 an activity security checklist. Agency-wide use of SF 701 shall begin 
 when supplies of existing forms are exhausted or September 30, 1986, 
@@ -42236,12 +41988,9 @@ accordance with each agency's security regulations.
     (d) Only the Director of the Information Security Oversight Office 
 (ISOO) may grant an agency's application for a waiver from the use of SF 
 701. To apply for a waiver, an agency must submit its proposed 
-alternative form to
-
-[[Page 511]]
-
-the Director of ISOO along with its justification for use. The ISOO 
-Director will review the request and notify the agency of the decision.
+alternative form to the Director of ISOO along with its justification 
+for use. The ISOO Director will review the request and notify the agency 
+of the decision.
     (e) The national stock number for the SF 701 is 7540-01-213-7899.
 
 [50 FR 51826, Dec. 19, 1985]
@@ -42311,9 +42060,12 @@ attached until the document is destroyed. At the time of destruction, SF
     (d) Only the Director of the Information Security Oversight Office 
 (ISOO) may grant any agency's application for a waiver from the use of 
 SF 704. To apply for a waiver, an agency must submit its proposed 
-alternative form to the Director of ISOO along with its justification 
-for use. The ISOO Director will review the request and notify the agency 
-of the decision.
+alternative form to
+
+[[Page 507]]
+
+the Director of ISOO along with its justification for use. The ISOO 
+Director will review the request and notify the agency of the decision.
     (e) The national stock number of the SF 704 is 7540-01-213-7902.
 
 [50 FR 51827, Dec. 19, 1985]
@@ -42326,12 +42078,9 @@ Sec. 2003.26  CONFIDENTIAL Cover Sheet: SF 705.
 information from inadvertent disclosure and to alert observers that 
 CONFIDENTIAL information is attached to it.
     (b) SF 705 shall be use in all situations that call for the use of a 
-CONFIDENTIAL cover sheet. Agency-wide
-
-[[Page 512]]
-
-use of SF 705 shall begin when supplies of existing forms are exhausted 
-or September 30, 1986, whichever occurs earlier.
+CONFIDENTIAL cover sheet. Agency-wide use of SF 705 shall begin when 
+supplies of existing forms are exhausted or September 30, 1986, 
+whichever occurs earlier.
     (c) SF 705 is affixed to the top of the CONFIDENTIAL document and 
 remains attached until the document is destroyed. At the time of 
 destruction, SF 705 is removed and, depending upon its condition, 
@@ -42402,9 +42151,12 @@ Sec. 2003.29  CONFIDENTIAL Label SF 708.
 (ADP) media and other media that contain CONFIDENTIAL information. SF 
 708 is used instead of the SF 705 for media other than documents.
     (b) SF 708 shall be used in all situations that call for the use of 
-a CONFIDENTIAL Label. Agency-wide use of SF 708 shall begin when 
-supplies of existing forms are exhausted or January 31, 1988, whichever 
-occurs earlier.
+a CONFIDENTIAL Label. Agency-wide use of
+
+[[Page 508]]
+
+SF 708 shall begin when supplies of existing forms are exhausted or 
+January 31, 1988, whichever occurs earlier.
     (c) SF 708 is affixed to the medium containing CONFIDENTIAL 
 information in a manner that would not adversely affect operation of 
 equipment in which the medium is used. Once the Label has been applied, 
@@ -42414,9 +42166,6 @@ it cannot be removed.
 alternative form to the Director of ISOO along with its justification 
 for use. The Director of ISOO will review the request and notify the 
 agency of the decision.
-
-[[Page 513]]
-
     (e) The national stock number of the SF 708 is 7540-01-207-5538.
 
 [52 FR 10190, Mar. 30, 1987]
@@ -42489,6 +42238,9 @@ automatic data processing (ADP) or other media.
 DATA DESCRIPTOR Label. Agency-wide use of SF 711 shall begin when 
 supplies of existing forms are exhausted or January 31, 1988, whichever 
 occurs earlier.
+
+[[Page 509]]
+
     (c) SF 711 is affixed to the ADP medium containing classified 
 information in a manner that would not adversely affect operation of 
 equipment in which the medium is used. SF 711 is ordinarily used in 
@@ -42500,19 +42252,17 @@ provides spaces for information that should be completed as required.
 alternative form to the Director of ISOO along with its justification 
 for use. The Director of ISOO will review the request and notify the 
 agency of the decision.
-
-[[Page 514]]
-
     (e) The national stock number of the SF 711 is 7540-01-207-5541.
 
 [52 FR 10191, Mar. 30, 1987]
 
 
 <R03>
-PART 2004_NATIONAL INDUSTRIAL SECURITY PROGRAM DIRECTIVE NO. 1--Table 
+PART 2004_NATIONAL INDUSTRIAL SECURITY PROGRAM DIRECTIVE NO. 1--Table
+
 of Contents
 
-
+<R05>
 
 
                  Subpart A_Implementation and Oversight
@@ -42545,8 +42295,9 @@ Sec.
 
 
 <R05>
-Sec. 2004.10  Responsibilities of the Director, Information Security 
-Oversight Office (ISOO) [102(b)].\1\
+Sec. 2004.10  Responsibilities of the Director, Information
+
+Security Oversight Office (ISOO) [102(b)].\1\
 
     The Director ISOO shall:
     (a) Implement EO 12829, as amended.
@@ -42574,6 +42325,7 @@ responsibilities on behalf of those agency heads.
 
 <R05>
 Sec. 2004.11  Agency Implementing Regulations, Internal Rules, or 
+
 Guidelines [102(b)(3)].
 
     (a) Reviews and Updates. All implementing regulations, internal 
@@ -42583,13 +42335,17 @@ in national policy necessitates a change in agency implementing
 regulations, internal rules, or guidelines that pertain to the NISP, the 
 agency shall promptly issue revisions.
     (b) Reviews by ISOO. The Director, ISOO, shall review agency 
-implementing regulations, internal rules, or guidelines, as necessary, 
-to ensure consistency with NISP policies and procedures. Such reviews 
-should normally occur during routine oversight visits, when there is 
-indication of a problem that comes to the attention of the Director, 
-ISOO, or after a change in national policy that impacts such 
-regulations, rules, or guidelines. The Director, ISOO, shall provide 
-findings from such reviews to the responsible department or agency.
+implementing regulations, internal rules, or
+
+[[Page 510]]
+
+guidelines, as necessary, to ensure consistency with NISP policies and 
+procedures. Such reviews should normally occur during routine oversight 
+visits, when there is indication of a problem that comes to the 
+attention of the Director, ISOO, or after a change in national policy 
+that impacts such regulations, rules, or guidelines. The Director, ISOO, 
+shall provide findings from such reviews to the responsible department 
+or agency.
 
 
 <R05>
@@ -42602,16 +42358,15 @@ authority of EO 12829, as amended, and from complaints and suggestions
 from persons within or outside the Government. Findings shall be 
 reported to the responsible department or agency.
 
-[[Page 515]]
-
 
 <R04>
                           Subpart B_Operations
 
 
 <R05>
-Sec. 2004.20  National Industrial Security Program Operating Manual 
-(NISPOM) [201(a)].
+Sec. 2004.20  National Industrial Security Program Operating
+
+Manual (NISPOM) [201(a)].
 
     (a) The NISPOM applies to release of classified information during 
 all phases of the contracting process.
@@ -42669,6 +42424,9 @@ in such contracts;
 254) into the contracts in accordance with the FAR subpart 4.4;
     (3) Sign agreements with the Department of Defense as the Executive 
 Agent for industrial security services; and,
+
+[[Page 511]]
+
     (4) Ensure applicable department and agency personnel having NISP 
 implementation responsibilities are provided appropriate education and 
 training.
@@ -42692,43 +42450,40 @@ Sec. 2004.24  Definitions.
 
     (a) ``Cognizant Security Agencies (CSAs)'' means the Executive 
 Branch departments and agencies authorized in EO 12829, as amended, to 
-establish
-
-[[Page 516]]
-
-industrial security programs: The Department of Defense, designated as 
-the Executive Agent; the Department of Energy; the Nuclear Regulatory 
-Commission; and the Central Intelligence Agency.
+establish industrial security programs: The Department of Defense, 
+designated as the Executive Agent; the Department of Energy; the Nuclear 
+Regulatory Commission; and the Central Intelligence Agency.
     (b) ``Contractor'' means any industrial, education, commercial, or 
 other entity, to include licensees or grantees that has been granted 
 access to classified information. Contractor does not include 
 individuals engaged under personal services contracts.
 
-[[Page 517]]
+[[Page 513]]
 
 
 <R02>
                  CHAPTER XXI--NATIONAL SECURITY COUNCIL
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
 2102            Rules and regulations to implement the 
-                    Privacy Act of 1974.....................         519
+                    Privacy Act of 1974.....................         515
 2103            Regulations to implement E.O. 12065--
                     including procedures for public access 
-                    to documents that may be declassified...         522
+                    to documents that may be declassified...         518
 
-[[Page 519]]
+[[Page 515]]
 
 
 <R03>
-PART 2102_RULES AND REGULATIONS TO IMPLEMENT THE PRIVACY ACT OF 1974
---Table of Contents
+PART 2102_RULES AND REGULATIONS TO IMPLEMENT THE PRIVACY ACT OF 
 
+1974--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -42818,7 +42573,7 @@ function (50 U.S.C. 401, et seq.).
     (c) Systems of Records. A grouping of any records maintained by the 
 NSC from which information is retrieved by
 
-[[Page 520]]
+[[Page 516]]
 
 the name of the individual or by some other identifying particular 
 assigned to the individual.
@@ -42834,8 +42589,9 @@ any means.
 
 
 <R05>
-Sec. 2102.4  Procedures for determining if an individual is the subject 
-of a record.
+Sec. 2102.4  Procedures for determining if an individual is the 
+
+subject of a record.
 
     (a) Individuals desiring to determine if they are the subject of a 
 record or system of records maintained by the NSC Staff should address 
@@ -42898,7 +42654,7 @@ by the Staff Secretary or a designated alternate within ten working days
 (excluding Saturdays, Sundays, and legal Federal holidays) of the 
 receipt of the
 
-[[Page 521]]
+[[Page 517]]
 
 request. In the event that a response cannot be made within this time, 
 the requestor will be notified by mail of the reasons for the delay and 
@@ -42940,8 +42696,9 @@ the individual in order to process the appeal.
 
 
 <R05>
-Sec. 2102.21  Procedures for appeal of determination to deny access to 
-or amendment of requested records.
+Sec. 2102.21  Procedures for appeal of determination to deny access 
+
+to or amendment of requested records.
 
     (a) Individuals wishing to appeal an NSC Staff denial of a request 
 for access or to amend a record concerning them must address a letter of 
@@ -42977,7 +42734,7 @@ title 5, U.S.C. In addition, the requestor will be advised of his right
 to have a concise statement of the reasons for disagreeing with the 
 final determination appended to the disputed records. This statement
 
-[[Page 522]]
+[[Page 518]]
 
 should be mailed to the Staff Secretary within ten working days 
 (excluding Saturdays, Sundays, and legal Federal Holidays) of the date 
@@ -42985,7 +42742,8 @@ of the requestor's receipt of the final determination.
 
 
 <R05>
-Sec. 2102.31  Disclosure of a record to persons other than the 
+Sec. 2102.31  Disclosure of a record to persons other than the
+
 individual to whom it pertains.
 
     (a) Except as provided by the Privacy Act, 5 U.S.C. 552a(b), the NSC 
@@ -43053,10 +42811,12 @@ NSC 1.3--NSC Meetings Registry.
 
 
 <R03>
-PART 2103_REGULATIONS TO IMPLEMENT E.O. 12065_INCLUDING PROCEDURES FOR 
-PUBLIC ACCESS TO DOCUMENTS THAT MAY BE DECLASSIFIED--Table of Contents
+PART 2103_REGULATIONS TO IMPLEMENT E.O. 12065_INCLUDING 
 
+PROCEDURES FOR PUBLIC ACCESS TO DOCUMENTS THAT MAY BE 
+DECLASSIFIED--Table of Contents
 
+<R05>
 
 
                          Subpart A_Introduction
@@ -43077,7 +42837,7 @@ Sec.
 
 2103.21 Definition and application.
 
-[[Page 523]]
+[[Page 519]]
 
                Subpart D_Declassification and Downgrading
 
@@ -43181,7 +42941,7 @@ expected to nullify the effectiveness of the plan;
     (f) The information concerns specific foreign relations matters, the 
 continued protection of which is essential to the national security;
 
-[[Page 524]]
+[[Page 520]]
 
     (g) Disclosure of the information would place a person's life in 
 immediate jeopardy; or
@@ -43276,7 +43036,7 @@ rate of $.25 per page for all copying of four pages or more. No fee
 shall be assessed for reproducing documents that are three pages or 
 less, or for the first three pages of longer documents.
 
-[[Page 525]]
+[[Page 521]]
 
     (2) Where it is anticipated that the fees chargeable under this 
 section will amount to more than $25, and the requestor has not 
@@ -43354,29 +43114,31 @@ consist of the chairperson, the NSC Director of Freedom of Information,
 and the NSC Staff member with primary subject matter responsibility for 
 the material under review.
 
-[[Page 527]]
+[[Page 523]]
 
 
 <R02>
           CHAPTER XXIV--OFFICE OF SCIENCE AND TECHNOLOGY POLICY
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
 2400            Regulations to implement E.O. 12356; Office 
                     of Science and Technology Policy 
-                    information security program............         529
+                    information security program............         525
 
-[[Page 529]]
+[[Page 525]]
 
 
 <R03>
-PART 2400_REGULATIONS TO IMPLEMENT E.O. 12356; OFFICE OF SCIENCE AND 
-TECHNOLOGY POLICY INFORMATION SECURITY PROGRAM--Table of Contents
+PART 2400_REGULATIONS TO IMPLEMENT E.O. 12356; OFFICE OF SCIENCE
 
+AND TECHNOLOGY POLICY INFORMATION SECURITY PROGRAM--Table of 
+Contents
 
+<R05>
 
 
                       Subpart A_General Provisions
@@ -43483,7 +43245,7 @@ and Technology Policy (OSTP) relating to national security is protected
 from unauthorized disclosure, but only to the extent and for such period 
 as is necessary to safeguard the national security.
 
-[[Page 530]]
+[[Page 526]]
 
 
 <R05>
@@ -43571,7 +43333,7 @@ Sec. 2400.7  Original classification authority.
     (a) Authority for original classification of information as Top 
 Secret shall be exercised within OSTP only by the
 
-[[Page 531]]
+[[Page 527]]
 
 Director and by such principal subordinate officials having frequent 
 need to exercise such authority as the Director shall designate in 
@@ -43589,6 +43351,7 @@ writing to have original Confidential classification authority.
 
 <R05>
 Sec. 2400.8  Limitations on delegation of original classification 
+
 authority.
 
     (a) The Director, OSTP is the only official authorized to delegate 
@@ -43652,7 +43415,7 @@ security and that require protection against unauthorized disclosure as
 determined by the Director, Office of Science and Technology Policy. 
 Each such determination shall be reported promptly to
 
-[[Page 532]]
+[[Page 528]]
 
 the Director of the Information Security Oversight Office.
     (b) Foreign government information need not fall within any other 
@@ -43735,7 +43498,7 @@ than the person whose name appears as the approving or signing official;
 indicate which portions are classified, with the applicable 
 classification level, and which portions are not classified. The
 
-[[Page 533]]
+[[Page 529]]
 
 Director OSTP may, for good cause, grant and revoke waivers of this 
 requirement for specified classes of documents or information. The 
@@ -43821,7 +43584,7 @@ classification.
     (b) The classification guides shall be approved, in writing, by the 
 Director or by officials having Top Secret original
 
-[[Page 534]]
+[[Page 530]]
 
 classification authority. Such approval constitutes an original 
 classification decision.
@@ -43905,13 +43668,14 @@ official of either; or officials delegated such authority in writing by
 the Director, OSTP. The Executive Director, OSTP shall maintain a 
 current listing of persons or positions receiving
 
-[[Page 535]]
+[[Page 531]]
 
 those delegations. If possible, these listings shall be unclassified.
 
 
 <R05>
 Sec. 2400.19  Declassification by the Director of the Information 
+
 Security Oversight Office.
 
     If the Director of the Information Security Oversight Office (ISOO) 
@@ -43986,7 +43750,7 @@ committees, commissions, or boards appointed by the President, or others
 specifically providing advice and counsel to a President or acting on 
 behalf of a
 
-[[Page 536]]
+[[Page 532]]
 
 President is exempted from the mandatory review provisions of Sec. 
 2400.24(a) of this part. The Archivist of the United States shall have 
@@ -44058,7 +43822,7 @@ than one hour.
     (ii) Reproduction of documents. Documents will be reproduced at a 
 rate of
 
-[[Page 537]]
+[[Page 533]]
 
 $.25 per page for all copying of four pages or more. No fee shall be 
 assessed for reproducing documents that are three pages or less, or for 
@@ -44144,7 +43908,7 @@ Sec. 2400.25  Access.
     (a) A person is eligible for access to classified information 
 provided that a determination of trustworthiness has
 
-[[Page 538]]
+[[Page 534]]
 
 been made by agency heads or designated officials and provided that such 
 access is essential to the accomplishment of lawful and authorized 
@@ -44183,8 +43947,9 @@ maintained.
 
 
 <R05>
-Sec. 2400.26  Access by historical researchers and former Presidential 
-appointees.
+Sec. 2400.26  Access by historical researchers and former 
+
+Presidential appointees.
 
     (a) The requirement in Section 4.1(a) of Executive Order 12356 that 
 access to classified information may be granted only as is essential to 
@@ -44217,7 +43982,7 @@ a locked security container approved for the storage and protection of
 the appropriate level of classified information as prescribed in Sec. 
 2001.43 of Directive No. 1.
 
-[[Page 539]]
+[[Page 535]]
 
 
 <R05>
@@ -44301,7 +44066,7 @@ as implemented by the Security Officer. These procedures and methods
 must provide adequate protection to prevent access by unauthorized 
 persons and must preclude recognition
 
-[[Page 540]]
+[[Page 536]]
 
 or reconstruction of the classified information or material.
     (b) All classified information to be destroyed will be provided to 
@@ -44396,7 +44161,7 @@ Sec. 2400.38  Protection of foreign government information.
 prescribed by this regulation for United States classified information 
 of a comparable level.
 
-[[Page 541]]
+[[Page 537]]
 
 
 <R04>
@@ -44494,7 +44259,7 @@ equipment whenever it is not in use or under direct supervision of
 authorized persons. Custodians shall follow procedures which insure that 
 unauthorized persons
 
-[[Page 542]]
+[[Page 538]]
 
 do not gain access to classified information or material by sight or 
 sound, and classified information shall not be discussed with or in the 
@@ -44525,26 +44290,26 @@ should do so in writing. This correspondence should be addressed to:
 Executive Director, Office of Science and Technology Policy, Executive 
 Office of the President, Washington, DC 20506.
 
-[[Page 543]]
+[[Page 539]]
 
 
 <R02>
         CHAPTER XXVII--OFFICE FOR MICRONESIAN STATUS NEGOTIATIONS
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
-2700            Security information regulations............         545
+2700            Security information regulations............         541
 
-[[Page 545]]
+[[Page 541]]
 
 
 <R03>
 PART 2700_SECURITY INFORMATION REGULATIONS--Table of Contents
 
-
+<R05>
 
 
                          Subpart A_Introduction
@@ -44654,7 +44419,7 @@ information to be protected, prescribe classification, downgrading,
 declassification, and safeguarding procedures to be followed, and 
 establish education, monitoring and
 
-[[Page 546]]
+[[Page 542]]
 
 sanctioning systems to insure their effectiveness. When questions arise 
 as whether the need to protect information may be outweighed by the 
@@ -44730,7 +44495,7 @@ Information Security Oversight Committee, established pursuant to Sec.
 date of receipt and the challenger shall be notified of the results. 
 When requested, anonymity of the challenger shall be preserved.
 
-[[Page 547]]
+[[Page 543]]
 
 
 <R04>
@@ -44821,7 +44586,7 @@ within 60 days.
     (5) When OMSN receives a request for information in a document which 
 is in its custody, but which was classified by
 
-[[Page 548]]
+[[Page 544]]
 
 another agency, it shall refer the request to the appropriate agency for 
 review, together with a copy of the document containing the information 
@@ -44893,7 +44658,7 @@ other agencies.
     (3) When all documents involved in the request are declassified and 
 released, the receiving office will send a
 
-[[Page 549]]
+[[Page 545]]
 
 release statement, to the requester, and shall inform the requester of 
 any fees due before releasing documents.
@@ -44973,7 +44738,7 @@ made available to a person only when the possessor of the classified
 information establishes in each instance, except as provided in section 
 4-3 of E.O. 12065,
 
-[[Page 550]]
+[[Page 546]]
 
 that access is essential to the accomplishment of official Government 
 duties or contractual obligations.
@@ -45054,7 +44819,7 @@ knowingly and willingly commit a violation under section 5-5 of E.O.
 12065. These sanctions may include reprimand, suspension without pay, 
 removal, termination
 
-[[Page 551]]
+[[Page 547]]
 
 of classification authority, or other sanction in accordance with 
 applicable law or the applicable regulations of the agency from which 
@@ -45086,26 +44851,26 @@ requests submitted pursuant to section 3-5 of E.O. 12065. The Committee
 shall consist of the President's Personal Representative, Department of 
 Defense/Legal Advisor and Political/Economic Advisor.
 
-[[Page 553]]
+[[Page 549]]
 
 
 <R02>
     CHAPTER XXVIII--OFFICE OF THE VICE PRESIDENT OF THE UNITED STATES
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
-2800            Security procedures.........................         555
+2800            Security procedures.........................         551
 
-[[Page 555]]
+[[Page 551]]
 
 
 <R03>
 PART 2800_SECURITY PROCEDURES--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -45199,7 +44964,7 @@ other exemptions may be available).
 classified information or material unless a favorable background 
 investigation has been
 
-[[Page 556]]
+[[Page 552]]
 
 completed determining that the individual is trustworthy and that access 
 is necessary for the performance of official duties.
@@ -45269,7 +45034,7 @@ necessitate the use of a security container for storing only
 unclassified material, the container will be marked with a sign stating 
 ``This container is not used to store
 
-[[Page 557]]
+[[Page 553]]
 
 classified material'' or ``Do not store classified material in this 
 container.''
@@ -45342,7 +45107,7 @@ area and who intend to use commercial transportation shall provide the
 material to the Staff Security Office far enough in advance to assure 
 that the material will be available
 
-[[Page 558]]
+[[Page 554]]
 
 on or before the date needed. This requirement does not apply when 
 utilizing government/military transportation. In this case, material may 
@@ -45410,7 +45175,7 @@ imprints on used typewriter ribbons. Therefore, ribbons which are used
 in the preparation of classified material must be safeguarded 
 accordingly, i.e., they will
 
-[[Page 559]]
+[[Page 555]]
 
 be stored in a safe at the close of business, destroyed as classified 
 waste when no longer serviceable, etc.
@@ -45489,7 +45254,7 @@ Domestic Policy.
     (f) Additionally, the following individuals are designated to 
 declassify ``SECRET'' and/or ``CONFIDENTIAL''
 
-[[Page 560]]
+[[Page 556]]
 
 information in accordance with section 3-103 of E.O. 12065:
     (i) Staff Security Officer/Top Secret Control Officer.
@@ -45505,20 +45270,20 @@ official to chair Ad Hoc Committees as necessary to act on all
 suggestions and complaints with respect to the administration of the 
 information security program.
 
-[[Page 561]]
+[[Page 557]]
 
     Attachment 1 to Part 2800--Employment Agreement & Indoctrination 
                                 Statement
 [GRAPHIC] [TIFF OMITTED] TC21OC91.054
 
 
-[[Page 562]]
+[[Page 558]]
 
 
 [GRAPHIC] [TIFF OMITTED] TC21OC91.055
 
 
-[[Page 563]]
+[[Page 559]]
 
 
 
@@ -45526,23 +45291,22 @@ information security program.
 [GRAPHIC] [TIFF OMITTED] TC25OC91.011
 
 
-[[Page 564]]
+[[Page 560]]
 
 
 
                     Attachment 3 to Part 2800--Sample
 [GRAPHIC] [TIFF OMITTED] TC25OC91.012
 
-
 
-[[Page 565]]
+[[Page 561]]
 
 
 <R02>
                               FINDING AIDS
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 
@@ -45555,16 +45319,16 @@ which is published separately and revised annually.
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
-[[Page 567]]
+[[Page 563]]
 
 
 <R03>
                     Table of CFR Titles and Chapters
 
 
+<R04>
 
-
-                      (Revised as of July 1, 2006)
+                      (Revised as of July 1, 2007)
 
                       Title 1--General Provisions
 
@@ -45582,12 +45346,32 @@ which is published separately and revised annually.
         II  Office of Management and Budget Circulars and Guidance 
                 (200-299)
             Subtitle B--Federal Agency Regulations for Grants and 
-                Agreements [Reserved]
-
+                Agreements
+       III  Department of Health and Human Services (Part 376)
+        VI  Department of State (Part 601)
+      VIII  Department of Veterans Affairs (Part 801)
+        IX  Department of Energy (Part 901)
+        XI  Department of Defense (Part 1125)
+       XIV  Department of the Interior (Part 1400)
+        XV  Environmental Protection Agency (Part 1532)
+     XVIII  National Aeronautics and Space Administration (Part 
+                1880 )
+      XXII  Corporation for National and Community Service (Part 
+                2200)
+       XXV  National Science Foundation (Part 2520)
+      XXVI  National Archives and Records Administration (Part 
+                2600)
+    XXVIII  Department of Justice (Part 2867)
+     XXXII  National Endowment for the Arts (Part 3254)
+    XXXIII  National Endowment for the Humanities (Part 3369)
+      XXXV  Export-Import Bank of the United States (Part 3513)
+    XXXVII  Peace Corps (Part 3700)
 
                         Title 3--The President
 
          I  Executive Office of the President (Parts 100--199)
+
+[[Page 564]]
 
                            Title 4--Accounts
 
@@ -45608,9 +45392,6 @@ which is published separately and revised annually.
        XIV  Federal Labor Relations Authority, General Counsel of 
                 the Federal Labor Relations Authority and Federal 
                 Service Impasses Panel (Parts 2400--2499)
-
-[[Page 568]]
-
         XV  Office of Administration, Executive Office of the 
                 President (Parts 2500--2599)
        XVI  Office of Government Ethics (Parts 2600--2699)
@@ -45642,6 +45423,9 @@ which is published separately and revised annually.
         LV  National Endowment for the Arts (Part 6501)
        LVI  National Endowment for the Humanities (Part 6601)
       LVII  General Services Administration (Part 6701)
+
+[[Page 565]]
+
      LVIII  Board of Governors of the Federal Reserve System (Part 
                 6801)
        LIX  National Aeronautics and Space Administration (Part 
@@ -45650,6 +45434,7 @@ which is published separately and revised annually.
        LXI  National Labor Relations Board (Part 7101)
       LXII  Equal Employment Opportunity Commission (Part 7201)
      LXIII  Inter-American Foundation (Part 7301)
+      LXIV  Merit Systems Protection Board (Part 7401)
        LXV  Department of Housing and Urban Development (Part 
                 7501)
       LXVI  National Archives and Records Administration (Part 
@@ -45661,9 +45446,6 @@ which is published separately and revised annually.
      LXXIV  Federal Mine Safety and Health Review Commission (Part 
                 8401)
      LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
-
-[[Page 569]]
-
     LXXVII  Office of Management and Budget (Part 8701)
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
@@ -45673,10 +45455,12 @@ which is published separately and revised annually.
                 Labor Relations Systems (Department of Defense--
                 Office of Personnel Management) (Part 9901)
 
-                      Title 6--Homeland Security
+                      Title 6--Domestic Security
 
          I  Department of Homeland Security, Office of the 
                 Secretary (Parts 0--99)
+         X  Privacy and Civil Liberties Oversight Board (Parts 
+                1000)
 
                          Title 7--Agriculture
 
@@ -45699,6 +45483,9 @@ which is published separately and revised annually.
                 Agriculture (Parts 600--699)
        VII  Farm Service Agency, Department of Agriculture (Parts 
                 700--799)
+
+[[Page 566]]
+
       VIII  Grain Inspection, Packers and Stockyards 
                 Administration (Federal Grain Inspection Service), 
                 Department of Agriculture (Parts 800--899)
@@ -45719,9 +45506,6 @@ which is published separately and revised annually.
                 1600--1699)
       XVII  Rural Utilities Service, Department of Agriculture 
                 (Parts 1700--1799)
-
-[[Page 570]]
-
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
                 Agency, Department of Agriculture (Parts 1800--
@@ -45756,6 +45540,9 @@ which is published separately and revised annually.
    XXXVIII  World Agricultural Outlook Board, Department of 
                 Agriculture (Parts 3800--3899)
        XLI  [Reserved]
+
+[[Page 567]]
+
       XLII  Rural Business-Cooperative Service and Rural Utilities 
                 Service, Department of Agriculture (Parts 4200--
                 4299)
@@ -45776,8 +45563,6 @@ which is published separately and revised annually.
                 Department of Agriculture (Parts 200--299)
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
-
-[[Page 571]]
 
                            Title 10--Energy
 
@@ -45811,6 +45596,9 @@ which is published separately and revised annually.
        VII  National Credit Union Administration (Parts 700--799)
       VIII  Federal Financing Bank (Parts 800--899)
         IX  Federal Housing Finance Board (Parts 900--999)
+
+[[Page 568]]
+
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
@@ -45831,8 +45619,6 @@ which is published separately and revised annually.
                 Commerce (Parts 400--499)
          V  Emergency Oil and Gas Guaranteed Loan Board, 
                 Department of Commerce (Parts 500--599)
-
-[[Page 572]]
 
                     Title 14--Aeronautics and Space
 
@@ -45866,6 +45652,9 @@ which is published separately and revised annually.
                 Commerce (Parts 700--799)
       VIII  Bureau of Economic Analysis, Department of Commerce 
                 (Parts 800--899)
+
+[[Page 569]]
+
         IX  National Oceanic and Atmospheric Administration, 
                 Department of Commerce (Parts 900--999)
         XI  Technology Administration, Department of Commerce 
@@ -45887,8 +45676,6 @@ which is published separately and revised annually.
 
          I  Federal Trade Commission (Parts 0--999)
         II  Consumer Product Safety Commission (Parts 1000--1799)
-
-[[Page 573]]
 
              Title 17--Commodity and Securities Exchanges
 
@@ -45916,6 +45703,8 @@ which is published separately and revised annually.
                 Commerce (Parts 300--399)
         IV  Bureau of Immigration and Customs Enforcement, 
                 Department of Homeland Security (Parts 400--599)
+
+[[Page 570]]
 
                      Title 20--Employees' Benefits
 
@@ -45946,8 +45735,6 @@ which is published separately and revised annually.
        III  Office of National Drug Control Policy (Parts 1400--
                 1499)
 
-[[Page 574]]
-
                       Title 22--Foreign Relations
 
          I  Department of State (Parts 1--199)
@@ -45958,8 +45745,7 @@ which is published separately and revised annually.
          V  Broadcasting Board of Governors (Parts 500--599)
        VII  Overseas Private Investment Corporation (Parts 700--
                 799)
-        IX  Foreign Service Grievance Board Regulations (Parts 
-                900--999)
+        IX  Foreign Service Grievance Board (Parts 900--999)
          X  Inter-American Foundation (Parts 1000--1099)
         XI  International Boundary and Water Commission, United 
                 States and Mexico, United States Section (Parts 
@@ -45974,6 +45760,8 @@ which is published separately and revised annually.
        XVI  Japan-United States Friendship Commission (Parts 
                 1600--1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
+
+[[Page 571]]
 
                           Title 23--Highways
 
@@ -46005,9 +45793,6 @@ which is published separately and revised annually.
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
-
-[[Page 575]]
-
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
@@ -46037,6 +45822,8 @@ which is published separately and revised annually.
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
 
+[[Page 572]]
+
                            Title 25--Indians
 
          I  Bureau of Indian Affairs, Department of the Interior 
@@ -46064,9 +45851,6 @@ which is published separately and revised annually.
 
          I  Alcohol and Tobacco Tax and Trade Bureau, Department 
                 of the Treasury (Parts 1--399)
-
-[[Page 576]]
-
         II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
                 Department of Justice (Parts 400--699)
 
@@ -46093,6 +45877,9 @@ which is published separately and revised annually.
                 0--99)
             Subtitle B--Regulations Relating to Labor
          I  National Labor Relations Board (Parts 100--199)
+
+[[Page 573]]
+
         II  Office of Labor-Management Standards, Department of 
                 Labor (Parts 200--299)
        III  National Railroad Adjustment Board (Parts 300--399)
@@ -46117,8 +45904,6 @@ which is published separately and revised annually.
                 (Parts 2700--2799)
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
-
-[[Page 577]]
 
                       Title 30--Mineral Resources
 
@@ -46152,6 +45937,9 @@ which is published separately and revised annually.
                 the Treasury (Parts 700--799)
       VIII  Office of International Investment, Department of the 
                 Treasury (Parts 800--899)
+
+[[Page 574]]
+
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
 
@@ -46176,9 +45964,6 @@ which is published separately and revised annually.
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
-
-[[Page 578]]
-
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
 
@@ -46209,11 +45994,14 @@ which is published separately and revised annually.
                 Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
                 Education (Parts 600--699)
+
+[[Page 575]]
+
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
-                         Title 35--[RESERVED]
+                          Title 35 [Reserved]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -46236,9 +46024,6 @@ which is published separately and revised annually.
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
-
-[[Page 579]]
-
        XVI  Morris K. Udall Scholarship and Excellence in National 
                 Environmental Policy Foundation (Parts 1600--1699)
 
@@ -46266,6 +46051,9 @@ which is published separately and revised annually.
                   Title 40--Protection of Environment
 
          I  Environmental Protection Agency (Parts 1--1099)
+
+[[Page 576]]
+
         IV  Environmental Protection Agency and Department of 
                 Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
@@ -46294,9 +46082,6 @@ which is published separately and revised annually.
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
-
-[[Page 580]]
-
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
@@ -46323,6 +46108,9 @@ which is published separately and revised annually.
 
          I  Public Health Service, Department of Health and Human 
                 Services (Parts 1--199)
+
+[[Page 577]]
+
         IV  Centers for Medicare & Medicaid Services, Department 
                 of Health and Human Services (Parts 400--499)
          V  Office of Inspector General-Health Care, Department of 
@@ -46346,8 +46134,6 @@ which is published separately and revised annually.
                 Homeland Security (Parts 0--399)
         IV  Department of Commerce and Department of 
                 Transportation (Parts 400--499)
-
-[[Page 581]]
 
                        Title 45--Public Welfare
 
@@ -46377,6 +46163,9 @@ which is published separately and revised annually.
                 (Parts 1100--1199)
        XII  Corporation for National and Community Service (Parts 
                 1200--1299)
+
+[[Page 578]]
+
       XIII  Office of Human Development Services, Department of 
                 Health and Human Services (Parts 1300--1399)
        XVI  Legal Services Corporation (Parts 1600--1699)
@@ -46404,9 +46193,6 @@ which is published separately and revised annually.
                       Title 47--Telecommunication
 
          I  Federal Communications Commission (Parts 0--199)
-
-[[Page 582]]
-
         II  Office of Science and Technology Policy and National 
                 Security Council (Parts 200--299)
        III  National Telecommunications and Information 
@@ -46432,6 +46218,9 @@ which is published separately and revised annually.
         13  Department of Commerce (Parts 1300--1399)
         14  Department of the Interior (Parts 1400--1499)
         15  Environmental Protection Agency (Parts 1500--1599)
+
+[[Page 579]]
+
         16  Office of Personnel Management, Federal Employees 
                 Health Benefits Acquisition Regulation (Parts 
                 1600--1699)
@@ -46457,9 +46246,6 @@ which is published separately and revised annually.
         44  Federal Emergency Management Agency (Parts 4400--4499)
         51  Department of the Army Acquisition Regulations (Parts 
                 5100--5199)
-
-[[Page 583]]
-
         52  Department of the Navy Acquisition Regulations (Parts 
                 5200--5299)
         53  Department of the Air Force Federal Acquisition 
@@ -46488,6 +46274,9 @@ which is published separately and revised annually.
                 Transportation (Parts 200--299)
        III  Federal Motor Carrier Safety Administration, 
                 Department of Transportation (Parts 300--399)
+
+[[Page 580]]
+
         IV  Coast Guard, Department of Homeland Security (Parts 
                 400--499)
          V  National Highway Traffic Safety Administration, 
@@ -46500,7 +46289,7 @@ which is published separately and revised annually.
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
         XI  Research and Innovative Technology Administration, 
-                Department of Transportation (Parts 1400--1499)
+                Department of Transportation - [RESERVED]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
 
@@ -46513,9 +46302,6 @@ which is published separately and revised annually.
                 Commerce (Parts 200--299)
        III  International Fishing and Related Activities (Parts 
                 300--399)
-
-[[Page 584]]
-
         IV  Joint Regulations (United States Fish and Wildlife 
                 Service, Department of the Interior and National 
                 Marine Fisheries Service, National Oceanic and 
@@ -46535,7 +46321,7 @@ which is published separately and revised annually.
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 585]]
+[[Page 581]]
 
 
 
@@ -46544,9 +46330,9 @@ which is published separately and revised annually.
            Alphabetical List of Agencies Appearing in the CFR
 
 
+<R04>
 
-
-                      (Revised as of July 1, 2006)
+                      (Revised as of July 1, 2007)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -46608,7 +46394,7 @@ American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 
-[[Page 586]]
+[[Page 582]]
 
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -46680,10 +46466,10 @@ Court Services and Offender Supervision Agency    28, VIII
      for the District of Columbia
 Customs and Border Protection Bureau              19, I
 Defense Contract Audit Agency                     32, I
-Defense Department                                5, XXVI; 32, Subtitle A; 
-                                                  40, VII
+Defense Department                                2, XI; 5, XXVI; 32, 
+                                                  Subtitle A; 40, VII
 
-[[Page 587]]
+[[Page 583]]
 
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
@@ -46732,14 +46518,16 @@ Employees Loyalty Board                           5, V
 Employment and Training Administration            20, V
 Employment Standards Administration               20, VI
 Endangered Species Committee                      50, IV
-Energy, Department of                             5, XXIII; 10, II, III, X
+Energy, Department of                             2, IX; 5, XXIII; 10, II, 
+                                                  III, X
   Federal Acquisition Regulation                  48, 9
   Federal Energy Regulatory Commission            5, XXIV; 18, I
   Property Management Regulations                 41, 109
 Energy, Office of                                 7, XXIX
 Engineers, Corps of                               33, II; 36, III
 Engraving and Printing, Bureau of                 31, VI
-Environmental Protection Agency                   5, LIV; 40, I, IV, VII
+Environmental Protection Agency                   2, XV; 5, LIV; 40, I, IV, 
+                                                  VII
   Federal Acquisition Regulation                  48, 15
   Property Management Regulations                 41, 115
 Environmental Quality, Office of                  7, XXXI
@@ -46753,14 +46541,14 @@ Executive Office of the President                 3, I
                                                   48, 99
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
+
+[[Page 584]]
+
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
-
-[[Page 588]]
-
   Trade Representative, Office of the United      15, XX
        States
-Export-Import Bank of the United States           5, LII; 12, IV
+Export-Import Bank of the United States           2, XXXV; 5, LII; 12, IV
 Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
@@ -46828,11 +46616,11 @@ Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
+
+[[Page 585]]
+
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
-
-[[Page 589]]
-
   Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
@@ -46849,7 +46637,8 @@ Government National Mortgage Association          24, III
 Grain Inspection, Packers and Stockyards          7, VIII; 9, II
      Administration
 Harry S. Truman Scholarship Foundation            45, XVIII
-Health and Human Services, Department of          5, XLV; 45, Subtitle A
+Health and Human Services, Department of          2, III; 5, XLV; 45, 
+                                                  Subtitle A
   Centers for Medicare & Medicaid Services        42, IV
   Child Support Enforcement, Office of            45, III
   Children and Families, Administration for       45, II, III, IV, X
@@ -46903,18 +46692,19 @@ Indian Affairs, Office of the Assistant           25, VI
 Indian Arts and Crafts Board                      25, II
 Indian Health Service                             25, V; 42, I
 Industry and Security, Bureau of                  15, VII
+
+[[Page 586]]
+
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
-   Archives and Records Administration
-[[Page 590]]
-
+     Archives and Records Administration
 Inspector General
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
   Housing and Urban Development Department        24, XII
 Institute of Peace, United States                 22, XVII
 Inter-American Foundation                         5, LXIII; 22, X
-Interior Department
+Interior Department                               2, XIV
   American Indians, Office of the Special         25, VII
        Trustee
   Endangered Species Committee                    50, IV
@@ -46957,8 +46747,8 @@ Interstate Commerce Commission                    5, XL
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                5, XXVIII; 28, I, XI; 40, 
-                                                  IV
+Justice Department                                2, XXVIII; 5, XXVIII; 28, 
+                                                  I, XI; 40, IV
   Alcohol, Tobacco, Firearms, and Explosives,     27, II
        Bureau of
   Drug Enforcement Administration                 21, II
@@ -46982,12 +46772,12 @@ Labor Department                                  5, XLII
        of
   Federal Procurement Regulations System          41, 50
   Labor-Management Standards, Office of           29, II, IV
+
+[[Page 587]]
+
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
   Public Contracts                                41, 50
-
-[[Page 591]]
-
   Secretary of Labor, Office of                   29, Subtitle A
   Veterans' Employment and Training Service,      41, 61; 20, IX
        Office of the Assistant Secretary for
@@ -47004,7 +46794,7 @@ Management and Budget, Office of                  5, III, LXXVII; 14, VI;
                                                   48, 99
 Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
-Merit Systems Protection Board                    5, II
+Merit Systems Protection Board                    5, II; 5, LXIV
 Micronesian Status Negotiations, Office for       32, XXVII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
@@ -47013,12 +46803,12 @@ Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
 Morris K. Udall Scholarship and Excellence in     36, XVI
      National Environmental Policy Foundation
-National Aeronautics and Space Administration     5, LIX; 14, V
+National Aeronautics and Space Administration     2, XVIII; 5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
 National Agricultural Statistics Service          7, XXXVI
-National and Community Service, Corporation for   45, XII, XXV
-National Archives and Records Administration      5, LXVI; 36, XII
+National and Community Service, Corporation for   2, XXII; 45, XII, XXV
+National Archives and Records Administration      2, XXVI; 5, LXVI; 36, XII
   Information Security Oversight Office           32, XX
 National Bureau of Standards                      15, II
 National Capital Planning Commission              1, IV
@@ -47031,6 +46821,8 @@ National Credit Union Administration              12, VII
 National Crime Prevention and Privacy Compact     28, IX
      Council
 National Drug Control Policy, Office of           21, III
+National Endowment for the Arts                   2, XXXII
+National Endowment for the Humanities             2, XXXIII
 National Foundation on the Arts and the           45, XI
      Humanities
 National Highway Traffic Safety Administration    23, II, III; 49, V
@@ -47046,22 +46838,21 @@ National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV,
 National Park Service                             36, I
 National Railroad Adjustment Board                29, III
 National Railroad Passenger Corporation (AMTRAK)  49, VII
-National Science Foundation                       5, XLIII; 45, VI
+National Science Foundation                       2, XXV; 5, XLIII; 45, VI
   Federal Acquisition Regulation                  48, 25
 National Security Council                         32, XXI
 National Security Council and Office of Science   47, II
      and Technology Policy
 National Telecommunications and Information       15, XXIII; 47, III
-     Administration
+   Administration
+[[Page 588]]
+
 National Transportation Safety Board              49, VIII
 National Weather Service                          15, IX
 Natural Resources Conservation Service            7, VI
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
-
-[[Page 592]]
-
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Interstate Low-Level Radioactive Waste  10, XVIII
      Commission
@@ -47078,7 +46869,7 @@ Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
      Certain Employees
-Peace Corps                                       22, III
+Peace Corps                                       2, XXXVII; 22, III
 Pennsylvania Avenue Development Corporation       36, IX
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
@@ -47097,6 +46888,7 @@ President's Commission on White House             1, IV
 Presidential Documents                            3
 Presidio Trust                                    36, X
 Prisons, Bureau of                                28, V
+Privacy and Civil Liberties Oversight Board       6, X
 Procurement and Property Management, Office of    7, XXXII
 Productivity, Technology and Innovation,          37, IV
      Assistant Secretary
@@ -47128,18 +46920,18 @@ Smithsonian Institution                           36, V
 Social Security Administration                    20, III; 48, 23
 Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
+
+[[Page 589]]
+
 Special Education and Rehabilitative Services,    34, III
      Office of
-State Department                                  22, I; 28, XI
+State Department                                  2, VI; 22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
 Surface Mining and Reclamation Appeals, Board of  30, III
 Surface Mining Reclamation and Enforcement,       30, VII
      Office of
 Surface Transportation Board                      49, X
 Susquehanna River Basin Commission                18, VIII
-
-[[Page 593]]
-
 Technology Administration                         15, XI
 Technology Policy, Assistant Secretary for        37, IV
 Technology, Under Secretary for                   37, V
@@ -47194,7 +46986,7 @@ United States and Mexico, International Boundary  22, XI
      and Water Commission, United States Section
 Utah Reclamation Mitigation and Conservation      43, III
      Commission
-Veterans Affairs Department                       38, I
+Veterans Affairs Department                       2, VIII; 38, I
   Federal Acquisition Regulation                  48, 8
 Veterans' Employment and Training Service,        41, 61; 20, IX
      Office of the Assistant Secretary for
@@ -47205,13 +46997,13 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 595]]
+[[Page 591]]
 
 
 <R03>
 List of CFR Sections Affected
 
-
+<R04>
 
 All changes in this volume of the Code of Federal Regulations that were 
 made by documents published in the Federal Register since January 1, 
@@ -47227,5 +47019,26 @@ Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000'' published in
 
 32 CFR
                                                                    66 FR
-                                                           
+                                                                    Page
+Chapter VII
+806b Appendix C amended............................................54930
+989.1 (a) and (b) corrected........................................16868
+989.3 (a)(4)(i), (iii), (c)(2)(iv), (d)(7) and (h)(7) corrected....16868
+989.5 (d) corrected................................................16868
+989.12 Corrected...................................................16868
+989.13 (c) corrected...............................................16868
+989.14 (g) through (j) corrected...................................16868
+989.17 Corrected...................................................16868
+989.18 (a) corrected........................................16868, 26793
+989.19 (a), (b) and (c)(2) corrected...............................16868
+989.20 Corrected...................................................16868
+989.21 (a) and (b) corrected.......................................16868
+989.22 (a), (b) and (d) amended....................................16868
+989.29 Corrected...................................................16869
+989.32 Corrected...................................................16869
+989.34 (a) and (b) corrected.......................................16869
+989.35 (c) corrected...............................................16869
+989.36 Corrected...................................................16869
+989.38 (b), (c) and (d) corrected..................................16869
+989
 </pre></body></html>

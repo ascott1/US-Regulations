@@ -1,25 +1,25 @@
 <html><body><pre>
 [Title 15 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2006 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2007 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-
+          
 <R02>
           15
 
 
           Parts 0 to 299
 
-                         Revised as of January 1, 2006
+                         Revised as of January 1, 2007
 
 
           Commerce and Foreign Trade
           
-          <R03>
+<R03>
 
 
 ________________________
@@ -27,7 +27,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of January 1, 2006
+          As of January 1, 2007
           With Ancillaries
                     Published by
                     Office of the Federal Register
@@ -162,7 +162,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2006), consult the ``List of CFR 
+revision date (in this case, January 1, 2007), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -263,14 +263,14 @@ mail, gpoaccess@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
-information. Connect to NARA's web site at www.archives.gov/federal--
+information. Connect to NARA's web site at www.archives.gov/federal-
 register. The NARA site also contains links to GPO Access.
 
                               Raymond A. Mosley,
                                     Director,
                           Office of the Federal Register.
 
-January 1, 2006.
+January 1, 2007.
 
 [[Page ix]]
 
@@ -297,11 +297,12 @@ Agency, chapter XX--Office of the United States Trade Representative,
 and chapter XXIII--National Telecommunications and Information 
 Administration, Department of Commerce. The contents of these volumes 
 represent all current regulations codified under this title of the CFR 
-as of January 1, 2006.
+as of January 1, 2007.
 
     For this volume, Cheryl E. Sirofchuck was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
-Frances D. McDonald, assisted by Alomha S. Morris.
+Frances D. McDonald, assisted by Ann Worley.
+
 
 [[Page 1]]
 
@@ -310,7 +311,7 @@ Frances D. McDonald, assisted by Alomha S. Morris.
                   TITLE 15--COMMERCE AND FOREIGN TRADE
 
 
-
+<R02>
 
                    (This book contains parts 0 to 299)
 
@@ -337,14 +338,20 @@ Part                                                                Page
 1               The Seal of the Department of Commerce......          17
 2               Procedures for handling and settlement of 
                     claims under the Federal Tort Claims Act          18
-3               [Reserved]
+3
+
+[Reserved]
+
 4               Disclosure of government information........          20
 4a              Classification, declassification, and public 
                     availability of national security 
                     information.............................          50
 5               Operation of vending stands.................          53
 6               Civil monetary penalty inflation adjustments          55
-7               [Reserved]
+7
+
+[Reserved]
+
 8               Nondiscrimination in federally assisted 
                     programs of the Department of Commerce--
                     effectuation of Title VI of the Civil 
@@ -411,7 +418,7 @@ Part                                                                Page
 <R03>
 PART 0_EMPLOYEE RESPONSIBILITIES AND CONDUCT--Table of Contents
 
-
+<R05>
 
 
                       Subpart A_General Provisions
@@ -487,8 +494,7 @@ policy and procedure relating to employee responsibilities and conduct.
 
 
 <R05>
-Sec. 0.735-2  Cross-references to ethical conduct, financial disclosure, 
-and other applicable regulations.
+Sec. 0.735-2  Cross-references to ethical conduct, financial disclosure, and other applicable regulations.
 
     Employees of the Department of Commerce should refer to the 
 executive branch-wide Standards of Ethical Conduct at 5 CFR part 2635 
@@ -1535,7 +1541,7 @@ foreign principal registered under the Foreign Agents Registration Act
 <R03>
 PART 1_THE SEAL OF THE DEPARTMENT OF COMMERCE--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -1620,10 +1626,11 @@ properly authorized office or bureau seals in appropriate cases.
 
 
 <R03>
-PART 2_PROCEDURES FOR HANDLING AND SETTLEMENT OF CLAIMS UNDER THE FEDERAL 
-TORT CLAIMS ACT--Table of Contents
+PART 2_PROCEDURES FOR HANDLING AND SETTLEMENT OF CLAIMS UNDER THE FEDERAL TORT 
 
+CLAIMS ACT--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -1832,7 +1839,7 @@ Redesignated and amended at 63 FR 29945, June 2, 1998]
 <R03>
 PART 4_DISCLOSURE OF GOVERNMENT INFORMATION--Table of Contents
 
-
+<R05>
 
 
                   Subpart A_Freedom of Information Act
@@ -1876,7 +1883,7 @@ Appendix A to Part 4--Freedom of Information Public Inspection
           Facilities, and Addresses for Requests for Records Under the 
           Freedom of Information Act and Privacy Act, and Requests for 
           Correction or Amendment Under the Privacy Act.
-Appendix B to Part 4--Officials Authorized to Deny Requests for Records 
+Appendix B to Part 4--Officials Authorized To Deny Requests for Records 
           Under the Freedom of Information Act, and Requests for Records 
           and Requests for Correction or Amendment Under the Privacy 
           Act.
@@ -2058,9 +2065,9 @@ the proper component of the Department to respond to a request for
 records is the component that first receives the request and has 
 responsive records, or the component to which the Departmental Freedom 
 of Information Officer assigns lead responsibility for responding to the 
-request. Records responsive to a request shall include only those 
-records within the Department's possession and control as of the date 
-the proper component receives the request.
+request. Records responsive to a request shall include those records 
+within the Department's possession and control as of the date the 
+Department begins its search for them.
     (b) Consultations and referrals. If a component receives a request 
 for a record in its possession in which another Federal agency subject 
 to the FOIA has the primary interest, the component shall refer the 
@@ -2085,6 +2092,8 @@ based on when the FOIA request was received by the first Federal agency.
 make agreements with other Federal agencies to eliminate the need for 
 consultations or referrals for particular types of records.
 
+[66 FR 65632, Dec. 20, 2001, as amended at 71 FR 31073, June 1, 2006]
+
 
 <R05>
 Sec. 4.6  Time limits and expedited processing.
@@ -2106,11 +2115,11 @@ circumstances and of the date by which processing of the request is
 expected to be completed. If the extension is for more than ten working 
 days, the component shall provide the requester an opportunity either to 
 modify the request so that it may be processed within the applicable 
-time limit, or to arrange an alternative time frame for processing the 
-request or a modified request.
+time limit, or to arrange an alternative time frame for
 
 [[Page 24]]
 
+processing the request or a modified request.
     (2) As used in this section, unusual circumstances means, but only 
 to the extent reasonably necessary to properly process the particular 
 request:
@@ -3409,8 +3418,9 @@ as to the records within the grant and the records within the denial.
 
 
 <R05>
-Sec. 4.29  Appeal of initial adverse agency determination on correction 
-or amendment.
+Sec. 4.29  Appeal of initial adverse agency determination on correction or 
+
+amendment.
 
     (a) If a request for correction or amendment is denied initially 
 under Sec. 4.28, the individual may submit a written appeal within 
@@ -3510,8 +3520,9 @@ section satisfy the requirements of 5 U.S.C. 552a(e)(3).
 
 
 <R05>
-Sec. 4.30  Disclosure of record to person other than the individual to 
-whom it pertains.
+Sec. 4.30  Disclosure of record to person other than the individual to whom 
+
+it pertains.
 
     (a) The Department may disclose a record pertaining to an individual 
 to a person other than the individual to whom it pertains only in the 
@@ -3908,7 +3919,7 @@ Department of Commerce, Room 4835, 14th and Constitution Avenue, NW,
 Washington, DC 20230; (202) 482-1984. This component does not maintain a 
 separate public inspection facility.
 
-Appendix B to Part 4--Officials Authorized to Deny Requests for Records 
+Appendix B to Part 4--Officials Authorized To Deny Requests for Records 
    Under the Freedom of Information Act, and Requests for Records and 
        Requests for Correction or Amendment Under the Privacy Act
 
@@ -4208,11 +4219,9 @@ Formal Complaints/Appeals of       Merit Systems Protection Board.\4\
 
 
 <R03>
-PART 4a_CLASSIFICATION, DECLASSIFICATION, AND PUBLIC AVAILABILITY OF 
-NATIONAL SECURITY INFORMATION--Table of Contents
+PART 4a_CLASSIFICATION, DECLASSIFICATION, AND PUBLIC AVAILABILITY OF NATIONAL 
 
-
-
+SECURITY INFORMATION
 
 Sec.
 4a.1 General.
@@ -4396,6 +4405,7 @@ his or her decision.
 
 <R05>
 Sec. 4a.8  Access to classified information by individuals outside the 
+
 Government.
 
     (a) Industrial, Educational, and Commercial Entities. Certain 
@@ -4446,7 +4456,7 @@ classifying agency.
 <R03>
 PART 5_OPERATION OF VENDING STANDS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -4637,7 +4647,7 @@ Bureau of the Budget, pursuant to Executive Order 10604, of April 22,
 <R03>
 PART 6_CIVIL MONETARY PENALTY INFLATION ADJUSTMENTS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -4841,11 +4851,13 @@ jurisdiction of the Department.
 
 
 <R03>
-PART 8_NONDISCRIMINATION IN FEDERALLY ASSISTED PROGRAMS OF THE DEPARTMENT 
-OF COMMERCE_EFFECTUATION OF TITLE VI OF THE CIVIL RIGHTS ACT OF 1964
---Table of Contents
+PART 8_NONDISCRIMINATION IN FEDERALLY ASSISTED PROGRAMS OF THE DEPARTMENT OF 
 
+COMMERCE_EFFECTUATION OF TITLE VI OF THE CIVIL RIGHTS ACT OF 1964--Table of 
 
+Contents
+
+<R05>
 
 
  Subpart A_General Provisions; Prohibitions: Nondiscrimination Clause; 
@@ -5415,8 +5427,7 @@ the Act.
 
 
 <R05>
-Sec. 8.7  Cooperation, compliance reports and reviews and access to 
-records.
+Sec. 8.7  Cooperation, compliance reports and reviews and access to records.
 
     (a) Cooperation and assistance. Each responsible Department official 
 shall to the fullest extent practicable seek the cooperation of 
@@ -5946,7 +5957,7 @@ U.S.C. 3151; Executive Order 11625, Oct. 13, 1971).
 
     1. Supplemental grants to Federal grant-in-aid programs and 
 technical assistance funds for planning, investigations, studies, 
-training programs, and demonstration proj ects, including demonstrations 
+training programs, and demonstration projects, including demonstrations 
 in energy, transportation, health and nutrition, education and 
 indigenous arts and crafts (title V of the Public Works and Economic 
 Development Act of 1965, as amended, 42 U.S.C. 3181-3196).
@@ -5981,9 +5992,10 @@ U.S.C. 3121 et seq.).
 
 <R03>
 PART 8a_NONDISCRIMINATION ON THE BASIS OF SEX IN EDUCATION PROGRAMS OR 
+
 ACTIVITIES RECEIVING FEDERAL FINANCIAL ASSISTANCE--Table of Contents
 
-
+<R05>
 
 
                          Subpart A_Introduction
@@ -6339,8 +6351,9 @@ sex than for members of the other sex.
 
 
 <R05>
-Sec. 8a.135  Designation of responsible employee and adoption of 
-grievance procedures.
+Sec. 8a.135  Designation of responsible employee and adoption of grievance 
+
+procedures.
 
     (a) Designation of responsible employee. Each recipient shall 
 designate at least one employee to coordinate its efforts to comply with 
@@ -6425,8 +6438,9 @@ financial assistance.
 
 
 <R05>
-Sec. 8a.205  Educational institutions and other entities controlled 
-by religious organizations.
+Sec. 8a.205  Educational institutions and other entities controlled by 
+
+religious organizations.
 
     (a) Exemption. These Title IX regulations do not apply to any 
 operation of an educational institution or other entity that is 
@@ -7345,11 +7359,11 @@ regulations.
 <R05>
 Sec. 8a.550  Sex as a bona fide occupational qualification.
 
-    A recipient may take action otherwise prohibited by Sec. Sec. 8a.500 
-through 8a.550 provided it is shown that sex is a bona fide occupational 
-qualification for that action, such that consideration of sex with 
-regard to such action is essential to successful operation of the 
-employment function concerned. A recipient shall not take action 
+    A recipient may take action otherwise prohibited by Sec. Sec. 
+8a.500 through 8a.550 provided it is shown that sex is a bona fide 
+occupational qualification for that action, such that consideration of 
+sex with regard to such action is essential to successful operation of 
+the employment function concerned. A recipient shall not take action 
 pursuant to this section that is based upon alleged comparative 
 employment characteristics or stereotyped characterizations of one or 
 the other sex, or upon preference based on sex of the recipient, 
@@ -7388,11 +7402,11 @@ part 317.
 
 
 <R03>
-PART 8b_PROHIBITION OF DISCRIMINATION AGAINST THE HANDICAPPED IN 
-FEDERALLY ASSISTED PROGRAMS OPERATED BY THE DEPARTMENT OF COMMERCE
---Table of Contents
+PART 8b_PROHIBITION OF DISCRIMINATION AGAINST THE HANDICAPPED IN FEDERALLY 
 
+ASSISTED PROGRAMS OPERATED BY THE DEPARTMENT OF COMMERCE--Table of Contents
 
+<R05>
 
 
                       Subpart A_General Provisions
@@ -7851,6 +7865,7 @@ the requirements of paragraph (c)(1) of this section.
 
 <R05>
 Sec. 8b.7  Designation of responsible employee and adoption of grievance 
+
 procedures.
 
     (a) Designation of responsible employee. A recipient, other than a 
@@ -7909,8 +7924,9 @@ the ability of the small recipient to provide benefits or services.
 
 
 <R05>
-Sec. 8b.10  Effect of state or local law or other requirements and 
-effect of employment opportunities.
+Sec. 8b.10  Effect of state or local law or other requirements and effect of 
+
+employment opportunities.
 
     (a) The obligation to comply with this part is not obviated or 
 alleviated by the existence of any state or local law or other 
@@ -8448,11 +8464,11 @@ shall apply to this part.
 
 
 <R03>
-PART 8c_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN 
-PROGRAMS OR ACTIVITIES CONDUCTED BY THE DEPARTMENT OF COMMERCE
---Table of Contents
+PART 8c_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS 
 
+OR ACTIVITIES CONDUCTED BY THE DEPARTMENT OF COMMERCE--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -8942,11 +8958,11 @@ making the final determination may not be delegated to another agency.
 
 
 <R03>
-PART 9_PROCEDURES FOR A VOLUNTARY LABELING PROGRAM FOR HOUSEHOLD 
-APPLIANCES AND EQUIPMENT TO EFFECT ENERGY CONSERVATION
---Table of Contents
+PART 9_PROCEDURES FOR A VOLUNTARY LABELING PROGRAM FOR HOUSEHOLD APPLIANCES 
 
+AND EQUIPMENT TO EFFECT ENERGY CONSERVATION--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -9190,6 +9206,7 @@ for use on each Label described in a Specification.
 
 <R05>
 Sec. 9.8  Amendment or revision of voluntary energy conservation 
+
 specifications.
 
     The Secretary may by order amend or revise any Specification 
@@ -9232,10 +9249,11 @@ participating manufacturers and classes of appliances and equipment.
 
 
 <R03>
-PART 10_PROCEDURES FOR THE DEVELOPMENT OF VOLUNTARY PRODUCT STANDARDS
---Table of Contents
+PART 10_PROCEDURES FOR THE DEVELOPMENT OF VOLUNTARY PRODUCT STANDARDS--Table 
 
+of Contents
 
+<R05>
 
 
 Sec.
@@ -9672,8 +9690,9 @@ Voluntary Product Standard.
 
 
 <R05>
-Sec. 10.7  Procedure when a recommended standard is not supported by 
-a consensus.
+Sec. 10.7  Procedure when a recommended standard is not supported by a 
+
+consensus.
 
     If the Department determines that a recommended standard is not 
 supported by a consensus, the Department may:
@@ -10020,10 +10039,11 @@ Standards,'' is not limited in any way by these procedures.
 
 
 <R03>
-PART 11_UNIFORM RELOCATION ASSISTANCE AND REAL PROPERTY ACQUISITION 
-FOR FEDERAL AND FEDERALLY ASSISTED PROGRAMS--Table of Contents
+PART 11_UNIFORM RELOCATION ASSISTANCE AND REAL PROPERTY ACQUISITION FOR 
 
+FEDERAL AND FEDERALLY ASSISTED PROGRAMS--Table of Contents
 
+<R05>
 
 
     Authority: Section 213, Uniform Relocation Assistance and Real 
@@ -10049,7 +10069,7 @@ in 49 CFR Part 24.
 <R03>
 PART 12_FAIR PACKAGING AND LABELING--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -10246,10 +10266,11 @@ authority to deal with the situation in question.
 
 
 <R03>
-PART 13_INTERGOVERNMENTAL REVIEW OF DEPARTMENT OF COMMERCE PROGRAMS 
-AND ACTIVITIES--Table of Contents
+PART 13_INTERGOVERNMENTAL REVIEW OF DEPARTMENT OF COMMERCE PROGRAMS AND 
 
+ACTIVITIES--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -10316,6 +10337,7 @@ Territory of the Pacific Islands.
 
 <R05>
 Sec. 13.3  Programs and activities of the Department subject to the 
+
 regulations.
 
     The Secretary publishes in the Federal Register a list of the 
@@ -10395,8 +10417,9 @@ notified of its selections.
 
 
 <R05>
-Sec. 13.7  Communication with state and local officials concerning 
-the Department's programs and activities.
+Sec. 13.7  Communication with state and local officials concerning the 
+
+Department's programs and activities.
 
     (a) For those programs and activities covered by a state process 
 under Sec. 13.6, the Secretary, to the extent permitted by law:
@@ -10416,8 +10439,9 @@ in its discretion deems appropriate.
 
 
 <R05>
-Sec. 13.8  Opportunity to comment on proposed Federal financial 
-assistance and direct Federal development.
+Sec. 13.8  Opportunity to comment on proposed Federal financial assistance 
+
+and direct Federal development.
 
     (a) Except in unusual circumstances, the Secretary gives state 
 processes or directly affected state, areawide, regional and local 
@@ -10522,11 +10546,13 @@ contact.
 
 
 <R03>
-PART 14_UNIFORM ADMINISTRATIVE REQUIREMENTS FOR GRANTS AND AGREEMENTS 
-WITH INSTITUTIONS OF HIGHER EDUCATION, HOSPITALS, OTHER NON-PROFIT, 
-AND COMMERCIAL ORGANIZATIONS--Table of Contents
+PART 14_UNIFORM ADMINISTRATIVE REQUIREMENTS FOR GRANTS AND AGREEMENTS WITH 
 
+INSTITUTIONS OF HIGHER EDUCATION, HOSPITALS, OTHER NON-PROFIT, AND COMMERCIAL 
 
+ORGANIZATIONS--Table of Contents
+
+<R05>
 
 
                             Subpart A_General
@@ -11012,6 +11038,10 @@ parties that are debarred, suspended or otherwise excluded from or
 ineligible for participation in Federal assistance programs or 
 activities.
 
+    Effective Date Note: At 71 FR 76575, Dec. 21, 2006, Sec. 14.13 was 
+amended by removing the citation ``15 CFR part 26'' and adding in its 
+place the citation ``2 CFR part 1326,'' effective Jan. 22, 2007.
+
 
 <R05>
 Sec. 14.14  High risk special award conditions.
@@ -11025,11 +11055,13 @@ that such applicant or recipient is notified in writing as to: the
 nature of the additional requirements, the reason why the additional 
 requirements are being imposed, the nature of the corrective action 
 needed, the time allowed for completing the corrective actions, and the 
-method for requesting reconsideration of the additional requirements 
-imposed. Any special conditions shall be promptly removed once the 
-conditions that prompted them have been corrected.
+method for requesting
 
 [[Page 133]]
+
+reconsideration of the additional requirements imposed. Any special 
+conditions shall be promptly removed once the conditions that prompted 
+them have been corrected.
 
 
 <R05>
@@ -11117,16 +11149,15 @@ with the reporting requirements set forth in Sec. 14.52. If the Grants
 Officer requires reporting on an accrual basis from a recipient that 
 maintains its records on other than an accrual basis, the recipient 
 shall not be required to establish an accrual accounting system. These 
-recipients may develop such accrual data for its reports on the basis of 
-an analysis of the documentation on hand.
-    (2) Records that identify adequately the source and application of 
-funds for federally-sponsored activities. These
+recipients may develop such accrual data for
 
 [[Page 134]]
 
-records shall contain information pertaining to Federal awards, 
-authorizations, obligations, unobligated balances, assets, outlays, 
-income and interest.
+its reports on the basis of an analysis of the documentation on hand.
+    (2) Records that identify adequately the source and application of 
+funds for federally-sponsored activities. These records shall contain 
+information pertaining to Federal awards, authorizations, obligations, 
+unobligated balances, assets, outlays, income and interest.
     (3) Effective control over and accountability for all funds, 
 property and other assets. Recipients shall adequately safeguard all 
 such assets and assure they are used solely for authorized purposes.
@@ -11193,12 +11224,12 @@ the recipient.
     (1) Advance payment mechanisms include, but are not limited to, 
 electronic funds transfer and Treasury check when the electronic funds 
 transfer requirement is waived.
-    (2) Advance payment mechanisms are subject to 31 CFR part 205.
-    (3) Recipients may submit requests for advances and reimbursements 
-on a monthly basis.
 
 [[Page 135]]
 
+    (2) Advance payment mechanisms are subject to 31 CFR part 205.
+    (3) Recipients may submit requests for advances and reimbursements 
+on a monthly basis.
     (d) Requests for advance payment shall be submitted on SF-270, 
 ``Request for Advance or Reimbursement,'' or other forms as may be 
 authorized by OMB. This form is not to be used when advance payments are 
@@ -11264,15 +11295,14 @@ bearing accounts, unless paragraph (k) (1), (2) or (3) of this section
 apply.
     (1) The recipient receives less than $120,000 in Federal awards per 
 year.
+
+[[Page 136]]
+
     (2) The best reasonably available interest bearing account would not 
 be expected to earn interest in excess of $250 per year on Federal cash 
 balances.
     (3) The depository would require an average or minimum balance so 
-high
-
-[[Page 136]]
-
-that it would not be feasible within the expected Federal and non-
+high that it would not be feasible within the expected Federal and non-
 Federal cash resources.
     (l) For those entities where CMIA and its implementing regulations 
 do not apply, interest earned on Federal advances deposited in interest 
@@ -11339,17 +11369,16 @@ certified value at the time of donation to the project.
 personnel, consultants, and other skilled and unskilled labor may be 
 counted as cost sharing or matching if the service is an integral and 
 necessary part of an approved project or program. Rates for volunteer 
-services shall be consistent with those paid for similar work in the 
-recipient's organization. In those instances in which the required 
-skills are not found in the recipient organization, rates shall be 
-consistent with those
+services shall be consistent with those paid for similar work in the
 
 [[Page 137]]
 
-paid for similar work in the labor market in which the recipient 
-competes for the kind of services involved. In either case, paid fringe 
-benefits that are reasonable, allowable, and allocable may be included 
-in the valuation.
+recipient's organization. In those instances in which the required 
+skills are not found in the recipient organization, rates shall be 
+consistent with those paid for similar work in the labor market in which 
+the recipient competes for the kind of services involved. In either 
+case, paid fringe benefits that are reasonable, allowable, and allocable 
+may be included in the valuation.
     (e) When an employer other than the recipient furnishes the services 
 of an employee, these services shall be valued at the employee's regular 
 rate of pay (plus an amount of fringe benefits that are reasonable, 
@@ -11416,13 +11445,13 @@ and used to further eligible project objectives.
     (2) Used to finance the non-Federal share of the project.
     (3) Deducted from the total project allowable cost in determining 
 the net allowable costs on which the Federal share of costs is based.
-    (c) When an agency authorizes the disposition of program income as 
-described in paragraph (b)(1) or (b)(2) of this section, program income 
-in excess of any limits stipulated shall be used in
 
 [[Page 138]]
 
-accordance with paragraph (b)(3) of this section.
+    (c) When an agency authorizes the disposition of program income as 
+described in paragraph (b)(1) or (b)(2) of this section, program income 
+in excess of any limits stipulated shall be used in accordance with 
+paragraph (b)(3) of this section.
     (d) In the event that the DoC does not specify in its regulations or 
 the terms and conditions of the award how program income is to be used, 
 paragraph (b)(1) of this section shall apply automatically to all 
@@ -11492,18 +11521,18 @@ by OMB.
     (e) Except for requirements listed in paragraphs (c)(1) and (c)(4) 
 of this section, the Grants Officer may waive cost-related and 
 administrative prior written approvals required by this part and OMB 
-Circulars A-21 and A-122. Such waivers may include authorizing 
-recipients to do any one or more of the following:
-    (1) Incur pre-award costs 90 calendar days prior to award or more 
-than 90 calendar days with the prior approval
+Circulars A-21 and A-122. Such waivers may include authorizing
 
 [[Page 139]]
 
-of the Grants Officer after coordination with the DoC operating unit. 
-All pre-award costs are incurred at the recipient's risk (i.e., the DoC 
-is under no obligation to reimburse such costs if for any reason the 
-recipient does not receive an award or if the award is less than 
-anticipated and inadequate to cover such costs).
+recipients to do any one or more of the following:
+    (1) Incur pre-award costs 90 calendar days prior to award or more 
+than 90 calendar days with the prior approval of the Grants Officer 
+after coordination with the DoC operating unit. All pre-award costs are 
+incurred at the recipient's risk (i.e., the DoC is under no obligation 
+to reimburse such costs if for any reason the recipient does not receive 
+an award or if the award is less than anticipated and inadequate to 
+cover such costs).
     (2) Initiate a one-time extension of the expiration date of the 
 award of up to 12 months unless one or more of the following conditions 
 apply. For one-time extensions, the recipient must notify the Grants 
@@ -11565,17 +11594,16 @@ funding is submitted for a continuation award.
     (l) When requesting approval for budget revisions, recipients shall 
 use the budget forms that were used in the application unless the Grants 
 Officer indicates a letter of request suffices.
+
+[[Page 140]]
+
     (m) Within 30 calendar days from the date of receipt of the request 
 for budget revisions, DoC shall review the request and the Grants 
 Officer shall notify the recipient in writing whether the budget 
 revisions have been approved. If the revision is still under 
 consideration at the end of 30 calendar days, the Grants Officer shall 
-inform
-
-[[Page 140]]
-
-the recipient in writing of the date when the recipient may expect the 
-decision.
+inform the recipient in writing of the date when the recipient may 
+expect the decision.
 
 63 FR 47156, Sept. 4, 1998, as amended at 66 FR 49828, Oct. 1, 2001]
 
@@ -11656,8 +11684,11 @@ Sec. 14.31  Insurance coverage.
     Recipients shall, at a minimum, provide the equivalent insurance 
 coverage for real property and equipment acquired with Federal funds as 
 provided to property owned by the recipient. Federally-owned property 
-need not be insured unless required by the terms and conditions of the 
-award.
+need not be
+
+[[Page 141]]
+
+insured unless required by the terms and conditions of the award.
 
 
 <R05>
@@ -11665,11 +11696,8 @@ Sec. 14.32  Real property.
 
     The DoC award shall prescribe requirements for recipients concerning 
 the use and disposition of real property acquired in whole or in part 
-under awards. Unless otherwise provided by
-
-[[Page 141]]
-
-statute, such requirements, at a minimum, shall contain the following:
+under awards. Unless otherwise provided by statute, such requirements, 
+at a minimum, shall contain the following:
     (a) Title to real property shall vest in the recipient subject to 
 the condition that the recipient shall use the real property for the 
 authorized purpose of the project as long as it is needed, provided 
@@ -11734,8 +11762,12 @@ the option to vest title to property acquired with Federal funds in the
 recipient without further obligation to the Federal Government and under 
 conditions the DoC considers appropriate. Such property is ``exempt 
 property.'' Should the DoC not establish conditions, title to exempt 
-property upon acquisition shall vest in the recipient without further 
-obligation to the Federal Government.
+property upon acquisition
+
+[[Page 142]]
+
+shall vest in the recipient without further obligation to the Federal 
+Government.
 
 
 <R05>
@@ -11743,9 +11775,6 @@ Sec. 14.34  Equipment.
 
     (a) Title to equipment acquired by a recipient with Federal funds 
 shall vest in the recipient, subject to conditions of this section.
-
-[[Page 142]]
-
     (b) The recipient shall not use equipment acquired with Federal 
 funds to provide services to non-Federal outside organizations for a fee 
 that is less than private companies charge for equivalent services, 
@@ -11807,18 +11836,17 @@ indicate Federal ownership.
 reconciled with the equipment records at least once every two years. Any 
 differences between quantities determined by the physical inspection and 
 those shown in the accounting records shall be investigated to determine 
-the causes of the difference. The recipient shall, in connection with 
-the inventory, verify the existence, current utilization, and continued 
-need for the equipment.
-    (4) A control system shall be in effect to insure adequate 
-safeguards to prevent loss, damage, or theft of the equipment. Any loss, 
-damage, or theft of equipment shall be investigated and fully 
-documented; if the equipment was
+the causes of the difference. The recipient
 
 [[Page 143]]
 
-owned by the Federal Government, the recipient shall promptly notify the 
-Grants Officer.
+shall, in connection with the inventory, verify the existence, current 
+utilization, and continued need for the equipment.
+    (4) A control system shall be in effect to insure adequate 
+safeguards to prevent loss, damage, or theft of the equipment. Any loss, 
+damage, or theft of equipment shall be investigated and fully 
+documented; if the equipment was owned by the Federal Government, the 
+recipient shall promptly notify the Grants Officer.
     (5) Adequate maintenance procedures shall be implemented to keep the 
 equipment in good condition.
     (6) Where the recipient is authorized or required to sell the 
@@ -11877,6 +11905,8 @@ recipient shall apply the standards of this section, as appropriate.
     (3) When the DoC exercises its right to take title, the equipment 
 shall be subject to the provisions for federally-owned equipment.
 
+[[Page 144]]
+
 
 <R05>
 Sec. 14.35  Supplies and other expendable property.
@@ -11886,13 +11916,10 @@ the recipient upon acquisition. If there is a residual inventory of
 supplies exceeding $5000 in total aggregate value upon termination or 
 completion of the project or program and the supplies are not needed for 
 any other federally-sponsored project or program, the recipient shall 
-retain the supplies for use
-
-[[Page 144]]
-
-on non-Federal sponsored activities or sell them, but shall, in either 
-case, compensate the Federal Government for its share. The amount of 
-compensation shall be computed in the same manner as for equipment.
+retain the supplies for use on non-Federal sponsored activities or sell 
+them, but shall, in either case, compensate the Federal Government for 
+its share. The amount of compensation shall be computed in the same 
+manner as for equipment.
     (b) The recipient shall not use supplies acquired with Federal funds 
 to provide services to non-Federal outside organizations for a fee that 
 is less than private companies charge for equivalent services, unless 
@@ -11955,19 +11982,18 @@ findings in support of an agency action that has the force and effect of
 law.
     (iii) Used by the Federal Government in developing an agency action 
 that has the force and effect of law is defined as when an agency 
-publicly and officially cites the research findings in support of an 
+publicly and officially cites the research findings in support of an
+
+[[Page 145]]
+
 agency action that has the force and effect of law.
     (e) Title to intangible property and debt instruments acquired under 
 an award or subaward vests upon acquisition in the recipient. The 
 recipient shall use that property for the originally-authorized purpose, 
 and the recipient shall not encumber the property without written 
 approval from the Grants Officer. When no longer needed for the 
-originally authorized purpose,
-
-[[Page 145]]
-
-disposition of the intangible property shall occur in accordance with 
-the provisions of Sec. 14.34(g).
+originally authorized purpose, disposition of the intangible property 
+shall occur in accordance with the provisions of Sec. 14.34(g).
 
 [63 FR 47156, Sept. 4, 1998, as amended at 65 FR 14407, 14409, Mar. 16, 
 2000]
@@ -12045,22 +12071,21 @@ Sec. 14.43  Competition.
 provide, to the maximum extent practical, open and free competition. The 
 recipient shall be alert to organizational conflicts of interest as well 
 as noncompetitive practices among contractors that may restrict or 
-eliminate competition or otherwise restrain trade. In order to ensure 
-objective contractor performance and eliminate unfair competitive 
+eliminate competition or otherwise restrain trade. In order to
+
+[[Page 146]]
+
+ensure objective contractor performance and eliminate unfair competitive 
 advantage, contractors that develop or draft specifications, 
 requirements, statements of work, invitations for bids and/or requests 
 for proposals shall be excluded from competing for such procurements. 
 Awards shall be made to the bidder or offeror whose bid or offer is 
 responsive to the solicitation and is most advantageous to the 
-recipient,
-
-[[Page 146]]
-
-price, quality and other factors considered. Solicitations shall clearly 
-set forth all requirements that the bidder or offeror shall fulfill in 
-order for the bid or offer to be evaluated by the recipient. Any and all 
-bids or offers may be rejected when it is in the recipient's interest to 
-do so.
+recipient, price, quality and other factors considered. Solicitations 
+shall clearly set forth all requirements that the bidder or offeror 
+shall fulfill in order for the bid or offer to be evaluated by the 
+recipient. Any and all bids or offers may be rejected when it is in the 
+recipient's interest to do so.
 
 
 <R05>
@@ -12121,15 +12146,16 @@ the program or project involved. The ``cost-plus-a-percentage-of-cost''
 or ``percentage of construction cost'' methods of contracting shall not 
 be used.
     (d) Contracts shall be made only with responsible contractors who 
-possess the potential ability to perform successfully under the terms 
-and conditions of the proposed procurement. Consideration shall be given 
-to such matters as contractor integrity, record of past performance, 
-financial and technical resources or accessibility to other necessary 
-resources. In certain circumstances, contracts with certain parties are 
-restricted by agencies' implementation of E.O.s 12549 and 12689,
+possess
 
 [[Page 147]]
 
+the potential ability to perform successfully under the terms and 
+conditions of the proposed procurement. Consideration shall be given to 
+such matters as contractor integrity, record of past performance, 
+financial and technical resources or accessibility to other necessary 
+resources. In certain circumstances, contracts with certain parties are 
+restricted by agencies' implementation of E.O.s 12549 and 12689, 
 ``Debarment and Suspension,'' as implemented by DoC regulations at 15 
 CFR part 26.
     (e) Recipients shall, on request, make available for the Grants 
@@ -12208,17 +12234,17 @@ circumstances beyond the control of the contractor.
     (c) Except as otherwise required by statute, an award that requires 
 the contracting (or subcontracting) for construction or facility 
 improvements shall provide for the recipient to follow its own 
-requirements relating to bid guarantees, performance bonds, and payment 
-bonds unless the construction contract or subcontract exceeds $100,000. 
-For those contracts or subcontracts exceeding $100,000, the DoC may 
-accept the bonding policy and requirements of the recipient, provided 
-the Grants Officer has made a determination that the Federal 
-Government's interest is adequately protected. If such a determination 
-has not
+requirements relating to bid
 
 [[Page 148]]
 
-been made, the minimum requirements shall be as follows:
+guarantees, performance bonds, and payment bonds unless the construction 
+contract or subcontract exceeds $100,000. For those contracts or 
+subcontracts exceeding $100,000, the DoC may accept the bonding policy 
+and requirements of the recipient, provided the Grants Officer has made 
+a determination that the Federal Government's interest is adequately 
+protected. If such a determination has not been made, the minimum 
+requirements shall be as follows:
     (1) A bid guarantee from each bidder equivalent to five percent of 
 the bid price. The ``bid guarantee'' shall consist of a firm commitment 
 such as a bid bond, certified check, or other negotiable instrument 
@@ -12285,16 +12311,15 @@ not be required after completion of the project.
 each award, brief information on each of the following:
     (1) A comparison of actual accomplishments with the goals and 
 objectives established for the period, the findings of the investigator, 
-or both. Whenever appropriate and the output of programs or projects can 
-be readily quantified, such quantitative data should be related to cost 
-data for computation of unit costs.
-    (2) Reasons why established goals were not met, if appropriate.
-    (3) Other pertinent information including, when appropriate, 
-analysis
+or both. Whenever appropriate and the output
 
 [[Page 149]]
 
-and explanation of cost overruns or high unit costs.
+of programs or projects can be readily quantified, such quantitative 
+data should be related to cost data for computation of unit costs.
+    (2) Reasons why established goals were not met, if appropriate.
+    (3) Other pertinent information including, when appropriate, 
+analysis and explanation of cost overruns or high unit costs.
     (e) Recipients shall not be required to submit more than the 
 original and two copies of performance reports.
     (f) Recipients shall immediately notify the DoC operating unit of 
@@ -12361,14 +12386,14 @@ those recipients receiving advances totaling $1 million or more per
 year.
     (v) The Grants Officer may waive the requirement for submission of 
 the SF-272 for any one of the following reasons:
+
+[[Page 150]]
+
     (A) When monthly advances do not exceed $25,000 per recipient, 
 provided that such advances are monitored through other forms contained 
 in this section;
     (B) If, in the Grants Officer's opinion, the recipient's accounting 
 controls are adequate to minimize excessive Federal advances; or
-
-[[Page 150]]
-
     (C) When the electronic payment mechanisms provide adequate data.
     (b) When the DoC needs additional information or more frequent 
 reports, the following shall be observed:
@@ -12435,21 +12460,20 @@ not limited to the required retention period, but shall last as long as
 records are retained.
     (f) Unless required by statute, no DoC operating unit shall place 
 restrictions on recipients that limit public access to the records of 
-recipients that are pertinent to an award, except when the DoC operating 
-unit can demonstrate that such records shall be kept confidential and 
-would have been exempted from disclosure pursuant to the Freedom of 
-Information Act (5 U.S.C. 552) if the records had belonged to the DoC 
-operating unit.
-    (g) Paragraphs (g)(1) and (g)(2) of this section apply to the 
-following types of
+recipients that are pertinent to an award, except when the
 
 [[Page 151]]
 
-documents, and their supporting records: indirect cost rate computations 
-or proposals, cost allocation plans, and any similar accounting 
-computations of the rate at which a particular group of costs is 
-chargeable (such as computer usage chargeback rates or composite fringe 
-benefit rates).
+DoC operating unit can demonstrate that such records shall be kept 
+confidential and would have been exempted from disclosure pursuant to 
+the Freedom of Information Act (5 U.S.C. 552) if the records had 
+belonged to the DoC operating unit.
+    (g) Paragraphs (g)(1) and (g)(2) of this section apply to the 
+following types of documents, and their supporting records: indirect 
+cost rate computations or proposals, cost allocation plans, and any 
+similar accounting computations of the rate at which a particular group 
+of costs is chargeable (such as computer usage chargeback rates or 
+composite fringe benefit rates).
     (1) If the recipient submits to the Federal awarding agency 
 responsible for negotiating the recipient's indirect cost rate or the 
 subrecipient submits to the recipient the proposal, plan, or other 
@@ -12520,19 +12544,18 @@ not in compliance.
     (5) Take other remedies that may be legally available.
     (b) Hearings and appeals. In taking an enforcement action, the 
 awarding agency shall provide the recipient an opportunity for hearing, 
-appeal, or other administrative proceeding to which the recipient is 
-entitled under any statute or regulation applicable to the action 
-involved.
-    (c) Effects of suspension and termination. Costs of a recipient 
-resulting from obligations incurred by the recipient during a suspension 
-or after
+appeal, or
 
 [[Page 152]]
 
-termination of an award are not allowable unless the awarding agency 
-expressly authorizes them in the notice of suspension or termination or 
-subsequently. Other recipient costs during suspension or after 
-termination which are necessary and not reasonably avoidable are 
+other administrative proceeding to which the recipient is entitled under 
+any statute or regulation applicable to the action involved.
+    (c) Effects of suspension and termination. Costs of a recipient 
+resulting from obligations incurred by the recipient during a suspension 
+or after termination of an award are not allowable unless the awarding 
+agency expressly authorizes them in the notice of suspension or 
+termination or subsequently. Other recipient costs during suspension or 
+after termination which are necessary and not reasonably avoidable are 
 allowable if paragraphs (c) (1) and (2) of this section apply.
     (1) The costs result from obligations which were properly incurred 
 by the recipient before the effective date of suspension or termination, 
@@ -12606,11 +12629,13 @@ result of later refunds, corrections, or other transactions.
     (b) After closeout of an award, a relationship created under an 
 award may be modified or ended in whole or in part with the consent of 
 the DoC and the recipient, provided the responsibilities of the 
-recipient referred to in Sec. 14.73(a), including those for property 
-management as applicable, are considered and provisions made for 
-continuing responsibilities of the recipient, as appropriate.
+recipient referred to in
 
 [[Page 153]]
+
+Sec. 14.73(a), including those for property management as applicable, 
+are considered and provisions made for continuing responsibilities of 
+the recipient, as appropriate.
 
 
 <R05>
@@ -12692,20 +12717,21 @@ developmental, or research work shall provide for the rights of the
 Federal Government and the recipient in any resulting invention in 
 accordance with 37 CFR part 401, ``Rights to Inventions Made by 
 Nonprofit Organizations and Small Business Firms Under Government 
-Grants, Contracts and Cooperative Agreements,'' and any implementing 
-regulations issued by the awarding agency.
-    6. Clean Air Act (42 U.S.C. 7401 et seq.) and the Federal Water 
-Pollution Control Act (33 U.S.C. 1251 et seq.), as amended--Contracts 
-and subgrants of amounts in excess of $100,000 shall contain a provision 
-that requires the recipient to agree to comply with
+Grants, Contracts and Cooperative
 
 [[Page 154]]
 
-all applicable standards, orders or regulations issued pursuant to the 
-Clean Air Act (42 U.S.C. 7401 et seq.) and the Federal Water Pollution 
-Control Act as amended (33 U.S.C. 1251 et seq.). Violations shall be 
-reported to the DoC operating unit and the Regional Office of the 
-Environmental Protection Agency (EPA).
+Agreements,'' and any implementing regulations issued by the awarding 
+agency.
+    6. Clean Air Act (42 U.S.C. 7401 et seq.) and the Federal Water 
+Pollution Control Act (33 U.S.C. 1251 et seq.), as amended--Contracts 
+and subgrants of amounts in excess of $100,000 shall contain a provision 
+that requires the recipient to agree to comply with all applicable 
+standards, orders or regulations issued pursuant to the Clean Air Act 
+(42 U.S.C. 7401 et seq.) and the Federal Water Pollution Control Act as 
+amended (33 U.S.C. 1251 et seq.). Violations shall be reported to the 
+DoC operating unit and the Regional Office of the Environmental 
+Protection Agency (EPA).
     7. Byrd Anti-Lobbying Amendment (31 U.S.C. 1352)--Contractors who 
 apply or bid for an award exceeding $100,000 shall file the required 
 certification. Each tier certifies to the tier above that it will not 
@@ -12735,7 +12761,7 @@ that of its principal employees.
 <R03>
 PART 15_LEGAL PROCEEDINGS--Table of Contents
 
-
+<R05>
 
 
                       Subpart A_Service of Process
@@ -12802,17 +12828,17 @@ Sec. 15.1  Scope and purpose.
 summons or complaint is served on the Department, a component, or the 
 Secretary or a Department employee in his or her official capacity.
     (b) This subpart is intended to ensure the orderly execution of the 
-affairs of the Department and not to impede any legal proceeding.
+affairs of
+
+[[Page 155]]
+
+the Department and not to impede any legal proceeding.
     (c) This subpart does not apply to subpoenas. The procedures to be 
 followed with respect to subpoenas are set out in subpart B.
     (d) This subpart does not apply to service of process made on a 
 Department employee personally on matters not related to official 
-business of the
-
-[[Page 155]]
-
-Department or to the official responsibilities of the Department 
-employee.
+business of the Department or to the official responsibilities of the 
+Department employee.
 
 [53 FR 41318, Oct. 21, 1988. Redesignated and amended at 62 FR 19669, 
 19670, Apr. 23, 1997]
@@ -12879,18 +12905,19 @@ sued personally for an action taken in the conduct of official business
 shall immediately notify and deliver a copy of the summons or complaint 
 to the Office of the Solicitor.
     (f) A Department employee sued personally in connection with 
-official business may be represented by the Department of Justice at its 
+official
+
+[[Page 156]]
+
+business may be represented by the Department of Justice at its 
 discretion. See 28 CFR 50.15 and 50.16 (1987).
     (g) The General Counsel or Solicitor or Department employee 
 designated by either, when accepting service of process for a Department 
 employee in an official capacity, shall endorse on the Marshal's or 
 server's return of service form or receipt for registered or certified 
 mail the following statement: ``Service accepted in official capacity 
-only.'' The statement may be placed on
-
-[[Page 156]]
-
-the form or receipt with a rubber stamp.
+only.'' The statement may be placed on the form or receipt with a rubber 
+stamp.
     (h) Upon acceptance of service or receiving notification of service, 
 as provided in this section, the General Counsel and Solicitor shall 
 take appropriate steps to protect the rights of the Department, 
@@ -12958,6 +12985,9 @@ actions, hearings, investigations, or similar proceedings before courts,
 commissions, boards or other tribunals, foreign or domestic. This phrase 
 includes all phases of discovery as well as responses to formal or 
 informal requests by attorneys or others involved in legal proceedings.
+
+[[Page 157]]
+
     (i) Official business means the authorized business of the 
 Department.
     (j) Secretary means the Secretary of the Department of Commerce.
@@ -12966,17 +12996,15 @@ Office.
     (l) Testimony means a statement in any form, including personal 
 appearances before a court or other legal tribunal, interviews, 
 depositions, telephonic, televised, or videotaped statements or any 
-responses given during discovery or similar proceedings, which
-
-[[Page 157]]
-
-response would involve more than the production of documents.
+responses given during discovery or similar proceedings, which response 
+would involve more than the production of documents.
     (m) United States means the Federal Government, its departments and 
 agencies, and individuals acting on behalf of the Federal Government.
 
 
 <R05>
 Sec. 15.13  Demand for testimony or production of documents: Department 
+
 policy.
 
     No employee shall in response to a demand, produce any documents, or 
@@ -13002,6 +13030,7 @@ deliberative process of the Department.
 
 <R05>
 Sec. 15.14  Demand for testimony or production of documents: Department 
+
 procedures.
 
     (a) Whenever a demand for testimony or for the production of 
@@ -13034,25 +13063,25 @@ Drive, Crystal Park 2, Suite 918, Arlington, Virginia 22215.
     (2) Subpoenas. A subpoena for testimony by a Department employee or 
 a document shall be served in accordance with the Federal Rules of Civil 
 or Criminal Procedure or applicable state procedure and a copy of the 
-subpoena shall be sent to the General Counsel, or the Solicitor, or 
-appropriate agency counsel.
+subpoena
+
+[[Page 158]]
+
+shall be sent to the General Counsel, or the Solicitor, or appropriate 
+agency counsel.
     (3) Affidavit. Except when the United States is a party, every 
 demand shall be accompanied by an affidavit or declaration under 28 
 U.S.C. 1746 or, if an affidavit is not feasible, a statement setting 
 forth the title of the legal proceeding, the forum, the requesting 
 party's interest in the legal proceeding, the reason for the demand, a 
 showing that the desired testimony or document is not reasonably 
-available from
-
-[[Page 158]]
-
-any other source, and if testimony is requested, the intended use of the 
-testimony, a general summary of the desired testimony, and a showing 
-that no document could be provided and used in lieu of testimony. The 
-purpose of this requirement is to assist the General Counsel, or the 
-Solicitor, or appropriate agency counsel in making an informed decision 
-regarding whether testimony or the production of a document(s) should be 
-authorized.
+available from any other source, and if testimony is requested, the 
+intended use of the testimony, a general summary of the desired 
+testimony, and a showing that no document could be provided and used in 
+lieu of testimony. The purpose of this requirement is to assist the 
+General Counsel, or the Solicitor, or appropriate agency counsel in 
+making an informed decision regarding whether testimony or the 
+production of a document(s) should be authorized.
     (d) A certified copy of a document for use in a legal proceeding may 
 be provided upon written request and payment of applicable fees. Written 
 requests for certification shall be addressed to the agency counsel for 
@@ -13107,19 +13136,21 @@ copy of the Department's regulations and inform the legal tribunal that
 he/she has been advised by counsel not to provide the requested 
 testimony and/or produce documents. If the legal tribunal rules that the 
 demand in the subpoena must be complied with, the employee shall 
-respectfully decline to comply with the demand. United States ex rel. 
-Touhy v. Ragen, 340 U. S. 462 (1951).
+respectfully decline to comply with the
+
+[[Page 159]]
+
+demand. United States ex rel. Touhy v. Ragen, 340 U. S. 462 (1951).
     (c) Where the Department employee is an employee of the Office of 
 the Inspector General, the Inspector General in consultation with the 
 General Counsel, will make a determination under paragraphs (a) and (b) 
 of this section.
 
-[[Page 159]]
-
 
 <R05>
-Sec. 15.16  Legal proceedings between private litigants: Expert or 
-opinion testimony.
+Sec. 15.16  Legal proceedings between private litigants: Expert or opinion 
+
+testimony.
 
     In addition to the policies and procedures as outlined in Sec. Sec. 
 15.11 through 15.16, the following applies to legal proceedings between 
@@ -13170,8 +13201,9 @@ the expert or opinion testimony provided.
 
 
 <R05>
-Sec. 15.17  Demands or requests in legal proceedings for records 
-protected by confidentiality statutes.
+Sec. 15.17  Demands or requests in legal proceedings for records protected by 
+
+confidentiality statutes.
 
     Demands in legal proceedings for the production of records, or for 
 the testimony of Department employees regarding information protected by 
@@ -13190,25 +13222,26 @@ Sec. Sec. 15.11 through 15.18 will not apply.
 
 
 <R05>
-Sec. 15.18  Testimony of Department employees in proceedings involving 
-the United States.
+Sec. 15.18  Testimony of Department employees in proceedings involving the 
+
+United States.
 
     The following applies in legal proceedings in which the United 
 States is a party:
+
+[[Page 160]]
+
     (a) A Department employee may not testify as an expert or opinion 
 witness for any other party other than the United States.
     (b) Whenever, in any legal proceeding involving the United States, a 
 request is made by an attorney representing or acting under the 
-authority of the United States, the General Counsel, or
-
-[[Page 160]]
-
-the Solicitor, or appropriate agency counsel will make all necessary 
-arrangements for the Department employee to give testimony on behalf of 
-the United States. Where appropriate, the General Counsel, or the 
-Solicitor, or appropriate agency counsel may require reimbursement to 
-the Department of the expenses associated with a Department employee 
-giving testimony on behalf of the United States.
+authority of the United States, the General Counsel, or the Solicitor, 
+or appropriate agency counsel will make all necessary arrangements for 
+the Department employee to give testimony on behalf of the United 
+States. Where appropriate, the General Counsel, or the Solicitor, or 
+appropriate agency counsel may require reimbursement to the Department 
+of the expenses associated with a Department employee giving testimony 
+on behalf of the United States.
 
 
 <R04>
@@ -13282,25 +13315,25 @@ agreement that requires the United States to honor the notice.
 Sec. 15.24  Policy.
 
     (a) It is the policy of the Department of Commerce to require 
-Commissioned Officers of the NOAA Corps on active duty to make 
-involuntary allotments from pay and allowances as payment of child, or 
-child and spousal, support payments when the officer has failed to make 
-periodic payments under a support order in a total amount equal to the 
-support payable for two months or longer. Failure to make such payments
+Commissioned
 
 [[Page 161]]
 
-shall be established by notice from an authorized person to the 
-designated official. Such notice shall specify the name and address of 
-the person to whom the allotment is payable. The amount of the allotment 
-shall be the amount necessary to comply with the support order. If 
-requested, the allotment may include arrearages as well as amounts for 
-current support, except that the amount of the allotment, together with 
-any other amounts withheld for support from the officer as a percentage 
-of pay, shall not exceed the limits prescribed in section 303 (b) and 
-(c) of the Consumer Credit Protection Act (15 U.S.C. 1673). An allotment 
-under this subpart shall be adjusted or discontinued upon notice from an 
-authorized person.
+Officers of the NOAA Corps on active duty to make involuntary allotments 
+from pay and allowances as payment of child, or child and spousal, 
+support payments when the officer has failed to make periodic payments 
+under a support order in a total amount equal to the support payable for 
+two months or longer. Failure to make such payments shall be established 
+by notice from an authorized person to the designated official. Such 
+notice shall specify the name and address of the person to whom the 
+allotment is payable. The amount of the allotment shall be the amount 
+necessary to comply with the support order. If requested, the allotment 
+may include arrearages as well as amounts for current support, except 
+that the amount of the allotment, together with any other amounts 
+withheld for support from the officer as a percentage of pay, shall not 
+exceed the limits prescribed in section 303 (b) and (c) of the Consumer 
+Credit Protection Act (15 U.S.C. 1673). An allotment under this subpart 
+shall be adjusted or discontinued upon notice from an authorized person.
     (b) Notwithstanding the above, no action shall be taken to require 
 an allotment from the pay and allowances of any officer until such 
 officer has had a consultation with an attorney from the Office of the 
@@ -13359,14 +13392,15 @@ not be honored unless adequate information is supplied.
     (5) Upon receipt of effective notice of delinquent support payments, 
 together with all required supplementary documents and information, the 
 designated official shall identify the officer from whom moneys are due 
-and payable. The allotment shall be established in the amount necessary 
-to comply with the support order and to liquidate arrearages if provided 
-by a support order when the maximum amount to be allotted under this 
-provision, together with any other moneys withheld for support from the 
-officer, does not exceed:
+and payable. The
 
 [[Page 162]]
 
+allotment shall be established in the amount necessary to comply with 
+the support order and to liquidate arrearages if provided by a support 
+order when the maximum amount to be allotted under this provision, 
+together with any other moneys withheld for support from the officer, 
+does not exceed:
     (i) 50 percent of the officer's disposable earnings for any month 
 where the officer asserts by affidavit or other acceptable evidence, 
 that he/she is supporting a spouse and/or dependent child, other than a 
@@ -13430,13 +13464,14 @@ is in error;
 documentation, the officer consents to the disclosure of such 
 information to the party requesting the support allotment;
     (v) Of the amount or percentage that will be deducted if the officer 
-fails to submit the documentation necessary to enable the designated 
-official to respond to the notice within the prescribed time limits;
-    (vi) That legal counsel will be provided by the Office of the 
-Assistant General Counsel for Administration; and
+fails to submit the documentation necessary to
 
 [[Page 163]]
 
+enable the designated official to respond to the notice within the 
+prescribed time limits;
+    (vi) That legal counsel will be provided by the Office of the 
+Assistant General Counsel for Administration; and
     (vii) Of the date that the allotment is scheduled to begin.
     (2) The officer shall be provided with the following:
     (i) A consultation in person with an attorney from the Office of the 
@@ -13496,21 +13531,21 @@ payable by, the Department of Commerce to any individuals pursuant to
 notice regular on its face, if such payment is made in accordance with 
 this subpart. If a designated official receives notice based on support 
 which, on its face, appears to conform to the law of the jurisdiction 
-from which it was issued, the designated official shall not be required 
-to ascertain whether the authority that issued the orde had obtained 
-personal jurisdiction over the member.
-    (4) Effective date of allotment. The allotment shall start with the 
-first pay period beginning after the officer has had a consultation with 
-an attorney from the Office of the Assistant General Counsel for 
-Administration but
+from which it was issued, the
 
 [[Page 164]]
 
-not later than the first pay period beginning after 30 days have elapsed 
-since the notice required in paragraph (d)(1) of this section is given 
-to the affected officer. The Department of Commerce shall not be 
-required to vary its normal NOAA Corps allotment payment cycle to comply 
-with the notice.
+designated official shall not be required to ascertain whether the 
+authority that issued the orde had obtained personal jurisdiction over 
+the member.
+    (4) Effective date of allotment. The allotment shall start with the 
+first pay period beginning after the officer has had a consultation with 
+an attorney from the Office of the Assistant General Counsel for 
+Administration but not later than the first pay period beginning after 
+30 days have elapsed since the notice required in paragraph (d)(1) of 
+this section is given to the affected officer. The Department of 
+Commerce shall not be required to vary its normal NOAA Corps allotment 
+payment cycle to comply with the notice.
     (g) Designated official. Notice should be sent to: The Assistant 
 General Counsel for Administration, Office of the General Counsel, U.S. 
 Department of Commerce, Washington, DC 20230, (202) 377-5387.
@@ -13553,6 +13588,7 @@ of Commerce.
 
 <R05>
 Sec. 15.32  Procedures for the handling of lawsuits against Department 
+
 employees arising within the scope of their office or employment.
 
     The following procedures shall be followed in the event that a civil 
@@ -13574,14 +13610,14 @@ for the present or former Department employee.
 satisfied the requirements of paragraph (a) of this section in a timely 
 fashion, may the employee subsequently request indemnification to 
 satisfy a verdict, judgment, or award entered against that employee.
+
+[[Page 165]]
+
     (2) No request for indemnification will be considered unless the 
 employee has submitted a written request, with appropriate 
 documentation, including copies of the verdict, judgment, appeal bond, 
 award, or settlement proposal through the employee's supervisory chain 
-to the head of the employee's component. The written request will
-
-[[Page 165]]
-
+to the head of the employee's component. The written request will 
 include an explanation by the employee of how the employee was working 
 within the scope of employment and whether the employee has insurance or 
 any other source of indemnification.
@@ -13605,9 +13641,10 @@ or his/her designee for decision.
 
 <R03>
 PART 16_PROCEDURES FOR A VOLUNTARY CONSUMER PRODUCT INFORMATION LABELING 
+
 PROGRAM--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -13665,20 +13702,20 @@ or developed methods; and
     (4) Encouraging consumers through various informational and 
 educational programs to utilize the product performance information 
 provided.
+
+[[Page 166]]
+
     (b) The program involves voluntary labeling by enrolled participants 
 of selected categories of consumer products with information concerning 
 selected performance characteristics of those products. The performance 
 characteristics selected are those that are of demonstrable importance 
-to consumers, that consumers cannot evaluate
-
-[[Page 166]]
-
-through mere inspection of the product, and that can be measured 
-objectively and reported understandably to consumers. The consumer 
-products covered include those for which incorrect purchase decision can 
-result in financial loss, dissatisfaction, or inconvenience. The program 
-seeks to avoid the duplication of other Federal programs under which 
-performance characteristics are labeled by exempting those performance 
+to consumers, that consumers cannot evaluate through mere inspection of 
+the product, and that can be measured objectively and reported 
+understandably to consumers. The consumer products covered include those 
+for which incorrect purchase decision can result in financial loss, 
+dissatisfaction, or inconvenience. The program seeks to avoid the 
+duplication of other Federal programs under which performance 
+characteristics are labeled by exempting those performance 
 characteristics from this program. However, where the Federal agency 
 concerned agrees, the Department of Commerce may include information 
 about those performance characteristics in CPILP labels if, by doing so, 
@@ -13732,8 +13769,9 @@ participant in this program in accordance with rules set out under Sec.
 
 
 <R05>
-Sec. 16.4  Finding of need to establish a specification for labeling 
-a consumer product.
+Sec. 16.4  Finding of need to establish a specification for labeling a 
+
+consumer product.
 
     (a) Any person may request the Secretary to find that there is a 
 need to label a particular consumer product with information concerning 
@@ -13744,13 +13782,13 @@ practicable, include the following information:
     (2) Extent that the product identified in paragraph (b)(1) of this 
 section is used by the public and, if known, what the production or 
 sales volume is of such product;
+
+[[Page 167]]
+
     (3) Nature and extent of difficulty experienced by consumers in 
 making informed purchase decisions because of a lack of knowledge 
 regarding the performance characteristics of the identified consumer 
 product;
-
-[[Page 167]]
-
     (4) Potential or actual loss to consumers as a result of an 
 incorrect decision based on an inadequate understanding of the 
 performance characteristics of the identified consumer product;
@@ -13818,14 +13856,14 @@ with the consumer product concerned. Such directions will not prohibit
 the display of additional information by the participant on space 
 adjacent to the marked boundaries of the label; and
     (4) Conditions of participation.
-    (c) The Secretary, after consideration of all written and oral 
-comments and other materials received in accordance
 
 [[Page 168]]
 
-with paragraph (a) of this section, shall publish in the Federal 
-Register within 30 days after the final date for receipt of comments, or 
-as soon as practicable thereafter, a notice either:
+    (c) The Secretary, after consideration of all written and oral 
+comments and other materials received in accordance with paragraph (a) 
+of this section, shall publish in the Federal Register within 30 days 
+after the final date for receipt of comments, or as soon as practicable 
+thereafter, a notice either:
     (1) Giving the complete text of a final Specification, including 
 conditions of use, and stating that any prospective participant in the 
 program desiring voluntarily to use the Department of Commerce Mark 
@@ -13896,18 +13934,18 @@ declines a request, she shall state the reasons for so declining.
     (c) If a prospective participant seeking to participate in the 
 program is notified by the Secretary that she proposes to deny that 
 prospective participant the right to participate, that prospective 
-participant shall have thirty (30) days from the receipt of such 
-notification to request a hearing under the
+participant shall have thirty
 
 [[Page 169]]
 
-provisions of 5 U.S.C. 556. The Secretary's proposed denial shall become 
-final through the issuance of a written decision to such prospective 
-participant in the event that he does not appeal such notification by 
-the end of the thirty (30) day period. If however, such prospective 
-participant requests a hearing within that thirty (30) day period, the 
-Secretary's proposed denial shall be stayed pending the outcome of the 
-hearing held pursuant to 5 U.S.C. 556.
+(30) days from the receipt of such notification to request a hearing 
+under the provisions of 5 U.S.C. 556. The Secretary's proposed denial 
+shall become final through the issuance of a written decision to such 
+prospective participant in the event that he does not appeal such 
+notification by the end of the thirty (30) day period. If however, such 
+prospective participant requests a hearing within that thirty (30) day 
+period, the Secretary's proposed denial shall be stayed pending the 
+outcome of the hearing held pursuant to 5 U.S.C. 556.
     (d) The conditions set out in each Specification will include, but 
 not be limited to, the following:
     (1) Prior to the use of a Label, the participant will make or have 
@@ -13975,11 +14013,12 @@ program shall:
     (1) Make written application to the Secretary;
     (2) Provide appropriate information showing his qualifications to 
 represent members within a given product area and that more than one 
-prospective participant in that product area is agreeable to such 
-representation; and
+prospective
 
 [[Page 170]]
 
+participant in that product area is agreeable to such representation; 
+and
     (3) Agree to service any participant in this program in the agent's 
 cognizant product area whether or not such participant is a member of 
 the organization or body which that agent represents.
@@ -14044,16 +14083,19 @@ for use on each Label described in a Specification.
 
 <R05>
 Sec. 16.11  Amendment or revision of a performance information labeling 
+
 specification.
 
     The Secretary may by order amend or revise any Specification 
 published under Sec. 16.5. The procedure applicable to the 
 establishment of a Specification under Sec. 16.5 shall be followed in 
 amending or revising such Specification. Such amendment or revision 
-shall not apply to consumer products manufactured prior to the effective 
-date of the amendment or revision.
+shall not
 
 [[Page 171]]
+
+apply to consumer products manufactured prior to the effective date of 
+the amendment or revision.
 
 
 <R05>
@@ -14088,9 +14130,10 @@ participants, designated agents, and types of consumer products covered.
 
 <R03>
 PART 17_LICENSING OF GOVERNMENT-OWNED INVENTIONS IN THE CUSTODY OF THE 
+
 DEPARTMENT OF COMMERCE--Table of Contents
 
-
+<R05>
 
 
       Subpart A_Licensing of Rights in Domestic Patents and Patent 
@@ -14158,18 +14201,17 @@ Technical Information Service concerning the grant, denial,
 interpretation, modification or termination of a license of any patent 
 in the custody of the Department of Commerce.
 
+[[Page 172]]
+
 
 <R05>
 Sec. 17.22  Definitions.
 
     (a) 41 CFR Part 101-4 shall mean the General Services Administration 
-Final Rule concerning ``Patents: Licensing of
-
-[[Page 172]]
-
-Federally Owned Inventions'' which was originally published in the 
-Federal Register, volume 47, number 152, Friday, August 6, 1982 at pages 
-34148 through 34151.
+Final Rule concerning ``Patents: Licensing of Federally Owned 
+Inventions'' which was originally published in the Federal Register, 
+volume 47, number 152, Friday, August 6, 1982 at pages 34148 through 
+34151.
     (b) Director shall mean the Director of the National Technical 
 Information Service, and operating agency within the U.S. Department of 
 Commerce.
@@ -14250,14 +14292,15 @@ Under Secretary no later than 30 days subsequent to the hearing and/or
 the filing of any required written arguments or documentation.
     (c) The Under Secretary shall render a final written decision on 
 behalf of the Department based upon the appeal file which shall include 
-the hearing record, exhibits, written submissions of the party(ies), and 
-the recommendation of the Administrative Law Judge. The Under 
-Secretary's decision shall include the reasons which form the basis
+the hearing record,
 
 [[Page 173]]
 
-of the determination. The final decision may uphold, overrule, or modify 
-the Director's decision or take any action deemed appropriate.
+exhibits, written submissions of the party(ies), and the recommendation 
+of the Administrative Law Judge. The Under Secretary's decision shall 
+include the reasons which form the basis of the determination. The final 
+decision may uphold, overrule, or modify the Director's decision or take 
+any action deemed appropriate.
     (d) Judicial review is available as the law permits.
 
 [49 FR 7986, Mar. 5, 1984, as amended at 55 FR 38983, Sept. 24, 1990]
@@ -14266,7 +14309,7 @@ the Director's decision or take any action deemed appropriate.
 <R03>
 PART 18_ATTORNEY'S FEES AND OTHER EXPENSES--Table of Contents
 
-
+<R05>
 
 
                            General Provisions
@@ -14362,31 +14405,31 @@ jurisdiction.
 Sec. 18.4  Proceedings covered.
 
     (a) The Act applies to adversary adjudications conducted by the 
-Department and to appeals of decisions of contracting officers of the 
-Department made pursuant to section 6 of the Contract Disputes Act of 
-1978 (41 U.S.C. 605) before agency boards of contract appeals as 
-provided in section 8 of that
+Department
 
 [[Page 174]]
 
-Act (41 U.S.C. 607). Adversary adjudications conducted by the Department 
-are adjudications under 5 U.S.C. 554 in which the position of this or 
-any other agency of the United States, or any component of an agency, is 
-presented by an attorney or other representative who enters an 
-appearance and participates in the proceeding. Pursuant to section 8(c) 
-of the Contract Disputes Act (41 U.S.C. 607(c)), the Department has 
-arranged for appeals from decisions by contracting officers of the 
-Department to be decided by the General Services Administration Board of 
-Contract Appeals. This Board, in accordance with its own procedures, 
-shall be responsible for making determinations on applications pursuant 
-to the Act relating to appeals to the Board from decisions of 
-contracting officers of the Department. Such determinations are final, 
-subject to appeal under Sec. 18.23. Any proceeding in which the 
-Department may prescribe a lawful present or future rate is not covered 
-by the Act. Proceedings to grant or renew licenses are also excluded, 
-but proceedings to modify, suspend, or revoke licenses are covered if 
-they are otherwise ``adversary adjudications.'' The Department 
-proceedings covered are:
+and to appeals of decisions of contracting officers of the Department 
+made pursuant to section 6 of the Contract Disputes Act of 1978 (41 
+U.S.C. 605) before agency boards of contract appeals as provided in 
+section 8 of that Act (41 U.S.C. 607). Adversary adjudications conducted 
+by the Department are adjudications under 5 U.S.C. 554 in which the 
+position of this or any other agency of the United States, or any 
+component of an agency, is presented by an attorney or other 
+representative who enters an appearance and participates in the 
+proceeding. Pursuant to section 8(c) of the Contract Disputes Act (41 
+U.S.C. 607(c)), the Department has arranged for appeals from decisions 
+by contracting officers of the Department to be decided by the General 
+Services Administration Board of Contract Appeals. This Board, in 
+accordance with its own procedures, shall be responsible for making 
+determinations on applications pursuant to the Act relating to appeals 
+to the Board from decisions of contracting officers of the Department. 
+Such determinations are final, subject to appeal under Sec. 18.23. Any 
+proceeding in which the Department may prescribe a lawful present or 
+future rate is not covered by the Act. Proceedings to grant or renew 
+licenses are also excluded, but proceedings to modify, suspend, or 
+revoke licenses are covered if they are otherwise ``adversary 
+adjudications.'' The Department proceedings covered are:
     (1) Department-wide. (i) Title VI Civil Rights hearings conducted by 
 the Department under 42 U.S.C. 2000d-1 and 15 CFR 8.12(d).
     (ii) Handicap discrimination hearings conducted by the Department 
@@ -14439,16 +14482,17 @@ employees; and
 government, or organization with a net worth of not more than $7 million 
 and not more than 500 employees.
     (c) For the purpose of eligibility, the net worth and number of 
-employees of an applicant shall be determined as of the date the 
-proceeding was initiated.
-    (d) An applicant who owns an unincorporated business will be 
-considered as an ``individual'' rather than a ``sole owner of an 
-unincorporated business'' if the issues on which the applicant
+employees of
 
 [[Page 175]]
 
-prevails are related primarily to personal interests rather than to 
-business interests.
+an applicant shall be determined as of the date the proceeding was 
+initiated.
+    (d) An applicant who owns an unincorporated business will be 
+considered as an ``individual'' rather than a ``sole owner of an 
+unincorporated business'' if the issues on which the applicant prevails 
+are related primarily to personal interests rather than to business 
+interests.
     (e) The employees of an applicant include all persons who regularly 
 perform services for remuneration for the applicant, under the 
 applicant's direction and control. Part-time employees shall be included 
@@ -14520,14 +14564,14 @@ which the attorney, agent or witness ordinarily performs services;
 complexity of the issues in the proceedings; and
     (5) Such other factors as may bear on the value of the services 
 provided.
-    (d) The reasonable cost of any study, analysis, engineering report, 
-test, project, or similar matter prepared on behalf of a party may be 
-awarded, to the extent that the charge for the service does not exceed 
-the prevailing rate for similar services, and the study or
 
 [[Page 176]]
 
-other matter was necessary for preparation of the applicant's case.
+    (d) The reasonable cost of any study, analysis, engineering report, 
+test, project, or similar matter prepared on behalf of a party may be 
+awarded, to the extent that the charge for the service does not exceed 
+the prevailing rate for similar services, and the study or other matter 
+was necessary for preparation of the applicant's case.
 
 [47 FR 13510, Mar. 31, 1982, as amended at 53 FR 6799, Mar. 3, 1988]
 
@@ -14605,13 +14649,13 @@ which an award is sought.
 applicant wishes the adjudicative officer to consider in determining 
 whether and in what amount an award should be made.
     (e) The application shall be signed by the applicant or an 
-authorized officer or attorney of the applicant. It shall also contain 
-or be accompanied by a written verification under oath or
+authorized officer
 
 [[Page 177]]
 
-under penalty of perjury that the information provided in the 
-application is true and correct.
+or attorney of the applicant. It shall also contain or be accompanied by 
+a written verification under oath or under penalty of perjury that the 
+information provided in the application is true and correct.
 
 [47 FR 13510, Mar. 31, 1982, as amended at 53 FR 6799, Mar. 3, 1988]
 
@@ -14666,7 +14710,7 @@ professional firm or individual whose services are covered by the
 application, showing the hours spent in connection with the proceeding 
 by each individual, a description of the specific services performed, 
 the rate at which each fee has been computed, any expenses for which 
-reim bursement is sought, the total amount claimed, and the total amount 
+reimbursement is sought, the total amount claimed, and the total amount 
 paid or payable by the applicant or by any other person or entity for 
 the services provided. The adjudicative officer may require the 
 applicant to provide vouchers, receipts, or other substantiation for any 
@@ -14687,17 +14731,17 @@ voluntary dismissal, becomes final and unappealable, both within the
 agency and to the courts.
     (c) If review or reconsideration is sought or taken of a decision as 
 to which an applicant believes it has prevailed, proceedings for the 
-award of fees shall be stayed pending final disposition of the 
-underlying controversy.
+award of
 
 [[Page 178]]
 
-When the United States appeals the underlying merits of an adversary 
-adjudication to a court, no decision on an application for fees and 
-other expenses in connection with that adversary adjudication shall be 
-made until a final and unreviewable decision is rendered by the court on 
-the appeal or until the underlying merits of the case have been finally 
-determined pursuant to the appeal.
+fees shall be stayed pending final disposition of the underlying 
+controversy. When the United States appeals the underlying merits of an 
+adversary adjudication to a court, no decision on an application for 
+fees and other expenses in connection with that adversary adjudication 
+shall be made until a final and unreviewable decision is rendered by the 
+court on the appeal or until the underlying merits of the case have been 
+finally determined pursuant to the appeal.
 
 [47 FR 13510, Mar. 31, 1982, as amended at 53 FR 6799, Mar. 3, 1988]
 
@@ -14783,22 +14827,23 @@ proposed settlement.
 Sec. 18.20  Further proceedings.
 
     (a) Ordinarily, the determination of an award will be made on the 
-basis of the written record. However, on request of either the applicant 
-or agency counsel, or on his or her own initiative,
+basis of
 
 [[Page 179]]
 
-the adjudicative officer may order further proceedings, such as an 
-informal conference, oral argument, additional written submissions or, 
-as to issues other than substantial justification (such as the 
-applicant's eligibility or substantiation of fees and expenses), 
-pertinent discovery or an evidentiary hearing. Such further proceedings 
-shall be held only when necessary for full and fair resolution of the 
-issues arising from the application, and shall be conducted as promptly 
-as possible. Whether or not the position of the agency was substantially 
-justified shall be determined on the basis of the administrative record, 
-as a whole, which is made in the adversary adjudication for which fees 
-and other expenses are sought.
+the written record. However, on request of either the applicant or 
+agency counsel, or on his or her own initiative, the adjudicative 
+officer may order further proceedings, such as an informal conference, 
+oral argument, additional written submissions or, as to issues other 
+than substantial justification (such as the applicant's eligibility or 
+substantiation of fees and expenses), pertinent discovery or an 
+evidentiary hearing. Such further proceedings shall be held only when 
+necessary for full and fair resolution of the issues arising from the 
+application, and shall be conducted as promptly as possible. Whether or 
+not the position of the agency was substantially justified shall be 
+determined on the basis of the administrative record, as a whole, which 
+is made in the adversary adjudication for which fees and other expenses 
+are sought.
     (b) A request that the adjudicative officer order further 
 proceedings under this section shall specifically identify the 
 information sought or the disputed issues and shall explain why the 
@@ -14858,12 +14903,13 @@ review is taken, the General Counsel will issue the Department's final
 decision on the application or remand the application to the 
 adjudicative officer for further proceedings. The standard of review 
 exercised by the General Counsel shall be that which was required for 
-the highest level of Departmental review which could have been exercised 
-on the underlying covered proceeding.
-
-[53 FR 6799, Mar. 3, 1988]
+the highest level of Departmental review which could have
 
 [[Page 180]]
+
+been exercised on the underlying covered proceeding.
+
+[53 FR 6799, Mar. 3, 1988]
 
 
 <R05>
@@ -14890,10 +14936,9 @@ been sought by the applicant or any other party to the proceeding.
 
 
 <R03>
-PART 19_REFERRAL OF DEBTS TO THE IRS FOR TAX REFUND OFFSET--Table of 
-Contents
+PART 19_REFERRAL OF DEBTS TO THE IRS FOR TAX REFUND OFFSET--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -14958,17 +15003,15 @@ and the Department of the Treasury regulations codified at 26 CFR
 301.6402-6 relating to the eligibility of a debt for tax refund offset 
 have been satisfied.
 
+[[Page 181]]
+
 
 <R05>
 Sec. 19.3  Administrative charges.
 
     In accordance with 4 CFR part 102, all administrative charges 
 incurred in connection with the referral of a debt to the IRS shall be 
-assessed on the debt
-
-[[Page 181]]
-
-and thus increase the amount of the offset.
+assessed on the debt and thus increase the amount of the offset.
 
 
 <R05>
@@ -15041,9 +15084,10 @@ DOC's original determination.
 
 <R03>
 PART 20_NONDISCRIMINATION ON THE BASIS OF AGE IN PROGRAMS OR ACTIVITIES 
+
 RECEIVING FEDERAL FINANCIAL ASSISTANCE--Table of Contents
 
-
+<R05>
 
 
                             Subpart A_General
@@ -15056,10 +15100,11 @@ Sec.
          Subpart B_Standards for Determining Age Discrimination
 
 20.4 Rules against age discrimination.
-20.5 Exceptions to the rules.
-20.6 Burden of proof.
 
 [[Page 182]]
+
+20.5 Exceptions to the rules.
+20.6 Burden of proof.
 
               Subpart C_Responsibilities of DOC Recipients
 
@@ -15600,7 +15645,7 @@ action in any court of the United States.
 <R03>
 PART 21_ADMINISTRATIVE OFFSET--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -15937,8 +15982,7 @@ review of the determination of indebtedness.
 
 
 <R05>
-Sec. 21.8  Review within the Department of a determination of 
-indebtedness.
+Sec. 21.8  Review within the Department of a determination of indebtedness.
 
     (a) Notification by debtor. A debtor who receives an initial demand 
 for payment under the procedures, or a Notice of Intent (see Sec. 
@@ -16057,8 +16101,9 @@ the initial notification under Sec. 21.4.
 
 
 <R05>
-Sec. 21.12  Coordinating administrative offset within the Department 
-and with other Federal agencies.
+Sec. 21.12  Coordinating administrative offset within the Department and with 
+
+other Federal agencies.
 
     Departmental units will cooperate with other Federal departments and 
 agencies in effecting collection by administrative offset. Whenever 
@@ -16125,8 +16170,9 @@ special attention to applicable statutes of limitations.
 
 
 <R05>
-Sec. 21.15  Administrative offset against amounts payable from Civil 
-Service Retirement and Disability Fund.
+Sec. 21.15  Administrative offset against amounts payable from Civil Service 
+
+Retirement and Disability Fund.
 
     (a) Unless otherwise prohibited by law, the Department may request 
 that monies which are due and payable to a debtor from the Civil Service 
@@ -16262,7 +16308,7 @@ utilization of any other administrative remedy which may be available.
 <R03>
 PART 22_SALARY OFFSET--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -16628,8 +16674,9 @@ the employee's pay.
 
 
 <R05>
-Sec. 22.15  Procedures for salary offset--Imposition of interest, 
-penalties, and administrative costs.
+Sec. 22.15  Procedures for salary offset--Imposition of interest, penalties, 
+
+and administrative costs.
 
     These charges will be made on installment payments in accordance 
 with the Office of Personnel Management regulations (5 CFR 550.1104(n)) 
@@ -16660,10 +16707,11 @@ order to refund amounts deducted from the employee's current pay.
 
 
 <R03>
-PART 23_USE OF PENALTY MAIL IN THE LOCATION AND RECOVERY OF MISSING 
-CHILDREN--Table of Contents
+PART 23_USE OF PENALTY MAIL IN THE LOCATION AND RECOVERY OF MISSING CHILDREN--
 
+Table of Contents
 
+<R05>
 
 
 Sec.
@@ -16775,8 +16823,7 @@ photographs and information when the program is fully implemented.
 
 
 <R05>
-Sec. 23.5  Report to the Office of Juvenile Justice and Delinquency 
-Prevention.
+Sec. 23.5  Report to the Office of Juvenile Justice and Delinquency Prevention.
 
     The Department of Commerce will compile and submit a consolidated 
 report to OJJDP, by June 30, 1987, on its experience in implementation 
@@ -16820,6 +16867,7 @@ United States Travel and Tourism Administration
 
 <R05>
 Sec. 23.7  Notice to Department of Commerce organizational units of 
+
 implementation and procedures.
 
     Following are roles and responsibilities for the program within the 
@@ -16892,9 +16940,10 @@ presentation as prescribed in this regulation.
 
 <R03>
 PART 24_UNIFORM ADMINISTRATIVE REQUIREMENTS FOR GRANTS AND COOPERATIVE 
+
 AGREEMENTS TO STATE AND LOCAL GOVERNMENTS--Table of Contents
 
-
+<R05>
 
 
                             Subpart A_General
@@ -17320,8 +17369,7 @@ the plan.
 
 
 <R05>
-Sec. 24.12  Special grant or subgrant conditions for ``high-risk'' 
-grantees.
+Sec. 24.12  Special grant or subgrant conditions for ``high-risk'' grantees.
 
     (a) A grantee or subgrantee may be considered ``high risk'' if an 
 awarding agency determines that a grantee or subgrantee:
@@ -18995,7 +19043,7 @@ Subpart E--Entitlements [Reserved]
 <R03>
 PART 25_PROGRAM--Table of Contents
 
-
+<R05>
 
 
                           Fraud Civil Remedies
@@ -20319,10 +20367,11 @@ parties.
 
 
 <R03>
-PART 26_GOVERNMENTWIDE DEBARMENT AND SUSPENSION (NONPROCUREMENT)--Table 
-of Contents
+PART 26_GOVERNMENTWIDE DEBARMENT AND SUSPENSION (NONPROCUREMENT)--Table of 
 
+Contents
 
+<R05>
 
 
 Sec.
@@ -20554,6 +20603,9 @@ Appendix to Part 26--Covered Transactions
     Editorial Note: Nomenclature changes to part 26 appear at 68 FR 
 66576, Nov. 26, 2003.
 
+    Effective Date Note: At 71 FR 76575, Dec. 21, 2006, part 26 was 
+removed, effective Jan. 22, 2007.
+
 
 <R05>
 Sec. 26.25  How is this part organized?
@@ -20617,10 +20669,11 @@ together.
 change from subpart to subpart depending on the audience being 
 addressed. The pronoun ``we'' always is the Department of Commerce.
     (c) The ``Covered Transactions'' diagram in the appendix to this 
-part shows the levels or ``tiers'' at which the Department of Commerce 
-enforces an exclusion under this part.
+part shows the levels or ``tiers'' at which
 
 [[Page 249]]
+
+the Department of Commerce enforces an exclusion under this part.
 
 
 <R05>
@@ -20677,6 +20730,7 @@ transactions with non-Federal parties.
 
 <R05>
 Sec. 26.110  What is the purpose of the nonprocurement debarment and 
+
 suspension system?
 
     (a) To protect the public interest, the Federal Government ensures 
@@ -20691,8 +20745,9 @@ person or commodity for the purposes of punishment.
 
 
 <R05>
-Sec. 26.115  How does an exclusion restrict a person's involvement in 
-covered transactions?
+Sec. 26.115  How does an exclusion restrict a person's involvement in covered 
+
+transactions?
 
     With the exceptions stated in Sec. Sec. 26.120, 26.315, and 26.420, 
 a person who is excluded by the Department of Commerce or any other 
@@ -20707,25 +20762,27 @@ covered transactions.
 
 
 <R05>
-Sec. 26.120  May we grant an exception to let an excluded person 
-participate in a covered transaction?
+Sec. 26.120  May we grant an exception to let an excluded person participate 
+
+in a covered transaction?
 
     (a) The Secretary of Commerce or designee may grant an exception 
 permitting an excluded person to participate in a particular covered 
-transaction. If the Secretary of Commerce or designee grants an 
-exception, the exception must be in writing and state the reason(s) for 
-deviating from the
+transaction. If the Secretary of Commerce
 
 [[Page 250]]
 
-governmentwide policy in Executive Order 12549.
+or designee grants an exception, the exception must be in writing and 
+state the reason(s) for deviating from the governmentwide policy in 
+Executive Order 12549.
     (b) An exception granted by one agency for an excluded person does 
 not extend to the covered transactions of another agency.
 
 
 <R05>
-Sec. 26.125  Does an exclusion under the nonprocurement system affect 
-a person's eligibility for Federal procurement contracts?
+Sec. 26.125  Does an exclusion under the nonprocurement system affect a 
+
+person's eligibility for Federal procurement contracts?
 
     If any Federal agency excludes a person under its nonprocurement 
 common rule on or after August 25, 1995, the excluded person is also 
@@ -20735,8 +20792,9 @@ Federal procurement transactions.
 
 
 <R05>
-Sec. 26.130  Does exclusion under the Federal procurement system affect 
-a person's eligibility to participate in nonprocurement transactions?
+Sec. 26.130  Does exclusion under the Federal procurement system affect a 
+
+person's eligibility to participate in nonprocurement transactions?
 
     If any Federal agency excludes a person under the FAR on or after 
 August 25, 1995, the excluded person is also ineligible to participate 
@@ -20746,8 +20804,9 @@ transactions.
 
 
 <R05>
-Sec. 26.135  May the Department of Commerce exclude a person who is 
-not currently participating in a nonprocurement transaction?
+Sec. 26.135  May the Department of Commerce exclude a person who is not 
+
+currently participating in a nonprocurement transaction?
 
     Given a cause that justifies an exclusion under this part, we may 
 exclude any person who has been involved, is currently involved, or may 
@@ -20766,8 +20825,9 @@ agency enters the information about the excluded person into the EPLS.
 
 
 <R05>
-Sec. 26.145  Does this part address persons who are disqualified, as 
-well as those who are excluded from nonprocurement transactions?
+Sec. 26.145  Does this part address persons who are disqualified, as well as 
+
+those who are excluded from nonprocurement transactions?
 
     Except if provided for in Subpart J of this part, this part--
     (a) Addresses disqualified persons only to--
@@ -20803,8 +20863,9 @@ another person.
 
 
 <R05>
-Sec. 26.205  Why is it important if a particular transaction is a 
-covered transaction?
+Sec. 26.205  Why is it important if a particular transaction is a covered 
+
+transaction?
 
     The importance of a covered transaction depends upon who you are.
     (a) As a participant in the transaction, you have the 
@@ -20839,8 +20900,7 @@ this part.)
 
 
 <R05>
-Sec. 26.215  Which nonprocurement transactions are not covered 
-transactions?
+Sec. 26.215  Which nonprocurement transactions are not covered transactions?
 
     The following types of nonprocurement transactions are not covered 
 transactions:
@@ -20900,8 +20960,7 @@ Statutes.
 
 
 <R05>
-Sec. 26.220  Are any procurement contracts included as covered 
-transactions?
+Sec. 26.220  Are any procurement contracts included as covered transactions?
 
     (a) Covered transactions under this part--
     (1) Do not include any procurement contracts awarded directly by a 
@@ -20931,8 +20990,9 @@ Appendix to this part.
 
 
 <R05>
-Sec. 26.225  How do I know if a transaction in which I may participate 
-is a covered transaction?
+Sec. 26.225  How do I know if a transaction in which I may participate is a 
+
+covered transaction?
 
     As a participant in a transaction, you will know that it is a 
 covered transaction because the agency regulations governing the 
@@ -20948,8 +21008,9 @@ you must comply with applicable portions of this part.
 
 
 <R05>
-Sec. 26.300  What must I do before I enter into a covered transaction 
-with another person at the next lower tier?
+Sec. 26.300  What must I do before I enter into a covered transaction with 
+
+another person at the next lower tier?
 
     When you enter into a covered transaction with another person at the 
 next lower tier, you must verify that the person with whom you intend to 
@@ -20962,8 +21023,9 @@ that person.
 
 
 <R05>
-Sec. 26.305  May I enter into a covered transaction with an excluded 
-or disqualified person?
+Sec. 26.305  May I enter into a covered transaction with an excluded or 
+
+disqualified person?
 
     (a) You as a participant may not enter into a covered transaction 
 with an excluded person, unless the Department of Commerce grants an 
@@ -20975,8 +21037,9 @@ regulation.
 
 
 <R05>
-Sec. 26.310  What must I do if a Federal agency excludes a person 
-with whom I am already doing business in a covered transaction?
+Sec. 26.310  What must I do if a Federal agency excludes a person with whom I 
+
+am already doing business in a covered transaction?
 
     (a) You as a participant may continue covered transactions with an 
 excluded person if the transactions were in existence when the agency 
@@ -20994,6 +21057,7 @@ Commerce grants an exception under Sec. 26.120.
 
 <R05>
 Sec. 26.315  May I use the services of an excluded person as a principal 
+
 under a covered transaction?
 
     (a) You as a participant may continue to use the services of an 
@@ -21009,8 +21073,9 @@ grants an exception under Sec. 26.120.
 
 
 <R05>
-Sec. 26.320  Must I verify that principals of my covered transactions 
-are eligible to participate?
+Sec. 26.320  Must I verify that principals of my covered transactions are 
+
+eligible to participate?
 
     Yes, you as a participant are responsible for determining whether 
 any of your principals of your covered transactions is excluded or 
@@ -21020,8 +21085,9 @@ required to, check the EPLS.
 
 
 <R05>
-Sec. 26.325  What happens if I do business with an excluded person in 
-a covered transaction?
+Sec. 26.325  What happens if I do business with an excluded person in a 
+
+covered transaction?
 
     If as a participant you knowingly do business with an excluded 
 person, we may disallow costs, annul or terminate the transaction, issue 
@@ -21030,8 +21096,9 @@ appropriate.
 
 
 <R05>
-Sec. 26.330  What requirements must I pass down to persons at lower 
-tiers with whom I intend to do business?
+Sec. 26.330  What requirements must I pass down to persons at lower tiers 
+
+with whom I intend to do business?
 
     Before entering into a covered transaction with a participant at the 
 next lower tier, you must require that participant to--
@@ -21046,8 +21113,9 @@ lower tier.
 
 
 <R05>
-Sec. 26.335  What information must I provide before entering into a 
-covered transaction with the Department of Commerce?
+Sec. 26.335  What information must I provide before entering into a covered 
+
+transaction with the Department of Commerce?
 
     Before you enter into a covered transaction at the primary tier, you 
 as the participant must notify the DoC office that is entering into the 
@@ -21065,8 +21133,9 @@ local) terminated within the preceding three years for cause or default.
 
 
 <R05>
-Sec. 26.340  If I disclose unfavorable information required under 
-Sec. 26.335, will I be prevented from participating in the transaction?
+Sec. 26.340  If I disclose unfavorable information required under Sec. 
+
+26.335, will I be prevented from participating in the transaction?
 
     As a primary tier participant, your disclosure of unfavorable 
 information about yourself or a principal under Sec. 26.335 will not 
@@ -21078,8 +21147,9 @@ disclosed information.
 
 
 <R05>
-Sec. 26.345  What happens if I fail to disclose information required 
-under Sec. 26.335?
+Sec. 26.345  What happens if I fail to disclose information required under 
+
+Sec. 26.335?
 
     If we later determine that you failed to disclose information under 
 Sec. 26.335 that you knew at the time you entered into the covered 
@@ -21094,9 +21164,11 @@ debarment.
 
 
 <R05>
-Sec. 26.350  What must I do if I learn of information required under 
-Sec. 26.335 after entering into a covered transaction with the Department 
-of Commerce?
+Sec. 26.350  What must I do if I learn of information required under Sec. 
+
+26.335 after entering into a covered transaction with the Department of 
+
+Commerce?
 
     At any time after you enter into a covered transaction, you must 
 give immediate written notice to the DoC office with which you entered 
@@ -21111,6 +21183,7 @@ the transaction now meet any of the criteria in Sec. 26.335.
 
 <R05>
 Sec. 26.355  What information must I provide to a higher tier participant 
+
 before entering into a covered transaction with that participant?
 
     Before you enter into a covered transaction with a person at the 
@@ -21121,6 +21194,7 @@ excluded or disqualified.
 
 <R05>
 Sec. 26.360  What happens if I fail to disclose the information required 
+
 under Sec. 26.355?
 
     If we later determine that you failed to tell the person at the 
@@ -21130,9 +21204,11 @@ available remedies, including suspension and debarment.
 
 
 <R05>
-Sec. 26.365  What must I do if I learn of information required under 
-Sec. 26.355 after entering into a covered transaction with a higher 
-tier participant?
+Sec. 26.365  What must I do if I learn of information required under Sec. 
+
+26.355 after entering into a covered transaction with a higher tier 
+
+participant?
 
     At any time after you enter into a lower tier covered transaction 
 with a person at a higher tier, you must provide immediate written 
@@ -21148,8 +21224,9 @@ the transaction now meet any of the criteria in Sec. 26.355.
 
 
 <R05>
-Sec. 26.400  May I enter into a transaction with an excluded or 
-disqualified person?
+Sec. 26.400  May I enter into a transaction with an excluded or disqualified 
+
+person?
 
     (a) You as an agency official may not enter into a covered 
 transaction with an excluded person unless you obtain an exception under 
@@ -21161,8 +21238,9 @@ basis for the person's disqualification.
 
 
 <R05>
-Sec. 26.405  May I enter into a covered transaction with a participant 
-if a principal of the transaction is excluded?
+Sec. 26.405  May I enter into a covered transaction with a participant if a 
+
+principal of the transaction is excluded?
 
     As an agency official, you may not enter into a covered transaction 
 with a participant if you know that a principal of the transaction is 
@@ -21170,8 +21248,9 @@ excluded, unless you obtain an exception under Sec. 26.120.
 
 
 <R05>
-Sec. 26.410  May I approve a participant's use of the services of an 
-excluded person?
+Sec. 26.410  May I approve a participant's use of the services of an excluded 
+
+person?
 
     After entering into a covered transaction with a participant, you as 
 an agency official may not approve a participant's use of an excluded 
@@ -21180,8 +21259,9 @@ exception under Sec. 26.120.
 
 
 <R05>
-Sec. 26.415  What must I do if a Federal agency excludes the participant 
-or a principal after I enter into a covered transaction?
+Sec. 26.415  What must I do if a Federal agency excludes the participant or a 
+
+principal after I enter into a covered transaction?
 
     (a) You as an agency official may continue covered transactions with 
 an excluded person, or under which an excluded person is a principal, if 
@@ -21201,6 +21281,7 @@ Sec. 26.120.
 
 <R05>
 Sec. 26.420  May I approve a transaction with an excluded or disqualified 
+
 person at a lower tier?
 
     If a transaction at a lower tier is subject to your approval, you as 
@@ -21214,8 +21295,7 @@ disqualification.
 
 
 <R05>
-Sec. 26.425  When do I check to see if a person is excluded or 
-disqualified?
+Sec. 26.425  When do I check to see if a person is excluded or disqualified?
 
     As an agency official, you must check to see if a person is excluded 
 or disqualified before you--
@@ -21228,8 +21308,7 @@ if agency approval of the principal is required.
 
 
 <R05>
-Sec. 26.430  How do I check to see if a person is excluded or 
-disqualified?
+Sec. 26.430  How do I check to see if a person is excluded or disqualified?
 
     You check to see if a person is excluded or disqualified in two 
 ways:
@@ -21253,8 +21332,9 @@ participant enters into covered transactions.
 
 
 <R05>
-Sec. 26.440  What method do I use to communicate those requirements 
-to participants?
+Sec. 26.440  What method do I use to communicate those requirements to 
+
+participants?
 
     To communicate the requirements to participants, you must include a 
 term or condition in the transaction requiring the participants' 
@@ -21265,8 +21345,9 @@ similar term or condition in lower-tier covered transactions.
 
 
 <R05>
-Sec. 26.445  What action may I take if a primary tier participant 
-knowingly does business with an excluded or disqualified person?
+Sec. 26.445  What action may I take if a primary tier participant knowingly 
+
+does business with an excluded or disqualified person?
 
     If a participant knowingly does business with an excluded or 
 disqualified person, you as an agency official may refer the matter for 
@@ -21276,8 +21357,9 @@ other appropriate remedy.
 
 
 <R05>
-Sec. 26.450  What action may I take if a primary tier participant 
-fails to disclose the information required under Sec. 26.335?
+Sec. 26.450  What action may I take if a primary tier participant fails to 
+
+disclose the information required under Sec. 26.335?
 
     If you as an agency official determine that a participant failed to 
 disclose information, as required by Sec. 26.335, at the time it 
@@ -21291,8 +21373,9 @@ debarment.
 
 
 <R05>
-Sec. 26.455  What may I do if a lower tier participant fails to disclose 
-the information required under Sec. 26.355 to the next higher tier?
+Sec. 26.455  What may I do if a lower tier participant fails to disclose the 
+
+information required under Sec. 26.355 to the next higher tier?
 
     If you as an agency official determine that a lower tier participant 
 failed to disclose information, as required by Sec. 26.355, at the time 
@@ -21306,8 +21389,7 @@ initiation of a suspension or debarment action.
 
 
 <R05>
-Sec. 26.500  What is the purpose of the Excluded Parties List System 
-(EPLS)?
+Sec. 26.500  What is the purpose of the Excluded Parties List System (EPLS)?
 
     The EPLS is a widely available source of the most current 
 information about persons who are excluded or disqualified from covered 
@@ -21450,6 +21532,7 @@ Sec. 26.605  How does suspension differ from debarment?
 
 <R05>
 Sec. 26.610  What procedures does the Department of Commerce use in 
+
 suspension and debarment actions?
 
     In deciding whether to suspend or debar you, we handle the actions 
@@ -21463,6 +21546,7 @@ subpart H of this part.
 
 <R05>
 Sec. 26.615  How does the Department of Commerce notify a person of a 
+
 suspension or debarment action?
 
     (a) The suspending or debarring official sends a written notice to 
@@ -21474,8 +21558,7 @@ officers, directors, owners, or joint venturers.
 
 
 <R05>
-Sec. 26.620  Do Federal agencies coordinate suspension and debarment 
-actions?
+Sec. 26.620  Do Federal agencies coordinate suspension and debarment actions?
 
     Yes, when more than one Federal agency has an interest in a 
 suspension or debarment, the agencies may consider designating one 
@@ -21505,8 +21588,9 @@ or debarment action if the suspending or debarring official--
 
 
 <R05>
-Sec. 26.630  May the Department of Commerce impute conduct of one person 
-to another?
+Sec. 26.630  May the Department of Commerce impute conduct of one person to 
+
+another?
 
     For purposes of actions taken under this rule, we may impute conduct 
 as follows:
@@ -21537,8 +21621,9 @@ evidence of knowledge, approval or acquiescence.
 
 
 <R05>
-Sec. 26.635  May the Department of Commerce settle a debarment or 
-suspension action?
+Sec. 26.635  May the Department of Commerce settle a debarment or suspension 
+
+action?
 
     Yes, we may settle a debarment or suspension action at any time if 
 it is in the best interest of the Federal Government.
@@ -21554,6 +21639,7 @@ effect.
 
 <R05>
 Sec. 26.645  Do other Federal agencies know if the Department of Commerce 
+
 agrees to a voluntary exclusion?
 
     (a) Yes, we enter information regarding a voluntary exclusion into 
@@ -21582,8 +21668,9 @@ debarment listed under Sec. 26.800(b) through (d); and
 
 
 <R05>
-Sec. 26.705  What does the suspending official consider in issuing 
-a suspension?
+Sec. 26.705  What does the suspending official consider in issuing a 
+
+suspension?
 
     (a) In determining the adequacy of the evidence to support the 
 suspension, the suspending official considers how much information is 
@@ -21615,6 +21702,7 @@ decision to suspend.
 
 <R05>
 Sec. 26.715  What notice does the suspending official give me if I am 
+
 suspended?
 
     After deciding to suspend you, the suspending official promptly 
@@ -21671,8 +21759,9 @@ after we send it if the e-mail is undeliverable.
 
 
 <R05>
-Sec. 26.730  What information must I provide to the suspending official 
-if I contest a suspension?
+Sec. 26.730  What information must I provide to the suspending official if I 
+
+contest a suspension?
 
     (a) In addition to any information and argument in opposition, as a 
 respondent your submission to the suspending official must identify--
@@ -21693,8 +21782,9 @@ or administrative action against you, as appropriate.
 
 
 <R05>
-Sec. 26.735  Under what conditions do I get an additional opportunity 
-to challenge the facts on which the suspension is based?
+Sec. 26.735  Under what conditions do I get an additional opportunity to 
+
+challenge the facts on which the suspension is based?
 
     (a) You as a respondent will not have an additional opportunity to 
 challenge the facts if the suspending official determines that--
@@ -21752,8 +21842,9 @@ purchase it.
 
 
 <R05>
-Sec. 26.750  What does the suspending official consider in deciding 
-whether to continue or terminate my suspension?
+Sec. 26.750  What does the suspending official consider in deciding whether 
+
+to continue or terminate my suspension?
 
     (a) The suspending official bases the decision on all information 
 contained
@@ -21775,6 +21866,7 @@ erroneous.
 
 <R05>
 Sec. 26.755  When will I know whether the suspension is continued or 
+
 terminated?
 
     The suspending official must make a written decision whether to 
@@ -21860,8 +21952,9 @@ affects your present responsibility.
 
 
 <R05>
-Sec. 26.805  What notice does the debarring official give me if I am 
-proposed for debarment?
+Sec. 26.805  What notice does the debarring official give me if I am proposed 
+
+for debarment?
 
     After consideration of the causes in Sec. 26.800 of this subpart, 
 if the debarring official proposes to debar you, the official sends you 
@@ -21914,8 +22007,9 @@ after we send it if the e-mail is undeliverable.
 
 
 <R05>
-Sec. 26.825  What information must I provide to the debarring official 
-if I contest a proposed debarment?
+Sec. 26.825  What information must I provide to the debarring official if I 
+
+contest a proposed debarment?
 
     (a) In addition to any information and argument in opposition, as a 
 respondent your submission to the debarring official must identify--
@@ -21940,8 +22034,9 @@ or administrative action against you, as appropriate.
 
 
 <R05>
-Sec. 26.830  Under what conditions do I get an additional opportunity 
-to challenge the facts on which a proposed debarment is based?
+Sec. 26.830  Under what conditions do I get an additional opportunity to 
+
+challenge the facts on which a proposed debarment is based?
 
     (a) You as a respondent will not have an additional opportunity to 
 challenge the facts if the debarring official determines that--
@@ -21990,8 +22085,9 @@ purchase it.
 
 
 <R05>
-Sec. 26.845  What does the debarring official consider in deciding 
-whether to debar me?
+Sec. 26.845  What does the debarring official consider in deciding whether to 
+
+debar me?
 
     (a) The debarring official may debar you for any of the causes in 
 Sec. 26.800. However, the official need not debar you even if a cause 
@@ -22144,8 +22240,9 @@ grants an exception.
 
 
 <R05>
-Sec. 26.875  May I ask the debarring official to reconsider a decision 
-to debar me?
+Sec. 26.875  May I ask the debarring official to reconsider a decision to 
+
+debar me?
 
     Yes, as a debarred person you may ask the debarring official to 
 reconsider the debarment decision or to reduce the time period or scope 
@@ -22155,6 +22252,7 @@ support it with documentation.
 
 <R05>
 Sec. 26.880  What factors may influence the debarring official during 
+
 reconsideration?
 
     The debarring official may reduce or terminate your debarment based 
@@ -22481,7 +22579,7 @@ Subpart J [Reserved]
 <R03>
 PART 27_PROTECTION OF HUMAN SUBJECTS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -22729,8 +22827,9 @@ accordance with an approved assurance.
 
 
 <R05>
-Sec. 27.103  Assuring compliance with this policy--research conducted 
-or supported by any Federal Department or Agency.
+Sec. 27.103  Assuring compliance with this policy--research conducted or 
+
+supported by any Federal Department or Agency.
 
     (a) Each institution engaged in research which is covered by this 
 policy and which is conducted or supported by a federal department or 
@@ -22942,7 +23041,9 @@ party observe the consent process and the research.
 
 <R05>
 Sec. 27.110  Expedited review procedures for certain kinds of research 
+
 involving no more than minimal risk, and for minor changes in approved 
+
 research.
 
     (a) The Secretary, HHS, has established, and published as a Notice 
@@ -23262,6 +23363,7 @@ statement regarding the research.
 
 <R05>
 Sec. 27.118  Applications and proposals lacking definite plans for 
+
 involvement of human subjects.
 
     Certain types of applications for grants, cooperative agreements, or 
@@ -23283,8 +23385,9 @@ agency.
 
 
 <R05>
-Sec. 27.119  Research undertaken without the intention of involving 
-human subjects.
+Sec. 27.119  Research undertaken without the intention of involving human 
+
+subjects.
 
     In the event research is undertaken without the intention of 
 involving human subjects, but it is later proposed to involve human 
@@ -23295,9 +23398,9 @@ approval given to the proposed change by the department or agency.
 
 
 <R05>
-Sec. 27.120  Evaluation and disposition of applications and proposals 
-for research to be conducted or supported by a Federal Department or 
-Agency.
+Sec. 27.120  Evaluation and disposition of applications and proposals for 
+
+research to be conducted or supported by a Federal Department or Agency.
 
     (a) The department or agency head will evaluate all applications and 
 proposals involving human subjects submitted to the department or agency 
@@ -23329,6 +23432,7 @@ of this policy have been satisfied.
 
 <R05>
 Sec. 27.123  Early termination of research support: Evaluation of 
+
 applications and proposals.
 
     (a) The department or agency head may require that department or 
@@ -23362,7 +23466,7 @@ protection of human subjects.
 <R03>
 PART 28_NEW RESTRICTIONS ON LOBBYING--Table of Contents
 
-
+<R05>
 
 
                             Subpart A_General
@@ -23398,7 +23502,7 @@ Sec.
 28.605 Inspector General report.
 
 Appendix A to Part 28--Certification Regarding Lobbying
-Appendix B to Part 28--Disclosure Form to Report Lobbying
+Appendix B to Part 28--Disclosure Form To Report Lobbying
 
     Authority: Sec. 319, Pub. L. 101-121 (31 U.S.C. 1352; 5 U.S.C. 301; 
 Sec. 4, as amended, and sec. 5, Pub. L. 101-410, 104 Stat. 890 (28 
@@ -24029,7 +24133,7 @@ failure occurring after October 23, 1996.
 
 [[Page 289]]
 
-        Appendix B to Part 28--Disclosure Form to Report Lobbying
+        Appendix B to Part 28--Disclosure Form To Report Lobbying
 [GRAPHIC] [TIFF OMITTED] TC20SE91.001
 
 
@@ -24047,9 +24151,10 @@ failure occurring after October 23, 1996.
 
 <R03>
 PART 29_GOVERNMENTWIDE REQUIREMENTS FOR DRUG-FREE WORKPLACE (FINANCIAL 
+
 ASSISTANCE)--Table of Contents
 
-
+<R05>
 
 
                      Subpart A_Purpose and Coverage
@@ -24154,8 +24259,7 @@ recipient in Sec. Sec. 29.605 and 29.660, respectively.)
 
 
 <R05>
-Sec. 29.110  Are any of my Federal assistance awards exempt from this 
-part?
+Sec. 29.110  Are any of my Federal assistance awards exempt from this part?
 
     This part does not apply to any award that the Secretary of Commerce 
 or designee determines that the application of this part would be 
@@ -24242,8 +24346,9 @@ violations occurring in the workplace.
 
 
 <R05>
-Sec. 29.220  By when must I publish my drug-free workplace statement 
-and establish my drug-free awareness program?
+Sec. 29.220  By when must I publish my drug-free workplace statement and 
+
+establish my drug-free awareness program?
 
     If you are a new recipient that does not already have a policy 
 statement as described in Sec. 29.205 and an ongoing awareness program 
@@ -24274,8 +24379,9 @@ establish the program by the time given in the following table:
 
 
 <R05>
-Sec. 29.225  What actions must I take concerning employees who are 
-convicted of drug violations in the workplace?
+Sec. 29.225  What actions must I take concerning employees who are convicted 
+
+of drug violations in the workplace?
 
     There are two actions you must take if an employee is convicted of a 
 drug violation in the workplace:
@@ -24332,8 +24438,9 @@ performance of the award, you must inform the DoC awarding official.
 
 
 <R05>
-Sec. 29.300  What must I do to comply with this part if I am an 
-individual recipient?
+Sec. 29.300  What must I do to comply with this part if I am an individual 
+
+recipient?
 
     As a condition of receiving a(n) DoC award, if you are an individual 
 recipient, you must agree that--
@@ -24378,8 +24485,9 @@ or
 
 
 <R05>
-Sec. 29.500  How are violations of this part determined for recipients 
-other than individuals?
+Sec. 29.500  How are violations of this part determined for recipients other 
+
+than individuals?
 
     A recipient other than an individual is in violation of the 
 requirements of this part if the Secretary of Commerce or designee 
@@ -24393,8 +24501,9 @@ provide a drug-free workplace.
 
 
 <R05>
-Sec. 29.505  How are violations of this part determined for recipients 
-who are individuals?
+Sec. 29.505  How are violations of this part determined for recipients who 
+
+are individuals?
 
     An individual recipient is in violation of the requirements of this 
 part if the Secretary of Commerce or designee determines, in writing, 
@@ -24407,6 +24516,7 @@ from a violation occurring during the conduct of any award activity.
 
 <R05>
 Sec. 29.510  What actions will the Federal Government take against a 
+
 recipient determined to have violated this part?
 
     If a recipient is determined to have violated this part, as 
@@ -24612,7 +24722,7 @@ from suspension of an award or suspension of payments under an award.
          CHAPTER I--BUREAU OF THE CENSUS, DEPARTMENT OF COMMERCE
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 Part                                                                Page
@@ -24639,7 +24749,7 @@ Part                                                                Page
 <R03>
 PART 30_FOREIGN TRADE STATISTICS--Table of Contents
 
-
+<R05>
 
 
  Subpart A_General Requirements_U.S. Principal Party In Interest (USPPI)
@@ -24780,6 +24890,7 @@ nonheadquarters port.
 
 <R05>
 Sec. 30.1  General statement of requirement for Shipper's Export 
+
 Declarations.
 
     (a) Shipper's Export Declarations shall be filed by U.S. principal 
@@ -24991,8 +25102,7 @@ FR 23402, June 4, 1985]
 
 
 <R05>
-Sec. 30.4  Preparation and signature of Shipper's Export Declaration 
-(SED).
+Sec. 30.4  Preparation and signature of Shipper's Export Declaration (SED).
 
     (a) General requirements (SED). For purposes of this part, all 
 references to preparing and filing the paper SED also pertain to 
@@ -25057,18 +25167,17 @@ interest on the SED or AES record (see Sec. 30.4(a)(1)).
 [[Page 308]]
 
 
-    Note to paragraph (a)(1):
-    The EAR defines the ``exporter'' as the person in the United States 
-who has the authority of a principal party in interest to determine and 
-control the sending of items out of the United States (see 15 CFR Part 
-772 of the EAR). For statistical purposes the Foreign Trade Statistics 
-Regulations (FTSR) have a different definition of ``exporter'' from the 
-Export Administration Regulations (EAR). Under the FTSR the ``exporter'' 
-will always be the U.S. principal party in interest. For purposes of 
-licensing responsibility under the EAR, the U.S. agent of the foreign 
-principal party in interest may be the ``exporter'' or applicant on the 
-license, in certain routed export transactions (see 15 CFR 758.3 of the 
-EAR).
+    Note to paragraph (a)(1): The EAR defines the ``exporter'' as the 
+person in the United States who has the authority of a principal party 
+in interest to determine and control the sending of items out of the 
+United States (see 15 CFR Part 772 of the EAR). For statistical purposes 
+the Foreign Trade Statistics Regulations (FTSR) have a different 
+definition of ``exporter'' from the Export Administration Regulations 
+(EAR). Under the FTSR the ``exporter'' will always be the U.S. principal 
+party in interest. For purposes of licensing responsibility under the 
+EAR, the U.S. agent of the foreign principal party in interest may be 
+the ``exporter'' or applicant on the license, in certain routed export 
+transactions (see 15 CFR 758.3 of the EAR).
 
     (2) Forwarding or other agent. The forwarding or other agent is that 
 person in the United States who is authorized by a principal party in 
@@ -25154,12 +25263,11 @@ technical information to determine the ECCN; and
     (x) Any information that it knows will affect the determination of 
 license authority.
 
-    Note to paragraph (c)(1):
-    For items in paragraph (c)(1)(ix) and (x) of this section, where the 
-foreign principal party in interest has assumed responsibility for 
-determining and obtaining license authority, the EAR sets forth the 
-information sharing requirements that apply at 15 CFR 758.3(c) of the 
-EAR.
+    Note to paragraph (c)(1): For items in paragraph (c)(1)(ix) and (x) 
+of this section, where the foreign principal party in interest has 
+assumed responsibility for determining and obtaining license authority, 
+the EAR sets forth the information sharing requirements that apply at 15 
+CFR 758.3(c) of the EAR.
 
     (2) Forwarding or other agent responsibilities. In a routed export 
 transaction, the forwarding or other agent is responsible for; obtaining 
@@ -25196,12 +25304,11 @@ a routed export transaction the exporter (U.S. principal party in
 interest) must be listed as U.S. principal party in interest on the SED 
 or on the AES record;
 
-    Note to paragraph (c)(2):
-    For items in paragraph (c)(2)(xiv) and (xv) of this section, where 
-the foreign principal party in interest has assumed responsibility for 
-determining and obtaining license authority, the EAR sets forth the 
-information sharing requirements that apply at 15 CFR 758.3(c) of the 
-EAR.
+    Note to paragraph (c)(2): For items in paragraph (c)(2)(xiv) and 
+(xv) of this section, where the foreign principal party in interest has 
+assumed responsibility for determining and obtaining license authority, 
+the EAR sets forth the information sharing requirements that apply at 15 
+CFR 758.3(c) of the EAR.
 
     (d) Information on the Shipper's Export Declaration (SED) or 
 Automated Export System (AES) record. The data provided on the SED or 
@@ -25738,8 +25845,9 @@ FR 42563, July 10, 2000; 68 FR 42538, July 17, 2003]
 
 
 <R05>
-Sec. 30.8  Additional information required on Shipper's Export 
-Declaration for In-Transit Goods (Form 7513).
+Sec. 30.8  Additional information required on Shipper's Export Declaration 
+
+for In-Transit Goods (Form 7513).
 
     In addition to the information required under Sec. 30.7, the 
 following information shall be shown on the Shipper's Export Declaration 
@@ -25758,8 +25866,9 @@ in Sec. 30.70(f) shall be indicated.
 
 
 <R05>
-Sec. 30.9  Requirements for separation and alignment of items on 
-Shipper's Export Declarations.
+Sec. 30.9  Requirements for separation and alignment of items on Shipper's 
+
+Export Declarations.
 
     For each Schedule B classification (see Sec. 30.7(l)) for which 
 merchandise is included in the shipment, a separate item shall be shown 
@@ -25853,8 +25962,9 @@ been properly met.
 
 
 <R05>
-Sec. 30.12  Time and place for presenting the SED, exemption legends 
-or proof of filing citations.
+Sec. 30.12  Time and place for presenting the SED, exemption legends or proof 
+
+of filing citations.
 
     The following conditions govern the time and place to present paper 
 SEDs, exemption legends, or proof of filing citations. It is the duty of 
@@ -25909,6 +26019,7 @@ Sec. Sec. 30.13-30.14  [Reserved]
 
 <R05>
 Sec. 30.15  Procedure for presentation of declarations covering shipments 
+
 from an interior point.
 
     For shipments from an interior point, the Shipper's Export 
@@ -25959,8 +26070,9 @@ the preparation and filing of Shipper's Export Declarations.
 
 
 <R05>
-Sec. 30.20  General statement of requirement for the filing of manifests 
-and Shipper's Export Declarations by carriers.
+Sec. 30.20  General statement of requirement for the filing of manifests and 
+
+Shipper's Export Declarations by carriers.
 
     (a) Carriers transporting merchandise from the United States, Puerto 
 Rico, or U.S. Possessions to foreign countries; from the United States 
@@ -26088,8 +26200,9 @@ renders such carrier subject to the penalties provided for in Sec.
 
 
 <R05>
-Sec. 30.22  Requirements for the filing of SEDs or AES exemption legends 
-and AES proof of filing citations by departing carriers.
+Sec. 30.22  Requirements for the filing of SEDs or AES exemption legends and 
+
+AES proof of filing citations by departing carriers.
 
     (a) To meet the requirements of Sec. 30.20 for the filing of 
 Shipper's Export Declarations, every departing carrier transporting 
@@ -26197,8 +26310,9 @@ FR 1971, Jan. 8, 1979; 55 FR 49615, Nov. 30, 1990; 58 FR 41424, Aug. 4,
 
 
 <R05>
-Sec. 30.23  Requirements for the filing of Shipper's Export Declarations 
-by pipeline carriers.
+Sec. 30.23  Requirements for the filing of Shipper's Export Declarations by 
+
+pipeline carriers.
 
     The operator of a pipeline may transport merchandise to a foreign 
 country without prior filing of Shipper's Export Declarations, on the 
@@ -26216,6 +26330,7 @@ must be filed electronically through the AES.
 
 <R05>
 Sec. 30.24  Clearance or departure of carriers under bond on incomplete 
+
 manifest or Shipper's Export Declarations.
 
     (a) For purposes of the regulations in this part, except when 
@@ -26328,6 +26443,7 @@ Regulations 1-III, 303.03.'')
 
 <R05>
 Sec. 30.31  Identification of certain nonstatistical and other unusual 
+
 transactions.
 
     In order to enable the Bureau of the Census to make a judgment as to 
@@ -26364,8 +26480,9 @@ Sec. 30.32  [Reserved]
 
 
 <R05>
-Sec. 30.33  Vessels, planes, cargo vans, and other carriers and 
-containers sold foreign.
+Sec. 30.33  Vessels, planes, cargo vans, and other carriers and containers 
+
+sold foreign.
 
     (a) Vessels, locomotives, rail cars, ferries, trucks, other 
 vehicles, trailers, pallets, cargo vans, lift vans, or similar shipping 
@@ -26400,8 +26517,9 @@ ownership.
 
 
 <R05>
-Sec. 30.34  Return of exported cargo to the United States prior to 
-reaching its final destination.
+Sec. 30.34  Return of exported cargo to the United States prior to reaching 
+
+its final destination.
 
     (a) When a vessel carrying cargo which cleared from a port in the 
 U.S. CBP area returns to the U.S. CBP area before it reaches its 
@@ -26442,8 +26560,9 @@ Sec. Sec. 30.35-30.36  [Reserved]
 
 
 <R05>
-Sec. 30.37  Exceptions from the requirement for reporting complete 
-commodity detail on the Shipper's Export Declaration.
+Sec. 30.37  Exceptions from the requirement for reporting complete commodity 
+
+detail on the Shipper's Export Declaration.
 
     (a) Where it can be determined that particular types of U.S. 
 Government shipments, or shipments for Government projects, are of such 
@@ -26484,9 +26603,9 @@ Sec. 30.38  [Reserved]
 
 
 <R05>
-Sec. 30.39  Authorization for reporting statistical information other 
-than by means of individual Shipper's Export Declarations filed for 
-each shipment.
+Sec. 30.39  Authorization for reporting statistical information other than by 
+
+means of individual Shipper's Export Declarations filed for each shipment.
 
     (a) The Census Bureau, with the concurrence of appropriate 
 government agencies, may authorize exemptions from the requirement of 
@@ -26575,6 +26694,7 @@ shipments.
 
 <R05>
 Sec. 30.50  Procedure for shipments exempt from the requirements for 
+
 Shipper's Export Declarations.
 
     Except as provided below, where an exemption from the requirement 
@@ -26642,6 +26762,7 @@ exempt from the requirement for the Shipper's Export Declaration.)
 
 <R05>
 Sec. 30.53  Special exemptions for certain shipments to U.S. Government 
+
 agencies and employees.
 
     Shipper's Export Declarations are not required for the following 
@@ -26823,8 +26944,9 @@ dunnage and not intended for unlading in a foreign country.
 
 
 <R05>
-Sec. 30.57  Information on export declarations for shipments of types 
-of goods covered by Sec. 30.56 not conditionally exempt.
+Sec. 30.57  Information on export declarations for shipments of types of 
+
+goods covered by Sec. 30.56 not conditionally exempt.
 
     (a) In those cases where Shipper's Export Declarations are required 
 for articles enumerated in Sec. 30.56 (a) through (d) only by virtue of 
@@ -26897,6 +27019,7 @@ Korea, Serbia (excluding Kosovo), Sudan, and Syria.
 
 <R05>
 Sec. 30.60  General requirements for filing export and manifest data 
+
 electronically using the Automated Export System (AES).
 
     The Automated Export System (AES) transmissions by exporters or 
@@ -27259,8 +27382,9 @@ not be considered before the one-year time period.
 
 
 <R05>
-Sec. 30.63  Information required to be reported electronically through 
-AES (data elements).
+Sec. 30.63  Information required to be reported electronically through AES 
+
+(data elements).
 
     The information (data elements) listed in this section is required 
 for shipments transmitted electronically through AES. The data elements 
@@ -27538,6 +27662,7 @@ the AES.
 
 <R05>
 Sec. 30.65  Annotating the proper exemption legends or proof of filing 
+
 citations for shipments transmitted electronically.
 
     (a) Items identified on the USML must meet the predeparture 
@@ -27986,6 +28111,7 @@ persons leaving the U.S., and tools of trade, as described in Sec.
 
 <R05>
 Sec. 30.82  Identification of U.S. merchandise returned for repair and 
+
 reexport.
 
     Import entries covering U.S. merchandise imported temporarily for 
@@ -28215,8 +28341,9 @@ chapter 9, title 13 U.S.C.
 
 
 <R05>
-Sec. 30.99  OMB control numbers assigned pursuant to the Paperwork 
-Reduction Act.
+Sec. 30.99  OMB control numbers assigned pursuant to the Paperwork Reduction 
+
+Act.
 
     (a) Purpose. This subpart will comply with the requirements of 
 section 3507(f) of the Paperwork Reduction Act (PRA) which requires that 
@@ -28449,7 +28576,7 @@ OPA Other Partnership Agency Licenses not listed above
 SCA Canadian ITAR Exemption
 
     For export license exemptions under International Traffic in Arms 
-Regulations, refer to 22 CFR, Parts 120--130 of the ITAR for the list of 
+Regulations, refer to 22 CFR, Parts 120-130 of the ITAR for the list of 
 export license exemptions.
 
                          Part IV--In-Bond Codes
@@ -28464,10 +28591,11 @@ export license exemptions.
 
 
 <R03>
-PART 40_TRAINING OF FOREIGN PARTICIPANTS IN CENSUS PROCEDURES AND 
-GENERAL STATISTICS--Table of Contents
+PART 40_TRAINING OF FOREIGN PARTICIPANTS IN CENSUS PROCEDURES AND GENERAL 
 
+STATISTICS--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -28564,8 +28692,9 @@ course of training and free from communicable diseases.
 
 
 <R05>
-Sec. 40.3  Cooperation with bilateral technical assistance programs 
-of the United States.
+Sec. 40.3  Cooperation with bilateral technical assistance programs of the 
+
+United States.
 
     In compliance with the provisions contained in the Memorandum of 
 Agreement executed between the Department of Commerce and the Foreign 
@@ -28578,8 +28707,9 @@ Government.
 
 
 <R05>
-Sec. 40.4  Administrative provisions on selection of participants and 
-funding of costs.
+Sec. 40.4  Administrative provisions on selection of participants and funding 
+
+of costs.
 
     (a) Within the framework of the aforementioned Memorandum of 
 Agreement, the Bureau of the Census will arrange at the request and 
@@ -28616,10 +28746,11 @@ international agencies.
 
 
 <R03>
-PART 50_SPECIAL SERVICES AND STUDIES BY THE BUREAU OF THE CENSUS
---Table of Contents
+PART 50_SPECIAL SERVICES AND STUDIES BY THE BUREAU OF THE CENSUS--Table of 
 
+Contents
 
+<R05>
 
 
 Sec.
@@ -28673,7 +28804,7 @@ Sec. 50.5  Fee structure for age search and citizenship information.
 ------------------------------------------------------------------------
 Searches of one census for one person and one transcript.......   $65.00
 Each additional copy of census transcript......................     2.00
-\1\ Each full schedule requested...............................    10.00
+\1\ Each full schedule requested...............................   10.00
 ------------------------------------------------------------------------
 \1\ The $10.00 for each full schedule requested is in addition to the
   $65.00 transcript fee.
@@ -28730,8 +28861,9 @@ our basic records.
 
 
 <R05>
-Sec. 50.40  Fee structure for statistics for city blocks in the 1980 
-Census of Population and Housing.
+Sec. 50.40  Fee structure for statistics for city blocks in the 1980 Census 
+
+of Population and Housing.
 
     (a) As part of the regular program of the 1980 census, the Census 
 Bureau will publish printed reports containing certain summary 
@@ -29022,7 +29154,7 @@ the information necessary to complete a Form BC-1869(EF).
 <R03>
 PART 60_PUBLIC INFORMATION--Table of Contents
 
-
+<R05>
 
 
     Authority: 5 U.S.C. 301, 552, 553, Reorganization Plan No. 5 of 
@@ -29041,10 +29173,11 @@ the Bureau of the Census are found at 15 CFR part 4.
 
 
 <R03>
-PART 70_CUTOFF DATES FOR RECOGNITION OF BOUNDARY CHANGES FOR THE CENSUS 
-2000--Table of Contents
+PART 70_CUTOFF DATES FOR RECOGNITION OF BOUNDARY CHANGES FOR THE CENSUS 2000--
 
+Table of Contents
 
+<R05>
 
 
 Sec.
@@ -29077,8 +29210,9 @@ limits exist on January 1, 2000.
 
 
 <R05>
-Sec. 70.2  ``Municipality'' and ``county subdivision'' defined for 
-census purposes.
+Sec. 70.2  ``Municipality'' and ``county subdivision'' defined for census 
+
+purposes.
 
     For the purposes of this part, the Bureau of the Census defines 
 ``municipalities'' and ``county subdivisions'' to include the areas 
@@ -29092,8 +29226,9 @@ of Population, Volume 1, General Population Characteristics, 1990 CP-1-
 
 
 <R05>
-Sec. 70.3  Effect of boundary changes occurring or reported after the 
-cutoff dates.
+Sec. 70.3  Effect of boundary changes occurring or reported after the cutoff 
+
+dates.
 
     The Bureau of the Census will not recognize changes in boundaries 
 that become effective after January 1, 2000 in taking the 2000 Decennial 
@@ -29108,10 +29243,11 @@ decennial census operations.
 
 
 <R03>
-PART 80_FURNISHING PERSONAL CENSUS DATA FROM CENSUS OF POPULATION 
-SCHEDULES--Table of Contents
+PART 80_FURNISHING PERSONAL CENSUS DATA FROM CENSUS OF POPULATION SCHEDULES--
 
+Table of Contents
 
+<R05>
 
 
 Sec.
@@ -29277,10 +29413,11 @@ States Code.
 
 
 <R03>
-PART 90_PROCEDURE FOR CHALLENGING CERTAIN POPULATION AND INCOME ESTIMATES
---Table of Contents
+PART 90_PROCEDURE FOR CHALLENGING CERTAIN POPULATION AND INCOME ESTIMATES--
 
+Table of Contents
 
+<R05>
 
 
 Sec.
@@ -29557,7 +29694,7 @@ in writing to the Bureau.
 <R03>
 PART 100_SEAL--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -29602,10 +29739,9 @@ required from the Bureau.
 
 
 <R03>
-PART 101_RELEASE OF DECENNIAL CENSUS POPULATION INFORMATION--Table of 
-Contents
+PART 101_RELEASE OF DECENNIAL CENSUS POPULATION INFORMATION--Table of Contents
 
-
+<R05>
 
 
     Authority: 5 U.S.C. 301; 13 U.S.C. 4, 141, 195; 15 U.S.C. 1512.
@@ -29613,6 +29749,7 @@ Contents
 
 <R05>
 Sec. 101.1  Report of tabulations of population to states and localities 
+
 pursuant to 13 U.S.C. 141(c).
 
     (a)(1) The Secretary of Commerce shall make the final determination 
@@ -29670,7 +29807,7 @@ of the following employees of the Bureau of the Census:
                                OF COMMERCE
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 
@@ -29724,13 +29861,10 @@ Part                                                                Page
 <R03>
                     SUBCHAPTER A_MEASUREMENT SERVICES
 
-
-
-
 <R03>
 PART 200_POLICIES, SERVICES, PROCEDURES, AND FEES--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -30388,8 +30522,9 @@ Institute of Standards & Technology.
 
 
 <R05>
-Sec. 200.115  Description of services and list of fees, incorporation 
-by reference.
+Sec. 200.115  Description of services and list of fees, incorporation by 
+
+reference.
 
     (a) NIST Special Publication 250, ``Calibration and Related 
 Measurement Services of the National Institute of Standards & 
@@ -30422,13 +30557,10 @@ National Institute of Standards & Technology, Washington, DC 20234.
 <R03>
                 SUBCHAPTER B_STANDARD REFERENCE MATERIALS
 
-
-
-
 <R03>
 PART 230_STANDARD REFERENCE MATERIALS--Table of Contents
 
-
+<R05>
 
 
                       Subpart A_General Information
@@ -30539,6 +30671,7 @@ to future availability.
 
 <R05>
 Sec. 230.7  Description of services and list of fees, incorporation by 
+
 reference.
 
     (a) The text of NIST Special Publication 260, ``Catalog of NIST 
@@ -30567,8 +30700,6 @@ Materials, National Institute of Standards & Technology, Washington, DC
 <R03>
                SUBCHAPTER C_TRANSCRIPT SERVICES [RESERVED]
 
-
-
 [[Page 378]]
 
 
@@ -30576,12 +30707,10 @@ Materials, National Institute of Standards & Technology, Washington, DC
                    SUBCHAPTER D_STANDARDS FOR BARRELS
 
 
-
-
 <R03>
 PART 240_BARRELS AND OTHER CONTAINERS FOR LIME--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -30800,10 +30929,11 @@ pounds (10 large barrels).
 
 
 <R03>
-PART 241_BARRELS FOR FRUITS, VEGETABLES AND OTHER DRY COMMODITIES, AND 
-FOR CRANBERRIES--Table of Contents
+PART 241_BARRELS FOR FRUITS, VEGETABLES AND OTHER DRY COMMODITIES, AND FOR 
 
+CRANBERRIES--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -30987,7 +31117,7 @@ compared, are as follows:
                                                 (inches)
 ------------------------------------------------------------------------
 Diameter of head...........................         17\1/8\     16\1/4\
-Effective diameter of head (see Sec. 16\3/4\     15\7/8\
+Effective diameter of head (see Sec.               16\3/4\     15\7/8\
  241.4)....................................
 Distance between heads.....................              26     25\1/4\
 Circumference of bulge, outside measurement              64     58\1/2\
@@ -31007,15 +31137,15 @@ Subdivisions of Barrel for Fruits, Vegetables, and Other Dry Commodities
                Dimensions                  barrel     barrel     barrel
                                           (inches)   (inches)   (inches)
 ------------------------------------------------------------------------
-Effective diameter of head (see Sec. 15\1/4\    13\3/8\    11\5/8\
+Effective diameter of head (see Sec.      15\1/4\    13\3/8\    11\5/8\
  241.4)................................
 Distance between heads.................    23\1/2\    20\1/2\         18
 Circumference of bulge, outside            58\1/2\    51\1/2\    45\1/4\
  measurement...........................
-----------------------------------------
+------------------------------------------------------------------------
                  Subdivisions of Barrel for Cranberries
 ------------------------------------------------------------------------
-Effective diameter of head (see Sec. 14\3/8\    12\5/8\         11
+Effective diameter of head (see Sec.      14\3/8\    12\5/8\         11
  241.4)................................
 Distance between heads.................         23         20    17\1/2\
 Circumference of bulge, outside            53\3/8\         47    41\3/8\
@@ -31167,13 +31297,12 @@ is not within the tolerance allowed.
             SUBCHAPTER E_FELLOWSHIPS AND RESEARCH ASSOCIATES
 
 
-
-
 <R03>
-PART 255_FELLOWSHIPS IN LABORATORY STANDARDIZATION AND TESTING FOR 
-QUALIFIED CITIZENS OF OTHER AMERICAN REPUBLICS--Table of Contents
+PART 255_FELLOWSHIPS IN LABORATORY STANDARDIZATION AND TESTING FOR QUALIFIED 
 
+CITIZENS OF OTHER AMERICAN REPUBLICS--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -31318,7 +31447,7 @@ the duly authorized representative of the Secretary of State.
 <R03>
 PART 256_RESEARCH ASSOCIATE PROGRAM--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -31417,15 +31546,14 @@ Standards & Technology, Washington, DC 20234.
 <R03>
          SUBCHAPTER F_REGULATIONS GOVERNING TRAFFIC AND CONDUCT
 
-
-
-
 <R03>
-PART 265_REGULATIONS GOVERNING TRAFFIC AND CONDUCT ON THE GROUNDS OF 
-THE NATIONAL INSTITUTE OF STANDARDS & TECHNOLOGY, GAITHERSBURG, 
-MARYLAND, AND BOULDER AND FORT COLLINS, COLORADO--Table of Contents
+PART 265_REGULATIONS GOVERNING TRAFFIC AND CONDUCT ON THE GROUNDS OF THE 
 
+NATIONAL INSTITUTE OF STANDARDS & TECHNOLOGY, GAITHERSBURG, MARYLAND, AND 
 
+BOULDER AND FORT COLLINS, COLORADO--Table of Contents
+
+<R05>
 
 
                             Subpart A_General
@@ -31793,8 +31921,9 @@ or the taking or placing of bets.
 
 
 <R05>
-Sec. 265.42  Photography for advertising or commercial purposes; 
-advertising and soliciting.
+Sec. 265.42  Photography for advertising or commercial purposes; advertising 
+
+and soliciting.
 
     (a) Except as otherwise provided herein or where security 
 regulations would preclude, photographs may be taken in entrances, 
@@ -31850,12 +31979,10 @@ applicable to the area in which the site is situated.
              SUBCHAPTER G_NATIONAL CONSTRUCTION SAFETY TEAMS
 
 
-
-
 <R03>
 PART 270_NATIONAL CONSTRUCTION SAFETY TEAMS--Table of Contents
 
-
+<R05>
 
 
                             Subpart A_General
@@ -32411,8 +32538,9 @@ investigations.
 
 
 <R05>
-Sec. 270.204  Provision of additional resources and services needed 
-by a team.
+Sec. 270.204  Provision of additional resources and services needed by a 
+
+team.
 
     The Director will determine the appropriate resources that a Team 
 will require to carry out its investigation and will ensure that those 
@@ -32487,8 +32615,7 @@ protected in accordance with the procedures set forth in this subpart.
 
 
 <R05>
-Sec. 270.310  Evidence collected by investigation participants who are 
-not NIST employees.
+Sec. 270.310  Evidence collected by investigation participants who are not NIST employees.
 
     Upon receipt of evidence pursuant to an investigation under the Act, 
 each investigation participant who is not a NIST employee shall:
@@ -32672,6 +32799,7 @@ hearing held pursuant to this section.
 
 <R05>
 Sec. 270.320  Entry and inspection of site where a building failure has 
+
 occurred.
 
     When the Director establishes and deploys a Team, the Team members 
@@ -32680,9 +32808,7 @@ site where the building failure has occurred.
 
 
 <R05>
-Sec. 270.321  Entry and inspection of property where building 
-components, materials, artifacts, and records with respect to 
-a building failure are located.
+Sec. 270.321  Entry and inspection of property where building components, materials, artifacts, and records with respect to a building failure are located.
 
     (a) In the course of an investigation, entry and inspection of 
 property where building components, materials, artifacts and records 
@@ -32700,8 +32826,10 @@ property, pursuant to Sec. 270.325 of this subpart.
 
 <R05>
 Sec. 270.322  Voluntary permission to enter and inspect property where 
-building components, materials, artifacts, and records with respect to 
-a building failure are located.
+
+building components, materials, artifacts, and records with respect to a 
+
+building failure are located.
 
     After the Director establishes and deploys a Team, members of the 
 public are encouraged to voluntarily permit Team members to enter 
@@ -32714,9 +32842,11 @@ property to be inspected and to carry out the duties of the Team.
 
 
 <R05>
-Sec. 270.323  Requests for permission to enter and inspect property 
-where building components, materials, artifacts, and records with 
-respect to a building failure are located.
+Sec. 270.323  Requests for permission to enter and inspect property where 
+
+building components, materials, artifacts, and records with respect to a 
+
+building failure are located.
 
     (a) After the Director establishes and deploys a Team, the Lead 
 Investigator or their designee may request permission to enter and 
@@ -32747,8 +32877,10 @@ permission requested pursuant to Sec. 270.323 of this subpart.
 
 <R05>
 Sec. 270.325  Notice of authority to enter and inspect property where 
-building components, materials, artifacts, and records with respect 
-to a building failure are located.
+
+building components, materials, artifacts, and records with respect to a 
+
+building failure are located.
 
     (a) General. In investigating a building failure pursuant to the 
 Act, any member of a Team, or any other person authorized by the 
@@ -32832,8 +32964,9 @@ appropriate law enforcement authorities.
 
 
 <R05>
-Sec. 270.340  Information created by investigation participants who 
-are not NIST employees.
+Sec. 270.340  Information created by investigation participants who are not 
+
+NIST employees.
 
     Unless requested sooner by the Lead Investigator, at the conclusion 
 of an investigation, each investigation participant who is not a NIST 
@@ -32878,7 +33011,7 @@ voluntary provision of that type of information.
 
 
 <R05>
-Subch. H-I  Public safety information.
+Sec. 270.352  Public safety information.
 
     A Team, NIST, and any other investigation participant will not 
 publicly release any information it receives in the course of an 
@@ -32891,8 +33024,6 @@ might jeopardize public safety.
 <R03>
                        SUBCHAPTERS H-I [RESERVED]
 
-
-
 [[Page 405]]
 
 
@@ -32900,12 +33031,10 @@ might jeopardize public safety.
            SUBCHAPTER J_ACCREDITATION AND ASSESSMENT PROGRAMS
 
 
-
-
 <R03>
 PART 280_FASTENER QUALITY--Table of Contents
 
-
+<R05>
 
 
                             Subpart A_General
@@ -34136,6 +34265,7 @@ of name or change of address.
 
 <R05>
 Sec. 280.323  Transfer or assignment of the trademark registration or 
+
 recorded insignia.
 
     (a) A trademark application or registration which forms the basis of 
@@ -34180,8 +34310,9 @@ alphanumeric designation to its original owner.
 
 
 <R05>
-Sec. 280.324  Change in status of trademark registration or amendment 
-of the trademark.
+Sec. 280.324  Change in status of trademark registration or amendment of the 
+
+trademark.
 
     (a) The Director, USPTO, shall designate the certificate of recordal 
 as inactive, upon:
@@ -34218,8 +34349,7 @@ recorded insignia.
 
 
 <R05>
-Sec. 280.326  Records and files of the United States Patent and Trademark 
-Office.
+Sec. 280.326  Records and files of the United States Patent and Trademark Office.
 
     The records relating to fastener insignia shall be open to public 
 inspection. Copies of any such records may be obtained upon request and 
@@ -34231,9 +34361,10 @@ payment of the fee set by the Director, USPTO.
 
 <R03>
 PART 285_NATIONAL VOLUNTARY LABORATORY ACCREDITATION PROGRAM--Table of 
+
 Contents
 
-
+<R05>
 
 
 Sec.
@@ -34297,8 +34428,9 @@ and of the logo itself.
 
 
 <R05>
-Sec. 285.4  Establishment of laboratory accreditation programs (LAPs) 
-within NVLAP.
+Sec. 285.4  Establishment of laboratory accreditation programs (LAPs) within 
+
+NVLAP.
 
     NVLAP establishes LAPs in response to legislative actions or to 
 requests from private sector entities and government agencies. For 
@@ -34493,8 +34625,7 @@ when appropriate.
 
 
 <R05>
-Sec. 285.13  Denial, suspension, revocation, or termination of 
-accreditation.
+Sec. 285.13  Denial, suspension, revocation, or termination of accreditation.
 
     (a) A laboratory may at any time voluntarily terminate its 
 participation and responsibilities as an accredited laboratory by 
@@ -34581,10 +34712,11 @@ Institute of Standards and Technology, 820 West Diamond Avenue, Room
 
 
 <R03>
-PART 286_NATIONAL VOLUNTARY CONFORMITY ASSESSMENT SYSTEM EVALUATION 
-(NVCASE) PROGRAM--Table of Contents
+PART 286_NATIONAL VOLUNTARY CONFORMITY ASSESSMENT SYSTEM EVALUATION (NVCASE) 
 
+PROGRAM--Table of Contents
 
+<R05>
 
 
 Sec.
@@ -34846,7 +34978,7 @@ with program requirements.
 <R03>
 PART 287_GUIDANCE ON FEDERAL CONFORMITY ASSESSMENT--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -34997,8 +35129,9 @@ specified technical procedure (test method).
 
 
 <R05>
-Sec. 287.3  Responsibilities of the National Institute of Standards 
-and Technology.
+Sec. 287.3  Responsibilities of the National Institute of Standards and 
+
+Technology.
 
     (a) Work with agencies through the Interagency Committee on 
 Standards Policy (ICSP) to coordinate Federal, state and local 
@@ -35177,13 +35310,12 @@ Circular A-119.
            SUBCHAPTER K_ADVANCED TECHNOLOGY PROGRAM PROCEDURES
 
 
-
-
 <R03>
-PART 290_REGIONAL CENTERS FOR THE TRANSFER OF MANUFACTURING TECHNOLOGY
---Table of Contents
+PART 290_REGIONAL CENTERS FOR THE TRANSFER OF MANUFACTURING TECHNOLOGY--Table 
 
+of Contents
 
+<R05>
 
 
 Sec.
@@ -35642,10 +35774,11 @@ of the Government.
 
 
 <R03>
-PART 291_MANUFACTURING EXTENSION PARTNERSHIP; ENVIRONMENTAL PROJECTS
---Table of Contents
+PART 291_MANUFACTURING EXTENSION PARTNERSHIP; ENVIRONMENTAL PROJECTS--Table of 
 
+Contents
 
+<R05>
 
 
 Sec.
@@ -36064,8 +36197,9 @@ the cooperative agreement has expired.
 
 
 <R05>
-Sec. 291.4  National industry-specific pollution prevention and 
-environmental compliance resource centers.
+Sec. 291.4  National industry-specific pollution prevention and environmental 
+
+compliance resource centers.
 
     (a) Eligibility criteria. Eligible applicants for these projects 
 include all nonprofit organizations including universities, community 
@@ -36262,9 +36396,10 @@ applicable to Federal financial assistance awards.
 
 <R03>
 PART 292_MANUFACTURING EXTENSION PARTNERSHIP; INFRASTRUCTURE DEVELOPMENT 
+
 PROJECTS--Table of Contents
 
-
+<R05>
 
 
 Sec.
@@ -36794,7 +36929,7 @@ assistance awards.
 <R03>
 PART 295_ADVANCED TECHNOLOGY PROGRAM--Table of Contents
 
-
+<R05>
 
 
                             Subpart A_General
@@ -37442,8 +37577,9 @@ prior to receipt by the Program of copies of such notification.
 
 
 <R05>
-Sec. 295.25  Special rule for the valuation of transfers between 
-separately-owned joint venture members.
+Sec. 295.25  Special rule for the valuation of transfers between separately-
+
+owned joint venture members.
 
     (a) Applicability. This section applies to transfers of goods, 
 including computer software, and services provided by the transferor 
@@ -37545,7 +37681,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2006)
+                     (Revised as of January 1, 2007)
 
                       Title 1--General Provisions
 
@@ -37563,8 +37699,9 @@ which is published separately and revised annually.
         II  Office of Management and Budget Circulars and Guidance 
                 (200-299)
             Subtitle B--Federal Agency Regulations for Grants and 
-                Agreements [Reserved]
-
+                Agreements
+        IX  Department of Energy (Part 901)
+    XXXVII  Peace Corps (Part 3700)
 
                         Title 3--The President
 
@@ -37586,12 +37723,12 @@ which is published separately and revised annually.
       VIII  Office of Special Counsel (Parts 1800--1899)
         IX  Appalachian Regional Commission (Parts 1900--1999)
         XI  Armed Forces Retirement Home (Part 2100)
-       XIV  Federal Labor Relations Authority, General Counsel of 
-                the Federal Labor Relations Authority and Federal 
-                Service Impasses Panel (Parts 2400--2499)
 
 [[Page 466]]
 
+       XIV  Federal Labor Relations Authority, General Counsel of 
+                the Federal Labor Relations Authority and Federal 
+                Service Impasses Panel (Parts 2400--2499)
         XV  Office of Administration, Executive Office of the 
                 President (Parts 2500--2599)
        XVI  Office of Government Ethics (Parts 2600--2699)
@@ -37639,12 +37776,12 @@ which is published separately and revised annually.
       LXIX  Tennessee Valley Authority (Part 7901)
       LXXI  Consumer Product Safety Commission (Part 8101)
     LXXIII  Department of Agriculture (Part 8301)
-     LXXIV  Federal Mine Safety and Health Review Commission (Part 
-                8401)
-     LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
 
 [[Page 467]]
 
+     LXXIV  Federal Mine Safety and Health Review Commission (Part 
+                8401)
+     LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
     LXXVII  Office of Management and Budget (Part 8701)
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
@@ -37696,13 +37833,13 @@ which is published separately and revised annually.
                 Agriculture (Parts 1400--1499)
         XV  Foreign Agricultural Service, Department of 
                 Agriculture (Parts 1500--1599)
+
+[[Page 468]]
+
        XVI  Rural Telephone Bank, Department of Agriculture (Parts 
                 1600--1699)
       XVII  Rural Utilities Service, Department of Agriculture 
                 (Parts 1700--1799)
-
-[[Page 468]]
-
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
                 Agency, Department of Agriculture (Parts 1800--
@@ -37752,13 +37889,14 @@ which is published separately and revised annually.
 
          I  Animal and Plant Health Inspection Service, Department 
                 of Agriculture (Parts 1--199)
+
+[[Page 469]]
+
         II  Grain Inspection, Packers and Stockyards 
                 Administration (Packers and Stockyards Programs), 
                 Department of Agriculture (Parts 200--299)
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
-
-[[Page 469]]
 
                            Title 10--Energy
 
@@ -37808,12 +37946,13 @@ which is published separately and revised annually.
          I  Small Business Administration (Parts 1--199)
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
+
+[[Page 470]]
+
         IV  Emergency Steel Guarantee Loan Board, Department of 
                 Commerce (Parts 400--499)
          V  Emergency Oil and Gas Guaranteed Loan Board, 
                 Department of Commerce (Parts 500--599)
-
-[[Page 470]]
 
                     Title 14--Aeronautics and Space
 
@@ -37864,12 +38003,12 @@ which is published separately and revised annually.
                 Administration, Department of Commerce (Parts 
                 2300--2399)
 
+[[Page 471]]
+
                     Title 16--Commercial Practices
 
          I  Federal Trade Commission (Parts 0--999)
         II  Consumer Product Safety Commission (Parts 1000--1799)
-
-[[Page 471]]
 
              Title 17--Commodity and Securities Exchanges
 
@@ -37918,6 +38057,8 @@ which is published separately and revised annually.
                 Employment and Training, Department of Labor 
                 (Parts 1000--1099)
 
+[[Page 472]]
+
                        Title 21--Food and Drugs
 
          I  Food and Drug Administration, Department of Health and 
@@ -37926,8 +38067,6 @@ which is published separately and revised annually.
                 (Parts 1300--1399)
        III  Office of National Drug Control Policy (Parts 1400--
                 1499)
-
-[[Page 472]]
 
                       Title 22--Foreign Relations
 
@@ -37975,6 +38114,9 @@ which is published separately and revised annually.
          I  Office of Assistant Secretary for Equal Opportunity, 
                 Department of Housing and Urban Development (Parts 
                 100--199)
+
+[[Page 473]]
+
         II  Office of Assistant Secretary for Housing-Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
@@ -37986,9 +38128,6 @@ which is published separately and revised annually.
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
-
-[[Page 473]]
-
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
@@ -38036,6 +38175,8 @@ which is published separately and revised annually.
        VII  Office of the Special Trustee for American Indians, 
                 Department of the Interior (Part 1200)
 
+[[Page 474]]
+
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
@@ -38045,9 +38186,6 @@ which is published separately and revised annually.
 
          I  Alcohol and Tobacco Tax and Trade Bureau, Department 
                 of the Treasury (Parts 1--399)
-
-[[Page 474]]
-
         II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
                 Department of Justice (Parts 400--699)
 
@@ -38094,12 +38232,13 @@ which is published separately and revised annually.
                 (Parts 2200--2499)
        XXV  Employee Benefits Security Administration, Department 
                 of Labor (Parts 2500--2599)
+
+[[Page 475]]
+
      XXVII  Federal Mine Safety and Health Review Commission 
                 (Parts 2700--2799)
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
-
-[[Page 475]]
 
                       Title 30--Mineral Resources
 
@@ -38149,6 +38288,9 @@ which is published separately and revised annually.
        XVI  Selective Service System (Parts 1600--1699)
      XVIII  National Counterintelligence Center (Parts 1800--1899)
        XIX  Central Intelligence Agency (Parts 1900--1999)
+
+[[Page 476]]
+
         XX  Information Security Oversight Office, National 
                 Archives and Records Administration (Parts 2000--
                 2099)
@@ -38157,9 +38299,6 @@ which is published separately and revised annually.
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
-
-[[Page 476]]
-
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
 
@@ -38211,15 +38350,15 @@ which is published separately and revised annually.
                 899)
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
+
+[[Page 477]]
+
          X  Presidio Trust (Parts 1000--1099)
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
-
-[[Page 477]]
-
        XVI  Morris K. Udall Scholarship and Excellence in National 
                 Environmental Policy Foundation (Parts 1600--1699)
 
@@ -38267,6 +38406,9 @@ which is published separately and revised annually.
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
+
+[[Page 478]]
+
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
@@ -38275,9 +38417,6 @@ which is published separately and revised annually.
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
-
-[[Page 478]]
-
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
@@ -38321,14 +38460,14 @@ which is published separately and revised annually.
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10010)
 
+[[Page 479]]
+
              Title 44--Emergency Management and Assistance
 
          I  Federal Emergency Management Agency, Department of 
                 Homeland Security (Parts 0--399)
         IV  Department of Commerce and Department of 
                 Transportation (Parts 400--499)
-
-[[Page 479]]
 
                        Title 45--Public Welfare
 
@@ -38378,6 +38517,9 @@ which is published separately and revised annually.
                 1--199)
         II  Maritime Administration, Department of Transportation 
                 (Parts 200--399)
+
+[[Page 480]]
+
        III  Coast Guard (Great Lakes Pilotage), Department of 
                 Homeland Security (Parts 400--499)
         IV  Federal Maritime Commission (Parts 500--599)
@@ -38385,9 +38527,6 @@ which is published separately and revised annually.
                       Title 47--Telecommunication
 
          I  Federal Communications Commission (Parts 0--199)
-
-[[Page 480]]
-
         II  Office of Science and Technology Policy and National 
                 Security Council (Parts 200--299)
        III  National Telecommunications and Information 
@@ -38432,15 +38571,15 @@ which is published separately and revised annually.
         29  Department of Labor (Parts 2900--2999)
         30  Department of Homeland Security, Homeland Security 
                 Acquisition Regulation (HSAR) (Parts 3000--3099)
+
+[[Page 481]]
+
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
         35  [Reserved]
         44  Federal Emergency Management Agency (Parts 4400--4499)
         51  Department of the Army Acquisition Regulations (Parts 
                 5100--5199)
-
-[[Page 481]]
-
         52  Department of the Navy Acquisition Regulations (Parts 
                 5200--5299)
         53  Department of the Air Force Federal Acquisition 
@@ -38481,9 +38620,11 @@ which is published separately and revised annually.
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
         XI  Research and Innovative Technology Administration, 
-                Department of Transportation (Parts 1400--1499)
+                Department of Transportation [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
+
+[[Page 482]]
 
                    Title 50--Wildlife and Fisheries
 
@@ -38494,9 +38635,6 @@ which is published separately and revised annually.
                 Commerce (Parts 200--299)
        III  International Fishing and Related Activities (Parts 
                 300--399)
-
-[[Page 482]]
-
         IV  Joint Regulations (United States Fish and Wildlife 
                 Service, Department of the Interior and National 
                 Marine Fisheries Service, National Oceanic and 
@@ -38527,7 +38665,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2006)
+                     (Revised as of January 1, 2007)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -38660,22 +38798,20 @@ Council on Environmental Quality                  40, V
 Court Services and Offender Supervision Agency    28, VIII
      for the District of Columbia
 Customs and Border Protection Bureau              19, I
-Defense Acquisition Regulations System            48, 2
 Defense Contract Audit Agency                     32, I
+Defense Department                                5, XXVI; 32, Subtitle A; 
+                                                  40, VII
 
 [[Page 485]]
 
-Defense Department                                5, XXVI; 32, Subtitle A; 
-                                                  40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
-  Defense Acquisition Regulations System          48, 2
+  Defense Acquisition Regulations System          48, II
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Federal Acquisition Regulation                  48, 1
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 32, I
@@ -38735,12 +38871,12 @@ Executive Office of the President                 3, I
   Management and Budget, Office of                5, III, LXXVII; 14, VI; 
                                                   48, 99
   National Drug Control Policy, Office of         21, III
-
-[[Page 486]]
-
   National Security Council                       32, XXI; 47, 2
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
+
+[[Page 486]]
+
   Trade Representative, Office of the United      15, XX
        States
 Export-Import Bank of the United States           5, LII; 12, IV
@@ -38810,12 +38946,12 @@ Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 General Services Administration                   5, LVII; 41, 105
-
-[[Page 487]]
-
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
+
+[[Page 487]]
+
   Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
@@ -38837,6 +38973,7 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Child Support Enforcement, Office of            45, III
   Children and Families, Administration for       45, II, III, IV, X
   Community Services, Office of                   45, X
+  Defense Acquisition Regulations System          48, 2
   Family Assistance, Office of                    45, II
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
@@ -38886,11 +39023,10 @@ Indian Arts and Crafts Board                      25, II
 Indian Health Service                             25, V; 42, I
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
-
+Information Security Oversight Office, National   32, XX
+   Archives and Records Administration
 [[Page 488]]
 
-Information Security Oversight Office, National   32, XX
-     Archives and Records Administration
 Inspector General
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
@@ -38966,11 +39102,11 @@ Labor Department                                  5, XLII
   Federal Procurement Regulations System          41, 50
   Labor-Management Standards, Office of           29, II, IV
   Mine Safety and Health Administration           30, I
+  Occupational Safety and Health Administration   29, XVII
+  Public Contracts                                41, 50
 
 [[Page 489]]
 
-  Occupational Safety and Health Administration   29, XVII
-  Public Contracts                                41, 50
   Secretary of Labor, Office of                   29, Subtitle A
   Veterans' Employment and Training Service,      41, 61; 20, IX
        Office of the Assistant Secretary for
@@ -39040,11 +39176,11 @@ National Transportation Safety Board              49, VIII
 National Weather Service                          15, IX
 Natural Resources Conservation Service            7, VI
 Navajo and Hopi Indian Relocation, Office of      25, IV
+Navy Department                                   32, VI
+  Federal Acquisition Regulation                  48, 52
 
 [[Page 490]]
 
-Navy Department                                   32, VI
-  Federal Acquisition Regulation                  48, 52
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Interstate Low-Level Radioactive Waste  10, XVIII
      Commission
@@ -39117,11 +39253,12 @@ State Department                                  22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
 Surface Mining and Reclamation Appeals, Board of  30, III
 Surface Mining Reclamation and Enforcement,       30, VII
-   Office of
-[[Page 491]]
-
+     Office of
 Surface Transportation Board                      49, X
 Susquehanna River Basin Commission                18, VIII
+
+[[Page 491]]
+
 Technology Administration                         15, XI
 Technology Policy, Assistant Secretary for        37, IV
 Technology, Under Secretary for                   37, V
@@ -39274,19 +39411,5 @@ Subtitle A
         (d) amended; (c) heading revised...........................51353
 8b.5 (a), (b)(3) and (d) amended...................................51353
 8b.6 (a)(3)(i) and (ii) amended....................................51353
-8b.8 (a) amended...................................................51353
-
-[[Page 494]]
-
-8b.10 (a) amended..................................................51353
-8b.11 (a)(1) and (3) amended.......................................51353
-8b.12 (a), (b)(1), (c) introductory text, (1) and (e) amended......51353
-8b.16--8b.18 (Subpart C) Heading amended...........................51353
-8b.17 (a) heading revised; (a), (b) and (e)(3) amended.............51353
-8b.19 Amended......................................................51353
-8b.21 (a) and (d) amended..........................................51353
-8b.22 (a), (c) and (d)(1) amended..................................51353
-8b.25 (a)(1) amended...............................................51353
-20.1 Amended.......................................................51355
-20.2 Heading revised..................
+8b.8 (a) amended..........................................
 </pre></body></html>

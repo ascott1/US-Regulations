@@ -1,25 +1,25 @@
 <html><body><pre>
 [Title 7 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2006 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2007 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-
+          
 <R02>
           7
 
 
           Parts 1900 to 1939
 
-                         Revised as of January 1, 2006
+                         Revised as of January 1, 2007
 
 
           Agriculture
           
-          <R03>
+<R03>
 
 
 ________________________
@@ -27,7 +27,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of January 1, 2006
+          As of January 1, 2007
           With Ancillaries
                     Published by:
                     Office of the Federal Register
@@ -161,7 +161,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2006), consult the ``List of CFR 
+revision date (in this case, January 1, 2007), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -262,14 +262,14 @@ mail, gpoaccess@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
-information. Connect to NARA's web site at www.archives.gov/federal--
+information. Connect to NARA's web site at www.archives.gov/federal-
 register. The NARA site also contains links to GPO Access.
 
                               Raymond A. Mosley,
                                     Director,
                           Office of the Federal Register.
 
-January 1, 2006.
+January 1, 2007.
 
 [[Page ix]]
 
@@ -282,7 +282,7 @@ these volumes are arranged in the following order: parts 1-26, 27-52,
 53-209, 210-299, 300-399, 400-699, 700-899, 900-999, 1000-1199, 1200-
 1599, 1600-1899, 1900-1939, 1940-1949, 1950-1999, and part 2000 to end. 
 The contents of these volumes represent all current regulations codified 
-under this title of the CFR as of January 1, 2006.
+under this title of the CFR as of January 1, 2007.
 
     The Food and Nutrition Service current regulations in the volume 
 containing parts 210-299, include the Child Nutrition Programs and the 
@@ -296,7 +296,8 @@ agreements and orders for milk appear in the volume containing parts
 
     For this volume, Robert J. Sheehan was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
-Frances D. McDonald, assisted by Alomha S. Morris.
+Frances D. McDonald, assisted by Ann Worley.
+
 
 [[Page 1]]
 
@@ -305,7 +306,7 @@ Frances D. McDonald, assisted by Alomha S. Morris.
                           TITLE 7--AGRICULTURE
 
 
-
+<R02>
 
                  (This book contains parts 1900 to 1939)
 
@@ -332,7 +333,7 @@ SERVICE, RURAL UTILITIES SERVICE, AND FARM SERVICE AGENCY, DEPARTMENT OF
                          AGRICULTURE (CONTINUED)
 
 
-
+<R03>
 
   --------------------------------------------------------------------
 
@@ -345,9 +346,13 @@ Part                                                                Page
 1900            General.....................................           7
 1901            Program-related instructions................          19
 1902            Supervised bank accounts....................          58
-1904            Loan and grant programs (individual) [Reserved]
+1904
+
+Loan and grant programs (individual) [Reserved]
+
 1910            General.....................................          67
 1922            [Reserved]
+
 1924            Construction and repair.....................          80
 1925            Taxes.......................................         181
 1927            Title clearance and loan closing............         182
@@ -361,12 +366,10 @@ Part                                                                Page
                     SUBCHAPTER H_PROGRAM REGULATIONS
 
 
-
-
 <R03>
 PART 1900_GENERAL--Table of Contents
 
-
+<R05>
 
 
                    Subpart A_Delegations of Authority
@@ -418,7 +421,7 @@ Exhibit D to Subpart B--Hearings/Review Officer Designations
 1900.102 Applicable law.
 
  Subpart D_Processing and Servicing FmHA or Its Successor Agency Under 
-  Public Law 103-354 Assistance to Employees, Relatives, and Associates
+  Public Law 103	354 Assistance to Employees, Relatives, and Associates
 
 1900.151 General.
 1900.152 Definitions.
@@ -1252,6 +1255,11 @@ of employees.
     (c) The determination of a case's need for special handling under 
 the provisions of this subpart is not an adverse action and, therefore, 
 is not subject to appeal.
+    (d) The provisions of this subpart do not apply to the Farm Service 
+Agency. The relevant regulations applicable to the Farm Service Agency 
+can be found at 5 CFR parts 2635 and 8301.
+
+[58 FR 224, Jan. 5, 1993, as amended at 71 FR 38979, July 11, 2006]
 
 
 <R05>
@@ -1259,13 +1267,13 @@ Sec. 1900.152  Definitions.
 
     Applicant or borrower. All persons or organizations, individually or 
 collectively, applying for or receiving insured or guaranteed loan or 
-grant assistance from or through FmHA or its successor agency under 
-Public Law 103-354. Referred to as recipient.
-    Assistance. Loans or grants made, insured or guaranteed, or serviced 
-by FmHA or its successor agency under Public Law 103-354.
+grant assistance from or through FmHA or its
 
 [[Page 17]]
 
+successor agency under Public Law 103-354. Referred to as recipient.
+    Assistance. Loans or grants made, insured or guaranteed, or serviced 
+by FmHA or its successor agency under Public Law 103-354.
     Associates. All persons with whom an employee has a business or 
 close personal association or immediate working relationship.
     Business association. Business relationship between those with an 
@@ -1331,18 +1339,18 @@ handling requested. An employee's request that the case receive special
 handling is usually honored.
     (c) Responsibility of FmHA or its successor agency under Public Law 
 103-354 official. When any relationship or association is identified, 
-the FmHA or its successor agency under Public Law 103-354 official 
-completes and submits FmHA or its successor agency under Public Law 103-
-354 Guide Letter 1900-D-2 (available in any FmHA or its successor agency 
-under Public Law 103-354
+the FmHA or its successor agency under Public Law 103-
 
 [[Page 18]]
 
-office) to the State Director (or Administrator, under paragraph (e) of 
-this section or Sec. 1900.155(a) of this subpart). When completed FmHA 
-or its successor agency under Public Law 103-354 Guide Letter 1900-D-3 
-(available in any FmHA or its successor agency under Public Law 103-354 
-office) is returned by the State Director, the processing official;
+354 official completes and submits FmHA or its successor agency under 
+Public Law 103-354 Guide Letter 1900-D-2 (available in any FmHA or its 
+successor agency under Public Law 103-354 office) to the State Director 
+(or Administrator, under paragraph (e) of this section or Sec. 
+1900.155(a) of this subpart). When completed FmHA or its successor 
+agency under Public Law 103-354 Guide Letter 1900-D-3 (available in any 
+FmHA or its successor agency under Public Law 103-354 office) is 
+returned by the State Director, the processing official;
     (1)-(2) [Reserved]
     (3) Notifies the recipient in writing of the change in 
 responsibility and any other pertinent information,
@@ -1405,12 +1413,13 @@ Sec. 1900.154  Determining the need for special handling.
     The State Director (or Administrator, under Sec. 1900.153(e) or 
 Sec. 1900.155(a) of this subpart):
     (a) [Reserved]
+
+[[Page 19]]
+
     (b) Determines whether the reported relationship or association is 
 defined in Sec. 1900.152 of this subpart and would violate the 
 provisions of Sec. 1900.151(a) of this subpart,
     (c)-(f) [Reserved]
-
-[[Page 19]]
 
 
 <R05>
@@ -1478,7 +1487,7 @@ Sec. Sec. 1900.157-1900.200  [Reserved]
 <R03>
 PART 1901_PROGRAM-RELATED INSTRUCTIONS--Table of Contents
 
-
+<R05>
 
 
 Subparts A-D [Reserved]
@@ -1497,14 +1506,15 @@ Sec.
 Exhibit A to Subpart E--Civil Rights Compliance Reviews
 Exhibit B to Subpart E--Summary Report of Civil Rights Compliance 
           Reviews
+
+[[Page 20]]
+
 Exhibit C to Subpart E--FmHA or Its Successor Agency Under Public Law 
           103-354 Financed Contract
 Exhibit D to Subpart E--Goals and Timetables for Minorities and Women
 Exhibit E to Subpart E--List of Regional Offices, Office of Federal 
           Contract Compliance Programs (OFCCP), U.S. Department of Labor 
           (USDL)
-
-[[Page 20]]
 
 Subpart F_Procedures for the Protection of Historical and Archeological 
                                Properties
@@ -1583,8 +1593,9 @@ Reservations.
 
 
 <R05>
-Sec. 1901.202  Nondiscrimination in FmHA or its successor agency under 
-Public Law 103-354 programs.
+Sec. 1901.202  Nondiscrimination in FmHA or its successor agency under Public 
+
+Law 103-354 programs.
 
     (a) Nondiscrimination by recipients of FmHA or its successor agency 
 under Public Law 103-354 assistance. (1) No recipient of FmHA or its 
@@ -1601,12 +1612,12 @@ under Public Law 103-354 financial assistance.
     (2) Specifically, and without limiting the general applicability of 
 this subpart, such recipient will not on the grounds of race, color, or 
 national origin:
-    (i) Deny any person the use, occupancy, or enjoyment of the whole or 
-any part of real or personal property or service, financial aid, or 
-other benefit under any program or facility.
 
 [[Page 21]]
 
+    (i) Deny any person the use, occupancy, or enjoyment of the whole or 
+any part of real or personal property or service, financial aid, or 
+other benefit under any program or facility.
     (ii) Provide any person with any service, use, occupancy, or other 
 benefit different from that provided others by the program or facility.
     (iii) Subject any person to segregation or separate treatment in any 
@@ -1673,15 +1684,14 @@ will intimidate, threaten, coerce, or discriminate against any person
 for the purpose of interfering with any right or privilege under this 
 subpart, or because a person has made a complaint or has testified, 
 assisted, or participated in any manner in an investigation, proceeding, 
-or hearing related to a complaint. The identity of complainants will be 
-kept confidential except to the extent necessary to carry out the 
-purposes of this subpart.
-    (d) Nondiscrimination Agreement. The County Supervisor will, at the 
-time
+or hearing related to a complaint. The
 
 [[Page 22]]
 
-FmHA or its successor agency under Public Law 103-354 assistance is 
+identity of complainants will be kept confidential except to the extent 
+necessary to carry out the purposes of this subpart.
+    (d) Nondiscrimination Agreement. The County Supervisor will, at the 
+time FmHA or its successor agency under Public Law 103-354 assistance is 
 requested, give all applicants for loans and grants listed in Sec. 
 1901.204(a) a copy of Form FmHA or its successor agency under Public Law 
 103-354 400-4, ``Nondiscrimination Agreement,'' and inform the applicant 
@@ -1749,17 +1759,17 @@ defined as:
     (i) The owner of a dwelling intended for occupancy by five or more 
 families.
     (ii) Any person who has participated as principal in the sale or 
-rental of three or more dwellings in the past year.
-    (iii) Any person who has served as sale or rental agent in two or 
-more transactions in the past year.
-    (b) Discrimination acts prohibited. Title VIII prohibits FmHA or its 
-successor
+rental of
 
 [[Page 23]]
 
-agency under Public Law 103-354 employees, multiple housing borrowers, 
-and those with whom FmHA or its successor agency under Public Law 103-
-354 does business (contractors, realtors, packagers) from:
+three or more dwellings in the past year.
+    (iii) Any person who has served as sale or rental agent in two or 
+more transactions in the past year.
+    (b) Discrimination acts prohibited. Title VIII prohibits FmHA or its 
+successor agency under Public Law 103-354 employees, multiple housing 
+borrowers, and those with whom FmHA or its successor agency under Public 
+Law 103-354 does business (contractors, realtors, packagers) from:
     (1) Refusing to sell or rent a particular dwelling because of a 
 person's race, color, religion, or national origin. The following 
 actions constitute violations of this provision:
@@ -1822,15 +1832,14 @@ the same subdivision.
 form HUD 935.2(3-76) or the participant must be a signatory to a 
 voluntary affirmative marketing agreement approved by the Department of 
 Housing and Urban Development. The plan, if submitted on form HUD 
-935.2(3-76) shall describe an affirmative program which will meet the 
-following requirements:
-    (i) Reaching those prospective buyers or tenants, regardless of sex, 
-of majority and minority groups in the marketing area who traditionally 
-would
+935.2(3-76) shall describe an
 
 [[Page 24]]
 
-not be expected to apply for such housing without special outreach 
+affirmative program which will meet the following requirements:
+    (i) Reaching those prospective buyers or tenants, regardless of sex, 
+of majority and minority groups in the marketing area who traditionally 
+would not be expected to apply for such housing without special outreach 
 efforts because of existing racial or socio-economic patterns.
     (ii) Undertaking and/or maintaining a non-discriminatory hiring 
 policy in recruiting from both majority and minority groups including 
@@ -1896,22 +1905,22 @@ The County Supervisor will review and submit with comments to the
 official authorized to approve the assistance requested, those fair 
 housing marketing plans where the assistance requested exceeds his 
 approval authority. Any participant covered by this section must have an 
-approved affirmative fair housing marketing plan for any assistance 
-approved 90 or more days after the issuance of these regulations.
-    (7) Approved affirmative fair housing marketing plans will be made 
-available by the participant for public inspection at the participant's 
-place of business
+approved affirmative fair
 
 [[Page 25]]
 
-and at each sales or rental office. Participants who fulfill the 
-requirements of this section by filing a Form HUD 9352(3-76) will 
-maintain records to reflect their efforts in fulfilling the affirmative 
-fair housing marketing plan. These records will be made available for 
-review by FmHA or its successor agency under Public Law 103-354 
-personnel. Affirmative fair housing marketing plans will be reviewed by 
-FmHA or its successor agency under Public Law 103-354 personnel in 
-accordance with section 2006-M of this chapter.
+housing marketing plan for any assistance approved 90 or more days after 
+the issuance of these regulations.
+    (7) Approved affirmative fair housing marketing plans will be made 
+available by the participant for public inspection at the participant's 
+place of business and at each sales or rental office. Participants who 
+fulfill the requirements of this section by filing a Form HUD 9352(3-76) 
+will maintain records to reflect their efforts in fulfilling the 
+affirmative fair housing marketing plan. These records will be made 
+available for review by FmHA or its successor agency under Public Law 
+103-354 personnel. Affirmative fair housing marketing plans will be 
+reviewed by FmHA or its successor agency under Public Law 103-354 
+personnel in accordance with section 2006-M of this chapter.
     (8) Applicants failing to comply with these requirements will be 
 liable to sanctions authorized by regulations, rules or policies 
 governing the program in which they are participating including but not 
@@ -1976,13 +1985,13 @@ Cooperative Housing loans.
 Title XIII of Pub. L. 99-198.
     (16) Rural Business Enterprise grants and Television Demonstration 
 grants.
+
+[[Page 26]]
+
     (17) Section 601 Energy Impacted Area Development Assistance grants.
     (18) Nonprofit National Corporations grants.
     (19) System for Delivery of Certain Rural Development Programs Panel 
 Grants.
-
-[[Page 26]]
-
     (20) Emergency Community Water Assistance grants.
     (21) Section 306C WWD loans and grants.
     (22) Housing Application Packaging Grants.
@@ -2046,18 +2055,18 @@ received approved compliance review training. Otherwise, the Compliance
 Review Officer must be a member of the State staff. For Technical 
 Assistance and Training grants and Nonprofit National Corporations 
 grants, the Assistant Administrator for Community and Business Programs 
-will designate the Compliance Review Officer for recipient 
-organizations.
-    (2) Type of review. Compliance reviews may be completed in 
-connection with regular supervision visits to organizations and must 
-include an inspection of the FmHA or its successor
+will designate the
 
 [[Page 27]]
 
-agency under Public Law 103-354-financed facility. Before determining 
-that the recipient is or is not complying with the provisions in Form 
-FmHA or its successor agency under Public Law 103-354 400-4, the 
-Compliance Review Officer will:
+Compliance Review Officer for recipient organizations.
+    (2) Type of review. Compliance reviews may be completed in 
+connection with regular supervision visits to organizations and must 
+include an inspection of the FmHA or its successor agency under Public 
+Law 103-354-financed facility. Before determining that the recipient is 
+or is not complying with the provisions in Form FmHA or its successor 
+agency under Public Law 103-354 400-4, the Compliance Review Officer 
+will:
     (i) Observe the recipient's records, including records on the 
 present membership by race, the handling of applications for use of the 
 facility, the user rates and membership fees or dues, and the facility's 
@@ -2116,13 +2125,14 @@ is still in effect and is being enforced.
 that the reports are complete. If the recipient was found in 
 noncompliance, the State Director will immediately send a copy of the 
 report to the Administrator, Attention: Equal Opportunity Officer, with 
-action proposed to bring the recipient into compliance. For Technical 
-Assistance and Training grants and Nonprofit National Corporations 
-grants, the Assistant Administrator, Community and Business Programs, 
-will send a copy of the report to the Equal Opportunity Officer.
+action proposed to bring the recipient
 
 [[Page 28]]
 
+into compliance. For Technical Assistance and Training grants and 
+Nonprofit National Corporations grants, the Assistant Administrator, 
+Community and Business Programs, will send a copy of the report to the 
+Equal Opportunity Officer.
     (e) Timing of reviews--(1) Reporting year. The State Director will 
 schedule Civil Rights compliance reviews from November 1 to October 31 
 of each year. For example, compliance reviews scheduled during 1976 
@@ -2174,8 +2184,9 @@ as a guide, to the Equal Opportunity Officer by July 31 of each year.
 
 
 <R05>
-Sec. 1901.205  Nondiscrimination in construction financed with FmHA or 
-its successor agency under Public Law 103-354 loan or grant.
+Sec. 1901.205  Nondiscrimination in construction financed with FmHA or its 
+
+successor agency under Public Law 103-354 loan or grant.
 
     Executive Order 11246 provides for equal employment opportunity 
 without regard to race, color, religion, sex, or national origin and the 
@@ -2188,27 +2199,27 @@ assisted construction contracts or subcontracts in excess of $10,000 for
 on-site construction. It also applies to invitations for bids published 
 for such construction. If construction work of over $10,000 is partially 
 financed by another Federal Agency, the County Supervisor will try to 
-reach an agreement as to which agency will administer the 
-nondiscrimination requirements. If unable to reach an agreement, the 
-County Supervisor will refer the case to the State Director.
-    (b) Requirements of applicants, contractors, or subcontractors and 
-responsible
+reach an agreement as to which
 
 [[Page 29]]
 
-FmHA or its successor agency under Public Law 103-354 officials--(1) 
-Applicant. The applicant will be required to execute Form FmHA or its 
-successor agency under Public Law 103-354 400-1, ``Equal Opportunity 
-Agreement,'' at the time the loan is closed or before construction is 
-started, whichever occurs first. If the applicant is an incorporated 
-association, a resolution of the governing body will authorize execution 
-of the form. Municipalities or other public bodies will have to 
-incorporate references to this form in the loan resolution before it is 
-adopted. If the applicant wants to publish for bids, the applicant must 
-obtain Form FmHA or its successor agency under Public Law 103-354 1924-
-5, ``Invitation for Bid (Construction Contract)'' which is in compliance 
-with Executive Order 11246, from the local FmHA or its successor agency 
-under Public Law 103-354 County Supervisor.
+agency will administer the nondiscrimination requirements. If unable to 
+reach an agreement, the County Supervisor will refer the case to the 
+State Director.
+    (b) Requirements of applicants, contractors, or subcontractors and 
+responsible FmHA or its successor agency under Public Law 103-354 
+officials--(1) Applicant. The applicant will be required to execute Form 
+FmHA or its successor agency under Public Law 103-354 400-1, ``Equal 
+Opportunity Agreement,'' at the time the loan is closed or before 
+construction is started, whichever occurs first. If the applicant is an 
+incorporated association, a resolution of the governing body will 
+authorize execution of the form. Municipalities or other public bodies 
+will have to incorporate references to this form in the loan resolution 
+before it is adopted. If the applicant wants to publish for bids, the 
+applicant must obtain Form FmHA or its successor agency under Public Law 
+103-354 1924-5, ``Invitation for Bid (Construction Contract)'' which is 
+in compliance with Executive Order 11246, from the local FmHA or its 
+successor agency under Public Law 103-354 County Supervisor.
     (2) Contractor or Subcontractor. (i) The prospective contractor or 
 subcontractor must submit Form FmHA or its successor agency under Public 
 Law 103-354 400-6, ``Compliance Statement,'' to the County Supervisor 
@@ -2259,14 +2270,15 @@ any FmHA or its successor agency under Public Law 103-354 financed
 contract in excess of $10,000.
     (d) Contractor with at least 50 employees and contract of $50,000 or 
 more. Each contractor or subcontractor with at least 50 employees and 
-contract of $50,000 or more, must develop a written affirmative action 
-compliance program for each project. This must be on file in each 
-contractor's or subcontractor's personnel file within 120 days after the 
-beginning of the contract. Form AD-425 provides guidelines for 
-developing compliance programs.
+contract of
 
 [[Page 30]]
 
+$50,000 or more, must develop a written affirmative action compliance 
+program for each project. This must be on file in each contractor's or 
+subcontractor's personnel file within 120 days after the beginning of 
+the contract. Form AD-425 provides guidelines for developing compliance 
+programs.
     (e) Compliance during construction. The County Supervisor will:
     (1) Check to see that:
     (i) Required posters are displayed.
@@ -2340,6 +2352,10 @@ Attention: Director, Equal Opportunity Staff.
 following recipients were found in compliance with title VI of the Civil 
 Rights Act of 1964.
 
+[[Page 31]]
+
+
+
 ------------------------------------------------------------------------
                                                         Type of review
                                                     --------------------
@@ -2354,9 +2370,6 @@ Rights Act of 1964.
   grant approval.
 **A post-award review is a compliance review conducted after loan
   closing.
-
-
-[[Page 31]]
 
     II. The following recipients were found in non-compliance:
 
@@ -2444,6 +2457,10 @@ assisted construction contract or subcontract.
 
     Goals for Women apply nationwide.
 
+[[Page 32]]
+
+
+
                           Goals and Timetables
 ------------------------------------------------------------------------
                                                                  Goals
@@ -2460,10 +2477,7 @@ From Apr. 1, 1980 until Mar. 31, 1981........................        6.9
 minority utilization shall be included in all Federal or federally 
 assisted construction contracts and subcontracts in excess of $10,000 to 
 be performed in the respective covered areas. The goals are applicable 
-to the contractor's aggregate on-site construction workforce whether or
-
-[[Page 32]]
-
+to the contractor's aggregate on-site construction workforce whether or 
 not part of that workforce is performing work on a Federal or federally 
 assisted construction contract or subcontract.
 
@@ -2584,6 +2598,10 @@ Until further notice..........  All.........................     4.0-5.0
 
     Area covered--Nassau and Suffolk Counties, NY.
 
+[[Page 33]]
+
+
+
                           Goals and Timetables
                               [In percent]
 ------------------------------------------------------------------------
@@ -2609,10 +2627,6 @@ Until further notice..........  All.........................       11-13
                          state of delaware area
 
     Area covered--State of Delaware.
-
-[[Page 33]]
-
-
 
                           Goals and Timetables
                               [In percent]
@@ -2730,6 +2744,10 @@ Until further notice..........  Asbestos workers............    8.6-10.3
 
     Area covered--Jefferson, Shelby, and Walker Counties, AL.
 
+[[Page 34]]
+
+
+
                           Goals and Timetables
                               [In percent]
 ------------------------------------------------------------------------
@@ -2753,10 +2771,6 @@ Until further notice..........  All.........................       24-30
                          jacksonville, fl, area
 
     Area covered--Drival County, FL.
-
-[[Page 34]]
-
-
 
                           Goals and Timetables
                               [In percent]
@@ -2878,6 +2892,10 @@ Until further notice..........  Asbestos workers............    9.3-12.2
                                 Engineers (stationary)......   26.9-28.4
                                 Floor layers................    9.0-10.5
                                 Glaziers....................    9.1-11.1
+
+[[Page 35]]
+
+ 
                                 Lathers.....................    9.3-10.6
                                 Marble, tile and terrazzo        8.3-9.9
                                  workers and helpers.
@@ -2894,10 +2912,6 @@ Until further notice..........  Asbestos workers............    9.3-12.2
 
     Area covered--Ashland, Ashtabula, Crawford, Cuyahoga, Erie, Geauga, 
 Huron, Lake, Lorain, Sandusky, and Seneca Counties, OH.
-
-[[Page 35]]
-
-
 
                           Goals and Timetables
                               [In percent]
@@ -3019,8 +3033,12 @@ Until further notice..........  Asbestos workers............   32.2-37.7
                             peoria, il, area
 
     Area covered--Peoria, Fulton, Tazewell, Woodford, Knox, Stark, 
-Marshall, Hancock, Mason, McLean, McDonough, Henderson, Warren, 
-Livingston, Bureau, Henry, and Putnam Counties, IL.
+Marshall, Hancock,
+
+[[Page 36]]
+
+Mason, McLean, McDonough, Henderson, Warren, Livingston, Bureau, Henry, 
+and Putnam Counties, IL.
 
                           Goals and Timetables
                               [In percent]
@@ -3037,10 +3055,6 @@ Jo Daviess Counties; Cherry Grove, Shannon, Rock Creek, Lima, Wysox, and
 Elkhorn Townships in Carroll County; Genesee, Jordan, Hopkins, Sterling, 
 Hume, Montmorency, Tampico, and Hahnaman Townships in Whiteside County, 
 IL.
-
-[[Page 36]]
-
-
 
                           Goals and Timetables
                               [In percent]
@@ -3156,6 +3170,10 @@ Nowata, Craig, Ottawa, Delaware, Okmulgee (northern half), dividing line
 Highway 16; Osage (eastern half), dividing line Highway 18; Pawnee 
 (eastern half), and Payne (eastern half) Counties, OK.
 
+[[Page 37]]
+
+
+
                           Goals and Timetables
                               [In percent]
 ------------------------------------------------------------------------
@@ -3182,10 +3200,6 @@ Until further notice..........  Bricklayers.................   24.0-25.0
     Area covered--Clay, Platte, Jackson, Bates, Carroll, Lafayette, Ray, 
 Johnson, Henry, and Cass Counties, Mo., and Wyandotte, Johnson, and 
 Miami Counties, KS.
-
-[[Page 37]]
-
-
 
                           Goals and Timetables
                               [In percent]
@@ -3312,6 +3326,9 @@ Until further notice..........  All.........................   28.5-33.0
 Until further notice..........  All.........................   25.0-30.0
 ------------------------------------------------------------------------
 
+
+[[Page 38]]
+
                          contra costa county, ca
 
     Area covered: Contra Costa County, CA.
@@ -3339,11 +3356,7 @@ Until further notice..........  All.........................   20.0-27.0
                               las vegas, nv
 
     Area covered. Area of jurisdiction of the Building & Construction 
-Trades Council of
-
-[[Page 38]]
-
-Clark, Lincoln, Nye and Esmeralda Counties, NV.
+Trades Council of Clark, Lincoln, Nye and Esmeralda Counties, NV.
 
                           Goals and Timetables
                               [In percent]
@@ -3456,6 +3469,9 @@ Until further notice..........  Electricians................        17.0
 Until further notice..........  All.........................   12.0-14.0
 ------------------------------------------------------------------------
 
+
+[[Page 39]]
+
                          santa clara county, ca
 
     Area covered. Santa Clara County, CA.
@@ -3479,9 +3495,6 @@ Until further notice..........  All.........................   18.0-21.7
 ------------------------------------------------------------------------
 Until further notice..........  All.........................   17.0-20.4
 ------------------------------------------------------------------------
-
-
-[[Page 39]]
 
                                 Region X
 
@@ -3594,6 +3607,8 @@ Until further notice..........  All.........................   12.2-15.0
 
 [43 FR 58357, Dec. 14, 1978]
 
+[[Page 40]]
+
 Exhibit E to Subpart E of Part 1901--List of Regional Offices, Office of 
  Federal Contract Compliance Programs (OFCCP), U.S. Department of Labor 
                                  (USDL)
@@ -3609,10 +3624,6 @@ Region II (NY, NJ, PR, VI)
 Region III (PA, MD, DE, VA, WV, DC)
     Associate Regional Administrator, USDL/OFCCP, Gateway Building, Room 
 15434, 3535 Market Street, Philadelphia, PA 19104, (215) 596-1213.
-
-
-[[Page 40]]
-
 
 Region IV (NC, SC, KY, TN, MS, AL, GA, FL)
     Associate Regional Administrator, USDL/OFCCP, 1371 Peachtree Street, 
@@ -3700,6 +3711,9 @@ activities supported in whole or in part through FmHA or its successor
 agency under Public Law 103-354 contracts, grants, subsidies, loans, or 
 other forms of funding assistance. This does not include any actual 
 construction by FmHA or its successor agency under Public Law 103-354.
+
+[[Page 41]]
+
     (b) National Historic Preservation Act. The National Register means 
 the National Register of Historic Places, which is a register of 
 districts, sites, buildings, structures, and objects, significant in 
@@ -3711,9 +3725,6 @@ the Federal Register each year in February. Addenda are published on the
 first Tuesday of each month.
     (c) National Register Property means a district, site, building, 
 structure, or object included in the National Register.
-
-[[Page 41]]
-
     (d) Property eligible for inclusion in the National Register means 
 any district, site, building, structure, or object which the Secretary 
 of the Interior determines is likely to meet the National Register 
@@ -3777,6 +3788,9 @@ Sec. 1901.254  Scope.
     FmHA or its successor agency under Public Law 103-354 will evaluate 
 all undertakings for possible HA significance. This subpart covers the 
 following types of undertakings:
+
+[[Page 42]]
+
     (a) Undertakings requiring a historical and archeological 
 assessment. Although the following undertakings are presumed to involve 
 nonfederally owned lands, they may have an effect on properties having 
@@ -3788,9 +3802,6 @@ including guaranteed loans.
 more dwelling units.
     (3) Subdivision plans submitted for approval having 25 or more 
 building sites.
-
-[[Page 42]]
-
     (4) Loans and grants in rural areas to construct, enlarge, extend, 
 or otherwise improve:
     (i) Community water, sanitary sewage, solid waste disposal, and 
@@ -3855,8 +3866,12 @@ on-site reconnaissance of the project area.
     (ii) Any ``in-house'' knowledge of known or suspected HA sites in 
 the project area.
     (3) Submit the information outlined in paragraph (a)(2) of this 
-section to the FmHA or its successor agency under Public Law 103-354 
-State Director as part of the preapplication or application.
+section to the FmHA or its successor agency
+
+[[Page 43]]
+
+under Public Law 103-354 State Director as part of the preapplication or 
+application.
     (b) Upon receipt of the preapplication/application the FmHA or its 
 successor agency under Public Law 103-354 State Director will, as a 
 concurrent part of the preapplication/application review, prepare a 
@@ -3864,9 +3879,6 @@ historical and archeological assessment of the undertaking. In making
 the assessment the State Director will consider information from the 
 following sources:
     (1) State and Regional Clearinghouse comments.
-
-[[Page 43]]
-
     (2) Information submitted by the County Supervisor pursuant to 
 paragraph (a)(2) of this section.
     (3) Factual comments or recommendations of the SHPO or other 
@@ -3924,15 +3936,16 @@ the SHPO and the National Park Service, will document the findings and
 proceed with processing of the application.
     (6) When the survey identifies properties that may be eligible for 
 inclusion in the National Register, the State Director will request the 
-SHPO to proceed with the nomination of such properties. The State 
-Director will then proceed as outlined in paragraph (c)(2) of this 
-section for any properties accepted for inclusion in the National 
-Register.
+SHPO
+
+[[Page 44]]
+
+to proceed with the nomination of such properties. The State Director 
+will then proceed as outlined in paragraph (c)(2) of this section for 
+any properties accepted for inclusion in the National Register.
     (7) When the National Park Service declines to cause a survey to be 
 made or determines that one is not warranted, the State Director will 
 document such facts and proceed with processing of the application.
-
-[[Page 44]]
 
 
 <R05>
@@ -3941,6 +3954,7 @@ Sec. Sec. 1901.256-1901.258  [Reserved]
 
 <R05>
 Sec. 1901.259  Actions to be taken when archeological properties are 
+
 discovered during construction.
 
     (a) When properties of significant HA value are discovered during 
@@ -4011,6 +4025,8 @@ Register.
     (b) State Directors may also supplement this subpart and its exhibit 
 as appropriate to meet State and local laws and regulations.
 
+[[Page 45]]
+
     Exhibit A to Subpart F of Part 1901--National Park Service, U.S. 
                Department of the Interior Regional Offices
 
@@ -4018,10 +4034,6 @@ as appropriate to meet State and local laws and regulations.
 Division, Office of Archeological and Historic Preservation, National 
 Park Service.
     The three Regional Offices are:
-
-
-[[Page 45]]
-
 
 San Francisco Office: Old Post Office Building, Mission and 7th Streets, 
 Post Office Box 5700, San Francisco, Calif. 94104.
@@ -4103,15 +4115,15 @@ insurance agreement with respect to any particular loan may be evidenced
 by Form FmHA or its successor agency under Public Law 103-354 440-5, 
 ``Insurance Endorsement (Insured Loan),'' FmHA or its successor agency 
 under Public Law 103-354 440-30, ``Insurance Endorsement (Insured 
-Loans),'' or any other form or forms prescribed by the National Office 
-and executed by an authorized official of FmHA or its successor agency 
-under Public Law 103-354. It may include such provisions as, for 
-example, an agreement of FmHA or its successor agency under Public Law 
-103-354 to purchase or repurchase the loan, or to make supplementary 
-payments from the insurance fund.
+Loans),'' or any other form or
 
 [[Page 46]]
 
+forms prescribed by the National Office and executed by an authorized 
+official of FmHA or its successor agency under Public Law 103-354. It 
+may include such provisions as, for example, an agreement of FmHA or its 
+successor agency under Public Law 103-354 to purchase or repurchase the 
+loan, or to make supplementary payments from the insurance fund.
     (8) Insurance fund. The Agricultural Credit Insurance Fund 
 authorized by section 309 of the Consolidated Farm and Rural Development 
 Act, the Rural Development Insurance Fund authorized by section 309A of 
@@ -4174,16 +4186,16 @@ security. An FmHA or its successor agency under Public Law 103-354
 security in the form of an entry made as prescribed in this subpart on 
 the records of a Reserve bank.
     (5) Pledge. A pledge of, or any other security interest in, FmHA or 
-its successor agency under Public Law 103-354 securities as collateral 
-for loans or advances, or to secure deposits of public moneys or the 
-performance of an obligation.
+its successor agency under Public Law 103-354
+
+[[Page 47]]
+
+securities as collateral for loans or advances, or to secure deposits of 
+public moneys or the performance of an obligation.
     (6) Date of call. The date fixed in the official notice of call 
 published in the Federal Register on which FmHA or its successor agency 
 under Public Law 103-354 will make payment of the security before 
 maturity in accordance with its terms.
-
-[[Page 47]]
-
     (7) Member bank. Any national bank, state bank, or bank or trust 
 company which is a member of a Reserve bank.
 
@@ -4202,8 +4214,9 @@ successor agency under Public Law 103-354's fiscal agents.
 
 
 <R05>
-Sec. 1901.505  Certificates of beneficial ownership in FmHA or its 
-successor agency under Public Law 103-354 loans.
+Sec. 1901.505  Certificates of beneficial ownership in FmHA or its successor 
+
+agency under Public Law 103-354 loans.
 
     (a) Special trust of loans--(1) Establishment of special trusts. 
 From time to time FmHA or its successor agency under Public Law 103-354 
@@ -4243,9 +4256,11 @@ appear on the face of the certificates.
 
 
 <R05>
-Sec. 1901.506  Book-entry procedure for FmHA or its successor agency 
-under Public Law 103-354 securities--issuance and redemption of 
-certificate by Reserve bank.
+Sec. 1901.506  Book-entry procedure for FmHA or its successor agency under 
+
+Public Law 103-354 securities--issuance and redemption of certificate by 
+
+Reserve bank.
 
     (a) Authority of Reserve bank. Each Reserve bank is hereby 
 authorized in accordance with the provisions of this subpart to:
@@ -4254,18 +4269,19 @@ authorized in accordance with the provisions of this subpart to:
 include the name of the depositor, the amount, the securities title (or 
 series) and maturity date.
     (2) Effect conversions between book-entry FmHA or its successor 
-agency under Public Law 103-354 securities and definitive FmHA or its 
-successor agency under Public Law 103-354 securities.
-    (3) Otherwise service and maintain book-entry FmHA or its successor 
-agency under Public Law 103-354 securities.
-    (4) Issue a confirmation of transaction in the form of a written 
-advice (serially numbered or otherwise) which
+agency
 
 [[Page 48]]
 
-specifies the amount and description of any securities (that is, the 
-securities title (or series) and the maturity date) sold or transferred 
-and the date of the transaction.
+under Public Law 103-354 securities and definitive FmHA or its successor 
+agency under Public Law 103-354 securities.
+    (3) Otherwise service and maintain book-entry FmHA or its successor 
+agency under Public Law 103-354 securities.
+    (4) Issue a confirmation of transaction in the form of a written 
+advice (serially numbered or otherwise) which specifies the amount and 
+description of any securities (that is, the securities title (or series) 
+and the maturity date) sold or transferred and the date of the 
+transaction.
     (b) Scope and effect of book-entry procedure. (1) A Reserve bank as 
 fiscal agent of the United States acting on behalf of FmHA or its 
 successor agency under Public Law 103-354 may apply the book-entry 
@@ -4322,15 +4338,15 @@ bank (in its individual capacity or as fiscal agent of the United
 States), or to the United States, or to any transferee or pledgee 
 eligible to maintain an appropriate book-entry account in its name with 
 a Reserve bank under this subpart is effected and perfected, 
-notwithstanding any provision of law to the contrary, by a Reserve bank 
-making an appropriate entry in its records of the securities transferred 
-or pledged. The making of such an entry in the records of a Reserve bank 
-shall:
-    (i) Have the effect of a delivery in bearer form of definitive FmHA 
-or its successor agency under Public Law 103-354 securities.
+notwithstanding any provision of law to the contrary,
 
 [[Page 49]]
 
+by a Reserve bank making an appropriate entry in its records of the 
+securities transferred or pledged. The making of such an entry in the 
+records of a Reserve bank shall:
+    (i) Have the effect of a delivery in bearer form of definitive FmHA 
+or its successor agency under Public Law 103-354 securities.
     (ii) Have the effect of a taking of delivery by the transferee or 
 pledgee.
     (iii) Constitute the transferee or pledgee a holder.
@@ -4390,14 +4406,15 @@ securities into definitive FmHA or its successor agency under Public Law
 instructions. No such conversion shall affect existing interest in such 
 FmHA or its successor agency under Public Law 103-354 securities.
     (5) A transfer of book-entry FmHA or its successor agency under 
-Public Law 103-354 securities within a Federal Reserve Bank shall be 
-made in accordance with procedures established by the Reserve bank not 
-inconsistent with this subpart. The transfer of book-entry FmHA or its 
-successor agency under Public Law 103-354 securities by a Reserve bank 
-may be made through a telegraphic transfer procedure.
+Public Law
 
 [[Page 50]]
 
+103-354 securities within a Federal Reserve Bank shall be made in 
+accordance with procedures established by the Reserve bank not 
+inconsistent with this subpart. The transfer of book-entry FmHA or its 
+successor agency under Public Law 103-354 securities by a Reserve bank 
+may be made through a telegraphic transfer procedure.
     (6) All requests for transfer or withdrawal must be made prior to 
 the maturity or date of call of the securities.
     (d) Withdrawal of FmHA or its successor agency under Public Law 103-
@@ -4459,15 +4476,15 @@ following subparts of Treasury Department Circular No. 300 (31 CFR part
 306), so far as applicable, shall apply to such certificates.
     (i) Subpart B, Registration.
     (ii) Subpart C, Transfers, Exchanges and Reissues.
+
+[[Page 51]]
+
     (iii) Subpart D, Redemption or Payment.
     (iv) Subpart E, Interest.
     (v) Subpart G, Assignments of Registered Securities--General.
     (vi) Subpart F, Assignments by or in Behalf of Individuals.
     (vii) Subpart H, Assignments in Behalf of Estates of Deceased 
 Owners.
-
-[[Page 51]]
-
     (viii) Subpart I, Assignments by or in Behalf of Trustees and 
 Similar Fiduciaries.
     (ix) Subpart J, Assignments in Behalf of Private or Public 
@@ -4480,8 +4497,9 @@ or Defacement of Securities.
 
 
 <R05>
-Sec. 1901.507  Certificates of beneficial ownership issued by the FmHA 
-or its successor agency under Public Law 103-354 Finance Office.
+Sec. 1901.507  Certificates of beneficial ownership issued by the FmHA or its 
+
+successor agency under Public Law 103-354 Finance Office.
 
     (a) Orders and payment. Orders for investment in certificates may be 
 placed with the Finance Office by mail, telephone, or in person. Payment 
@@ -4533,13 +4551,14 @@ as of the close of business on the last business day preceding that
 date. The books are reopened on the first business day following the 
 date on which interest falls due. Registered certificates which have not 
 matured, or have been submitted for transfer and are received when the 
-books are closed for that certificate, will be processed on or after the 
-date such books are reopened. If certificates are received for transfer 
-when the books are closed for payment of final interest at maturity, the 
-following action will be taken in the absence of different instructions:
+books are closed for that certificate,
 
 [[Page 52]]
 
+will be processed on or after the date such books are reopened. If 
+certificates are received for transfer when the books are closed for 
+payment of final interest at maturity, the following action will be 
+taken in the absence of different instructions:
     (i) Payment of final interest will be made to the registered owner 
 of record on the date the books were closed.
     (ii) Payment of principal will be made to the assignee under a 
@@ -4602,22 +4621,21 @@ address.
 the owner or the owner's authorized representative in the presence of an 
 officer authorized to certify assignments. Assignments shall be made on 
 the back of the certificate. Registered certificates may be assigned to 
-a specified transferee or to FmHA or its successor agency under Public 
-Law 103-354 for redemption or for exchange for other certificates 
-offered at maturity. Assignments to ``United States, Farmers Home 
-Administration or its successor agency under Public Law 103-354,'' 
-``Farmers Home Administration or its successor agency under Public Law 
-103-
+a specified transferee or to FmHA or its successor
 
 [[Page 53]]
 
-354 for Transfer,'' or ``Farmers Home Administration or its successor 
-agency under Public Law 103-354 for Exchange'' will not be accepted 
-unless supplemented by specific instructions by or in behalf of the 
-owner. If an alteration or erasure has been made in an assignment, a new 
-assignment from the assignor should be obtained. Otherwise, an affidavit 
-or explanation by the person responsible for the alteration or erasure 
-should be submitted for consideration.
+agency under Public Law 103-354 for redemption or for exchange for other 
+certificates offered at maturity. Assignments to ``United States, 
+Farmers Home Administration or its successor agency under Public Law 
+103-354,'' ``Farmers Home Administration or its successor agency under 
+Public Law 103-354 for Transfer,'' or ``Farmers Home Administration or 
+its successor agency under Public Law 103-354 for Exchange'' will not be 
+accepted unless supplemented by specific instructions by or in behalf of 
+the owner. If an alteration or erasure has been made in an assignment, a 
+new assignment from the assignor should be obtained. Otherwise, an 
+affidavit or explanation by the person responsible for the alteration or 
+erasure should be submitted for consideration.
     (f) Death of certificate holder. The Finance Office should be 
 notified of the death of the registered owner of a certificate. The 
 following documents should be forwarded with the notice if available.
@@ -4676,12 +4694,12 @@ Public Law 103-354 to purchase an insured note.
 is the buyer of an insured note, the price will be the par value as of 
 the effective date of the sale. In other cases, the price will be 
 determined by an agreement between the parties.
-    (b) Sale of insured notes by private holders to private buyers. (1) 
-On receipt of notice from a private holder of intention to assign an 
-insured note, the Director, Finance Office, will send the holder:
 
 [[Page 54]]
 
+    (b) Sale of insured notes by private holders to private buyers. (1) 
+On receipt of notice from a private holder of intention to assign an 
+insured note, the Director, Finance Office, will send the holder:
     (i) Form FmHA or its successor agency under Public Law 103-354 471-7 
 ``Notice and Acknowledgment of Sale of Insured or Guaranteed Loan.''
     (ii) A statement of the unpaid principal. If requested the Director, 
@@ -4742,13 +4760,14 @@ holder requiring that the insured note be assigned to FmHA or its
 successor agency under Public Law 103-354 and delivered to the Director, 
 Finance Office, with the accompanying insurance agreement. The Director, 
 Finance Office, will explain that the assignment is necessary to enable 
-FmHA or its successor agency under Public Law 103-354 to service the 
-account properly and will give the holder all necessary information as 
-to the manner of making the assignment and the amount to be paid by FmHA 
-or its successor agency under Public Law 103-354.
+FmHA or its successor agency under Public Law
 
 [[Page 55]]
 
+103-354 to service the account properly and will give the holder all 
+necessary information as to the manner of making the assignment and the 
+amount to be paid by FmHA or its successor agency under Public Law 103-
+354.
     (d) Replacement of called or fully paid notes. Certain insurance 
 endorsements contain a clause or rider providing for a replacement note 
 when the original note is paid in full, or is called by FmHA or its 
@@ -4774,9 +4793,9 @@ needed from the Regional Attorney.
 
 
 <R05>
-Sec. 1901.509  Loss, theft, destruction, mutilation, or defacement of 
-insured notes, insurance contracts, and certificates of beneficial 
-ownership.
+Sec. 1901.509  Loss, theft, destruction, mutilation, or defacement of insured 
+
+notes, insurance contracts, and certificates of beneficial ownership.
 
     (a) Block sale insurance contracts. The Associate Administrator is 
 authorized in connection with block sale insurance contracts to 
@@ -4817,16 +4836,16 @@ agency under Public Law 103-354 Finance Office. The certificate should
 include:
     (i) Legal name and present address of owner when issued, if 
 different from present address.
-    (ii) Capacity of person certifying, if other than the owner.
-    (iii) Identity of the note or certificate of beneficial ownership, 
-including the name and FmHA or its successor agency under Public Law 
-103-354 case number of the maker thereof, issue
 
 [[Page 56]]
 
-date, interest rate of obligation, face amount of note or certificate of 
-beneficial ownership, and a full description of any assignment, 
-endorsement, or any other writing.
+    (ii) Capacity of person certifying, if other than the owner.
+    (iii) Identity of the note or certificate of beneficial ownership, 
+including the name and FmHA or its successor agency under Public Law 
+103-354 case number of the maker thereof, issue date, interest rate of 
+obligation, face amount of note or certificate of beneficial ownership, 
+and a full description of any assignment, endorsement, or any other 
+writing.
     (iv) A full statement of circumstances of the loss, theft, or 
 destruction of the note.
     (2) An indemnity bond in the amount of the unpaid principal and 
@@ -4896,10 +4915,11 @@ Sec. 1901.651  Purpose.
 
     The purpose of this subpart is to establish procedures and 
 responsibilities for carrying out the Farmers Home Administration (FmHA) 
-or its successor agency under Public Law 103-354 American Indian 
-Outreach Program.
+or its successor
 
 [[Page 57]]
+
+agency under Public Law 103-354 American Indian Outreach Program.
 
 
 <R05>
@@ -4955,6 +4975,7 @@ agency under Public Law 103-354 loan and grant programs.
 
 <R05>
 Sec. 1901.654  FmHA or its successor agency under Public Law 103-354 
+
 publications.
 
     FmHA or its successor agency under Public Law 103-354 publications, 
@@ -4989,7 +5010,7 @@ to the National Office, Attention, Coordinator of Indian Activities.
 <R03>
 PART 1902_SUPERVISED BANK ACCOUNTS--Table of Contents
 
-
+<R05>
 
 
    Subpart A_Supervised Bank Accounts of Loan, Grant, and Other Funds
@@ -5165,8 +5186,7 @@ Oct. 12, 2005]
 
 
 <R05>
-Sec. 1902.4  Establishing MFH reserve accounts in a supervised bank 
-account.
+Sec. 1902.4  Establishing MFH reserve accounts in a supervised bank account.
 
     (a) General requirements. All MFH borrowers required to maintain 
 reserve accounts must place the reserve accounts in a supervised bank 
@@ -5275,8 +5295,7 @@ FR 59227, Oct. 12, 2005]
 
 
 <R05>
-Sec. 1902.7  Pledging collateral for deposit of funds in supervised 
-bank accounts.
+Sec. 1902.7  Pledging collateral for deposit of funds in supervised bank accounts.
 
     (a) Funds in excess of $100,000 per financial institution, deposited 
 for borrowers in supervised bank accounts, must be secured by pledging 
@@ -5340,8 +5359,7 @@ FR 24437, June 29, 1988; 56 FR 50648, Oct. 8, 1991; 70 FR 59227, Oct.
 
 
 <R05>
-Sec. 1902.8  Authority to establish and administer supervised bank 
-accounts.
+Sec. 1902.8  Authority to establish and administer supervised bank accounts.
 
     Servicing Officials are authorized to establish supervised bank 
 accounts, deposit loan checks and other funds, countersign checks, close 
@@ -5797,7 +5815,7 @@ Subparts B-C [Reserved]
 <R03>
 PART 1910_GENERAL--Table of Contents
 
-
+<R05>
 
 
              Subpart A_Receiving and Processing Applications
@@ -5974,7 +5992,7 @@ by each loan/grant program, and the following:
 number with their applications, except as noted in paragraph (i) of this 
 section.
     (2) RH applicants who have a current Form FmHA or its successor 
-agency under Public Law 103-354 1944--3, ``Budget and/or Financial 
+agency under Public Law 103-354 1944-3, ``Budget and/or Financial 
 Statement'', or Form FmHA or its successor agency under Public Law 103-
 354 410-4, and who are presently indebted to FmHA or its successor 
 agency under Public Law 103-354, will be required to complete only the 
@@ -6675,20 +6693,20 @@ to 2 hours per response including time for
 
 [[Page 79]]
 
-    reviewing instructions, searching existing data sources, gathering 
-and maintaining the data needed, and completing and reviewing the 
-collection of information. Send comments regarding this burden estimate 
-or any other aspect of collection of this information, including 
-suggestions for reducing this burden, to Department of Agriculture, 
-Clearance Officer, OIRM, room 404-W, Washington, DC 20250; and to the 
-Office of Management and Budget, Paperwork Reduction Project (OMB 
-<greek-i> 0575-0134), Washington, DC 20503.
+reviewing instructions, searching existing data sources, gathering and 
+maintaining the data needed, and completing and reviewing the collection 
+of information. Send comments regarding this burden estimate or any 
+other aspect of collection of this information, including suggestions 
+for reducing this burden, to Department of Agriculture, Clearance 
+Officer, OIRM, room 404-W, Washington, DC 20250; and to the Office of 
+Management and Budget, Paperwork Reduction Project (OMB <greek-i> 0575-
+0134), Washington, DC 20503.
 
 [57 FR 19523, May 7, 1992]
 
              Exhibit A to Subpart A of Part 1910 [Reserved]
 
-     Exhibit B to Subpart A of Part 1910--Letter to Notify Socially 
+     Exhibit B to Subpart A of Part 1910--Letter To Notify Socially 
 Disadvantaged Applicants/Borrowers Regarding the Availability of Direct 
   Farm Ownership (FO) Loans and the Acquisition/Leasing of FmHA or Its 
        Successor Agency Under Public Law 103-354 Acquired Farmland
@@ -6722,7 +6740,7 @@ of socially disadvantaged groups, you should contact my office.
 
 [57 FR 19523, May 7, 1992]
 
-   Exhibit C to Subpart A of Part 1910--Letter to Notify Applicant(s)/
+   Exhibit C to Subpart A of Part 1910--Letter To Notify Applicant(s)/
   Borrower(s) of Their Responsibilities in Connection with FmHA or Its 
      Successor Agency Under Public Law 103-354 Farmer Program Loans
 
@@ -6800,7 +6818,7 @@ Sec. Sec. 1910.102-1910.150  [Reserved]
 <R03>
 PART 1924_CONSTRUCTION AND REPAIR--Table of Contents
 
-
+<R05>
 
 
   Subpart A_Planning and Performing Construction and Other Development
@@ -7599,7 +7617,9 @@ accordance with paragraph (a)(3)(iii) of this section or when interim
 financing will be used, surety that guarantees both payment and 
 performance in the amount of the contract will be furnished when one or 
 more of the following conditions exist:
-    (A) The contract exceeds $100,000.
+    (A) The contract exceeds the applicable Rural Development Single 
+Family Housing area loan limit as per 7 CFR 3550.63. (Loan limits are 
+available at the local Rural Development field office.)
     (B) The loan approval official determines that a surety bond appears 
 advisable to protect the borrower against default of the contractor.
     (C) The applicant requests a surety bond.
@@ -7614,18 +7634,18 @@ revised by OGC if necessary to comply with local or state statutory
 requirements will be used as the forms of payment bond and performance 
 bond to be provided. Unless noncorporate surety is provided, the surety 
 bonds may only be obtained from a corporate bonding company listed on 
-the current Department of the Treasury Circular 570 (published annually 
-in the Federal Register), as holding a certificate of authority as an 
-acceptable surety on Federal bonds and as legally doing business in the 
-State
+the current Department of the
 
 [[Page 91]]
 
-where the land is located. Noncorporate sureties are not recommended and 
-the State Director will be responsible for determining the acceptability 
-of the individual or individuals proposed as sureties on the bonds. The 
-State Director must determine that an individual or individuals proposed 
-as sureties must have cash or other liquid assets easily convertible to 
+Treasury Circular 570 (published annually in the Federal Register), as 
+holding a certificate of authority as an acceptable surety on Federal 
+bonds and as legally doing business in the State where the land is 
+located. Noncorporate sureties are not recommended and the State 
+Director will be responsible for determining the acceptability of the 
+individual or individuals proposed as sureties on the bonds. The State 
+Director must determine that an individual or individuals proposed as 
+sureties must have cash or other liquid assets easily convertible to 
 cash in an amount at least equal to 25 percent more than the contract 
 amount in order to be acceptable. The individual(s) will pledge such 
 liquid assets in an amount equal to the contract amount. Fees charged 
@@ -7684,12 +7704,13 @@ to the contractor in accordance with paragraph (a)(12)(i)(C) of this
 section as if full surety bonds were being provided.
     (C) When the provisions of paragraph (a)(3)(iii) (A) or (B) of this 
 section can be met except that a surety bond, a letter of credit, and/or 
-deposits are not obtainable in full amount of the contract, the State 
-Director may accept an amount less than the full amount of the contract 
-provided all of the following conditions are met:
+deposits are not
 
 [[Page 92]]
 
+obtainable in full amount of the contract, the State Director may accept 
+an amount less than the full amount of the contract provided all of the 
+following conditions are met:
     (1) The contractor provides a surety bond, a letter of credit, or 
 deposits in the greatest amount possible, and provides documentation 
 indicating the reasons why amounts exceeding the proposed amount cannot 
@@ -7761,13 +7782,13 @@ section 8 housing assistance payment program for new construction.
     (6) Historical and archaeological preservation. The provisions of 
 subpart F of part 1901 of this chapter concerning the protection of 
 historical and archaeological properties will apply to all construction 
-financed, in whole or in part, by FmHA or its successor agency under 
-Public Law 103-354 loans and grants. These provisions have special 
-applicability to development in areas
+financed, in whole or in
 
 [[Page 93]]
 
-designated by NRCS as Resource Conservation and Development (RC&D) 
+part, by FmHA or its successor agency under Public Law 103-354 loans and 
+grants. These provisions have special applicability to development in 
+areas designated by NRCS as Resource Conservation and Development (RC&D) 
 areas. (See part 1942, subpart I of this chapter.)
     (7) Air and water acts. Under Executive Order 11738, all loans or 
 grants involving construction contracts for more than $100,000 must meet 
@@ -7828,16 +7849,16 @@ FmHA or its successor agency under Public Law 103-354 1924-5,
 ``Invitation for Bid (Construction Contract),'' or another similar 
 invitation bid form containing the requirements of subpart E of part 
 1901 of this chapter, may be used. All contractors from whom bids are 
-requested should be informed of all conditions of the contract including 
-the time and place of opening bids. Conditions shall not be established 
-which would give preference to a specific bidder or type
+requested should be informed of all conditions of
 
 [[Page 94]]
 
-of bidder. When applicable, copies of Forms FmHA or its successor agency 
-under Public Law 103-354 1924-6 and FmHA or its successor agency under 
-Public Law 103-354 400-6, ``Compliance Statement,'' also should be 
-provided to the prospective bidders.
+the contract including the time and place of opening bids. Conditions 
+shall not be established which would give preference to a specific 
+bidder or type of bidder. When applicable, copies of Forms FmHA or its 
+successor agency under Public Law 103-354 1924-6 and FmHA or its 
+successor agency under Public Law 103-354 400-6, ``Compliance 
+Statement,'' also should be provided to the prospective bidders.
     (11) Awarding the contract. The borrower, with the assistance of the 
 County Supervisor or District Director, will consider the amount of the 
 bids or proposals, and all conditions which were listed in the 
@@ -7896,12 +7917,13 @@ of paragraph (a)(3)(iii)(C) of this section.
 other payment clauses not used will be effectively crossed out.
     (iii) When a contract form other than Form FmHA or its successor 
 agency under Public Law 103-354 1924-6 is used, the payment clause must 
-conform with paragraph (a)(12)(i) of this section and the appropriate 
-clause as set forth in Form FmHA or its successor agency under Public 
-Law 103-354 1924-6.
+conform with
 
 [[Page 95]]
 
+paragraph (a)(12)(i) of this section and the appropriate clause as set 
+forth in Form FmHA or its successor agency under Public Law 103-354 
+1924-6.
     (iv) The borrower and FmHA or its successor agency under Public Law 
 103-354 must take precautionary measures to see that all payments made 
 to the contractor are properly applied against bills for materials and 
@@ -7964,22 +7986,22 @@ all final permits and approvals for the use and occupancy of the
 structure by any applicable state and local governmental authorities, 
 and compliance by the contractor with all terms and conditions of the 
 contract. In the event the work of construction is delayed or 
-interrupted by reason of fire, flood unusually stormy weather, war, 
-riot, strike, an order, requisition or regulation of any governmental
+interrupted by reason of
 
 [[Page 96]]
 
-body (excluding delays related to possible defects in the contractor's 
-performance and excluding delays caused by the necessity of securing 
-building permits or any required inspection procedures connected 
-therewith) or other contingencies reasonably unforeseeable and beyond 
-the reasonable control of the contractor, then with the written consent 
-of FmHA or its successor agency under Public Law 103-354, the date of 
-completion of the work may be extended by the owner by the period of 
-such delay, provided that the contractor shall give the owner and FmHA 
-or its successor agency under Public Law 103-354 written notice within 
-72 hours of the occurrence of the event causing the delay or 
-interruption.
+fire, flood unusually stormy weather, war, riot, strike, an order, 
+requisition or regulation of any governmental body (excluding delays 
+related to possible defects in the contractor's performance and 
+excluding delays caused by the necessity of securing building permits or 
+any required inspection procedures connected therewith) or other 
+contingencies reasonably unforeseeable and beyond the reasonable control 
+of the contractor, then with the written consent of FmHA or its 
+successor agency under Public Law 103-354, the date of completion of the 
+work may be extended by the owner by the period of such delay, provided 
+that the contractor shall give the owner and FmHA or its successor 
+agency under Public Law 103-354 written notice within 72 hours of the 
+occurrence of the event causing the delay or interruption.
     (C) Prior to making final payment on the contract when a surety bond 
 is not used or disbursing the FmHA or its successor agency under Public 
 Law 103-354 loan funds when an interim loan was used, FmHA or its 
@@ -8036,24 +8058,24 @@ Supervisor will advise the borrower that the acceptance of material as
 delivered to the site and the proper storage of material will be the 
 borrower's responsibility.
     (3) Payment for work done by the borrower method--(i) Payments for 
-labor. Before the County Supervisor countersigns checks for labor, the 
-borrower must submit a completed Form
+labor.
 
 [[Page 97]]
 
-FmHA or its successor agency under Public Law 103-354 1924-11, 
-``Statement of Labor Performed,'' for each hired worker performing labor 
-during the pay period. Ordinarily, checks for labor will be made payable 
-to the workers involved. However, under justifiable circumstances, when 
-the borrower has paid for labor with personal funds and has obtained 
-signatures of the workers on Form FmHA or its successor agency under 
-Public Law 103-354 1924-11 as having received payment, the County 
-Supervisor may countersign a check made payable to the borrower for 
-reimbursement of these expenditures. Under no circumstances will the 
-County Supervisor permit loan funds or funds withdrawn from the 
-supervised bank account to be used to pay the borrower for the 
-borrower's own labor or labor performed by any member of the borrower's 
-household.
+Before the County Supervisor countersigns checks for labor, the borrower 
+must submit a completed Form FmHA or its successor agency under Public 
+Law 103-354 1924-11, ``Statement of Labor Performed,'' for each hired 
+worker performing labor during the pay period. Ordinarily, checks for 
+labor will be made payable to the workers involved. However, under 
+justifiable circumstances, when the borrower has paid for labor with 
+personal funds and has obtained signatures of the workers on Form FmHA 
+or its successor agency under Public Law 103-354 1924-11 as having 
+received payment, the County Supervisor may countersign a check made 
+payable to the borrower for reimbursement of these expenditures. Under 
+no circumstances will the County Supervisor permit loan funds or funds 
+withdrawn from the supervised bank account to be used to pay the 
+borrower for the borrower's own labor or labor performed by any member 
+of the borrower's household.
     (ii) Payment for equipment, materials or lump-sum agreements. (A) 
 Before countersigning checks for equipment or materials, the County 
 Supervisor must normally have an invoice from the seller covering the 
@@ -8104,13 +8126,12 @@ in the group purchase of material and services.
 District Director to assure that funds in each RH account are properly 
 distributed and maintained.
     (3) The grantee receives no compensation in the way of profit or 
-overhead for this service and all discounts and rebates received in 
-connection
+overhead for this service and all discounts
 
 [[Page 98]]
 
-with the purchase of materials or services are passed on to the 
-participating families.
+and rebates received in connection with the purchase of materials or 
+services are passed on to the participating families.
     (4) The grantee has a record-keeping system which shows that the 
 costs of the materials and services were prorated to each borrower's 
 account in relation to the actual material and service used by each 
@@ -8121,7 +8142,8 @@ Regulations governing this method are found at Sec. 1924.13(e)(2) of
 this subpart.
 
 [52 FR 8002, Mar. 13, 1987, as amended at 55 FR 41833, Oct. 16, 1990; 60 
-FR 55122, Oct. 27, 1995; 61 FR 56116, Oct. 31, 1996]
+FR 55122, Oct. 27, 1995; 61 FR 56116, Oct. 31, 1996; 71 FR 25740, May 2, 
+2006]
 
 
 <R05>
@@ -8185,14 +8207,14 @@ Director, accompanied by the borrower when practicable, will make final
 inspection of all development work and periodic inspections as 
 appropriate to protect the security interest of the government. In this 
 respect, inspections other than final inspections, may be conducted by 
-other qualified persons as authorized in paragraph (d) of this section, 
-in 7 CFR part 3550, in RD Instruction 2024-A (available in any Rural 
-Development office), and as authorized
+other qualified persons as
 
 [[Page 99]]
 
-under other agreements executed by, or authorized by, the National 
-Office.
+authorized in paragraph (d) of this section, in 7 CFR part 3550, in RD 
+Instruction 2024-A (available in any Rural Development office), and as 
+authorized under other agreements executed by, or authorized by, the 
+National Office.
 
 The borrower will be responsible for making inspections necessary to 
 protect the borrower's interest. RHS or its successor agency under 
@@ -8257,12 +8279,12 @@ be familiar with the progress and performance of the work, in order to
 protect the borrower's interest. If the borrower observes or otherwise 
 becomes aware of any fault or defect in the work or nonconformance with 
 the contract documents, the borrower should give prompt written notice 
-thereof to the contractor with a copy to the County Supervisor or 
-District Director responsible for servicing the type of loan or grant 
-involved.
+thereof to the contractor with a copy to the County
 
 [[Page 100]]
 
+Supervisor or District Director responsible for servicing the type of 
+loan or grant involved.
     (6) The borrower should, when practicable, join the County 
 Supervisor or District Director in making all final inspections.
     (7) When irrigation equipment and materials are to be purchased and 
@@ -8331,17 +8353,18 @@ Public Law 103-354 security, the County Supervisor will obtain advice
 from the District Director on whether to approve the change.
     (4) If a surety bond has been provided on the full amount of the 
 construction contract, the aggregate amount of all contract change 
-orders on Form FmHA or its successor agency under Public Law 103-354 
-1924-7, ``Contract Change Order,'' or other acceptable form will not 
-exceed 20 percent of the original
+orders on Form FmHA
 
 [[Page 101]]
 
-contract amount. Change orders for contracts on which a surety bond has 
-been provided which increases the original contract amount by more than 
-20 percent may only be approved if additional surety is provided in the 
-full revised amount of the contract. For purposes of this paragraph, 
-letters of credit and deposits are not considered surety.
+or its successor agency under Public Law 103-354 1924-7, ``Contract 
+Change Order,'' or other acceptable form will not exceed 20 percent of 
+the original contract amount. Change orders for contracts on which a 
+surety bond has been provided which increases the original contract 
+amount by more than 20 percent may only be approved if additional surety 
+is provided in the full revised amount of the contract. For purposes of 
+this paragraph, letters of credit and deposits are not considered 
+surety.
     (5) Change orders for contracts on which letters of credit or 
 deposits have been provided on the full amount of the contract which 
 will increase the original contract amount are approved only if 
@@ -8406,11 +8429,12 @@ the necessary actions to assure that the borrower or grantee completes
 the planned development. For incomplete development financed with loan 
 or grant funds within the responsibility of the County Supervisor, the 
 District Director will give the necessary direction to the County 
-Supervisor to assure completion of the work. In connection with these 
-responsibilities, the District Director will consider:
+Supervisor to assure completion of the
 
 [[Page 102]]
 
+work. In connection with these responsibilities, the District Director 
+will consider:
     (1) The current farm and home operations with respect to the need 
 for the development as originally planned.
     (2) Revisions to the development plan.
@@ -8480,13 +8504,14 @@ be used for the 1 year warranty or the first year of the insured 10-year
 warranty, will be posted to the ``Servicing and Supervision'' section of 
 the Management System card.
     (2) Form FmHA or its successor agency under Public Law 103-354 1924-
-21 is provided for use in notifying the borrower of the expiration date 
-of the first year of the warranty. This letter will
+21 is
 
 [[Page 103]]
 
-be mailed to the borrower early in the second month preceding the 
-expiration date of the first year of the warranty period.
+provided for use in notifying the borrower of the expiration date of the 
+first year of the warranty. This letter will be mailed to the borrower 
+early in the second month preceding the expiration date of the first 
+year of the warranty period.
     (3) If the County Supervisor or District Director does not hear from 
 the borrower within 30 days, it can reasonably be assumed that no 
 complaint exists or that any complaint has been satisfied unless 
@@ -8554,10 +8579,10 @@ funds.
     (4) Agreement between borrower and architect. The borrower and the 
 architect will execute a written agreement. The agreement must provide:
     (i) The services listed in paragraph (a)(5) of this section.
-    (ii) The amount of the fee and how it will be determined and paid.
 
 [[Page 104]]
 
+    (ii) The amount of the fee and how it will be determined and paid.
     (iii) That the agreement and any amendments to the agreement shall 
 not be in full force and effect until concurred with in writing by the 
 State Director or the State Director's delegate, and it will contain the 
@@ -8628,11 +8653,11 @@ other contract documents.
     (D) Review the bids and the negotiated proposals and assist in the 
 award and preparation of construction contracts.
     (v) Construction phase. This phase includes the administration of 
-the construction contract. It will commence with the award of the 
-construction contract and end when the borrower
+the construction contract. It will commence
 
 [[Page 105]]
 
+with the award of the construction contract and end when the borrower 
 makes final payment to the contractor. The architect will:
     (A) Attend the preconstruction conference. Advise and consult with 
 the borrower (or the borrower's representative) and issue the borrower's 
@@ -9708,7 +9733,7 @@ Paperwork Reduction Project (OMB <greek-i>0575-0042), Washington, DC
 25. Finish hardware.......................         1         1         1
 26. Gutters and downspouts................         1         1         1
 27. Grading, paving, landscaping..........         3         3         3
-                                           -----------
+                                           -----------------------------
       Total...............................       100       100       100
 ------------------------------------------------------------------------
 
@@ -10718,7 +10743,7 @@ funds shall be insulated in accordance with the following:
        Existing Construction--Maximum U Values for Ceiling, Wall and Floor Section of Various Construction
 ----------------------------------------------------------------------------------------------------------------
                                                     Walls     Floors
-       Winter degree days \1\           Ceilings     \2\      \3, 4\     Glazing             Doors \5\
+       Winter degree days \1\           Ceilings     \2\      \3,4\      Glazing             Doors \5\
 ----------------------------------------------------------------------------------------------------------------
 1000 or less........................         0.05  .......       0.08        1.13  .............................
 1001 to 2500........................          .04  .......        .07         .69  .............................
@@ -11377,9 +11402,8 @@ contract or any subsequent subcontractors.
     Authority: This amendment is made under provisions of 5 U.S.C. 301, 
 40 U.S.C. 486 (c).
     Done at ----------------, -------- this ------------ day of --------
-------------, 19----.
-
-----------------------------____________________________________________
+----------, 19----.
+ ------------------------------_________________________________________
 FmHA or its successor agency under Public Law 103-354 Representative
 
                                V. Summary
@@ -12731,7 +12755,6 @@ accordance with Sec. 1924.56.
     (4) Reach agreement on key management issues. Any such agreements 
 will be documented for the borrower case file and signed by the 
 borrower.
-    (e)
     (e) Annual review. For all borrowers, the assessment described under 
 this section will be reviewed on at least an annual basis to monitor 
 progress. A meeting must be scheduled as soon as practicable to 
@@ -12776,16 +12799,15 @@ FSA Farm Programs (formerly Agriculture Stabilization and Conservation
 Service) actual yield records and county or State averages.
     (iii) This paragraph applies when an accurate projection cannot be 
 made because the individual's production history in any or all of the 
-previous 5
+previous 5 years has been substantially affected by a disaster that has 
+been declared by the President or designated by the Secretary of 
+Agriculture. This paragraph also applies to those individuals who
 
 [[Page 152]]
 
-years has been substantially affected by a disaster that has been 
-declared by the President or designated by the Secretary of Agriculture. 
-This paragraph also applies to those individuals who would have had a 
-qualifying physical or production loss, as defined in Sec. 1945.154(a), 
-from such a disaster, but who were not located in a designated or 
-declared disaster area.
+would have had a qualifying physical or production loss, as defined in 
+Sec. 1945.154(a), from such a disaster, but who were not located in a 
+designated or declared disaster area.
     (A) If the individual's disaster years yields are less than the 
 county average yields, county average yields will be used for those 
 years. If county average yields are not available, State average yields 
@@ -12861,12 +12883,11 @@ business or family expenses or the development of problem situations.
     (c) Maintain and protect the collateral for Agency loans and 
 promptly report to the Agency any losses or other significant changes in 
 the collateral.
-
-[[Page 153]]
-
     (d) Complete any training required by Sec. 1924.74.
 
 [61 FR 35924, July 9, 1996]
+
+[[Page 153]]
 
 
 <R05>
@@ -12939,19 +12960,19 @@ considered in the aggregate for granting a waiver or requiring that
 training be completed. If a waiver is not granted, these individuals 
 will be required to complete the training in accordance with their 
 responsibilities for production and/or financial management. This 
-training must be completed within 2 years after ``Agreement to Complete
+training must be completed within 2 years after ``Agreement to Complete 
+Training,'' is signed if a waiver is not granted. When production 
+training is required, a borrower must complete
 
 [[Page 154]]
 
-Training,'' is signed if a waiver is not granted. When production 
-training is required, a borrower must complete course work covering 
-production management in crop or livestock enterprises which constitute 
-twenty percent of the projected cash farm income for the coming 
-production cycle, as determined by the Agency. Borrowers who are adding 
-a new enterprise must agree to complete any required production training 
-in that enterprise unless a waiver is granted by the Agency. Borrowers 
-must also complete financial management training unless a waiver has 
-been granted by the Agency.
+course work covering production management in crop or livestock 
+enterprises which constitute twenty percent of the projected cash farm 
+income for the coming production cycle, as determined by the Agency. 
+Borrowers who are adding a new enterprise must agree to complete any 
+required production training in that enterprise unless a waiver is 
+granted by the Agency. Borrowers must also complete financial management 
+training unless a waiver has been granted by the Agency.
     (i) Loan applicants. After the Agency has determined that the 
 applicant meets all eligibility criteria for the type of assistance 
 requested, the Agency will consider the applicant's need for enhanced 
@@ -13007,12 +13028,11 @@ include evidence of completion, such as a grade report, certificate of
 completion, or written certification by the course instructor. The 
 program must have covered subject areas in paragraph (d)(3)(iii) of this 
 section. The Agency will review the documentation submitted by the 
-applicant(s) for assistance to determine
+applicant(s) for assistance to determine whether the training completed 
+satisfies the training requirements of this section; or
 
 [[Page 155]]
 
-whether the training completed satisfies the training requirements of 
-this section; or
     (ii) The applicant has the experience and/or training which 
 demonstrates the abilities necessary for successful, efficient 
 production as determined by the Agency based on documentation provided 
@@ -13079,11 +13099,11 @@ training must be completed within 2 years after the borrower signs Form
 FmHA 1924-23. The County Supervisor may grant a 1-year written extension 
 to the agreement in cases where the borrower demonstrates he/she was 
 unable to complete the training due to circumstances beyond his/her 
-control, such as poor
+control, such as poor health or discontinuance of the necessary approved 
+courses. Refusal to
 
 [[Page 156]]
 
-health or discontinuance of the necessary approved courses. Refusal to 
 grant a 1-year extension is not an appealable decision.
     (2) The vendor will provide Agency with periodic progress reports. 
 The frequency of these reports will be determined by the State Director. 
@@ -14898,8 +14918,7 @@ and may be sufficient grounds for disapproval of the claim.
 
 
 <R05>
-Sec. 1924.260  Handling manufactured housing (unit) construction 
-complaints.
+Sec. 1924.260  Handling manufactured housing (unit) construction complaints.
 
     When a borrower who has purchased a manufactured home (or ``unit'') 
 complains about construction defects, the borrower will be instructed to 
@@ -14916,6 +14935,7 @@ subpart.
 
 <R05>
 Sec. 1924.261  Handling complaints involving dwellings covered by an 
+
 independent or insured home warranty plan.
 
     Borrowers with complaints about dwellings covered by an independent 
@@ -14927,8 +14947,9 @@ manner, it will be handled under Sec. 1924.259 of this subpart.
 
 
 <R05>
-Sec. 1924.262  Handling complaints involving dwellings constructed by 
-the self-help method.
+Sec. 1924.262  Handling complaints involving dwellings constructed by the 
+
+self-help method.
 
     When a borrower whose dwelling was constructed by the self-help 
 method complains about construction defects, FmHA or its successor 
@@ -15239,7 +15260,7 @@ Paperwork Reduction Project (OMB <greek-i>575-0082), Washington, DC
 <R03>
 PART 1925_TAXES--Table of Contents
 
-
+<R05>
 
 
                    Subpart A_Real Estate Tax Servicing
@@ -15367,7 +15388,7 @@ Sec. Sec. 1925.5-1925.50  [Reserved]
 <R03>
 PART 1927_TITLE CLEARANCE AND LOAN CLOSING--Table of Contents
 
-
+<R05>
 
 
 Subpart A [Reserved]
@@ -16115,7 +16136,7 @@ valid OMB control number.
 <R03>
 PART 1930_GENERAL--Table of Contents
 
-
+<R05>
 
 
 Subparts A-C [Reserved]
@@ -16156,7 +16177,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2006)
+                     (Revised as of January 1, 2007)
 
                       Title 1--General Provisions
 
@@ -16174,8 +16195,9 @@ which is published separately and revised annually.
         II  Office of Management and Budget Circulars and Guidance 
                 (200-299)
             Subtitle B--Federal Agency Regulations for Grants and 
-                Agreements [Reserved]
-
+                Agreements
+        IX  Department of Energy (Part 901)
+    XXXVII  Peace Corps (Part 3700)
 
                         Title 3--The President
 
@@ -16197,12 +16219,12 @@ which is published separately and revised annually.
       VIII  Office of Special Counsel (Parts 1800--1899)
         IX  Appalachian Regional Commission (Parts 1900--1999)
         XI  Armed Forces Retirement Home (Part 2100)
-       XIV  Federal Labor Relations Authority, General Counsel of 
-                the Federal Labor Relations Authority and Federal 
-                Service Impasses Panel (Parts 2400--2499)
 
 [[Page 196]]
 
+       XIV  Federal Labor Relations Authority, General Counsel of 
+                the Federal Labor Relations Authority and Federal 
+                Service Impasses Panel (Parts 2400--2499)
         XV  Office of Administration, Executive Office of the 
                 President (Parts 2500--2599)
        XVI  Office of Government Ethics (Parts 2600--2699)
@@ -16250,12 +16272,12 @@ which is published separately and revised annually.
       LXIX  Tennessee Valley Authority (Part 7901)
       LXXI  Consumer Product Safety Commission (Part 8101)
     LXXIII  Department of Agriculture (Part 8301)
-     LXXIV  Federal Mine Safety and Health Review Commission (Part 
-                8401)
-     LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
 
 [[Page 197]]
 
+     LXXIV  Federal Mine Safety and Health Review Commission (Part 
+                8401)
+     LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
     LXXVII  Office of Management and Budget (Part 8701)
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
@@ -16307,13 +16329,13 @@ which is published separately and revised annually.
                 Agriculture (Parts 1400--1499)
         XV  Foreign Agricultural Service, Department of 
                 Agriculture (Parts 1500--1599)
+
+[[Page 198]]
+
        XVI  Rural Telephone Bank, Department of Agriculture (Parts 
                 1600--1699)
       XVII  Rural Utilities Service, Department of Agriculture 
                 (Parts 1700--1799)
-
-[[Page 198]]
-
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
                 Agency, Department of Agriculture (Parts 1800--
@@ -16363,13 +16385,14 @@ which is published separately and revised annually.
 
          I  Animal and Plant Health Inspection Service, Department 
                 of Agriculture (Parts 1--199)
+
+[[Page 199]]
+
         II  Grain Inspection, Packers and Stockyards 
                 Administration (Packers and Stockyards Programs), 
                 Department of Agriculture (Parts 200--299)
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
-
-[[Page 199]]
 
                            Title 10--Energy
 
@@ -16419,12 +16442,13 @@ which is published separately and revised annually.
          I  Small Business Administration (Parts 1--199)
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
+
+[[Page 200]]
+
         IV  Emergency Steel Guarantee Loan Board, Department of 
                 Commerce (Parts 400--499)
          V  Emergency Oil and Gas Guaranteed Loan Board, 
                 Department of Commerce (Parts 500--599)
-
-[[Page 200]]
 
                     Title 14--Aeronautics and Space
 
@@ -16475,12 +16499,12 @@ which is published separately and revised annually.
                 Administration, Department of Commerce (Parts 
                 2300--2399)
 
+[[Page 201]]
+
                     Title 16--Commercial Practices
 
          I  Federal Trade Commission (Parts 0--999)
         II  Consumer Product Safety Commission (Parts 1000--1799)
-
-[[Page 201]]
 
              Title 17--Commodity and Securities Exchanges
 
@@ -16529,6 +16553,8 @@ which is published separately and revised annually.
                 Employment and Training, Department of Labor 
                 (Parts 1000--1099)
 
+[[Page 202]]
+
                        Title 21--Food and Drugs
 
          I  Food and Drug Administration, Department of Health and 
@@ -16537,8 +16563,6 @@ which is published separately and revised annually.
                 (Parts 1300--1399)
        III  Office of National Drug Control Policy (Parts 1400--
                 1499)
-
-[[Page 202]]
 
                       Title 22--Foreign Relations
 
@@ -16586,6 +16610,9 @@ which is published separately and revised annually.
          I  Office of Assistant Secretary for Equal Opportunity, 
                 Department of Housing and Urban Development (Parts 
                 100--199)
+
+[[Page 203]]
+
         II  Office of Assistant Secretary for Housing-Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
@@ -16597,9 +16624,6 @@ which is published separately and revised annually.
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
-
-[[Page 203]]
-
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
@@ -16647,6 +16671,8 @@ which is published separately and revised annually.
        VII  Office of the Special Trustee for American Indians, 
                 Department of the Interior (Part 1200)
 
+[[Page 204]]
+
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
@@ -16656,9 +16682,6 @@ which is published separately and revised annually.
 
          I  Alcohol and Tobacco Tax and Trade Bureau, Department 
                 of the Treasury (Parts 1--399)
-
-[[Page 204]]
-
         II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
                 Department of Justice (Parts 400--699)
 
@@ -16705,12 +16728,13 @@ which is published separately and revised annually.
                 (Parts 2200--2499)
        XXV  Employee Benefits Security Administration, Department 
                 of Labor (Parts 2500--2599)
+
+[[Page 205]]
+
      XXVII  Federal Mine Safety and Health Review Commission 
                 (Parts 2700--2799)
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
-
-[[Page 205]]
 
                       Title 30--Mineral Resources
 
@@ -16760,6 +16784,9 @@ which is published separately and revised annually.
        XVI  Selective Service System (Parts 1600--1699)
      XVIII  National Counterintelligence Center (Parts 1800--1899)
        XIX  Central Intelligence Agency (Parts 1900--1999)
+
+[[Page 206]]
+
         XX  Information Security Oversight Office, National 
                 Archives and Records Administration (Parts 2000--
                 2099)
@@ -16768,9 +16795,6 @@ which is published separately and revised annually.
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
-
-[[Page 206]]
-
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
 
@@ -16822,15 +16846,15 @@ which is published separately and revised annually.
                 899)
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
+
+[[Page 207]]
+
          X  Presidio Trust (Parts 1000--1099)
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
         XV  Oklahoma City National Memorial Trust (Part 1501)
-
-[[Page 207]]
-
        XVI  Morris K. Udall Scholarship and Excellence in National 
                 Environmental Policy Foundation (Parts 1600--1699)
 
@@ -16878,6 +16902,9 @@ which is published separately and revised annually.
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
+
+[[Page 208]]
+
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
@@ -16886,9 +16913,6 @@ which is published separately and revised annually.
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
-
-[[Page 208]]
-
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
@@ -16932,14 +16956,14 @@ which is published separately and revised annually.
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10010)
 
+[[Page 209]]
+
              Title 44--Emergency Management and Assistance
 
          I  Federal Emergency Management Agency, Department of 
                 Homeland Security (Parts 0--399)
         IV  Department of Commerce and Department of 
                 Transportation (Parts 400--499)
-
-[[Page 209]]
 
                        Title 45--Public Welfare
 
@@ -16989,6 +17013,9 @@ which is published separately and revised annually.
                 1--199)
         II  Maritime Administration, Department of Transportation 
                 (Parts 200--399)
+
+[[Page 210]]
+
        III  Coast Guard (Great Lakes Pilotage), Department of 
                 Homeland Security (Parts 400--499)
         IV  Federal Maritime Commission (Parts 500--599)
@@ -16996,9 +17023,6 @@ which is published separately and revised annually.
                       Title 47--Telecommunication
 
          I  Federal Communications Commission (Parts 0--199)
-
-[[Page 210]]
-
         II  Office of Science and Technology Policy and National 
                 Security Council (Parts 200--299)
        III  National Telecommunications and Information 
@@ -17043,15 +17067,15 @@ which is published separately and revised annually.
         29  Department of Labor (Parts 2900--2999)
         30  Department of Homeland Security, Homeland Security 
                 Acquisition Regulation (HSAR) (Parts 3000--3099)
+
+[[Page 211]]
+
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
         35  [Reserved]
         44  Federal Emergency Management Agency (Parts 4400--4499)
         51  Department of the Army Acquisition Regulations (Parts 
                 5100--5199)
-
-[[Page 211]]
-
         52  Department of the Navy Acquisition Regulations (Parts 
                 5200--5299)
         53  Department of the Air Force Federal Acquisition 
@@ -17092,9 +17116,11 @@ which is published separately and revised annually.
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
         XI  Research and Innovative Technology Administration, 
-                Department of Transportation (Parts 1400--1499)
+                Department of Transportation [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
+
+[[Page 212]]
 
                    Title 50--Wildlife and Fisheries
 
@@ -17105,9 +17131,6 @@ which is published separately and revised annually.
                 Commerce (Parts 200--299)
        III  International Fishing and Related Activities (Parts 
                 300--399)
-
-[[Page 212]]
-
         IV  Joint Regulations (United States Fish and Wildlife 
                 Service, Department of the Interior and National 
                 Marine Fisheries Service, National Oceanic and 
@@ -17138,7 +17161,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2006)
+                     (Revised as of January 1, 2007)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -17271,22 +17294,20 @@ Council on Environmental Quality                  40, V
 Court Services and Offender Supervision Agency    28, VIII
      for the District of Columbia
 Customs and Border Protection Bureau              19, I
-Defense Acquisition Regulations System            48, 2
 Defense Contract Audit Agency                     32, I
+Defense Department                                5, XXVI; 32, Subtitle A; 
+                                                  40, VII
 
 [[Page 215]]
 
-Defense Department                                5, XXVI; 32, Subtitle A; 
-                                                  40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
-  Defense Acquisition Regulations System          48, 2
+  Defense Acquisition Regulations System          48, II
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Federal Acquisition Regulation                  48, 1
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 32, I
@@ -17346,12 +17367,12 @@ Executive Office of the President                 3, I
   Management and Budget, Office of                5, III, LXXVII; 14, VI; 
                                                   48, 99
   National Drug Control Policy, Office of         21, III
-
-[[Page 216]]
-
   National Security Council                       32, XXI; 47, 2
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
+
+[[Page 216]]
+
   Trade Representative, Office of the United      15, XX
        States
 Export-Import Bank of the United States           5, LII; 12, IV
@@ -17421,12 +17442,12 @@ Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 General Services Administration                   5, LVII; 41, 105
-
-[[Page 217]]
-
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
+
+[[Page 217]]
+
   Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
@@ -17448,6 +17469,7 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Child Support Enforcement, Office of            45, III
   Children and Families, Administration for       45, II, III, IV, X
   Community Services, Office of                   45, X
+  Defense Acquisition Regulations System          48, 2
   Family Assistance, Office of                    45, II
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
@@ -17497,11 +17519,10 @@ Indian Arts and Crafts Board                      25, II
 Indian Health Service                             25, V; 42, I
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
-
+Information Security Oversight Office, National   32, XX
+   Archives and Records Administration
 [[Page 218]]
 
-Information Security Oversight Office, National   32, XX
-     Archives and Records Administration
 Inspector General
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
@@ -17577,11 +17598,11 @@ Labor Department                                  5, XLII
   Federal Procurement Regulations System          41, 50
   Labor-Management Standards, Office of           29, II, IV
   Mine Safety and Health Administration           30, I
+  Occupational Safety and Health Administration   29, XVII
+  Public Contracts                                41, 50
 
 [[Page 219]]
 
-  Occupational Safety and Health Administration   29, XVII
-  Public Contracts                                41, 50
   Secretary of Labor, Office of                   29, Subtitle A
   Veterans' Employment and Training Service,      41, 61; 20, IX
        Office of the Assistant Secretary for
@@ -17651,11 +17672,11 @@ National Transportation Safety Board              49, VIII
 National Weather Service                          15, IX
 Natural Resources Conservation Service            7, VI
 Navajo and Hopi Indian Relocation, Office of      25, IV
+Navy Department                                   32, VI
+  Federal Acquisition Regulation                  48, 52
 
 [[Page 220]]
 
-Navy Department                                   32, VI
-  Federal Acquisition Regulation                  48, 52
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Interstate Low-Level Radioactive Waste  10, XVIII
      Commission
@@ -17728,11 +17749,12 @@ State Department                                  22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
 Surface Mining and Reclamation Appeals, Board of  30, III
 Surface Mining Reclamation and Enforcement,       30, VII
-   Office of
-[[Page 221]]
-
+     Office of
 Surface Transportation Board                      49, X
 Susquehanna River Basin Commission                18, VIII
+
+[[Page 221]]
+
 Technology Administration                         15, XI
 Technology Policy, Assistant Secretary for        37, IV
 Technology, Under Secretary for                   37, V
@@ -17790,4 +17812,146 @@ Utah Reclamation Mitigation and Conservation      43, III
 Veterans Affairs Department                       38, I
   Federal Acquisition Regulation                  48, 8
 Veterans' Employment and Training Service,        41, 61; 20, IX
+     Office of the Assistant Secretary for
+Vice President of the United States, Office of    32, XXVIII
+Vocational and Adult Education, Office of         34, IV
+Wage and Hour Division                            29, V
+Water Resources Council                           18, VI
+Workers' Compensation Programs, Office of         20, I
+World Agricultural Outlook Board                  7, XXXVIII
+
+[[Page 223]]
+
+
+<R03>
+List of CFR Sections Affected
+
+<R04>
+
+All changes in this volume of the Code of Federal Regulations that were 
+made by documents published in the Federal Register since January 1, 
+2001, are enumerated in the following list. Entries indicate the nature 
+of the changes effected. Pages numbers refer to Federal Register pages. 
+The user should consult the entries for chapters and parts as well as 
+sections for revisions.
+For the period before January 1, 2001, see the ``List of CFR Sections 
+Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000'' published in 
+11 separate volumes.
+
+                                  2001
+
+7 CFR
+                                                                   66 FR
+                                                                    Page
+Chapter XVIII
+1901 Authority citation revised.....................................7568
+1901.1--1901.5 (Subpart A) Removed..................................7568
+1902 Authority citation revised.....................................1569
+1902.15 (c) amended.................................................1569
+    Regulation at 66 FR 1569 eff. date delayed......................8886
+1910.1 (f) added; interim...........................................1572
+1910.4 (b) amended; (c) through (k) redesignated as (d) through 
+        (l); new (c) added; interim.................................1572
+
+                                  2002
+
+7 CFR
+                                                                   67 FR
+                                                                    Page
+Chapter XVIII
+1924.5 (g)(4) revised; (i) introductory text amended; eff. 1-23-03
+                                                                   78326
+1924.6 Introductory text and (c) amended; eff. 1-23-03.............78326
+1924.9 (a) amended; eff. 1-23-03...................................78327
+1924.1--1924.50 (Subpart A) Exhibits B and J amended; eff. 1-23-03
+                                                                   78327
+1924.253 (a)(3) and (b)(3) amended; eff. 1-23-03...................78327
+1924.266 (a)(3) introductory text, (3)(i) introductory text, (B), 
+        (ii) and (4)(i)(A) amended; eff. 1-23-03...................78327
+1924.273 (a) amended; eff. 1-23-03.................................78327
+1925.1 Amended; eff. 1-23-03.......................................78327
+1925.4 (a) amended; eff. 1-23-03...................................78327
+1927.52 Amended; eff. 1-23-03......................................78327
+1927.59 (b) amended; eff. 1-23-03..................................78327
+1930.101--1930.150 (Subpart C) Exhibits B and E amended; eff. 1-
+        23-03......................................................78327
+
+                                  2003
+
+7 CFR
+                                                                   68 FR
+                                                                    Page
+Chapter XVIII
+Chapter XVIII Policy statement.....................................14889
+1901 Authority citation revised....................................69952
+1901.204 (a)(1), (2), (4) and (10) removed; (a)(3), (5) through 
+        (9) and (11) through (28) redesignated as (a)(1), (2) 
+        through (6) and (7) through (24); eff. 1-15-04.............69952
+1902 Authority citation revised....................................61331
+1902.8 Removed.....................................................61331
+1902.101--1902.150 (Subpart C) Removed.............................61331
+1910.4 (b) heading and (2) revised; (b) amended.....................7696
+    (i) correctly redesignated as (j); CFR correction..............61734
+    (i) redesignated as (j)........................................62223
+1924.54 Amended....................................................62223
+
+[[Page 224]]
+
+1924.55 Heading revised; (e) amended................................7696
+1924.74 (b)(1) amended..............................................7696
+    (a)(2) amended.................................................62223
+1930.101--1930.150 (Subpart C) Exhibit H amended...................61331
+
+                                  2004
+
+7 CFR
+                                                                   69 FR
+                                                                    Page
+Title 7 Nomenclature change........................................18803
+Chapter XVIII
+1902 Technical correction..........................................75454
+    Comment period extension.......................................77609
+1902.1 (a) amended; interim; eff. 2-24-05..........................69104
+1902.2 (d) and (e) amended; interim; eff. 2-24-05..................69104
+    Comment period extension.......................................77609
+1902.4 (a)(4), (5) and (6) amended; interim; eff. 2-24-05..........69104
+    Comment period extension.......................................77609
+1910.4 (b)(21) removed; (b)(22) redesignated as (b)(21); (j)(1)(i) 
+        revised....................................................30999
+1925 Authority citation revised....................................69104
+    Technical correction...........................................75454
+1925.3 (c) amended; interim; eff. 2-24-05..........................69104
+    Comment period extension.......................................77609
+1930 Technical correction..........................................75454
+1930.101--1930.150 (Subpart C) Removed; interim; eff. 2-24-05......69104
+    Comment period extension.......................................77609
+
+                                  2005
+
+7 CFR
+                                                                   70 FR
+                                                                    Page
+Chapter XVIII
+1902 Authority citation revised....................................59225
+1902.1--1902.50 (Subpart A) Heading revised........................59225
+1902.1 Revised.....................................................59225
+1902.2 Revised.....................................................59225
+1902.3 (a), (b) introductory text and (c) revised..................59226
+1902.4 (a)(3), (5) and (b)(1) revised..............................59226
+    (a)(5) correctly revised.......................................73347
+1902.6 (a), (b)(3) and (c) through (f) revised.....................59226
+1902.7 (a), (b) introductory text, (1), (2) and (c) through (f) 
+        revised....................................................59226
+1902.8 Added.......................................................59227
+1902.9 (a)(1), (2), (3), (5), (b) introductory text and (2) 
+        revised....................................................59227
+1902.10 (a) and (d)(2) through (5) revised; (d)(6) removed.........59227
+1902.11 Revised....................................................59228
+1902.14 Revised....................................................59228
+1902.15 (c) removed; (d) redesignated as (c); (b), new (c)(1)(i) 
+        introductory text, (2) introductory text, (iii) and (4) 
+        revised....................................................59228
+1902.50 Revised....................................................59228
+1902.1--1902.50 (Subpart A) Exhibit B amended......................59228
+1924.6 (a)(3)(i)(A) revised............................
 </pre></body></html>
