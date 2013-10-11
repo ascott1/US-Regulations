@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 46 CFR ]
-[Code of Federal Regulations (annual edition) - October 1, 2007 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2008 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -14,12 +14,12 @@
 
           Parts 70 to 89
 
-                         Revised as of October 1, 2007
+                         Revised as of October 1, 2008
 
 
           Shipping
           
-<R03>
+ <R03>
 
 
 ________________________
@@ -27,7 +27,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of October 1, 2007
+          As of October 1, 2008
           With Ancillaries
                     Published by
                     Office of the Federal Register
@@ -101,8 +101,8 @@ ________________________
   Finding Aids:
       Material Approved for Incorporation by Reference........     139
       Table of CFR Titles and Chapters........................     141
-      Alphabetical List of Agencies Appearing in the CFR......     159
-      List of CFR Sections Affected...........................     169
+      Alphabetical List of Agencies Appearing in the CFR......     161
+      List of CFR Sections Affected...........................     171
 
 [[Page iv]]
 
@@ -158,7 +158,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2007), consult the ``List of CFR 
+revision date (in this case, October 1, 2008), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -197,10 +197,10 @@ OBSOLETE PROVISIONS
 the cover of each volume are not carried. Code users may find the text 
 of provisions in effect on a given date in the past by using the 
 appropriate numerical list of sections affected. For the period before 
-January 1, 2001, consult either the List of CFR Sections Affected, 1949-
-1963, 1964-1972, 1973-1985, or 1986-2000, published in 11 separate 
-volumes. For the period beginning January 1, 2001, a ``List of CFR 
-Sections Affected'' is published at the end of each CFR volume.
+January 1, 1986, consult either the List of CFR Sections Affected, 1949-
+1963, 1964-1972, or 1973-1985, published in seven separate volumes. For 
+the period beginning January 1, 1986, a ``List of CFR Sections 
+Affected'' is published at the end of each CFR volume.
 
 INCORPORATION BY REFERENCE
 
@@ -256,8 +256,8 @@ the revision dates of the 50 CFR titles.
 
 REPUBLICATION OF MATERIAL
 
-    There are no restrictions on the republication of textual material 
-appearing in the Code of Federal Regulations.
+    There are no restrictions on the republication of material appearing 
+in the Code of Federal Regulations.
 
 INQUIRIES
 
@@ -294,11 +294,16 @@ site for public law numbers, Federal Register finding aids, and related
 information. Connect to NARA's web site at www.archives.gov/federal-
 register. The NARA site also contains links to GPO Access.
 
-                              Raymond A. Mosley,
-                                    Director,
-                          Office of the Federal Register.
+    Raymond A. Mosley,
+    Director,
+    Office of the Federal Register.
+    October 1, 2008.
 
-October 1, 2007.
+
+
+
+
+
 
 [[Page ix]]
 
@@ -315,15 +320,14 @@ II--Maritime Administration, DOT and chapter III--Coast Guard (Great
 Lakes Pilotage), DHS. The ninth volume, containing part 500 to End, 
 includes chapter IV--Federal Maritime Commission. The contents of these 
 volumes represent all current regulations codified under this title of 
-the CFR as of October 1, 2007.
+the CFR as of October 1, 2008.
 
     Subject indexes appear in chapter I, subchapters A--I, I-A, J, K, L, 
 and Q--W following the subchapters.
 
-    For this volume, Elmer Barksdale was Chief Editor. The Code of 
+    For this volume, Michele Bugenhagen was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
 Michael L. White, assisted by Ann Worley.
-
 
 [[Page 1]]
 
@@ -376,12 +380,8 @@ Part                                                                Page
 <R03>
                      SUBCHAPTER H_PASSENGER VESSELS
 
-
 <R03>
 PART 70_GENERAL PROVISIONS--Table of Contents
-
-<R05>
-
 
                    Subpart 70.01_Authority and Purpose
 
@@ -503,9 +503,7 @@ Sept. 6, 1988; CGD 89-037, 57 FR 41822, Sept. 11, 1992; USCG-2004-18884,
 
 
 <R05>
-Sec.  70.05-1  United States flag vessels subject to the requirements of this 
-
-subchapter.
+Sec.  70.05-1  United States flag vessels subject to the requirements of this subchapter.
 
     (a) This subchapter is applicable to all U.S.-flag vessels indicated 
 in Column 3 of table 70.05-1(a) that are 100 gross tons or more, except 
@@ -649,9 +647,7 @@ might be subjected.
 
 
 <R05>
-Sec.  70.05-7  Ocean or unlimited coastwise vessels on inland and Great Lakes 
-
-Routes.
+Sec.  70.05-7  Ocean or unlimited coastwise vessels on inland and Great Lakes Routes.
 
     (a) Vessels inspected and certificated for ocean or unlimited 
 coastwise routes shall be considered suitable for navigation insofar as 
@@ -702,9 +698,7 @@ FR 30661, July 26, 1990; CGD 84-069, 61 FR 25287, May 20, 1996]
 
 
 <R05>
-Sec.  70.05-18  Applicability to vessels operating under an exemption afforded 
-
-in the Passenger Vessel Safety Act of 1993 (PVSA).
+Sec.  70.05-18  Applicability to vessels operating under an exemption afforded in the Passenger Vessel Safety Act of 1993 (PVSA).
 
     (a) The Passenger Vessel Safety Act of 1993 (PVSA) contained an 
 allowance for the exemption of certain passenger vessels that are--
@@ -1018,9 +1012,6 @@ FR 50463, Sept. 29, 1995; USCG-2000-7790, 65 FR 58461, Sept. 29, 2000]
 
 <R03>
 PART 71_INSPECTION AND CERTIFICATION--Table of Contents
-
-<R05>
-
 
                  Subpart 71.01_Certificate of Inspection
 
@@ -1881,9 +1872,7 @@ the required drydock examinations.
 
 
 <R05>
-Sec.  71.50-3  Drydock examination, internal structural examination, 
-
-underwater survey, and alternate hull exam intervals.
+Sec.  71.50-3  Drydock examination, internal structural examination, underwater survey, and alternate hull exam intervals.
 
     (a) If your vessel is operated on international voyages, it must 
 undergo a drydock and internal structural examination once every 12 
@@ -1990,9 +1979,7 @@ for review.
 
 
 <R05>
-Sec.  71.50-15  Description of the Alternative Hull Examination (AHE) Program 
-
-for certain passenger vessels.
+Sec.  71.50-15  Description of the Alternative Hull Examination (AHE) Program for certain passenger vessels.
 
     The Alternative Hull Examination (AHE) Program provides you with an 
 alternative to a drydock examination by allowing your vessel's hull to 
@@ -2025,9 +2012,7 @@ must be at least 80 percent.
 
 
 <R05>
-Sec.  71.50-17  Eligibility requirements for the Alternative Hull Examination 
-
-(AHE) Program for certain passenger vessels.
+Sec.  71.50-17  Eligibility requirements for the Alternative Hull Examination (AHE) Program for certain passenger vessels.
 
     (a) Your vessel may be eligible for the AHE Program if--
     (1) It is constructed of steel or aluminum;
@@ -2172,9 +2157,7 @@ waterborne.
 
 
 <R05>
-Sec.  71.50-27  Alternative Hull Examination (AHE) program options: Divers or 
-
-underwater remotely operated vehicle (ROV).
+Sec.  71.50-27  Alternative Hull Examination (AHE) program options: Divers or underwater remotely operated vehicle (ROV).
 
     To conduct the underwater survey portion of the AHE, you may use 
 divers or an underwater ROV.
@@ -2261,9 +2244,7 @@ is safe and reasonable.
 
 
 <R05>
-Sec.  71.50-31  Continued participation in the Alternative Hull Examination 
-
-(AHE) program.
+Sec.  71.50-31  Continued participation in the Alternative Hull Examination (AHE) program.
 
     (a) To continue to participate in the AHE Program, vessel operators 
 must conduct an annual hull condition assessment. At a minimum, vessel 
@@ -2403,11 +2384,8 @@ alterations are undertaken.
 
 
 <R05>
-Sec.  71.60-1  Inspection and testing required when making alterations, 
-
-repairs, or other such operations involving riveting, welding, burning or like 
-
-fire-producing actions.
+Sec.  71.60-1  Inspection and testing required when making alterations, repairs, or other such operations involving riveting, welding, burning or like fire-
+          producing actions.
 
     (a) The provisions of ``Standard for the Control of Gas Hazards on 
 Vessels to be Repaired,'' NFPA No. 306, published by National Fire 
@@ -2485,11 +2463,12 @@ to the Coast Guard they will in general be accepted as satisfactory
 except insofar as the law or the Coast Guard regulations contain 
 requirements which are not covered by the American Bureau of Shipping.
     (c) Plans and specifications for cargo gear shall be approved by 
-either a recognized classification society or a recognized cargo gear 
-organization as defined in Sec.  71.25-25.
+either a recognized classification society or the International Cargo 
+Gear Bureau, Inc., whose home office is located at 321 West 44th Street, 
+New York, NY 10036; on the Internet at http://www.icgb.com.
 
 [CGFR 65-50, 30 FR 16895, Dec. 30, 1965, as amended by CGD 95-028, 62 FR 
-51204, Sept. 30, 1997]
+51204, Sept. 30, 1997; USCG-2008-0906, 73 FR 56510, Sept. 29, 2008]
 
 
 <R05>
@@ -2531,13 +2510,12 @@ of all required fire-screen insulation, including main fire zone and
 subdivisions, stairway and elevator enclosures, control space 
 enclosures, etc., and type of all doors in such subdivisions and 
 enclosures.
-    (2) Comprehensive typical details of fire-screen insulation of both 
-vertical
 
 [[Page 34]]
 
-and horizontal surfaces, including deck coverings where used, keyed by 
-reference numbers to the ``fire control diagram''.
+    (2) Comprehensive typical details of fire-screen insulation of both 
+vertical and horizontal surfaces, including deck coverings where used, 
+keyed by reference numbers to the ``fire control diagram''.
     (3) Ventilation diagram including dampers and other fire control 
 features.
     (4) Alarm systems.
@@ -2612,12 +2590,12 @@ directly to the submitter, with a copy of the action being forwarded to
 the interested Officer in Charge, Marine Inspection.
     (3) In the case of classed vessels, upon specific request by the 
 submitter, the American Bureau of Shipping will arrange to forward the 
-necessary plans to the Coast Guard indicating its action thereon. In 
-this case, the plans will be returned as noted in paragraph (a)(2) of 
-this section.
+necessary plans to
 
 [[Page 35]]
 
+the Coast Guard indicating its action thereon. In this case, the plans 
+will be returned as noted in paragraph (a)(2) of this section.
     (b) [Reserved]
 
 [CGFR 65-50, 30 FR 16895, Dec. 30, 1965, as amended by 60 FR 50463, 
@@ -2720,20 +2698,17 @@ FR 48051, Sept. 18, 1995; CGD 95-073, 62 FR 67514, Dec. 24, 1997]
 <R03>
 PART 72_CONSTRUCTION AND ARRANGEMENT--Table of Contents
 
-<R05>
-
-
                       Subpart 72.01_Hull Structure
 
 Sec.
 72.01-1 Application.
 72.01-5 Vessels subject to load line.
-72.01-10 Vessels using fuel having a flashpoint of 110 degrees F. or 
-          lower.
-72.01-15 Structural standards.
 
 [[Page 36]]
 
+72.01-10 Vessels using fuel having a flashpoint of 110 degrees F. or 
+          lower.
+72.01-15 Structural standards.
 72.01-20 Special consideration.
 72.01-25 Additonal structural requirements.
 72.01-90 Vessels contracted for prior to November 19, 1952.
@@ -2861,9 +2836,7 @@ openings, etc.
 
 
 <R05>
-Sec.  72.01-10  Vessels using fuel having a flashpoint of 110 degrees F. or 
-
-lower.
+Sec.  72.01-10  Vessels using fuel having a flashpoint of 110 degrees F. or lower.
 
     (a) Where liquid fuel having a flashpoint of 110 degrees F. or lower 
 is carried for main or auxiliary machinery or for starting purposes, 
@@ -3212,9 +3185,7 @@ open.
 
 
 <R05>
-Sec.  72.05-10  Type, location, and construction of fire control bulkheads and 
-
-decks.
+Sec.  72.05-10  Type, location, and construction of fire control bulkheads and decks.
 
     (a) The hull, structural bulkheads, decks, and deckhouses shall be 
 constructed of steel or other equivalent metal construction of 
@@ -3538,9 +3509,7 @@ meet the requirements for an approved deck covering.
 
 
 <R05>
-Sec.  72.05-15  Ceilings, linings, trim, and decorations in accommodation 
-
-spaces and safety areas.
+Sec.  72.05-15  Ceilings, linings, trim, and decorations in accommodation spaces and safety areas.
 
     (a) Ceilings and linings and any furring incidental to their 
 erection shall be of approved incombustible materials. Where such 
@@ -4280,9 +4249,7 @@ structural fire protection.
 
 
 <R05>
-Sec.  72.15-10  Vessels using fuel having a flashpoint of 110 degrees F. or 
-
-lower.
+Sec.  72.15-10  Vessels using fuel having a flashpoint of 110 degrees F. or lower.
 
     (a) Where liquid fuel having a flashpoint of 110 degrees F. or lower 
 is used for main or auxiliary machinery or for starting purposes, the 
@@ -4662,9 +4629,7 @@ at any point within the watertight compartment in question.
 
 
 <R05>
-Sec.  72.25-15  Passenger accommodations for excursion boats, ferryboats, and 
-
-passenger barges.
+Sec.  72.25-15  Passenger accommodations for excursion boats, ferryboats, and passenger barges.
 
     (a) Except as specifically excluded by this section, separate public 
 toilet spaces shall be provided for male and female passengers with at 
@@ -4810,9 +4775,6 @@ in no case will greater departure from the standards of Sec. Sec.
 
 <R03>
 PART 76_FIRE PROTECTION EQUIPMENT--Table of Contents
-
-<R05>
-
 
                         Subpart 76.01_Application
 
@@ -5215,9 +5177,7 @@ Inspection.
 
 
 <R05>
-Sec.  76.05-25  Hand portable fire extinguishers and semiportable fire 
-
-extinguishing systems.
+Sec.  76.05-25  Hand portable fire extinguishers and semiportable fire extinguishing systems.
 
     (a) Approved hand portable fire extinguishers and semiportable fire 
 extinguishing systems shall be installed on all vessels as set forth in 
@@ -7395,12 +7355,7 @@ the fire hose, provided such enclosures are marked as required by Sec.
 
 
 <R03>
-PART 77_VESSEL CONTROL AND MISCELLANEOUS SYSTEMS AND EQUIPMENT--Table of 
-
-Contents
-
-<R05>
-
+PART 77_VESSEL CONTROL AND MISCELLANEOUS SYSTEMS AND EQUIPMENT--Table of Contents
 
                         Subpart 77.01_Application
 
@@ -8004,9 +7959,6 @@ this chapter.
 <R03>
 PART 78_OPERATIONS--Table of Contents
 
-<R05>
-
-
                         Subpart 78.01_Application
 
 Sec.
@@ -8509,9 +8461,7 @@ official logbook.
 
 
 <R05>
-Sec.  78.17-22  Verification of vessel compliance with applicable stability 
-
-requirements.
+Sec.  78.17-22  Verification of vessel compliance with applicable stability requirements.
 
     (a) After loading and prior to departure and at all other times 
 necessary to assure the safety of the vessel, the master shall determine 
@@ -9321,9 +9271,7 @@ figures. The number shall agree with the number of the zone.
 
 
 <R05>
-Sec.  78.47-13  Fire detecting and manual alarm, automatic sprinkler, and 
-
-smoke detecting alarm bells.
+Sec.  78.47-13  Fire detecting and manual alarm, automatic sprinkler, and smoke detecting alarm bells.
 
     (a) The fire detecting and manual alarm automatic sprinklers, and 
 smoke detecting alarm bells in the engine room shall be identified by at 
@@ -9479,9 +9427,7 @@ FR 15232, Apr. 8, 1982]
 
 
 <R05>
-Sec.  78.47-45  Markings for lifesaving appliances, instructions to 
-
-passengers, and stowage locations.
+Sec.  78.47-45  Markings for lifesaving appliances, instructions to passengers, and stowage locations.
 
     Lifesaving appliances, instructions to passengers, and stowage 
 locations must be marked in accordance with subchapter W (Lifesaving 
@@ -9809,12 +9755,7 @@ shall be designated in accordance with subpart C of 33 CFR part 155.
 
 
 <R03>
-PART 80_DISCLOSURE OF SAFETY STANDARDS AND COUNTRY OF REGISTRY--Table of 
-
-Contents
-
-<R05>
-
+PART 80_DISCLOSURE OF SAFETY STANDARDS AND COUNTRY OF REGISTRY--Table of Contents
 
 Sec.
 80.01 Purpose.
@@ -10037,8 +9978,7 @@ Plan of displayed................................................78.45-1
 Prohibited location of openings (See Bulkheads)
 To lifeboats....................................................72.10-40
 Trucks and tunnels through bulkheads (See Bulkhead)
-Accident, reports of
-                                                            78.07, 78.33
+Accident, reports of........................................78.07, 78.33
 Accommodation space:
 Bulkheads and decks.............................................72.05-10
 Carbon dioxide piping in.....................................76.15-15(i)
@@ -10048,15 +9988,13 @@ Officer. (See Officer accommodations)
 Passenger. (See Passenger accommodations)
 Ventilation.....................................................72.05-50
 Windows and airports............................................72.05-30
-Aids to navigation
-                                                                   78.05
+Aids to navigation.................................................78.05
 Airport:
 Fire protection.................................................72.05-30
 Insect screens in, crew accommodations..........................72.20-55
 Kept closed at sea..............................................78.17-35
 Testing..........................................................78.17-5
-Air Tank: Annual inspection in lifesaving appliances
-                                                                71.25-15
+Air Tank: Annual inspection in lifesaving appliances............71.25-15
 Alarm:
 Automatic sprinkling system.....................................76.25-35
 Carbon dioxide extinguishing system.............................76.15-30
@@ -10069,21 +10007,18 @@ Smoke detecting system..........................................76.33-20
 Alteration:
 Notice of..........................................................71.55
 Plans required..................................................71.65-10
-American Bureau of Shipping
-                    70.10-1, 70.35, 71.15-1, 71.65-5, 72.01-15, 72.01-20
+American Bureau of Shipping............70.10-1, 70.35, 71.15-1, 71.65-5, 
+                                                      72.01-15, 72.01-20
 
 [[Page 116]]
 
-American Society for Testing Materials (ASTM)
-                        76.01-2, 76.10-10, 77.01-3, 77.35-5(c), 78.17-75
+American Society for Testing Materials (ASTM).........76.01-2, 76.10-10, 
+                                           77.01-3, 77.35-5(c), 78.17-75
 Anchor:
 General requirements...............................................77.07
-Annual inspection
-                                                                   71.25
-Appeal, right of
-                                                                 70.01-7
-Application of subchapter
-                                                                   70.05
+Annual inspection..................................................71.25
+Appeal, right of.................................................70.01-7
+Application of subchapter..........................................70.05
 Applicator: For combination nozzle. (See Fire hose nozzle)
 Approved:
 Definition of....................................................70.10-1
@@ -10094,8 +10029,7 @@ Authority for regulations..........................................70.01
 Equivalents for....................................................70.15
 Initial inspection.................................................71.20
 Plans required...................................................71.65-5
-Authority for regulations
-                                                                 70.01-1
+Authority for regulations........................................70.01-1
 Automatic fire damper. (See Fire damper)
 Automatic sprinkling system:
 Access to controls...........................................76.25-25(a)
@@ -10112,27 +10046,20 @@ Pumps and water supply..........................................76.25-15
 Size and arrangement of pumps and pipe sizes....................76.25-10
 Where required.........................72.05-90(b)(3), 76.05-1, 76.05-20
 Zoning...........................................................76.25-5
-Availability of water for fire extinguishing
-                                                                 76.10-3
+Availability of water for fire extinguishing.....................76.10-3
 
                                  B
 
 Baggage room. (See Service space)
-Balconies
-                                                              72.05-5(m)
-Ballast system
-                                                                   77.03
-Barge: Definition
-                                                                 70.10-1
+Balconies.....................................................72.05-5(m)
+Ballast system.....................................................77.03
+Barge: Definition................................................70.10-1
 Basin. (See Washroom)
 Bath tubs. (See Washroom)
-Bell, markings on
-                                                                 78.47-7
+Bell, markings on................................................78.47-7
 Berth. (See Furniture)
-Berth light in crew spaces
-                                                             72.20-45(b)
-Bilge system
-                                                                   77.03
+Berth light in crew spaces...................................72.20-45(b)
+Bilge system.......................................................77.03
 Boiler:
 Accident to or repair of...........................................78.33
 Carrying excess steam..............................................78.55
@@ -10190,16 +10117,13 @@ Ventilation.....................................................72.05-50
 Windows and airports............................................72.05-30
 Carpenter shop. (See Service space)
 Carpet. (See Rug)
-Carrying freight for hire, definition of
-                                                                 70.10-1
+Carrying freight for hire, definition of.........................70.10-1
 Carrying passengers for hire:
 Gross tonnage as a criterion for requirements...................70.05-20
 Vessels..........................................................70.05-1
 Casing, machinery. (See Machinery space)
-Casualty, notice and reporting of
-                                                                   78.07
-Ceiling, construction of
-                                                   72.05-10(h), 72.05-15
+Casualty, notice and reporting of..................................78.07
+Ceiling, construction of...........................72.05-10(h), 72.05-15
 Certificate:
 Exemption. (See Exemption certificate)
 Of inspection. (See Certificate of inspection)
@@ -10221,24 +10145,18 @@ Duration of certificates........................................71.75-20
 Exemption certificate...........................................71.75-10
 Passenger Ship Safety Certificate................................71.75-5
 Posting of Convention certificates..............................71.75-15
-Chain, anchor
-                                                                   77.07
-Chart, required
-                                                                 78.05-5
+Chain, anchor......................................................77.07
+Chart, required..................................................78.05-5
 Children's life preservers. (See Life preservers)
-Classed vessel, defined
-                                                                 70.10-1
-Coast Guard District Commander, defined
-                                                                 70.10-1
+Classed vessel, defined..........................................70.10-1
+Coast Guard District Commander, defined..........................70.10-1
 Coastwise:
 Definition.......................................................70.10-1
 Service; anchors, chains and hawsers for.........................77.07-5
 Collision bulkhead. (See Bulkhead)
 Combination nozzle. (See Fire hose nozzle)
-Combustible liquid cargo in bulk
-                                              Table 70.05-1(a), 70.05-30
-Commandant, defined
-                                                                 70.10-1
+Combustible liquid cargo in bulk..............Table 70.05-1(a), 70.05-30
+Commandant, defined..............................................70.10-1
 Communication system:
 Installation and details.........................................77.05-1
 Testing.........................................................78.17-15
@@ -10258,8 +10176,7 @@ New, plans and specifications required...........................71.65-5
 Structural requirements and standards.......71.65-5, 72.01-15, 72.01-20, 
                                   72.01-25, 72.05-10, 72.05-90, 72.20-90
 Structural subdivision..........................................72.01-25
-Contracted for, defined
-                                                                 70.05-5
+Contracted for, defined..........................................70.05-5
 Controls:
 Fire-extinguishing systems:
 Automatic sprinkling............................................76.25-25
@@ -10292,17 +10209,14 @@ Sanitary inspections. (See Sanitation)
 Sleeping Accommodations.........................................72.20-20
 Ventilation.....................................................72.15-20
 Washrooms and toilet spaces.....................................72.20-25
-Customs regulations: Required markings
-                                                                   78.50
+Customs regulations: Required markings.............................78.50
 
                                  D
 
-Damage
-                                                                   78.07
+Damage.............................................................78.07
 Damaged stability. (See Stability)
 Damper, automatic fire. (See Fire dampers)
-Daylight signaling lamp
-                                                                   77.05
+Daylight signaling lamp............................................77.05
 Orange smoke. (See Smoke signal)
 Dead cover. (See Airport)
 Deck covering:
@@ -10321,8 +10235,7 @@ Terms used in subchapter...........................................70.10
 Terms used in subchapter 72.05, structural fire protection.......72.05-5
 Detecting, fire. (See Fire detecting)
 Direction finder. (See Radio)
-Disclosure of safety standards and country of registry
-                                                                 Part 80
+Disclosure of safety standards and country of registry...........Part 80
 Applicability......................................................80.10
 Civil penalty......................................................80.40
 Exemption to requirements..........................................80.20
@@ -10381,10 +10294,8 @@ Operation and installation......................................76.27-15
 Plans to be displayed............................................78.45-1
 Where required...................................................76.05-1
 Zoning...........................................................76.27-5
-Elevator, enclosure
-                                                                72.05-20
-Emergency equipment
-                                                                   77.30
+Elevator, enclosure.............................................72.05-20
+Emergency equipment................................................77.30
 Emergency light:
 Marking.........................................................78.47-33
 Required.........................................................77.05-1
@@ -10392,33 +10303,25 @@ Emergency lighting and powering:
 Installation and details...........................................77.05
 Testing.........................................................78.17-45
 Emergency loudspeaker system. (See Loudspeaker system)
-Emergency squad: Marking equipment stowage space
-                                                                78.47-25
-Enclosed locations, operating vessels in
-                                                                   78.83
-Engine order telegraph system
-                                                                 77.05-1
+Emergency squad: Marking equipment stowage space................78.47-25
+Enclosed locations, operating vessels in...........................78.83
+Engine order telegraph system....................................77.05-1
 Engineroom. (See Machinery space)
 Equipment:
 Equivalents for....................................................70.15
 For buoyant apparatus. (See Buoyant apparatus)
 Lifesaving. (See also Lifesaving equipment)
 Sounding. (See Sounding equipment)
-Equivalents
-                                                                   70.15
+Equivalents........................................................70.15
 Equivalent plane bulkhead. (See Bulkhead)
 
 [[Page 121]]
 
-Examination: Intervals, drydocks and internal structural
-                                                                 71.50-3
-Excursion, permit to engage in
-                                                                   71.10
-Exemption certificate
-                                                                71.75-10
+Examination: Intervals, drydocks and internal structural.........71.50-3
+Excursion, permit to engage in.....................................71.10
+Exemption certificate...........................................71.75-10
 Exit. (See Means of escape)
-Expired certificate of inspection
-                                                                71.01-20
+Expired certificate of inspection...............................71.01-20
 Extinguisher. (See Hand portable fire extinguishers; Semi-portable fire 
 extinguishing systems)
 Extinguishing system. (See Fire extinguishing system)
@@ -10462,10 +10365,8 @@ system; Steam smothering system; Water spray extinguishing system)
 Initial inspection..............................................71.20-15
 Markings...........................................................78.47
 When required...................................................76.05-20
-Fire-fighting equipment, general
-                                                                78.17-80
-Fire hazard, annual inspection for
-                                                                71.25-45
+Fire-fighting equipment, general................................78.17-80
+Fire hazard, annual inspection for..............................71.25-45
 Fire hose:
 Additional, when foam extinguishing system used.................76.17-25
 Couplings....................................................76.10-10(n)
@@ -10481,8 +10382,7 @@ Additional combination nozzles required, when foam extinguishing
 system used.....................................................76.17-25
 Combination nozzles required.................................76.10-10(k)
 Type and size required.......................................76.10-10(j)
-Fire hose rack
-                                                             76.10-10(g)
+Fire hose rack...............................................76.10-10(g)
 Fire hydrant:
 Additional required, when foam extinguishing system used........76.17-25
 Size and location...............................................76.10-10
@@ -10498,16 +10398,14 @@ Protection from freezing.....................................76.10-10(e)
 Pumps. (See Fire pump)
 Shore connection.............................................76.10-10(c)
 When required...................................................76.05-15
-Fire protection equipment
-                                                                 Part 76
+Fire protection equipment........................................Part 76
 Annual inspection...............................................71.25-20
 Equipment installed, but not required............................76.01-5
 General............................................................76.01
 Initial inspection.................................................71.20
 Fire protection, general:
 Application......................................................72.03-1
-Fire hazards to be minimized
-                                                                 72.03-5
+Fire hazards to be minimized.....................................72.03-5
 Lamp room construction..........................................72.03-15
 Woodwork insulated from heated surfaces.........................72.03-10
 Fire protection, structural. (See Structural fire protection)
@@ -10519,18 +10417,15 @@ Fire watch:
 General.........................................................78.30-20
 Supervised patrol. (See Supervised patrol)
 Watchmen. (See Watchmen)
-Fireman's outfit
-                                                                   77.35
+Fireman's outfit...................................................77.35
 Application......................................................77.35-1
 General..........................................................77.35-5
 Outfit..........................................................77.35-10
 Spare charges...................................................77.35-20
 Stowage.........................................................77.35-15
 Fixed fire extinguishing system. (See Fire extinguishing system)
-Flame safety lamp
-                                                              77.30-5(c)
-Flammable liquid cargo in bulk
-                                              Table 70.05-1(a), 70.05-30
+Flame safety lamp.............................................77.30-5(c)
+Flammable liquid cargo in bulk................Table 70.05-1(a), 70.05-30
 Float, wood. (See Wood float)
 Foam extinguishing system:
 Access to supply and controls................................76.17-10(b)
@@ -10550,15 +10445,13 @@ Where required..................................................76.05-20
 Fog nozzle. (See Fire hose nozzle)
 Food. (See Provisions)
 Fore peak bulkhead. (See Bulkhead)
-Foreign vessels subject to the requirements of this subchapter
-                                                                 70.05-3
+Foreign vessels subject to the requirements of this subchapter...70.05-3
 Friction matches. (See Matches)
 Fuel:
 Oil tanks, integral examination of.................................71.53
 Requirements for fuel oil.......................................78.17-75
 Fuel oil units: Fire extinguishing system required in spaces 
-containing
-                                                                76.05-20
+containing......................................................76.05-20
 Furnishings. (See Furniture)
 Furniture:
 Crew accommodations..........................................72.20-20(c)
@@ -10571,8 +10464,7 @@ Mess rooms......................................................72.20-30
 Galley. (See also Service space):
 Ventilation..................................................72.05-50(h)
 Gangway, openings. (See Openings in vessel's sides)
-Gas freeing
-                                                                   71.60
+Gas freeing........................................................71.60
 Gas mask:
 Marking of Stowage space........................................78.47-27
 Required...........................................................77.30
@@ -10587,10 +10479,8 @@ Gravity davit. (See Davits)
 Great Lakes:
 Definition of....................................................70.10-1
 Service; anchors, chains and hawsers for.........................77.07-5
-Gross tonnage as a criterion for requirements
-                                                                70.05-20
-Grounding: Notice of
-                                                                   78.07
+Gross tonnage as a criterion for requirements...................70.05-20
+Grounding: Notice of...............................................78.07
 Guard. (See Rail)
                                  H
 
@@ -10604,13 +10494,11 @@ When required...................................................76.05-25
 Hatch:
 Closure of......................................................78.17-35
 Material for covers.............................................72.05-35
-Headquarters, definition of
-                                                                 70.10-1
+Headquarters, definition of......................................70.10-1
 
 [[Page 124]]
 
-Heating, crew spaces
-                                                                72.20-50
+Heating, crew spaces............................................72.20-50
 Heat insulation. (See Insulation)
 Hinged watertight door. (See Watertight doors)
 Hook. (See Disengaging apparatus)
@@ -10626,8 +10514,7 @@ extinguishing system)
 Hospital:
 Crew............................................................72.20-35
 Deck covering................................................72.05-10(p)
-Hull markings
-                                                                 78.50-5
+Hull markings....................................................78.50-5
 Hull structure. (See Construction)
 Hydrant. (See Fire hydrant)
                                  I
@@ -10638,10 +10525,8 @@ Automatic sprinkling............................................76.25-25
 Carbon dioxide...............................................76.15-10(a)
 Foam.........................................................76.17-10(b)
 Manual sprinkling............................................76.23-15(a)
-Incorporation by reference
-                                                        76.01-2, 77.01-3
-Initial inspection
-                                                                   71.20
+Incorporation by reference..............................76.01-2, 77.01-3
+Initial inspection.................................................71.20
 Inner bottom. (See Double bottom)
 Inspection:
 After accident.....................................................71.40
@@ -10659,8 +10544,7 @@ Inspection and certification:
 Generally..........................................................71.01
 Period of validity..............................................71.01-10
 Inspector. (See Marine inspector)
-Inspector not limited
-                                                                71.25-50
+Inspector not limited...........................................71.25-50
 Instructions:
 For changing steering gear......................................78.47-55
 Electrical detecting.........................................76.27-15(f)
@@ -10684,15 +10568,14 @@ Heat and refrigeration..........................................72.05-40
 In doors........................................................72.05-25
 Intact stability. (See Stability)
 Securing of..................................................72.05-10(k)
-Integral fuel oil tank examinations
-                                                                   71.53
+Integral fuel oil tank examinations................................71.53
 Interior communication. (See Communication system)
 Internal structural examination:
 Definition.......................................................71.50-1
 Intervals........................................................71.50-3
 Notice and plans required........................................71.50-5
-International conventions
-       70.01-1, Table 70.05-1(a) note 6, 70.05-3, 70.05-10, 71.75, 80.20
+International conventions.....70.01-1, Table 70.05-1(a) note 6, 70.05-3, 
+                                                  70.05-10, 71.75, 80.20
 International voyage:
 Application of regulations to vessels on........................70.05-10
 
@@ -10712,22 +10595,16 @@ Windows.........................................................72.05-30
 Ladder. (See also Stairway):
 Lifeboat gunwale. (See Lifeboat gunwale ladder)
 Vertical, as means of escape....................................72.10-15
-Lakes, bays, and sounds: Definition of
-                                                                 70.10-1
+Lakes, bays, and sounds: Definition of...........................70.10-1
 Lamp Locker. (See Paint locker)
-Laundry, crew
-                                                                72.20-40
-License, exhibition of
-                                                                   78.65
+Laundry, crew...................................................72.20-40
+License, exhibition of.............................................78.65
 Lifeboat:
 Access to.......................................................72.10-40
 Annual inspection...............................................71.25-15
-Lifeboat winch: Annual inspection
-                                                                71.25-15
-Lifepreserver: Annual inspection
-                                                                71.25-15
-Lifesaving Appliances and Arrangements
-                                                            70.28, 77.06
+Lifeboat winch: Annual inspection...............................71.25-15
+Lifepreserver: Annual inspection................................71.25-15
+Lifesaving Appliances and Arrangements......................70.28, 77.06
 Installation.....................................................77.06-1
 Markings for....................................................78.47-45
 Lifesaving equipment:
@@ -10743,12 +10620,9 @@ Illumination of exit signs......................................78.47-40
 
 [[Page 126]]
 
-Lighting and powering systems
-                                                                   77.05
-Linings
-                                               72.05-10(h)-(i), 72.05-15
-Loading doors
-                                                    78.17-33, 78.37-5(h)
+Lighting and powering systems......................................77.05
+Linings........................................72.05-10(h)-(i), 72.05-15
+Loading doors.......................................78.17-33, 78.37-5(h)
 Load line:
 Logging of position relative to water...........................78.17-20
 Marking.........................................................78.50-15
@@ -10758,12 +10632,9 @@ Vessels subject to regulations...................................70.05-1
 Logbook:
 Actions required to be logged....................................78.37-5
 Official log entries............................................78.37-10
-Lookout, required
-                                                                78.30-20
-Loudspeaker system
-                                                                78.17-10
-Louvers in doors
-                                                                72.05-25
+Lookout, required...............................................78.30-20
+Loudspeaker system..............................................78.17-10
+Louvers in doors................................................72.05-25
 
                                  M
 
@@ -10866,19 +10737,14 @@ From main vertical zones........................................72.05-20
 General requirements...............................................72.10
 Mechanical ventilation. (See Ventilation)
 Medical kit. (See First aid kit)
-Messroom. (See also Accommodation space)
-                                                                72.20-30
-Miscellaneous spaces for structural fire protection
-                                                              72.05-5(f)
-Motorboat: Motor vessel
-                                                                 70.10-1
+Messroom. (See also Accommodation space)........................72.20-30
+Miscellaneous spaces for structural fire protection...........72.05-5(f)
+Motorboat: Motor vessel..........................................70.10-1
 
 [[Page 128]]
 
-Motor vessel, definition of
-                                                                 70.10-1
-Muster list (Station bill)
-                                                       78.13-1, 78.17-50
+Motor vessel, definition of......................................70.10-1
+Muster list (Station bill).............................78.13-1, 78.17-50
 
                                  N
 
@@ -10886,15 +10752,11 @@ Name of vessel:
 On equipment.......................................................78.47
 On vessel........................................................78.50-5
 Natural ventilation. (See Ventilation)
-Navigation bridge visibility
-                                                                   72.04
-Net tonnage marked on main beam
-                                                                 78.50-5
-New construction, plans and specifications required for
-                                                                 71.65-5
+Navigation bridge visibility.......................................72.04
+Net tonnage marked on main beam..................................78.50-5
+New construction, plans and specifications required for..........71.65-5
 Notice of casualty. (See Casualty)
-Notice to mariners
-                                                                   78.05
+Notice to mariners.................................................78.05
 Notices. (See markings)
 Nozzle, fire hose. (See Fire hose nozzle)
                                  O
@@ -10904,24 +10766,19 @@ Definition of....................................................70.10-1
 Inland routes....................................................70.05-7
 Service; anchors, chains and hawsers for.........................77.07-5
 Office. (See Accommodation space)
-Officer accommodations. (See also Accommodation space)
-                                                                   72.20
-Officer in Charge, Marine Inspection, defined
-                                                                 70.10-1
+Officer accommodations. (See also Accommodation space).............72.20
+Officer in Charge, Marine Inspection, defined....................70.10-1
 Official log. (See Logbook)
-Official number on main beam
-                                                                 78.50-5
+Official number on main beam.....................................78.50-5
 Oil:
 Lockers. (See Service space)
 Oil lockers. (See Service space)
-OMB control numbers
-                                                                70.01-15
+OMB control numbers.............................................70.01-15
 Openings:
 In watertight bulkheads. (See Bulkhead)
 Keep closed at sea..............................................78.17-35
 Manholes in double bottoms. (See Double bottom)
-Operation of vehicles in enclosed locations
-                                                                   78.83
+Operation of vehicles in enclosed locations........................78.83
 Special operating conditions.....................................78.83-1
 Operations:
 Carrying of excess steam...........................................78.55
@@ -10955,8 +10812,7 @@ Unnecessary whistling..............................................78.23
 Oxygen breathing apparatus. (See Self-contained breathing apparatus)
                                  P
 
-Paint: Fire protection
-                                                                72.05-45
+Paint: Fire protection..........................................72.05-45
 Paint locker. (See also Service space)
 Pantry:
 General. (See Service space)
@@ -10978,8 +10834,7 @@ Separate from crew...........................................72.25-15(a)
 Steerage...........................................................72.25
 Toilet facilities, excursion boats, ferryboats, and barges......72.25-15
 Ventilation.....................................................72.15-20
-Passenger vessel
-                                                                 70.10-1
+Passenger vessel.................................................70.10-1
 Peak bulkhead. (See Bulkhead)
 Penetration. (See Opening)
 Permit:
@@ -10992,8 +10847,7 @@ Definition of....................................................70.10-1
 General requirements......................................77.40, 78.90-1
 Initial inspection of...........................................71.20-15
 Maintenance of................................................78.90-1(a)
-Pilot boarding operation
-                                                                 78.90-1
+Pilot boarding operation.........................................78.90-1
 Pilothouse
 Persons allowed in.................................................78.10
 Watch............................................................78.30-5
@@ -11028,18 +10882,14 @@ Operation and installation......................................76.30-15
 Plans to be displayed..............................................78.45
 Where required...................................................76.05-1
 Zoning...........................................................76.30-5
-Point of access: Definition
-                                                                 70.10-1
-Pilot boarding equipment
-                                                                 77.40-1
-Pilot boarding operations
-                                                                 78.90-1
+Point of access: Definition......................................70.10-1
+Pilot boarding equipment.........................................77.40-1
+Pilot boarding operations........................................78.90-1
 Port:
 Gangway, cargo, and coaling. (See Openings in vessel's sides)
 Lights.............................................................78.16
 Portable extinguisher. (See Hand portable fire extinguisher)
-Portable magazine chest: Marking of
-                                                                78.47-70
+Portable magazine chest: Marking of.............................78.47-70
 Portable plate: Manholes in double bottom. (See Double bottom)
 Prohibited location in bulkheads. (See Bulkhead)
 Posting:
@@ -11059,12 +10909,9 @@ Automatic sprinkling.........................................76.25-35(j)
 Carbon dioxide...............................................76.15-10(h)
 Foam.........................................................76.17-10(c)
 Licenses...........................................................78.65
-Permit to engage in excursions
-                                                                71.10-15
-Permit to proceed to another port for repair
-                                                                71.05-15
-Plans
-                                                                   78.45
+Permit to engage in excursions..................................71.10-15
+Permit to proceed to another port for repair....................71.05-15
+Plans..............................................................78.45
 Stability letter.................................................78.12-1
 Station bill.....................................................78.13-1
 Printing shop. (See Service space)
@@ -11072,8 +10919,7 @@ Projection room. (See also Service space)
 Construction....................................................72.05-10
 Ventilation.....................................................72.05-50
 Propulsion machinery, fire extinguishing systems required for 
-spaces containing
-                                                                76.05-20
+spaces containing...............................................76.05-20
 Public space. (See also Accommodation space):
 Means of escape from............................................72.10-35
 Pump:
@@ -11085,8 +10931,7 @@ Fire. (See Fire pump)
 Foam extinguishing system........................76.17-5(c), 76.17-10(b)
 Fuel oil. (See Fuel oil unit)
 Manual sprinkling system..............................76.23-10, 76.23-15
-Purpose of regulations
-                                                                 70.01-1
+Purpose of regulations...........................................70.01-1
 
                                  Q
 
@@ -11097,46 +10942,36 @@ Radio:
 Annual inspection..................................................71.25
 Initial inspection.................................................71.20
 Radio room. (See Safety area)
-Rail, type and size required
-                                                                   72.40
+Rail, type and size required.......................................72.40
 Rations. (See Provisions)
 Recessed bulkhead. (See Bulkhead)
-Recognized classification society, defined
-                                                                 70.10-1
+Recognized classification society, defined.......................70.10-1
 Records, voyage. (See Voyage records)
 Red hand flare. (See Hand flare)
 Refrigerated cargo space. (See Cargo space)
-Refrigerated space alarm system
-                                                                   77.05
+Refrigerated space alarm system....................................77.05
 Refrigerated store room. (See Store room)
 Refrigeration gas mask. (See Gas mask)
-Register tonnage, gross
-                                                                70.05-20
+Register tonnage, gross.........................................70.05-20
 Regulations:
 Authority and purpose..............................................70.01
 Application........................................................70.05
-Reinspection
-                                                                   71.30
+Reinspection.......................................................71.30
 Repair:
 After accident.....................................................71.40
 Notice of..........................................................71.55
 Permit to proceed to another port for..............................71.05
-Report of accident
-                                                                   78.33
-Repairs of boilers and pressure vessels
-                                                                 78.33-1
+Report of accident.................................................78.33
+Repairs of boilers and pressure vessels..........................78.33-1
 Accidents to machinery...........................................78.33-5
 Notice required before repairs..................................78.33-10
 Reporting of casualty. (See Casualty)
 Respiratory protection. (See Emergency equipment)
-Right of appeal
-                                                                 70.01-7
+Right of appeal..................................................70.01-7
 Rivers:
 Definition of....................................................70.10-1
-Routing instructions
-                                                                   78.57
-Rudder angle indicator system
-                                                                   77.05
+Routing instructions...............................................78.57
+Rudder angle indicator system......................................77.05
 Rug:
 Fire protection..............................................72.05-10(n)
 Passing through doors.............................72.05-25(b)(6), (c)(5)
@@ -11147,10 +10982,8 @@ With fire resistant furnishings...........................72.05-55(a)(4)
 Safety certificate:
 Foreign vessels..................................................70.05-3
 Required...........................................................71.75
-Safety valve: prohibition against tampering with
-                                                                   78.55
-Sailing vessel, definition of
-                                                                 70.10-1
+Safety valve: prohibition against tampering with...................78.55
+Sailing vessel, definition of....................................70.10-1
 
 [[Page 132]]
 
@@ -11176,14 +11009,10 @@ Bulkheads and decks.............................................72.05-10
 Definitions, for structural fire protection...................72.05-5(c)
 Fire protection equipment for......................................76.05
 Windows and airports............................................72.05-30
-Shell connections
-                                                                   77.03
-Shifting boards in tonnage opening
-                                                                72.05-35
-Shore connection, fire main
-                                                             76.10-10(c)
-Short international voyage, defined
-                                                                 70.10-1
+Shell connections..................................................77.03
+Shifting boards in tonnage opening..............................72.05-35
+Shore connection, fire main..................................76.10-10(c)
+Short international voyage, defined..............................70.10-1
 Shower. (See Washroom)
 Signal:
 Signaling lamp, daylight...........................................77.05
@@ -11200,14 +11029,10 @@ Piping..........................................................76.33-15
 Plans to be displayed..............................................78.45
 Where required...................................................76.05-1
 Zoning...........................................................76.33-5
-Sounding equipment
-                                                                   77.27
-Spaces specially suitable for vehicles, definition of
-                                                                 70.10-1
-Spanner, required at fire hydrant
-                                                             76.10-10(g)
-Specifications required for new construction
-                                                                 71.65-5
+Sounding equipment.................................................77.27
+Spaces specially suitable for vehicles, definition of............70.10-1
+Spanner, required at fire hydrant............................76.10-10(g)
+Specifications required for new construction.....................71.65-5
 Spray nozzle. (See Fire hose nozzle)
 Stability:
 Letter, posting of...............................................78.12-1
@@ -11218,8 +11043,7 @@ Enclosures......................................................72.05-20
 Fire resisting furnishings in................................72.05-55(c)
 Ventilation..................................................72.05-50(f)
 Width of........................................................72.10-25
-Standard fire test, defined
-                                                              72.05-5(g)
+Standard fire test, defined...................................72.05-5(g)
 
 [[Page 133]]
 
@@ -11230,8 +11054,7 @@ Muster lists, emergency signals, and manning....................78.17-50
 Steam smothering system:
 General details....................................................76.13
 Inspection. (See Fire extinguishing system)
-Steel or other equivalent metal: Definition
-                                                              72.05-5(i)
+Steel or other equivalent metal: Definition...................72.05-5(i)
 Steering system:
 Details............................................................77.03
 Instructions for changing gear..................................78.47-55
@@ -11246,16 +11069,12 @@ Stowage:
 Buoyant apparatus. (See Buoyant apparatus)
 Emergency equipment.............................................77.30-10
 Fire hose....................................................76.10-10(g)
-Stranding, notice of
-                                                                   78.07
-Structural fire protection
-                                                          72.05, 72.15-5
+Stranding, notice of...............................................78.07
+Structural fire protection................................72.05, 72.15-5
 Structural insulation. (See Insulation)
 Structure. (See Construction)
-Subdivision: Plans and specifications for new construction
-                                                                 71.65-5
-Structural requirements
-                                                                72.01-25
+Subdivision: Plans and specifications for new construction.......71.65-5
+Structural requirements.........................................72.01-25
 Subdivision bulkhead. (See Bulkhead)
 Subdivision load lines. (See Load lines)
 Supervised patrol:
@@ -11272,10 +11091,8 @@ Construction....................................................72.01-25
 Double bottom. (See Double bottom)
 Pressure, automatic sprinkling..................................76.25-20
 Vent and sounding systems..........................................77.03
-Telephone, sound powered
-                                                                   77.05
-Temporary certificate of inspection
-                                                                71.01-15
+Telephone, sound powered...........................................77.05
+Temporary certificate of inspection.............................71.01-15
 Test. (See Inspection)
 Tiller. (See Rudder)
 Toilet space. (See Washroom)
@@ -11283,8 +11100,7 @@ Tonnage opening:
 Considered closed for carbon dioxide extinguishing calculations 
                                                            76.15-5(c)(2)
 Shifting boards.................................................72.05-35
-Trim joiner
-                                                                72.05-15
+Trim joiner.....................................................72.05-15
 Tunnel:
 Access through bulkheads. (See Bulkhead)
 
@@ -11292,15 +11108,12 @@ Access through bulkheads. (See Bulkhead)
 
                                  U
 
-Underwriters' Laboratories, Inc
-                                                          76.10-10(n)(2)
-United States flag vessels
-                                                                 70.05-1
+Underwriters' Laboratories, Inc...........................76.10-10(n)(2)
+United States flag vessels.......................................70.05-1
 
                                  V
 
-Validity, period of, for certificate of inspection
-                                                                71.01-10
+Validity, period of, for certificate of inspection..............71.01-10
 Valve. (See also piping):
 Fire detecting systems:
 Automatic sprinkling..................................76.25-25, 76.25-30
@@ -11313,11 +11126,9 @@ Foam..................................................76.17-10, 76.17-15
 Manual sprinkling.....................................76.23-15, 76.23-20
 In bulkheads. (See Bulkhead)
 Testing, for subdivision.........................................78.17-5
-Vehicles in enclosed location, operation of
-                                                                   78.83
+Vehicles in enclosed location, operation of........................78.83
 Special operating conditions.....................................78.83-1
-Vehicles, spaces specially suitable for
-                                                                 70.10-1
+Vehicles, spaces specially suitable for..........................70.10-1
 Vehicular space. (See also Cargo space):
 Chains or barriers required.....................................72.40-15
 On ferries.........................................................78.40
@@ -11331,15 +11142,11 @@ General............................................................72.15
 Insulation for ducts............................................72.05-40
 Plans displayed....................................................78.45
 Stopping of, when carbon dioxide extinguishing system used......76.15-35
-Vents in doors
-                                                                72.05-25
-Vents opening into crew accommodations
-                                                                72.15-20
-Ventilation for closed spaces
-                                                                72.15-15
+Vents in doors..................................................72.05-25
+Vents opening into crew accommodations..........................72.15-20
+Ventilation for closed spaces...................................72.15-15
 Verification of vessel compliance with applicable stability 
-requirements
-                                                                78.17-22
+requirements....................................................78.17-22
 Vessel:
 Definition of....................................................70.10-1
 Foreign..........................................................70.05-3
@@ -11354,23 +11161,16 @@ Public.....................................................70.05-1(a)(3)
 Subject to regulations.............................................70.05
 United States flag...............................................70.05-1
 U.S. Maritime Administration...............................70.05-1(a)(3)
-Verification of compliance with stability requirements
-                                                                78.17-22
-Vessels contracted for
-                                                              70.05-5(a)
-Vessels for ocean or unlimited coastwise routes
-                                                                 70.05-7
-Visibility from navigation bridge
-                                                                   72.04
+Verification of compliance with stability requirements..........78.17-22
+Vessels contracted for........................................70.05-5(a)
+Vessels for ocean or unlimited coastwise routes..................70.05-7
+Visibility from navigation bridge..................................72.04
 
 [[Page 135]]
 
-Voice tube
-                                                                   77.05
-Void spaces
-                                                             72.05-10(1)
-Voyage records
-                                                                   78.07
+Voice tube.........................................................77.05
+Void spaces..................................................72.05-10(1)
+Voyage records.....................................................78.07
 
                                  W
 
@@ -11380,8 +11180,7 @@ Crew hospital...................................................72.20-35
 General requirements............................................72.20-25
 Passenger accommodations of excursion boats, ferry boats, and 
 barges..........................................................72.25-15
-Watchmen
-                                                                78.30-15
+Watchmen........................................................78.30-15
 Water:
 Availability for fire extinguishment.............................76.10-3
 Water spray extinguishing system:
@@ -11398,14 +11197,12 @@ Power operated substituted for magnetically controlled doors
                                                       72.05-25(b)(9)(ii)
 Prohibited location for access. (See Bulkhead)
 To machinery space or bunker. (See Bulkhead)
-Weather deck, access to
-                                                                72.10-45
+Weather deck, access to.........................................72.10-45
 Well, in double bottom. (See Double bottom)
 Whistle:
 Testing............................................................78.17
 Unnecessary whistling prohibited...................................78.23
-Window, fire protection
-                                                                72.05-30
+Window, fire protection.........................................72.05-30
 Wire inserted glass:
 In doors........................................................72.05-25
 In windows and airports.........................................72.05-30
@@ -11418,8 +11215,7 @@ Hybrid..........................................................78.36-25
 Shipboard inspections...........................................78.36-20
 Shipboard stowage...............................................78.36-15
 Use.............................................................78.36-10
-Work space, defined
-                                                              72.05-5(j)
+Work space, defined...........................................72.05-5(j)
 
                                  Z
 
@@ -11436,7 +11232,6 @@ Horizontal. (See Horizontal zone)
 [[Page 136]]
 
 Main vertical. (See Main vertical zone)
-
 
 [[Page 137]]
 
@@ -11463,7 +11258,7 @@ which is published separately and revised annually.
 
             Material Approved for Incorporation by Reference
 
-                     (Revised as of October 1, 2006)
+                     (Revised as of October 1, 2008)
 
   The Director of the Federal Register has approved under 5 U.S.C. 
 552(a) and 1 CFR part 51 the incorporation by reference of the following 
@@ -11603,7 +11398,7 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
 
 <R04>
 
-                     (Revised as of October 1, 2007)
+                     (Revised as of October 1, 2008)
 
                       Title 1--General Provisions
 
@@ -11623,23 +11418,28 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 (200--299)
             Subtitle B--Federal Agency Regulations for Grants and 
                 Agreements
-       III  Department of Health and Human Services (Parts 300--
+       III  Department of Health and Human Services (Parts 300-- 
                 399)
         VI  Department of State (Parts 600--699)
       VIII  Department of Veterans Affairs (Parts 800--899)
         IX  Department of Energy (Parts 900--999)
         XI  Department of Defense (Parts 1100--1199)
+       XII  Department of Transportation (Parts 1200--1299)
        XIV  Department of the Interior (Parts 1400--1499)
         XV  Environmental Protection Agency (Parts 1500--1599)
      XVIII  National Aeronautics and Space Administration (Parts 
                 1880--1899)
       XXII  Corporation for National and Community Service (Parts 
                 2200--2299)
+     XXIII  Social Security Administration (Parts 2300--2399)
+      XXIV  Housing and Urban Development (Parts 2400--2499)
        XXV  National Science Foundation (Parts 2500--2599)
       XXVI  National Archives and Records Administration (Parts 
                 2600--2699)
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
+      XXXI  Institute of Museum and Library Services (Parts 3100--
+                3199)
      XXXII  National Endowment for the Arts (Parts 3200--3299)
     XXXIII  National Endowment for the Humanities (Parts 3300--
                 3399)
@@ -11647,11 +11447,11 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 3599)
     XXXVII  Peace Corps (Parts 3700--3799)
 
+[[Page 142]]
+
                         Title 3--The President
 
          I  Executive Office of the President (Parts 100--199)
-
-[[Page 142]]
 
                            Title 4--Accounts
 
@@ -11682,7 +11482,7 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
       XXIV  Federal Energy Regulatory Commission (Parts 3400--
                 3499)
        XXV  Department of the Interior (Parts 3500--3599)
-      XXVI  Department of Defense (Parts 3600--3699)
+      XXVI  Department of Defense (Parts 3600-- 3699)
     XXVIII  Department of Justice (Parts 3800--3899)
       XXIX  Federal Communications Commission (Parts 3900--3999)
        XXX  Farm Credit System Insurance Corporation (Parts 4000--
@@ -11705,14 +11505,14 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
        LII  Export-Import Bank of the United States (Parts 6200--
                 6299)
       LIII  Department of Education (Parts 6300--6399)
+
+[[Page 143]]
+
        LIV  Environmental Protection Agency (Parts 6400--6499)
         LV  National Endowment for the Arts (Parts 6500--6599)
        LVI  National Endowment for the Humanities (Parts 6600--
                 6699)
       LVII  General Services Administration (Parts 6700--6799)
-
-[[Page 143]]
-
      LVIII  Board of Governors of the Federal Reserve System 
                 (Parts 6800--6899)
        LIX  National Aeronautics and Space Administration (Parts 
@@ -11729,6 +11529,7 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 7600--7699)
      LXVII  Institute of Museum and Library Services (Parts 7700--
                 7799)
+    LXVIII  Commission on Civil Rights (Parts 7800--7899)
       LXIX  Tennessee Valley Authority (Parts 7900--7999)
       LXXI  Consumer Product Safety Commission (Parts 8100--8199)
     LXXIII  Department of Agriculture (Parts 8300--8399)
@@ -11763,15 +11564,15 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 Agriculture (Parts 27--209)
         II  Food and Nutrition Service, Department of Agriculture 
                 (Parts 210--299)
+
+[[Page 144]]
+
        III  Animal and Plant Health Inspection Service, Department 
                 of Agriculture (Parts 300--399)
         IV  Federal Crop Insurance Corporation, Department of 
                 Agriculture (Parts 400--499)
          V  Agricultural Research Service, Department of 
                 Agriculture (Parts 500--599)
-
-[[Page 144]]
-
         VI  Natural Resources Conservation Service, Department of 
                 Agriculture (Parts 600--699)
        VII  Farm Service Agency, Department of Agriculture (Parts 
@@ -11821,15 +11622,15 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
      XXXIV  Cooperative State Research, Education, and Extension 
                 Service, Department of Agriculture (Parts 3400--
                 3499)
+
+[[Page 145]]
+
       XXXV  Rural Housing Service, Department of Agriculture 
                 (Parts 3500--3599)
      XXXVI  National Agricultural Statistics Service, Department 
                 of Agriculture (Parts 3600--3699)
     XXXVII  Economic Research Service, Department of Agriculture 
                 (Parts 3700--3799)
-
-[[Page 145]]
-
    XXXVIII  World Agricultural Outlook Board, Department of 
                 Agriculture (Parts 3800--3899)
        XLI  [Reserved]
@@ -11877,20 +11678,21 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
          I  Comptroller of the Currency, Department of the 
                 Treasury (Parts 1--199)
         II  Federal Reserve System (Parts 200--299)
+
+[[Page 146]]
+
        III  Federal Deposit Insurance Corporation (Parts 300--399)
         IV  Export-Import Bank of the United States (Parts 400--
                 499)
          V  Office of Thrift Supervision, Department of the 
                 Treasury (Parts 500--599)
         VI  Farm Credit Administration (Parts 600--699)
-
-[[Page 146]]
-
        VII  National Credit Union Administration (Parts 700--799)
       VIII  Federal Financing Bank (Parts 800--899)
         IX  Federal Housing Finance Board (Parts 900--999)
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
+       XII  Federal Housing Finance Agency (Parts 1200--1299)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
         XV  Department of the Treasury (Parts 1500--1599)
@@ -11932,6 +11734,9 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 Foreign Trade
          I  Bureau of the Census, Department of Commerce (Parts 
                 30--199)
+
+[[Page 147]]
+
         II  National Institute of Standards and Technology, 
                 Department of Commerce (Parts 200--299)
        III  International Trade Administration, Department of 
@@ -11940,9 +11745,6 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 (Parts 400--499)
        VII  Bureau of Industry and Security, Department of 
                 Commerce (Parts 700--799)
-
-[[Page 147]]
-
       VIII  Bureau of Economic Analysis, Department of Commerce 
                 (Parts 800--899)
         IX  National Oceanic and Atmospheric Administration, 
@@ -11987,14 +11789,15 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
          I  Bureau of Customs and Border Protection, Department of 
                 Homeland Security; Department of the Treasury 
                 (Parts 0--199)
+
+[[Page 148]]
+
         II  United States International Trade Commission (Parts 
                 200--299)
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
         IV  Bureau of Immigration and Customs Enforcement, 
                 Department of Homeland Security (Parts 400--599)
-
-[[Page 148]]
 
                      Title 20--Employees' Benefits
 
@@ -12013,8 +11816,8 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
       VIII  Joint Board for the Enrollment of Actuaries (Parts 
                 900--999)
         IX  Office of the Assistant Secretary for Veterans' 
-                Employment and Training, Department of Labor 
-                (Parts 1000--1099)
+                Employment and Training Service, Department of 
+                Labor (Parts 1000--1099)
 
                        Title 21--Food and Drugs
 
@@ -12043,6 +11846,9 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
       XIII  Millenium Challenge Corporation (Parts 1300--1399)
+
+[[Page 149]]
+
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
@@ -12051,8 +11857,6 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
        XVI  Japan-United States Friendship Commission (Parts 
                 1600--1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
-
-[[Page 149]]
 
                           Title 23--Highways
 
@@ -12074,7 +11878,7 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 Department of Housing and Urban Development (Parts 
                 100--199)
         II  Office of Assistant Secretary for Housing-Federal 
-                Housing Commissioner, Department of Housing and 
+                HousingCommissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
@@ -12101,6 +11905,9 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
         IX  Office of Assistant Secretary for Public and Indian 
                 Housing, Department of Housing and Urban 
                 Development (Parts 900--1699)
+
+[[Page 150]]
+
          X  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Interstate Land Sales 
@@ -12112,8 +11919,6 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 Urban Development (Parts 3200--3899)
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
-
-[[Page 150]]
 
                            Title 25--Indians
 
@@ -12155,6 +11960,9 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
         VI  Offices of Independent Counsel, Department of Justice 
                 (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
+
+[[Page 151]]
+
       VIII  Court Services and Offender Supervision Agency for the 
                 District of Columbia (Parts 800--899)
         IX  National Crime Prevention and Privacy Compact Council 
@@ -12168,9 +11976,6 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 0--99)
             Subtitle B--Regulations Relating to Labor
          I  National Labor Relations Board (Parts 100--199)
-
-[[Page 151]]
-
         II  Office of Labor-Management Standards, Department of 
                 Labor (Parts 200--299)
        III  National Railroad Adjustment Board (Parts 300--399)
@@ -12213,6 +12018,9 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
 
             Subtitle A--Office of the Secretary of the Treasury 
                 (Parts 0--50)
+
+[[Page 152]]
+
             Subtitle B--Regulations Relating to Money and Finance
          I  Monetary Offices, Department of the Treasury (Parts 
                 51--199)
@@ -12228,9 +12036,6 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 the Treasury (Parts 700--799)
       VIII  Office of International Investment, Department of the 
                 Treasury (Parts 800--899)
-
-[[Page 152]]
-
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
 
@@ -12273,6 +12078,9 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
 
             Subtitle A--Office of the Secretary, Department of 
                 Education (Parts 1--99)
+
+[[Page 153]]
+
             Subtitle B--Regulations of the Offices of the 
                 Department of Education
          I  Office for Civil Rights, Department of Education 
@@ -12285,11 +12093,10 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 of Education (Parts 400--499)
          V  Office of Bilingual Education and Minority Languages 
                 Affairs, Department of Education (Parts 500--599)
-
-[[Page 153]]
-
         VI  Office of Postsecondary Education, Department of 
                 Education (Parts 600--699)
+       VII  Office of Educational Research and Improvmeent, 
+                Department of Education [Reserved]
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
@@ -12306,6 +12113,7 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 300--399)
         IV  American Battle Monuments Commission (Parts 400--499)
          V  Smithsonian Institution (Parts 500--599)
+        VI  [Reserved]
        VII  Library of Congress (Parts 700--799)
       VIII  Advisory Council on Historic Preservation (Parts 800--
                 899)
@@ -12328,6 +12136,9 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
         II  Copyright Office, Library of Congress (Parts 200--299)
        III  Copyright Royalty Board, Library of Congress (Parts 
                 301--399)
+
+[[Page 154]]
+
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
@@ -12340,9 +12151,7 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                        Title 39--Postal Service
 
          I  United States Postal Service (Parts 1--999)
-       III  Postal Rate Commission (Parts 3000--3099)
-
-[[Page 154]]
+       III  Postal Regulatory Commission (Parts 3000--3099)
 
                   Title 40--Protection of Environment
 
@@ -12370,23 +12179,27 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
+            Chapters 62--100 [Reserved]
             Subtitle C--Federal Property Management Regulations 
                 System
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
+            Chapters 103--104 [Reserved]
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
        128  Department of Justice (Parts 128-1--128-99)
+
+[[Page 155]]
+
+            Chapters 129--200 [Reserved]
             Subtitle D--Other Provisions Relating to Property 
                 Management [Reserved]
             Subtitle E--Federal Information Resources Management 
-                Regulations System
-       201  Federal Information Resources Management Regulation 
-                (Parts 201-1--201-99) [Reserved]
+                Regulations System [Reserved]
             Subtitle F--Federal Travel Regulation System
        300  General (Parts 300-1--300-99)
        301  Temporary Duty (TDY) Travel Allowances (Parts 301-1--
@@ -12396,8 +12209,6 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 Certain Employees (Part 303-1--303-99)
        304  Payment of Travel Expenses from a Non-Federal Source 
                 (Parts 304-1--304-99)
-
-[[Page 155]]
 
                         Title 42--Public Health
 
@@ -12432,6 +12243,9 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
             Subtitle A--Department of Health and Human Services 
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Welfare
+
+[[Page 156]]
+
         II  Office of Family Assistance (Assistance Programs), 
                 Administration for Children and Families, 
                 Department of Health and Human Services (Parts 
@@ -12447,15 +12261,13 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 States, Department of Justice (Parts 500--599)
         VI  National Science Foundation (Parts 600--699)
        VII  Commission on Civil Rights (Parts 700--799)
-      VIII  Office of Personnel Management (Parts 800--899)
+      VIII  Office of Personnel Management (Parts 800--899) 
+                [Reserved]
          X  Office of Community Services, Administration for 
                 Children and Families, Department of Health and 
                 Human Services (Parts 1000--1099)
         XI  National Foundation on the Arts and the Humanities 
                 (Parts 1100--1199)
-
-[[Page 156]]
-
        XII  Corporation for National and Community Service (Parts 
                 1200--1299)
       XIII  Office of Human Development Services, Department of 
@@ -12487,6 +12299,9 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
          I  Federal Communications Commission (Parts 0--199)
         II  Office of Science and Technology Policy and National 
                 Security Council (Parts 200--299)
+
+[[Page 157]]
+
        III  National Telecommunications and Information 
                 Administration, Department of Commerce (Parts 
                 300--399)
@@ -12501,16 +12316,12 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
          4  Department of Agriculture (Parts 400--499)
          5  General Services Administration (Parts 500--599)
          6  Department of State (Parts 600--699)
-         7  United States Agency for International Development 
-                (Parts 700--799)
+         7  Agency for International Development (Parts 700--799)
          8  Department of Veterans Affairs (Parts 800--899)
          9  Department of Energy (Parts 900--999)
         10  Department of the Treasury (Parts 1000--1099)
         12  Department of Transportation (Parts 1200--1299)
         13  Department of Commerce (Parts 1300--1399)
-
-[[Page 157]]
-
         14  Department of the Interior (Parts 1400--1499)
         15  Environmental Protection Agency (Parts 1500--1599)
         16  Office of Personnel Management, Federal Employees 
@@ -12521,7 +12332,7 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
         20  Nuclear Regulatory Commission (Parts 2000--2099)
-        21  Office of Personnel Management, Federal Employees' 
+        21  Office of Personnel Management, Federal Employees 
                 Group Life Insurance Federal Acquisition 
                 Regulation (Parts 2100--2199)
         23  Social Security Administration (Parts 2300--2399)
@@ -12534,16 +12345,17 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 Acquisition Regulation (HSAR) (Parts 3000--3099)
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
-        35  [Reserved]
-        44  Federal Emergency Management Agency (Parts 4400--4499)
         51  Department of the Army Acquisition Regulations (Parts 
                 5100--5199)
         52  Department of the Navy Acquisition Regulations (Parts 
                 5200--5299)
         53  Department of the Air Force Federal Acquisition 
-                Regulation Supplement (Parts 5300--5399)
+                Regulation Supplement [Reserved]
         54  Defense Logistics Agency, Department of Defense (Parts 
                 5400--5499)
+
+[[Page 158]]
+
         57  African Development Foundation (Parts 5700--5799)
         61  General Services Administration Board of Contract 
                 Appeals (Parts 6100--6199)
@@ -12564,9 +12376,6 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 (Parts 100--199)
         II  Federal Railroad Administration, Department of 
                 Transportation (Parts 200--299)
-
-[[Page 158]]
-
        III  Federal Motor Carrier Safety Administration, 
                 Department of Transportation (Parts 300--399)
         IV  Coast Guard, Department of Homeland Security (Parts 
@@ -12601,6 +12410,9 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
                 Commerce); Endangered Species Committee 
                 Regulations (Parts 400--499)
          V  Marine Mammal Commission (Parts 500--599)
+
+[[Page 159]]
+
         VI  Fishery Conservation and Management, National Oceanic 
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 600--699)
@@ -12613,7 +12425,7 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 159]]
+[[Page 161]]
 
 
 
@@ -12624,7 +12436,7 @@ UL 19-78 Woven-Jacketed, Rubber-Lined Fire Hose...              76.10-10
 
 <R04>
 
-                     (Revised as of October 1, 2007)
+                     (Revised as of October 1, 2008)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -12634,8 +12446,7 @@ Advanced Research Projects Agency                 32, I
 Advisory Council on Historic Preservation         36, VIII
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
-Agency for International Development, United      22, II
-     States
+Agency for International Development              22, II
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
@@ -12686,7 +12497,7 @@ American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 
-[[Page 160]]
+[[Page 162]]
 
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -12708,7 +12519,7 @@ Central Intelligence Agency                       32, XIX
 Chief Financial Officer, Office of                7, XXX
 Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
-Civil Rights, Commission on                       45, VII
+Civil Rights, Commission on                       5, LXVIII; 45, VII
 Civil Rights, Office for                          34, I
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
@@ -12761,13 +12572,13 @@ Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
 
-[[Page 161]]
+[[Page 163]]
 
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
-  Defense Acquisition Regulations System          48, II
+  Defense Acquisition Regulations System          48, 2
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
@@ -12834,7 +12645,7 @@ Executive Office of the President                 3, I
   National Security Council                       32, XXI; 47, 2
   Presidential Documents                          3
 
-[[Page 162]]
+[[Page 164]]
 
   Science and Technology Policy, Office of        32, XXIV; 47, II
   Trade Representative, Office of the United      15, XX
@@ -12854,7 +12665,6 @@ Federal Crop Insurance Corporation                7, IV
 Federal Deposit Insurance Corporation             5, XXII; 12, III
 Federal Election Commission                       11, I
 Federal Emergency Management Agency               44, I
-  Federal Acquisition Regulation                  48, 44
 Federal Employees Group Life Insurance Federal    48, 21
      Acquisition Regulation
 Federal Employees Health Benefits Acquisition     48, 16
@@ -12866,6 +12676,7 @@ Federal Financing Bank                            12, VIII
 Federal Highway Administration                    23, I, II
 Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
+Federal Housing Finance Agency                    12, XII
 Federal Housing Finance Board                     12, IX
 Federal Labor Relations Authority, and General    5, XIV; 22, XIV
      Counsel of the Federal Labor Relations 
@@ -12909,7 +12720,7 @@ General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
 
-[[Page 163]]
+[[Page 165]]
 
   Federal Management Regulation                   41, 102
   Federal Property Management Regulations         41, 101
@@ -12929,17 +12740,16 @@ Grain Inspection, Packers and Stockyards          7, VIII; 9, II
      Administration
 Harry S. Truman Scholarship Foundation            45, XVIII
 Health and Human Services, Department of          2, III; 5, XLV; 45, 
-                                                  Subtitle A, 2, III
+                                                  Subtitle A,
   Centers for Medicare & Medicaid Services        42, IV
   Child Support Enforcement, Office of            45, III
   Children and Families, Administration for       45, II, III, IV, X
   Community Services, Office of                   45, X
-  Defense Acquisition Regulations System          48, 2
   Family Assistance, Office of                    45, II
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
   Human Development Services, Office of           45, XIII
-  Indian Health Service                           25, V; 42, I
+  Indian Health Service                           25, V
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
@@ -12951,7 +12761,8 @@ Homeland Security, Department of                  6, I
   Immigration and Customs Enforcement Bureau      19, IV
   Immigration and Naturalization                  8, I
   Transportation Security Administration          49, XII
-Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
+Housing and Urban Development, Department of      2, XXIV; 5, LXV; 24, 
+                                                  Subtitle B
   Community Planning and Development, Office of   24, V, VI
        Assistant Secretary for
   Equal Opportunity, Office of Assistant          24, I
@@ -12981,11 +12792,11 @@ Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
      Secretary
 Indian Arts and Crafts Board                      25, II
-Indian Health Service                             25, V; 42, I
+Indian Health Service                             25, V
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
 
-[[Page 164]]
+[[Page 166]]
 
 Information Security Oversight Office, National   32, XX
      Archives and Records Administration
@@ -13065,7 +12876,7 @@ Labor Department                                  5, XLII
   Labor-Management Standards, Office of           29, II, IV
   Mine Safety and Health Administration           30, I
 
-[[Page 165]]
+[[Page 167]]
 
   Occupational Safety and Health Administration   29, XVII
   Public Contracts                                41, 50
@@ -13102,7 +12913,6 @@ National Agricultural Statistics Service          7, XXXVI
 National and Community Service, Corporation for   45, XII, XXV
 National Archives and Records Administration      2, XXVI; 5, LXVI; 36, XII
   Information Security Oversight Office           32, XX
-National Bureau of Standards                      15, II
 National Capital Planning Commission              1, IV
 National Commission for Employment Policy         1, IV
 National Commission on Libraries and Information  45, XVII
@@ -13138,10 +12948,9 @@ National Security Council and Office of Science   47, II
      and Technology Policy
 National Telecommunications and Information       15, XXIII; 47, III
    Administration
-[[Page 166]]
+[[Page 168]]
 
 National Transportation Safety Board              49, VIII
-National Weather Service                          15, IX
 Natural Resources Conservation Service            7, VI
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
@@ -13192,7 +13001,6 @@ Public Health Service                             42, I
 Railroad Retirement Board                         20, II
 Reclamation, Bureau of                            43, I
 Refugee Resettlement, Office of                   45, IV
-Regional Action Planning Commissions              13, V
 Relocation Allowances                             41, 302
 Research and Innovative Technology                49, XI
      Administration
@@ -13210,16 +13018,84 @@ Securities and Exchange Commission                17, II
 Selective Service System                          32, XVI
 Small Business Administration                     2, XXVII; 13, I
 Smithsonian Institution                           36, V
-Social Security Administration                    20, III; 48, 23
+Social Security Administration                    2, XXIII; 20, III; 48, 23
 Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
-
-[[Page 167]]
-
 Special Education and Rehabilitative Services,    34, III
      Office of
 State Department                                  2, VI; 22, I; 28, XI
+
+[[Page 169]]
+
   Federal Acquisition Regulation                  48, 6
 Surface Mining and Reclamation Appeals, Board of  30, III
-Surface Minin
+Surface Mining Reclamation and Enforcement,       30, VII
+     Office of
+Surface Transportation Board                      49, X
+Susquehanna River Basin Commission                18, VIII
+Technology Administration                         15, XI
+Technology Policy, Assistant Secretary for        37, IV
+Technology, Under Secretary for                   37, V
+Tennessee Valley Authority                        5, LXIX; 18, XIII
+Thrift Supervision Office, Department of the      12, V
+     Treasury
+Trade Representative, United States, Office of    15, XX
+Transportation, Department of                     2, XII; 5, L
+  Commercial Space Transportation                 14, III
+  Contract Appeals, Board of                      48, 63
+  Emergency Management and Assistance             44, IV
+  Federal Acquisition Regulation                  48, 12
+  Federal Aviation Administration                 14, I
+  Federal Highway Administration                  23, I, II
+  Federal Motor Carrier Safety Administration     49, III
+  Federal Railroad Administration                 49, II
+  Federal Transit Administration                  49, VI
+  Maritime Administration                         46, II
+  National Highway Traffic Safety Administration  23, II, III; 49, V
+  Pipeline and Hazardous Materials Safety         49, I
+       Administration
+  Saint Lawrence Seaway Development Corporation   33, IV
+  Secretary of Transportation, Office of          14, II; 49, Subtitle A
+  Surface Transportation Board                    49, X
+  Transportation Statistics Bureau                49, XI
+Transportation, Office of                         7, XXXIII
+Transportation Security Administration            49, XII
+Transportation Statistics Bureau                  49, XI
+Travel Allowances, Temporary Duty (TDY)           41, 301
+Treasury Department                               5, XXI; 12, XV; 17, IV; 
+                                                  31, IX
+  Alcohol and Tobacco Tax and Trade Bureau        27, I
+  Community Development Financial Institutions    12, XVIII
+       Fund
+  Comptroller of the Currency                     12, I
+  Customs and Border Protection Bureau            19, I
+  Engraving and Printing, Bureau of               31, VI
+  Federal Acquisition Regulation                  48, 10
+  Federal Claims Collection Standards             31, IX
+  Federal Law Enforcement Training Center         31, VII
+  Fiscal Service                                  31, II
+  Foreign Assets Control, Office of               31, V
+  Internal Revenue Service                        26, I
+  International Investment, Office of             31, VIII
+  Monetary Offices                                31, I
+  Secret Service                                  31, IV
+  Secretary of the Treasury, Office of            31, Subtitle A
+  Thrift Supervision, Office of                   12, V
+Truman, Harry S. Scholarship Foundation           45, XVIII
+United States and Canada, International Joint     22, IV
+     Commission
+United States and Mexico, International Boundary  22, XI
+     and Water Commission, United States Section
+Utah Reclamation Mitigation and Conservation      43, III
+     Commission
+Veterans Affairs Department                       2, VIII; 38, I
+  Federal Acquisition Regulation                  48, 8
+Veterans' Employment and Training Service,        41, 61; 20, IX
+     Office of the Assistant Secretary for
+Vice President of the United States, Office of    32, XXVIII
+Vocational and Adult Education, Office of         34, IV
+Wage and Hour Division                            29, V
+Water Resources Council                           18, VI
+Workers' Compensation Programs, Office of         20, I
+World Agricultural Outlook Board     
 </pre></body></html>
