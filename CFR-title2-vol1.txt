@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 2 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2008 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2009 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -11,7 +11,7 @@
 <R02>
           2
 
-                         Revised as of January 1, 2008
+                         Revised as of January 1, 2009
 
 
           Grants and Agreements
@@ -24,7 +24,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of January 1, 2008
+          As of January 1, 2009
           With Ancillaries
                     Published by
                     Office of the Federal Register
@@ -90,11 +90,11 @@ ________________________
 
 <R03>
                                                                     Page
-  Explanation.................................................       v
+  Explanation.................................................      vi
 
   Title 2:
-    Subtitle A--Office of Management and Budget Guidance for 
-      Grants and Agreements                                          1
+          Subtitle A--Office of Management and Budget Guidance 
+          for Grants and Agreements                                  1
           Chapter I--Office of Management and Budget 
           Governmentwide Guidance for Grants and Agreements          9
           Chapter II--Office of Management and Budget 
@@ -106,34 +106,37 @@ ________________________
           Chapter VIII--Department of Veterans Affairs             187
           Chapter IX--Department of Energy                         195
           Chapter XI--Department of Defense                        199
-          Chapter XIII--Department of Commerce                     205
-          Chapter XIV--Department of the Interior                  211
-          Chapter XV--Environmental Protection Agency              217
+          Chapter XII--Department of Transportation                205
+          Chapter XIII--Department of Commerce                     209
+          Chapter XIV--Department of the Interior                  215
+          Chapter XV--Environmental Protection Agency              221
           Chapter XVIII--National Aeronautics and Space 
-          Administration                                           227
+          Administration                                           231
           Chapter XXII--Corporation for National and Community 
-          Service                                                  231
-          Chapter XXIII--Social Security Administration            235
+          Service                                                  235
 
 [[Page iv]]
 
+          Chapter XXIII--Social Security Administration            239
           Chapter XXIV--Department of Housing and Urban 
-          Development                                              239
-          Chapter XXV--National Science Foundation                 249
+          Development                                              243
+          Chapter XXV--National Science Foundation                 253
           Chapter XXVI--National Archives and Records 
-          Administraion                                            253
-          Chapter XXVII--Small Business Administration             257
-          Chapter XXVIII--Department of Justice                    263
-          Chapter XXXII--National Endowment for the Arts           267
+          Administration                                           257
+          Chapter XXVII--Small Business Administration             261
+          Chapter XXVIII--Department of Justice                    267
+          Chapter XXXI--Institute of Museum and Library 
+          Services                                                 271
+          Chapter XXXII--National Endowment for the Arts           275
           Chapter XXXIII--National Endowment for the 
-          Humanities                                               271
+          Humanities                                               279
           Chapter XXXV--Export-Import Bank of the United 
-          States                                                   275
-          Chapter XXXVII--Peace Corps                              279
+          States                                                   283
+          Chapter XXXVII--Peace Corps                              287
   Finding Aids:
-      Table of CFR Titles and Chapters........................     285
-      Alphabetical List of Agencies Appearing in the CFR......     303
-      List of CFR Sections Affected...........................     313
+      Table of CFR Titles and Chapters........................     293
+      Alphabetical List of Agencies Appearing in the CFR......     313
+      List of CFR Sections Affected...........................     323
 
 [[Page v]]
 
@@ -189,7 +192,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2008), consult the ``List of CFR 
+revision date (in this case, January 1, 2009), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -255,8 +258,6 @@ necessary to afford fairness and uniformity in the administrative
 process.
     (c) The incorporating document is drafted and submitted for 
 publication in accordance with 1 CFR part 51.
-    Properly approved incorporations by reference in this volume are 
-listed in the Finding Aids at the end of this volume.
     What if the material incorporated by reference cannot be found? If 
 you have any problem locating or obtaining a copy of material listed in 
 the Finding Aids of this volume as an approved incorporation by 
@@ -328,7 +329,7 @@ register. The NARA site also contains links to GPO Access.
     Raymond A. Mosley,
     Director,
     Office of the Federal Register.
-    January 1, 2008.
+    January 1, 2009.
 
 
 
@@ -347,11 +348,11 @@ volume is comprised of Subtitle A--Office of Management and Budget
 Guidance for Grants and Agreements and Subtitle B--Federal Agency 
 Regulations for Grants and Agreements. The contents of this volume 
 represents all current regulations codified under this title of the CFR 
-as of January 1, 2008.
+as of January 1, 2009.
 
-    For this volume, Susannah C. Hurley and Moja N. Mwaniki were Chief 
-Editors. The Code of Federal Regulations publication program is under 
-the direction of Michael L. White, assisted by Ann Worley.
+    For this volume, Susannah C. Hurley was Chief Editor. The Code of 
+Federal Regulations publication program is under the direction of 
+Michael L. White, assisted by Ann Worley.
 
 
 [[Page 1]]
@@ -364,10 +365,11 @@ the direction of Michael L. White, assisted by Ann Worley.
 <R02>
 
   --------------------------------------------------------------------
-                                                                    Part
 
   SUBTITLE A--Office of Management and Budget Guidance for Grants and 
                                 Agreements
+
+                                                                    Part
 
 chapter i--Office of Management and Budget Governmentwide 
   Guidance for Grants and Agreements........................         175
@@ -375,7 +377,7 @@ chapter i--Office of Management and Budget Governmentwide
 chapter ii--Office of Management and Budget Circulars and 
   Guidance..................................................         215
 
-    SUBTITLE B--Federal Agency Regulations for Grants and Agreements 
+    SUBTITLE B--Federal Agency Regulations for Grants and Agreements
 
 chapter iii--Department of Health and Human Services........         376
 
@@ -387,9 +389,11 @@ chapter ix--Department of Energy............................         901
 
 chapter xi--Department of Defense...........................        1125
 
+chapter xii--Department of Transportation...................        1200
+
 chapter xiii--Department of Commerce........................        1326
 
-chapter xiiii--Department of the Interior...................        1400
+chapter xiv--Department of the Interior.....................        1400
 
 chapter xv--Environmental Protection Agency.................        1532
 
@@ -412,6 +416,8 @@ chapter xxvii--Small Business Administration................        2700
 
 chapter xxviii--Department of Justice.......................        2867
 
+chapter xxxi--Institute of Museum and Library Services......        3185
+
 chapter xxxii--National Endowment for the Arts..............        3254
 
 chapter xxxiii--National Endowment for the Humanities.......        3369
@@ -433,7 +439,9 @@ chapter xxxvii--Peace Corps.................................        3700
 
 
 <R03>
-PART 1_ABOUT TITLE 2 OF THE CODE OF FEDERAL REGULATIONS AND SUBTITLE A--Table of Contents
+PART 1_ABOUT TITLE 2 OF THE CODE OF FEDERAL REGULATIONS AND SUBTITLE A--Table 
+
+of Contents
 
 <R05>
 
@@ -547,7 +555,7 @@ agreements.
     (b) Cost principles in parts 220, 225 and 230 of this subtitle apply 
 to procurement contracts, as well as to financial assistance, although 
 those principles are implemented for procurement contracts through the 
-Federal Acquisition Regulation in Title 48 of the CFR, rather than 
+Federal Acquisition Regulation in title 48 of the CFR, rather than 
 through Federal agency regulations on grants and agreements in this 
 title.
 
@@ -673,21 +681,15 @@ with the agency's implementation of the guidance.
 
   --------------------------------------------------------------------
 Part                                                                Page
-100-174
-
-[Reserved]
+100-174         [Reserved]
 
 175             Award term for trafficking in persons.......          11
-176-179
-
-[Reserved]
+176-179         [Reserved]
 
 180             OMB guidelines to agencies on governmentwide 
                     debarment and suspension 
                     (nonprocurement)........................          13
-181-199
-
-[Reserved]
+181-199         [Reserved]
 
 [[Page 11]]
 
@@ -695,9 +697,7 @@ Part                                                                Page
 <R03>
 
 
-<R05>
-
-                        PARTS 100	174 [RESERVED]
+                        PARTS 100-174 [RESERVED]
 
 
 <R03>
@@ -917,11 +917,13 @@ Islands; and
     (5) The United States Virgin Islands, Guam, American Samoa, and a 
 territory or possession of the United States.
 
-                        PARTS 176	179 [RESERVED]
+                        PARTS 176-179 [RESERVED]
 
 
 <R03>
-PART 180_OMB GUIDELINES TO AGENCIES ON GOVERNMENTWIDE DEBARMENT AND SUSPENSION (NONPROCUREMENT)--Table of Contents
+PART 180_OMB GUIDELINES TO AGENCIES ON GOVERNMENTWIDE DEBARMENT AND SUSPENSION 
+
+(NONPROCUREMENT)--Table of Contents
 
 <R05>
 
@@ -1207,7 +1209,9 @@ of the guidance must issue regulations consistent with those subparts.
 
 
 <R05>
-Sec. 180.25  What must a Federal agency address in its implementation of the guidance?
+Sec. 180.25  What must a Federal agency address in its implementation of the 
+
+guidance?
 
     Each Federal agency implementing regulation:
     (a) Must establish policies and procedures for that agency's 
@@ -1289,7 +1293,9 @@ Suspension, and issues the final guidelines.
 
 
 <R05>
-Sec. 180.45  Do these guidelines cover persons who are disqualified, as well as those who are excluded from nonprocurement transactions?
+Sec. 180.45  Do these guidelines cover persons who are disqualified, as well 
+
+as those who are excluded from nonprocurement transactions?
 
     A Federal agency may add a subpart covering disqualifications to its 
 regulation implementing these guidelines, but the guidelines in subparts 
@@ -1424,7 +1430,9 @@ transactions with non-Federal parties.
 
 
 <R05>
-Sec. 180.125  What is the purpose of the nonprocurement debarment and suspension system?
+Sec. 180.125  What is the purpose of the nonprocurement debarment and 
+
+suspension system?
 
     (a) To protect the public interest, the Federal Government ensures 
 the integrity of Federal programs by conducting business only with 
@@ -1438,7 +1446,9 @@ person or commodity for the purposes of punishment.
 
 
 <R05>
-Sec. 180.130  How does an exclusion restrict a person's involvement in covered transactions?
+Sec. 180.130  How does an exclusion restrict a person's involvement in covered 
+
+transactions?
 
     With the exceptions stated in Sec. Sec. 180.135, 315, and 420, a 
 person who is excluded by any Federal agency may not:
@@ -1449,7 +1459,9 @@ covered transactions.
 
 
 <R05>
-Sec. 180.135  May a Federal agency grant an exception to let an excluded person participate in a covered transaction?
+Sec. 180.135  May a Federal agency grant an exception to let an excluded 
+
+person participate in a covered transaction?
 
     (a) A Federal agency head or designee may grant an exception 
 permitting an excluded person to participate in a particular covered 
@@ -1464,7 +1476,9 @@ agency.
 
 
 <R05>
-Sec. 180.140  Does an exclusion under the nonprocurement system affect a person's eligibility for Federal procurement contracts?
+Sec. 180.140  Does an exclusion under the nonprocurement system affect a 
+
+person's eligibility for Federal procurement contracts?
 
     If any Federal agency excludes a person under Executive Order 12549 
 or Executive Order 12689, on or after August 25, 1995, the excluded 
@@ -1474,7 +1488,9 @@ Federal procurement transactions.
 
 
 <R05>
-Sec. 180.145  Does an exclusion under the Federal procurement system affect a person's eligibility to participate in nonprocurement transactions?
+Sec. 180.145  Does an exclusion under the Federal procurement system affect a 
+
+person's eligibility to participate in nonprocurement transactions?
 
     If any Federal agency excludes a person under the FAR on or after 
 August 25, 1995, the excluded person is also ineligible to participate 
@@ -1520,7 +1536,9 @@ another person.
 
 
 <R05>
-Sec. 180.205  Why is it important if a particular transaction is a covered transaction?
+Sec. 180.205  Why is it important if a particular transaction is a covered 
+
+transaction?
 
     The importance of whether a transaction is a covered transaction 
 depends upon who you are.
@@ -1621,7 +1639,9 @@ $25,000.
 
 
 <R05>
-Sec. 180.225  How do I know if a transaction in which I may participate is a covered transaction?
+Sec. 180.225  How do I know if a transaction in which I may participate is a 
+
+covered transaction?
 
     As a participant in a transaction, you will know that it is a 
 covered transaction because the Federal agency regulations governing the 
@@ -1636,7 +1656,9 @@ Subpart C_Responsibilities of Participants Regarding Transactions Doing
 
 
 <R05>
-Sec. 180.300  What must I do before I enter into a covered transaction with another person at the next lower tier?
+Sec. 180.300  What must I do before I enter into a covered transaction with 
+
+another person at the next lower tier?
 
     When you enter into a covered transaction with another person at the 
 next lower tier, you must verify that the person with whom you intend to 
@@ -1653,7 +1675,9 @@ that person.
 
 
 <R05>
-Sec. 180.305  May I enter into a covered transaction with an excluded or disqualified person?
+Sec. 180.305  May I enter into a covered transaction with an excluded or 
+
+disqualified person?
 
     (a) You as a participant may not enter into a covered transaction 
 with an excluded person, unless the Federal agency responsible for the 
@@ -1665,7 +1689,9 @@ regulation.
 
 
 <R05>
-Sec. 180.310  What must I do if a Federal agency excludes a person with whom I am already doing business in a covered transaction?
+Sec. 180.310  What must I do if a Federal agency excludes a person with whom I 
+
+am already doing business in a covered transaction?
 
     (a) You as a participant may continue covered transactions with an 
 excluded person if the transactions were in existence when the agency 
@@ -1681,23 +1707,27 @@ agency responsible for the transaction grants an exception under Sec.
 
 
 <R05>
-Sec. 180.315  May I use the services of an excluded person as a principal under a covered transaction?
+Sec. 180.315  May I use the services of an excluded person as a principal 
+
+under a covered transaction?
 
     (a) You as a participant may continue to use the services of an 
 excluded person as a principal under a covered transaction if you were 
 using the services of that person in the transaction before the person 
-was excluded. However, you are not required to continue using that 
-person's services as a principal. You should make a decision about 
-whether to discontinue that person's services only after a thorough 
-review to ensure that the action is proper and appropriate.
-
+was excluded.
+    However, you are not required to continue using that person's 
+services as a principal.You should make a decision about whether to 
+discontinue that person's services only after a thorough review to 
+ensure that the action is proper and appropriate.
     (b) You may not begin to use the services of an excluded person as a 
 principal under a covered transaction unless the Federal agency 
 responsible for the transaction grants an exception under Sec. 180.135.
 
 
 <R05>
-Sec. 180.320  Must I verify that principals of my covered transactions are eligible to participate?
+Sec. 180.320  Must I verify that principals of my covered transactions are 
+
+eligible to participate?
 
     Yes, you as a participant are responsible for determining whether 
 any of your principals of your covered transactions is excluded or 
@@ -1708,7 +1738,9 @@ but you are not required to, check the EPLS.
 
 
 <R05>
-Sec. 180.325  What happens if I do business with an excluded person in a covered transaction?
+Sec. 180.325  What happens if I do business with an excluded person in a 
+
+covered transaction?
 
     If as a participant you knowingly do business with an excluded 
 person, the Federal agency responsible for your transaction may disallow 
@@ -1717,7 +1749,9 @@ debar or suspend you, or take other remedies as appropriate.
 
 
 <R05>
-Sec. 180.330  What requirements must I pass down to persons at lower tiers with whom I intend to do business?
+Sec. 180.330  What requirements must I pass down to persons at lower tiers 
+
+with whom I intend to do business?
 
     Before entering into a covered transaction with a participant at the 
 next lower tier, you must require that participant to--
@@ -1737,7 +1771,9 @@ lower tier.
 
 
 <R05>
-Sec. 180.335  What information must I provide before entering into a covered transaction with a Federal agency?
+Sec. 180.335  What information must I provide before entering into a covered 
+
+transaction with a Federal agency?
 
     Before you enter into a covered transaction at the primary tier, you 
 as the participant must notify the Federal agency office that is 
@@ -1755,7 +1791,9 @@ local) terminated within the preceding three years for cause or default.
 
 
 <R05>
-Sec. 180.340  If I disclose unfavorable information required under Sec. 180.335, will I be prevented from participating in the transaction?
+Sec. 180.340  If I disclose unfavorable information required under Sec. 
+
+180.335, will I be prevented from participating in the transaction?
 
     As a primary tier participant, your disclosure of unfavorable 
 information about yourself or a principal under Sec. 180.335 will not 
@@ -1767,7 +1805,9 @@ elect to submit with the disclosed information.
 
 
 <R05>
-Sec. 180.345  What happens if I fail to disclose information required under Sec. 180.335?
+Sec. 180.345  What happens if I fail to disclose information required under 
+
+Sec. 180.335?
 
     If a Federal agency later determines that you failed to disclose 
 information under Sec. 180.335 that you knew at the time you entered 
@@ -1779,7 +1819,9 @@ debarment.
 
 
 <R05>
-Sec. 180.350  What must I do if I learn of information required under Sec. 180.335 after entering into a covered transaction with a Federal agency?
+Sec. 180.350  What must I do if I learn of information required under Sec. 
+
+180.335 after entering into a covered transaction with a Federal agency?
 
     At any time after you enter into a covered transaction, you must 
 give immediate written notice to the Federal agency office with which 
@@ -1793,7 +1835,9 @@ the transaction now meet any of the criteria in Sec. 180.335.
 
 
 <R05>
-Sec. 180.355  What information must I provide to a higher tier participant before entering into a covered transaction with that participant?
+Sec. 180.355  What information must I provide to a higher tier participant 
+
+before entering into a covered transaction with that participant?
 
     Before you enter into a covered transaction with a person at the 
 next higher tier, you as a lower tier participant must notify that 
@@ -1802,7 +1846,9 @@ excluded or disqualified.
 
 
 <R05>
-Sec. 180.360  What happens if I fail to disclose information required under Sec. 180.355?
+Sec. 180.360  What happens if I fail to disclose information required under 
+
+Sec. 180.355?
 
     If a Federal agency later determines that you failed to tell the 
 person at the higher tier that you were excluded or disqualified at the 
@@ -1812,7 +1858,11 @@ debarment.
 
 
 <R05>
-Sec. 180.365  What must I do if I learn of information required under Sec. 180.355 after entering into a covered transaction with a higher tier participant?
+Sec. 180.365  What must I do if I learn of information required under Sec. 
+
+180.355 after entering into a covered transaction with a higher tier 
+
+participant?
 
     At any time after you enter into a lower tier covered transaction 
 with a person at a higher tier, you must provide immediate written 
@@ -1832,7 +1882,9 @@ the transaction now meet any of the criteria in Sec. 180.355.
 
 
 <R05>
-Sec. 180.400  May I enter into a transaction with an excluded or disqualified person?
+Sec. 180.400  May I enter into a transaction with an excluded or disqualified 
+
+person?
 
     (a) You as a Federal agency official may not enter into a covered 
 transaction with an excluded person unless you obtain an exception under 
@@ -1844,7 +1896,9 @@ basis for the person's disqualification.
 
 
 <R05>
-Sec. 180.405  May I enter into a covered transaction with a participant if a principal of the transaction is excluded?
+Sec. 180.405  May I enter into a covered transaction with a participant if a 
+
+principal of the transaction is excluded?
 
     As a Federal agency official, you may not enter into a covered 
 transaction with a participant if you know that a principal of the 
@@ -1853,7 +1907,9 @@ transaction is excluded, unless you obtain an exception under Sec.
 
 
 <R05>
-Sec. 180.410  May I approve a participant's use of the services of an excluded person?
+Sec. 180.410  May I approve a participant's use of the services of an excluded 
+
+person?
 
     After entering into a covered transaction with a participant, you as 
 a Federal agency official may not approve a participant's use of an 
@@ -1862,7 +1918,9 @@ an exception under Sec. 180.135.
 
 
 <R05>
-Sec. 180.415  What must I do if a Federal agency excludes the participant or a principal after I enter into a covered transaction?
+Sec. 180.415  What must I do if a Federal agency excludes the participant or a 
+
+principal after I enter into a covered transaction?
 
     (a) You as a Federal agency official may continue covered 
 transactions with an excluded person, or under which an excluded person 
@@ -1878,7 +1936,9 @@ Sec. 180.135.
 
 
 <R05>
-Sec. 180.420  May I approve a transaction with an excluded or disqualified person at a lower tier?
+Sec. 180.420  May I approve a transaction with an excluded or disqualified 
+
+person at a lower tier?
 
     If a transaction at a lower tier is subject to your approval, you as 
 a Federal agency official may not approve--
@@ -1924,13 +1984,15 @@ Sec. 180.435  What must I require of a primary tier participant?
 primary tier covered transaction to--
     (a) Comply with subpart C of this part as a condition of 
 participation in the transaction; and
-    (b) Communicate the requirement to comply with Subpart C of this 
+    (b) Communicate the requirement to comply with subpart C of this 
 part to persons at the next lower tier with whom the primary tier 
 participant enters into covered transactions.
 
 
 <R05>
-Sec. 180.440  What action may I take if a primary tier participant knowingly does business with an excluded or disqualified person?
+Sec. 180.440  What action may I take if a primary tier participant knowingly 
+
+does business with an excluded or disqualified person?
 
     If a participant knowingly does business with an excluded or 
 disqualified person, you as a Federal agency official may refer the 
@@ -1940,7 +2002,9 @@ take any other appropriate remedy.
 
 
 <R05>
-Sec. 180.445  What action may I take if a primary tier participant fails to disclose the information required under Sec. 180.335?
+Sec. 180.445  What action may I take if a primary tier participant fails to 
+
+disclose the information required under Sec. 180.335?
 
     If you as a Federal agency official determine that a participant 
 failed to disclose information, as required by Sec. 180.335, at the 
@@ -1952,7 +2016,9 @@ debarment.
 
 
 <R05>
-Sec. 180.450  What action may I take if a lower tier participant fails to disclose the information required under Sec. 180.355 to the next higher tier?
+Sec. 180.450  What action may I take if a lower tier participant fails to 
+
+disclose the information required under Sec. 180.355 to the next higher tier?
 
     If you as a Federal agency official determine that a lower tier 
 participant failed to disclose information, as required by Sec. 
@@ -2106,7 +2172,9 @@ Sec. 180.605  How does suspension differ from debarment?
 
 
 <R05>
-Sec. 180.610  What procedures does a Federal agency use in suspension and debarment actions?
+Sec. 180.610  What procedures does a Federal agency use in suspension and 
+
+debarment actions?
 
     In deciding whether to suspend or debar you, a Federal agency 
 handles the actions as informally as practicable, consistent with 
@@ -2121,7 +2189,9 @@ this subpart and Subpart H of this part.
 
 
 <R05>
-Sec. 180.615  How does a Federal agency notify a person of a suspension or debarment action?
+Sec. 180.615  How does a Federal agency notify a person of a suspension or 
+
+debarment action?
 
     (a) The suspending or debarring official sends a written notice to 
 the last known street address, facsimile number, or e-mail address of--
@@ -2152,15 +2222,21 @@ covered transactions, unless the suspension or debarment decision is
 limited--
     (1) By its terms to one or more specifically identified individuals, 
 divisions, or other organizational elements; or
+
     (2) To specific types of transactions.
+
     (b) Any affiliate of a participant may be included in a suspension 
 or debarment action if the suspending or debarring official--
+
     (1) Officially names the affiliate in the notice; and
+
     (2) Gives the affiliate an opportunity to contest the action.
 
 
 <R05>
-Sec. 180.630  May a Federal agency impute the conduct of one person to another?
+Sec. 180.630  May a Federal agency impute the conduct of one person to 
+
+another?
 
     For purposes of actions taken under this part, a Federal agency may 
 impute conduct as follows:
@@ -2208,7 +2284,9 @@ governmentwide effect.
 
 
 <R05>
-Sec. 180.645  Do other Federal agencies know if an agency agrees to a voluntary exclusion?
+Sec. 180.645  Do other Federal agencies know if an agency agrees to a 
+
+voluntary exclusion?
 
     (a) Yes, the Federal agency agreeing to the voluntary exclusion 
 enters information about it into the EPLS.
@@ -2235,7 +2313,9 @@ debarment listed under Sec. 180.800(b) through (d); and
 
 
 <R05>
-Sec. 180.705  What does the suspending official consider in issuing a suspension?
+Sec. 180.705  What does the suspending official consider in issuing a 
+
+suspension?
 
     (a) In determining the adequacy of the evidence to support the 
 suspension, the suspending official considers how much information is 
@@ -2266,7 +2346,9 @@ decision to suspend.
 
 
 <R05>
-Sec. 180.715  What notice does the suspending official give me if I am suspended?
+Sec. 180.715  What notice does the suspending official give me if I am 
+
+suspended?
 
     After deciding to suspend you, the suspending official promptly 
 sends you a Notice of Suspension advising you--
@@ -2324,9 +2406,9 @@ days after the agency sends it if the e-mail is undeliverable.
 
 
 <R05>
-Sec. 180.730  What information must I provide to the suspending
+Sec. 180.730  What information must I provide to the suspending official if I 
 
-official if I contest the suspension?
+contest the suspension?
 
     (a) In addition to any information and argument in opposition, as a 
 respondent your submission to the suspending official must identify--
@@ -2347,7 +2429,7 @@ criminal, civil or administrative action against you, as appropriate.
 
 
 <R05>
-Sec. 180.735  Under what conditions do I get an additional opportunity to
+Sec. 180.735  Under what conditions do I get an additional opportunity to 
 
 challenge the facts on which the suspension is based?
 
@@ -2409,7 +2491,9 @@ it.
 
 
 <R05>
-Sec. 180.750  What does the suspending official consider in deciding whether to continue or terminate my suspension?
+Sec. 180.750  What does the suspending official consider in deciding whether 
+
+to continue or terminate my suspension?
 
     (a) The suspending official bases the decision on all information 
 contained in the official record. The record includes--
@@ -2426,7 +2510,9 @@ erroneous.
 
 
 <R05>
-Sec. 180.755  When will I know whether the suspension is continued or terminated?
+Sec. 180.755  When will I know whether the suspension is continued or 
+
+terminated?
 
     The suspending official must make a written decision whether to 
 continue, modify, or terminate your suspension within 45 days of closing 
@@ -2510,7 +2596,9 @@ affects your present responsibility.
 
 
 <R05>
-Sec. 180.805  What notice does the debarring official give me if I am proposed for debarment?
+Sec. 180.805  What notice does the debarring official give me if I am proposed 
+
+for debarment?
 
     After consideration of the causes in Sec. 180.800, if the debarring 
 official proposes to debar you, the official sends you a Notice of 
@@ -2568,7 +2656,9 @@ days after the agency sends it if the e-mail is undeliverable.
 
 
 <R05>
-Sec. 180.825  What information must I provide to the debarring official if I contest the proposed debarment?
+Sec. 180.825  What information must I provide to the debarring official if I 
+
+contest the proposed debarment?
 
     (a) In addition to any information and argument in opposition, as a 
 respondent your submission to the debarring official must identify--
@@ -2590,7 +2680,9 @@ criminal, civil or administrative action against you, as appropriate.
 
 
 <R05>
-Sec. 180.830  Under what conditions do I get an additional opportunity to challenge the facts on which the proposed debarment is based?
+Sec. 180.830  Under what conditions do I get an additional opportunity to 
+
+challenge the facts on which the proposed debarment is based?
 
     (a) You as a respondent will not have an additional opportunity to 
 challenge the facts if the debarring official determines that--
@@ -2641,7 +2733,9 @@ it.
 
 
 <R05>
-Sec. 180.845  What does the debarring official consider in deciding whether to debar me?
+Sec. 180.845  What does the debarring official consider in deciding whether to 
+
+debar me?
 
     (a) The debarring official may debar you for any of the causes in 
 Sec. 180.800. However, the official need not debar you even if a cause 
@@ -2793,7 +2887,9 @@ grants an exception.
 
 
 <R05>
-Sec. 180.875  May I ask the debarring official to reconsider a decision to debar me?
+Sec. 180.875  May I ask the debarring official to reconsider a decision to 
+
+debar me?
 
     Yes, as a debarred person you may ask the debarring official to 
 reconsider the debarment decision or to reduce the time period or scope 
@@ -2802,7 +2898,9 @@ support it with documentation.
 
 
 <R05>
-Sec. 180.880  What factors may influence the debarring official during reconsideration?
+Sec. 180.880  What factors may influence the debarring official during 
+
+reconsideration?
 
     The debarring official may reduce or terminate your debarment based 
 on--
@@ -2829,7 +2927,7 @@ solely on the basis of the facts and circumstances upon which the
 initial debarment action was based.
     (c) If the debarring official decides that a debarment for an 
 additional period is necessary, the debarring official must follow the 
-applicable procedures in this subpart, and Subpart F of this part, to 
+applicable procedures in this subpart, and subpart F of this part, to 
 extend the debarment.
 
 
@@ -3112,7 +3210,7 @@ to a voluntary exclusion.
 
 [GRAPHIC] [TIFF OMITTED] TR31AU05.000
 
-                        PARTS 181	199 [RESERVED]
+                        PARTS 181-199 [RESERVED]
 
 [[Page 39]]
 
@@ -3125,36 +3223,26 @@ to a voluntary exclusion.
 
   --------------------------------------------------------------------
 Part                                                                Page
-200-214
-
-[Reserved]
+200-214         [Reserved]
 
 215             Uniform administrative requirements for 
                     grants and agreements with institutions 
                     of higher education, hospitals, and 
                     other non-profit organizations (OMB 
                     Circular A-110).........................          41
-216-219
-
-[Reserved]
+216-219         [Reserved]
 
 220             Cost principles for educational institutions 
                     (OMB Circular A-21).....................          70
-221-224
-
-[Reserved]
+221-224         [Reserved]
 
 225             Cost principles for state, local, and Indian 
                     tribal governments (OMB Circular A-87)..         117
-226-229
-
-[Reserved]
+226-229         [Reserved]
 
 230             Cost principles for non-profit organizations 
                     (OMB Circular A-122)....................         146
-231-299
-
-[Reserved]
+231-299         [Reserved]
 
 [[Page 41]]
 
@@ -3162,14 +3250,15 @@ Part                                                                Page
 <R03>
 
 
-<R05>
-
-                        PARTS 200	214 [RESERVED]
+                        PARTS 200-214 [RESERVED]
 
 
 <R03>
-PART 215_UNIFORM ADMINISTRATIVE REQUIREMENTS FOR GRANTS AND AGREEMENTS WITH INSTITUTIONS OF HIGHER EDUCATION, HOSPITALS, AND OTHER NON-PROFIT ORGANIZATIONS (OMB 
-CIRCULAR A	110)--Table of Contents
+PART 215_UNIFORM ADMINISTRATIVE REQUIREMENTS FOR GRANTS AND AGREEMENTS WITH 
+
+INSTITUTIONS OF HIGHER EDUCATION, HOSPITALS, AND OTHER NON-PROFIT 
+
+ORGANIZATIONS (OMB CIRCULAR A-110)--Table of Contents
 
 <R05>
 
@@ -4320,7 +4409,7 @@ costs incurred by institutions of higher education is determined in
 accordance with the provisions of 2 CFR part 220, ``Cost Principles for 
 Educational Institutions (OMB Circular A-21).'' The allowability of 
 costs incurred by hospitals is determined in accordance with the 
-provisions of Appendix E of 45 CFR part 74, ``Principles for Determining 
+provisions of appendix E of 45 CFR part 74, ``Principles for Determining 
 Costs Applicable to Research and Development Under Grants and Contracts 
 with Hospitals.'' The allowability of costs incurred by commercial 
 organizations and those non-profit organizations listed in Attachment C 
@@ -4359,18 +4448,18 @@ grants management requirements. The exemptions would be from:
     (1) The requirements in 2 CFR part 225, ``Cost Principles for State, 
 Local, and Indian Tribal Governments (OMB Circular A-87)'' other than 
 the allocability of costs provisions that are contained in subsection 
-C.3 of Appendix A to that part;
+C.3 of appendix A to that part;
     (2) The requirements in 2 CFR part 220, ``Cost Principles for 
 Educational Institutions (OMB Circular A-21)'' other than the 
 allocability of costs provisions that are contained in paragraph C.4 in 
-section C of the Appendix to that part;
+section C of the appendix to that part;
     (3) The requirements in 2 CFR part 230, ``Cost Principles for Non-
 Profit Organizations (OMB Circular A-122)''
 
 [[Page 56]]
 
 other than the allocability of costs provisions that are in paragraph 
-A.4 in section A of Appendix A to that part;
+A.4 in section A of appendix A to that part;
     (4) The administrative requirements provisions of part 215 (OMB 
 Circular A-110, ``Uniform Administrative Requirements for Grants and 
 Agreements with Institutions of Higher Education, Hospitals, and Other 
@@ -5502,11 +5591,13 @@ regulatory authority other than E.O. 12549.
 
 [69 FR 26281, May 11, 2004, as amended at 70 FR 51879, Aug. 31, 2005]
 
-                        PARTS 216	219 [RESERVED]
+                        PARTS 216-219 [RESERVED]
 
 
 <R03>
-PART 220_COST PRINCIPLES FOR EDUCATIONAL INSTITUTIONS (OMB CIRCULAR A	21)--Table of Contents
+PART 220_COST PRINCIPLES FOR EDUCATIONAL INSTITUTIONS (OMB CIRCULAR A	21)--
+
+Table of Contents
 
 <R05>
 
@@ -9956,19 +10047,21 @@ a21-appx--b.pdf
 Facilities and Administrative (F&A) Rate Proposals is available on the 
 OMB Web site at http://www.whitehouse.gov/omb/grants/a21-appx--c.pdf
 
-                        PARTS 221	224 [RESERVED]
+                        PARTS 221-224 [RESERVED]
 
 
 <R03>
-PART 225_COST PRINCIPLES FOR STATE, LOCAL, AND INDIAN TRIBAL GOVERNMENTS (OMB CIRCULAR A	87)--Table of Contents
+PART 225_COST PRINCIPLES FOR STATE, LOCAL, AND INDIAN TRIBAL GOVERNMENTS (OMB 
+
+CIRCULAR A-87)--Table of Contents
 
 <R05>
 
 
 Sec.
 225.5 Purpose.
-225.10 Authority
-225.15 Background
+225.10 Authority.
+225.15 Background.
 225.20 Policy.
 225.25 Definitions.
 225.30 OMB responsibilities.
@@ -10082,12 +10175,12 @@ Sec. 225.45  Relationship to previous issuance.
 
     (a) The guidance in this part previously was issued as OMB Circular 
 A-87. Appendix A to this part contains the guidance that was in 
-Attachment A (general principles) to the OMB circular; Appendix B 
+Attachment A (general principles) to the OMB circular; appendix B 
 contains the guidance that was in Attachment B (selected items of cost); 
-Appendix C contains the information that was in Attachment C (state/
-local-wide central service cost allocation plans); Appendix D contains 
+appendix C contains the information that was in Attachment C (state/
+local-wide central service cost allocation plans); appendix D contains 
 the guidance that was in Attachment D (public assistance cost allocation 
-plans); and Appendix E contains the guidance that was in Attachment E 
+plans); and appendix E contains the guidance that was in Attachment E 
 (state and local indirect cost rate proposals).
     (b) This part supersedes OMB Circular A-87, as amended May 10, 2004, 
 which superseded Circular A-87, as amended and issued May 4, 1995.
@@ -12645,11 +12738,13 @@ the Federal agencies and/or governmental units in connection with the
 negotiation and approval process, OMB will lend assistance, as required, 
 to resolve such problems in a timely manner.
 
-                        PARTS 226	229 [RESERVED]
+                        PARTS 226-229 [RESERVED]
 
 
 <R03>
-PART 230_COST PRINCIPLES FOR NON-PROFIT ORGANIZATIONS (OMB CIRCULAR A	122)--Table of Contents
+PART 230_COST PRINCIPLES FOR NON-PROFIT ORGANIZATIONS (OMB CIRCULAR A	122)--
+
+Table of Contents
 
 <R05>
 
@@ -15157,7 +15252,7 @@ Acceleration Lab), Argonne, Illinois
 Organizations
 33. Other non-profit organizations as negotiated with awarding agencies
 
-                        PARTS 231	299 [RESERVED]
+                        PARTS 231-299 [RESERVED]
 
 [[Page 175]]
 
@@ -15287,10 +15382,10 @@ section that HHS published in 2 CFR part 376 identified
 by the same section number. The contracts under a nonprocurement 
 transaction, that are covered transactions, for example, are specified 
 by section 220 of the OMB guidance (i.e., 2 CFR 180.220) as supplemented 
-by section 220 in this part (i.e., 2 CFR 376.220). For any section of 
-OMB guidance in subparts A through I of 2 CFR part 180 that has no 
-corresponding section in this part, HHS policies and procedures are 
-those in the OMB guidance at 2 CFR part 180.
+by section 220 in this part (i.e., 2 CFR 376.220).
+    For any section of OMB guidance in subparts A through I of 2 CFR 
+part 180 that has no corresponding section in this part, HHS policies 
+and procedures are those in the OMB guidance at 2 CFR part 180.
 
 
 <R04>
@@ -15298,7 +15393,11 @@ those in the OMB guidance at 2 CFR part 180.
 
 
 <R05>
-Sec. 376.137  Who in the Department of Health and Human Services (HHS) may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 376.137  Who in the Department of Health and Human Services (HHS) may 
+
+grant an exception to let an excluded person participate in a covered 
+
+transaction?
 
     The HHS Debarring/Suspension Official has the authority to grant an 
 exception to let an excluded person participate in a covered transaction 
@@ -15306,8 +15405,11 @@ as provided at 2 CFR 180.135.
 
 
 <R05>
-Sec. 376.147  Does an exclusion from participation in Federal health care programs under Title XI of the Social Security Act affect a person's eligibility to 
-          participate in nonprocurement and procurement transactions?
+Sec. 376.147  Does an exclusion from participation in Federal health care 
+
+programs under Title XI of the Social Security Act affect a person's 
+
+eligibility to participate in nonprocurement and procurement transactions?
 
     Any individual or entity excluded from participation in Medicare, 
 Medicaid, and other Federal health care programs under Title XI of the 
@@ -15329,7 +15431,9 @@ Federal government procurement and nonprocurement programs (42 CFR part
 
 
 <R05>
-Sec. 376.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 376.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     In addition to the contracts covered under 2 CFR 180.220(b), this 
 part also applies to all lower tiers of subcontracts under covered 
@@ -15343,7 +15447,9 @@ appendix to 2 CFR part 180.)
 
 
 <R05>
-Sec. 376.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 376.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     To communicate the requirements to lower-tier participants, you must 
 include a term or condition in the lower-tier transaction requiring the 
@@ -15352,7 +15458,9 @@ by this subpart.
 
 
 <R05>
-Sec. 376.370  What are the obligations of Medicare carriers and intermediaries?
+Sec. 376.370  What are the obligations of Medicare carriers and 
+
+intermediaries?
 
     Because Medicare carriers, intermediaries and other Medicare 
 contractors undertake responsibilities on behalf of the Medicare program 
@@ -15372,7 +15480,9 @@ effect this part.
 
 
 <R05>
-Sec. 376.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 376.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435, you must include a term or condition in the transaction that 
@@ -15396,7 +15506,9 @@ Subpart H--Debarment [Reserved]
 
 
 <R05>
-Sec. 376.935  Disqualified. (HHS supplement to government-wide definition at 2 CFR 180.935).
+Sec. 376.935  Disqualified. (HHS supplement to government-wide definition at 2 
+
+CFR 180.935).
 
     Disqualified means persons prohibited from participating in 
 specified federal procurement and nonprocurement transactions pursuant 
@@ -15406,7 +15518,9 @@ as enforced by the HHS Office of the Inspector General.
 
 
 <R05>
-Sec. 376.995  Principal (HHS supplement to government-wide definition at 2 CFR 180.995).
+Sec. 376.995  Principal (HHS supplement to government-wide definition at 2 CFR 
+
+180.995).
 
     Principal means individuals, in addition to those listed at 2 CFR 
 180.995, who participate in HHS covered transactions including:
@@ -15474,9 +15588,9 @@ Subparts E-H [Reserved]
 
 Subpart J [Reserved]
 
-    Authority: Sec. 2455, Pub. L. 103-355, 108; Stat. 3327 (31 U.S.C. 
-6101 note); E.O. 12549; (3 CFR, 1986 Comp., p. 189); E.O. 12689 (3); 
-CFR, 1989 Comp., p. 235).
+    Authority: Sec. 2455, Pub. L. 103-355, 108; Stat. 3327
+    (31 U.S.C. 6101 note); E.O. 12549; (3 CFR, 1986 Comp., p. 189); E.O. 
+12689 (3); CFR, 1989 Comp., p. 235).
 
     Source: 72 FR 10034, Mar. 7, 2007, unless otherwise noted.
 
@@ -15526,16 +15640,20 @@ policies and procedures set forth in this part.
 
 
 <R05>
-Sec. 601.137  Who in the Department of State may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 601.137  Who in the Department of State may grant an exception to let an 
+
+excluded person participate in a covered transaction?
 
     The Procurement Executive, Office of the Procurement Executive, DOS, 
 may grant an exception permitting an excluded person to participate in a 
 particular covered transaction. If the Procurement Executive, Office of 
 the Procurement Executive, DOS, grants an exception, the exception must 
-be in writing and state the reason(s) for deviating from the government-
-wide policy in Executive Order 12549.
+be in
 
 [[Page 186]]
+
+writing and state the reason(s) for deviating from the government-wide 
+policy in Executive Order 12549.
 
 
 <R04>
@@ -15543,7 +15661,9 @@ wide policy in Executive Order 12549.
 
 
 <R05>
-Sec. 601.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 601.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     In addition to the contracts covered under 2 CFR 180.220(b) of the 
 OMB guidance, this part applies to any contract, regardless of tier, 
@@ -15563,11 +15683,13 @@ appendix to 2 CFR part 180).
 
 
 <R05>
-Sec. 601.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 601.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You, as a participant, must include a term or condition in lower-
 tier transactions requiring lower-tier participants to comply with 
-Subpart C of the OMB guidance in 2 CFR part 180, as supplemented by this 
+subpart C of the OMB guidance in 2 CFR part 180, as supplemented by this 
 subpart.
 
 
@@ -15577,7 +15699,9 @@ subpart.
 
 
 <R05>
-Sec. 601.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 601.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -15594,14 +15718,18 @@ Subparts E-H [Reserved]
 
 
 <R05>
-Sec. 601.930  Debarring Official (Department of State supplement to government-wide definition at 2 CFR 180.930).
+Sec. 601.930  Debarring Official (Department of State supplement to 
+
+government-wide definition at 2 CFR 180.930).
 
     The Debarring Official for the Department of State is the 
 Procurement Executive, Office of the Procurement Executive (A/OPE).
 
 
 <R05>
-Sec. 601.1010  Suspending Official (Department of Energy supplement to government-wide definition at 2 CFR 180.1010).
+Sec. 601.1010  Suspending Official (Department of Energy supplement to 
+
+government-wide definition at 2 CFR 180.1010).
 
     The Debarring Official for the Department of State is the 
 Procurement Executive, Office of the Procurement Executive (A/OPE).
@@ -15621,7 +15749,7 @@ Subpart J [Reserved]
 Part                                                                Page
 801             Nonprocurement debarment and suspension.....         189
 
-[[Page 191]]
+[[Page 189]]
 
 
 <R03>
@@ -15728,7 +15856,7 @@ Veterans Affairs policies and procedures are those in the OMB guidance.
 For any such section where there is a corresponding section in this 
 part, the Department of
 
-[[Page 192]]
+[[Page 190]]
 
 Veterans Affairs policies and procedures that you must follow are the 
 policies and procedures specified in each applicable section of the OMB 
@@ -15744,7 +15872,9 @@ that are covered transactions, for example, are specified by Sec.
 
 
 <R05>
-Sec. 801.137  Who in the Department of Veterans Affairs may grant an exception to allow an excluded person to participate in a covered transaction?
+Sec. 801.137  Who in the Department of Veterans Affairs may grant an exception 
+
+to allow an excluded person to participate in a covered transaction?
 
     Within the Department of Veterans Affairs, the Secretary of Veterans 
 Affairs, the Under Secretary for Health, the Under Secretary for 
@@ -15759,7 +15889,9 @@ participate in a covered transaction, as provided in the OMB guidance at
 
 
 <R05>
-Sec. 801.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 801.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     VA does not extend coverage of nonprocurement suspension and 
 debarment requirements beyond first-tier procurement contracts under a 
@@ -15773,7 +15905,9 @@ tier coverage in the figure in the appendix to 2 CFR part 180).
 
 
 <R05>
-Sec. 801.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 801.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
@@ -15786,7 +15920,9 @@ of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
 
 
 <R05>
-Sec. 801.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 801.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -15803,7 +15939,9 @@ Subparts E-H [Reserved]
 
 
 <R05>
-Sec. 801.930  Debarring official (Department of Veterans Affairs supplement to government-wide definition at 2 CFR 180.930).
+Sec. 801.930  Debarring official (Department of Veterans Affairs supplement to 
+
+government-wide definition at 2 CFR 180.930).
 
     In addition to the debarring official listed at 2 CFR 180.930, the 
 debarring official for the Department of Veterans Affairs is:
@@ -15816,7 +15954,9 @@ for Memorial Affairs.
 
 
 <R05>
-Sec. 801.995  Principal (Department of Veterans Affairs supplement to government-wide definition at 2 CFR 180.995.)
+Sec. 801.995  Principal (Department of Veterans Affairs supplement to 
+
+government-wide definition at 2 CFR 180.995.)
 
     In addition to the principals identified at 2 CFR 180.995, for the 
 Department of Veterans Affairs loan guaranty program, principals 
@@ -15828,7 +15968,7 @@ include, but are not limited to the following:
     (e) Loan supervisors.
     (f) Mortgage brokers.
 
-[[Page 193]]
+[[Page 191]]
 
     (g) Office managers.
     (h) Staff appraisers and inspectors.
@@ -15848,7 +15988,9 @@ loans.
 
 
 <R05>
-Sec. 801.1010  Suspending official (Department of Veterans Affairs supplement to government-wide definition at 2 CFR 180.1010).
+Sec. 801.1010  Suspending official (Department of Veterans Affairs supplement 
+
+to government-wide definition at 2 CFR 180.1010).
 
     In addition to the suspending official listed at 2 CFR 180.1010, the 
 suspending official for the Department of Veterans Affairs is:
@@ -15912,7 +16054,7 @@ limited denial of participation. Where such a concurrent limited denial
 of participation is imposed, participation may be restricted on the same 
 basis without the need for an additional conference or further hearing.
 
-[[Page 194]]
+[[Page 192]]
 
 
 <R05>
@@ -15994,7 +16136,7 @@ participant or contractor of the decision to withdraw, modify or affirm
 the limited denial of participation. If the decision is made to affirm 
 all or a portion
 
-[[Page 195]]
+[[Page 193]]
 
 of the remaining period of exclusion, the participant shall be advised 
 of the right to request a formal hearing in writing within 30 days of 
@@ -16018,7 +16160,7 @@ suspension or debarment, the limited denial of participation shall be
 superseded and the appeal shall be heard solely as an appeal of the 
 suspension or debarment.
 
-[[Page 197]]
+[[Page 195]]
 
 
 <R02>
@@ -16031,13 +16173,9 @@ suspension or debarment.
 Part                                                                Page
 901             Nonprocurement debarment and suspension.....         197
 
-[[Page 199]]
+[[Page 197]]
 
 
-<R03>
-
-
-<R05>
 
 
 <R03>
@@ -16113,11 +16251,15 @@ Sec. 901.20  Does this part apply to me?
     This part and, through this part, pertinent portions of the OMB 
 guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 
 180.100(b)) apply to you if you are a--
+
     (a) Participant or principal in a ``covered transaction'' (see 
 subpart B of 2 CFR part 180 and the definition of ``nonprocurement 
 transaction'' at 2 CFR 180.970);
+
     (b) Respondent in a DOE suspension or debarment action;
+
     (c) DOE debarment or suspension official; and
+
     (d) DOE grants officer, agreements officer, or other official 
 authorized to enter into any type of nonprocurement transaction that is 
 a covered transaction.
@@ -16131,7 +16273,7 @@ policies and procedures specified in each applicable section of the OMB
 guidance in subparts A through I of 2 CFR part 180 and any supplemental 
 policies and procedures set forth in this part.
 
-[[Page 200]]
+[[Page 198]]
 
 
 <R04>
@@ -16139,7 +16281,9 @@ policies and procedures set forth in this part.
 
 
 <R05>
-Sec. 901.137  Who in the Department of Energy may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 901.137  Who in the Department of Energy may grant an exception to let an 
+
+excluded person participate in a covered transaction?
 
     The Director, Office of Procurement and Assistance Management, DOE, 
 for DOE actions, and the Director, Office of Acquisition and Supply 
@@ -16157,7 +16301,9 @@ policy in Executive Order 12549.
 
 
 <R05>
-Sec. 901.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 901.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR180.220(c) allows a Federal agency 
 to do so (also see optional lower tier coverage in the figure in the 
@@ -16171,7 +16317,9 @@ procurement contracts under a covered nonprocurement transaction.
 
 
 <R05>
-Sec. 901.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 901.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You, as a participant, must include a term or condition in lower-
 tier transactions requiring lower-tier participants to comply with 
@@ -16185,7 +16333,9 @@ subpart.
 
 
 <R05>
-Sec. 901.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 901.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -16202,7 +16352,9 @@ Subparts E-H [Reserved]
 
 
 <R05>
-Sec. 901.930  Debarring official (Department of Energy supplement to government-wide definition at 2 CFR 180.930).
+Sec. 901.930  Debarring official (Department of Energy supplement to 
+
+government-wide definition at 2 CFR 180.930).
 
     The Debarring Official for the Department of Energy, exclusive of 
 NNSA, is the Director, Office of Procurement and Assistance Management, 
@@ -16211,14 +16363,18 @@ Acquisition and Supply Management, NNSA.
 
 
 <R05>
-Sec. 901.950  Federal agency (Department of Energy supplement to government-wide definition at 2 CFR 180.950).
+Sec. 901.950  Federal agency (Department of Energy supplement to government-
+
+wide definition at 2 CFR 180.950).
 
     DOE means the U.S. Department of Energy, including the NNSA.
     NNSA means the National Nuclear Security Administration.
 
 
 <R05>
-Sec. 901.1010  Suspending official (Department of Energy supplement to government-wide definition at 2 CFR 180.1010).
+Sec. 901.1010  Suspending official (Department of Energy supplement to 
+
+government-wide definition at 2 CFR 180.1010).
 
     The suspending official for the Department of Energy, exclusive of 
 NNSA, is the Director, Office of Procurement and Assistance Management, 
@@ -16227,7 +16383,7 @@ Acquisition and Supply Management, NNSA.
 
 Subpart J [Reserved]
 
-[[Page 201]]
+[[Page 199]]
 
 
 <R02>
@@ -16240,7 +16396,7 @@ Subpart J [Reserved]
 Part                                                                Page
 1125            Nonprocurement debarment and suspension.....         201
 
-[[Page 203]]
+[[Page 201]]
 
 
 <R03>
@@ -16277,7 +16433,7 @@ Sec.
 1125.437 What method do I use to communicate to a participant the 
           requirements described in the OMB guidance at 2 CFR 180.435?
 
-Subparts E-H [Reserved]
+Subpart E-H [Reserved]
 
                           Subpart I_Definitions
 
@@ -16310,7 +16466,9 @@ Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Public Law 103-
 
 
 <R05>
-Sec. 1125.20  Does this part implement the OMB guidance in 2 CFR part 180 for all DoD nonprocurement transactions?
+Sec. 1125.20  Does this part implement the OMB guidance in 2 CFR part 180 for 
+
+all DoD nonprocurement transactions?
 
     This part implements the OMB guidelines in 2 CFR part 180 for most 
 DoD nonprocurement transactions. However, it does not implement the 
@@ -16338,7 +16496,7 @@ debarment action;
 official authorized to enter into a nonprocurement transaction that is a 
 covered transaction.
 
-[[Page 204]]
+[[Page 202]]
 
 
 <R05>
@@ -16402,7 +16560,9 @@ procedures are the same as those in the OMB guidance.
 
 
 <R05>
-Sec. 1125.137  Who in the Department of Defense may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 1125.137  Who in the Department of Defense may grant an exception to let 
+
+an excluded person participate in a covered transaction?
 
     Within the Department of Defense, the Secretary of Defense, 
 Secretary of a Military Department, Head of a Defense Agency, Head of 
@@ -16417,7 +16577,9 @@ guidance at 2 CFR 180.135.
 
 
 <R05>
-Sec. 1125.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 1125.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see optional lower tier coverage in the figure in 
@@ -16432,7 +16594,9 @@ transaction.
 
 
 <R05>
-Sec. 1125.332  What method must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 1125.332  What method must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant in a covered transaction must include a term or 
 condition in any lower-tier covered transaction into which you enter, to 
@@ -16452,7 +16616,7 @@ Sec. 1125.425  When do I check to see if a person is excluded or disqualified?
     In addition to the four instances identified in the OMB guidance at 
 2
 
-[[Page 205]]
+[[Page 203]]
 
 CFR 180.425, you as a DoD Component official must check to see if a 
 person is excluded or disqualified before you obligate additional 
@@ -16462,7 +16626,9 @@ as provided in 32 CFR 22.520(e)(5).
 
 
 <R05>
-Sec. 1125.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 1125.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     You as a DoD Component official must include a term or condition in 
 each covered transaction into which you enter, to communicate to the 
@@ -16480,7 +16646,9 @@ Subparts E-H [Reserved]
 
 
 <R05>
-Sec. 1125.930  Debarring official (DoD supplement to Governmentwide definition at 2 CFR 180.930).
+Sec. 1125.930  Debarring official (DoD supplement to Governmentwide definition 
+
+at 2 CFR 180.930).
 
     DoD Components' debarring officials for nonprocurement transactions 
 are the same officials identified in 48 CFR part 209, subpart 209.4, as 
@@ -16504,7 +16672,191 @@ Sec. 1125.1010  Suspending official (DoD supplement to Governmentwide definition
 are the same officials identified in 48 CFR part 209, subpart 209.4, as 
 suspending officials for procurement contracts.
 
+[[Page 205]]
+
+
+<R02>
+                CHAPTER XII--DEPARTMENT OF TRANSPORTATION
+
+
+<R03>
+
+  --------------------------------------------------------------------
+Part                                                                Page
+1200            Nonprocurement suspension and debarment.....         207
+
 [[Page 207]]
+
+
+<R03>
+PART 1200_NONPROCUREMENT SUSPENSION AND DEBARMENT--Table of Contents
+
+<R05>
+
+
+Sec.
+1200.10 What does this part do?
+1200.20 Does this part apply to me?
+1200.30 What policies and procedures must I follow?
+
+                            Subpart A_General
+
+1200.137 Who in the Department of Transportation may grant an exception 
+          to let an excluded person participate in a covered 
+          transaction?
+
+                     Subpart B_Covered Transactions
+
+1200.220 What contracts and subcontracts, in addition to those listed in 
+          2 CFR 180.220, are covered transactions?
+
+    Subpart C_Responsibilities of Participants Regarding Transactions
+
+1200.332 What methods must I use to pass requirements down to 
+          participants at lower tiers with whom I intend to do business?
+
+    Subpart D_Responsibilities of Federal Agency Officials Regarding 
+                              Transactions
+
+1200.437 What method do I use to communicate to a participant the 
+          requirements described in the OMB guidance at 2 CFR 180.435?
+
+Subparts E-J [Reserved]
+
+    Authority: 49 U.S.C. 322; Sec. 2455, Public Law 103-355, 108 Stat. 
+3327 (31 U.S.C. 6101 note); E.O. 12549 (3 CFR, 1986 Comp., p. 189); E.O. 
+12689 (3 CFR, 1989 Comp., p. 235).
+
+    Source: 73 FR 24140, May 2, 2008, unless otherwise noted.
+
+
+<R05>
+Sec. 1200.10  What does this part do?
+
+    This part adopts the Office of Management and Budget (OMB) guidance 
+in subparts A through I of 2 CFR part 180, as supplemented by this part, 
+as the Department of Transportation policies and procedures for 
+nonprocurement suspension and debarment. It thereby gives regulatory 
+effect for the Department of Transportation to the OMB guidance as 
+supplemented by this part. This part satisfies the requirements in 
+section 3 of Executive Order 12549, ``Supension and Debarment'' (3 CFR 
+1986 Comp., p. 189), Executive Order 12689, ``Suspension and Debarment'' 
+(3 CFR 1989 Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Public 
+Law 103-355, 108 Stat. 3327).
+
+
+<R05>
+Sec. 1200.20  Does this part apply to me?
+
+    This part and, through this part, pertinent portions of the OMB 
+guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 
+180.100(b)) apply to you if you are a--
+    (a) Participant or principal in a ``covered transaction'' (see 
+subpart B of 2 CFR part 180 and the definition of ``nonprocurement 
+transaction'' at 2 CFR 180.970;
+    (b) Respondent in a Department of Transportation suspension or 
+debarment action;
+    (c) Department of Transportation debarment or suspension official;
+    (d) Department of Transportation grants officer, agreements officer, 
+or other official authorized to enter into any type of nonprocurement 
+transaction that is a covered transaction.
+
+
+<R05>
+Sec. 1200.30  What policies and procedures must I follow?
+
+    The Department of Transportation policies and procedures that you 
+must follow are the policies and procedures specified in each applicable 
+section of the OMB guidance in subparts A through I of 2 CFR part 180, 
+as that section is supplemented by the section in this part with the 
+same section number.
+    The contracts that are covered transactions, for example, are 
+specified by section 220 of the OMB guidance (i.e., 2 CFR 180.220), as 
+supplemented by section 220 in this part (i.e., Sec. 1200.220). For any 
+section of OMB guidance in subparts A through I of 2 CFR 180 that has no 
+corresponding section in this part, Department of Transportation 
+policies and procedures are those in the OMB guidance.
+
+
+<R04>
+                            Subpart A_General
+
+
+<R05>
+Sec. 1200.137  Who in the Department of Transportation may grant an exception 
+
+to let an excluded person participate in a covered transaction?
+
+    Within the Department of Transportation, Office of the Secretary, 
+the Secretary or an official designated by the
+
+[[Page 208]]
+
+Secretary may grant an exception permitting an excluded person to 
+participate in a particular covered transaction. Within an Operating 
+Administration of the Department of Transportation, the head of the 
+operating administration may grant an exception permitting an excluded 
+person to participate in a particular covered transaction. The head of 
+an operating administration may delegate this function and authorize 
+successive delegations.
+
+
+<R04>
+                     Subpart B_Covered Transactions
+
+
+<R05>
+Sec. 1200.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
+
+    In addition to the contracts covered under 2 CFR 180.220(b) of the 
+OMB guidance, this part applies to any contract, regardless of tier, 
+that is awarded by a contractor, subcontractor, supplier, consultant, or 
+its agent or representative in any transaction, if the contract is to be 
+funded or provided by the Department of Transportation under a covered 
+nonprocurement transaction and the amount of the contract is expected to 
+equal or exceed $25,000. This extends the coverage of the Department of 
+Transportation nonprocurement suspension and debarment requirements to 
+all lower tiers of subcontracts under covered nonprocurement 
+transactions, as permitted under the OMB guidance at 2 CFR 180.220(c) 
+(see optional lower-tier coverage in the figure in the appendix to 2 CFR 
+part 180).
+
+
+<R04>
+    Subpart C_Responsibilities of Participants Regarding Transactions
+
+
+<R05>
+Sec. 1200.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
+
+    You as a participant must include a term or condition in lower-tier 
+transactions requiring lower-tier participants to comply with subpart C 
+of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
+
+
+<R04>
+    Subpart D_Responsibilities of Federal Agency Officials Regarding 
+                              Transactions
+
+
+<R05>
+Sec. 1200.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
+
+    To communicate to a participant the requirements described in 2 CFR 
+180.435 of the OMB guidance, you must include a term or condition in the 
+transaction that requires the participant's compliance with subpart C of 
+2 CFR part 180 and requires the participant to include a similar term or 
+condition in lower-tier covered transactions.
+
+Subparts E-J [Reserved]
+
+[[Page 209]]
 
 
 <R02>
@@ -16515,9 +16867,9 @@ suspending officials for procurement contracts.
 
   --------------------------------------------------------------------
 Part                                                                Page
-1326            Nonprocurement debarment and suspension.....         207
+1326            Nonprocurement debarment and suspension.....         211
 
-[[Page 209]]
+[[Page 211]]
 
 
 <R03>
@@ -16592,8 +16944,8 @@ guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR
 180.100(b)) apply to you if you are a--
     (a) Participant or principal in a ``covered transaction'' (see 
 subpart B of 2 CFR part 180 and the definition of ``nonprocurement 
-transaction'' at 2 CFR 180.970, as supplemented by by subpart B and 
-Sec. 1326.970 of this part).
+transaction'' at 2 CFR 180.970, as supplemented by subpart B and Sec. 
+1326.970 of this part).
     (b) Respondent in a Department of Commerce suspension or debarment 
 action.
     (c) Department of Commerce debarment or suspension official;
@@ -16616,7 +16968,7 @@ example, are specified by section 220 of the OMB guidance (i.e., 2 CFR
 CFR 180 that has no corresponding section in this part, Department of 
 Commerce policies and procedures are those in the OMB guidance.
 
-[[Page 210]]
+[[Page 212]]
 
 
 <R04>
@@ -16624,7 +16976,9 @@ Commerce policies and procedures are those in the OMB guidance.
 
 
 <R05>
-Sec. 1326.137  Who in the Department of Commerce may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 1326.137  Who in the Department of Commerce may grant an exception to let 
+
+an excluded person participate in a covered transaction?
 
     Within the Department of Commerce, the Secretary of Commerce or 
 designee has the authority to grant an exception to let an excluded 
@@ -16637,7 +16991,9 @@ guidance at 2 CFR 180.135.
 
 
 <R05>
-Sec. 1326.215  Which nonprocurement transactions, in addition to those listed in 2 CFR 180.215, are not covered transactions?
+Sec. 1326.215  Which nonprocurement transactions, in addition to those listed 
+
+in 2 CFR 180.215, are not covered transactions?
 
     (a) For purposes of the Department of Commerce, a transaction that 
 the Department needs to respond to a national or agency-recognized 
@@ -16666,7 +17022,9 @@ Statutes.
 
 
 <R05>
-Sec. 1326.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 1326.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     In addition to the contracts covered under 2 CFR 180.220(b) of the 
 OMB guidance, this part applies to a subcontract that is awarded by a 
@@ -16684,7 +17042,9 @@ tier coverage in the figure in the appendix to 2 CFR part 180).
 
 
 <R05>
-Sec. 1326.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 1326.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
@@ -16697,7 +17057,9 @@ of the OMB guidance in 2 CFR Part 180, as supplemented by this subpart.
 
 
 <R05>
-Sec. 1326.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 1326.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -16708,7 +17070,7 @@ covered transactions.
 
 Subparts E-H [Reserved]
 
-[[Page 211]]
+[[Page 213]]
 
 
 <R04>
@@ -16716,7 +17078,9 @@ Subparts E-H [Reserved]
 
 
 <R05>
-Sec. 1326.970  Nonprocurement transaction (Department of Commerce supplement to government-wide definition at 2 CFR 180.970).
+Sec. 1326.970  Nonprocurement transaction (Department of Commerce supplement 
+
+to government-wide definition at 2 CFR 180.970).
 
     For purposes of the Department of Commerce, nonprocurement 
 transaction includes the following:
@@ -16728,7 +17092,7 @@ transaction includes the following:
 
 Subpart J [Reserved]
 
-[[Page 213]]
+[[Page 215]]
 
 
 <R02>
@@ -16739,9 +17103,9 @@ Subpart J [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-1400            Nonprocurement debarment and suspension.....         213
+1400            Nonprocurement debarment and suspension.....         217
 
-[[Page 215]]
+[[Page 217]]
 
 
 <R03>
@@ -16842,7 +17206,7 @@ covered transactions, for example, are specified by section 220 of the
 OMB guidance (i.e., 2 CFR 180.220) as supplemented by section 220 in 
 this part (i.e., Sec. 1400.220)).
 
-[[Page 216]]
+[[Page 218]]
 
     (b) For any section of OMB guidance in subparts A through I of 2 CFR 
 part 180 that has no corresponding section in this part, Department of 
@@ -16854,7 +17218,9 @@ the Interior policies and procedures are those in the OMB guidance.
 
 
 <R05>
-Sec. 1400.137  Who in the Department of the Interior may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 1400.137  Who in the Department of the Interior may grant an exception to 
+
+let an excluded person participate in a covered transaction?
 
     Within the Department of the Interior, the Director, Office of 
 Acquisition and Property Management has the authority to grant an 
@@ -16867,7 +17233,9 @@ transaction, as provided in the OMB guidance at 2 CFR 180.135.
 
 
 <R05>
-Sec. 1400.215  Which nonprocurement transactions, in addition to those listed in 2 CFR 180.215, are not covered transactions?
+Sec. 1400.215  Which nonprocurement transactions, in addition to those listed 
+
+in 2 CFR 180.215, are not covered transactions?
 
     (a) Transactions entered into pursuant to Public Law 93-638, 88 
 Stat. 2203.
@@ -16881,7 +17249,9 @@ pursuant to 30 U.S.C. 22 et seq.; and
 
 
 <R05>
-Sec. 1400.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 1400.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see optional lower tier coverage in the figure in 
@@ -16896,7 +17266,9 @@ transaction.
 
 
 <R05>
-Sec. 1400.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 1400.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
@@ -16909,7 +17281,9 @@ of the OMB guidance in 2 CFR part 180.
 
 
 <R05>
-Sec. 1400.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 1400.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -16926,38 +17300,49 @@ Subparts E-H [Reserved]
 
 
 <R05>
-Sec. 1400.930  Debarring official (Department of the Interior supplement to the definition at 2 CFR 180.930).
+Sec. 1400.930  Debarring official (Department of the Interior supplement to 
+
+the definition at 2 CFR 180.930).
 
     The Debarring Official for the Department of the Interior is the 
 Director, Office of Acquisition and Property Management.
 
 
 <R05>
-Sec. 1400.970  Nonprocurement transaction (Department of the Interior supplement to the definition at 2 CFR 180.970).
+Sec. 1400.970  Nonprocurement transaction (Department of the Interior 
+
+supplement to the definition at 2 CFR 180.970).
 
     In addition to those listed in 2 CFR 180.970, the Department of the 
 Interior includes the following as nonprocurement transactions:
+
     (a) Federal acquisition of a leasehold interest or any other 
 interest in real property;
-    (b) Concession contracts;
 
-[[Page 217]]
+
+[[Page 219]]
+
+
+    (b) Concession contracts;
 
     (c) Disposition of Federal real and personal property and natural 
 resources; and
+
     (d) Any other nonprocurement transactions between the Department and 
 a person.
 
 
 <R05>
-Sec. 1400.1010  Suspending official (Department of the Interior supplement to the definition at 2 CFR 180.930).
+Sec. 1400.1010  Suspending official (Department of the Interior supplement to 
+
+the definition at 2 CFR 180.930).
 
     The Suspending Official for the Department of the Interior is the 
 Director, Office of Acquisition and Property Management.
 
 Subpart J [Reserved]
 
-[[Page 219]]
+[[Page 221]]
 
 
 <R02>
@@ -16968,9 +17353,9 @@ Subpart J [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-1532            Nonprocurement debarment and suspension.....         219
+1532            Nonprocurement debarment and suspension.....         223
 
-[[Page 221]]
+[[Page 223]]
 
 
 <R03>
@@ -17080,7 +17465,7 @@ Sec. 1532.10  What does this part do?
 in subparts A through I of 2 CFR part 180, as supplemented by this part, 
 as the Environmental Protection Agency
 
-[[Page 222]]
+[[Page 224]]
 
 (EPA) policies and procedures for nonprocurement debarment and 
 suspension. It thereby gives regulatory effect for the EPA to the OMB 
@@ -17116,10 +17501,10 @@ guidance in subparts A through I of 2 CFR part 180, as that section is
 supplemented by the section in this part with the same section number. 
 The contracts that are covered transactions, for example, are specified 
 by section 220 of the OMB guidance (i.e., 2 CFR 180.220) as supplemented 
-by section 220 in this part (i.e., Sec. 1532.220). For any section of 
-OMB guidance in subparts A through I of 2 CFR 180 that has no 
-corresponding section in this part, EPA policies and procedures are 
-those in the OMB guidance.
+by section 220 in this part (i.e., Sec. 1532.220).
+    For any section of OMB guidance in subparts A through I of 2 CFR 180 
+that has no corresponding section in this part, EPA policies and 
+procedures are those in the OMB guidance.
 
 
 <R04>
@@ -17127,7 +17512,9 @@ those in the OMB guidance.
 
 
 <R05>
-Sec. 1532.137  Who in the EPA may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 1532.137  Who in the EPA may grant an exception to let an excluded person 
+
+participate in a covered transaction?
 
     The EPA Debarring Official has the authority to grant an exception 
 to let an excluded person participate in a covered transaction, as 
@@ -17142,7 +17529,9 @@ Order 12549.
 
 
 <R05>
-Sec. 1532.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 1532.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     In addition to the contracts covered under 2 CFR 180.220(b) of the 
 OMB guidance, this part applies to any contract, regardless of tier, 
@@ -17162,13 +17551,17 @@ appendix to 2 CFR part 180).
 
 
 <R05>
-Sec. 1532.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 1532.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
-of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
+of the
 
-[[Page 223]]
+[[Page 225]]
+
+OMB guidance in 2 CFR part 180, as supplemented by this subpart.
 
 
 <R04>
@@ -17177,7 +17570,9 @@ of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
 
 
 <R05>
-Sec. 1532.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 1532.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -17256,7 +17651,7 @@ pending review of the debarring official's decision.
 of their decisions under this section, in writing, using the notice 
 procedures at 2 CFR 180.615 and 180.975.
 
-[[Page 224]]
+[[Page 226]]
 
 
 <R04>
@@ -17264,7 +17659,9 @@ procedures at 2 CFR 180.615 and 180.975.
 
 
 <R05>
-Sec. 1532.995  Principal (EPA supplement to government-wide definition at 2 CFR 180.995).
+Sec. 1532.995  Principal (EPA supplement to government-wide definition at 2 
+
+CFR 180.995).
 
     In addition to those listed in 2 CFR 180.995, other examples of 
 individuals who are principals in EPA covered transactions include:
@@ -17322,7 +17719,11 @@ otherwise disqualified under the CAA or CWA.
 
 
 <R05>
-Sec. 1532.1110  How will a CAA or CWA conviction affect my eligibility to participate in Federal contracts, subcontracts, assistance, loans and other benefits?
+Sec. 1532.1110  How will a CAA or CWA conviction affect my eligibility to 
+
+participate in Federal contracts, subcontracts, assistance, loans and other 
+
+benefits?
 
     If you are convicted of any offense described in Sec. 1532.1105, 
 you are automatically disqualified from eligibility to receive any 
@@ -17339,7 +17740,9 @@ and
 
 
 <R05>
-Sec. 1532.1115  Can the EPA extend a CAA or CWA disqualification to other facilities?
+Sec. 1532.1115  Can the EPA extend a CAA or CWA disqualification to other 
+
+facilities?
 
     The CAA specifically authorizes the EPA to extend a CAA 
 disqualification to other facilities that are owned or operated by the 
@@ -17348,7 +17751,7 @@ of 2 CFR part 180, or under 48 CFR part 9, subpart 9.4, to take
 discretionary suspension and debarment actions on the basis of 
 misconduct leading to a CAA or CWA conviction,
 
-[[Page 225]]
+[[Page 227]]
 
 or for activities that the EPA debarring official believes were designed 
 to improperly circumvent a CAA or CWA disqualification.
@@ -17379,7 +17782,9 @@ the EPLS through the internet, currently at http://www.epls.gov.
 
 
 <R05>
-Sec. 1532.1130  How does disqualification under the CAA or CWA differ from a Federal discretionary suspension or debarment action?
+Sec. 1532.1130  How does disqualification under the CAA or CWA differ from a 
+
+Federal discretionary suspension or debarment action?
 
     (a) CAA and CWA disqualifications are exclusions mandated by 
 statute. In contrast, suspensions and debarments imposed under subparts 
@@ -17405,7 +17810,9 @@ through I of 2 CFR part 180, or under 48 CFR part 9, subpart 9.4.
 
 
 <R05>
-Sec. 1532.1135  Does CAA or CWA disqualification mean that I must remain ineligible?
+Sec. 1532.1135  Does CAA or CWA disqualification mean that I must remain 
+
+ineligible?
 
     You must remain ineligible until the EPA debarring official 
 certifies that the condition giving rise to your conviction has been 
@@ -17417,7 +17824,9 @@ and 1532.1300.
 
 
 <R05>
-Sec. 1532.1140  Can an exception be made to allow me to receive an award even though I may be disqualified?
+Sec. 1532.1140  Can an exception be made to allow me to receive an award even 
+
+though I may be disqualified?
 
     (a) After consulting with the EPA debarring official, the head of 
 any Federal department or agency (or designee) may exempt any particular 
@@ -17430,7 +17839,7 @@ United States.
     (b) In the event an exemption is granted, the exempting department 
 or
 
-[[Page 226]]
+[[Page 228]]
 
 agency must send a copy of the exemption decision to the EPA debarring 
 official for inclusion in the official record.
@@ -17452,7 +17861,9 @@ name of a person you can contact to discuss your reinstatement request.
 
 
 <R05>
-Sec. 1532.1205  What procedures must I follow to have my procurement and nonprocurement eligibility reinstated under the CAA or CWA?
+Sec. 1532.1205  What procedures must I follow to have my procurement and 
+
+nonprocurement eligibility reinstated under the CAA or CWA?
 
     (a) You must submit a written request for reinstatement to the EPA 
 debarring official stating what you believe the conditions were that led 
@@ -17479,7 +17890,9 @@ formal reinstatement request with the debarring official at any time.
 
 
 <R05>
-Sec. 1532.1210  Will anyone else provide information to the EPA debarring official concerning my reinstatement request?
+Sec. 1532.1210  Will anyone else provide information to the EPA debarring 
+
+official concerning my reinstatement request?
 
     If you request reinstatement under Sec. 1532.1205, the EPA 
 debarring official may obtain review and comment on your request by 
@@ -17493,7 +17906,9 @@ final decision on your request for reinstatement.
 
 
 <R05>
-Sec. 1532.1215  What happens if I disagree with the information provided by others to the EPA debarring official on my reinstatement request?
+Sec. 1532.1215  What happens if I disagree with the information provided by 
+
+others to the EPA debarring official on my reinstatement request?
 
     (a) If your reinstatement request is based on factual information 
 (as opposed to a legal matter or discretionary conclusion) that is 
@@ -17508,7 +17923,7 @@ contained in the administrative record relates to a legal issue or
 discretionary conclusion, or is not a genuine dispute over a material 
 fact, you will not have a fact-finding
 
-[[Page 227]]
+[[Page 229]]
 
 proceeding. However, the debarring official will allow you ample 
 opportunity to support your position for the record and present matters 
@@ -17520,7 +17935,9 @@ administrative record.
 
 
 <R05>
-Sec. 1532.1220  What will the EPA debarring official consider in making a decision on my reinstatement request?
+Sec. 1532.1220  What will the EPA debarring official consider in making a 
+
+decision on my reinstatement request?
 
     (a) The EPA debarring official will consider all information and 
 arguments contained in the administrative record in support of, or in 
@@ -17542,7 +17959,9 @@ Avenue, NW., Washington, DC 20460.
 
 
 <R05>
-Sec. 1532.1225  When will the EPA debarring official make a decision on my reinstatement request?
+Sec. 1532.1225  When will the EPA debarring official make a decision on my 
+
+reinstatement request?
 
     (a) The EPA debarring official will make a decision regarding your 
 reinstatement request under Sec. 1532.1205(a), when the administrative 
@@ -17555,7 +17974,9 @@ official while you are having informal discussions under Sec.
 
 
 <R05>
-Sec. 1532.1230  How will the EPA debarring official notify me of the reinstatement decision?
+Sec. 1532.1230  How will the EPA debarring official notify me of the 
+
+reinstatement decision?
 
     The EPA debarring official will notify you of the reinstatement 
 decision in writing, using the same methods for communicating debarment 
@@ -17563,7 +17984,11 @@ or suspension action notices under 2 CFR 180.615.
 
 
 <R05>
-Sec. 1532.1300  Can I resolve my eligibility status under terms of an administrative agreement without having to submit a formal reinstatement request?
+Sec. 1532.1300  Can I resolve my eligibility status under terms of an 
+
+administrative agreement without having to submit a formal reinstatement 
+
+request?
 
     (a) The EPA debarring official may, at any time, resolve your CAA or 
 CWA eligibility status under the terms of an administrative agreement. 
@@ -17571,9 +17996,11 @@ Ordinarily, the debarring official will not make an offer to you for
 reinstatement until after the administrative record for decision is 
 complete, or contains enough information to enable him or her to make an 
 informed decision in the matter.
+
     (b) Any resolution of your eligibility status under the CAA or CWA 
 resulting from an administrative agreement must include a certification 
 that the condition giving rise to the conviction has been corrected.
+
     (c) The EPA debarring official may enter into an administrative 
 agreement to resolve CAA or CWA disqualification issues as part of a 
 comprehensive criminal plea, civil or administrative agreement when it 
@@ -17581,7 +18008,9 @@ is in the best interest of the United States to do so.
 
 
 <R05>
-Sec. 1532.1305  What are the consequences if I mislead the EPA in seeking reinstatement or fail to comply with my administrative agreement?
+Sec. 1532.1305  What are the consequences if I mislead the EPA in seeking 
+
+reinstatement or fail to comply with my administrative agreement?
 
     (a) Any certification of correction issued by the EPA debarring 
 official whether the certification results from a reinstatement decision 
@@ -17590,7 +18019,7 @@ agreement under Sec. Sec. 1532.1205(b) and 1532.1300, is conditioned
 upon the accuracy of the information, representations or assurances made 
 during development of the administrative record.
 
-[[Page 228]]
+[[Page 230]]
 
     (b) If the EPA debarring official finds that he or she has certified 
 correction of the condition giving rise to a CAA or CWA conviction or 
@@ -17606,7 +18035,9 @@ potential criminal or civil action.
 
 
 <R05>
-Sec. 1532.1400  How may I appeal a decision denying my request for reinstatement?
+Sec. 1532.1400  How may I appeal a decision denying my request for 
+
+reinstatement?
 
     (a) If the EPA debarring official denies your request for 
 reinstatement under the CAA or CWA, you can ask for review of the 
@@ -17634,7 +18065,9 @@ and 180.975.
 
 
 <R05>
-Sec. 1532.1500  If I am reinstated, when will my name be removed from the EPLS?
+Sec. 1532.1500  If I am reinstated, when will my name be removed from the 
+
+EPLS?
 
     If your eligibility for procurement and nonprocurement participation 
 is restored under the CAA or CWA, whether by decision, appeal, or by 
@@ -17644,7 +18077,9 @@ your reinstatement.
 
 
 <R05>
-Sec. 1532.1600  What definitions apply specifically to actions under this subpart?
+Sec. 1532.1600  What definitions apply specifically to actions under this 
+
+subpart?
 
     In addition to definitions under subpart A through I of 2 CFR part 
 180 that apply to this part as a whole, the following two definitions 
@@ -17663,7 +18098,7 @@ craft, or other operational element, the entire location or site of
 operation is regarded as the violating facility unless otherwise limited 
 by the EPA.
 
-[[Page 229]]
+[[Page 231]]
 
 
 <R02>
@@ -17674,9 +18109,9 @@ by the EPA.
 
   --------------------------------------------------------------------
 Part                                                                Page
-1880            Nonprocurement debarment and suspension.....         229
+1880            Nonprocurement debarment and suspension.....         233
 
-[[Page 231]]
+[[Page 233]]
 
 
 <R03>
@@ -17729,9 +18164,10 @@ as the NASA policies and procedures for nonprocurement debarment and
 suspension. It thereby gives regulatory effect for NASA to the OMB 
 guidance as supplemented by this part. This part satisfies the 
 requirements in section 3 of Executive Order 12549, ``Debarment and 
-Suspension'' (3 CFR 1986 Comp., p. 189), Executive Order 12689, 
-``Debarment and Suspension'' (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 
-6101 note (Section 2455, Public Law 103-355, 108 Stat. 3327).
+Suspension'' (3 CFR 1986 Comp., p. 189),
+    Executive Order 12689, ``Debarment and Suspension'' (3 CFR 1989 
+Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Public Law 103-
+355, 108 Stat. 3327).
 
 
 <R05>
@@ -17740,11 +18176,15 @@ Sec. 1880.20  Does this part apply to me?
     This part and, through this part, pertinent portions of the OMB 
 guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 
 180.100(b)) apply to you if you are a--
+
     (a) Participant or principal in a ``covered transaction'' (see 
 subpart B of 2 CFR part 180 and the definition of ``nonprocurement 
 transaction'' at 2 CFR 180.970);
+
     (b) Respondent in a NASA suspension or debarment action;
+
     (c) NASA debarment or suspension official; or
+
     (d) NASA grants officer, agreements officer, or other official 
 authorized to enter into any type of nonprocurement transaction that is 
 a covered transaction.
@@ -17770,13 +18210,15 @@ those in the OMB guidance.
 
 
 <R05>
-Sec. 1880.137  Who in NASA may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 1880.137  Who in NASA may grant an exception to let an excluded person 
+
+participate in a covered transaction?
 
     The Chief Acquisition Officer has the authority to grant an 
 exception to let an excluded person participate in a covered 
 transaction, as provided in the OMB guidance at 2 CFR 180.135.
 
-[[Page 232]]
+[[Page 234]]
 
 
 <R04>
@@ -17784,7 +18226,9 @@ transaction, as provided in the OMB guidance at 2 CFR 180.135.
 
 
 <R05>
-Sec. 1880.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 1880.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see optional lower tier coverage in the figure in 
@@ -17798,7 +18242,9 @@ procurement contracts under a covered nonprocurement transaction.
 
 
 <R05>
-Sec. 1880.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 1880.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
@@ -17811,7 +18257,9 @@ of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
 
 
 <R05>
-Sec. 1880.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 1880.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -17822,7 +18270,7 @@ covered transactions.
 
 Subparts E-J [Reserved]
 
-[[Page 233]]
+[[Page 235]]
 
 
 <R02>
@@ -17833,9 +18281,9 @@ Subparts E-J [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-2200            Nonprocurement debarment and suspension.....         233
+2200            Nonprocurement debarment and suspension.....         237
 
-[[Page 235]]
+[[Page 237]]
 
 
 <R03>
@@ -17915,7 +18363,11 @@ and procedures are those in the OMB guidance.
 
 
 <R05>
-Sec. 2200.137  Who in the Corporation for National and Community Service may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 2200.137  Who in the Corporation for National and Community Service may 
+
+grant an exception to let an excluded person participate in a covered 
+
+transaction?
 
     The Chief Executive Officer (or another official designated by the 
 Chief Executive Officer) has the authority to grant an exception to let 
@@ -17924,13 +18376,15 @@ the OMB guidance at 2 CFR 180.135.
 
 
 <R05>
-Sec. 2200.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 2200.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see optional lower tier coverage in the figure in 
 the appendix to 2 CFR part 180), Corporation for National
 
-[[Page 236]]
+[[Page 238]]
 
 and Community Service does not extend coverage of nonprocurement 
 suspension and debarment requirements beyond first-tier procurement 
@@ -17938,15 +18392,19 @@ contracts under a covered nonprocurement transaction.
 
 
 <R05>
-Sec. 2200.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 2200.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
-transactions requiring lower-tier participants to comply with subpart C 
+transactions requiring lower-tier participants to comply with Subpart C 
 of the OMB guidance in 2 CFR part 180.
 
 
 <R05>
-Sec. 2200.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 2200.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you as an agency official must include a 
@@ -17955,7 +18413,7 @@ compliance with subpart C of 2 CFR part 180, and requires the
 participant to include a similar term or condition in lower-tier covered 
 transactions.
 
-[[Page 237]]
+[[Page 239]]
 
 
 <R02>
@@ -17966,9 +18424,9 @@ transactions.
 
   --------------------------------------------------------------------
 Part                                                                Page
-2336            Nonprocurement debarment and suspension.....         237
+2336            Nonprocurement debarment and suspension.....         241
 
-[[Page 239]]
+[[Page 241]]
 
 
 <R03>
@@ -18003,9 +18461,7 @@ Sec.
 2336.437 What method do I use to communicate to a participant the 
           requirements described in the OMB guidance at 2 CFR 180.435?
 
-                         Subparts E	J [Reserved]
-
-
+Subparts E-J [Reserved]
 
     Authority: 42 U.S.C. 902(a)(5); Sec. 2455, Pub. L. 103-355, 108 
 Stat. 3327; E.O. 12549 (3 CFR, 1986 Comp., p. 189); E.O. 12689 (3 CFR, 
@@ -18062,7 +18518,9 @@ in this part, SSA policies and procedures are those in the OMB guidance.
 
 
 <R05>
-Sec. 2336.137  Who in the SSA may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 2336.137  Who in the SSA may grant an exception to let an excluded person 
+
+participate in a covered transaction?
 
     (a) Within the Social Security Administration, the Commissioner or 
 the designated agency debarment official may grant an exception 
@@ -18071,7 +18529,7 @@ transaction. If the Commissioner or the designated agency debarment
 official grants an exception, the exception must be in writing and state 
 the reason(s) for deviating from the OMB guidance at 2 CFR 180.135.
 
-[[Page 240]]
+[[Page 242]]
 
     (b) An exception granted by one agency for an excluded person does 
 not extend to the covered transactions of another agency.
@@ -18082,7 +18540,9 @@ not extend to the covered transactions of another agency.
 
 
 <R05>
-Sec. 2336.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 2336.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see option lower tier coverage in the figure in 
@@ -18096,7 +18556,9 @@ procurement contracts under a covered nonprocurement transaction.
 
 
 <R05>
-Sec. 2336.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 2336.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
@@ -18109,7 +18571,9 @@ of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
 
 
 <R05>
-Sec. 2336.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 2336.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -18120,7 +18584,7 @@ covered transactions.
 
 Subparts E-J [Reserved]
 
-[[Page 241]]
+[[Page 243]]
 
 
 <R02>
@@ -18131,10 +18595,9 @@ Subparts E-J [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-2424            Nonprocurement debarment and suspension 
-                    (Eff. 1-28-08)..........................         241
+2424            Nonprocurement debarment and suspension.....         245
 
-[[Page 243]]
+[[Page 245]]
 
 
 <R03>
@@ -18219,9 +18682,6 @@ CFR, 1986 Comp., p. 189; E.O. 12689, 3 CFR, 1989 Comp., p. 235.
 
     Source: 72 FR 73487, Dec. 27, 2007, unless otherwise noted.
 
-    Effective Date Note: At 72 FR 73487, Dec. 27, 2007, Chapter XXIV, 
-consisting of Part 2424, was added, effective January 28, 2008.
-
 
 <R05>
 Sec. 2424.10  What does this part do?
@@ -18243,13 +18703,13 @@ Sec. 2424.20  Does this part apply to me?
     This part and, through this part, pertinent portions of subparts A 
 through I of 2 CFR part 180 (see table at 2 CFR 180.100(b)), apply to 
 you if you are a--
-
-[[Page 244]]
-
     (a) Participant or principal in a ``covered transaction'' (see 
-subpart B of 2 CFR part 180 and the definition of ``nonprocurement 
-transaction'' at 2 CFR 180.970, as supplemented by Sec. 2424.970 of 
-this part);
+subpart B of 2 CFR part 180 and the definition of
+
+[[Page 246]]
+
+``nonprocurement transaction'' at 2 CFR 180.970, as supplemented by 
+Sec. 2424.970 of this part);
     (b) Respondent in a HUD suspension or debarment action;
     (c) HUD debarment or suspension official; or
     (d) HUD grants officer, agreements officer, or other official 
@@ -18277,7 +18737,9 @@ those in the OMB guidance.
 
 
 <R05>
-Sec. 2424.137  Who in HUD may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 2424.137  Who in HUD may grant an exception to let an excluded person 
+
+participate in a covered transaction?
 
     The Secretary or designee may grant an exception permitting an 
 excluded person to participate in a particular covered transaction. If 
@@ -18291,7 +18753,9 @@ policy in Executive Order 12549.
 
 
 <R05>
-Sec. 2424.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 2424.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     In addition to the contracts covered under 2 CFR 180.220(b) of the 
 OMB guidance, this part applies to any contract, regardless of tier, 
@@ -18311,8 +18775,11 @@ appendix to 2 CFR part 180).
 
 
 <R05>
-Sec. 2424.300  What must I do before I enter into a covered transaction with another person at the next lower tier (HUD supplement to governmentwide definition 
-          at 2 CFR 180.300)?
+Sec. 2424.300  What must I do before I enter into a covered transaction with 
+
+another person at the next lower tier (HUD supplement to governmentwide 
+
+definition at 2 CFR 180.300)?
 
     (a) You, as a participant, are responsible for determining whether 
 you are entering into a covered transaction with an excluded or 
@@ -18325,16 +18792,18 @@ that person.
 employers to check the EPLS prior to making salary payments pursuant to 
 that contract.
 
-[[Page 245]]
-
 
 <R05>
-Sec. 2424.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 2424.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     To communicate the requirements to lower-tier participants, you must 
 include a term or condition in the transaction requiring compliance with 
 subpart C of the OMB guidance in 2 CFR part 180, as supplemented by this 
 subpart.
+
+[[Page 247]]
 
 
 <R04>
@@ -18343,7 +18812,9 @@ subpart.
 
 
 <R05>
-Sec. 2424.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 2424.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -18391,7 +18862,9 @@ designee to conduct proceedings under this part.
 
 
 <R05>
-Sec. 2424.970  Nonprocurement transaction (HUD supplement to governmentwide definition at 2 CFR 180.970).
+Sec. 2424.970  Nonprocurement transaction (HUD supplement to governmentwide 
+
+definition at 2 CFR 180.970).
 
     In the case of employment contracts that are covered transactions, 
 each salary payment under the contract is a separate covered 
@@ -18399,7 +18872,9 @@ transaction.
 
 
 <R05>
-Sec. 2424.995  Principal (HUD supplement to governmentwide definition at 2 CFR 180.995).
+Sec. 2424.995  Principal (HUD supplement to governmentwide definition at 2 CFR 
+
+180.995).
 
     A person who has a critical influence on, or substantive control 
 over, a covered transaction, whether or not employed by the participant. 
@@ -18430,14 +18905,13 @@ properties, including properties held by HUD as mortgagee-in-possession;
 insured by HUD;
     (p) Title companies;
     (q) Escrow agents;
-
-[[Page 246]]
-
     (r) Project owners;
     (s) Administrators of hospitals, nursing homes, and projects for the 
 elderly financed or insured by HUD; and
     (t) Developers, sellers, or owners of property financed with loans 
 insured under Title I or Title II of the National Housing Act.
+
+[[Page 248]]
 
 
 <R05>
@@ -18475,7 +18949,9 @@ Administration (FHA).
 
 
 <R05>
-Sec. 2424.1110  When may a HUD official issue a limited denial of participation?
+Sec. 2424.1110  When may a HUD official issue a limited denial of 
+
+participation?
 
     (a) An authorized HUD official may issue a limited denial of 
 participation against a person, based upon adequate evidence of any of 
@@ -18509,22 +18985,23 @@ HUD office.
 adequate evidence for the purpose of limited denial of participation 
 actions. The Indictment or Information need not be based on offenses 
 against HUD.
+
     (c) Imposition of a limited denial of participation by any other HUD 
 office shall constitute adequate evidence for a concurrent limited 
 denial of participation. Where such a concurrent limited denial of 
 participation is imposed, participation may be restricted on the same 
 basis without the need for an additional conference or further hearing.
+
     (d) An affiliate or organizational element may be included in a 
 limited denial of participation solely on the basis of its affiliation, 
 and regardless of its knowledge of or participation in the acts 
 providing cause for the sanction. The burden of proving that a 
-particular affiliate or organizational element is
+particular affiliate or organizational element is currently responsible 
+and not controlled by the primary sanctioned party (or by an entity that 
+itself is controlled by the primary sanctioned party) is on the 
+affiliate or organizational element.
 
-[[Page 247]]
-
-currently responsible and not controlled by the primary sanctioned party 
-(or by an entity that itself is controlled by the primary sanctioned 
-party) is on the affiliate or organizational element.
+[[Page 249]]
 
 
 <R05>
@@ -18601,18 +19078,18 @@ official may reject the recommended decision or any findings of fact,
 only after specifically determining that the decision or any of the 
 facts are arbitrary, capricious, or clearly erroneous.
     (c) In deciding whether to terminate, modify, or affirm a limited 
-denial of
+denial of participation, the Departmental official or designee may 
+consider the factors listed at 2 CFR 180.860. The Departmental Hearing 
+Officer may also consider the factors listed at 2 CFR 180.860 in making 
+any recommended decision.
 
-[[Page 248]]
-
-participation, the Departmental official or designee may consider the 
-factors listed at 2 CFR 180.860. The Departmental Hearing Officer may 
-also consider the factors listed at 2 CFR 180.860 in making any 
-recommended decision.
+[[Page 250]]
 
 
 <R05>
-Sec. 2424.1135  Do Federal agencies coordinate limited denial of participation actions?
+Sec. 2424.1135  Do Federal agencies coordinate limited denial of participation 
+
+actions?
 
     Federal agencies do not coordinate limited denial of participation 
 actions. As stated in Sec. 2424.1100, a limited denial of participation 
@@ -18642,7 +19119,9 @@ be imposed on either a nationwide or a more restricted basis.
 
 
 <R05>
-Sec. 2424.1145  May HUD impute the conduct of one person to another in a limited denial of participation?
+Sec. 2424.1145  May HUD impute the conduct of one person to another in a 
+
+limited denial of participation?
 
     For purposes of determining a limited denial of participation, HUD 
 may impute conduct as follows:
@@ -18673,7 +19152,9 @@ from the conduct is evidence of knowledge, approval, or acquiescence.
 
 
 <R05>
-Sec. 2424.1150  What is the effect of a suspension or debarment on a limited denial of participation?
+Sec. 2424.1150  What is the effect of a suspension or debarment on a limited 
+
+denial of participation?
 
     If you have submitted a request for a hearing pursuant to Sec. 
 2424.1130 of this subpart, and you also receive, pursuant to subpart G 
@@ -18681,14 +19162,14 @@ or H of this part, a notice of proposed debarment or suspension that is
 based on the same transaction(s) or the same conduct as the limited 
 denial of participation, as determined by the debarring or suspending 
 official, the following rules shall apply:
-
-[[Page 249]]
-
     (a) During the 30-day period after you receive a notice of proposed 
 debarment or suspension, during which you may elect to contest the 
 debarment under 2 CFR 180.815, or the suspension pursuant to 2 CFR 
 180.720, all proceedings in the limited denial of participation, 
 including discovery, are automatically stayed.
+
+[[Page 251]]
+
     (b) If you do not contest the proposed debarment pursuant to 2 CFR 
 180.815, or the suspension pursuant to 2 CFR 180.720, the final 
 imposition of the debarment or suspension shall also constitute a final 
@@ -18730,7 +19211,9 @@ denial of participation and the suspension or debarment.
 
 
 <R05>
-Sec. 2424.1155  What is the effect of a limited denial of participation on a suspension or a debarment?
+Sec. 2424.1155  What is the effect of a limited denial of participation on a 
+
+suspension or a debarment?
 
     The imposition of a limited denial of participation does not affect 
 the right of the Department to suspend or debar any person under this 
@@ -18738,7 +19221,9 @@ part.
 
 
 <R05>
-Sec. 2424.1160  May a limited denial of participation be terminated before the term of the limited denial of participation expires?
+Sec. 2424.1160  May a limited denial of participation be terminated before the 
+
+term of the limited denial of participation expires?
 
     If the cause for the limited denial of participation is resolved 
 before the expiration of the 12-month period, the official who imposed 
@@ -18755,7 +19240,7 @@ limited denial of participation shall notify the Director of the
 Compliance Division in the Departmental Enforcement Center of the scope 
 of the limited denial of participation.
 
-[[Page 251]]
+[[Page 253]]
 
 
 <R02>
@@ -18766,9 +19251,9 @@ of the limited denial of participation.
 
   --------------------------------------------------------------------
 Part                                                                Page
-2520            Nonprocurement debarment and suspension.....         251
+2520            Nonprocurement debarment and suspension.....         255
 
-[[Page 253]]
+[[Page 255]]
 
 
 <R03>
@@ -18803,7 +19288,7 @@ SEC.
 2520.437 What method do I use to communicate to a participant the 
           requirements described in the OMB guidance at 2 CFR 180.435?
 
-Subparts E-I [Reserved]
+Subparts E-I [Reserved]<ls-thn-eq>
 
     Authority: 42 U.S.C. 1870(a); Sec. 2455, Pub. L. 103-355, 108 Stat. 
 3327; E.O. 12549, 3 CFR, 1986 Comp., p. 189; E.O. 12689, 3 CFR, 1989 
@@ -18821,22 +19306,27 @@ as the NSF policies and procedures for nonprocurement debarment and
 suspension. It thereby gives regulatory effect for NSF to the OMB 
 guidance as supplemented by this part. This part satisfies the 
 requirements in section 3 of Executive Order 12549, ``Debarment and 
-Suspension'' (3 CFR 1986 Comp., p. 189), Executive Order 12689, 
-``Debarment and Suspension'' (3 CFR 1989 Comp., p. 235) and 31 U.S.C. 
-6101 note (Section 2455, Public Law 103-355, 108 Stat. 3327).
+Suspension'' (3 CFR 1986 Comp., p. 189),
+    Executive Order 12689, ``Debarment and Suspension'' (3 CFR 1989 
+Comp., p. 235) and 31 U.S.C. 6101 note (Section 2455, Public Law 103-
+355, 108 Stat. 3327).
 
 
 <R05>
 Sec. 2520.20  Does this part apply to me?
 
     This part and, through this part, pertinent portions of the OMB 
-guidance in subparts A through I of 2 CFR Part 180 (see table at 2 CFR 
+guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 
 180.100(b)) apply to you if you are a--
+
     (a) Participant or principal in a ``covered transaction'' (see 
-subpart B of 2 CFR part 180 and the definition of ``nonprocurement 
+Subpart B of 2 CFR part 180 and the definition of ``nonprocurement 
 transaction'' at 2 CFR 180.970).
+
     (b) Respondent in an NSF suspension or debarment action.
+
     (c) NSF debarment or suspension official.
+
     (d) NSF grants officer, agreements officer, or other official 
 authorized to enter into any type of nonprocurement transaction that is 
 a covered transaction.
@@ -18862,13 +19352,15 @@ those in the OMB guidance.
 
 
 <R05>
-Sec. 2520.137  Who in NSF may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 2520.137  Who in NSF may grant an exception to let an excluded person 
+
+participate in a covered transaction?
 
     The NSF Director and the Deputy Director have the authority to grant 
 an exception to let an excluded person participate in a covered 
 transaction.
 
-[[Page 254]]
+[[Page 256]]
 
 
 <R04>
@@ -18876,7 +19368,9 @@ transaction.
 
 
 <R05>
-Sec. 2520.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 2520.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see optional lower tier coverage in the figure in 
@@ -18890,7 +19384,9 @@ procurement contracts under a covered nonprocurement transaction.
 
 
 <R05>
-Sec. 2520.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 2520.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
@@ -18903,7 +19399,9 @@ of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
 
 
 <R05>
-Sec. 2520.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 2520.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -18914,7 +19412,7 @@ covered transactions.
 
 Subparts E-I [Reserved]
 
-[[Page 255]]
+[[Page 257]]
 
 
 <R02>
@@ -18925,9 +19423,9 @@ Subparts E-I [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-2600            Nonprocurement debarment and suspension.....         255
+2600            Nonprocurement debarment and suspension.....         259
 
-[[Page 257]]
+[[Page 259]]
 
 
 <R03>
@@ -19021,13 +19519,15 @@ those in the OMB guidance.
 
 
 <R05>
-Sec. 2600.137  Who in NARA may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 2600.137  Who in NARA may grant an exception to let an excluded person 
+
+participate in a covered transaction?
 
     The Archivist of the United States or designee may grant an 
 exception permitting an excluded person to participate in a particular 
 covered transaction as provided in the OMB guidance at 2 CFR 180.135.
 
-[[Page 258]]
+[[Page 260]]
 
 
 <R04>
@@ -19035,7 +19535,9 @@ covered transaction as provided in the OMB guidance at 2 CFR 180.135.
 
 
 <R05>
-Sec. 2600.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 2600.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see optional lower tier coverage in the figure in 
@@ -19049,7 +19551,9 @@ procurement contracts under a covered nonprocurement transaction.
 
 
 <R05>
-Sec. 2600.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 2600.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
@@ -19062,7 +19566,9 @@ of the OMB guidance in 2 CFR part 180.
 
 
 <R05>
-Sec. 2600.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 2600.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -19072,7 +19578,7 @@ condition in lower-tier covered transactions.
 
 Subparts E-J [Reserved]
 
-[[Page 259]]
+[[Page 261]]
 
 
 <R02>
@@ -19083,9 +19589,9 @@ Subparts E-J [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-2700            Nonprocurement debarment and suspension.....         259
+2700            Nonprocurement debarment and suspension.....         263
 
-[[Page 261]]
+[[Page 263]]
 
 
 <R03>
@@ -19142,9 +19648,7 @@ Sec.
 2700.1010 Suspending official (SBA supplement to government-wide 
           definition at 2 CFR 180.1010).
 
-                          Subpart J [Reserved]
-
-
+Subpart J [Reserved]
 
     Authority: Sec. 2455, Pub. L. 103-355, 108 Stat. 3327 (31 U.S.C. 
 6101 note); E.O. 12549 (3 CFR, 1986 Comp., p. 189); E.O. 12689 (3 CFR, 
@@ -19190,15 +19694,15 @@ Sec. 2700.30  What policies and procedures must I follow?
     The SBA policies and procedures you must follow are the policies and 
 procedures specified in each applicable section of the OMB guidance in 
 subparts A through I of 2 CFR part 180, as that section is supplemented 
-by the section in this part with the same section number. The contracts 
-that are covered transactions, for example, are specified by section 220 
-of the OMB guidance (i.e., 2 CFR 180.220) as supplemented by section 220 
-of this part (i.e., Sec. 2700.220).
+by the section in this part with the same section number.
+    The contracts that are covered transactions, for example, are 
+specified by section 220 of the OMB guidance (i.e., 2
 
-[[Page 262]]
+[[Page 264]]
 
-For any section of OMB guidance in subparts A through I of 2 CFR 180 
-that has no corresponding section in this part, SBA policies and 
+CFR 180.220) as supplemented by section 220 of this part (i.e., Sec. 
+2700.220). For any section of OMB guidance in subparts A through I of 2 
+CFR 180 that has no corresponding section in this part, SBA policies and 
 procedures are those in the OMB guidance.
 
 
@@ -19207,13 +19711,17 @@ procedures are those in the OMB guidance.
 
 
 <R05>
-Sec. 2700.137  Who in the Small Business Administration may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 2700.137  Who in the Small Business Administration may grant an exception 
 
-    The Director of the Office of Lender Oversight may grant an 
+to let an excluded person participate in a covered transaction?
+
+    The Director of the Office of Credit Risk Management may grant an 
 exception permitting an excluded person to participate in a particular 
 covered transaction under SBA's financial assistance programs. For all 
-other Agency programs, the Director of the Office of Business Operations 
+other Agency programs, the Associate General Counsel for Procurement Law 
 may grant such an exception.
+
+[72 FR 39728, July 20, 2007, as amended at 73 FR 43348, July 25, 2008]
 
 
 <R04>
@@ -19221,7 +19729,9 @@ may grant such an exception.
 
 
 <R05>
-Sec. 2700.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 2700.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     In addition to the contracts covered under 2 CFR 180.22(b) of the 
 OMB guidance, this part applies to any contract, regardless of tier, 
@@ -19241,7 +19751,9 @@ appendix to 2 CFR part 180)
 
 
 <R05>
-Sec. 2700.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 2700.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You, as a participant, must include a term or condition in lower-
 tier transactions requiring lower-tier participants to comply with 
@@ -19255,7 +19767,9 @@ part.
 
 
 <R05>
-Sec. 2700.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 2700.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -19284,18 +19798,18 @@ outcome of the matter; or
     (2) You may request that the SBA Office of Hearings and Appeals 
 (OHA) review the suspending official's decision to continue your 
 suspension within 30 days of your receipt of the suspending official's 
-decision under Sec. 180.755 or paragraph (a)(1) of this section. 
-However, OHA may reverse the suspending official's decision only where 
-OHA finds that the decision is based on a clear error of material fact 
-or law, or where OHA finds that the suspending official's decision was 
-arbitrary, capricious, or an abuse of discretion. You may appeal the 
-suspending official's decision without requesting reconsideration, or 
-you may appeal the decision
+decision under Sec. 180.755 or
 
-[[Page 263]]
+[[Page 265]]
 
-of the suspending official on reconsideration. The procedures governing 
-OHA appeals are set forth in 13 CFR part 134.
+paragraph (a)(1) of this section. However, OHA may reverse the 
+suspending official's decision only where OHA finds that the decision is 
+based on a clear error of material fact or law, or where OHA finds that 
+the suspending official's decision was arbitrary, capricious, or an 
+abuse of discretion. You may appeal the suspending official's decision 
+without requesting reconsideration, or you may appeal the decision of 
+the suspending official on reconsideration. The procedures governing OHA 
+appeals are set forth in 13 CFR part 134.
     (b) A request for review under this section must be in writing; 
 state the specific findings you believe to be in error; and include the 
 reasons or legal bases for your position.
@@ -19346,16 +19860,22 @@ forth at Sec. Sec. 180.615 and 180.975.
 
 
 <R05>
-Sec. 2700.930  Debarring official (SBA supplement to government-wide definition at 2 CFR 180.930).
+Sec. 2700.930  Debarring official (SBA supplement to government-wide 
+
+definition at 2 CFR 180.930).
 
     For SBA, the debarring official for financial assistance programs is 
-the Director of the Office of Lender Oversight; for all other programs, 
-the debarring official is the Director of the Office of Business 
-Operations.
+the Director of the Office of Credit Risk Management; for all other 
+programs, the debarring official is the Associate General Counsel for 
+Procurement Law.
+
+[72 FR 39728, July 20, 2007, as amended at 73 FR 43348, July 25, 2008]
 
 
 <R05>
-Sec. 2700.995  Principal (SBA supplement to government-wide definition at 2 CFR 180.995).
+Sec. 2700.995  Principal (SBA supplement to government-wide definition at 2 
+
+CFR 180.995).
 
     Principal means--
     (a) Other examples of individuals who are principals in SBA covered 
@@ -19372,18 +19892,24 @@ CDC, SBIC, SBDC, and section 7(j) programs.
     (5) Individuals that certify, authenticate or authorize billings.
     (b) [Reserved]
 
+[[Page 266]]
+
 
 <R05>
-Sec. 2700.1010  Suspending official (SBA supplement to government-wide definition at 2 CFR 180.1010).
+Sec. 2700.1010  Suspending official (SBA supplement to government-wide 
+
+definition at 2 CFR 180.1010).
 
     For SBA, the suspending official for financial assistance programs 
-is the Director of the Office of Lender Oversight; for all other 
-programs, the suspending official is the Director of the Office of 
-Business Operations.
+is the Director of the Office of Credit Risk Management; for all other 
+programs, the suspending official is the Associate General Counsel for 
+Procurement Law.
+
+[72 FR 39728, July 20, 2007, as amended at 73 FR 43348, July 25, 2008]
 
 Subpart J [Reserved]
 
-[[Page 265]]
+[[Page 267]]
 
 
 <R02>
@@ -19394,9 +19920,9 @@ Subpart J [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-2867            Nonprocurement debarment and suspension.....         265
+2867            Nonprocurement debarment and suspension.....         269
 
-[[Page 267]]
+[[Page 269]]
 
 
 <R03>
@@ -19494,13 +20020,15 @@ Justice policies and procedures are those in the OMB guidance.
 
 
 <R05>
-Sec. 2867.137  Who in the Department of Justice may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 2867.137  Who in the Department of Justice may grant an exception to let 
+
+an excluded person participate in a covered transaction?
 
     Within the Department of Justice, the Attorney General or designee 
 has the authority to grant an exception to let an excluded person 
 participate in a
 
-[[Page 268]]
+[[Page 270]]
 
 covered transaction, as provided in the OMB guidance at 2 CFR 180.135.
 
@@ -19510,7 +20038,9 @@ covered transaction, as provided in the OMB guidance at 2 CFR 180.135.
 
 
 <R05>
-Sec. 2867.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 2867.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see optional lower tier coverage in the figure in 
@@ -19525,7 +20055,9 @@ transaction.
 
 
 <R05>
-Sec. 2867.332  What method must a participant use to pass requirements down to participants at lower tiers with whom the participant intends to do business?
+Sec. 2867.332  What method must a participant use to pass requirements down to 
+
+participants at lower tiers with whom the participant intends to do business?
 
     A participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
@@ -19538,7 +20070,9 @@ of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
 
 
 <R05>
-Sec. 2867.437  What method must be used to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 2867.437  What method must be used to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, the communication must include a term or 
@@ -19549,7 +20083,175 @@ condition in lower-tier covered transactions.
 
 Subparts E-J [Reserved]
 
-[[Page 269]]
+[[Page 271]]
+
+
+<R02>
+         CHAPTER XXXI--INSTITUTE OF MUSEUM AND LIBRARY SERVICES
+
+
+<R03>
+
+  --------------------------------------------------------------------
+Part                                                                Page
+3185            Nonprocurement debarment and suspension.....         273
+
+[[Page 273]]
+
+
+<R03>
+PART 3185_NONPROCUREMENT DEBARMENT AND SUSPENSION--Table of Contents
+
+<R05>
+
+
+Sec.
+3185.10 What does this part do?
+3185.20 Does this part apply to me?
+3185.30 What policies and procedures must I follow?
+
+                            Subpart A_General
+
+3185.137 Who in IMLS may grant an exception to let an excluded person 
+          participate in a covered transaction?
+
+                     Subpart B_Covered Transactions
+
+3185.220 What contracts and subcontracts, in addition to those listed in 
+          2 CFR 180.220, are covered transactions?
+
+    Subpart C_Responsibilities of Participants Regarding Transactions
+
+3185.332 What methods must I use to pass requirements down to 
+          participants at lower tiers with whom I intend to do business?
+
+    Subpart D_Responsibilities of Federal Agency Officials Regarding 
+                              Transactions
+
+3185.437 What method do I use to communicate to a participant the 
+          requirements described in the OMB guidance at 2 CFR 180.435?
+
+Subparts E-I [Reserved]
+
+    Authority: 20 U.S.C. 9103(f); Sec. 2455, Pub. L. 103-355, 108 Stat. 
+3327; E.O. 12549, 3 CFR, 1986 Comp., p. 189; E.O. 12689, 3 CFR, 1989 
+Comp., p. 235.
+
+    Source: 73 FR 46529, Aug. 11, 2008, unless otherwise noted.
+
+
+<R05>
+Sec. 3185.10  What does this part do?
+
+    This part adopts the Office of Management and Budget (OMB) guidance 
+in subparts A through I of 2 CFR part 180, as supplemented by this part, 
+as the Institute of Museum and Library Services (IMLS) policies and 
+procedures for nonprocurement debarment and suspension. It thereby gives 
+regulatory effect for IMLS to the OMB guidance as supplemented by this 
+part. This part satisfies the requirements in section 3 of Executive 
+Order 12549, ``Debarment and Suspension'' (3 CFR 1986 Comp., p. 189), 
+Executive Order 12689, ``Debarment and Suspension'' (3 CFR 1989 Comp., 
+p. 235) and 31 U.S.C. 6101 note (Section 2455, Pub. L. 103-355, 108 
+Stat. 3327).
+
+
+<R05>
+Sec. 3185.20  Does this part apply to me?
+
+    This part and, through this part, pertinent portions of the OMB 
+guidance in subparts A through I of 2 CFR part 180 (see table at 2 CFR 
+180.100(b)) apply to you if you are a--
+    (a) Participant or principal in a ``covered transaction'' (see 
+Subpart B of 2 CFR part 180 and the definition of ``nonprocurement 
+transaction'' at 2 CFR 180.970.
+    (b) Respondent in an IMLS suspension or debarment action.
+    (c) IMLS debarment or suspension official;
+    (d) IMLS grants officer, agreements officer, or other official 
+authorized to enter into any type of nonprocurement transaction that is 
+a covered transaction.
+
+
+<R05>
+Sec. 3185.30  What policies and procedures must I follow?
+
+    The IMLS policies and procedures that you must follow are the 
+policies and procedures specified in each applicable section of the OMB 
+guidance in subparts A through I of 2 CFR part 180, as that section is 
+supplemented by the section in this part with the same section number. 
+The contracts that are covered transactions, for example, are specified 
+by section 220 of the OMB guidance (i.e., 2 CFR 180.220) as supplemented 
+by section 220 in this part (i.e., Sec. 3185.220). For any section of 
+OMB guidance in subparts A through I of 2 CFR 180 that has no 
+corresponding section in this part, IMLS policies and procedures are 
+those in the OMB guidance.
+
+
+<R04>
+                            Subpart A_General
+
+
+<R05>
+Sec. 3185.137  Who in the IMLS may grant an exception to let an excluded 
+
+person participate in a covered transaction?
+
+    The IMLS Director has the authority to grant an exception to let an 
+excluded person participate in a covered transaction, as provided in the 
+OMB guidance at 2 CFR 180.135.
+
+[[Page 274]]
+
+
+<R04>
+                     Subpart B_Covered Transactions
+
+
+<R05>
+Sec. 3185.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
+
+    Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
+agency to do so (also see optional lower-tier coverage in the figure in 
+the appendix to 2 CFR part 180), IMLS does not extend coverage of 
+nonprocurement suspension and debarment requirements beyond first-tier 
+procurement contracts under a covered nonprocurement transaction.
+
+
+<R04>
+    Subpart C_Responsibilities of Participants Regarding Transactions
+
+
+<R05>
+Sec. 3185.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
+
+    You as a participant must include a term or condition in lower-tier 
+transactions requiring lower-tier participants to comply with subpart C 
+of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
+
+
+<R04>
+    Subpart D_Responsibilities of Federal Agency Officials Regarding 
+                              Transactions
+
+
+<R05>
+Sec. 3185.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
+
+    To communicate to a participant the requirements described in 2 CFR 
+180.435 of the OMB guidance, you must include a term or condition in the 
+transaction that requires the participant's compliance with subpart C of 
+2 CFR part 180, as supplemented by subpart C of this part, and requires 
+the participant to include a similar term or condition in lower-tier 
+covered transactions.
+
+Subparts E-I [Reserved]
+
+[[Page 275]]
 
 
 <R02>
@@ -19560,9 +20262,9 @@ Subparts E-J [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-3254            Nonprocurement debarment and suspension.....         269
+3254            Nonprocurement debarment and suspension.....         277
 
-[[Page 271]]
+[[Page 277]]
 
 
 <R03>
@@ -19656,13 +20358,15 @@ those in the OMB guidance.
 
 
 <R05>
-Sec. 3254.137  Who in the NEA may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 3254.137  Who in the NEA may grant an exception to let an excluded person 
+
+participate in a covered transaction?
 
     The NEA Chairman has the authority to grant an exception to let an 
 excluded person participate in a covered transaction, as provided in the 
 OMB guidance at 2 CFR 180.135.
 
-[[Page 272]]
+[[Page 278]]
 
 
 <R04>
@@ -19670,7 +20374,9 @@ OMB guidance at 2 CFR 180.135.
 
 
 <R05>
-Sec. 3254.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 3254.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see options lower tier coverage in the figure in 
@@ -19684,7 +20390,9 @@ procurement contracts under a covered nonprocurement transaction.
 
 
 <R05>
-Sec. 3254.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 3254.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
@@ -19697,7 +20405,9 @@ of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
 
 
 <R05>
-Sec. 3254.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 3254.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -19708,7 +20418,7 @@ covered transactions.
 
 Subparts E-I [Reserved]
 
-[[Page 273]]
+[[Page 279]]
 
 
 <R02>
@@ -19719,9 +20429,9 @@ Subparts E-I [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-3369            Nonprocurement debarment and suspension.....         273
+3369            Nonprocurement debarment and suspension.....         281
 
-[[Page 275]]
+[[Page 281]]
 
 
 <R03>
@@ -19816,13 +20526,15 @@ those in the OMB guidance.
 
 
 <R05>
-Sec. 3369.137  Who in the NEH may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 3369.137  Who in the NEH may grant an exception to let an excluded person 
+
+participate in a covered transaction?
 
     The NEH Chairman has the authority to grant an exception to let an 
 excluded person participate in a covered transaction, as provided in the 
 OMB guidance at 2 CFR 180.135.
 
-[[Page 276]]
+[[Page 282]]
 
 
 <R04>
@@ -19830,7 +20542,9 @@ OMB guidance at 2 CFR 180.135.
 
 
 <R05>
-Sec. 3369.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 3369.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see optional lower tier coverage in the figure in 
@@ -19844,7 +20558,9 @@ procurement contracts under a covered nonprocurement transaction.
 
 
 <R05>
-Sec. 3369.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 3369.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
 transactions requiring lower-tier participants to comply with subpart C 
@@ -19857,7 +20573,9 @@ of the OMB guidance in 2 CFR part 180, as supplemented by this subpart.
 
 
 <R05>
-Sec. 3369.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 3369.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -19868,7 +20586,7 @@ covered transactions.
 
 Subparts E-I [Reserved]
 
-[[Page 277]]
+[[Page 283]]
 
 
 <R02>
@@ -19879,9 +20597,9 @@ Subparts E-I [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-3513            Nonprocurement debarment and suspension.....         277
+3513            Nonprocurement debarment and suspension.....         285
 
-[[Page 279]]
+[[Page 285]]
 
 
 <R03>
@@ -19976,14 +20694,16 @@ are those in the OMB guidance.
 
 
 <R05>
-Sec. 3513.137  Who in Ex-Im Bank may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 3513.137  Who in Ex-Im Bank may grant an exception to let an excluded 
+
+person participate in a covered transaction?
 
     (a) The Ex-Im Bank agency head or designee may grant an exception 
 permitting an excluded person to participate in a particular covered 
 transacting. If the Ex-Im Bank agency head or designee grants an 
 exception, the exception must be in writing and
 
-[[Page 280]]
+[[Page 286]]
 
 state the reason(s) for deviating from the government wide policy in 
 Executive Order 12549.
@@ -19996,7 +20716,9 @@ not extend to the covered transactions of another agency.
 
 
 <R05>
-Sec. 3513.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 3513.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see optional lower tier coverage in the figure in 
@@ -20010,7 +20732,9 @@ procurement under a covered nonprocurement transaction.
 
 
 <R05>
-Sec. 3513.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 3513.332ca  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     To communicate the requirements, you must include a term or 
 condition in the transaction requiring the participants' compliance with 
@@ -20024,7 +20748,9 @@ condition in lower-tiered covered transactions.
 
 
 <R05>
-Sec. 3513.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 3513.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you must include a term or condition in the 
@@ -20035,7 +20761,7 @@ covered transactions.
 
 Subparts E-J [Reserved]
 
-[[Page 281]]
+[[Page 287]]
 
 
 <R02>
@@ -20046,9 +20772,9 @@ Subparts E-J [Reserved]
 
   --------------------------------------------------------------------
 Part                                                                Page
-3700            Nonprocurement debarment and suspension.....         281
+3700            Nonprocurement debarment and suspension.....         289
 
-[[Page 283]]
+[[Page 289]]
 
 
 <R03>
@@ -20100,6 +20826,7 @@ guidance in subparts A through I of 2 CFR part (see table at 2 CFR
     (a) Participant or principal in a ``covered transaction'' (see 
 subpart B of 2 CFR part 180 and the definition of ``nonprocurement 
 transaction'' at 2 CFR 180.970);
+
     (b) Respondent in a Peace Corps suspension or debarment action;
     (c) Peace Corps debarment or suspension official; or
     (d) Peace Corps grants officer, agreements officer, or other 
@@ -20123,7 +20850,9 @@ are those in the OMB guidance.
 
 
 <R05>
-Sec. 3700.137  Who in the Peace Corps may grant an exception to let an excluded person participate in a covered transaction?
+Sec. 3700.137  Who in the Peace Corps may grant an exception to let an 
+
+excluded person participate in a covered transaction?
 
     The Director of the Peace Corps has the authority to grant an 
 exception to let an excluded person participate in a covered 
@@ -20131,7 +20860,9 @@ transaction, as provided in the OMB guidance at 2 CFR 180.135.
 
 
 <R05>
-Sec. 3700.220  What contracts and subcontracts, in addition to those listed in 2 CFR 180.220, are covered transactions?
+Sec. 3700.220  What contracts and subcontracts, in addition to those listed in 
+
+2 CFR 180.220, are covered transactions?
 
     Although the OMB guidance at 2 CFR 180.220(c) allows a Federal 
 agency to do so (also see optional lower tier coverage in the figure in 
@@ -20139,19 +20870,23 @@ the appendix to 2 CFR part 180), Peace Corps does not extend coverage of
 nonprocurement suspension and debarment requirements beyond first-tier 
 procurement contracts under a covered nonprocurement transaction.
 
-[[Page 284]]
+[[Page 290]]
 
 
 <R05>
-Sec. 3700.332  What methods must I use to pass requirements down to participants at lower tiers with whom I intend to do business?
+Sec. 3700.332  What methods must I use to pass requirements down to 
+
+participants at lower tiers with whom I intend to do business?
 
     You as a participant must include a term or condition in lower-tier 
-transactions requiring lower-tier participants to comply with Subpart C 
+transactions requiring lower-tier participants to comply with subpart C 
 of the OMB guidance in 2 CFR part 180.
 
 
 <R05>
-Sec. 3700.437  What method do I use to communicate to a participant the requirements described in the OMB guidance at 2 CFR 180.435?
+Sec. 3700.437  What method do I use to communicate to a participant the 
+
+requirements described in the OMB guidance at 2 CFR 180.435?
 
     To communicate to a participant the requirements described in 2 CFR 
 180.435 of the OMB guidance, you as an agency official must include a 
@@ -20161,7 +20896,7 @@ participant to include a similar term or condition in lower-tier covered
 transactions.
 
 
-[[Page 285]]
+[[Page 291]]
 
 
 <R02>
@@ -20181,7 +20916,7 @@ which is published separately and revised annually.
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
-[[Page 287]]
+[[Page 293]]
 
 
 <R03>
@@ -20190,7 +20925,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2008)
+                     (Revised as of January 1, 2009)
 
                       Title 1--General Provisions
 
@@ -20216,18 +20951,22 @@ which is published separately and revised annually.
       VIII  Department of Veterans Affairs (Parts 800--899)
         IX  Department of Energy (Parts 900--999)
         XI  Department of Defense (Parts 1100--1199)
+       XII  Department of Transportation (Parts 1200--1299)
        XIV  Department of the Interior (Parts 1400--1499)
         XV  Environmental Protection Agency (Parts 1500--1599)
      XVIII  National Aeronautics and Space Administration (Parts 
                 1880--1899)
       XXII  Corporation for National and Community Service (Parts 
                 2200--2299)
+     XXIII  Social Security Administration (Parts 2300--2399)
       XXIV  Housing and Urban Development (Parts 2400--2499)
        XXV  National Science Foundation (Parts 2500--2599)
       XXVI  National Archives and Records Administration (Parts 
                 2600--2699)
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
+      XXXI  Institute of Museum and Library Services (Parts 3100--
+                3199)
      XXXII  National Endowment for the Arts (Parts 3200--3299)
     XXXIII  National Endowment for the Humanities (Parts 3300--
                 3399)
@@ -20235,7 +20974,7 @@ which is published separately and revised annually.
                 3599)
     XXXVII  Peace Corps (Parts 3700--3799)
 
-[[Page 288]]
+[[Page 294]]
 
                         Title 3--The President
 
@@ -20294,7 +21033,7 @@ which is published separately and revised annually.
                 6299)
       LIII  Department of Education (Parts 6300--6399)
 
-[[Page 289]]
+[[Page 295]]
 
        LIV  Environmental Protection Agency (Parts 6400--6499)
         LV  National Endowment for the Arts (Parts 6500--6599)
@@ -20317,6 +21056,7 @@ which is published separately and revised annually.
                 7600--7699)
      LXVII  Institute of Museum and Library Services (Parts 7700--
                 7799)
+    LXVIII  Commission on Civil Rights (Parts 7800--7899)
       LXIX  Tennessee Valley Authority (Parts 7900--7999)
       LXXI  Consumer Product Safety Commission (Parts 8100--8199)
     LXXIII  Department of Agriculture (Parts 8300--8399)
@@ -20351,11 +21091,11 @@ which is published separately and revised annually.
                 Agriculture (Parts 27--209)
         II  Food and Nutrition Service, Department of Agriculture 
                 (Parts 210--299)
+
+[[Page 296]]
+
        III  Animal and Plant Health Inspection Service, Department 
                 of Agriculture (Parts 300--399)
-
-[[Page 290]]
-
         IV  Federal Crop Insurance Corporation, Department of 
                 Agriculture (Parts 400--499)
          V  Agricultural Research Service, Department of 
@@ -20409,11 +21149,11 @@ which is published separately and revised annually.
      XXXIV  Cooperative State Research, Education, and Extension 
                 Service, Department of Agriculture (Parts 3400--
                 3499)
+
+[[Page 297]]
+
       XXXV  Rural Housing Service, Department of Agriculture 
                 (Parts 3500--3599)
-
-[[Page 291]]
-
      XXXVI  National Agricultural Statistics Service, Department 
                 of Agriculture (Parts 3600--3699)
     XXXVII  Economic Research Service, Department of Agriculture 
@@ -20424,6 +21164,9 @@ which is published separately and revised annually.
       XLII  Rural Business-Cooperative Service and Rural Utilities 
                 Service, Department of Agriculture (Parts 4200--
                 4299)
+         L  Rural Business-Cooperative Service, Rurual Housing 
+                Service, and Rural Utilities Service, Department 
+                of Agriculture (Parts 5000--5099)
 
                     Title 8--Aliens and Nationality
 
@@ -20459,6 +21202,9 @@ which is published separately and revised annually.
                       Title 11--Federal Elections
 
          I  Federal Election Commission (Parts 1--9099)
+        II  Election Assistance Commission (Parts9400--9499)
+
+[[Page 298]]
 
                       Title 12--Banks and Banking
 
@@ -20468,9 +21214,6 @@ which is published separately and revised annually.
        III  Federal Deposit Insurance Corporation (Parts 300--399)
         IV  Export-Import Bank of the United States (Parts 400--
                 499)
-
-[[Page 292]]
-
          V  Office of Thrift Supervision, Department of the 
                 Treasury (Parts 500--599)
         VI  Farm Credit Administration (Parts 600--699)
@@ -20479,6 +21222,7 @@ which is published separately and revised annually.
         IX  Federal Housing Finance Board (Parts 900--999)
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
+       XII  Federal Housing Finance Agency (Parts 1200--1299)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
         XV  Department of the Treasury (Parts 1500--1599)
@@ -20493,10 +21237,9 @@ which is published separately and revised annually.
          I  Small Business Administration (Parts 1--199)
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
-        IV  Emergency Steel Guarantee Loan Board, Department of 
-                Commerce (Parts 400--499)
-         V  Emergency Oil and Gas Guaranteed Loan Board, 
-                Department of Commerce (Parts 500--599)
+        IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
+         V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
+                500--599)
 
                     Title 14--Aeronautics and Space
 
@@ -20520,13 +21263,13 @@ which is published separately and revised annually.
                 Foreign Trade
          I  Bureau of the Census, Department of Commerce (Parts 
                 30--199)
+
+[[Page 299]]
+
         II  National Institute of Standards and Technology, 
                 Department of Commerce (Parts 200--299)
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
-
-[[Page 293]]
-
         IV  Foreign-Trade Zones Board, Department of Commerce 
                 (Parts 400--499)
        VII  Bureau of Industry and Security, Department of 
@@ -20575,13 +21318,13 @@ which is published separately and revised annually.
          I  Bureau of Customs and Border Protection, Department of 
                 Homeland Security; Department of the Treasury 
                 (Parts 0--199)
+
+[[Page 300]]
+
         II  United States International Trade Commission (Parts 
                 200--299)
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
-
-[[Page 294]]
-
         IV  Bureau of Immigration and Customs Enforcement, 
                 Department of Homeland Security (Parts 400--599)
 
@@ -20632,13 +21375,13 @@ which is published separately and revised annually.
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
       XIII  Millenium Challenge Corporation (Parts 1300--1399)
+
+[[Page 301]]
+
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
                 Service Impasse Disputes Panel (Parts 1400--1499)
-
-[[Page 295]]
-
         XV  African Development Foundation (Parts 1500--1599)
        XVI  Japan-United States Friendship Commission (Parts 
                 1600--1699)
@@ -20664,7 +21407,7 @@ which is published separately and revised annually.
                 Department of Housing and Urban Development (Parts 
                 100--199)
         II  Office of Assistant Secretary for Housing-Federal 
-                Housing Commissioner, Department of Housing and 
+                HousingCommissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
@@ -20691,13 +21434,13 @@ which is published separately and revised annually.
         IX  Office of Assistant Secretary for Public and Indian 
                 Housing, Department of Housing and Urban 
                 Development (Parts 900--1699)
+
+[[Page 302]]
+
          X  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Interstate Land Sales 
                 Registration Program) (Parts 1700--1799)
-
-[[Page 296]]
-
        XII  Office of Inspector General, Department of Housing and 
                 Urban Development (Parts 2000--2099)
         XX  Office of Assistant Secretary for Housing--Federal 
@@ -20746,13 +21489,13 @@ which is published separately and revised annually.
         VI  Offices of Independent Counsel, Department of Justice 
                 (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
+
+[[Page 303]]
+
       VIII  Court Services and Offender Supervision Agency for the 
                 District of Columbia (Parts 800--899)
         IX  National Crime Prevention and Privacy Compact Council 
                 (Parts 900--999)
-
-[[Page 297]]
-
         XI  Department of Justice and Department of State (Parts 
                 1100--1199)
 
@@ -20804,14 +21547,14 @@ which is published separately and revised annually.
 
             Subtitle A--Office of the Secretary of the Treasury 
                 (Parts 0--50)
+
+[[Page 304]]
+
             Subtitle B--Regulations Relating to Money and Finance
          I  Monetary Offices, Department of the Treasury (Parts 
                 51--199)
         II  Fiscal Service, Department of the Treasury (Parts 
                 200--399)
-
-[[Page 298]]
-
         IV  Secret Service, Department of the Treasury (Parts 
                 400--499)
          V  Office of Foreign Assets Control, Department of the 
@@ -20864,13 +21607,13 @@ which is published separately and revised annually.
 
             Subtitle A--Office of the Secretary, Department of 
                 Education (Parts 1--99)
+
+[[Page 305]]
+
             Subtitle B--Regulations of the Offices of the 
                 Department of Education
          I  Office for Civil Rights, Department of Education 
                 (Parts 100--199)
-
-[[Page 299]]
-
         II  Office of Elementary and Secondary Education, 
                 Department of Education (Parts 200--299)
        III  Office of Special Education and Rehabilitative 
@@ -20881,6 +21624,8 @@ which is published separately and revised annually.
                 Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
                 Education (Parts 600--699)
+       VII  Office of Educational Research and Improvmeent, 
+                Department of Education [Reserved]
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
@@ -20897,6 +21642,7 @@ which is published separately and revised annually.
                 300--399)
         IV  American Battle Monuments Commission (Parts 400--499)
          V  Smithsonian Institution (Parts 500--599)
+        VI  [Reserved]
        VII  Library of Congress (Parts 700--799)
       VIII  Advisory Council on Historic Preservation (Parts 800--
                 899)
@@ -20919,6 +21665,9 @@ which is published separately and revised annually.
         II  Copyright Office, Library of Congress (Parts 200--299)
        III  Copyright Royalty Board, Library of Congress (Parts 
                 301--399)
+
+[[Page 306]]
+
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
@@ -20927,8 +21676,6 @@ which is published separately and revised annually.
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
          I  Department of Veterans Affairs (Parts 0--99)
-
-[[Page 300]]
 
                        Title 39--Postal Service
 
@@ -20961,21 +21708,27 @@ which is published separately and revised annually.
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
+            Chapters 62--100 [Reserved]
             Subtitle C--Federal Property Management Regulations 
                 System
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
+            Chapters 103--104 [Reserved]
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
        128  Department of Justice (Parts 128-1--128-99)
+
+[[Page 307]]
+
+            Chapters 129--200 [Reserved]
             Subtitle D--Other Provisions Relating to Property 
                 Management [Reserved]
             Subtitle E--Federal Information Resources Management 
-                Regulations System
+                Regulations System [Reserved]
             Subtitle F--Federal Travel Regulation System
        300  General (Parts 300-1--300-99)
        301  Temporary Duty (TDY) Travel Allowances (Parts 301-1--
@@ -20985,8 +21738,6 @@ which is published separately and revised annually.
                 Certain Employees (Part 303-1--303-99)
        304  Payment of Travel Expenses from a Non-Federal Source 
                 (Parts 304-1--304-99)
-
-[[Page 301]]
 
                         Title 42--Public Health
 
@@ -21021,6 +21772,9 @@ which is published separately and revised annually.
             Subtitle A--Department of Health and Human Services 
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Welfare
+
+[[Page 308]]
+
         II  Office of Family Assistance (Assistance Programs), 
                 Administration for Children and Families, 
                 Department of Health and Human Services (Parts 
@@ -21036,15 +21790,13 @@ which is published separately and revised annually.
                 States, Department of Justice (Parts 500--599)
         VI  National Science Foundation (Parts 600--699)
        VII  Commission on Civil Rights (Parts 700--799)
-      VIII  Office of Personnel Management (Parts 800--899)
+      VIII  Office of Personnel Management (Parts 800--899) 
+                [Reserved]
          X  Office of Community Services, Administration for 
                 Children and Families, Department of Health and 
                 Human Services (Parts 1000--1099)
         XI  National Foundation on the Arts and the Humanities 
                 (Parts 1100--1199)
-
-[[Page 302]]
-
        XII  Corporation for National and Community Service (Parts 
                 1200--1299)
       XIII  Office of Human Development Services, Department of 
@@ -21069,6 +21821,94 @@ which is published separately and revised annually.
                 (Parts 200--399)
        III  Coast Guard (Great Lakes Pilotage), Department of 
                 Homeland Security (Parts 400--499)
+        IV  Federal Maritime Commission (Parts 500--599)
+
+                      Title 47--Telecommunication
+
+         I  Federal Communications Commission (Parts 0--199)
+        II  Office of Science and Technology Policy and National 
+                Security Council (Parts 200--299)
+
+[[Page 309]]
+
+       III  National Telecommunications and Information 
+                Administration, Department of Commerce (Parts 
+                300--399)
+
+           Title 48--Federal Acquisition Regulations System
+
+         1  Federal Acquisition Regulation (Parts 1--99)
+         2  Defense Acquisition Regulations System, Department of 
+                Defense (Parts 200--299)
+         3  Department of Health and Human Services (Parts 300--
+                399)
+         4  Department of Agriculture (Parts 400--499)
+         5  General Services Administration (Parts 500--599)
+         6  Department of State (Parts 600--699)
+         7  Agency for International Development (Parts 700--799)
+         8  Department of Veterans Affairs (Parts 800--899)
+         9  Department of Energy (Parts 900--999)
+        10  Department of the Treasury (Parts 1000--1099)
+        12  Department of Transportation (Parts 1200--1299)
+        13  Department of Commerce (Parts 1300--1399)
+        14  Department of the Interior (Parts 1400--1499)
+        15  Environmental Protection Agency (Parts 1500--1599)
+        16  Office of Personnel Management, Federal Employees 
+                Health Benefits Acquisition Regulation (Parts 
+                1600--1699)
+        17  Office of Personnel Management (Parts 1700--1799)
+        18  National Aeronautics and Space Administration (Parts 
+                1800--1899)
+        19  Broadcasting Board of Governors (Parts 1900--1999)
+        20  Nuclear Regulatory Commission (Parts 2000--2099)
+        21  Office of Personnel Management, Federal Employees 
+                Group Life Insurance Federal Acquisition 
+                Regulation (Parts 2100--2199)
+        23  Social Security Administration (Parts 2300--2399)
+        24  Department of Housing and Urban Development (Parts 
+                2400--2499)
+        25  National Science Foundation (Parts 2500--2599)
+        28  Department of Justice (Parts 2800--2899)
+        29  Department of Labor (Parts 2900--2999)
+        30  Department of Homeland Security, Homeland Security 
+                Acquisition Regulation (HSAR) (Parts 3000--3099)
+        34  Department of Education Acquisition Regulation (Parts 
+                3400--3499)
+        51  Department of the Army Acquisition Regulations (Parts 
+                5100--5199)
+        52  Department of the Navy Acquisition Regulations (Parts 
+                5200--5299)
+        53  Department of the Air Force Federal Acquisition 
+                Regulation Supplement [Reserved]
+        54  Defense Logistics Agency, Department of Defense (Parts 
+                5400--5499)
+
+[[Page 310]]
+
+        57  African Development Foundation (Parts 5700--5799)
+        61  General Services Administration Board of Contract 
+                Appeals (Parts 6100--6199)
+        63  Department of Transportation Board of Contract Appeals 
+                (Parts 6300--6399)
+        99  Cost Accounting Standards Board, Office of Federal 
+                Procurement Policy, Office of Management and 
+                Budget (Parts 9900--9999)
+
+                       Title 49--Transportation
+
+            Subtitle A--Office of the Secretary of Transportation 
+                (Parts 1--99)
+            Subtitle B--Other Regulations Relating to 
+                Transportation
+         I  Pipeline and Hazardous Materials Safety 
+                Administration, Department of Transportation 
+                (Parts 100--199)
+        II  Federal Railroad Administration, Department of 
+                Transportation (Parts 200--299)
+       III  Federal Motor Carrier Safety Administration, 
+                Department of Transportation (Parts 300--399)
+        IV  Coast Guard, Department of Homeland Security (Parts 
+                400--499)
          V  National Highway Traffic Safety Administration, 
                 Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
@@ -21079,7 +21919,7 @@ which is published separately and revised annually.
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
         XI  Research and Innovative Technology Administration, 
-                Department of Transportation [RESERVED]
+                Department of Transportation [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
 
@@ -21100,7 +21940,7 @@ which is published separately and revised annually.
                 Regulations (Parts 400--499)
          V  Marine Mammal Commission (Parts 500--599)
 
-[[Page 303]]
+[[Page 311]]
 
         VI  Fishery Conservation and Management, National Oceanic 
                 and Atmospheric Administration, Department of 
@@ -21114,7 +21954,7 @@ which is published separately and revised annually.
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 305]]
+[[Page 313]]
 
 
 
@@ -21125,7 +21965,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2008)
+                     (Revised as of January 1, 2009)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -21166,11 +22006,11 @@ Agriculture Department                            5, LXXIII
   Natural Resources Conservation Service          7, VI
   Operations, Office of                           7, XXVIII
   Procurement and Property Management, Office of  7, XXXII
-  Rural Business-Cooperative Service              7, XVIII, XLII
+  Rural Business-Cooperative Service              7, XVIII, XLII, L
   Rural Development Administration                7, XLII
-  Rural Housing Service                           7, XVIII, XXXV
+  Rural Housing Service                           7, XVIII, XXXV, L
   Rural Telephone Bank                            7, XVI
-  Rural Utilities Service                         7, XVII, XVIII, XLII
+  Rural Utilities Service                         7, XVII, XVIII, XLII, L
   Secretary of Agriculture, Office of             7, Subtitle A
   Transportation, Office of                       7, XXXIII
   World Agricultural Outlook Board                7, XXXVIII
@@ -21186,7 +22026,7 @@ American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 
-[[Page 306]]
+[[Page 314]]
 
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -21208,7 +22048,7 @@ Central Intelligence Agency                       32, XIX
 Chief Financial Officer, Office of                7, XXX
 Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
-Civil Rights, Commission on                       45, VII
+Civil Rights, Commission on                       5, LXVIII; 45, VII
 Civil Rights, Office for                          34, I
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
@@ -21261,13 +22101,13 @@ Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
 
-[[Page 307]]
+[[Page 315]]
 
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
-  Defense Acquisition Regulations System          48, II
+  Defense Acquisition Regulations System          48, 2
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
@@ -21301,6 +22141,7 @@ Education, Department of                          5, LIII
        Office of
   Vocational and Adult Education, Office of       34, IV
 Educational Research and Improvement, Office of   34, VII
+Election Assistance Commission                    11, II
 Elementary and Secondary Education, Office of     34, II
 Emergency Oil and Gas Guaranteed Loan Board       13, V
 Emergency Steel Guarantee Loan Board              13, IV
@@ -21332,10 +22173,10 @@ Executive Office of the President                 3, I
                                                   48, 99
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
+
+[[Page 316]]
+
   Presidential Documents                          3
-
-[[Page 308]]
-
   Science and Technology Policy, Office of        32, XXIV; 47, II
   Trade Representative, Office of the United      15, XX
        States
@@ -21365,6 +22206,7 @@ Federal Financing Bank                            12, VIII
 Federal Highway Administration                    23, I, II
 Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
+Federal Housing Finance Agency                    12, XII
 Federal Housing Finance Board                     12, IX
 Federal Labor Relations Authority, and General    5, XIV; 22, XIV
      Counsel of the Federal Labor Relations 
@@ -21406,11 +22248,11 @@ Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
+
+[[Page 317]]
+
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
-
-[[Page 309]]
-
   Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
   General                                         41, 300
@@ -21449,8 +22291,10 @@ Homeland Security, Department of                  6, I
   Immigration and Customs Enforcement Bureau      19, IV
   Immigration and Naturalization                  8, I
   Transportation Security Administration          49, XII
-Housing and Urban Development, Department of      5, LXV; 24, Subtitle B, 2, 
-                                                  XXIV; 2424
+HOPE for Homeowners Program, Board of Directors   24, XXIV
+     of
+Housing and Urban Development, Department of      2, XXIV; 5, LXV; 24, 
+                                                  Subtitle B
   Community Planning and Development, Office of   24, V, VI
        Assistant Secretary for
   Equal Opportunity, Office of Assistant          24, I
@@ -21481,12 +22325,13 @@ Indian Affairs, Office of the Assistant           25, VI
      Secretary
 Indian Arts and Crafts Board                      25, II
 Indian Health Service                             25, V
+
+[[Page 318]]
+
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
-   Archives and Records Administration
-[[Page 310]]
-
+     Archives and Records Administration
 Inspector General
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
@@ -21525,7 +22370,6 @@ International Development, United States Agency   22, II
 International Development Cooperation Agency,     22, XII
      United States
 International Fishing and Related Activities      50, III
-International Investment, Office of               31, VIII
 International Joint Commission, United States     22, IV
      and Canada
 International Organizations Employees Loyalty     5, V
@@ -21533,6 +22377,7 @@ International Organizations Employees Loyalty     5, V
 International Trade Administration                15, III; 19, III
 International Trade Commission, United States     19, II
 Interstate Commerce Commission                    5, XL
+Investment Security, Office of                    31, VIII
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
@@ -21560,13 +22405,13 @@ Labor Department                                  5, XLII
   Federal Contract Compliance Programs, Office    41, 60
        of
   Federal Procurement Regulations System          41, 50
+
+[[Page 319]]
+
   Labor-Management Standards, Office of           29, II, IV
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
   Public Contracts                                41, 50
-
-[[Page 311]]
-
   Secretary of Labor, Office of                   29, Subtitle A
   Veterans' Employment and Training Service,      41, 61; 20, IX
        Office of the Assistant Secretary for
@@ -21593,6 +22438,7 @@ Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
 Morris K. Udall Scholarship and Excellence in     36, XVI
      National Environmental Policy Foundation
+Museum and Library Services, Institute of         2, XXXI
 National Aeronautics and Space Administration     2, XVIII; 5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
@@ -21632,14 +22478,13 @@ National Science Foundation                       2, XXV; 5, XLIII; 45, VI
   Federal Acquisition Regulation                  48, 25
 National Security Council                         32, XXI
 National Security Council and Office of Science   47, II
-     and Technology Policy
+   and Technology Policy
+[[Page 320]]
+
 National Telecommunications and Information       15, XXIII; 47, III
      Administration
 National Transportation Safety Board              49, VIII
 Natural Resources Conservation Service            7, VI
-
-[[Page 312]]
-
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
@@ -21692,11 +22537,11 @@ Refugee Resettlement, Office of                   45, IV
 Relocation Allowances                             41, 302
 Research and Innovative Technology                49, XI
      Administration
-Rural Business-Cooperative Service                7, XVIII, XLII
+Rural Business-Cooperative Service                7, XVIII, XLII, L
 Rural Development Administration                  7, XLII
-Rural Housing Service                             7, XVIII, XXXV
+Rural Housing Service                             7, XVIII, XXXV, L
 Rural Telephone Bank                              7, XVI
-Rural Utilities Service                           7, XVII, XVIII, XLII
+Rural Utilities Service                           7, XVII, XVIII, XLII, L
 Saint Lawrence Seaway Development Corporation     33, IV
 Science and Technology Policy, Office of          32, XXIV
 Science and Technology Policy, Office of, and     47, II
@@ -21706,17 +22551,17 @@ Securities and Exchange Commission                17, II
 Selective Service System                          32, XVI
 Small Business Administration                     2, XXVII; 13, I
 Smithsonian Institution                           36, V
-Social Security Administration                    20, III; 48, 23
+Social Security Administration                    2, XXIII; 20, III; 48, 23
 Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
+
+[[Page 321]]
+
 Special Education and Rehabilitative Services,    34, III
      Office of
 State Department                                  2, VI; 22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
 Surface Mining and Reclamation Appeals, Board of  30, III
-
-[[Page 313]]
-
 Surface Mining Reclamation and Enforcement,       30, VII
      Office of
 Surface Transportation Board                      49, X
@@ -21728,7 +22573,7 @@ Tennessee Valley Authority                        5, LXIX; 18, XIII
 Thrift Supervision Office, Department of the      12, V
      Treasury
 Trade Representative, United States, Office of    15, XX
-Transportation, Department of                     5, L
+Transportation, Department of                     2, XII; 5, L
   Commercial Space Transportation                 14, III
   Contract Appeals, Board of                      48, 63
   Emergency Management and Assistance             44, IV
@@ -21764,7 +22609,7 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Fiscal Service                                  31, II
   Foreign Assets Control, Office of               31, V
   Internal Revenue Service                        26, I
-  International Investment, Office of             31, VIII
+  Investment Security, Office of                  31, VIII
   Monetary Offices                                31, I
   Secret Service                                  31, IV
   Secretary of the Treasury, Office of            31, Subtitle A
@@ -21780,6 +22625,16 @@ Veterans Affairs Department                       2, VIII; 38, I
   Federal Acquisition Regulation                  48, 8
 Veterans' Employment and Training Service,        41, 61; 20, IX
      Office of the Assistant Secretary for
+United States and Mexico, International Boundary  22, XI
+     and Water Commission, United States Section
+Utah Reclamation Mitigation and Conservation      43, III
+     Commission
+Veterans Affairs Department                       2, VIII; 38, I
+  Federal Acquisition Regulation                  48, 8
+Veterans' Employment and Training Service,        41, 61; 20, IX
+   Office of the Assistant Secretary for
+[[Page 322]]
+
 Vice President of the United States, Office of    32, XXVIII
 Vocational and Adult Education, Office of         34, IV
 Wage and Hour Division                            29, V
@@ -21787,7 +22642,7 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 315]]
+[[Page 323]]
 
 
 <R03>
@@ -21843,71 +22698,18 @@ Chapter II
 2 CFR
                                                                    71 FR
                                                                     Page
-Subtitle A
-Chapter I
+Subtitle A--Office of Management and Budget Guidance for Grants and 
+Agreements
+Chapter I--Office of Management and Budget Governmentwide Guidance for 
+Grants and Agreements (Parts 100--199)
 180.25 (b)(4) removed; (b)(5) redesignated as new (b)(4); (c)(2) 
         revised; (c)(7) added......................................66432
 180.220 (c)(1) and (2) revised.....................................66432
 180.300 (b) revised................................................66432
-Subtitle B
-Chapter IX (Part 901)
+Subtitle B--Federal Agency Regulations for Grants and Agreements
+Chapter IX--Department of Energy (Part 901)
 Chapter IX Established.............................................70459
 901 Added..........................................................70459
-Chapter XIII
-Chapter XIII Established; eff. 1-22-07.............................76574
-1326 Added; eff. 1-22-07...........................................76574
-Chapter XXXVII
-Chapter XXXVII Established; eff. 1-8-07............................67431
-3700 Added; eff. 1-8-07............................................67431
-
-                                  2007
-
-2 CFR
-                                                                   72 FR
-                                                                    Page
-Subtitle A
-Chapter I
-175 Added; interim.................................................63783
-Subtitle B
-Chapter III
-Chapter III Established; interim....................................9234
-    Regulation at 72 FR 9234 confirmed.............................35349
-376 Added; interim..................................................9234
-    Regulation at 72 FR 9234 confirmed.............................35349
-Chapter VI
-Chapter VI Established.............................................10034
-
-[[Page 316]]
-
-601 Added..........................................................10034
-Chapter VIII
-Chapter VIII Established...........................................30240
-801 Added..........................................................30240
-Chapter XI
-Chapter XI Established.............................................34984
-1125 Added.........................................................34984
-Chapter XIV
-Chapter XIV Established; interim...................................33384
-1400 Added; interim................................................33384
-Chaper XV
-Chapter XV Established..............................................2422
-1532 Added..........................................................2422
-Chapter XVIII
-Chapter XVIII Established..........................................19783
-1880 Added.........................................................19783
-Chapter XXII
-Chapter XXII Established...........................................28826
-2200 Added.........................................................28826
-Chapter XXIII
-Chapter XXIII Established..........................................46140
-2336 Added.........................................................46140
-Chapter XXIV
-Chapter XXIV Established; eff. 1-28-08.............................73487
-2424 Added; eff. 1-28-08...........................................73487
-Chapter XXV
-Chapter XXV Established.............................................4944
-2520 Added..........................................................4944
-Chapter XXVI
-Chapter XXVI Established............................................2768
-2600 Added.................................................
+Chapter XIII--Department of Commerce (Part 1326)
+Chapter XIII Established; eff. 1-22-07.........................
 </pre></body></html>
