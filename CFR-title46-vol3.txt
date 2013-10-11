@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 46 CFR ]
-[Code of Federal Regulations (annual edition) - October 1, 2010 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2011 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -9,31 +9,24 @@
 
           
 <R02>
-          46
+          Title 46
 
-
-          Parts 70 to 89
-
-          Revised as of October 1, 2010
-
-
-          Shipping
-          
-<R03>
+Shipping
 
 
 ________________________
 
+Parts 70 to 89
+
+                         Revised as of October 1, 2011
+
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of October 1, 2010
-          With Ancillaries
-                    Published by
-                    Office of the Federal Register
-                    National Archives and Records
-                    Administration
-                    A Special Edition of the Federal Register
+          As of October 1, 2011
+                    Published by the Office of the Federal Register 
+                    National Archives and Records Administration as a 
+                    Special Edition of the Federal Register
 
 [[Page ii]]
 
@@ -157,7 +150,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2010), consult the ``List of CFR 
+revision date (in this case, October 1, 2011), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -196,9 +189,9 @@ OBSOLETE PROVISIONS
 the cover of each volume are not carried. Code users may find the text 
 of provisions in effect on a given date in the past by using the 
 appropriate numerical list of sections affected. For the period before 
-January 1, 2001, consult either the List of CFR Sections Affected, 1949-
+April 1, 2001, consult either the List of CFR Sections Affected, 1949-
 1963, 1964-1972, 1973-1985, or 1986-2000, published in eleven separate 
-volumes. For the period beginning January 1, 2001, a ``List of CFR 
+volumes. For the period beginning April 1, 2001, a ``List of CFR 
 Sections Affected'' is published at the end of each CFR volume.
 
 ``[RESERVED]'' TERMINOLOGY
@@ -279,30 +272,30 @@ SALES
     The Government Printing Office (GPO) processes all sales and 
 distribution of the CFR. For payment by credit card, call toll-free, 
 866-512-1800, or DC area, 202-512-1800, M-F 8 a.m. to 4 p.m. e.s.t. or 
-fax your order to 202-512-2250, 24 hours a day. For payment by check, 
+fax your order to 202-512-2104, 24 hours a day. For payment by check, 
 write to: US Government Printing Office - New Orders, P.O. Box 979050, 
-St. Louis, MO 63197-9000. For GPO Customer Service call 202-512-1803.
+St. Louis, MO 63197-9000.
 
 ELECTRONIC SERVICES
 
     The full text of the Code of Federal Regulations, the LSA (List of 
 CFR Sections Affected), The United States Government Manual, the Federal 
-Register, Public Laws, Public Papers, Daily Compilation of Presidential 
-Documents and the Privacy Act Compilation are available in electronic 
-format via Federalregister.gov. For more information, contact Electronic 
-Information Dissemination Services, U.S. Government Printing Office. 
-Phone 202-512-1530, or 888-293-6498 (toll-free). E-mail, 
-gpoaccess@gpo.gov.
+Register, Public Laws, Public Papers of the Presidents of the United 
+States, Compilation of Presidential Documents and the Privacy Act 
+Compilation are available in electronic format via www.ofr.gov. For more 
+information, contact the GPO Customer Contact Center, U.S. Government 
+Printing Office. Phone 202-512-1800, or 866-512-1800 (toll-free). E-
+mail, gpo@custhelp.com.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
 information. Connect to NARA's web site at www.archives.gov/federal-
-register. The NARA site also contains links to GPO Access.
+register.
 
     Raymond A. Mosley,
     Director,
     Office of the Federal Register.
-    October 1, 2010.
+    October 1, 2011.
 
 
 
@@ -325,7 +318,7 @@ II--Maritime Administration, DOT and chapter III--Coast Guard (Great
 Lakes Pilotage), DHS. The ninth volume, containing part 500 to end, 
 includes chapter IV--Federal Maritime Commission. The contents of these 
 volumes represent all current regulations codified under this title of 
-the CFR as of October 1, 2010.
+the CFR as of October 1, 2011.
 
     For this volume, Michele Bugenhagen was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
@@ -364,13 +357,15 @@ Part                                                                Page
 70              General provisions..........................           5
 71              Inspection and certification................          20
 72              Construction and arrangement................          38
-76              Fire protection equipment...................          63
+76              Fire protection equipment...................          64
 77              Vessel control and miscellaneous systems and 
-                    equipment...............................          90
-78              Operations..................................          96
+                    equipment...............................          91
+78              Operations..................................          97
 80              Disclosure of safety standards and country 
-                    of registry.............................         113
-81-89           [Reserved]
+                    of registry.............................         114
+81-89
+
+[Reserved]
 
 [[Page 5]]
 
@@ -469,8 +464,8 @@ therefrom in accordance with subpart 1.03 of this chapter.
 
 
 <R05>
-Sec. 70.01-15  OMB control numbers assigned pursuant to the 
-Paperwork Reduction Act.
+Sec. 70.01-15  OMB control numbers assigned pursuant to the Paperwork 
+Reduction Act.
 
     (a) Purpose. This section collects and displays the control numbers 
 assigned to information collection and recordkeeping requirements in 
@@ -507,8 +502,8 @@ Sept. 6, 1988; CGD 89-037, 57 FR 41822, Sept. 11, 1992; USCG-2004-18884,
 
 
 <R05>
-Sec. 70.05-1  United States flag vessels subject to the requirements
-of this subchapter.
+Sec. 70.05-1  United States flag vessels subject to the requirements of 
+this subchapter.
 
     (a) This subchapter is applicable to all U.S.-flag vessels indicated 
 in Column 3 of table 70.05-1(a) that are 100 gross tons or more, except 
@@ -586,7 +581,8 @@ contained in part 80 of this chapter.
 
 
 <R05>
-Sec. 70.05-3  Foreign vessels subject to the requirements of this subchapter.
+Sec. 70.05-3  Foreign vessels subject to the requirements of this 
+subchapter.
 
     (a) Except as specifically noted in paragraphs (b) and (e), and (f) 
 of this section, parts 70 to 78, inclusive, of this subchapter, shall be 
@@ -664,8 +660,8 @@ might be subjected.
 
 
 <R05>
-Sec. 70.05-7  Ocean or unlimited coastwise vessels on inland and 
-Great Lakes Routes.
+Sec. 70.05-7  Ocean or unlimited coastwise vessels on inland and Great 
+Lakes Routes.
 
     (a) Vessels inspected and certificated for ocean or unlimited 
 coastwise routes shall be considered suitable for navigation insofar as 
@@ -898,14 +894,15 @@ propulsion, all propulsive power being provided by sails.
     Short international voyage means an international voyage in the 
 course of which a vessel is not more than 200 miles from a port or place 
 in which the passengers and crew could be placed in safety. Neither the 
-distance between the last port of call in the country in
+distance between
 
 [[Page 19]]
 
-which the voyage begins and the final port of destination, nor the 
-return voyage, may exceed 600 miles. The final port of destination is 
-the last port of call in the scheduled voyage at which the vessel 
-commences its return voyage to the country in which the voyage began.
+the last port of call in the country in which the voyage begins and the 
+final port of destination, nor the return voyage, may exceed 600 miles. 
+The final port of destination is the last port of call in the scheduled 
+voyage at which the vessel commences its return voyage to the country in 
+which the voyage began.
     Specially suitable for vehicles is a designation used for a space 
 that is designed for the carriage of automobiles or other self-propelled 
 vehicles with batteries connected and fuel tanks containing gasoline on 
@@ -1149,7 +1146,7 @@ Sec.
 71.65-20 Number of plans required.
 
 Subpart 71.75_Certificates Under the International Convention for Safety 
-                          of Life at Sea, 1960
+                          of Life at Sea, 1974
 
 71.75-1 Application.
 71.75-5 Passenger Ship Safety Certificate.
@@ -1848,23 +1845,24 @@ examinations, and annual hull condition assessment.
     Drydock examination means hauling out a vessel or placing a vessel 
 in a drydock or slipway for an examination of all accessible parts of 
 the vessel's underwater body and all through-hull fittings and 
-appurtenances.
+appurtenances, including verification of the accuracy of draft marks if 
+not already verified at a previous drydock examination.
     Internal structural examination means an examination of the vessel 
 while afloat or in drydock and consists of a complete examination of the 
 vessel's main strength members, including the major internal framing, 
 the hull plating, voids, and ballast tanks, but not including cargo, 
 sewage, or fuel oil tanks.
-    Remotely operated vehicle (ROV) team, at a minimum, consist of an 
-ROV operator, a non-destructive testing inspector, an ROV tender or 
-mechanic, and a team supervisor who is considered by
 
 [[Page 28]]
 
-the Officer in Charge, Marine Inspection (OCMI), to have the appropriate 
-training and experience to perform the survey and to safely operate the 
-ROV in an effective manor. The team must also have a hull-positioning 
-technician present. This position may be assigned to a team member 
-already responsible for another team duty.
+    Remotely operated vehicle (ROV) team, at a minimum, consist of an 
+ROV operator, a non-destructive testing inspector, an ROV tender or 
+mechanic, and a team supervisor who is considered by the Officer in 
+Charge, Marine Inspection (OCMI), to have the appropriate training and 
+experience to perform the survey and to safely operate the ROV in an 
+effective manor. The team must also have a hull-positioning technician 
+present. This position may be assigned to a team member already 
+responsible for another team duty.
     Shallow water is an ascertained water depth at which the uppermost 
 deck(s) of a sunken vessel remain above the water's surface. The 
 determination of the water's depth is made by the Officer in Charge, 
@@ -1892,7 +1890,8 @@ which an eligible vessel may alternate between an underwater survey and
 the required drydock examinations.
 
 [USCG-2000-6858, 67 FR 21076, Apr. 29, 2002, as amended by USCG-2000-
-6858, 69 FR 47382, Aug. 5, 2004]
+6858, 69 FR 47382, Aug. 5, 2004; USCG-2007-0030, 75 FR 78081, Dec. 14, 
+2010]
 
 
 <R05>
@@ -1926,15 +1925,15 @@ elapse between any two examinations.
     (d) If, during an internal structural examination, damage or 
 deterioration to the hull plating or structural members is discovered, 
 the Officer in Charge, Marine Inspection, may require the vessel to be 
-drydocked or otherwise taken out of service to further assess the extent 
-of the damage and to effect permanent repairs.
+drydocked or otherwise taken out of service to further
+
+[[Page 29]]
+
+assess the extent of the damage and to effect permanent repairs.
     (e) Each vessel which has not met the applicable examination 
 schedules in paragraphs (a) through (d) of this section because it is on 
 a voyage, must undergo the required examinations upon completion of the 
 voyage.
-
-[[Page 29]]
-
     (f) For a vessel that is eligible per Sec. 71.50-17 and the owner 
 opts for an alternate hull examination with the underwater survey 
 portion conducted exclusively by divers, the vessel must undergo two 
@@ -2010,25 +2009,26 @@ Program for certain passenger vessels.
 alternative to a drydock examination by allowing your vessel's hull to 
 be examined while it remains afloat. If completed using only divers, 
 this program has four steps: the application process, the preliminary 
-examination, the pre-survey meeting, and the hull examination. If the 
-vessel is already participating in the program or if a remotely operated 
-vehicle (ROV) is used during the program, the preliminary exam step may 
-be omitted. Once you complete these steps, the Officer in Charge,
+examination, the pre-
 
 [[Page 30]]
 
-Marine Inspection (OCMI), will evaluate the results and accept the 
-examination as a credit hull exam if the vessel is in satisfactory 
-condition. If only divers are used for the underwater survey portion of 
-the examination process, you may receive credit for a period of time 
-such that subsequent AHEs would be conducted at intervals of twice in 
-every five years, with no more than three years between any two AHEs. 
-The OCMI may waive an underwater survey in accordance with Sec. 71.50-
-29(d) provided that the interval does not exceed five years between any 
-two underwater surveys. If an underwater ROV is used as the predominate 
-method to examine the vessel's underwater hull plating, you may receive 
-credit up to five years. At the end of this period, you may apply for 
-further participation under the AHE Program.
+survey meeting, and the hull examination. If the vessel is already 
+participating in the program or if a remotely operated vehicle (ROV) is 
+used during the program, the preliminary exam step may be omitted. Once 
+you complete these steps, the Officer in Charge, Marine Inspection 
+(OCMI), will evaluate the results and accept the examination as a credit 
+hull exam if the vessel is in satisfactory condition. If only divers are 
+used for the underwater survey portion of the examination process, you 
+may receive credit for a period of time such that subsequent AHEs would 
+be conducted at intervals of twice in every five years, with no more 
+than three years between any two AHEs. The OCMI may waive an underwater 
+survey in accordance with Sec. 71.50-29(d) provided that the interval 
+does not exceed five years between any two underwater surveys. If an 
+underwater ROV is used as the predominate method to examine the vessel's 
+underwater hull plating, you may receive credit up to five years. At the 
+end of this period, you may apply for further participation under the 
+AHE Program.
 
     Note to Sec. 71.50-15: The expected hull coverage when using an ROV 
 must be at least 80 percent.
@@ -2037,8 +2037,8 @@ must be at least 80 percent.
 
 
 <R05>
-Sec. 71.50-17  Eligibility requirements for the Alternative Hull Examination
-(AHE) Program for certain passenger vessels.
+Sec. 71.50-17  Eligibility requirements for the Alternative Hull 
+Examination (AHE) Program for certain passenger vessels.
 
     (a) Your vessel may be eligible for the AHE Program if--
     (1) It is constructed of steel or aluminum;
@@ -2070,7 +2070,8 @@ mitigate overall safety risks.
 
 
 <R05>
-Sec. 71.50-19  The Alternative Hull Examination (AHE) Program application.
+Sec. 71.50-19  The Alternative Hull Examination (AHE) Program 
+application.
 
     If your vessel meets the eligibility criteria in Sec. 71.50-17 of 
 this part, you may apply to the AHE Program. You must submit an 
@@ -2094,13 +2095,13 @@ body cleanliness (if known), and the anticipated draft of the vessel at
 the time of the examination;
     (e) Plans or drawings that illustrate the external details of the 
 hull below the sheer strake;
+
+[[Page 31]]
+
     (f) A detailed plan for conducting the hull examination in 
 accordance with Sec. Sec. 71.50-25 and 71.50-27 of this part, which 
 must address all safety concerns related to the removal of sea valves 
 during the inspection; and
-
-[[Page 31]]
-
     (g) A preventative maintenance plan for your vessel's hull, its 
 related systems and equipment.
 
@@ -2273,7 +2274,7 @@ is safe and reasonable.
 
 
 <R05>
-Sec. 71.50-31  Continued participation in the Alternative Hull
+Sec. 71.50-31  Continued participation in the Alternative Hull 
 Examination (AHE) program.
 
     (a) To continue to participate in the AHE Program, vessel operators 
@@ -2411,10 +2412,10 @@ alterations are undertaken.
 
 
 <R05>
-Sec. 71.60-1  Inspection and testing required when making alterations,
-repairs, or other such operations involving riveting, welding,
+Sec. 71.60-1  Inspection and testing required when making alterations, 
+repairs, or other such operations involving riveting, welding, burning 
 
-burning or like fire-producing actions.
+or like fire-producing actions.
 
     (a) The provisions of ``Standard for the Control of Gas Hazards on 
 Vessels to be Repaired,'' NFPA No. 306, published by National Fire 
@@ -2647,27 +2648,31 @@ FR 6861, Apr. 30, 1970]
 
 <R04>
 Subpart 71.75_Certificates Under the International Convention for Safety 
-                          of Life at Sea, 1960
+                          of Life at Sea, 1974
 
 
 <R05>
 Sec. 71.75-1  Application.
 
-    (a) The provisions of this subpart shall apply to all vessels on an 
-international voyage.
+    (a) The provisions of this subpart shall apply to all vessels on or 
+certificated for an international voyage.
     (b) [Reserved]
+
+[CGFR 65-50, 30 FR 16895, Dec. 30, 1965, as amended by USCG-2007-0030, 
+75 FR 78081, Dec. 14, 2010]
 
 
 <R05>
 Sec. 71.75-5  Passenger Ship Safety Certificate.
 
-    (a) All vessels on an international voyage are required to have a 
-``Passenger Ship Safety Certificate.''
+    (a) All vessels on or certificated for an international voyage are 
+required to have a `` SOLAS Passenger Ship Safety Certificate.''
     (b) All such vessels shall meet the requirements of this chapter for 
-vessels on an international voyage.
+vessels on or certificated for an international voyage in addition to 
+the applicable requirements of SOLAS.
 
 [CGFR, 65-50, 30 FR 16895, Dec. 30, 1965, as amended by CGD 95-012, 60 
-FR 48051, Sept. 18, 1995]
+FR 48051, Sept. 18, 1995; USCG-2007-0030, 75 FR 78081, Dec. 14, 2010]
 
 
 <R05>
@@ -2706,6 +2711,8 @@ accessible place on the vessel.
     (b) The certificate shall be carried in a manner similar to that 
 described in Sec. 71.01-5 for a certificate of inspection.
 
+[[Page 38]]
+
 
 <R05>
 Sec. 71.75-20  Duration of certificates.
@@ -2715,9 +2722,6 @@ months, with exception to a Safety Management Certificate which is
 issued for a period of not more than 60 months.
     (b) An Exemption Certificate shall not be valid for longer than the 
 period of the Passenger Ship Safety Certificate to which it refers.
-
-[[Page 38]]
-
     (c) The Passenger Ship Safety Certificate may be withdrawn, revoked, 
 or suspended at any time when it is determined the vessel is no longer 
 in compliance with applicable requirements. (See Sec. 2.01-70 of this 
@@ -2828,6 +2832,9 @@ Sec.
 
 72.40-1 Application.
 72.40-5 Where rails required.
+
+[[Page 39]]
+
 72.40-10 Storm rails.
 72.40-15 Vehicular ferries.
 72.40-20 Guards in dangerous places.
@@ -2838,8 +2845,6 @@ Comp., p. 277; Department of Homeland Security Delegation No. 0170.1.
 
     Source: CGFR 65-50, 30 FR 16903, Dec. 30, 1965, unless otherwise 
 noted.
-
-[[Page 39]]
 
 
 <R04>
@@ -2867,8 +2872,8 @@ openings, etc.
 
 
 <R05>
-Sec. 72.01-10  Vessels using fuel having a flashpoint of 
-110 degrees F. or lower.
+Sec. 72.01-10  Vessels using fuel having a flashpoint of 110 degrees F. 
+or lower.
 
     (a) Where liquid fuel having a flashpoint of 110 degrees F. or lower 
 is carried for main or auxiliary machinery or for starting purposes, 
@@ -2931,15 +2936,15 @@ shall be thoroughly examined and hose tested upon completion of
 construction. The water pressure for such tests shall be at least 30 
 p.s.i. Testing of main compartments by filling them with water is not 
 compulsory.
+
+[[Page 40]]
+
     (5) The forepeak, double bottoms (including duct keels), and inner 
 skins shall be tested with water to-a-head corresponding to the 
 requirements of paragraph (a)(1) of this section upon completion of 
 construction.
     (6) The watertight space enclosing the stern tube shall be tested by 
 filling with water to-a-head up to the deepest subdivision load line.
-
-[[Page 40]]
-
     (7) Tanks which are intended to hold liquids, and which form part of 
 the subdivision of the vessel, shall be tested for tightness upon 
 completion of construction with water to-a-head up to the deepest 
@@ -3029,19 +3034,19 @@ of the vessel. Within this arc of visibility any blind sector caused by
 cargo, cargo gear, or other permanent obstruction must not exceed 5 
 degrees.
     (2) From the conning position, the horizontal field of vision 
-extends over an arc from at least 22.5 degrees abaft the beam on one 
-side of the vessel, through dead ahead, to at least 22.5 degrees abaft 
-the beam on the other side of the vessel. Blind sectors forward of the 
-beam caused by cargo, cargo gear, or other permanent obstruction must 
-not exceed 10 degrees each, nor total more than 20 degrees, including 
-any blind sector within the arc of visibility described in paragraph 
-(a)(1) of this section.
-    (3) From each bridge wing, the field of vision extends over an arc 
-from at least 45 degrees on the opposite bow,
+extends over an arc from at least 22.5 degrees abaft
 
 [[Page 41]]
 
-through dead ahead, to at least dead astern.
+the beam on one side of the vessel, through dead ahead, to at least 22.5 
+degrees abaft the beam on the other side of the vessel. Blind sectors 
+forward of the beam caused by cargo, cargo gear, or other permanent 
+obstruction must not exceed 10 degrees each, nor total more than 20 
+degrees, including any blind sector within the arc of visibility 
+described in paragraph (a)(1) of this section.
+    (3) From each bridge wing, the field of vision extends over an arc 
+from at least 45 degrees on the opposite bow, through dead ahead, to at 
+least dead astern.
     (4) From the main steering position, the field of vision extends 
 over an arc from dead ahead to at least 60 degrees on either side of the 
 vessel.
@@ -3119,8 +3124,12 @@ incombustible furnishings. (8)
     (8) Small laundries containing only tubs and washing machines, with 
 no facilities for drying other than small electric driers. (8)
     (9) Small cleaning gear lockers containing only slop sinks, and 
-having no room for stowing materials other than a broom, mop, cleaning 
-powder, soap, etc. (8)
+having no
+
+[[Page 42]]
+
+room for stowing materials other than a broom, mop, cleaning powder, 
+soap, etc. (8)
     (10) Large cleaning gear lockers having considerable stowage space. 
 (6) or (9)
     (c) Service spaces will be considered as including the following 
@@ -3129,9 +3138,6 @@ spaces:
 (9)
     (2) Galleys, main pantries, and storerooms, including alleyways and 
 stairs, part of and for the exclusive use of such spaces. (9)
-
-[[Page 42]]
-
     (3) Diet kitchens. (6) or (9) (Depending on furnishing.)
     (4) Work shops (not part of machinery spaces, galleys, etc.), large 
 laundries, drying rooms, mail and baggage rooms, etc. (9)
@@ -3200,6 +3206,9 @@ shall not apply to open or enclosed promenades having a nominal width of
 15 feet or less.
     (m) Where balconies are installed opening into a space, the 
 following general requirements shall be met:
+
+[[Page 43]]
+
     (1) For the purpose of meeting main vertical zone bulkhead spacing, 
 the length of the space to which the balcony is open will be considered 
 as being increased by an amount equal to the gross area of the balcony 
@@ -3208,18 +3217,15 @@ divided by the average width of the space.
 bulkheads in the upper portion of the space are, in effect, part of a 
 stepped or recessed deck and should be treated as such for fire control 
 purposes. In this regard, particular attention should be given to the 
-protection of openings
-
-[[Page 43]]
-
-with proper doors of the type indicated in Sec. 72.05-25(b)(9).
+protection of openings with proper doors of the type indicated in Sec. 
+72.05-25(b)(9).
     (3) Two means of escape shall be provided for each balcony, at least 
 one of which shall be independent of the space to which the balcony is 
 open.
 
 
 <R05>
-Sec. 72.05-10  Type, location, and construction of fire control
+Sec. 72.05-10  Type, location, and construction of fire control 
 bulkheads and decks.
 
     (a) The hull, structural bulkheads, decks, and deckhouses shall be 
@@ -3282,6 +3288,9 @@ shall be as noted in table 72.05-10(d).
     (e) The minimum requirements for the bulkheads between the various 
 spaces, where such bulkheads do not form the boundaries of main vertical 
 zones, shall be as noted in table 72.05-10(e).
+
+[[Page 44]]
+
     (f) The minimum requirements for the decks between the various 
 spaces, where such decks form the boundaries of stepped main vertical 
 zones, shall be as noted in table 72.05-10(f).
@@ -3289,7 +3298,7 @@ zones, shall be as noted in table 72.05-10(f).
 spaces, where such decks do not form the boundaries of stepped main 
 vertical zones, shall be as noted in table 72.05-10(g).
 
-[[Page 44]]
+[[Page 45]]
 
 
 
@@ -3339,7 +3348,7 @@ Open decks and enclosed promenades  13   ........  ..........  .........  ......
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-[[Page 45]]
+[[Page 46]]
 
 
                                                                       Table 72.05-10(e)--Bulkheads--Not Main Vertical Zones
@@ -3390,7 +3399,7 @@ Open decks and enclosed promenades  13   ........  ..........  .........  ......
   and a dissimilar workshop.
 
 
-[[Page 46]]
+[[Page 47]]
 
 
                                                                           Table 72.05-10(f)--Decks--Main Vertical Zones
@@ -3439,7 +3448,7 @@ Open decks and enclosed promenades  13      A-0        A-0        A-0           
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-[[Page 47]]
+[[Page 48]]
 
 
                                                                         Table 72.05-10(g)--Decks--Not Main Vertical Zones
@@ -3488,7 +3497,7 @@ Open decks and enclosed promenades  13      A-0        A-0        A-0           
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-[[Page 48]]
+[[Page 49]]
 
     (h) Where ceilings or linings are fitted, ``B'' Class bulkheads, 
 with the exception of those forming passageways, may stop at the ceiling 
@@ -3564,7 +3573,7 @@ stairway enclosures.
     (d) Combustible veneers, trim, decorations, etc., shall not be used 
 in or extend into hidden spaces such as behind
 
-[[Page 49]]
+[[Page 50]]
 
 linings or ceilings or in the matter of double bulkheads.
     (e) Nothing in this subpart shall be construed as prohibiting the 
@@ -3642,7 +3651,7 @@ enclosures, shall be as set forth in Sec. 72.05-55(c).
 permitted. Relaxation from this requirement may be permitted, provided, 
 in the opinion of the Commandant, the
 
-[[Page 50]]
+[[Page 51]]
 
 proposed stairway is equivalent with respect to safety and dimensions to 
 the stairways covered by this section.
@@ -3713,7 +3722,7 @@ described in the previous subparagraphs. In determining the number of
 persons using a Type 1 stairway, all persons within the Main Vertical 
 Zone or Zones
 
-[[Page 51]]
+[[Page 52]]
 
 in question are assumed to be using Type 1 stairways. No consideration 
 is given to any Type 2 or 3 stairways that may be available. If more 
@@ -3790,7 +3799,7 @@ are as follows:
     (1) All doors shall be capable of operation from either side by 1 
 person.
 
-[[Page 52]]
+[[Page 53]]
 
     (2) In public spaces, stairway enclosures, corridors, etc., all 
 doors shall open in the direction of escape where practicable.
@@ -3865,7 +3874,7 @@ meet the following requirements:
 staterooms, fan rooms, lockers, etc., shall be of the self-closing type 
 capable of closing against a 3\1/2\ degree list, and
 
-[[Page 53]]
+[[Page 54]]
 
 such doors shall be numbered in accordance with Sec. 78.47-35 of this 
 subchapter.
@@ -3942,7 +3951,7 @@ control or accommodation spaces other than those containing only
 incombustible veneers and trim and fire resistant furnishings, shall be 
 fitted with wire inserted glass.
 
-[[Page 54]]
+[[Page 55]]
 
 Other windows or air ports opening onto open decks or enclosed 
 promenades need not have wire inserted glass.
@@ -4030,7 +4039,7 @@ an automatic fire damper adjacent to the point of entry. Between the
 bulkhead or deck and the damper, and in addition, on vertical ducts for 
 a distance of
 
-[[Page 55]]
+[[Page 56]]
 
 6 feet above the damper, the duct shall meet the applicable bulkhead 
 requirements.
@@ -4111,7 +4120,7 @@ vessel shall be protected in such enclosed parts of the vessel as the
 Commandant shall deem necessary, with an automatic electric or pneumatic 
 fire-
 
-[[Page 56]]
+[[Page 57]]
 
 detecting and alarm system, used singly or in combination, of a type 
 approved by the Commandant.
@@ -4220,7 +4229,7 @@ exits shall give egress to different corridors, rooms, or spaces to
 minimize the possibility of one incident blocking both exits.
     (b) [Reserved]
 
-[[Page 57]]
+[[Page 58]]
 
 
 <R05>
@@ -4282,8 +4291,8 @@ structural fire protection.
 
 
 <R05>
-Sec. 72.15-10  Vessels using fuel having a flashpoint of 
-110 degrees F. or lower.
+Sec. 72.15-10  Vessels using fuel having a flashpoint of 110 degrees F.
+or lower.
 
     (a) Where liquid fuel having a flashpoint of 110 degrees F. or lower 
 is used for main or auxiliary machinery or for starting purposes, the 
@@ -4325,7 +4334,7 @@ or bilge on each side. Simliar exhaust ducts shall be led to the
 mechanical exhaust system from the lowest part of the compartment or 
 bilge on each side of the compartment
 
-[[Page 58]]
+[[Page 59]]
 
 at the end opposite from that at which the inlet ducts are fitted.
     (g) All ducts shall be constructed of non-ferrous metal or 
@@ -4414,7 +4423,7 @@ Sec. 72.20-1  Application.
 vessels contracted for after November 18, 1952. Vessels contracted for 
 before November
 
-[[Page 59]]
+[[Page 60]]
 
 19, 1952, must meet the requirements of Sec. 72.20-90.
 
@@ -4508,7 +4517,7 @@ except where the messroom is equipped with a steam table.
     (b) Each messroom must seat the number of persons expected to eat in 
 the messroom at one time.
 
-[[Page 60]]
+[[Page 61]]
 
 
 <R05>
@@ -4604,7 +4613,7 @@ crew of 12 or more persons, must be provided with a suitable hospital
 space for the exclusive use of the sick or injured. Berths must be 
 provided in the ratio of 1 berth for each 12 members of the crew or
 
-[[Page 61]]
+[[Page 62]]
 
 fraction thereof, but the number of berths need not exceed 6.
     (6) The crew spaces must be securely constructed, properly lighted, 
@@ -4663,8 +4672,8 @@ at any point within the watertight compartment in question.
 
 
 <R05>
-Sec. 72.25-15  Passenger accommodations for excursion boats,
-ferryboats, and passenger barges.
+Sec. 72.25-15  Passenger accommodations for excursion boats, ferryboats,
+and passenger barges.
 
     (a) Except as specifically excluded by this section, separate public 
 toilet spaces shall be provided for male and female passengers with at 
@@ -4696,7 +4705,7 @@ provided at least one-half the required toilets are fitted.
     (c) On ferryboats and barges having a short run, passenger toilet 
 facilities need not be fitted.
 
-[[Page 62]]
+[[Page 63]]
 
 
 <R04>
@@ -4801,7 +4810,7 @@ be made to the same standards as the original construction provided that
 in no case will greater departure from the standards of Sec. Sec. 
 72.40-5 through 72.40-20 be permitted than presently exists.
 
-[[Page 63]]
+[[Page 64]]
 
     (b) [Reserved]
 
@@ -4914,7 +4923,7 @@ Subpart 76.05_Fire Detecting and Extinguishing Equipment, Where Required
 76.33-20 Operation and installation.
 76.33-90 Installations contracted for prior to November 19, 1952.
 
-[[Page 64]]
+[[Page 65]]
 
                Subpart 76.35_Manual Alarm System, Details
 
@@ -5013,7 +5022,7 @@ as required by table 76.05-1(a) on the following vessels:
     (2) Any vessel of more than 150 feet in length having sleeping 
 accommodations for passengers.
 
-[[Page 65]]
+[[Page 66]]
 
 
 
@@ -5145,7 +5154,7 @@ Specially suitable for          Smoke detecting,        Carbon dioxide,
   contracted for prior to November 19, 1952, except where fuel,
   including starting fuel, has a flashpoint of 110 [deg]F. or less.
 
-[[Page 66]]
+[[Page 67]]
 
  
 \9\ Where fuel having a flashpoint of 110 [deg]F. or lower is used, the
@@ -5209,8 +5218,8 @@ Inspection.
 
 
 <R05>
-Sec. 76.05-25  Hand portable fire extinguishers and semiportable 
-fire extinguishing systems.
+Sec. 76.05-25  Hand portable fire extinguishers and semiportable fire
+extinguishing systems.
 
     (a) Approved hand portable fire extinguishers and semiportable fire 
 extinguishing systems shall be installed on all vessels as set forth in 
@@ -5254,7 +5263,7 @@ Sec. 76.10-5  Fire pumps.
     (a) Vessels shall be equipped with independently driven fire pumps 
 in accordance with table 76.10-5(a).
 
-[[Page 67]]
+[[Page 68]]
 
 
 
@@ -5339,7 +5348,7 @@ be provided. Suitable adaptors also must be provided for furnishing the
 vessel's shore connections with couplings mating those on the shore fire 
 lines. Vessels of
 
-[[Page 68]]
+[[Page 69]]
 
 500 gross tons and over on an international voyage, must be provided 
 with at least one international shore connection complying with ASTM F 
@@ -5407,7 +5416,7 @@ other equivalent metal. Couplings shall either--
 inch (38 millimeter) and 2\1/2\ inch (64 millimeter) hose sizes, i.e., 9 
 threads per inch for
 
-[[Page 69]]
+[[Page 70]]
 
 1\1/2\ inch hose, and 7\1/2\ threads per inch for 2\1/2\ inch hose; or
     (ii) Be a uniform design for each hose diameter throughout the 
@@ -5421,7 +5430,7 @@ firehose is accepted as conforming to this requirement.
 
     Editorial Note: For Federal Register citations affecting Sec. 
 76.10-90, see the List of CFR Sections Affected, which appears in the 
-Finding Aids section of the printed volume and on GPO Access.
+Finding Aids section of the printed volume and at www.fdsys.gov.
 
 
 <R05>
@@ -5510,7 +5519,7 @@ Sec. 76.13-1  Application.
 on or after January 1, 1962. Previously approved installations may be 
 retained as
 
-[[Page 70]]
+[[Page 71]]
 
 long as they are maintained in good condition to the satisfaction of the 
 Officer in Charge, Marine Inspection.
@@ -5606,7 +5615,7 @@ standard as the original installation.
 provide at least one pound of steam per hour for each 12 cubic feet of 
 the gross volume of the largest compartment to be protected.
 
-[[Page 71]]
+[[Page 72]]
 
     (3) Although separate piping shall be led to each cargo hold and 
 'tween deck, for the purpose of determining the amount of steam 
@@ -5692,7 +5701,7 @@ those in which the carbon dioxide is stored in liquid form at a
 continuously controlled low temperature, may be specifically approved by 
 the Commandant where it is demonstrated that a comparable degree of
 
-[[Page 72]]
+[[Page 73]]
 
 safety and fire extinguishing ability is achieved.
 
@@ -5783,7 +5792,7 @@ factor of 25, whichever is the larger.
 ------------------------------------------------------------------------
 
 
-[[Page 73]]
+[[Page 74]]
 
     (5) Distribution piping within the space shall be proportioned from 
 the supply line to give proper distribution to the outlets without 
@@ -5859,7 +5868,7 @@ is released into the space. Such systems of not more than 300 pounds of
 carbon dioxide shall also have a similar delayed discharge, except for 
 those systems for tanks and
 
-[[Page 74]]
+[[Page 75]]
 
 for spaces which have a suitable horizontal escape. This paragraph shall 
 be applicable only to systems installed on or after July 1, 1957.
@@ -5941,7 +5950,7 @@ the event of a fire in any of the spaces protected.
 not more than 300 pounds of carbon dioxide, may have the cylinders 
 located within the space protected. If the cylinder stowage is
 
-[[Page 75]]
+[[Page 76]]
 
 within the space protected, the system shall be arranged in an approved 
 manner to be automatically operated by a heat actuator within the space 
@@ -6029,7 +6038,7 @@ compartment when the carbon dioxide is injected.
 [CGFR 65-50, 30 FR 16940, Dec. 30, 1965, as amended by CGFR 66-33, 31 FR 
 15283, Dec. 6, 1966]
 
-[[Page 76]]
+[[Page 77]]
 
 
 <R05>
@@ -6128,7 +6137,7 @@ be considered in a like manner.
     (3) Where a system is installed to protect a tank, it shall be so 
 designed
 
-[[Page 77]]
+[[Page 78]]
 
 and arranged as to spread a blanket of foam over the entire liquid 
 surface of the tank within the range of usual trim. The arrangement of 
@@ -6214,7 +6223,7 @@ reached with at least 2 streams of water, and each hose shall be
 equipped with an approved combination nozzle, applicator, and self-
 cleaning strainer as described in Sec. 76.10-10(j)(3).
 
-[[Page 78]]
+[[Page 79]]
 
     (b) [Reserved]
 
@@ -6325,7 +6334,7 @@ table 76.23-10(c).
     (d) Fire pumps. (1) The fire pumps may be used for the sprinkling 
 system
 
-[[Page 79]]
+[[Page 80]]
 
 provided there is sufficient total capacity to operate the largest zone 
 of the sprinkling system with a Pitot tube pressure of at least 15 
@@ -6421,7 +6430,7 @@ vertical zone or watertight bulkheads.
     (d) Spaces in different main vertical zones shall not be included in 
 the same sprinkling zone.
 
-[[Page 80]]
+[[Page 81]]
 
 
 <R05>
@@ -6538,7 +6547,7 @@ Intermediate values may be obtained by interpolation.
 150...........................................           20           60
 200...........................................           20           75
 
-[[Page 81]]
+[[Page 82]]
 
  
 250...........................................           20          100
@@ -6624,7 +6633,7 @@ degrees F. shall be used.
     (g) The automatic sprinkling system and all its components shall be 
 used for no other purpose.
 
-[[Page 82]]
+[[Page 83]]
 
     (h) All wiring and electrical circuits and equipment shall meet the 
 applicable requirements of subchapter J (Electrical Engineering) of this 
@@ -6714,7 +6723,7 @@ beams or girders extend below the ceiling, or where the ceiling is
 installed at more than one level, the detectors shall be so located as 
 to be most effective.
 
-[[Page 83]]
+[[Page 84]]
 
 
 <R05>
@@ -6802,7 +6811,7 @@ rooms or spaces.
 feet of pneumatic tubing or its equivalent. However, more than one 
 tubing circuit may be included in the same fire detecting zone.
 
-[[Page 84]]
+[[Page 85]]
 
 
 <R05>
@@ -6894,7 +6903,7 @@ this section.
 two or three small adjacent spaces having a combined volume not 
 exceeding 5,000 cubic feet may be connected on the same zone.
 
-[[Page 85]]
+[[Page 86]]
 
     (d) Where a space is of such size that one accumulator is not 
 sufficient, not more than two accumulators may be combined in one zone.
@@ -6976,7 +6985,7 @@ various zones and giving instructions for the operation, maintenance,
 and testing of the system. The chart at the cabinet location or a 
 separate card or booklet to be kept near the chart, shall have tabulated
 
-[[Page 86]]
+[[Page 87]]
 
 spaces for the date and signature of the licensed officer of the vessel 
 who shall witness or conduct the periodic tests.
@@ -7075,7 +7084,7 @@ condition to the satisfaction of the Officer in Charge, Marine
 Inspection. Minor repairs and alterations may be made to the same 
 standards as the original installation.
 
-[[Page 87]]
+[[Page 88]]
 
     (2) The details of the systems shall be in general agreement with 
 Sec. Sec. 76.35-5 through 76.35-15 insofar as is reasonable and 
@@ -7160,7 +7169,7 @@ Sec. 76.50-10  Location.
 extinguishing systems shall be installed in accordance with table 76.50-
 10(a).
 
-[[Page 88]]
+[[Page 89]]
 
 
 
@@ -7257,7 +7266,7 @@ Cargo oil tanks..........................  ...........................  None req
 \3\ Vessels of less than 1,000 gross tons and not on an international voyage, require 1.
 \4\ Vessels of less than 1,000 gross tons and not on an international voyage may substitute 1 B-IV.
 
-[[Page 89]]
+[[Page 90]]
 
  
 \5\ If oil burning donkey boiler fitted in space, the B-V previously required for the protection of the
@@ -7354,7 +7363,7 @@ number of fire axes as set forth in table 76.60-5(a). Nothing in this
 paragraph shall be construed as limiting the Officer in Charge, Marine 
 Inspection, from requiring such additional fire axes as he
 
-[[Page 90]]
+[[Page 91]]
 
 deems necessary for the proper protection of the vessel.
 
@@ -7388,8 +7397,8 @@ the fire hose, provided such enclosures are marked as required by Sec.
 
 
 <R03>
-PART 77_VESSEL CONTROL AND MISCELLANEOUS SYSTEMS AND EQUIPMENT--
-Table of Contents
+PART 77_VESSEL CONTROL AND MISCELLANEOUS SYSTEMS AND EQUIPMENT--Table of 
+Contents
 
 
 
@@ -7479,7 +7488,7 @@ with 5 U.S.C. 552(a). To enforce any edition other than the one listed
 in paragraph (b) of this section, notice of the change must be published 
 in the Federal Register and the material made available
 
-[[Page 91]]
+[[Page 92]]
 
 to the public. All approved material is on file at the Office of the 
 Federal Register, Washington, DC 20408, and at the U.S. Coast Guard, 
@@ -7590,7 +7599,7 @@ Sec. 77.07-1  Application.
 the requirements of Sec. 77.07-90.
     (b) [Reserved]
 
-[[Page 92]]
+[[Page 93]]
 
 
 <R05>
@@ -7694,7 +7703,7 @@ ocean or coastwise service, and all mechanically propelled vessels of
 service on the River St. Lawrence eastward of the lower exit of the St. 
 Lambert Lock at Montreal, Canada,
 
-[[Page 93]]
+[[Page 94]]
 
 must be fitted with an efficient electronic deep-sea sounding apparatus.
 
@@ -7786,7 +7795,7 @@ only one of an item is required, it shall be stowed in the pilothouse.
 [CGFR 65-50, 30 FR 16953, Dec. 30, 1965, as amended by CGD 86-036, 57 FR 
 48324, Oct. 23, 1992]
 
-[[Page 94]]
+[[Page 95]]
 
 
 <R05>
@@ -7882,7 +7891,7 @@ flashlight, one flame safety lamp, one rigid helmet, boots and gloves,
 protective clothing, and one fire ax. In lieu of the flame safety lamp, 
 vessels may carry an oxygen depletion meter which is listed by
 
-[[Page 95]]
+[[Page 96]]
 
 a Coast Guard recognized independent laboratory as intrinsically safe.
     (b) The number of fireman's outfits required are as set forth in 
@@ -7983,7 +7992,7 @@ during each condition of loading and trim, with an adverse list of
 access is more than 30 feet, access from a pilot ladder to the vessel 
 must be by way of
 
-[[Page 96]]
+[[Page 97]]
 
 an accommodation ladder or equally safe and convenient means.
     (h) Pilot hoists, if used, must be approved under subpart 163.002 of 
@@ -8107,7 +8116,7 @@ Sec.
 78.40-5 Securing of vehicles.
 78.40-10 No smoking permitted.
 
-[[Page 97]]
+[[Page 98]]
 
                      Subpart 78.45_Display of Plans
 
@@ -8221,7 +8230,7 @@ inspection or at the National Archives and Records Administration
 is available from the sources indicated in paragraph (b) of this 
 section. For information on the
 
-[[Page 98]]
+[[Page 99]]
 
 availability of this material at NARA, call 202-741-6030, or go to: 
 http://www.archives.gov/federal--register/code--of--federal--
@@ -8315,7 +8324,7 @@ this chapter.
 
 [CGD 84-099, 52 FR 47535, Dec. 14, 1987]
 
-[[Page 99]]
+[[Page 100]]
 
 
 <R04>
@@ -8436,7 +8445,7 @@ navigated to be assured that they are in proper operating condition. Any
 remote controls or indicating mechanisms shall be inspected at this time 
 to
 
-[[Page 100]]
+[[Page 101]]
 
 test their efficiency. Where such valves are accessible, they shall be 
 inspected at this time, otherwise, they shall be inspected at the first 
@@ -8536,7 +8545,7 @@ the boilers and machinery of a vessel to examine them thoroughly. If any
 parts thereof are in bad condition, the fact shall immediately be 
 reported to the
 
-[[Page 101]]
+[[Page 102]]
 
 master, owner or agent, and the Officer in Charge, Marine Inspection.
 
@@ -8622,7 +8631,7 @@ lighting and power systems are operated and inspected at least once in
 each week that the vessel is navigated to be assured that the system is 
 in proper operating condition.
 
-[[Page 102]]
+[[Page 103]]
 
     (b) Internal combustion engine driven emergency generators shall be 
 operated under load for at least 2 hours, at least once in each month 
@@ -8716,7 +8725,7 @@ used in--
     (a) Areas of high traffic density;
     (b) Conditions of restricted visibility; and
 
-[[Page 103]]
+[[Page 104]]
 
     (c) All other hazardous navigational situations, the master shall 
 ensure that--
@@ -8811,7 +8820,7 @@ Sec. 78.23-1  Unnecessary whistling prohibited.
 within any harbor limits of the United States.
     (b) [Reserved]
 
-[[Page 104]]
+[[Page 105]]
 
 
 <R04>
@@ -8903,7 +8912,7 @@ different from other persons so as to be readily distinguished. A rating
 badge marked ``Watchman'' shall be worn on the left sleeve and the front 
 of the cap shall also be marked ``Watchman''.
 
-[[Page 105]]
+[[Page 106]]
 
     (e) The watchman shall have in his possession at all time while on 
 duty an efficient flashlight.
@@ -9012,7 +9021,7 @@ ship's officers. When carried, such vests shall not be accepted in lieu
 of any portion of the required number of approved life preservers and 
 shall not be substituted for
 
-[[Page 106]]
+[[Page 107]]
 
 the approved life preservers required to be worn during drills and 
 emergencies.
@@ -9111,7 +9120,7 @@ coastwise, and Great Lakes services only. See Sec. 78.17-20.
     (g) Verification of vessel compliance with applicable stability 
 requirements. After loading and prior to departure
 
-[[Page 107]]
+[[Page 108]]
 
 and at all other time necessary to assure the safety of the vessel. See 
 Sec. 78.17-22.
@@ -9214,7 +9223,7 @@ ventilating systems including particulars of the master fan controls,
 the positions of dampers, the location of the remote means of stopping 
 fans, and
 
-[[Page 108]]
+[[Page 109]]
 
 identification numbers of the ventilating fans serving each section. If 
 cargo compartments are ``specially suitable for vehicles,'' they shall 
@@ -9309,11 +9318,11 @@ numbered in red on the adjacent bulkhead with at least \1/2\ inch
 figures. The number shall agree with the number of the zone.
     (b) [Reserved]
 
-[[Page 109]]
+[[Page 110]]
 
 
 <R05>
-Sec. 78.47-13  Fire detecting and manual alarm, automatic sprinkler,
+Sec. 78.47-13  Fire detecting and manual alarm, automatic sprinkler, 
 and smoke detecting alarm bells.
 
     (a) The fire detecting and manual alarm automatic sprinklers, and 
@@ -9421,7 +9430,7 @@ conspicuously on both sides on an etched plate or equivalent in not less
 than \3/8\ inch letters and figures ``W. T. D. 1,'' ``2,'' ``3,'' etc. 
 If a stencilled or similar notice is used, the letters and figures
 
-[[Page 110]]
+[[Page 111]]
 
 shall be at least 1 inch high. If the construction is such that the 
 number cannot be seen with the door in the open position, a similar 
@@ -9526,7 +9535,7 @@ Sec. 78.47-70  Portable magazine chests.
     (a) Portable magazine chest shall be marked in letters of at least 3 
 inches high ``PORTABLE MAGAZINE
 
-[[Page 111]]
+[[Page 112]]
 
 CHEST--FLAMMABLE--KEEP LIGHTS AND FIRE AWAY''.
     (b) [Reserved]
@@ -9636,7 +9645,7 @@ boilers of any vessel to require that a steam pressure is not carried in
 excess of that allowed by the certificate of inspection, and to require 
 that the safety valves,
 
-[[Page 112]]
+[[Page 113]]
 
 once set by the inspector, are in no way tampered with or made 
 inoperative.
@@ -9740,7 +9749,7 @@ concentration in the holds and intermediate decks where persons are
 working shall be maintained at not more than 50 parts per million 
 (0.005%)
 
-[[Page 113]]
+[[Page 114]]
 
 as a time-weighted average, and persons shall be removed from the area 
 if the concentration exceeds 75 parts per million (0.0075%). When 
@@ -9798,8 +9807,8 @@ shall be designated in accordance with subpart C of 33 CFR part 155.
 
 
 <R03>
-PART 80_DISCLOSURE OF SAFETY STANDARDS AND COUNTRY OF REGISTRY--
-Table of Contents
+PART 80_DISCLOSURE OF SAFETY STANDARDS AND COUNTRY OF REGISTRY--Table 
+of Contents
 
 
 
@@ -9844,7 +9853,7 @@ in the world, by a vessel of one hundred gross tons or over having berth
 or stateroom accommodations for fifty or more passengers, regardless of 
 whether passengers are embarked at United States ports for said voyage.
 
-[[Page 114]]
+[[Page 115]]
 
     (b) [Reserved]
 
@@ -9939,7 +9948,7 @@ the 1966 fire safety standards.
     (ii) This vessel complies with international safety standards 
 developed prior to 1960. There is (or, is not) an
 
-[[Page 115]]
+[[Page 116]]
 
 automatic sprinkler fitted in the passenger living and public spaces. 
 The hull, decks, deckhouses, structural bulkheads, and internal 
@@ -10025,13 +10034,15 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2010)
+                     (Revised as of October 1, 2011)
 
                       Title 1--General Provisions
 
          I  Administrative Committee of the Federal Register 
                 (Parts 1--49)
         II  Office of the Federal Register (Parts 50--299)
+       III  Administrative Conference of the United States (Parts 
+                300--399)
         IV  Miscellaneous Agencies (Parts 400--500)
 
                     Title 2--Grants and Agreements
@@ -10049,6 +10060,7 @@ which is published separately and revised annually.
                 399)
         IV  Department of Agriculture (Parts 400--499)
         VI  Department of State (Parts 600--699)
+       VII  Agency for International Development (Parts 700--799)
       VIII  Department of Veterans Affairs (Parts 800--899)
         IX  Department of Energy (Parts 900--999)
         XI  Department of Defense (Parts 1100--1199)
@@ -10069,12 +10081,12 @@ which is published separately and revised annually.
                 2600--2699)
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
-       XXX  Department of Homeland Security (Parts 3000--3099)
-      XXXI  Institute of Museum and Library Services (Parts 3100--
-                3199)
 
 [[Page 120]]
 
+       XXX  Department of Homeland Security (Parts 3000--3099)
+      XXXI  Institute of Museum and Library Services (Parts 3100--
+                3199)
      XXXII  National Endowment for the Arts (Parts 3200--3299)
     XXXIII  National Endowment for the Humanities (Parts 3300--
                 3399)
@@ -10126,11 +10138,11 @@ which is published separately and revised annually.
       XXXI  Farm Credit Administration (Parts 4100--4199)
     XXXIII  Overseas Private Investment Corporation (Parts 4300--
                 4399)
-     XXXIV  Securities and Exchange Commission (Parts 4400--4499)
-      XXXV  Office of Personnel Management (Parts 4500--4599)
 
 [[Page 121]]
 
+     XXXIV  Securities and Exchange Commission (Parts 4400--4499)
+      XXXV  Office of Personnel Management (Parts 4500--4599)
         XL  Interstate Commerce Commission (Parts 5000--5099)
        XLI  Commodity Futures Trading Commission (Parts 5100--
                 5199)
@@ -10141,6 +10153,7 @@ which is published separately and revised annually.
       XLVI  Postal Rate Commission (Parts 5600--5699)
      XLVII  Federal Trade Commission (Parts 5700--5799)
     XLVIII  Nuclear Regulatory Commission (Parts 5800--5899)
+      XLIX  Federal Labor Relations Authority (Parts 5900--5999)
          L  Department of Transportation (Parts 6000--6099)
        LII  Export-Import Bank of the United States (Parts 6200--
                 6299)
@@ -10168,9 +10181,9 @@ which is published separately and revised annually.
                 7799)
     LXVIII  Commission on Civil Rights (Parts 7800--7899)
       LXIX  Tennessee Valley Authority (Parts 7900--7999)
+       LXX  Court Services and Offender Supervision Agency for the 
+                District of Columbia (Parts 8000--8099)
       LXXI  Consumer Product Safety Commission (Parts 8100--8199)
-     LXXII  Special Inspector General for Iraq Reconstruction 
-                (Parts 8200--8299)
     LXXIII  Department of Agriculture (Parts 8300--8399)
      LXXIV  Federal Mine Safety and Health Review Commission 
                 (Parts 8400--8499)
@@ -10180,6 +10193,9 @@ which is published separately and revised annually.
       LXXX  Federal Housing Finance Agency (Parts 8700--8799)
     LXXXII  Special Inspector General for Iraq Reconstruction 
                 (Parts 9200--9299)
+
+[[Page 122]]
+
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Parts 
@@ -10187,8 +10203,6 @@ which is published separately and revised annually.
       XCIX  Department of Defense Human Resources Management and 
                 Labor Relations Systems (Department of Defense--
                 Office of Personnel Management) (Parts 9900--9999)
-
-[[Page 122]]
 
                       Title 6--Domestic Security
 
@@ -10236,6 +10250,9 @@ which is published separately and revised annually.
                 1600--1699)
       XVII  Rural Utilities Service, Department of Agriculture 
                 (Parts 1700--1799)
+
+[[Page 123]]
+
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
                 Agency, Department of Agriculture (Parts 1800--
@@ -10246,9 +10263,6 @@ which is published separately and revised annually.
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
                 of Agriculture (Parts 2700--2799)
-
-[[Page 123]]
-
     XXVIII  Office of Operations, Department of Agriculture (Parts 
                 2800--2899)
       XXIX  Office of Energy Policy and New Uses, Department of 
@@ -10293,6 +10307,9 @@ which is published separately and revised annually.
         II  Grain Inspection, Packers and Stockyards 
                 Administration (Packers and Stockyards Programs), 
                 Department of Agriculture (Parts 200--299)
+
+[[Page 124]]
+
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
 
@@ -10301,9 +10318,6 @@ which is published separately and revised annually.
          I  Nuclear Regulatory Commission (Parts 0--199)
         II  Department of Energy (Parts 200--699)
        III  Department of Energy (Parts 700--999)
-
-[[Page 124]]
-
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
       XIII  Nuclear Waste Technical Review Board (Parts 1303--
@@ -10332,9 +10346,13 @@ which is published separately and revised annually.
        VII  National Credit Union Administration (Parts 700--799)
       VIII  Federal Financing Bank (Parts 800--899)
         IX  Federal Housing Finance Board (Parts 900--999)
+         X  Bureau of Consumer Financial Protection (Parts 1000--
+                1099)
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
        XII  Federal Housing Finance Agency (Parts 1200--1299)
+      XIII  Financial Stability Oversight Council (Parts 1300--
+                1399)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
         XV  Department of the Treasury (Parts 1500--1599)
@@ -10347,6 +10365,9 @@ which is published separately and revised annually.
                Title 13--Business Credit and Assistance
 
          I  Small Business Administration (Parts 1--199)
+
+[[Page 125]]
+
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
         IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
@@ -10359,9 +10380,6 @@ which is published separately and revised annually.
                 Transportation (Parts 1--199)
         II  Office of the Secretary, Department of Transportation 
                 (Aviation Proceedings) (Parts 200--399)
-
-[[Page 125]]
-
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
                 (Parts 400--499)
@@ -10405,6 +10423,8 @@ which is published separately and revised annually.
                 Administration, Department of Commerce (Parts 
                 2300--2399)
 
+[[Page 126]]
+
                     Title 16--Commercial Practices
 
          I  Federal Trade Commission (Parts 0--999)
@@ -10415,8 +10435,6 @@ which is published separately and revised annually.
          I  Commodity Futures Trading Commission (Parts 1--199)
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
-
-[[Page 126]]
 
           Title 18--Conservation of Power and Water Resources
 
@@ -10449,8 +10467,8 @@ which is published separately and revised annually.
                 Labor (Parts 500--599)
          V  Employment and Training Administration, Department of 
                 Labor (Parts 600--699)
-        VI  Employment Standards Administration, Department of 
-                Labor (Parts 700--799)
+        VI  Office of Workers' Compensation Programs, Department 
+                of Labor (Parts 700--799)
        VII  Benefits Review Board, Department of Labor (Parts 
                 800--899)
       VIII  Joint Board for the Enrollment of Actuaries (Parts 
@@ -10458,6 +10476,8 @@ which is published separately and revised annually.
         IX  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 1000--1099)
+
+[[Page 127]]
 
                        Title 21--Food and Drugs
 
@@ -10473,9 +10493,6 @@ which is published separately and revised annually.
          I  Department of State (Parts 1--199)
         II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
-
-[[Page 127]]
-
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
          V  Broadcasting Board of Governors (Parts 500--599)
@@ -10517,6 +10534,9 @@ which is published separately and revised annually.
          I  Office of Assistant Secretary for Equal Opportunity, 
                 Department of Housing and Urban Development (Parts 
                 100--199)
+
+[[Page 128]]
+
         II  Office of Assistant Secretary for Housing-Federal 
                 HousingCommissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
@@ -10528,9 +10548,6 @@ which is published separately and revised annually.
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
-
-[[Page 128]]
-
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
@@ -10554,6 +10571,9 @@ which is published separately and revised annually.
                 Registration Program) (Parts 1700--1799)
        XII  Office of Inspector General, Department of Housing and 
                 Urban Development (Parts 2000--2099)
+        XV  Emergency Mortgage Insurance and Loan Programs, 
+                Department of Housing and Urban Development (Parts 
+                2700--2799)
         XX  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 3200--3899)
@@ -10575,6 +10595,9 @@ which is published separately and revised annually.
          V  Bureau of Indian Affairs, Department of the Interior, 
                 and Indian Health Service, Department of Health 
                 and Human Services (Part 900)
+
+[[Page 129]]
+
         VI  Office of the Assistant Secretary-Indian Affairs, 
                 Department of the Interior (Parts 1000--1199)
        VII  Office of the Special Trustee for American Indians, 
@@ -10584,8 +10607,6 @@ which is published separately and revised annually.
 
          I  Internal Revenue Service, Department of the Treasury 
                 (Parts 1--899)
-
-[[Page 129]]
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -10631,6 +10652,9 @@ which is published separately and revised annually.
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
                 1699)
+
+[[Page 130]]
+
       XVII  Occupational Safety and Health Administration, 
                 Department of Labor (Parts 1900--1999)
         XX  Occupational Safety and Health Review Commission 
@@ -10642,20 +10666,19 @@ which is published separately and revised annually.
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
-[[Page 130]]
-
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
                 Labor (Parts 1--199)
-        II  Minerals Management Service, Department of the 
-                Interior (Parts 200--299)
-       III  Board of Surface Mining and Reclamation Appeals, 
-                Department of the Interior (Parts 300--399)
+        II  Bureau of Ocean Energy Management, Regulation, and 
+                Enforcement, Department of the Interior (Parts 
+                200--299)
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
        VII  Office of Surface Mining Reclamation and Enforcement, 
                 Department of the Interior (Parts 700--999)
+       XII  Office of Natural Resources Revenue, Department of the 
+                Interior (Parts 1200--1299)
 
                  Title 31--Money and Finance: Treasury
 
@@ -10678,6 +10701,8 @@ which is published separately and revised annually.
                 Treasury (Parts 800--899)
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
+         X  Financial Crimes Enforcement Network, Departmnent of 
+                the Treasury (Parts 1000--1099)
 
                       Title 32--National Defense
 
@@ -10685,6 +10710,9 @@ which is published separately and revised annually.
          I  Office of the Secretary of Defense (Parts 1--399)
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
+
+[[Page 131]]
+
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
@@ -10702,9 +10730,6 @@ which is published separately and revised annually.
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
-
-[[Page 131]]
-
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
 
@@ -10741,6 +10766,8 @@ which is published separately and revised annually.
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
+[[Page 132]]
+
                           Title 35 [Reserved]
 
              Title 36--Parks, Forests, and Public Property
@@ -10760,9 +10787,6 @@ which is published separately and revised annually.
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
          X  Presidio Trust (Parts 1000--1099)
-
-[[Page 132]]
-
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
@@ -10800,6 +10824,9 @@ which is published separately and revised annually.
         IV  Environmental Protection Agency and Department of 
                 Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
+
+[[Page 133]]
+
         VI  Chemical Safety and Hazard Investigation Board (Parts 
                 1600--1699)
        VII  Environmental Protection Agency and Department of 
@@ -10817,20 +10844,15 @@ which is published separately and revised annually.
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
-
-[[Page 133]]
-
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
- Chapters 
    62--100  [Reserved]
             Subtitle C--Federal Property Management Regulations 
                 System
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
- Chapters 
   103--104  [Reserved]
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
@@ -10838,7 +10860,6 @@ which is published separately and revised annually.
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
        128  Department of Justice (Parts 128-1--128-99)
- Chapters 
   129--200  [Reserved]
             Subtitle D--Other Provisions Relating to Property 
                 Management [Reserved]
@@ -10860,6 +10881,9 @@ which is published separately and revised annually.
                 Services (Parts 1--199)
         IV  Centers for Medicare & Medicaid Services, Department 
                 of Health and Human Services (Parts 400--499)
+
+[[Page 134]]
+
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
 
@@ -10872,11 +10896,8 @@ which is published separately and revised annually.
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
-
-[[Page 134]]
-
        III  Utah Reclamation Mitigation and Conservation 
-                Commission (Parts 10000--10010)
+                Commission (Parts 10000--10099)
 
              Title 44--Emergency Management and Assistance
 
@@ -10916,6 +10937,9 @@ which is published separately and revised annually.
                 1200--1299)
       XIII  Office of Human Development Services, Department of 
                 Health and Human Services (Parts 1300--1399)
+
+[[Page 135]]
+
        XVI  Legal Services Corporation (Parts 1600--1699)
       XVII  National Commission on Libraries and Information 
                 Science (Parts 1700--1799)
@@ -10927,8 +10951,6 @@ which is published separately and revised annually.
                 2400--2499)
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
-
-[[Page 135]]
 
                           Title 46--Shipping
 
@@ -10969,6 +10991,9 @@ which is published separately and revised annually.
         12  Department of Transportation (Parts 1200--1299)
         13  Department of Commerce (Parts 1300--1399)
         14  Department of the Interior (Parts 1400--1499)
+
+[[Page 136]]
+
         15  Environmental Protection Agency (Parts 1500--1599)
         16  Office of Personnel Management, Federal Employees 
                 Health Benefits Acquisition Regulation (Parts 
@@ -10984,9 +11009,6 @@ which is published separately and revised annually.
         23  Social Security Administration (Parts 2300--2399)
         24  Department of Housing and Urban Development (Parts 
                 2400--2499)
-
-[[Page 136]]
-
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
@@ -11026,6 +11048,9 @@ which is published separately and revised annually.
                 Department of Transportation (Parts 300--399)
         IV  Coast Guard, Department of Homeland Security (Parts 
                 400--499)
+
+[[Page 137]]
+
          V  National Highway Traffic Safety Administration, 
                 Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
@@ -11039,8 +11064,6 @@ which is published separately and revised annually.
                 Department of Transportation [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
-
-[[Page 137]]
 
                    Title 50--Wildlife and Fisheries
 
@@ -11081,12 +11104,13 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2010)
+                     (Revised as of October 1, 2011)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
 
 Administrative Committee of the Federal Register  1, I
+Administrative Conference of the United States    1, III
 Advanced Research Projects Agency                 32, I
 Advisory Council on Historic Preservation         36, VIII
 African Development Foundation                    22, XV
@@ -11140,22 +11164,24 @@ American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
-Architectural and Transportation Barriers         36, XI
-   Compliance Board
+
 [[Page 140]]
 
+Architectural and Transportation Barriers         36, XI
+     Compliance Board
 Arctic Research Commission                        45, XXIII
 Armed Forces Retirement Home                      5, XI
 Army Department                                   32, V
   Engineers, Corps of                             33, II; 36, III
   Federal Acquisition Regulation                  48, 51
-Benefits Review Board                             20, VII
 Bilingual Education and Minority Languages        34, V
      Affairs, Office of
 Blind or Severely Disabled, Committee for         41, 51
      Purchase From People Who Are
 Broadcasting Board of Governors                   22, V
   Federal Acquisition Regulation                  48, 19
+Bureau of Ocean Energy Management, Regulation,    30, II
+     and Enforcement
 Census Bureau                                     15, I
 Centers for Medicare & Medicaid Services          42, IV
 Central Intelligence Agency                       32, XIX
@@ -11164,21 +11190,22 @@ Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
 Civil Rights, Commission on                       5, LXVIII; 45, VII
 Civil Rights, Office for                          34, I
+Court Services and Offender Supervision Agency    5, LXX
+     for the District of Columbia
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
-Commerce Department                               44, IV
+Commerce Department                               44, IV; 50, VI
   Census Bureau                                   15, I
   Economic Affairs, Under Secretary               37, V
   Economic Analysis, Bureau of                    15, VIII
   Economic Development Administration             13, III
   Emergency Management and Assistance             44, IV
   Federal Acquisition Regulation                  48, 13
-  Fishery Conservation and Management             50, VI
   Foreign-Trade Zones Board                       15, IV
   Industry and Security, Bureau of                15, VII
   International Trade Administration              15, III; 19, III
   National Institute of Standards and Technology  15, II
-  National Marine Fisheries Service               50, II, IV, VI
+  National Marine Fisheries Service               50, II, IV
   National Oceanic and Atmospheric                15, IX; 50, II, III, IV, 
        Administration                             VI
   National Telecommunications and Information     15, XXIII; 47, III, IV
@@ -11200,6 +11227,7 @@ Community Services, Office of                     45, X
 Comptroller of the Currency                       12, I
 Construction Industry Collective Bargaining       29, IX
      Commission
+Consumer Financial Protection Bureau              12, X
 Consumer Product Safety Commission                5, LXXI; 16, II
 Copyright Office                                  37, II
 Copyright Royalty Board                           37, III
@@ -11208,15 +11236,15 @@ Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
 Court Services and Offender Supervision Agency    28, VIII
      for the District of Columbia
-Customs and Border Protection Bureau              19, I
+Customs and Border Protection                     19, I
 Defense Contract Audit Agency                     32, I
+
+[[Page 141]]
+
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
-
-[[Page 141]]
-
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
   Defense Acquisition Regulations System          48, 2
@@ -11283,13 +11311,13 @@ Equal Opportunity, Office of Assistant Secretary  24, I
 Executive Office of the President                 3, I
   Administration, Office of                       5, XV
   Environmental Quality, Council on               40, V
+
+[[Page 142]]
+
   Management and Budget, Office of                5, III, LXXVII; 14, VI; 
                                                   48, 99
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
-
-[[Page 142]]
-
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
   Trade Representative, Office of the United      15, XX
@@ -11322,9 +11350,7 @@ Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
 Federal Housing Finance Agency                    5, LXXX; 12, XII
 Federal Housing Finance Board                     12, IX
-Federal Labor Relations Authority, and General    5, XIV; 22, XIV
-     Counsel of the Federal Labor Relations 
-     Authority
+Federal Labor Relations Authority                 5, XIV, XLIX; 22, XIV
 Federal Law Enforcement Training Center           31, VII
 Federal Management Regulation                     41, 102
 Federal Maritime Commission                       46, IV
@@ -11344,10 +11370,12 @@ Federal Service Impasses Panel                    5, XIV
 Federal Trade Commission                          5, XLVII; 16, I
 Federal Transit Administration                    49, VI
 Federal Travel Regulation System                  41, Subtitle F
+Financial Crimes Enforcement Network              31, X
+Financial Research Office                         12, XVI
+Financial Stability Oversight Council             12, XIII
 Fine Arts, Commission on                          45, XXI
 Fiscal Service                                    31, II
 Fish and Wildlife Service, United States          50, I, IV
-Fishery Conservation and Management               50, VI
 Food and Drug Administration                      21, I
 Food and Nutrition Service                        7, II
 Food Safety and Inspection Service                9, III
@@ -11357,14 +11385,14 @@ Foreign Claims Settlement Commission of the       45, V
      United States
 Foreign Service Grievance Board                   22, IX
 Foreign Service Impasse Disputes Panel            22, XIV
+
+[[Page 143]]
+
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
-
-[[Page 143]]
-
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
   Federal Property Management Regulations         41, 101
@@ -11400,7 +11428,7 @@ Health and Human Services, Department of          2, III; 5, XLV; 45,
 Homeland Security, Department of                  2, XXX; 6, I
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
-  Customs and Border Protection Bureau            19, I
+  Customs and Border Protection                   19, I
   Federal Emergency Management Agency             44, I
   Human Resources Management and Labor Relations  5, XCVII
        Systems
@@ -11433,14 +11461,15 @@ Housing, Office of, and Multifamily Housing       24, IV
      Assistance Restructuring, Office of
 Human Development Services, Office of             45, XIII
 Immigration and Customs Enforcement Bureau        19, IV
+
+[[Page 144]]
+
 Immigration and Naturalization                    8, I
 Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
 Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
-   Secretary
-[[Page 144]]
-
+     Secretary
 Indian Arts and Crafts Board                      25, II
 Indian Health Service                             25, V
 Industry and Security, Bureau of                  15, VII
@@ -11456,6 +11485,8 @@ Inter-American Foundation                         5, LXIII; 22, X
 Interior Department
   American Indians, Office of the Special         25, VII
        Trustee
+  Bureau of Ocean Energy Management, Regulation,  30, II
+       and Enforcement
   Endangered Species Committee                    50, IV
   Federal Acquisition Regulation                  48, 14
   Federal Property Management Regulations System  41, 114
@@ -11466,13 +11497,11 @@ Interior Department
        Secretary
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
-  Minerals Management Service                     30, II
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
+  Natural Resource Revenue, Office of             30, XII
   Reclamation, Bureau of                          43, I
   Secretary of the Interior, Office of            2, XIV; 43, Subtitle A
-  Surface Mining and Reclamation Appeals, Board   30, III
-       of
   Surface Mining Reclamation and Enforcement,     30, VII
        Office of
 Internal Revenue Service                          26, I
@@ -11484,7 +11513,6 @@ International Development, United States Agency   22, II
   Federal Acquisition Regulation                  48, 7
 International Development Cooperation Agency,     22, XII
      United States
-International Fishing and Related Activities      50, III
 International Joint Commission, United States     22, IV
      and Canada
 International Organizations Employees Loyalty     5, V
@@ -11511,21 +11539,21 @@ Justice Department                                2, XXVII; 5, XXVIII; 28,
   Prisons, Bureau of                              28, V
   Property Management Regulations                 41, 128
 Labor Department                                  5, XLII
-  Benefits Review Board                           20, VII
   Employee Benefits Security Administration       29, XXV
+
+[[Page 145]]
+
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
   Employment Standards Administration             20, VI
   Federal Acquisition Regulation                  48, 29
-
-[[Page 145]]
-
   Federal Contract Compliance Programs, Office    41, 60
        of
   Federal Procurement Regulations System          41, 50
   Labor-Management Standards, Office of           29, II, IV
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
+  Office of Workers' Compensation Programs        20, VII
   Public Contracts                                41, 50
   Secretary of Labor, Office of                   29, Subtitle A
   Veterans' Employment and Training Service,      41, 61; 20, IX
@@ -11547,7 +11575,6 @@ Merit Systems Protection Board                    5, II, LXIV
 Micronesian Status Negotiations, Office for       32, XXVII
 Millenium Challenge Corporation                   22, XIII
 Mine Safety and Health Administration             30, I
-Minerals Management Service                       30, II
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
@@ -11583,17 +11610,17 @@ National Institute of Food and Agriculture.       7, XXXIV
 National Institute of Standards and Technology    15, II
 National Intelligence, Office of Director of      32, XVII
 National Labor Relations Board                    5, LXI; 29, I
-National Marine Fisheries Service                 50, II, IV, VI
+National Marine Fisheries Service                 50, II, IV
 National Mediation Board                          29, X
 National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV, 
                                                   VI
+
+[[Page 146]]
+
 National Park Service                             36, I
 National Railroad Adjustment Board                29, III
 National Railroad Passenger Corporation (AMTRAK)  49, VII
 National Science Foundation                       2, XXV; 5, XLIII; 45, VI
-
-[[Page 146]]
-
   Federal Acquisition Regulation                  48, 25
 National Security Council                         32, XXI
 National Security Council and Office of Science   47, II
@@ -11602,6 +11629,7 @@ National Telecommunications and Information       15, XXIII; 47, III, IV
      Administration
 National Transportation Safety Board              49, VIII
 Natural Resources Conservation Service            7, VI
+Natural Resource Revenue, Office of               30, XII
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
@@ -11613,6 +11641,7 @@ Nuclear Regulatory Commission                     2, XX; 5, XLVIII; 10, I
 Occupational Safety and Health Administration     29, XVII
 Occupational Safety and Health Review Commission  29, XX
 Offices of Independent Counsel                    28, VI
+Office of Workers' Compensation Programs          20, VII
 Oklahoma City National Memorial Trust             36, XV
 Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
@@ -11661,14 +11690,15 @@ Research and Innovative Technology                49, XI
 Rural Business-Cooperative Service                7, XVIII, XLII, L
 Rural Development Administration                  7, XLII
 Rural Housing Service                             7, XVIII, XXXV, L
+
+[[Page 147]]
+
 Rural Telephone Bank                              7, XVI
 Rural Utilities Service                           7, XVII, XVIII, XLII, L
 Saint Lawrence Seaway Development Corporation     33, IV
 Science and Technology Policy, Office of          32, XXIV
 Science and Technology Policy, Office of, and     47, II
-   National Security Council
-[[Page 147]]
-
+     National Security Council
 Secret Service                                    31, IV
 Securities and Exchange Commission                5, XXXIV; 17, II
 Selective Service System                          32, XVI
@@ -11683,7 +11713,6 @@ Special Inspector General for Iraq                5, LXXXVII
      Reconstruction
 State Department                                  2, VI; 22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
-Surface Mining and Reclamation Appeals, Board of  30, III
 Surface Mining Reclamation and Enforcement,       30, VII
      Office of
 Surface Transportation Board                      49, X
@@ -11723,11 +11752,12 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Community Development Financial Institutions    12, XVIII
        Fund
   Comptroller of the Currency                     12, I
-  Customs and Border Protection Bureau            19, I
+  Customs and Border Protection                   19, I
   Engraving and Printing, Bureau of               31, VI
   Federal Acquisition Regulation                  48, 10
   Federal Claims Collection Standards             31, IX
   Federal Law Enforcement Training Center         31, VII
+  Financial Crimes Enforcement Network            31, X
   Fiscal Service                                  31, II
   Foreign Assets Control, Office of               31, V
   Internal Revenue Service                        26, I
@@ -11735,5 +11765,156 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Monetary Offices                                31, I
   Secret Service                                  31, IV
   Secretary of the Treasury, Office of            31, Subtitle A
-  Thrift Supervision, Office of     
+  Thrift Supervision, Office of                   12, V
+
+[[Page 148]]
+
+Truman, Harry S. Scholarship Foundation           45, XVIII
+United States and Canada, International Joint     22, IV
+     Commission
+United States and Mexico, International Boundary  22, XI
+     and Water Commission, United States Section
+Utah Reclamation Mitigation and Conservation      43, III
+     Commission
+Veterans Affairs Department                       2, VIII; 38, I
+  Federal Acquisition Regulation                  48, 8
+Veterans' Employment and Training Service,        41, 61; 20, IX
+     Office of the Assistant Secretary for
+Vice President of the United States, Office of    32, XXVIII
+Vocational and Adult Education, Office of         34, IV
+Wage and Hour Division                            29, V
+Water Resources Council                           18, VI
+Workers' Compensation Programs, Office of         20, I
+World Agricultural Outlook Board                  7, XXXVIII
+
+[[Page 149]]
+
+
+<R03>
+List of CFR Sections Affected
+
+<R04>
+
+All changes in this volume of the Code of Federal Regulations that were 
+made by documents published in the Federal Register since January 1, 
+2001, are enumerated in the following list. Entries indicate the nature 
+of the changes effected. Page numbers refer to Federal Register pages. 
+The user should consult the entries for chapters and parts as well as 
+sections for revisions.
+For the period before January 1, 2001, see the ``List of CFR Sections 
+Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000'' published in 
+11 separate volumes.
+
+                                  2001
+
+46 CFR
+                                                                   66 FR
+                                                                    Page
+Chapter I
+78.05-1 (a) and (c) amended........................................48620
+78.10-1 Amended....................................................48620
+
+                                  2002
+
+46 CFR
+                                                                   67 FR
+                                                                    Page
+Chapter I
+70 Authority citation revised......................................34784
+70.05-1 (a) introductory text and table revised....................34784
+70.05-18 Added.....................................................34791
+70.10-1 (Subpart 70.10) Revised....................................34791
+71 Reporting and recordkeeping requirements........................55162
+71.50-1 Revised; interim...........................................21076
+71.50-3 Heading, (a) and (b) introductory text revised; (f) 
+        redesignated as (g); new (f) added; interim................21076
+71.50-5 Redesignated as 71.50-35; interim..........................21076
+    Added; interim.................................................21077
+71.50-15 Added; interim............................................21077
+71.50-17 Added; interim............................................21077
+71.50-19 Added; interim............................................21077
+71.50-21 Added; interim............................................21078
+71.50-23 Added; interim............................................21078
+71.50-25 Added; interim............................................21078
+71.50-27 Added; interim............................................21078
+71.50-29 Added; interim............................................21078
+71.50-31 Added; interim............................................21078
+71.50-35 Redesignated from 71.50-5; (b) and (c) amended; interim 
+                                                                   21076
+
+                                  2003
+
+46 CFR
+                                                                   68 FR
+                                                                    Page
+Chapter I
+Chapter I Heading corrected........................................16953
+71 Authority citation revised......................................39314
+    Authority citation correctly revised...........................41915
+71.25-47 Added; eff. to 11-25-03...................................39314
+
+                                2004	2005
+
+                       (No regulations published)
+
+                                  2006
+
+46 CFR
+                                                                   71 FR
+                                                                    Page
+Chapter I
+71.15-5 (b) amended................................................55746
+
+                                  2007
+
+46 CFR
+                                                                   72 FR
+                                                                    Page
+Chapter I
+71.65-15 (a)(2) revised............................................53965
+
+                                  2008
+
+46 CFR
+                                                                   73 FR
+                                                                    Page
+Chapter I
+71.65-1 (c) revised................................................56510
+76.01-2 Revised....................................................65192
+76.10-10 (n)(2) revised............................................65192
+76.25-1 Revised....................................................65192
+76.25-90 (b) revised...............................................65192
+76.50-5 (c) table revised..........................................65192
+
+[[Page 150]]
+
+                                  2009
+
+46 CFR
+                                                                   74 FR
+                                                                    Page
+Chapter I
+70.05-1 (a) table revised..........................................63646
+70.10-1 Amended....................................................63655
+70.35-5 (a) amended................................................49231
+71.15-5 (b) amended................................................49231
+71.50-3 (g) amended................................................49231
+71.65-15 (a)(2) amended............................................49231
+76.01-2 (a) amended................................................49231
+77.01-3 (a) amended................................................49231
+78.01-2 (a) amended................................................49231
+78.65-1 (Subpart 78.65) Heading amended............................11265
+78.65-1 Revised....................................................11265
+
+                                  2010
+
+46 CFR
+                                                                   75 FR
+                                                                    Page
+Chapter I
+70.35-5 (a) amended................................................60003
+71.50-1 Amended....................................................78081
+71.75-1--71.75-20 (Subpart 71.75) Heading revised..................78081
+71.75-1 (a) amended................................................78081
+71.75-5 (a) and (b) amended..................
 </pre></body></html>

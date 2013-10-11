@@ -1,39 +1,33 @@
 <html><body><pre>
 [Title 46 CFR ]
-[Code of Federal Regulations (annual edition) - October 1, 2010 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2011 Edition]
 [From the U.S. Government Printing Office]
 
 
 
-[[Page 1]]
+[[Page i]]
 
           
 <R02>
-          46
+          Title 46
 
-
-          Parts 41 to 69
-
-                         Revised as of October 1, 2010
-
-
-          Shipping
-          
-<R03>
+Shipping
 
 
 ________________________
 
+Parts 41 to 69
+
+                         Revised as of October 1, 2011
+
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of October 1, 2010
+          As of October 1, 2011
           With Ancillaries
-                    Published by
-                    Office of the Federal Register
-                    National Archives and Records
-                    Administration
-                    A Special Edition of the Federal Register
+                    Published by the Office of the Federal Register 
+                    National Archives and Records Administration as a 
+                    Special Edition of the Federal Register
 
 [[Page ii]]
 
@@ -157,7 +151,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2010), consult the ``List of CFR 
+revision date (in this case, October 1, 2011), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -196,9 +190,9 @@ OBSOLETE PROVISIONS
 the cover of each volume are not carried. Code users may find the text 
 of provisions in effect on a given date in the past by using the 
 appropriate numerical list of sections affected. For the period before 
-January 1, 2001, consult either the List of CFR Sections Affected, 1949-
+April 1, 2001, consult either the List of CFR Sections Affected, 1949-
 1963, 1964-1972, 1973-1985, or 1986-2000, published in eleven separate 
-volumes. For the period beginning January 1, 2001, a ``List of CFR 
+volumes. For the period beginning April 1, 2001, a ``List of CFR 
 Sections Affected'' is published at the end of each CFR volume.
 
 ``[RESERVED]'' TERMINOLOGY
@@ -279,30 +273,30 @@ SALES
     The Government Printing Office (GPO) processes all sales and 
 distribution of the CFR. For payment by credit card, call toll-free, 
 866-512-1800, or DC area, 202-512-1800, M-F 8 a.m. to 4 p.m. e.s.t. or 
-fax your order to 202-512-2250, 24 hours a day. For payment by check, 
+fax your order to 202-512-2104, 24 hours a day. For payment by check, 
 write to: US Government Printing Office - New Orders, P.O. Box 979050, 
-St. Louis, MO 63197-9000. For GPO Customer Service call 202-512-1803.
+St. Louis, MO 63197-9000.
 
 ELECTRONIC SERVICES
 
     The full text of the Code of Federal Regulations, the LSA (List of 
 CFR Sections Affected), The United States Government Manual, the Federal 
-Register, Public Laws, Public Papers, Daily Compilation of Presidential 
-Documents and the Privacy Act Compilation are available in electronic 
-format via Federalregister.gov. For more information, contact Electronic 
-Information Dissemination Services, U.S. Government Printing Office. 
-Phone 202-512-1530, or 888-293-6498 (toll-free). E-mail, 
-gpoaccess@gpo.gov.
+Register, Public Laws, Public Papers of the Presidents of the United 
+States, Compilation of Presidential Documents and the Privacy Act 
+Compilation are available in electronic format via www.ofr.gov. For more 
+information, contact the GPO Customer Contact Center, U.S. Government 
+Printing Office. Phone 202-512-1800, or 866-512-1800 (toll-free). E-
+mail, gpo@custhelp.com.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
 information. Connect to NARA's web site at www.archives.gov/federal-
-register. The NARA site also contains links to GPO Access.
+register.
 
     Raymond A. Mosley,
     Director,
     Office of the Federal Register.
-    October 1, 2010.
+    October 1, 2011.
 
 
 
@@ -325,9 +319,9 @@ II--Maritime Administration, DOT and chapter III--Coast Guard (Great
 Lakes Pilotage), DHS. The ninth volume, containing part 500 to end, 
 includes chapter IV--Federal Maritime Commission. The contents of these 
 volumes represent all current regulations codified under this title of 
-the CFR as of October 1, 2010.
+the CFR as of October 1, 2011.
 
-    For this volume, Susannah C. Hurley was Chief Editor. The Code of 
+    For this volume, Susannah Hurley was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
 Michael L. White, assisted by Ann Worley.
 
@@ -417,6 +411,9 @@ Part                                                                Page
 
 <R03>
                          SUBCHAPTER E_LOAD LINES
+
+<R05>
+
                            PART 41 [RESERVED]
 
 
@@ -623,7 +620,8 @@ certification thereof by the assigning authority is in 46 U.S.C. 5101-
 
 
 <R05>
-Sec. 42.01-5  OMB control numbers assigned pursuant to the Paperwork Reduction Act.
+Sec. 42.01-5  OMB control numbers assigned pursuant to the Paperwork 
+Reduction Act.
 
     (a) Purpose. This section collects and displays the control numbers 
 assigned to information collection and recordkeeping requirements in 
@@ -680,7 +678,8 @@ requirements.
 
 
 <R05>
-Sec. 42.03-5  U.S.-flag vessels subject to the requirements of this subchapter.
+Sec. 42.03-5  U.S.-flag vessels subject to the requirements of this 
+subchapter.
 
     (a) Vessels engaged in foreign voyages or international voyages 
 other than solely Great Lakes voyages. (1) All U.S. flag vessels which 
@@ -829,7 +828,8 @@ in Part 45 of this subchapter.
 
 
 <R05>
-Sec. 42.03-17  Special load line marks for vessels carrying timber deck cargo.
+Sec. 42.03-17  Special load line marks for vessels carrying timber deck
+cargo.
 
     (a) Certain vessels having load line marks not related to carriage 
 of timber deck cargo may be assigned timber load lines if they are in 
@@ -970,10 +970,10 @@ additional safety measures required for a single voyage.
 
 
 <R05>
-Sec. 42.03-35  U.S.-flag vessels and Canadian vessels navigating on sheltered 
+Sec. 42.03-35  U.S.-flag vessels and Canadian vessels navigating on 
+sheltered waters of Puget Sound and contiguous west coast waters of 
 
-waters of Puget Sound and contiguous west coast waters of United States and 
-          Canada.
+United States and Canada.
 
     (a) In a Treaty between the United States and Canada proclaimed on 
 August 11, 1934, the respective Governments were satisfied of the 
@@ -1515,7 +1515,8 @@ FR 9012, June 5, 1969; CGD 80-143, 47 FR 25149, June 10, 1982; CGD 96-
 
 
 <R05>
-Sec. 42.07-40  Recognized classification society as an assigning authority.
+Sec. 42.07-40  Recognized classification society as an assigning 
+authority.
 
     (a) On behalf of the United States of America, under the provisions 
 of Articles 13 and 16(3) and as provided in 46 U.S.C. 5107, the 
@@ -1692,7 +1693,8 @@ FR 9012, June 5, 1969; CGD 80-120, 47 FR 5722, Feb. 8, 1982; CGD 97-057,
 
 
 <R05>
-Sec. 42.07-55  Cancellation of load line certificates or exemption certificates.
+Sec. 42.07-55  Cancellation of load line certificates or exemption 
+certificates.
 
     (a) Since vessels described in Sec. 42.03-5 or Sec. 42.03-10 when 
 found qualified are issued appropriate load line certificates or load 
@@ -1947,7 +1949,8 @@ FR 9012, June 5, 1969; CGD 79-153, 48 FR 38647, Aug. 25, 1983]
 
 
 <R05>
-Sec. 42.09-15  Surveys by the American Bureau of Shipping or assigning authority.
+Sec. 42.09-15  Surveys by the American Bureau of Shipping or assigning 
+authority.
 
     (a) General. Before issuing a certificate or placement of load line 
 marks on a vessel, the assigning and issuing authority shall make an 
@@ -2183,7 +2186,8 @@ FR 9013, June 5, 1969]
 
 
 <R05>
-Sec. 42.09-50  Repairs or alterations to vessel after it has been surveyed.
+Sec. 42.09-50  Repairs or alterations to vessel after it has been 
+surveyed.
 
     (a) After any survey of the vessel made under Sec. Sec. 42.09-25 to 
 42.09-40, inclusive, as applicable, has been completed and deficiencies 
@@ -2231,7 +2235,8 @@ FR 9013, June 5, 1969; CGD 80-120, 47 FR 5723, Feb. 8, 1982]
 
 
 <R05>
-Sec. 42.11-5  Applications for load line assignments, surveys, and certificates for U.S.-flag vessels.
+Sec. 42.11-5  Applications for load line assignments, surveys, and 
+certificates for U.S.-flag vessels.
 
     (a) Normally, the owner, master, or agent of a vessel shall apply in 
 writing, on a timely basis, to the American Bureau of Shipping for the 
@@ -2254,7 +2259,8 @@ FR 9013, June 5, 1969; CGD 96-041, 61 FR 50727, Sept. 27, 1996; USCG-
 
 
 <R05>
-Sec. 42.11-10  Applications for load line assignments and certificates for vessels other than U.S.-flag vessels.
+Sec. 42.11-10  Applications for load line assignments and certificates
+for vessels other than U.S.-flag vessels.
 
     (a) The application for the assignment of load lines and certificate 
 for a
@@ -2784,7 +2790,8 @@ FR 9014, June 5, 1969]
 
 
 <R05>
-Sec. 42.15-25  Hatchways closed by portable covers and secured weathertight by tarpaulins and battening devices.
+Sec. 42.15-25  Hatchways closed by portable covers and secured 
+weathertight by tarpaulins and battening devices.
 
     (a) Hatchway coamings. (1) The coamings of hatchways closed by 
 portable covers secured weathertight by tarpaulins and battening devices 
@@ -2868,7 +2875,8 @@ FR 9014, June 5, 1969]
 
 
 <R05>
-Sec. 42.15-30  Hatchways closed by weathertight covers of steel or other equivalent material fitted with gaskets and clamping devices.
+Sec. 42.15-30  Hatchways closed by weathertight covers of steel or other
+equivalent material fitted with gaskets and clamping devices.
 
     (a) Hatchway coamings. At positions 1 and 2 the height above the 
 deck of hatchway coamings fitted with weathertight hatch covers of steel 
@@ -2932,7 +2940,8 @@ being secured weathertight.
 
 
 <R05>
-Sec. 42.15-40  Miscellaneous openings in freeboard and superstructure decks.
+Sec. 42.15-40  Miscellaneous openings in freeboard and superstructure 
+decks.
 
     (a) Manholes and flush scuttles in position 1 or 2 or within 
 superstructures other than enclosed superstructures shall be closed by 
@@ -3276,8 +3285,8 @@ hatch cover complies with:
     (2) Section 42.15-30.
 
   Table 42.20-5(b)--Freeboard Increase Over Tabular Freeboard for Type
-``B'' Vessels With Hatch Covers Not Complying With Sec.  42.15-25(d) or
-                            Sec.  42.15-30.
+``B'' Vessels With Hatch Covers Not Complying With Sec. 42.15-25(d) or
+                            Sec. 42.15-30.
                                 [Metric]
 ------------------------------------------------------------------------
      Length of ship (meters)        Freeboard increase \1\ (millimeters)
@@ -3479,7 +3488,8 @@ section, the following permeabilities must be assumed:
 
 
 <R05>
-Sec. 42.20-7  Flooding standard: Type ``B'' vessel, 60 percent reduction.
+Sec. 42.20-7  Flooding standard: Type ``B'' vessel, 60 percent 
+reduction.
 
     (a) Design calculations must be submitted that demonstrate that the 
 vessel will remain afloat in the conditions of equilibrium specified in 
@@ -3504,7 +3514,8 @@ the following permeabilities must be assumed:
 
 
 <R05>
-Sec. 42.20-8  Flooding standard: Type ``B'' vessel, 100 percent reduction.
+Sec. 42.20-8  Flooding standard: Type ``B'' vessel, 100 percent 
+reduction.
 
     (a) Design calculations must be submitted that demonstrate that the 
 vessel will remain afloat in the conditions of equilibrium specified in 
@@ -3973,7 +3984,8 @@ FR 9015, June 5, 1969]
 
 
 <R05>
-Sec. 42.20-20  Correction to the freeboard for vessels under 328 feet in length.
+Sec. 42.20-20  Correction to the freeboard for vessels under 328 feet in
+length.
 
     (a) The tabular freeboard for a Type ``B'' vessel of between 79 feet 
 and 328 feet in length having enclosed superstructures with an effective 
@@ -6599,7 +6611,8 @@ April 1 through April 15.
 
 
 <R05>
-Sec. 45.9  Seasonal application of load lines for vessels not marked under this part.
+Sec. 45.9  Seasonal application of load lines for vessels not marked
+under this part.
 
     (a) For the purposes of the law and regulations prohibiting 
 submergence of load lines (46 U.S.C. 88c; 46 CFR 42.07-10) the marks 
@@ -7438,7 +7451,8 @@ strength to withstand impact of boarding seas.
 
 
 <R05>
-Sec. 45.113  Access openings in bulkheads at ends of enclosed superstructures.
+Sec. 45.113  Access openings in bulkheads at ends of enclosed 
+superstructures.
 
     (a) Access openings in bulkheads at ends of enclosed superstructures 
 must have doors of steel or material as strong as steel that are 
@@ -7905,7 +7919,11 @@ the requirements of this part.
 
 [[Page 88]]
 
-[GRAPHIC] [TIFF OMITTED] TR23AP02.007
+[GRAPHIC] [TIFF OMITTED] TR06JN11.055
+
+
+[USCG-1998-4623, 67 FR 19690, Apr. 23, 2002, as amended at 75 FR 70601, 
+Nov. 18, 2010; 75 FR 78928, Dec. 17, 2010; 76 FR 32326, June 6, 2011]
 
 
 <R05>
@@ -7917,23 +7935,29 @@ special load line regime under this subpart:
     (b) Barges that have been designed and built to at least the minimum 
 scantlings of the American Bureau of Shipping River Rules which were in 
 effect at the time of construction;
-
-[[Page 89]]
-
-    (c) Barges with a length-to-depth ratio less than 22; and
+    (c) Barges with a length-to-depth ratio less than 22;
     (d) Barges on the Milwaukee route must not be more than 10 years 
-old.
+old; and
+    (e) All weathertight and watertight closures (dogs, gaskets, covers, 
+etc.) must be in proper working condition.
+
+[USCG-1998-4623, 67 FR 19690, Apr. 23, 2002, as amended at 75 FR 70603, 
+Nov. 18, 2010]
 
 
 <R05>
 Sec. 45.175  Applicable routes.
 
-    This subpart applies to the following routes on Lake Michigan, 
-between Chicago (Calumet Harbor), IL, and--
+    This subpart applies to the following routes, including intermediate 
+ports, on Lake Michigan, between Calumet Harbor, IL, and--
     (a) Milwaukee, WI (the ``Milwaukee route'');
     (b) Burns Harbor, IN (the ``Burns Harbor route'');
     (c) St. Joseph, MI (the ``St. Joseph route''); and
     (d) Muskegon, MI (the ``Muskegon route'').
+
+[USCG-1998-4623, 75 FR 70604, Nov. 18, 2010]
+
+[[Page 89]]
 
 
 <R05>
@@ -7954,22 +7978,22 @@ or tank containers, may not be carried.
 
 
 <R05>
-Sec. 45.181  Load line exemption requirements for the Burns Harbor and Milwaukee routes.
+Sec. 45.181  Load line exemption requirements for the Burns Harbor and
+Milwaukee routes.
 
     Barges operating on the Burns Harbor and Milwaukee routes may be 
 conditionally exempted from load line assignment provided that the 
 following requirements are met:
     (a) Registration. Before the barge's first voyage onto Lake 
-Michigan, the owner or operator must register the barge (in writing) 
-with the Officer in Charge, Marine Inspection (OCMI), U.S. Coast Guard 
-Sector Office, 215 W. 83rd St--Suite D, Burr Ridge, IL, 60521. The 
-registration may be faxed to the OCMI in advance (at (630) 986-2120), 
-with the original following by mail. The registration may be in any 
-form, but must be signed by the owner or operator. No load line 
-exemption certificate will be returned. However, the registration will 
-be kept on file.
+Michigan, the owner or operator must register the barge in writing with 
+the Commanding Officer, Marine Safety Unit Chicago, 555A Plainfield 
+Road, Willowbrook, IL, 60527. The registration may be faxed to MSU 
+Chicago in advance at (630) 986-2120, with the original following by 
+mail. The registration may be in any form, but must be signed by the 
+owner or operator. No load line exemption certificate will be returned. 
+However, the registration will be kept on file.
     (b) The registration must include the following information:
-    (1) Barge name and official number (or other identification number);
+    (1) Barge name and official documentation number;
     (2) Owner and operator (points-of-contact, company addresses and 
 telephone numbers);
     (3) Service route (Milwaukee and/or Burns Harbor);
@@ -7998,19 +8022,17 @@ withdrawal from Lake Michigan service (due to damage, age, or other
 circumstances), or other disposition of the barge.
 
 [USCG-1998-4623, 67 FR 19690, Apr. 23, 2002, as amended by USCG-2006-
-25556, 72 FR 36330, July 2, 2007]
+25556, 72 FR 36330, July 2, 2007; 75 FR 70604, Nov. 18, 2010]
 
 
 <R05>
-Sec. 45.183  Load line requirements for the St. Joseph and Muskegon routes.
+Sec. 45.183  Load line requirements for the St. Joseph and Muskegon
+routes.
 
     (a) Load line certificate. (1) The load line issued under this 
 subpart must be a limited-service, domestic-voyage load line.
     (2) Except as provided under paragraph (b)(2)(vi) of this section, 
-the term of the certificate is five years.
-
-[[Page 90]]
-
+the term of the certificate is 5 years.
     (3) The load line certificate is valid for the St. Joseph and 
 Muskegon routes, and intermediate ports. However, operators must comply 
 with the route-specific requirements on the certificate.
@@ -8023,6 +8045,9 @@ Sec. 42.09-25 of this chapter and subsequent annual surveys under Sec.
 may be conducted with the barge afloat if the following conditions are 
 met:
     (i) The barge is less than 10 years old;
+
+[[Page 90]]
+
     (ii) The draft during the survey does not exceed 15 inches (380 
 millimeters);
     (iii) The barge is empty and thoroughly cleaned of all debris, 
@@ -8038,16 +8063,23 @@ conducted; and
     (vi) The initial load line certificate is to be issued for a term of 
 5 years or until the barge reaches 10 years of age, whichever occurs 
 first. Once this certificate expires, the barge must be drydocked or 
-hauled out and be fully examined internally and externally.
+hauled out and fully examined internally and externally.
+
+[USCG-1998-4623, 67 FR 19690, Apr. 23, 2002, as amended at 75 FR 70604, 
+Nov. 18, 2010]
 
 
 <R05>
 Sec. 45.185  Tow limitations.
 
     (a) Barges must not be manned.
-    (b) No more than three barges per tow on the Milwaukee, St. Joseph, 
-and Muskegon routes.
-    (c) Barges must not be more than 5 nautical miles from shore.
+    (b) No more than a total of three barges per tow may operate on the 
+Milwaukee, St. Joseph, and Muskegon routes. A mixed tow of load-lined 
+and exempted barges is still limited to three barges on those routes.
+    (c) Tows must not be more than 5 nautical miles from shore.
+
+[USCG-1998-4623, 67 FR 19690, Apr. 23, 2002, as amended at 75 FR 70604, 
+Nov. 18, 2010]
 
 
 <R05>
@@ -8057,10 +8089,12 @@ Sec. 45.187  Weather limitations.
 conditions only.
     (b) The weather limits (ice conditions, wave height, and sustained 
 winds) for the Milwaukee, St. Joseph, and Muskegon routes are specified 
-in Sec. 45.171, table 45.171.
+in Sec. 45.171, Table 45.171.
     (c) If weather conditions are expected to exceed these limits at any 
 time during the voyage, the tow must not leave harbor or, if already 
 underway, must proceed to the nearest appropriate harbor of safe refuge.
+
+[USCG-1998-4623, 76 FR 32327, June 6, 2011]
 
 
 <R05>
@@ -8079,7 +8113,8 @@ meet the following requirements:
 fractures, or serious indentations, as well as damage that would be 
 considered in excess of normal wear;
     (4) The cargo box side and end coamings are watertight;
-    (5) All manholes are covered and secured watertight;
+    (5) All hatch and manhole dogs are in working condition, and all 
+covers are closed and secured watertight;
     (6) All voids are free of excess water; and
     (7) Precautions have been taken to prevent shifting of cargo.
     (c) Verifications. On voyages north of St. Joseph, the towing vessel 
@@ -8092,18 +8127,25 @@ must note in the logbook that the pre-departure barge inspections,
 verification of mooring/docking space availability, and weather forecast 
 checks were performed, and record the freeboards of each barge.
 
-[[Page 91]]
+[USCG-1998-4623, 67 FR 19690, Apr. 23, 2002, as amended at 75 FR 70604, 
+Nov. 18, 2010; 75 FR 78928, Dec. 17, 2010; 76 FR 32327, June 6, 2011]
 
 
 <R05>
 Sec. 45.193  Towboat power requirements.
 
     The towing vessel must meet the following requirements:
-    (a) General. The towing vessel must have adequate horsepower to 
+    (a) General. The towing vessel must have adequate horsepower (HP) to 
 handle the tow, but not less than the amount specified for the routes 
 below.
+
+[[Page 91]]
+
     (b) Milwaukee and St. Joseph routes: a minimum of 1,000 HP.
     (c) Muskegon route: a minimum of 1,500 HP.
+
+[USCG-1998-4623, 67 FR 19690, Apr. 23, 2002, as amended at 75 FR 70604, 
+Nov. 18, 2010]
 
 
 <R05>
@@ -8125,9 +8167,9 @@ capable of using the cutting gear.
 <R05>
 Sec. 45.197  Operational plan requirements for the Muskegon route.
 
-    Towing vessels on the Muskegon route must have aboard an operational 
-plan that is available for ready reference by the master. The plan must 
-include the following:
+    Towing vessels on the Muskegon route must have on board an 
+operational plan that is available for ready reference by the master. 
+The plan must include the following:
     (a) The cargo limitations, the general operational requirements, and 
 the special operational requirements of this subpart.
     (b) A list of mooring and docking facilities (with phone numbers) in 
@@ -8138,6 +8180,9 @@ capability to render assistance to the tow, if required.
     (d) Guidelines for possible emergency situations, such as barge 
 handling under adverse weather conditions, and other emergency 
 procedures.
+
+[USCG-1998-4623, 67 FR 19690, Apr. 23, 2002, as amended at 75 FR 70604, 
+Nov. 18, 2010]
 
 
 <R05>
@@ -8501,7 +8546,8 @@ Inspection, U.S. Coast Guard.
 
 
 <R05>
-Sec. 46.10-15  Survey for the establishment and renewal of subdivision load line marks.
+Sec. 46.10-15  Survey for the establishment and renewal of subdivision 
+load line marks.
 
     (a) Every passenger vessel to be marked with and certificated for 
 subdivision load lines must comply with the requirements as set forth in 
@@ -8527,7 +8573,8 @@ subchapter.
 
 
 <R05>
-Sec. 46.10-20  Application for the assignment and renewal of subdivision load lines.
+Sec. 46.10-20  Application for the assignment and renewal of subdivision
+load lines.
 
     (a) Application for assignment and renewal of subdivision load lines 
 and certification thereof shall be made in writing to the Commandant, 
@@ -8932,6 +8979,9 @@ Subpart G [Reserved]
 <R03>
                      SUBCHAPTER F_MARINE ENGINEERING
 
+<R05>
+
+
 <R03>
 PART 50_GENERAL PROVISIONS--Table of Contents
 
@@ -9046,7 +9096,8 @@ vessels as set forth in other subchapters for specific types of vessels.
 
 
 <R05>
-Sec. 50.01-20  OMB control numbers assigned pursuant to the Paperwork Reduction Act.
+Sec. 50.01-20  OMB control numbers assigned pursuant to the Paperwork
+Reduction Act.
 
     (a) Purpose. This section collects and displays the control numbers 
 assigned to information collection and recordkeeping requirements in 
@@ -9671,7 +9722,8 @@ manufacturer or mill certificate.
 
 
 <R05>
-Sec. 50.25-7  Testing of products required to be certified in presence of marine inspector.
+Sec. 50.25-7  Testing of products required to be certified in presence
+of marine inspector.
 
     (a) Certified products are not normally tested in the presence of a 
 marine inspector. The Commandant may, however, assign a marine inspector 
@@ -9701,7 +9753,8 @@ represent.
 
 
 <R05>
-Sec. 50.25-10  Acceptance of piping components by specific letter or approved plan.
+Sec. 50.25-10  Acceptance of piping components by specific letter or 
+approved plan.
 
     (a) A manufacturer of a piping component which does not comply with 
 an adopted industry standard and requires acceptance by specific letter 
@@ -9930,7 +9983,8 @@ Vessel Code''), 52.01-90.
 
 
 <R05>
-Sec. 52.01-2  Adoption of section I of the ASME Boiler and Pressure Vessel Code.
+Sec. 52.01-2  Adoption of section I of the ASME Boiler and Pressure 
+Vessel Code.
 
     (a) Main power boilers and auxiliary boilers shall be designed, 
 constructed, inspected, tested, and stamped in accordance with section I 
@@ -10427,7 +10481,8 @@ requirements for automatic safety controls in part 62 of this chapter.
 
 
 <R05>
-Sec. 52.01-35  Auxiliary, donkey, fired thermal fluid heater, and heating boilers.
+Sec. 52.01-35  Auxiliary, donkey, fired thermal fluid heater, and 
+heating boilers.
 
     (a) To determine the appropriate part of the regulations where 
 requirements for miscellaneous boiler types, such as donkey, fired 
@@ -10637,7 +10692,8 @@ Vessel Code except that threaded boiler tubes are not permitted.
 
 
 <R05>
-Sec. 52.01-100  Openings and compensation (modifies PG-32 through PG-39, PG-42 through PG-55).
+Sec. 52.01-100  Openings and compensation (modifies PG-32 through PG-39,
+PG-42 through PG-55).
 
     (a) The rules for openings and compensation shall be as indicated in 
 PG-32 through PG-55 of section I of the ASME Boiler and Pressure Vessel 
@@ -10722,7 +10778,8 @@ FR 65161, Oct. 31, 2008]
 
 
 <R05>
-Sec. 52.01-110  Water-level indicators, water columns, gauge-glass connections, gauge cocks, and pressure gauges (modifies PG-60).
+Sec. 52.01-110  Water-level indicators, water columns, gauge-glass 
+connections, gauge cocks, and pressure gauges (modifies PG-60).
 
     (a) Boiler water level devices. Boiler water level devices shall be 
 as indicated in PG-60 of section I of the ASME Boiler and Pressure 
@@ -10803,7 +10860,8 @@ reference; see 46 CFR 52.01-1) and Sec. 56.50-30 of this subchapter.
 
 
 <R05>
-Sec. 52.01-120  Safety valves and safety relief valves (modifies PG-67 through PG-73).
+Sec. 52.01-120  Safety valves and safety relief valves (modifies PG-67 
+through PG-73).
 
     (a)(1) Boiler safety valves and safety relief valves must be as 
 indicated in PG-67 through PG-73 of section I of the ASME Boiler and 
@@ -11026,7 +11084,8 @@ FR 65162, Oct. 31, 2008]
 
 
 <R05>
-Sec. 52.01-145  Manufacturers' data report forms (modifies PG-112 and PG-113).
+Sec. 52.01-145  Manufacturers' data report forms (modifies PG-112 and 
+PG-113).
 
     The manufacturers' data report forms required by PG-112 and PG-113 
 of section I of the ASME Boiler and Pressure Vessel Code (incorporated 
@@ -11071,7 +11130,8 @@ material even though they may be nondestructively examined under Sec.
 
 
 <R05>
-Sec. 52.05-20  Radiographic and ultrasonic examination (modifies PW-11 and PW-41.1).
+Sec. 52.05-20  Radiographic and ultrasonic examination (modifies PW-11 
+and PW-41.1).
 
     Radiographic and ultrasonic examination of welded joints must be as 
 described in PW-11 of section I of the ASME Boiler and Pressure Vessel 
@@ -11087,7 +11147,8 @@ section I of the ASME Boiler and Pressure Vessel Code.
 
 
 <R05>
-Sec. 52.05-30  Minimum requirements for attachment welds (modifies PW-16).
+Sec. 52.05-30  Minimum requirements for attachment welds (modifies 
+PW-16).
 
     (a) The location and minimum size of attachment welds for nozzles 
 and other connections shall be as required by PW-16 of section I of the 
@@ -11108,7 +11169,8 @@ inch.
 
 
 <R05>
-Sec. 52.05-45  Circumferential joints in pipes, tubes and headers (modifies PW-41).
+Sec. 52.05-45  Circumferential joints in pipes, tubes and headers 
+(modifies PW-41).
 
     (a) Circumferential welded joints of pipes, tubes and headers shall 
 be as required by PW-41 of section I of the ASME Boiler and Pressure 
@@ -11258,7 +11320,8 @@ Pressure Vessel Code (incorporated by reference; see 46 CFR 52.01-1).
 
 
 <R05>
-Sec. 52.25-10  Organic fluid vaporizer generators (modifies PVG-1 through PVG-12).
+Sec. 52.25-10  Organic fluid vaporizer generators (modifies PVG-1 
+through PVG-12).
 
     (a) Organic fluid vaporizer generators and parts thereof shall meet 
 the requirements of PVG-1 through PVG-12 of section I of the ASME Boiler 
@@ -11395,7 +11458,8 @@ Tank Water Heaters, Fourth Edition, Sep. 1, 1995 (``UL 1453''), 53.01-
 
 
 <R05>
-Sec. 53.01-3  Adoption of section IV of the ASME Boiler and Pressure Vessel Code.
+Sec. 53.01-3  Adoption of section IV of the ASME Boiler and Pressure 
+Vessel Code.
 
     (a) Heating boilers shall be designed, constructed, inspected, 
 tested, and stamped in accordance with section IV of the ASME Boiler and 
@@ -11541,7 +11605,8 @@ accessories.
 
 
 <R05>
-Sec. 53.05-1  Safety valve requirements for steam boilers (modifies HG-400 and HG-401).
+Sec. 53.05-1  Safety valve requirements for steam boilers (modifies 
+HG-400 and HG-401).
 
     (a) The pressure relief valve requirements and the safety valve 
 requirements for steam boilers must be as indicated in HG-400 and HG-401 
@@ -11555,7 +11620,8 @@ FR 65163, Oct. 31, 2008]
 
 
 <R05>
-Sec. 53.05-2  Relief valve requirements for hot water boilers (modifies HG-400.2).
+Sec. 53.05-2  Relief valve requirements for hot water boilers (modifies 
+HG-400.2).
 
     (a) The relief valve requirements for hot water boilers must be as 
 indicated in article 4 of section IV of the ASME Boiler and Pressure 
@@ -11851,7 +11917,8 @@ and Unions (1998) (``MSS SP-25''), 54.01-25; and
 
 
 <R05>
-Sec. 54.01-2  Adoption of division 1 of section VIII of the ASME Boiler and Pressure Vessel Code.
+Sec. 54.01-2  Adoption of division 1 of section VIII of the ASME Boiler 
+and Pressure Vessel Code.
 
     (a) Pressure vessels shall be designed, constructed, and inspected 
 in accordance with section VIII of the ASME Boiler and Pressure Vessel 
@@ -12180,7 +12247,8 @@ valve.
 
 
 <R05>
-Sec. 54.01-15  Exemptions from shop inspection and plan approval (modifiesU-1(c)(2)).
+Sec. 54.01-15  Exemptions from shop inspection and plan approval 
+(modifiesU-1(c)(2)).
 
     (a) The following classifications are exempt from shop inspection 
 and plan approval requirements of this part:
@@ -12891,7 +12959,8 @@ loads and metal temperature.
 
 
 <R05>
-Sec. 54.10-1  Scope (modifies UG-90 through UG-103 and UG-115 through UG-120).
+Sec. 54.10-1  Scope (modifies UG-90 through UG-103 and UG-115 through 
+UG-120).
 
     The inspection, tests, stamping, and reports for pressure vessels 
 shall be as required by paragraphs UG-90 through UG-103 and UG-115 
@@ -12904,7 +12973,8 @@ otherwise in this subpart.
 
 
 <R05>
-Sec. 54.10-3  Marine inspectors (replaces UG-90 and UG-91, and modifies UG-92 through UG-103).
+Sec. 54.10-3  Marine inspectors (replaces UG-90 and UG-91, and modifies 
+UG-92 through UG-103).
 
     (a) Only marine inspectors shall apply the Coast Guard Symbol. They 
 will not apply any other code symbol to pressure vessels.
@@ -13361,7 +13431,8 @@ operating personnel and vital machinery.
 
 
 <R05>
-Sec. 54.15-15  Relief devices for unfired steam boilers, evaporators, and heat exchangers (modifies UG-126).
+Sec. 54.15-15  Relief devices for unfired steam boilers, evaporators, 
+and heat exchangers (modifies UG-126).
 
     (a) An approved safety valve set to relieve at a pressure not 
 exceeding the ``maximum allowable working pressure'' of the shell shall 
@@ -13447,7 +13518,8 @@ FR 17226, June 29, 1973]
 
 
 <R05>
-Sec. 54.15-25  Minimum relief capacities for cargo tanks containing compressed or liquefied gas.
+Sec. 54.15-25  Minimum relief capacities for cargo tanks containing 
+compressed or liquefied gas.
 
     (a) Each tank shall be fitted with one or more safety relief valves 
 designed, constructed, and flow tested in accordance with subpart 
@@ -13509,7 +13581,7 @@ vessel's structure:
 area.
     For a grouping of pressure tanks having insulation on the tank:
     A=external surface area of the pressure tanks excluding insulation, 
-and without the projected bottom area.\1\
+and without the projected bottom area. \1\
 ---------------------------------------------------------------------------
 
     \1\ Figure 54.15-25(c) shows a method of determining the side 
@@ -13686,7 +13758,8 @@ wall.
 
 
 <R05>
-Sec. 54.20-5  Welding qualification tests and production testing (modifies UW-26, UW-28, UW-29, UW-47, and UW-48).
+Sec. 54.20-5  Welding qualification tests and production testing 
+(modifies UW-26, UW-28, UW-29, UW-47, and UW-48).
 
     (a) Performance and procedure qualification. No production welding 
 shall be done until welding procedures and welders have been qualified 
@@ -13762,7 +13835,8 @@ thickness.
 
 
 <R05>
-Sec. 54.25-8  Radiography (modifies UW-11(a), UCS-57, UNF-57, UHA-33, and UHT-57).
+Sec. 54.25-8  Radiography (modifies UW-11(a), UCS-57, UNF-57, UHA-33,
+and UHT-57).
 
     (a) Full radiography is required for all Class I and Class I-L 
 vessels regardless of thickness. (Refer to Table 54.01-5(b) for 
@@ -13782,7 +13856,8 @@ from the intersection.
 
 
 <R05>
-Sec. 54.25-10  Low temperature operation--ferritic steels (replaces UCS-65 through UCS-67).
+Sec. 54.25-10  Low temperature operation--ferritic steels (replaces
+UCS-65 through UCS-67).
 
     (a) Scope. (1) This section contains requirements for pressure 
 vessels and nonpressure vessel type tanks and associated secondary 
@@ -13974,7 +14049,8 @@ Dec. 1, 1999; USCG-2000-7790, 65 FR 58460, Sept. 29, 2000; USCG-2003-
 
 
 <R05>
-Sec. 54.25-15  Low temperature operation--high alloy steels (modifies UHA-23(b) and UHA-51).
+Sec. 54.25-15  Low temperature operation--high alloy steels (modifies 
+UHA-23(b) and UHA-51).
 
     (a) Toughness tests for the materials listed in UHA-51(a) in section 
 VIII of the ASME Boiler and Pressure Vessel Code (incorporated by 
@@ -14011,8 +14087,9 @@ FR 9178, Mar. 8, 1974; CGD 73-254, 40 FR 40164, Sept. 2, 1975; USCG-
 
 <R05>
 Sec. 54.25-20  Low temperature operation--ferritic steels with 
+properties enhanced by heat treatment (modifies UHT-5(c), UHT-6, UHT-23,
 
-properties enhanced by heat treatment (modifies UHT-5(c), UHT-6, UHT-23, and UHT-82).
+and UHT-82).
 
     (a) For service temperatures below 0 [deg]F. but not below the 
 designated minimum service temperature, steel conforming to the 
@@ -14870,7 +14947,8 @@ Applications (May 1997) (``SAE J1942''), 56.60-25.
 
 
 <R05>
-Sec. 56.01-3  Power boilers, external piping and appurtenances (Replaces 100.1.1, 100.1.2, 122.1, 132 and 133).
+Sec. 56.01-3  Power boilers, external piping and appurtenances (Replaces
+100.1.1, 100.1.2, 122.1, 132 and 133).
 
     (a) Power boiler external piping and components must meet the 
 requirements of this part and Sec. Sec. 52.01-105, 52.01-110, 52.01-
@@ -15310,7 +15388,8 @@ USCG-1998-4442, 63 FR 52190, Sept. 30, 1998; USCG-2003-16630, 73 FR
 
 
 <R05>
-Sec. 56.10-1  Selection and limitations of piping components (replaces 105 through 108).
+Sec. 56.10-1  Selection and limitations of piping components (replaces 
+105 through 108).
 
     (a) Pipe, tubing, pipe joining fittings, and piping system 
 components, shall meet material and standard requirements of subpart 
@@ -18066,7 +18145,8 @@ FR 6189, Mar. 25, 1972; CGD 77-140, 54 FR 40611, Oct. 2, 1989]
 
 
 <R05>
-Sec. 56.50-97  Piping for instruments, control, and sampling (modifies 122.3).
+Sec. 56.50-97  Piping for instruments, control, and sampling (modifies
+122.3).
 
     (a) Piping for instruments, control, and sampling must comply with 
 paragraph 122.3 of ASME B31.1 (incorporated by reference; see 46 CFR 
@@ -18385,7 +18465,8 @@ requirements of subpart B of part 197 of this chapter.
 
 
 <R05>
-Sec. 56.60-1  Acceptable materials and specifications (replaces 123 and Table 126.1 in ASME B31.1).
+Sec. 56.60-1  Acceptable materials and specifications (replaces 123 and
+Table 126.1 in ASME B31.1).
 
     (a)(1) The material requirements in this subpart shall be followed 
 in lieu of those in 123 in ASME B31.1 (incorporated by reference; see 46 
@@ -18460,7 +18541,7 @@ Pipe, forged and bored:
 Pipe, centrifugally cast:...  (None            (1,9)
                                applicable).
 Tube, seamless:
-    A 179 Carbon steel heat   UCS23, Sec.     (\11\).
+    A 179 Carbon steel heat   UCS23, Sec. (\11\).
      exchanger and condenser   VIII of the
      tubes.                    ASME Boiler
                                and Pressure
@@ -18486,7 +18567,7 @@ Tube, seamless and welded:
      tubing.                   Boiler and
                                Pressure
                                Vessel Code.
-    A 334 Seamless and        UCS23, Sec.     (4,5).
+    A 334 Seamless and        UCS23, Sec. (4,5).
      welded (no added filler   VIII of the
      metal) carbon and low     ASME Boiler
      alloy tubing for low      and Pressure
@@ -18544,7 +18625,7 @@ Castings,\13\ iron:
                                Vessel Code.
     A 126 Gray iron.........  ......do.......  (\14\).
     A 197 Malleable iron....  ......do.......  (\14\).
-    A 395 Ductile iron......  UCD-23, Sec.    (\14\).
+    A 395 Ductile iron......  UCD-23, Sec. (\14\).
                                VIII of the
                                ASME Boiler
                                and Pressure
@@ -18554,7 +18635,7 @@ Castings,\13\ iron:
                         Nonferrous Materials \15\
 ------------------------------------------------------------------------
 Pipe, seamless:
-    B 42 Copper.............  UNF23, Sec.     (\16\).
+    B 42 Copper.............  UNF23, Sec. (\16\).
                                VIII of the
                                ASME Boiler
                                and Pressure
@@ -18568,7 +18649,7 @@ Pipe and tube, seamless:
     B 315 Copper-silicon....  ......do.......
 Tube, seamless:
     B 68 Copper.............  See footnote 17  (16,17,18).
-    B 75 Copper.............  UNF23, Sec.     (\16\).
+    B 75 Copper.............  UNF23, Sec. (\16\).
                                VIII of the
                                ASME Boiler
                                and Pressure
@@ -18602,7 +18683,7 @@ A 134:
     Grade 285C...............          55,000            0.80        1  13,750 x 0,8 = 11,000.
 ----------------------------------------------------------------------------------------------------------------
 Note: When using 104.1.2 in ASME B31.1 to compute wall thickness, the stress shown here shall be applied as
-  though taken from the stress tables. An additional factor of 0.8 may be required by Sec.  56.07-10(c) and
+  though taken from the stress tables. An additional factor of 0.8 may be required by Sec. 56.07-10(c) and
   (e).
 \1\ For austenitic materials where two sets of stresses appear, use the lower values.
 \2\ Type F (Furnace welded, using open hearth, basic oxygen, or electric furnace only) limited to Class II
@@ -18610,9 +18691,9 @@ Note: When using 104.1.2 in ASME B31.1 to compute wall thickness, the stress sho
   temperature of 650 [deg]F, or less.
 \3\ Electric resistance welded pipe or tubing of this specification may be used to a maximum design pressure of
   350 pounds per square inch gage.
-\4\ Refer to limitations on use of welded grades given in Sec.  56.60-2(b).
+\4\ Refer to limitations on use of welded grades given in Sec. 56.60-2(b).
 \5\ Use generally considered for Classes I-L and II-L applications. For Class I-L service only, the seamless
-  grade is permitted. For other service refer to footnote 4 and to Sec.  56.50-105.
+  grade is permitted. For other service refer to footnote 4 and to Sec. 56.50-105.
 \6\ Furnace lap or furnace butt grades only. Limited to Class II applications only where the maximum service
   temperature is 450 [deg]F, or less.
 \7\ Limited to Grades 285A, 285B, and 285C only (straight and spiral seam). Limited to Class II applications
@@ -18635,16 +18716,16 @@ Note: When using 104.1.2 in ASME B31.1 to compute wall thickness, the stress sho
 
  
 \13\ Other acceptable iron castings are in UCI-23 and UCD-23 of section VIII of the ASME Boiler and Pressure
-  Vessel Code. (See also Sec. Sec.  56.60-10 and 56.60-15.) Acceptable castings of materials other than cast
+  Vessel Code. (See also Sec. Sec. 56.60-10 and 56.60-15.) Acceptable castings of materials other than cast
   iron may be found in sections I or VIII of the ASME Boiler and Pressure Vessel Code.
 \14\ Acceptable when complying with American National Standards Institute standards. Ductile iron is acceptable
   for temperatures not exceeding 650 [deg]F. For pressure temperature limitations refer to UCD-3 of section VIII
   of the ASME Boiler and Pressure Vessel Code. Other grades of cast iron are acceptable for temperatures not
   exceeding 450 [deg]F. For pressure temperature limitations refer to UCI-3 of section VIII of the ASME Boiler
   and Pressure Vessel Code.
-\15\ For limitations in use refer to Sec. Sec.  56.10-5(c) and 56.60-20.
+\15\ For limitations in use refer to Sec. Sec. 56.10-5(c) and 56.60-20.
 \16\ Copper pipe must not be used for hot oil systems except for short flexible connections at burners. Copper
-  pipe must be annealed before installation in Class I piping systems. See also Sec. Sec.  56.10-5(c) and
+  pipe must be annealed before installation in Class I piping systems. See also Sec. Sec. 56.10-5(c) and
   56.60-20.
 \17\ The stress values shall be taken from UNF23 of section VIII of the ASME Boiler and Pressure Vessel Code for
   B75 annealed and light drawn temper as appropriate.
@@ -20808,7 +20889,8 @@ essential variable for all procedure specifications.
 
 
 <R05>
-Sec. 57.04-1  Test specimen requirements and definition of ranges (modifies QW 202, QW 210, QW 451, and QB 202).
+Sec. 57.04-1  Test specimen requirements and definition of ranges 
+(modifies QW 202, QW 210, QW 451, and QB 202).
 
     The type and number of specimens that must be tested to qualify an 
 automatic, semiautomatic, or manual procedure specification shall be in 
@@ -22043,7 +22125,8 @@ logbook.
 
 
 <R05>
-Sec. 58.16-20  Ventilation of compartments containing gas-consuming appliances.
+Sec. 58.16-20  Ventilation of compartments containing gas-consuming 
+appliances.
 
     (a) Compartments containing gas-consuming appliances which are 
 located above the weather deck shall be fitted with at least two natural 
@@ -23194,7 +23277,8 @@ with subpart 50.20 of this subchapter and must include the following:
 
 
 <R05>
-Sec. 58.30-50  Requirements for miscellaneous fluid power and control systems.
+Sec. 58.30-50  Requirements for miscellaneous fluid power and control 
+systems.
 
     (a) All fluid power and control systems installed on a vessel, 
 except those
@@ -23452,7 +23536,8 @@ FR 9980, June 17, 1970; CGFR 72-59R, 37 FR 6190, Mar. 25, 1972; USCG-
 
 
 <R05>
-Sec. 58.50-15  Alternate material for construction of independent fuel tanks.
+Sec. 58.50-15  Alternate material for construction of independent fuel 
+tanks.
 
     (a) Materials other than those specifically listed in 46 CFR 58.50-
 5, Table 58.50-5(a) and in 46 CFR 58.50-10, Table 58.50-10(a) may be 
@@ -23579,7 +23664,8 @@ protection of personnel; and
 
 
 <R03>
-PART 59_REPAIRS TO BOILERS, PRESSURE VESSELS AND APPURTENANCES--Table of Contents
+PART 59_REPAIRS TO BOILERS, PRESSURE VESSELS AND APPURTENANCES--Table of
+Contents
 
 
 
@@ -24587,7 +24673,8 @@ operation shall be examined and tested.
 
 
 <R05>
-Sec. 61.20-3  Main and auxiliary machinery and associated equipment, including fluid control systems.
+Sec. 61.20-3  Main and auxiliary machinery and associated equipment,
+including fluid control systems.
 
     (a) At each inspection for certification and periodic inspection the 
 marine inspector shall conduct such tests and inspections of the main 
@@ -25201,7 +25288,7 @@ Propulsion speed control..................  As is.
 Feedwater valve...........................  As is or open.
 Controllable pitch propeller..............  As is.
 Propulsion safety trip....................  As is & alarm.
-Fuel tank valve...........................  See Sec.  56.50-60(d).
+Fuel tank valve...........................  See Sec. 56.50-60(d).
 ------------------------------------------------------------------------
 
     Flooding safety refers to flooding detection, watertight integrity, 
@@ -25704,15 +25791,14 @@ limits must be alarmed on the navigating bridge and at the maneuvering
 platform or ECC.
     (3) On vessels propelled by internal combustion engines, an alarm 
 must annunciate on the navigating bridge and at the maneuvering platform 
-or ECC, if provided, to indicate starting capability less then 50% of 
-that required by Sec. 62.35-35(a). If the primary remote control system 
+or ECC, if provided, to indicate starting capability less than 50% of 
+that required by Sec. 62.35-35. If the primary remote control system 
 provides automatic starting, the number of automatic consecutive 
-attempts that fail to produce a
+attempts that fail to produce a start
 
 [[Page 307]]
 
-start must be limited to reserve 50% of the required starting 
-capability.
+must be limited to reserve 50% of the required starting capability.
     (d) Transfer of control location. Transfer of control location must 
 meet section 4-9-2/5.11 of the ABS Steel Vessel Rules (incorporated by 
 reference; see 46 CFR 62.05-1). Manual alternative-propulsion-control 
@@ -25736,7 +25822,8 @@ trip control operates. Failure must activate alarms on the navigating
 bridge and in the machinery spaces.
 
 [CGD 81-030, 53 FR 17838, May 18, 1988; 53 FR 19090, May 26, 1988; as 
-amended by USCG-2003-16630, 73 FR 65189, Oct. 31, 2008]
+amended by USCG-2003-16630, 73 FR 65189, Oct. 31, 2008; USCG-2011-0618, 
+76 FR 60754, Sept. 30, 2011]
 
 
 <R05>
@@ -25923,7 +26010,8 @@ Sept. 25, 2009]
 
 
 <R05>
-Sec. 62.35-50  Tabulated monitoring and safety control requirements for specific systems.
+Sec. 62.35-50  Tabulated monitoring and safety control requirements for 
+specific systems.
 
     The minimum instrumentation, alarms, and safety controls required 
 for specific types of systems are listed in Table 62.35-50.
@@ -26023,11 +26111,11 @@ Redundant auxiliary, system,    .................  Status...........  Auto trans
 ----------------------------------------------------------------------------------------------------------------
 \1\ See the ABS Steel Vessel Rules (incorporated by reference; see 46 CFR 62.05-1) Part 4-9-4, tables 7A and 8.
 \2\ See ABS Steel Vessel Rules Part 4-9-4, tables 7A and 8.
-\3\ See Sec.  113.37 of this chapter.
+\3\ See Sec. 113.37 of this chapter.
 \4\ See subparts 111.33 and 111.35 of this chapter.
 \5\ See subparts 112.45 and 112.50 of this chapter.
-\6\ See Sec.  111.12-1(c) of this chapter.
-\7\ See Sec.  111.12-1 (b), (c) of this chapter.
+\6\ See Sec. 111.12-1(c) of this chapter.
+\7\ See Sec. 111.12-1 (b), (c) of this chapter.
 \8\ See ABS Steel Vessel Rules Part 4-9-4, Table 8; and 46 CFR 58.10-15(f).
 \9\ See ABS Steel Vessel Rules Part 4-9-4, tables 7A and 8.
 
@@ -26102,7 +26190,8 @@ compensate for the equipment inadequacy.
 
 
 <R05>
-Sec. 62.50-20  Additional requirements for minimally attended machinery plants.
+Sec. 62.50-20  Additional requirements for minimally attended machinery
+plants.
 
     Note: Minimally attended machinery plants include vessel machinery 
 plants and spaces that are automated, but not to a degree where the 
@@ -26218,7 +26307,8 @@ is not applicable to the installed equipment.
 
 
 <R05>
-Sec. 62.50-30  Additional requirements for periodically unattended machinery plants.
+Sec. 62.50-30  Additional requirements for periodically unattended 
+machinery plants.
 
     Note: Periodically unattended machinery plants include machinery 
 plants and spaces that are automated to the degree that they are self-
@@ -26854,7 +26944,8 @@ monoxide emissions from stationary sources;
 
 
 <R03>
-PART 64_MARINE PORTABLE TANKS AND CARGO HANDLING SYSTEMS--Table of Contents
+PART 64_MARINE PORTABLE TANKS AND CARGO HANDLING SYSTEMS--Table of 
+Contents
 
 
 
@@ -27569,7 +27660,8 @@ subpart.
 
 
 <R05>
-Sec. 64.88  Plan approval, construction, and inspection of cargo-handling systems.
+Sec. 64.88  Plan approval, construction, and inspection of 
+cargo-handling systems.
 
     Plans for the cargo-handling system of a portable tank authorized 
 under subpart 98.30 of this chapter must be approved by the Coast Guard 
@@ -27668,6 +27760,9 @@ setting, but not less than 100 pounds per square inch.
 
 <R03>
           SUBCHAPTER G_DOCUMENTATION AND MEASUREMENT OF VESSELS
+
+<R05>
+
                            PART 66 [RESERVED]
 
 
@@ -28138,7 +28233,8 @@ the owner, provided it meets the other requirements of this part.
 
 
 <R05>
-Sec. 67.11  Restriction on transfer of an interest in documented vessels to foreign persons; foreign registry or operation.
+Sec. 67.11  Restriction on transfer of an interest in documented vessels
+to foreign persons; foreign registry or operation.
 
     (a) Unless approved by the Maritime Administration--
 
@@ -28220,7 +28316,8 @@ Locational Entities of the United States and Outlying Areas (1987)--
 
 
 <R05>
-Sec. 67.14  OMB control numbers assigned pursuant to the Paperwork Reduction Act.
+Sec. 67.14  OMB control numbers assigned pursuant to the Paperwork 
+Reduction Act.
 
     (a) Purpose. This section collects and displays the control numbers 
 assigned to information collection and recordkeeping requirements in 
@@ -28771,7 +28868,8 @@ USCG-2009-0702, 74 FR 49230, Sept. 25, 2009]
 
 
 <R05>
-Sec. 67.59  Extent of title evidence required for change in ownership of a documented vessel.
+Sec. 67.59  Extent of title evidence required for change in ownership
+of a documented vessel.
 
     When the ownership of a documented vessel changes, in whole or in 
 part, the applicant for documentation must present:
@@ -28800,7 +28898,8 @@ USCG-2009-0702, 74 FR 49230, Sept. 25, 2009]
 
 
 <R05>
-Sec. 67.61  Extent of title evidence required for vessels returning to documentation.
+Sec. 67.61  Extent of title evidence required for vessels returning to 
+documentation.
 
     (a) When the owner of a vessel which has been deleted from 
 documentation applies to have the vessel returned to documentation, the 
@@ -28834,7 +28933,8 @@ USCG-2009-0702, 74 FR 49230, Sept. 25, 2009]
 
 
 <R05>
-Sec. 67.63  Extent of title evidence required for captured, forfeited, special legislation, and wrecked vessels.
+Sec. 67.63  Extent of title evidence required for captured, forfeited,
+special legislation, and wrecked vessels.
 
     (a) In the case of a captured or forfeited vessel, the owner must 
 provide evidence establishing the chain of title from the judicial 
@@ -28941,7 +29041,8 @@ accordance with the remainder of this subpart.
 
 
 <R05>
-Sec. 67.81  Passage of title in conjunction with a corporate merger or similar transaction.
+Sec. 67.81  Passage of title in conjunction with a corporate merger or
+similar transaction.
 
     When the title to a vessel has passed as the result of a corporate 
 merger or similar transaction wherein the assets of one corporation have 
@@ -28998,7 +29099,8 @@ the change must be provided.
 
 
 <R05>
-Sec. 67.89  Waiver of production of a bill of sale eligible for filing and recording.
+Sec. 67.89  Waiver of production of a bill of sale eligible for filing 
+and recording.
 
     (a) When the evidence of title passage required by this subpart is a 
 bill of sale which meets the criteria for filing and recording set forth 
@@ -29166,7 +29268,8 @@ and furnish it to the vessel owner.
 
 
 <R05>
-Sec. 67.113  Managing owner designation; address; requirement to report change of address.
+Sec. 67.113  Managing owner designation; address; requirement to report
+change of address.
 
     The owner of each vessel must designate a managing owner on the 
 Application for Initial Issue, Exchange, or Replacement of Certificate 
@@ -29493,7 +29596,8 @@ Certificate of Documentation (form CG-4593).
 
 
 <R05>
-Sec. 67.145  Restrictions on exchange; requirement and procedure for mortgagee consent.
+Sec. 67.145  Restrictions on exchange; requirement and procedure for 
+mortgagee consent.
 
     (a) A Certificate of Documentation issued to a vessel which is the 
 subject of an outstanding mortgage recorded pursuant to subpart Q of 
@@ -29552,7 +29656,8 @@ National Vessel Documentation Center.
 
 
 <R05>
-Sec. 67.151  Replacement of Certificate of Documentation; special procedure for wrongfully withheld document.
+Sec. 67.151  Replacement of Certificate of Documentation; special 
+procedure for wrongfully withheld document.
 
     When the owner of a documented vessel alleges that the Certificate 
 of Documentation for that vessel is being wrongfully withheld by any 
@@ -30221,7 +30326,8 @@ agent.
 
 
 <R05>
-Sec. 67.218  Optional filing of instruments in portable document format as attachments to electronic mail.
+Sec. 67.218  Optional filing of instruments in portable document format
+as attachments to electronic mail.
 
     (a) Any instrument identified as eligible for filing and recording 
 under Sec. 67.200 may be submitted in portable document format (.pdf) 
@@ -30323,7 +30429,8 @@ Certificate of Documentation.
 
 
 <R05>
-Sec. 67.231  General requirements; optional application for filing and recording.
+Sec. 67.231  General requirements; optional application for filing and
+recording.
 
     (a) A mortgage or related instrument presented for filing and 
 recording must meet all of the requirements of subpart O of this part in 
@@ -30344,7 +30451,8 @@ will be filed and recorded with no further review.
 
 
 <R05>
-Sec. 67.233  Restrictions on recording mortgages, preferred mortgages, and related instruments.
+Sec. 67.233  Restrictions on recording mortgages, preferred mortgages, 
+and related instruments.
 
     (a) A mortgage or assumption of mortgage which otherwise meets the 
 requirements of this subpart is nonetheless not eligible for filing and 
@@ -30538,7 +30646,8 @@ which meets the requirements of this part for filing and recording.
 
 
 <R05>
-Sec. 67.263  Requirement for removal of encumbrances by court order, affidavit, or Declaration of Forfeiture.
+Sec. 67.263  Requirement for removal of encumbrances by court order, 
+affidavit, or Declaration of Forfeiture.
 
     The encumbrances described in subparts Q and R of this part are 
 removed from the record upon filing of:
@@ -30566,7 +30675,8 @@ which performed the forfeiture.
 
 
 <R05>
-Sec. 67.265  Requirements for instruments evidencing satisfaction or release.
+Sec. 67.265  Requirements for instruments evidencing satisfaction or 
+release.
 
     An instrument satisfying or releasing a mortgage, a notice of claim 
 of lien, or a preferred mortgage presented for filing and recording 
@@ -30658,7 +30768,8 @@ Sec. 67.167 (d) or (e); or
 
 
 <R05>
-Sec. 67.317  Requirement to renew endorsements on the Certificate of Documentation.
+Sec. 67.317  Requirement to renew endorsements on the Certificate of
+Documentation.
 
     (a) Except as provided in paragraph (b) of this section, the owner 
 of a documented vessel must annually renew each endorsement upon the 
@@ -30673,7 +30784,8 @@ Sec. 67.165.
 
 
 <R05>
-Sec. 67.319  Requirement to report change in vessel status and surrender Certificate of Documentation.
+Sec. 67.319  Requirement to report change in vessel status and surrender 
+Certificate of Documentation.
 
     The owner of a documented vessel must immediately report any change 
 in vessel status which causes any Certificate of Documentation to become 
@@ -30718,7 +30830,8 @@ purposes other than pleasure.
 
 
 <R05>
-Sec. 67.327  Operation under Certificate of Documentation with invalid endorsement.
+Sec. 67.327  Operation under Certificate of Documentation with invalid 
+endorsement.
 
     Except for vessels identified in Sec. 67.9, no vessel may be 
 operated under a Certificate of Documentation with endorsements which 
@@ -30871,7 +30984,8 @@ waivers in accordance with Sec. Sec. 67.89 or 67.101.
 
 
 <R05>
-Sec. 67.503  Application for exchange or replacement of a Certificate of Documentation.
+Sec. 67.503  Application for exchange or replacement of a Certificate of
+Documentation.
 
     (a) An application fee is charged for exchange or the simultaneous 
 exchange and replacement of a Certificate of Documentation in accordance 
@@ -30899,14 +31013,16 @@ for return to documentation.
 
 
 <R05>
-Sec. 67.507  Application for replacement of lost or mutilated Certificate of Documentation.
+Sec. 67.507  Application for replacement of lost or mutilated Certificate 
+of Documentation.
 
     An application fee is charged for replacement of a lost or mutilated 
 Certificate of Documentation in accordance with subpart K of this part.
 
 
 <R05>
-Sec. 67.509  Application for approval of exchange of Certificate of Documentation requiring mortgagee consent.
+Sec. 67.509  Application for approval of exchange of Certificate of 
+Documentation requiring mortgagee consent.
 
     An application fee is charged for approval of exchange of a 
 Certificate of Documentation requiring mortgagee consent in accordance 
@@ -30996,7 +31112,8 @@ owner's representative.
 
 
 <R05>
-Sec. 67.527  Application for filing and recording bills of sale and instruments in the nature of a bill of sale.
+Sec. 67.527  Application for filing and recording bills of sale and 
+instruments in the nature of a bill of sale.
 
     An application fee is charged for filing and recording bills of sale 
 and instruments in the nature of a bill of sale in accordance with 
@@ -31004,7 +31121,8 @@ subpart P of this part.
 
 
 <R05>
-Sec. 67.529  Application for filing and recording mortgages and related instruments.
+Sec. 67.529  Application for filing and recording mortgages and related
+instruments.
 
     An application fee is charged for filing and recording mortgages and 
 related instruments in accordance with subpart Q of this part.
@@ -31132,7 +31250,8 @@ Miscellaneous:
 
 
 <R03>
-PART 68_DOCUMENTATION OF VESSELS: EXCEPTIONS TO COASTWISE QUALIFICATION--Table of Contents
+PART 68_DOCUMENTATION OF VESSELS: EXCEPTIONS TO COASTWISE 
+QUALIFICATION--Table of Contents
 
 
 
@@ -31457,7 +31576,6 @@ USCG-2005-20258, 71 FR 61418, Oct. 18, 2006]
 
 <R05>
    Sec. Appendix A to Subpart A of Part 68--Oath for Qualification of 
-
 Corporation as a Citizen of the United States Under the Act of September 
                      2, 1958 (46 U.S.C. app. 883-1)
 
@@ -31671,7 +31789,8 @@ chapter.
 
 
 <R05>
-Sec. 68.31  Vessel eligibility requirements for limited coastwise endorsement.
+Sec. 68.31  Vessel eligibility requirements for limited coastwise 
+endorsement.
 
     (a) A vessel must comply with all the requirements of part 67 of 
 this chapter, other than citizenship requirements, in order to be 
@@ -32007,7 +32126,8 @@ United States.
 
 
 <R05>
-Sec. 68.60  Eligibility of a vessel for a coastwise endorsement under this subpart.
+Sec. 68.60  Eligibility of a vessel for a coastwise endorsement under 
+this subpart.
 
     (a) To be eligible for a coastwise endorsement under 46 U.S.C. 
 12106(e) and to operate in coastwise trade under 46 U.S.C. 12106(e) and 
@@ -32108,7 +32228,8 @@ applies during the period of time that the circumstances exist.
 
 
 <R05>
-Sec. 68.70  Application procedure for vessels other than barges to be operated in coastwise trade without being documented.
+Sec. 68.70  Application procedure for vessels other than barges to be 
+operated in coastwise trade without being documented.
 
     (a) The person that owns the vessel (other than a barge under Sec. 
 68.75) and that seeks a coastwise endorsement under Sec. 68.60 must 
@@ -32169,7 +32290,8 @@ is subject to penalty under 46 U.S.C. 12122 and 18 U.S.C. 1001.
 
 
 <R05>
-Sec. 68.75  Application procedure for barges to be operated in coastwise trade without being documented.
+Sec. 68.75  Application procedure for barges to be operated in coastwise
+trade without being documented.
 
     (a) The person that owns a barge qualified to engage in coastwise 
 trade must submit the following to the National Vessel Documentation 
@@ -32346,7 +32468,8 @@ or indirectly owned or controlled by another person.
 
 
 <R05>
-Sec. 68.105  Eligibility of a vessel for a coastwise endorsement under this subpart.
+Sec. 68.105  Eligibility of a vessel for a coastwise endorsement under 
+this subpart.
 
     (a) Except as under paragraphs (b) through (e) of this section, to 
 be eligible for a coastwise endorsement under 46 U.S.C. 12106(e) and to 
@@ -32454,7 +32577,8 @@ of subpart C of this part; or
 
 
 <R05>
-Sec. 68.107  Application procedure for vessels other than barges to be operated in coastwise trade without being documented.
+Sec. 68.107  Application procedure for vessels other than barges to be
+operated in coastwise trade without being documented.
 
     (a) In addition to the items under Sec. 67.141 of this chapter, the 
 person that owns the vessel (other than a barge under Sec. 68.109) and 
@@ -32538,7 +32662,8 @@ is subject to penalty under 46 U.S.C. 12122 and 18 U.S.C. 1001.
 
 
 <R05>
-Sec. 68.109  Application procedure for barges to be operated in coastwise trade without being documented.
+Sec. 68.109  Application procedure for barges to be operated in 
+coastwise trade without being documented.
 
     (a) The person that owns a barge qualified to engage in coastwise 
 trade under the lease-financing provisions of 46 U.S.C. 12106(e) must 
@@ -32910,7 +33035,8 @@ United States not within that territory or possession.
 
 
 <R05>
-Sec. 69.11  Determining the measurement system or systems for a particular vessel.
+Sec. 69.11  Determining the measurement system or systems for a 
+particular vessel.
 
     (a) Convention Measurement System (subpart B). (1) Except as 
 otherwise provided in this section, this system applies to a vessel 
@@ -33194,7 +33320,8 @@ FR 51045, Sept. 30, 1997; CGD 95-010, 62 FR 67536, Dec. 24, 1997]
 
 
 <R05>
-Sec. 69.29  OMB control numbers assigned under the Paperwork Reduction Act.
+Sec. 69.29  OMB control numbers assigned under the Paperwork Reduction
+Act.
 
     (a) Purpose. This section collects and displays the control numbers 
 assigned to information collection and record keeping requirements in 
@@ -35137,6 +35264,7 @@ tonnage is the same as its gross tonnage.
 [CGD 87-015b, 54 FR 37657, Sept. 12, 1989, as amended by CGD 97-057, 62 
 FR 51045, Sept. 30, 1997]
 
+
 [[Page 421]]
 
 
@@ -35166,13 +35294,15 @@ Regulations which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2010)
+                     (Revised as of October 1, 2011)
 
                       Title 1--General Provisions
 
          I  Administrative Committee of the Federal Register 
                 (Parts 1--49)
         II  Office of the Federal Register (Parts 50--299)
+       III  Administrative Conference of the United States (Parts 
+                300--399)
         IV  Miscellaneous Agencies (Parts 400--500)
 
                     Title 2--Grants and Agreements
@@ -35190,6 +35320,7 @@ Regulations which is published separately and revised annually.
                 399)
         IV  Department of Agriculture (Parts 400--499)
         VI  Department of State (Parts 600--699)
+       VII  Agency for International Development (Parts 700--799)
       VIII  Department of Veterans Affairs (Parts 800--899)
         IX  Department of Energy (Parts 900--999)
         XI  Department of Defense (Parts 1100--1199)
@@ -35210,12 +35341,12 @@ Regulations which is published separately and revised annually.
                 2600--2699)
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
-       XXX  Department of Homeland Security (Parts 3000--3099)
-      XXXI  Institute of Museum and Library Services (Parts 3100--
-                3199)
 
 [[Page 424]]
 
+       XXX  Department of Homeland Security (Parts 3000--3099)
+      XXXI  Institute of Museum and Library Services (Parts 3100--
+                3199)
      XXXII  National Endowment for the Arts (Parts 3200--3299)
     XXXIII  National Endowment for the Humanities (Parts 3300--
                 3399)
@@ -35267,11 +35398,11 @@ Regulations which is published separately and revised annually.
       XXXI  Farm Credit Administration (Parts 4100--4199)
     XXXIII  Overseas Private Investment Corporation (Parts 4300--
                 4399)
-     XXXIV  Securities and Exchange Commission (Parts 4400--4499)
-      XXXV  Office of Personnel Management (Parts 4500--4599)
 
 [[Page 425]]
 
+     XXXIV  Securities and Exchange Commission (Parts 4400--4499)
+      XXXV  Office of Personnel Management (Parts 4500--4599)
         XL  Interstate Commerce Commission (Parts 5000--5099)
        XLI  Commodity Futures Trading Commission (Parts 5100--
                 5199)
@@ -35282,6 +35413,7 @@ Regulations which is published separately and revised annually.
       XLVI  Postal Rate Commission (Parts 5600--5699)
      XLVII  Federal Trade Commission (Parts 5700--5799)
     XLVIII  Nuclear Regulatory Commission (Parts 5800--5899)
+      XLIX  Federal Labor Relations Authority (Parts 5900--5999)
          L  Department of Transportation (Parts 6000--6099)
        LII  Export-Import Bank of the United States (Parts 6200--
                 6299)
@@ -35309,9 +35441,9 @@ Regulations which is published separately and revised annually.
                 7799)
     LXVIII  Commission on Civil Rights (Parts 7800--7899)
       LXIX  Tennessee Valley Authority (Parts 7900--7999)
+       LXX  Court Services and Offender Supervision Agency for the 
+                District of Columbia (Parts 8000--8099)
       LXXI  Consumer Product Safety Commission (Parts 8100--8199)
-     LXXII  Special Inspector General for Iraq Reconstruction 
-                (Parts 8200--8299)
     LXXIII  Department of Agriculture (Parts 8300--8399)
      LXXIV  Federal Mine Safety and Health Review Commission 
                 (Parts 8400--8499)
@@ -35321,6 +35453,9 @@ Regulations which is published separately and revised annually.
       LXXX  Federal Housing Finance Agency (Parts 8700--8799)
     LXXXII  Special Inspector General for Iraq Reconstruction 
                 (Parts 9200--9299)
+
+[[Page 426]]
+
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Parts 
@@ -35328,8 +35463,6 @@ Regulations which is published separately and revised annually.
       XCIX  Department of Defense Human Resources Management and 
                 Labor Relations Systems (Department of Defense--
                 Office of Personnel Management) (Parts 9900--9999)
-
-[[Page 426]]
 
                       Title 6--Domestic Security
 
@@ -35377,6 +35510,9 @@ Regulations which is published separately and revised annually.
                 1600--1699)
       XVII  Rural Utilities Service, Department of Agriculture 
                 (Parts 1700--1799)
+
+[[Page 427]]
+
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
                 Agency, Department of Agriculture (Parts 1800--
@@ -35387,9 +35523,6 @@ Regulations which is published separately and revised annually.
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
                 of Agriculture (Parts 2700--2799)
-
-[[Page 427]]
-
     XXVIII  Office of Operations, Department of Agriculture (Parts 
                 2800--2899)
       XXIX  Office of Energy Policy and New Uses, Department of 
@@ -35434,6 +35567,9 @@ Regulations which is published separately and revised annually.
         II  Grain Inspection, Packers and Stockyards 
                 Administration (Packers and Stockyards Programs), 
                 Department of Agriculture (Parts 200--299)
+
+[[Page 428]]
+
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
 
@@ -35442,9 +35578,6 @@ Regulations which is published separately and revised annually.
          I  Nuclear Regulatory Commission (Parts 0--199)
         II  Department of Energy (Parts 200--699)
        III  Department of Energy (Parts 700--999)
-
-[[Page 428]]
-
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
       XIII  Nuclear Waste Technical Review Board (Parts 1303--
@@ -35473,9 +35606,13 @@ Regulations which is published separately and revised annually.
        VII  National Credit Union Administration (Parts 700--799)
       VIII  Federal Financing Bank (Parts 800--899)
         IX  Federal Housing Finance Board (Parts 900--999)
+         X  Bureau of Consumer Financial Protection (Parts 1000--
+                1099)
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
        XII  Federal Housing Finance Agency (Parts 1200--1299)
+      XIII  Financial Stability Oversight Council (Parts 1300--
+                1399)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
         XV  Department of the Treasury (Parts 1500--1599)
@@ -35488,6 +35625,9 @@ Regulations which is published separately and revised annually.
                Title 13--Business Credit and Assistance
 
          I  Small Business Administration (Parts 1--199)
+
+[[Page 429]]
+
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
         IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
@@ -35500,9 +35640,6 @@ Regulations which is published separately and revised annually.
                 Transportation (Parts 1--199)
         II  Office of the Secretary, Department of Transportation 
                 (Aviation Proceedings) (Parts 200--399)
-
-[[Page 429]]
-
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
                 (Parts 400--499)
@@ -35546,6 +35683,8 @@ Regulations which is published separately and revised annually.
                 Administration, Department of Commerce (Parts 
                 2300--2399)
 
+[[Page 430]]
+
                     Title 16--Commercial Practices
 
          I  Federal Trade Commission (Parts 0--999)
@@ -35556,8 +35695,6 @@ Regulations which is published separately and revised annually.
          I  Commodity Futures Trading Commission (Parts 1--199)
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
-
-[[Page 430]]
 
           Title 18--Conservation of Power and Water Resources
 
@@ -35590,8 +35727,8 @@ Regulations which is published separately and revised annually.
                 Labor (Parts 500--599)
          V  Employment and Training Administration, Department of 
                 Labor (Parts 600--699)
-        VI  Employment Standards Administration, Department of 
-                Labor (Parts 700--799)
+        VI  Office of Workers' Compensation Programs, Department 
+                of Labor (Parts 700--799)
        VII  Benefits Review Board, Department of Labor (Parts 
                 800--899)
       VIII  Joint Board for the Enrollment of Actuaries (Parts 
@@ -35599,6 +35736,8 @@ Regulations which is published separately and revised annually.
         IX  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 1000--1099)
+
+[[Page 431]]
 
                        Title 21--Food and Drugs
 
@@ -35614,9 +35753,6 @@ Regulations which is published separately and revised annually.
          I  Department of State (Parts 1--199)
         II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
-
-[[Page 431]]
-
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
          V  Broadcasting Board of Governors (Parts 500--599)
@@ -35658,6 +35794,9 @@ Regulations which is published separately and revised annually.
          I  Office of Assistant Secretary for Equal Opportunity, 
                 Department of Housing and Urban Development (Parts 
                 100--199)
+
+[[Page 432]]
+
         II  Office of Assistant Secretary for Housing-Federal 
                 HousingCommissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
@@ -35669,9 +35808,6 @@ Regulations which is published separately and revised annually.
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
-
-[[Page 432]]
-
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
@@ -35695,6 +35831,9 @@ Regulations which is published separately and revised annually.
                 Registration Program) (Parts 1700--1799)
        XII  Office of Inspector General, Department of Housing and 
                 Urban Development (Parts 2000--2099)
+        XV  Emergency Mortgage Insurance and Loan Programs, 
+                Department of Housing and Urban Development (Parts 
+                2700--2799)
         XX  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 3200--3899)
@@ -35716,6 +35855,9 @@ Regulations which is published separately and revised annually.
          V  Bureau of Indian Affairs, Department of the Interior, 
                 and Indian Health Service, Department of Health 
                 and Human Services (Part 900)
+
+[[Page 433]]
+
         VI  Office of the Assistant Secretary-Indian Affairs, 
                 Department of the Interior (Parts 1000--1199)
        VII  Office of the Special Trustee for American Indians, 
@@ -35725,8 +35867,6 @@ Regulations which is published separately and revised annually.
 
          I  Internal Revenue Service, Department of the Treasury 
                 (Parts 1--899)
-
-[[Page 433]]
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -35772,6 +35912,9 @@ Regulations which is published separately and revised annually.
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
                 1699)
+
+[[Page 434]]
+
       XVII  Occupational Safety and Health Administration, 
                 Department of Labor (Parts 1900--1999)
         XX  Occupational Safety and Health Review Commission 
@@ -35783,20 +35926,19 @@ Regulations which is published separately and revised annually.
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
-[[Page 434]]
-
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
                 Labor (Parts 1--199)
-        II  Minerals Management Service, Department of the 
-                Interior (Parts 200--299)
-       III  Board of Surface Mining and Reclamation Appeals, 
-                Department of the Interior (Parts 300--399)
+        II  Bureau of Ocean Energy Management, Regulation, and 
+                Enforcement, Department of the Interior (Parts 
+                200--299)
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
        VII  Office of Surface Mining Reclamation and Enforcement, 
                 Department of the Interior (Parts 700--999)
+       XII  Office of Natural Resources Revenue, Department of the 
+                Interior (Parts 1200--1299)
 
                  Title 31--Money and Finance: Treasury
 
@@ -35819,6 +35961,8 @@ Regulations which is published separately and revised annually.
                 Treasury (Parts 800--899)
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
+         X  Financial Crimes Enforcement Network, Departmnent of 
+                the Treasury (Parts 1000--1099)
 
                       Title 32--National Defense
 
@@ -35826,6 +35970,9 @@ Regulations which is published separately and revised annually.
          I  Office of the Secretary of Defense (Parts 1--399)
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
+
+[[Page 435]]
+
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
@@ -35843,9 +35990,6 @@ Regulations which is published separately and revised annually.
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
-
-[[Page 435]]
-
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
 
@@ -35882,6 +36026,8 @@ Regulations which is published separately and revised annually.
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
+[[Page 436]]
+
                           Title 35 [Reserved]
 
              Title 36--Parks, Forests, and Public Property
@@ -35901,9 +36047,6 @@ Regulations which is published separately and revised annually.
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
          X  Presidio Trust (Parts 1000--1099)
-
-[[Page 436]]
-
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
@@ -35941,6 +36084,9 @@ Regulations which is published separately and revised annually.
         IV  Environmental Protection Agency and Department of 
                 Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
+
+[[Page 437]]
+
         VI  Chemical Safety and Hazard Investigation Board (Parts 
                 1600--1699)
        VII  Environmental Protection Agency and Department of 
@@ -35958,20 +36104,15 @@ Regulations which is published separately and revised annually.
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
-
-[[Page 437]]
-
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
- Chapters 
    62--100  [Reserved]
             Subtitle C--Federal Property Management Regulations 
                 System
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
- Chapters 
   103--104  [Reserved]
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
@@ -35979,7 +36120,6 @@ Regulations which is published separately and revised annually.
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
        128  Department of Justice (Parts 128-1--128-99)
- Chapters 
   129--200  [Reserved]
             Subtitle D--Other Provisions Relating to Property 
                 Management [Reserved]
@@ -36001,6 +36141,9 @@ Regulations which is published separately and revised annually.
                 Services (Parts 1--199)
         IV  Centers for Medicare & Medicaid Services, Department 
                 of Health and Human Services (Parts 400--499)
+
+[[Page 438]]
+
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
 
@@ -36013,11 +36156,8 @@ Regulations which is published separately and revised annually.
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
-
-[[Page 438]]
-
        III  Utah Reclamation Mitigation and Conservation 
-                Commission (Parts 10000--10010)
+                Commission (Parts 10000--10099)
 
              Title 44--Emergency Management and Assistance
 
@@ -36057,6 +36197,9 @@ Regulations which is published separately and revised annually.
                 1200--1299)
       XIII  Office of Human Development Services, Department of 
                 Health and Human Services (Parts 1300--1399)
+
+[[Page 439]]
+
        XVI  Legal Services Corporation (Parts 1600--1699)
       XVII  National Commission on Libraries and Information 
                 Science (Parts 1700--1799)
@@ -36068,8 +36211,6 @@ Regulations which is published separately and revised annually.
                 2400--2499)
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
-
-[[Page 439]]
 
                           Title 46--Shipping
 
@@ -36110,6 +36251,9 @@ Regulations which is published separately and revised annually.
         12  Department of Transportation (Parts 1200--1299)
         13  Department of Commerce (Parts 1300--1399)
         14  Department of the Interior (Parts 1400--1499)
+
+[[Page 440]]
+
         15  Environmental Protection Agency (Parts 1500--1599)
         16  Office of Personnel Management, Federal Employees 
                 Health Benefits Acquisition Regulation (Parts 
@@ -36125,9 +36269,6 @@ Regulations which is published separately and revised annually.
         23  Social Security Administration (Parts 2300--2399)
         24  Department of Housing and Urban Development (Parts 
                 2400--2499)
-
-[[Page 440]]
-
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
@@ -36167,6 +36308,9 @@ Regulations which is published separately and revised annually.
                 Department of Transportation (Parts 300--399)
         IV  Coast Guard, Department of Homeland Security (Parts 
                 400--499)
+
+[[Page 441]]
+
          V  National Highway Traffic Safety Administration, 
                 Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
@@ -36180,8 +36324,6 @@ Regulations which is published separately and revised annually.
                 Department of Transportation [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
-
-[[Page 441]]
 
                    Title 50--Wildlife and Fisheries
 
@@ -36222,12 +36364,13 @@ Regulations which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2010)
+                     (Revised as of October 1, 2011)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
 
 Administrative Committee of the Federal Register  1, I
+Administrative Conference of the United States    1, III
 Advanced Research Projects Agency                 32, I
 Advisory Council on Historic Preservation         36, VIII
 African Development Foundation                    22, XV
@@ -36281,22 +36424,24 @@ American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
-Architectural and Transportation Barriers         36, XI
-   Compliance Board
+
 [[Page 444]]
 
+Architectural and Transportation Barriers         36, XI
+     Compliance Board
 Arctic Research Commission                        45, XXIII
 Armed Forces Retirement Home                      5, XI
 Army Department                                   32, V
   Engineers, Corps of                             33, II; 36, III
   Federal Acquisition Regulation                  48, 51
-Benefits Review Board                             20, VII
 Bilingual Education and Minority Languages        34, V
      Affairs, Office of
 Blind or Severely Disabled, Committee for         41, 51
      Purchase From People Who Are
 Broadcasting Board of Governors                   22, V
   Federal Acquisition Regulation                  48, 19
+Bureau of Ocean Energy Management, Regulation,    30, II
+     and Enforcement
 Census Bureau                                     15, I
 Centers for Medicare & Medicaid Services          42, IV
 Central Intelligence Agency                       32, XIX
@@ -36305,21 +36450,22 @@ Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
 Civil Rights, Commission on                       5, LXVIII; 45, VII
 Civil Rights, Office for                          34, I
+Court Services and Offender Supervision Agency    5, LXX
+     for the District of Columbia
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
-Commerce Department                               44, IV
+Commerce Department                               44, IV; 50, VI
   Census Bureau                                   15, I
   Economic Affairs, Under Secretary               37, V
   Economic Analysis, Bureau of                    15, VIII
   Economic Development Administration             13, III
   Emergency Management and Assistance             44, IV
   Federal Acquisition Regulation                  48, 13
-  Fishery Conservation and Management             50, VI
   Foreign-Trade Zones Board                       15, IV
   Industry and Security, Bureau of                15, VII
   International Trade Administration              15, III; 19, III
   National Institute of Standards and Technology  15, II
-  National Marine Fisheries Service               50, II, IV, VI
+  National Marine Fisheries Service               50, II, IV
   National Oceanic and Atmospheric                15, IX; 50, II, III, IV, 
        Administration                             VI
   National Telecommunications and Information     15, XXIII; 47, III, IV
@@ -36341,6 +36487,7 @@ Community Services, Office of                     45, X
 Comptroller of the Currency                       12, I
 Construction Industry Collective Bargaining       29, IX
      Commission
+Consumer Financial Protection Bureau              12, X
 Consumer Product Safety Commission                5, LXXI; 16, II
 Copyright Office                                  37, II
 Copyright Royalty Board                           37, III
@@ -36349,15 +36496,15 @@ Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
 Court Services and Offender Supervision Agency    28, VIII
      for the District of Columbia
-Customs and Border Protection Bureau              19, I
+Customs and Border Protection                     19, I
 Defense Contract Audit Agency                     32, I
+
+[[Page 445]]
+
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
-
-[[Page 445]]
-
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
   Defense Acquisition Regulations System          48, 2
@@ -36424,13 +36571,13 @@ Equal Opportunity, Office of Assistant Secretary  24, I
 Executive Office of the President                 3, I
   Administration, Office of                       5, XV
   Environmental Quality, Council on               40, V
+
+[[Page 446]]
+
   Management and Budget, Office of                5, III, LXXVII; 14, VI; 
                                                   48, 99
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
-
-[[Page 446]]
-
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
   Trade Representative, Office of the United      15, XX
@@ -36463,9 +36610,7 @@ Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
 Federal Housing Finance Agency                    5, LXXX; 12, XII
 Federal Housing Finance Board                     12, IX
-Federal Labor Relations Authority, and General    5, XIV; 22, XIV
-     Counsel of the Federal Labor Relations 
-     Authority
+Federal Labor Relations Authority                 5, XIV, XLIX; 22, XIV
 Federal Law Enforcement Training Center           31, VII
 Federal Management Regulation                     41, 102
 Federal Maritime Commission                       46, IV
@@ -36485,10 +36630,12 @@ Federal Service Impasses Panel                    5, XIV
 Federal Trade Commission                          5, XLVII; 16, I
 Federal Transit Administration                    49, VI
 Federal Travel Regulation System                  41, Subtitle F
+Financial Crimes Enforcement Network              31, X
+Financial Research Office                         12, XVI
+Financial Stability Oversight Council             12, XIII
 Fine Arts, Commission on                          45, XXI
 Fiscal Service                                    31, II
 Fish and Wildlife Service, United States          50, I, IV
-Fishery Conservation and Management               50, VI
 Food and Drug Administration                      21, I
 Food and Nutrition Service                        7, II
 Food Safety and Inspection Service                9, III
@@ -36498,14 +36645,14 @@ Foreign Claims Settlement Commission of the       45, V
      United States
 Foreign Service Grievance Board                   22, IX
 Foreign Service Impasse Disputes Panel            22, XIV
+
+[[Page 447]]
+
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
-
-[[Page 447]]
-
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
   Federal Property Management Regulations         41, 101
@@ -36541,7 +36688,7 @@ Health and Human Services, Department of          2, III; 5, XLV; 45,
 Homeland Security, Department of                  2, XXX; 6, I
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
-  Customs and Border Protection Bureau            19, I
+  Customs and Border Protection                   19, I
   Federal Emergency Management Agency             44, I
   Human Resources Management and Labor Relations  5, XCVII
        Systems
@@ -36574,14 +36721,15 @@ Housing, Office of, and Multifamily Housing       24, IV
      Assistance Restructuring, Office of
 Human Development Services, Office of             45, XIII
 Immigration and Customs Enforcement Bureau        19, IV
+
+[[Page 448]]
+
 Immigration and Naturalization                    8, I
 Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
 Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
-   Secretary
-[[Page 448]]
-
+     Secretary
 Indian Arts and Crafts Board                      25, II
 Indian Health Service                             25, V
 Industry and Security, Bureau of                  15, VII
@@ -36597,6 +36745,8 @@ Inter-American Foundation                         5, LXIII; 22, X
 Interior Department
   American Indians, Office of the Special         25, VII
        Trustee
+  Bureau of Ocean Energy Management, Regulation,  30, II
+       and Enforcement
   Endangered Species Committee                    50, IV
   Federal Acquisition Regulation                  48, 14
   Federal Property Management Regulations System  41, 114
@@ -36607,13 +36757,11 @@ Interior Department
        Secretary
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
-  Minerals Management Service                     30, II
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
+  Natural Resource Revenue, Office of             30, XII
   Reclamation, Bureau of                          43, I
   Secretary of the Interior, Office of            2, XIV; 43, Subtitle A
-  Surface Mining and Reclamation Appeals, Board   30, III
-       of
   Surface Mining Reclamation and Enforcement,     30, VII
        Office of
 Internal Revenue Service                          26, I
@@ -36625,7 +36773,6 @@ International Development, United States Agency   22, II
   Federal Acquisition Regulation                  48, 7
 International Development Cooperation Agency,     22, XII
      United States
-International Fishing and Related Activities      50, III
 International Joint Commission, United States     22, IV
      and Canada
 International Organizations Employees Loyalty     5, V
@@ -36652,21 +36799,21 @@ Justice Department                                2, XXVII; 5, XXVIII; 28,
   Prisons, Bureau of                              28, V
   Property Management Regulations                 41, 128
 Labor Department                                  5, XLII
-  Benefits Review Board                           20, VII
   Employee Benefits Security Administration       29, XXV
+
+[[Page 449]]
+
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
   Employment Standards Administration             20, VI
   Federal Acquisition Regulation                  48, 29
-
-[[Page 449]]
-
   Federal Contract Compliance Programs, Office    41, 60
        of
   Federal Procurement Regulations System          41, 50
   Labor-Management Standards, Office of           29, II, IV
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
+  Office of Workers' Compensation Programs        20, VII
   Public Contracts                                41, 50
   Secretary of Labor, Office of                   29, Subtitle A
   Veterans' Employment and Training Service,      41, 61; 20, IX
@@ -36688,7 +36835,6 @@ Merit Systems Protection Board                    5, II, LXIV
 Micronesian Status Negotiations, Office for       32, XXVII
 Millenium Challenge Corporation                   22, XIII
 Mine Safety and Health Administration             30, I
-Minerals Management Service                       30, II
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
@@ -36724,17 +36870,17 @@ National Institute of Food and Agriculture.       7, XXXIV
 National Institute of Standards and Technology    15, II
 National Intelligence, Office of Director of      32, XVII
 National Labor Relations Board                    5, LXI; 29, I
-National Marine Fisheries Service                 50, II, IV, VI
+National Marine Fisheries Service                 50, II, IV
 National Mediation Board                          29, X
 National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV, 
                                                   VI
+
+[[Page 450]]
+
 National Park Service                             36, I
 National Railroad Adjustment Board                29, III
 National Railroad Passenger Corporation (AMTRAK)  49, VII
 National Science Foundation                       2, XXV; 5, XLIII; 45, VI
-
-[[Page 450]]
-
   Federal Acquisition Regulation                  48, 25
 National Security Council                         32, XXI
 National Security Council and Office of Science   47, II
@@ -36743,6 +36889,7 @@ National Telecommunications and Information       15, XXIII; 47, III, IV
      Administration
 National Transportation Safety Board              49, VIII
 Natural Resources Conservation Service            7, VI
+Natural Resource Revenue, Office of               30, XII
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
@@ -36754,6 +36901,7 @@ Nuclear Regulatory Commission                     2, XX; 5, XLVIII; 10, I
 Occupational Safety and Health Administration     29, XVII
 Occupational Safety and Health Review Commission  29, XX
 Offices of Independent Counsel                    28, VI
+Office of Workers' Compensation Programs          20, VII
 Oklahoma City National Memorial Trust             36, XV
 Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
@@ -36802,14 +36950,15 @@ Research and Innovative Technology                49, XI
 Rural Business-Cooperative Service                7, XVIII, XLII, L
 Rural Development Administration                  7, XLII
 Rural Housing Service                             7, XVIII, XXXV, L
+
+[[Page 451]]
+
 Rural Telephone Bank                              7, XVI
 Rural Utilities Service                           7, XVII, XVIII, XLII, L
 Saint Lawrence Seaway Development Corporation     33, IV
 Science and Technology Policy, Office of          32, XXIV
 Science and Technology Policy, Office of, and     47, II
-   National Security Council
-[[Page 451]]
-
+     National Security Council
 Secret Service                                    31, IV
 Securities and Exchange Commission                5, XXXIV; 17, II
 Selective Service System                          32, XVI
@@ -36824,7 +36973,6 @@ Special Inspector General for Iraq                5, LXXXVII
      Reconstruction
 State Department                                  2, VI; 22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
-Surface Mining and Reclamation Appeals, Board of  30, III
 Surface Mining Reclamation and Enforcement,       30, VII
      Office of
 Surface Transportation Board                      49, X
@@ -36864,11 +37012,12 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Community Development Financial Institutions    12, XVIII
        Fund
   Comptroller of the Currency                     12, I
-  Customs and Border Protection Bureau            19, I
+  Customs and Border Protection                   19, I
   Engraving and Printing, Bureau of               31, VI
   Federal Acquisition Regulation                  48, 10
   Federal Claims Collection Standards             31, IX
   Federal Law Enforcement Training Center         31, VII
+  Financial Crimes Enforcement Network            31, X
   Fiscal Service                                  31, II
   Foreign Assets Control, Office of               31, V
   Internal Revenue Service                        26, I
@@ -36877,6 +37026,9 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Secret Service                                  31, IV
   Secretary of the Treasury, Office of            31, Subtitle A
   Thrift Supervision, Office of                   12, V
+
+[[Page 452]]
+
 Truman, Harry S. Scholarship Foundation           45, XVIII
 United States and Canada, International Joint     22, IV
      Commission
@@ -36885,9 +37037,6 @@ United States and Mexico, International Boundary  22, XI
 Utah Reclamation Mitigation and Conservation      43, III
      Commission
 Veterans Affairs Department                       2, VIII; 38, I
-
-[[Page 452]]
-
   Federal Acquisition Regulation                  48, 8
 Veterans' Employment and Training Service,        41, 61; 20, IX
      Office of the Assistant Secretary for
@@ -36921,6 +37070,7 @@ Affected, 1949-1963, 1964-1972, 1973-1985, and 1986-2000'' published in
 46 CFR
                                                                    66 FR
                                                                     Page
+Chapter I
 67 Policy statement.................................................9673
 67.107 (b) amended.................................................48620
 
@@ -36989,13 +37139,13 @@ Chapter I
 58 Authority citation revised......................................58346
 58.20-15 (c) amended...............................................58346
 59 Authority citation revised......................................58346
+
+[[Page 454]]
+
 61 Authority citation revised......................................58346
 62 Authority citation revised......................................58346
 62.50-20 (g)(2) amended............................................58346
 63 Authority citation revised......................................58346
-
-[[Page 454]]
-
 63.01-3 (b) amended................................................58346
 64 Authority citation revised......................................58346
 64.95 (d) amended..................................................58346
@@ -37082,11 +37232,11 @@ Chapter I
         (Subpart 68.05)............................................61418
 68.25 Redesignated from 68.05-1....................................61418
 68.27 Redesignated from 68.05-3....................................61418
-68.29 Redesignated from 68.05-5; amended...........................61418
-68.31 Redesignated from 68.05-7; amended...........................61418
 
 [[Page 455]]
 
+68.29 Redesignated from 68.05-5; amended...........................61418
+68.31 Redesignated from 68.05-7; amended...........................61418
 68.33 Redesignated from 68.05-9....................................61418
 68.35 Redesignated from 68.05-11; amended..........................61418
 68.37 Redesignated from 68.05-13; amended..........................61418
@@ -37098,6 +37248,7 @@ Chapter I
 46 CFR
                                                                    72 FR
                                                                     Page
+Chapter I
 44.320 (a) amended.................................................53965
 45.181 (a) amended.................................................36330
 50.10-23 Revised...................................................53965
@@ -37177,11 +37328,11 @@ Chapter I
 53.12-1 (a) revised................................................65164
 54.01-1 Revised....................................................65164
 54.01-2 Heading, (a), (b) and (c) introductory text revised........65165
-54.01-5 (b) Table revised; (c)(3) and (e) amended..................65165
-54.01-10 Heading revised...........................................65166
 
 [[Page 456]]
 
+54.01-5 (b) Table revised; (c)(3) and (e) amended..................65165
+54.01-10 Heading revised...........................................65166
 54.01-15 Heading, (a)(1), (2)(i) through (iv), (3)(i) and (4) 
         revised....................................................65166
 54.01-18 (b)(5) amended............................................65167
@@ -37262,13 +37413,13 @@ Chapter I
 56.60-5 (a) and (b) revised........................................65183
 56.60-10 (a) revised...............................................65183
 56.60-15 (a) and (b)(2) revised....................................65183
+
+[[Page 457]]
+
 56.60-25 (a) introductory text, (b)(1), (2), (3) and (5) revised; 
         (b)(6) added...............................................65183
 56.65-1 Revised....................................................65184
 56.70-5 (a) revised................................................65184
-
-[[Page 457]]
-
 56.70-10 (a) heading, (1)(ii) and (b) revised; (a)(3) amended......65184
 56.70-15 (b)(1), (5) introductory text, (6), (f) introductory text 
         heading, (g) introductory text heading and (4) revised; 
@@ -37286,5 +37437,97 @@ Chapter I
 56.85-15 (d), (e) and (i) revised..................................65185
 56.90-5 (b) and (d) revised........................................65185
 56.90-10 Heading revised...........................................65185
-56.95-1 (a) and (b) amended..............
+56.95-1 (a) and (b) amended........................................65185
+56.95-10 (a) introductory text, (c)(1)(i), (ii), (4) introductory 
+        text and (c)(5) amended....................................65185
+56.97-1 (a) amended................................................65185
+56.97-25 Heading revised...........................................65185
+56.97-30 Heading revised...........................................65185
+58.01-5 Amended....................................................65185
+58.01-10 (a)(3) revised............................................65186
+58.01-50 (a) revised...............................................65186
+58.03-1 Revised....................................................65186
+58.05-1 Revised....................................................65186
+58.10-5 (b)(3)(i) and (d)(1) introductory text revised.............65187
+58.10-15 (a) amended...............................................65187
+58.16-10 (b)(1) and (c) revised....................................65187
+58.20-5 (a) revised................................................65187
+58.20-20 (b) amended...............................................65187
+58.25-5 (d) amended................................................65187
+58.25-60 Revised...................................................65187
+58.30-10 (e) amended...............................................65187
+58.30-15 (b) and (c) revised.......................................65187
+58.50-5 (a) table revised..........................................65187
+58.50-10 (a) table revised.........................................65188
+58.50-15 Revised...................................................65188
+58.60-7 Revised....................................................65188
+58.60-9 Revised....................................................65188
+59.01-2 Revised....................................................65188
+59.01-3 Removed....................................................65189
+59.01-5 (e) revised................................................65189
+59.10-5 (i), (j) and (k) amended...................................65189
+59.10-10 (f) amended...............................................65189
+61.15-10 Heading and (b) revised...................................65189
+62.05-1 Revised....................................................65189
+62.25-1 (c) revised................................................65189
+62.25-5 (a) revised................................................65189
+62.25-30 (a)(1), (2), (3) and (5) revised..........................65189
+62.35-5 Heading and (d) revised....................................65189
+62.35-35 Revised...................................................65189
+62.35-40 (c) revised...............................................65190
+62.35-50 Table footnotes 1, 2, 8 and 9 and notes 1 and 9 revised 
+                                                                   65190
+62.50-30 (c) and (k) introductory text revised.....................65190
+63.05-1 Revised....................................................65190
+63.10-1 Introductory text, (a), (b) introductory text and (1) 
+        revised....................................................65190
+63.15-1 (b) revised................................................65191
+63.15-3 (e) revised................................................65191
+63.15-5 (c) revised................................................65191
+63.20-1 Introductory text revised..................................65191
+63.25-1 Introductory text revised..................................65191
+63.25-3 (a) and (j) revised........................................65191
+63.25-9 Revised....................................................65191
+
+                                  2009
+
+46 CFR
+                                                                   74 FR
+                                                                    Page
+Chapter I
+42.05-27 Added.....................................................11265
+42.07-50 (b)(5) amended............................................11265
+44.320 (a) amended.................................................49228
+46.10-10 (d) amended...............................................49228
+50.10-23 Amended...................................................49228
+52.01-1 (a) amended................................................49228
+53.01-1 (a) amended................................................49228
+54.01-1 (a) amended................................................49228
+54.05-30 (b) and (c) amended.......................................49228
+54.15-25 (c) and (c-1) amended.....................................49228
+56.01-2 (a) amended................................................49229
+56.50-105 Table amended............................................49229
+57.02-1 (a) amended................................................49229
+58.03-1 (a) amended................................................49229
+58.16-19 (b) amended...............................................11265
+59.01-2 (a) amended................................................49229
+61.03-1 (a) amended................................................49229
+61.15-10 (a) amended...............................................11265
+61.20-17 (f)(2) amended............................................49229
+61.20-21 Amended...................................................49229
+61.40-10 (b) amended...............................................49229
+
+[[Page 458]]
+
+62.05-1 (a) amended................................................49229
+62.35-40 (b) amended...............................................49229
+63.05-1 (a) amended................................................49230
+63.10-1 Amended....................................................49230
+63.25-9 (a) amended................................................49230
+67.7 Amended.......................................................49230
+67.15 (b) amended..................................................49230
+67.17 (a) amended..................................................49230
+67.19 (b) removed; (c) through (f) redesignated as new (b) through 
+        (e); heading, (a) and new (b) through (e) amended..........49230
+67.21 (a) amended.........
 </pre></body></html>

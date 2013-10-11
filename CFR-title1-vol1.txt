@@ -1,17 +1,20 @@
 <html><body><pre>
 [Title 1 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2010 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2011 Edition]
 [From the U.S. Government Printing Office]
 
 
 
-[[Page 1]]
+[[Page i]]
 
           
 <R02>
-          1
+          Title 1
 
-         Revised as of January 1, 2010
+
+
+
+                         Revised as of January 1, 2011
 
 
           General Provisions
@@ -24,12 +27,10 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of January 1, 2010
-          With Ancillaries
-                    Published by
-                    Office of the Federal Register
-                    National Archives and Records
-                    Administration
+          As of January 1, 2011
+                    Published by the Office of the Federal Register 
+                    National Archives and Records Administration as a 
+                    Special Edition of the Federal Register
                     A Special Edition of the Federal Register
 
 [[Page ii]]
@@ -96,11 +97,13 @@ ________________________
           Chapter I--Administrative Committee of the Federal 
           Register                                                   3
           Chapter II--Office of the Federal Register                35
-          Chapter IV--Miscellaneous Agencies                        39
+          Chapter III--Administrative Conference of the United 
+          States                                                    39
+          Chapter IV--Miscellaneous Agencies                        45
   Finding Aids:
-      Table of CFR Titles and Chapters........................      65
-      Alphabetical List of Agencies Appearing in the CFR......      85
-      List of CFR Sections Affected...........................      95
+      Table of CFR Titles and Chapters........................      71
+      Alphabetical List of Agencies Appearing in the CFR......      91
+      List of CFR Sections Affected...........................     101
 
 [[Page iv]]
 
@@ -156,7 +159,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2010), consult the ``List of CFR 
+revision date (in this case, January 1, 2011), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -200,6 +203,14 @@ January 1, 2001, consult either the List of CFR Sections Affected, 1949-
 volumes. For the period beginning January 1, 2001, a ``List of CFR 
 Sections Affected'' is published at the end of each CFR volume.
 
+``[RESERVED]'' TERMINOLOGY
+
+    The term ``[Reserved]'' is used as a place holder within the Code of 
+Federal Regulations. An agency may add regulatory information at a 
+``[Reserved]'' location at any time. Occasionally ``[Reserved]'' is used 
+editorially to indicate that a portion of the CFR was left vacant and 
+not accidentally dropped due to a printing or computer error.
+
 INCORPORATION BY REFERENCE
 
     What is incorporation by reference? Incorporation by reference was 
@@ -228,7 +239,8 @@ an approved incorporation by reference, please contact the agency that
 issued the regulation containing that incorporation. If, after 
 contacting the agency, you find the material is not available, please 
 notify the Director of the Federal Register, National Archives and 
-Records Administration, Washington DC 20408, or call 202-741-6010.
+Records Administration, 8601 Adelphi Road, College Park, MD 20740-6001, 
+or call 202-741-6010.
 
 CFR INDEXES AND TABULAR GUIDES
 
@@ -240,18 +252,14 @@ alphabetical list of agencies publishing in the CFR are also included in
 this volume.
     An index to the text of ``Title 3--The President'' is carried within 
 that volume.
+
+[[Page vii]]
+
     The Federal Register Index is issued monthly in cumulative form. 
 This index is based on a consolidation of the ``Contents'' entries in 
 the daily Federal Register.
     A List of CFR Sections Affected (LSA) is published monthly, keyed to 
 the revision dates of the 50 CFR titles.
-
-
-
-
-[[Page vii]]
-
-
 
 REPUBLICATION OF MATERIAL
 
@@ -265,38 +273,38 @@ volume, contact the issuing agency. The issuing agency's name appears at
 the top of odd-numbered pages.
     For inquiries concerning CFR reference assistance, call 202-741-6000 
 or write to the Director, Office of the Federal Register, National 
-Archives and Records Administration, Washington, DC 20408 or e-mail 
-fedreg.info@nara.gov.
+Archives and Records Administration, 8601 Adelphi Road, College Park, MD 
+20740-6001 or e-mail fedreg.info@nara.gov.
 
 SALES
 
     The Government Printing Office (GPO) processes all sales and 
 distribution of the CFR. For payment by credit card, call toll-free, 
 866-512-1800, or DC area, 202-512-1800, M-F 8 a.m. to 4 p.m. e.s.t. or 
-fax your order to 202-512-2250, 24 hours a day. For payment by check, 
+fax your order to 202-512-2104, 24 hours a day. For payment by check, 
 write to: US Government Printing Office - New Orders, P.O. Box 979050, 
-St. Louis, MO 63197-9000. For GPO Customer Service call 202-512-1803.
+St. Louis, MO 63197-9000.
 
 ELECTRONIC SERVICES
 
     The full text of the Code of Federal Regulations, the LSA (List of 
 CFR Sections Affected), The United States Government Manual, the Federal 
-Register, Public Laws, Public Papers, Daily Compilation of Presidential 
-Documents and the Privacy Act Compilation are available in electronic 
-format via Federalregister.gov. For more information, contact Electronic 
-Information Dissemination Services, U.S. Government Printing Office. 
-Phone 202-512-1530, or 888-293-6498 (toll-free). E-mail, 
-gpoaccess@gpo.gov.
+Register, Public Laws, Public Papers of the Presidents of the United 
+States, Compilation of Presidential Documents and the Privacy Act 
+Compilation are available in electronic format via www.ofr.gov. For more 
+information, contact the GPO Customer Contact Center, U.S. Government 
+Printing Office. Phone 202-512-1800, or 866-512-1800 (toll-free). E-
+mail, gpo@custhelp.com.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
 information. Connect to NARA's web site at www.archives.gov/federal-
-register. The NARA site also contains links to GPO Access.
+register.
 
     Raymond A. Mosley,
     Director,
     Office of the Federal Register.
-    January 1, 2010.
+    January 1, 2011.
 
 
 
@@ -312,10 +320,11 @@ register. The NARA site also contains links to GPO Access.
 
     Title 1--General Provisions is composed of one volume. This volume 
 is comprised of Chapter I--Administrative Committee of the Federal 
-Register, Chapter II--Office of the Federal Register, and Chapter IV--
+Register, Chapter II--Office of the Federal Register, Chapter III--
+Administrative Conference of the United States, and Chapter IV--
 Miscellaneous Agencies. The contents of this volume represents all 
 current regulations codified under this title of the CFR as of January 
-1, 2010.
+1, 2011.
 
     Chapter IV contains the current Privacy Act, Freedom of Information 
 Act, and Rehabilitation Act regulations issued by miscellaneous 
@@ -340,6 +349,8 @@ White, assisted by Ann Worley.
 chapter i--Administrative Committee of the Federal Register.           1
 
 chapter ii--Office of the Federal Register..................          51
+
+chapter iii--Administrative Conference of the United States.         301
 
 chapter iv--Miscellaneous Agencies..........................         425
 
@@ -398,7 +409,6 @@ Part                                                                Page
 <R03>
 PART 1_DEFINITIONS--Table of Contents
 
-<R05>
 
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
@@ -439,7 +449,6 @@ chapter.
 <R03>
 PART 2_GENERAL INFORMATION--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -555,7 +564,6 @@ Register.
 <R03>
 PART 3_SERVICES TO THE PUBLIC--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -628,7 +636,6 @@ reproductions.
 <R03>
 PART 5_GENERAL--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -670,8 +677,8 @@ document that is filed and published under law.
 
 
 <R05>
-Sec. 5.2  Documents required to be filed for public inspection
-and published.
+Sec. 5.2  Documents required to be filed for public inspection and 
+published.
 
     The following documents are required to be filed for public 
 inspection with the Office of the Federal Register and published in the 
@@ -796,7 +803,6 @@ formats: paper; microfiche; and online on GPO Access (44 U.S.C. 4101).
 <R03>
 PART 6_INDEXES AND ANCILLARIES--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -879,7 +885,6 @@ special printing or special binding in substantial numbers.
 <R03>
 PART 8_CODE OF FEDERAL REGULATIONS--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -1039,7 +1044,6 @@ Federal Regulations, part 10, section 2.
 <R03>
 PART 9_THE UNITED STATES GOVERNMENT MANUAL--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -1090,7 +1094,6 @@ published in the Manual.
 <R03>
 PART 10_PRESIDENTIAL PAPERS--Table of Contents
 
-<R05>
 
 
                       Subpart A_Regular Publication
@@ -1213,8 +1216,7 @@ Commission.
 
 
 <R03>
-SUBCHAPTER D_AVAILABILITY OF OFFICE OF THE FEDERAL REGISTER
-PUBLICATIONS
+SUBCHAPTER D_AVAILABILITY OF OFFICE OF THE FEDERAL REGISTER PUBLICATIONS
 
 <R05>
 
@@ -1222,7 +1224,6 @@ PUBLICATIONS
 <R03>
 PART 11_SUBSCRIPTIONS--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -1353,10 +1354,9 @@ orders according to the delivery method requested.
 
 
 <R03>
-PART 12_OFFICIAL DISTRIBUTION WITHIN FEDERAL GOVERNMENT--
-Table of Contents
+PART 12_OFFICIAL DISTRIBUTION WITHIN FEDERAL GOVERNMENT--Table of 
+Contents
 
-<R05>
 
 
 Sec.
@@ -1569,7 +1569,6 @@ agency making the request.
 <R03>
 PART 15_SERVICES TO FEDERAL AGENCIES--Table of Contents
 
-<R05>
 
 
                             Subpart A_General
@@ -1626,7 +1625,8 @@ procedures, and promulgation practices.
 
 
 <R05>
-Sec. 15.4  Reproduction and certification of copies of acts and documents.
+Sec. 15.4  Reproduction and certification of copies of acts and 
+documents.
 
     The Director of the Federal Register shall furnish to requesting 
 agencies, at cost, reproductions or certified copies of original acts 
@@ -1654,7 +1654,6 @@ technical instruction.
 <R03>
 PART 16_AGENCY REPRESENTATIVES--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -1737,10 +1736,9 @@ Presidential Documents for official use.
 
 
 <R03>
-PART 17_FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES--
-Table of Contents
+PART 17_FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES--Table
+of Contents
 
-<R05>
 
 
 Sec.
@@ -1886,7 +1884,8 @@ according to the schedule for publication.
 
 
 <R05>
-Sec. 17.6  Procedure and timing for emergency filing for public inspection.
+Sec. 17.6  Procedure and timing for emergency filing for public 
+inspection.
 
     (a) Each agency requesting emergency filing for public inspection 
 shall briefly describe the emergency and the benefits to be attributed 
@@ -1925,10 +1924,9 @@ FR 23343, May 31, 1989]
 
 
 <R03>
-PART 18_PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY--
-Table of Contents
+PART 18_PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY--Table of
+Contents
 
-<R05>
 
 
 Sec.
@@ -2259,10 +2257,9 @@ Records Administration, Washington, D.C. 20408.
 
 
 <R03>
-PART 19_EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS--
-Table of Contents
+PART 19_EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS--Table of 
+Contents
 
-<R05>
 
 
 Sec.
@@ -2372,7 +2369,8 @@ notation: ``Certified to be a true copy of the original.''
 
 
 <R05>
-Sec. 19.4  Proclamations calling for the observance of special days or events.
+Sec. 19.4  Proclamations calling for the observance of special days or
+events.
 
     Except as may be otherwise provided by law, responsibility for the 
 preparation and presentation of proposed proclamations calling for the 
@@ -2407,10 +2405,9 @@ thereto as are referred to in the respective proclamations or orders.
 
 
 <R03>
-PART 20_HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS--
-Table of Contents
+PART 20_HANDLING OF THE UNITED STATES GOVERNMENT MANUAL 
+STATEMENTS--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -2527,10 +2524,9 @@ have a right to expect in a particular edition of the Manual.
 
 
 <R03>
-PART 21_PREPARATION OF DOCUMENTS SUBJECT TO CODIFICATION--
-Table of Contents
+PART 21_PREPARATION OF DOCUMENTS SUBJECT TO CODIFICATION--Table of
+Contents
 
-<R05>
 
 
                             Subpart A_General
@@ -2723,8 +2719,8 @@ expansion.
 
 
 <R05>
-Sec. 21.14  Deviations from standard organization of the 
-Code of Federal Regulations.
+Sec. 21.14  Deviations from standard organization of the Code of 
+Federal Regulations.
 
     (a) Any deviation from standard Code of Federal Regulations 
 designations must be approved in advance by the Office of the Federal 
@@ -2980,8 +2976,7 @@ United States Code citation, where available. Citations to titles of the
 United States Code, whether or not enacted into positive law, may be 
 cited without Public Law or U.S. Statutes at Large citation. For 
 example:
-
-    Authority:  10 U.S.C. 501.
+    Authority: 10 U.S.C. 501.
 
     (b) Public Laws and U.S. Statutes at Large. Citations to Public Laws 
 and U.S. Statutes at Large are optional when the United States Code is 
@@ -3013,7 +3008,6 @@ citation to the Code of Federal Regulations. For example:
 <R03>
 PART 22_PREPARATION OF NOTICES AND PROPOSED RULES--Table of Contents
 
-<R05>
 
 
                             Subpart A_Notices
@@ -3126,7 +3120,6 @@ Part                                                                Page
 <R03>
 PART 51_INCORPORATION BY REFERENCE--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -3298,6 +3291,208 @@ of that fact within 5 working days of the occurrence.
 
 
 <R02>
+       CHAPTER III--ADMINISTRATIVE CONFERENCE OF THE UNITED STATES
+
+
+<R03>
+
+  --------------------------------------------------------------------
+Part                                                                Page
+300
+
+[Reserved]
+
+301             Organization and purpose....................          41
+302--399
+
+[Reserved]
+
+[[Page 41]]
+
+                           PART 300 [RESERVED]
+
+
+<R03>
+PART 301_ORGANIZATION AND PURPOSE--Table of Contents
+
+
+
+Sec.
+301.1 Establishment and location.
+301.2 Purposes.
+301.3 Organization.
+301.4 Activities.
+301.5 Office of the Chairman.
+
+    Authority: 5 U.S.C. 552, 591-96.
+
+    Source: 75 FR 68941, Nov. 10, 2010, unless otherwise noted.
+
+
+<R03>
+PART 301_ORGANIZATION AND PURPOSE--Table of Contents
+
+
+
+
+<R05>
+Sec. 301.1  Establishment and location.
+
+    The Administrative Conference of the United States was established 
+as a permanent independent agency of the Federal Government by the 
+Administrative Conference Act (5 U.S.C. 591-96), as amended. The 
+Conference offices are located at 1120 20th Street, NW., South Lobby, 
+Suite 706, Washington, DC 20036. The offices are open from 8:30 a.m. to 
+5 p.m., Monday through Friday, excluding legal holidays, unless 
+otherwise stated. General correspondence and filings should be delivered 
+to the foregoing address. Electronic filings should be transmitted as 
+specified by the Conference. The public may obtain information about the 
+Conference either by accessing its Web site at http://www.acus.gov, by 
+calling the Conference offices at (202) 480-2080, or by contacting 
+info@acus.gov. The Conference's recommendations may be obtained by 
+accessing its Web site or by visiting the reading room at its offices.
+
+
+<R05>
+Sec. 301.2  Purposes.
+
+    The purposes of the Administrative Conference are--
+    (a) To provide suitable arrangements through which Federal agencies, 
+assisted by outside experts, may cooperatively study mutual problems, 
+exchange information, and develop recommendations for action by proper 
+authorities to the end that private rights may be fully protected and 
+regulatory activities and other Federal responsibilities may be carried 
+out expeditiously in the public interest;
+    (b) To promote more effective public participation and efficiency in 
+the rulemaking process;
+    (c) To reduce unnecessary litigation in the regulatory process;
+    (d) To improve the use of science in the regulatory process; and
+    (e) To improve the effectiveness of laws applicable to the 
+regulatory process.
+
+
+<R05>
+Sec. 301.3  Organization.
+
+    (a) The Chairman of the Administrative Conference of the United 
+States is appointed by the President, with the advice and consent of the 
+Senate, for a five-year term.
+    (b) The Council consists of the Chairman and 10 other members who 
+are appointed by the President for three-year terms, of whom not more 
+than one-half may be employees of Federal regulatory agencies or 
+Executive departments.
+    (c) The total membership of the Conference may not, by statute, be 
+lower than 75 or higher than 101. It comprises, in addition to the 
+Council, approximately 50 Government members (from Executive departments 
+and agencies designated by the President and independent regulatory 
+boards or commissions) and approximately 40 non-Government or public 
+members appointed by the Chairman with the approval of the Council 
+(lawyers in private practice, scholars in the field of administrative 
+law or government, or others specially informed by knowledge and 
+experience with respect to Federal administrative procedure). Public 
+members are selected so as to provide broad representation of the views 
+of private citizens and utilize diverse experience.
+    (d) Members of the Conference, except the Chairman, are not entitled 
+to pay for service; although public members are entitled to travel 
+reimbursement.
+    (e) The membership is divided into six standing committees, each 
+assigned a broad area of interest as follows: Adjudication, 
+Administration, Public Processes, Judicial Review, Regulation, and 
+Rulemaking.
+    (f) The membership meeting in plenary session is called the Assembly 
+of the Administrative Conference. The
+
+[[Page 42]]
+
+Council must call at least one plenary session each year. The Assembly 
+has authority to adopt bylaws for carrying out the functions of the 
+Conference.
+
+
+<R05>
+Sec. 301.4  Activities.
+
+    (a) The Conference may study the efficiency, adequacy, and fairness 
+of the administrative procedure used by administrative agencies in 
+carrying out administrative programs. Subjects for inquiry by the 
+Conference are developed by the Chairman, the Council, the committees, 
+and the Assembly. The committees, with the assistance of staff and 
+consultants, conduct thorough studies of these subjects and develop 
+proposed recommendations and supporting reports. Reports and 
+recommendations are considered by the Council and distributed to the 
+membership, with the views and recommendations of the Council, to be 
+placed on the agenda of a plenary session. The Assembly has complete 
+authority to approve, amend, remand, or reject recommendations presented 
+by the committees. The deliberations of the Assembly are public. 
+Recommendations may be made to administrative agencies, collectively or 
+individually, and to the President, Congress, or the Judicial Conference 
+of the United States, as the Conference considers appropriate.
+    (b) The Conference may arrange for interchange among administrative 
+agencies of information potentially useful in improving administrative 
+procedure, collect information and statistics from administrative 
+agencies and publish such reports as it considers useful for evaluating 
+and improving administrative procedure, and enter into arrangements with 
+any administrative agency or major organizational unit within an 
+administrative agency pursuant to which the Conference performs any of 
+the functions described in this section.
+    (c) The Conference may provide assistance in response to requests 
+relating to the improvement of administrative procedure in foreign 
+countries, subject to the concurrence of the Secretary of State or the 
+Administrator of the Agency for International Development, as 
+appropriate, except that:
+    (1) Such assistance shall be limited to the analysis of issues 
+relating to administrative procedure, the provision of training of 
+foreign officials in administrative procedure, and the design or 
+improvement of administrative procedure, where the expertise of members 
+of the Conference is indicated; and
+    (2) Such assistance may only be undertaken on a fully reimbursable 
+basis, including all direct and indirect administrative costs.
+    (d) For purposes of this section:
+    (1) ``Administrative program'' includes a Federal function which 
+involves protection of the public interest and the determination of 
+rights, privileges, and obligations of private persons through 
+rulemaking, adjudication, licensing, or investigation, except that it 
+does not include a military or foreign affairs function of the United 
+States; and
+    (2) ``Administrative procedure'' means procedure used in carrying 
+out an administrative program and is to be broadly construed to include 
+any aspect of agency organization, procedure, or management which may 
+affect the equitable consideration of public and private interests, the 
+fairness of agency decisions, the speed of agency action, and the 
+relationship of operating methods to later judicial review, but does not 
+include the scope of agency responsibility as established by law or 
+matters of substantive policy committed by law to agency discretion.
+
+
+<R05>
+Sec. 301.5  Office of the Chairman.
+
+    The Chairman is the chief executive of the Conference. The Chairman 
+presides at meetings of the Council and at each plenary session of the 
+Conference. Among his powers is the authority to encourage Federal 
+agencies to adopt the recommendations of the Conference. The Chairman is 
+also authorized to make inquiries into matters he considers important 
+for Conference consideration, including matters proposed by individuals 
+inside or outside the Federal Government. The purpose of such inquiries 
+is not to review the results in particular cases, but rather to 
+determine whether the problems should be made the subject of Conference 
+study in the interests of developing fair and effective procedures for 
+such cases. Upon request of the head of an agency, the Chairman is 
+authorized
+
+[[Page 43]]
+
+to furnish assistance and advice on matters of administrative procedure. 
+The Chairman may request agency heads to provide information needed by 
+the Conference, which information shall be supplied to the extent 
+permitted by law.
+
+                        PARTS 302_399 [RESERVED]
+
+[[Page 45]]
+
+
+<R02>
                    CHAPTER IV--MISCELLANEOUS AGENCIES
 
 
@@ -3321,28 +3516,27 @@ these miscellaneous agencies into this chapter as an efficient means of
 administering the CFR system.
 Part                                                                Page
 425             President's Commission on White House 
-                    Fellowships.............................          41
+                    Fellowships.............................          47
 455             National Capital Planning Commission 
-                    (Privacy Act regulations)...............          43
+                    (Privacy Act regulations)...............          49
 456             National Capital Planning Commission 
-                    (Freedom of Information Act regulations)          45
+                    (Freedom of Information Act regulations)          51
 457             Enforcement of nondiscrimination on the 
                     basis of handicap in programs or 
                     activities conducted by the National 
-                    Capital Planning Commission.............          50
+                    Capital Planning Commission.............          56
 500             Enforcement of nondiscrimination on the 
                     basis of handicap in programs or 
                     activities conducted by the National 
-                    Commission for Employment Policy........          56
+                    Commission for Employment Policy........          62
 
-[[Page 41]]
+[[Page 47]]
 
 
 <R03>
-PART 425_PRESIDENT'S COMMISSION ON WHITE HOUSE FELLOWSHIPS--
-Table of Contents
+PART 425_PRESIDENT'S COMMISSION ON WHITE HOUSE FELLOWSHIPS--Table of 
+Contents
 
-<R05>
 
 
 Sec.
@@ -3428,7 +3622,7 @@ shall be notified and the fee must be tendered before the records will
 be copied. Remittances shall be in the form either of a personal check 
 or bank draft drawn on a bank in the
 
-[[Page 42]]
+[[Page 48]]
 
 United States, or a money order. Remittances shall be made payable to 
 the order of the Treasury of the United States and mailed or delivered 
@@ -3505,7 +3699,7 @@ whom the record is disclosed;
 discretion, include a brief summary of their reasons for refusing to 
 amend the record whenever such disclosure is made;
 
-[[Page 43]]
+[[Page 49]]
 
     (v) That any prior recipients of this disputed record, who, the 
 Commission believes, still retain a copy thereof, will be sent a copy of 
@@ -3518,7 +3712,7 @@ amend the record, pursuant to 5 U.S.C. 552a(g)(1)(A).
 
 
 <R05>
-Sec. 425.5  Disclosure of records to agencies or persons other than 
+Sec. 425.5  Disclosure of records to agencies or persons other than
 the individual to whom the record pertains.
 
     Records subject to the Privacy Act that are requested by any person 
@@ -3537,10 +3731,9 @@ FR 59187, Dec. 22, 1975]
 
 
 <R03>
-PART 455_NATIONAL CAPITAL PLANNING COMMISSION 
-(PRIVACY ACT REGULATIONS)--Table of Contents
+PART 455_NATIONAL CAPITAL PLANNING COMMISSION (PRIVACY ACT 
+REGULATIONS)--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -3601,13 +3794,13 @@ the purpose for which it was collected.
 
 
 <R05>
-Sec. 455.3  Procedures for requests pertaining to individual records
+Sec. 455.3  Procedures for requests pertaining to individual records 
 in a record system.
 
     (a) An individual who wishes to know whether a system of records 
 maintained by the Commission contains a
 
-[[Page 44]]
+[[Page 50]]
 
 record pertaining to him or her shall submit a written request to that 
 effect to the appropriate System Manager at the Commission. The System 
@@ -3664,8 +3857,7 @@ sought to be amended and specific reasons therefor.
 
 
 <R05>
-Sec. 455.7  Agency review of request for correction or amendment 
-of the record.
+Sec. 455.7  Agency review of request for correction or amendment of the record.
 
     Within ten days of the receipt of the request to correct or to amend 
 the record, the System Manager will acknowledge in writing such receipt 
@@ -3679,7 +3871,7 @@ review of that refusal.
 
 
 <R05>
-Sec. 455.8  Appeal of an initial adverse agency determination on 
+Sec. 455.8  Appeal of an initial adverse agency determination on
 correction or amendment of the record.
 
     An individual who disagrees with the refusal of the System Manager 
@@ -3695,7 +3887,7 @@ a concise statement setting forth the reasons for his or her
 disagreement with the refusal of the Commission and may seek judicial 
 review
 
-[[Page 45]]
+[[Page 51]]
 
 of the Chairman's determination under 5 U.S.C. 552a(g)(1)(A).
 
@@ -3752,10 +3944,9 @@ and (k).
 
 
 <R03>
-PART 456_NATIONAL CAPITAL PLANNING COMMISSION 
-(FREEDOM OF INFORMATION ACT REGULATIONS)--Table of Contents
+PART 456_NATIONAL CAPITAL PLANNING COMMISSION (FREEDOM OF 
+INFORMATION ACT REGULATIONS)--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -3799,7 +3990,7 @@ staff is organized functionally as follows:
     (c) Secretariat Section;
     (d) Management Services Section;
 
-[[Page 46]]
+[[Page 52]]
 
     (e) Planning and Programming Division;
     (f) Review and Implementation Division;
@@ -3881,7 +4072,7 @@ obtained only from the Commission's offices, which are located at 1325 G
 Street, NW., Washington, DC 20576. Its official hours are 8:00 a.m. to 
 6:00 p.m., Monday
 
-[[Page 47]]
+[[Page 53]]
 
 through Friday, excluding legal holidays.
     (c) Information sources within the Commission. Requests for 
@@ -3952,7 +4143,7 @@ agency having substantial subject matter interest therein.
 Officer makes a determination to grant a request in whole or in part, 
 the person making such request will be so notified
 
-[[Page 48]]
+[[Page 54]]
 
 in writing. The notice shall also include a description of the 
 information to be made available, a statement of the time when and the 
@@ -4022,7 +4213,7 @@ reproduction alone, excluding charges for the first 100 pages.
     (iv) All other requesters. The Commission may charge requesters who 
 do not fit into any of the categories above fees
 
-[[Page 49]]
+[[Page 55]]
 
 which recover the full reasonable direct costs of searching for and 
 reproducing records that are responsive to the request, excluding the 
@@ -4090,7 +4281,7 @@ make an advance payment of the full amount of the estimated fees before
 the agency begins to process a new request or completes a pending 
 request.
 
-[[Page 50]]
+[[Page 56]]
 
     (3) The dispatch of any such request for an estimated fee approval 
 or advance deposit shall suspend, until a reply is received by the 
@@ -4114,12 +4305,11 @@ the Treasurer of the United States.
 
 
 <R03>
-PART 457_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN
-PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING 
+PART 457_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP
+IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL 
 
-COMMISSION--Table of Contents
+PLANNING COMMISSION--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -4190,7 +4380,7 @@ signed by the complainant or by someone authorized to do so on his or
 her behalf. Complaints filed on behalf of classes or third parties shall 
 describe
 
-[[Page 51]]
+[[Page 57]]
 
 or identify (by name, if possible) the alleged victims of 
 discrimination.
@@ -4264,7 +4454,7 @@ and the Rehabilitation, Comprehensive Services, and Developmental
 Disabilities Amendments of 1978 (Pub. L. 95-602, 92 Stat. 2955). As used 
 in this part, section 504 applies
 
-[[Page 52]]
+[[Page 58]]
 
 only to programs or activities conducted by Executive agencies and not 
 to federally assisted programs.
@@ -4353,7 +4543,7 @@ basis of handicap; or
     (ii) Defeat or substantially impair accomplishment of the objectives 
 of a
 
-[[Page 53]]
+[[Page 59]]
 
 program or activity with respect to handicapped persons.
     (4) The agency may not, in determining the site or location of a 
@@ -4440,7 +4630,7 @@ designee after considering all agency resources available for use in the
 funding and operation of the conducted program or activity, and must be 
 accompanied by
 
-[[Page 54]]
+[[Page 60]]
 
 a written statement of the reasons for reaching that conclusion. If an 
 action would result in such an alteration or such burdens, the agency 
@@ -4515,7 +4705,7 @@ Architectural Barriers Act (42 U.S.C. 4151-4157), as established in 41
 CFR 101-19.600 to 101-19.607, apply to buildings covered by this 
 section.
 
-[[Page 55]]
+[[Page 61]]
 
 
 <R05>
@@ -4602,7 +4792,7 @@ Barriers Compliance Board upon receipt of any complaint alleging that a
 building or facility that is subject to the Architectural Barriers Act 
 of 1968, as amended
 
-[[Page 56]]
+[[Page 62]]
 
 (42 U.S.C. 4151-4157), or section 502 of the Rehabilitation Act of 1973, 
 as amended (29 U.S.C. 792), is not readily accessible to and usable by 
@@ -4640,12 +4830,11 @@ Sec. Sec. 457.171-457.999  [Reserved]
 
 
 <R03>
-PART 500_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP
+PART 500_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP 
 IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR 
 
 EMPLOYMENT POLICY--Table of Contents
 
-<R05>
 
 
 Sec.
@@ -4699,7 +4888,7 @@ Sec. 500.103  Definitions.
     Assistant Attorney General means the Assistant Attorney General, 
 Civil Rights Division, United States Department of Justice.
 
-[[Page 57]]
+[[Page 63]]
 
     Auxiliary aids means services or devices that enable persons with 
 impaired sensory, manual, or speaking skills to have an equal 
@@ -4773,7 +4962,7 @@ policy to receive education services from the agency.
 a person is required to perform services or to achieve a level of 
 accomplishment, a
 
-[[Page 58]]
+[[Page 64]]
 
 handicapped person who meets the essential eligibility requirements and 
 who can achieve the purpose of the program or activity without 
@@ -4860,7 +5049,7 @@ level of achievement as that provided to others;
 handicapped persons or to any class of handicapped persons than is 
 provided to others unless such action is necessary to provide
 
-[[Page 59]]
+[[Page 65]]
 
 qualified handicapped persons with aid, benefits, or services that are 
 as effective as those provided to others;
@@ -4877,7 +5066,7 @@ different programs or activities.
 arrangments, utilize criteria or methods of administration the purpose 
 or effect of which would--
     (i) Subject qualified handicapped persons to discrimination on the 
-basis of handicap; r
+basis of handicap; or
     (ii) Defeat or substantially impair accomplishment of the objectives 
 of a program or activity with respect to handicapped persons.
     (4) The agency may not, in determining the site or location of a 
@@ -4947,7 +5136,7 @@ that the program or activity, when viewed in its entirety, is readily
 accessible to and usable by handicapped persons. This paragraph does 
 not--
 
-[[Page 60]]
+[[Page 66]]
 
     (1) Necessarily require the agency to make each of its existing 
 facilities accessible to and usable by handicapped persons;
@@ -5016,7 +5205,7 @@ participate in the development of the transition plan by submitting
 comments (both oral and written). A copy of the transition plan shall be 
 made available for public inspection. The plan shall, at a minimum--
 
-[[Page 61]]
+[[Page 67]]
 
     (1) Identify physical obstacles in the agency's facilities that 
 limit the accessibility of its programs or activities to handicapped 
@@ -5108,7 +5297,7 @@ handicap in programs or activities conducted by the agency.
     (b) The agency shall process complaints alleging violations of 
 section
 
-[[Page 62]]
+[[Page 68]]
 
 504 with respect to employment according to the procedures established 
 by the Equal Employment Opportunity Commission in 29 CFR part 1613 
@@ -5163,7 +5352,7 @@ making the final determination may not be delegated to another agency.
 <R05>
 Sec. Sec. 500.171-500.999  [Reserved]
 
-[[Page 63]]
+[[Page 69]]
 
 
 <R02>
@@ -5183,7 +5372,7 @@ which is published separately and revised annually.
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
-[[Page 65]]
+[[Page 71]]
 
 
 <R03>
@@ -5192,13 +5381,15 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2010)
+                     (Revised as of January 1, 2011)
 
                       Title 1--General Provisions
 
          I  Administrative Committee of the Federal Register 
                 (Parts 1--49)
         II  Office of the Federal Register (Parts 50--299)
+       III  Administrative Conference of the United States (Parts 
+                300--399)
         IV  Miscellaneous Agencies (Parts 400--500)
 
                     Title 2--Grants and Agreements
@@ -5214,6 +5405,7 @@ which is published separately and revised annually.
                 Agreements
        III  Department of Health and Human Services (Parts 300-- 
                 399)
+        IV  Department of Agriculture (Parts 400--499)
         VI  Department of State (Parts 600--699)
       VIII  Department of Veterans Affairs (Parts 800--899)
         IX  Department of Energy (Parts 900--999)
@@ -5224,6 +5416,8 @@ which is published separately and revised annually.
         XV  Environmental Protection Agency (Parts 1500--1599)
      XVIII  National Aeronautics and Space Administration (Parts 
                 1880--1899)
+        XX  United States Nuclear Regulatory Commission (Parts 
+                2000--2099)
       XXII  Corporation for National and Community Service (Parts 
                 2200--2299)
      XXIII  Social Security Administration (Parts 2300--2399)
@@ -5234,17 +5428,18 @@ which is published separately and revised annually.
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
        XXX  Department of Homeland Security (Parts 3000--3099)
+
+[[Page 72]]
+
       XXXI  Institute of Museum and Library Services (Parts 3100--
                 3199)
      XXXII  National Endowment for the Arts (Parts 3200--3299)
     XXXIII  National Endowment for the Humanities (Parts 3300--
                 3399)
-
-[[Page 66]]
-
       XXXV  Export-Import Bank of the United States (Parts 3500--
                 3599)
     XXXVII  Peace Corps (Parts 3700--3799)
+     LVIII  Election Assistance Commission (Parts 5800--5899)
 
                         Title 3--The President
 
@@ -5289,20 +5484,22 @@ which is published separately and revised annually.
       XXXI  Farm Credit Administration (Parts 4100--4199)
     XXXIII  Overseas Private Investment Corporation (Parts 4300--
                 4399)
+     XXXIV  Securities and Exchange Commission (Parts 4400--4499)
+
+[[Page 73]]
+
       XXXV  Office of Personnel Management (Parts 4500--4599)
         XL  Interstate Commerce Commission (Parts 5000--5099)
        XLI  Commodity Futures Trading Commission (Parts 5100--
                 5199)
       XLII  Department of Labor (Parts 5200--5299)
      XLIII  National Science Foundation (Parts 5300--5399)
-
-[[Page 67]]
-
        XLV  Department of Health and Human Services (Parts 5500--
                 5599)
       XLVI  Postal Rate Commission (Parts 5600--5699)
      XLVII  Federal Trade Commission (Parts 5700--5799)
     XLVIII  Nuclear Regulatory Commission (Parts 5800--5899)
+      XLIX  Federal Labor Relations Authority (Parts 5900--5999)
          L  Department of Transportation (Parts 6000--6099)
        LII  Export-Import Bank of the United States (Parts 6200--
                 6299)
@@ -5331,16 +5528,24 @@ which is published separately and revised annually.
     LXVIII  Commission on Civil Rights (Parts 7800--7899)
       LXIX  Tennessee Valley Authority (Parts 7900--7999)
       LXXI  Consumer Product Safety Commission (Parts 8100--8199)
+     LXXII  Special Inspector General for Iraq Reconstruction 
+                (Parts 8200--8299)
     LXXIII  Department of Agriculture (Parts 8300--8399)
      LXXIV  Federal Mine Safety and Health Review Commission 
                 (Parts 8400--8499)
      LXXVI  Federal Retirement Thrift Investment Board (Parts 
                 8600--8699)
     LXXVII  Office of Management and Budget (Parts 8700--8799)
+      LXXX  Federal Housing Finance Agency (Parts 8700--8799)
+    LXXXII  Special Inspector General for Iraq Reconstruction 
+                (Parts 9200--9299)
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Parts 
                 9700--9799)
+
+[[Page 74]]
+
       XCIX  Department of Defense Human Resources Management and 
                 Labor Relations Systems (Department of Defense--
                 Office of Personnel Management) (Parts 9900--9999)
@@ -5349,8 +5554,6 @@ which is published separately and revised annually.
 
          I  Department of Homeland Security, Office of the 
                 Secretary (Parts 0--99)
-
-[[Page 68]]
 
                          Title 7--Agriculture
 
@@ -5399,6 +5602,9 @@ which is published separately and revised annually.
                 2099)
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
+
+[[Page 75]]
+
       XXVI  Office of Inspector General, Department of Agriculture 
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
@@ -5409,18 +5615,14 @@ which is published separately and revised annually.
                 Agriculture (Parts 2900--2999)
        XXX  Office of the Chief Financial Officer, Department of 
                 Agriculture (Parts 3000--3099)
-
-[[Page 69]]
-
       XXXI  Office of Environmental Quality, Department of 
                 Agriculture (Parts 3100--3199)
      XXXII  Office of Procurement and Property Management, 
                 Department of Agriculture (Parts 3200--3299)
     XXXIII  Office of Transportation, Department of Agriculture 
                 (Parts 3300--3399)
-     XXXIV  Cooperative State Research, Education, and Extension 
-                Service, Department of Agriculture (Parts 3400--
-                3499)
+     XXXIV  National Institute of Food and Agriculture (Parts 
+                3400--3499)
       XXXV  Rural Housing Service, Department of Agriculture 
                 (Parts 3500--3599)
      XXXVI  National Agricultural Statistics Service, Department 
@@ -5454,6 +5656,8 @@ which is published separately and revised annually.
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
 
+[[Page 76]]
+
                            Title 10--Energy
 
          I  Nuclear Regulatory Commission (Parts 0--199)
@@ -5465,9 +5669,6 @@ which is published separately and revised annually.
                 1399)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
-
-[[Page 70]]
-
      XVIII  Northeast Interstate Low-Level Radioactive Waste 
                 Commission (Parts 1800--1899)
 
@@ -5511,6 +5712,8 @@ which is published separately and revised annually.
          V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
                 500--599)
 
+[[Page 77]]
+
                     Title 14--Aeronautics and Space
 
          I  Federal Aviation Administration, Department of 
@@ -5520,9 +5723,6 @@ which is published separately and revised annually.
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
                 (Parts 400--499)
-
-[[Page 71]]
-
          V  National Aeronautics and Space Administration (Parts 
                 1200--1299)
         VI  Air Transportation System Stabilization (Parts 1300--
@@ -5568,13 +5768,13 @@ which is published separately and revised annually.
          I  Federal Trade Commission (Parts 0--999)
         II  Consumer Product Safety Commission (Parts 1000--1799)
 
+[[Page 78]]
+
              Title 17--Commodity and Securities Exchanges
 
          I  Commodity Futures Trading Commission (Parts 1--199)
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
-
-[[Page 72]]
 
           Title 18--Conservation of Power and Water Resources
 
@@ -5587,15 +5787,15 @@ which is published separately and revised annually.
 
                        Title 19--Customs Duties
 
-         I  Bureau of Customs and Border Protection, Department of 
+         I  U.S. Customs and Border Protection, Department of 
                 Homeland Security; Department of the Treasury 
                 (Parts 0--199)
         II  United States International Trade Commission (Parts 
                 200--299)
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
-        IV  Bureau of Immigration and Customs Enforcement, 
-                Department of Homeland Security (Parts 400--599)
+        IV  U.S. Immigration and Customs Enforcement, Department 
+                of Homeland Security (Parts 400--599)
 
                      Title 20--Employees' Benefits
 
@@ -5607,8 +5807,8 @@ which is published separately and revised annually.
                 Labor (Parts 500--599)
          V  Employment and Training Administration, Department of 
                 Labor (Parts 600--699)
-        VI  Employment Standards Administration, Department of 
-                Labor (Parts 700--799)
+        VI  Office of Workers' Compensation Programs, Department 
+                of Labor (Parts 700--799)
        VII  Benefits Review Board, Department of Labor (Parts 
                 800--899)
       VIII  Joint Board for the Enrollment of Actuaries (Parts 
@@ -5626,14 +5826,13 @@ which is published separately and revised annually.
        III  Office of National Drug Control Policy (Parts 1400--
                 1499)
 
+[[Page 79]]
+
                       Title 22--Foreign Relations
 
          I  Department of State (Parts 1--199)
         II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
-
-[[Page 73]]
-
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
          V  Broadcasting Board of Governors (Parts 500--599)
@@ -5683,12 +5882,12 @@ which is published separately and revised annually.
         IV  Office of Housing and Office of Multifamily Housing 
                 Assistance Restructuring, Department of Housing 
                 and Urban Development (Parts 400--499)
+
+[[Page 80]]
+
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
-
-[[Page 74]]
-
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
@@ -5743,7 +5942,7 @@ which is published separately and revised annually.
          I  Internal Revenue Service, Department of the Treasury 
                 (Parts 1--899)
 
-[[Page 75]]
+[[Page 81]]
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -5800,20 +5999,21 @@ which is published separately and revised annually.
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
-[[Page 76]]
+[[Page 82]]
 
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
                 Labor (Parts 1--199)
-        II  Minerals Management Service, Department of the 
-                Interior (Parts 200--299)
-       III  Board of Surface Mining and Reclamation Appeals, 
-                Department of the Interior (Parts 300--399)
+        II  Bureau of Ocean Energy Management, Regulation, and 
+                Enforcement, Department of the Interior (Parts 
+                200--299)
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
        VII  Office of Surface Mining Reclamation and Enforcement, 
                 Department of the Interior (Parts 700--999)
+       XII  Office of Natural Resources Revenue, Department of the 
+                Interior (Parts 1200--1299)
 
                  Title 31--Money and Finance: Treasury
 
@@ -5836,6 +6036,8 @@ which is published separately and revised annually.
                 Treasury (Parts 800--899)
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
+         X  Financial Crimes Enforcement Network, Departmnent of 
+                the Treasury (Parts 1000--1099)
 
                       Title 32--National Defense
 
@@ -5856,13 +6058,13 @@ which is published separately and revised annually.
                 Archives and Records Administration (Parts 2000--
                 2099)
        XXI  National Security Council (Parts 2100--2199)
+
+[[Page 83]]
+
       XXIV  Office of Science and Technology Policy (Parts 2400--
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
-
-[[Page 77]]
-
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
 
@@ -5917,10 +6119,10 @@ which is published separately and revised annually.
                 899)
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
+
+[[Page 84]]
+
          X  Presidio Trust (Parts 1000--1099)
-
-[[Page 78]]
-
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
@@ -5972,29 +6174,29 @@ which is published separately and revised annually.
                 999)
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
+
+[[Page 85]]
+
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
-
-[[Page 79]]
-
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
-            Chapters 62--100 [Reserved]
+   62--100  [Reserved]
             Subtitle C--Federal Property Management Regulations 
                 System
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
-            Chapters 103--104 [Reserved]
+  103--104  [Reserved]
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
        128  Department of Justice (Parts 128-1--128-99)
-            Chapters 129--200 [Reserved]
+  129--200  [Reserved]
             Subtitle D--Other Provisions Relating to Property 
                 Management [Reserved]
             Subtitle E--Federal Information Resources Management 
@@ -6027,10 +6229,11 @@ which is published separately and revised annually.
                 (Parts 200--499)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
-       III  Utah Reclamation Mitigation and Conservation 
-                Commission (Parts 10000--10010)
 
-[[Page 80]]
+[[Page 86]]
+
+       III  Utah Reclamation Mitigation and Conservation 
+                Commission (Parts 10000--10099)
 
              Title 44--Emergency Management and Assistance
 
@@ -6082,15 +6285,14 @@ which is published separately and revised annually.
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
 
+[[Page 87]]
+
                           Title 46--Shipping
 
          I  Coast Guard, Department of Homeland Security (Parts 
                 1--199)
         II  Maritime Administration, Department of Transportation 
                 (Parts 200--399)
-
-[[Page 81]]
-
        III  Coast Guard (Great Lakes Pilotage), Department of 
                 Homeland Security (Parts 400--499)
         IV  Federal Maritime Commission (Parts 500--599)
@@ -6139,11 +6341,11 @@ which is published separately and revised annually.
         23  Social Security Administration (Parts 2300--2399)
         24  Department of Housing and Urban Development (Parts 
                 2400--2499)
+
+[[Page 88]]
+
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
-
-[[Page 82]]
-
         29  Department of Labor (Parts 2900--2999)
         30  Department of Homeland Security, Homeland Security 
                 Acquisition Regulation (HSAR) (Parts 3000--3099)
@@ -6195,7 +6397,7 @@ which is published separately and revised annually.
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
 
-[[Page 83]]
+[[Page 89]]
 
                    Title 50--Wildlife and Fisheries
 
@@ -6225,7 +6427,7 @@ which is published separately and revised annually.
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 85]]
+[[Page 91]]
 
 
 
@@ -6236,12 +6438,13 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2010)
+                     (Revised as of January 1, 2011)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
 
 Administrative Committee of the Federal Register  1, I
+Administrative Conference of the United States    1, III
 Advanced Research Projects Agency                 32, I
 Advisory Council on Historic Preservation         36, VIII
 African Development Foundation                    22, XV
@@ -6250,16 +6453,14 @@ Agency for International Development              22, II
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
-Agriculture Department                            5, LXXIII
+Agriculture Department                            2, IV; 5, LXXIII
   Agricultural Marketing Service                  7, I, IX, X, XI
   Agricultural Research Service                   7, V
   Animal and Plant Health Inspection Service      7, III; 9, I
   Chief Financial Officer, Office of              7, XXX
   Commodity Credit Corporation                    7, XIV
-  Cooperative State Research, Education, and      7, XXXIV
-       Extension Service
   Economic Research Service                       7, XXXVII
-  Energy, Office of                               2, IX; 7, XXIX
+  Energy Policy and New Uses, Office of           2, IX; 7, XXIX
   Environmental Quality, Office of                7, XXXI
   Farm Service Agency                             7, VII, XVIII
   Federal Acquisition Regulation                  48, 4
@@ -6274,6 +6475,7 @@ Agriculture Department                            5, LXXIII
   Inspector General, Office of                    7, XXVI
   National Agricultural Library                   7, XLI
   National Agricultural Statistics Service        7, XXXVI
+  National Institute of Food and Agriculture.     7, XXXIV
   Natural Resources Conservation Service          7, VI
   Operations, Office of                           7, XXVIII
   Procurement and Property Management, Office of  7, XXXII
@@ -6297,7 +6499,7 @@ American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 
-[[Page 86]]
+[[Page 92]]
 
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -6306,13 +6508,14 @@ Armed Forces Retirement Home                      5, XI
 Army Department                                   32, V
   Engineers, Corps of                             33, II; 36, III
   Federal Acquisition Regulation                  48, 51
-Benefits Review Board                             20, VII
 Bilingual Education and Minority Languages        34, V
      Affairs, Office of
 Blind or Severely Disabled, Committee for         41, 51
      Purchase From People Who Are
 Broadcasting Board of Governors                   22, V
   Federal Acquisition Regulation                  48, 19
+Bureau of Ocean Energy Management, Regulation,    30, II
+     and Enforcement
 Census Bureau                                     15, I
 Centers for Medicare & Medicaid Services          42, IV
 Central Intelligence Agency                       32, XIX
@@ -6338,7 +6541,7 @@ Commerce Department                               44, IV
   National Marine Fisheries Service               50, II, IV, VI
   National Oceanic and Atmospheric                15, IX; 50, II, III, IV, 
        Administration                             VI
-  National Telecommunications and Information     15, XXIII; 47, III
+  National Telecommunications and Information     15, XXIII; 47, III, IV
        Administration
   National Weather Service                        15, IX
   Patent and Trademark Office, United States      37, I
@@ -6358,8 +6561,6 @@ Comptroller of the Currency                       12, I
 Construction Industry Collective Bargaining       29, IX
      Commission
 Consumer Product Safety Commission                5, LXXI; 16, II
-Cooperative State Research, Education, and        7, XXXIV
-     Extension Service
 Copyright Office                                  37, II
 Copyright Royalty Board                           37, III
 Corporation for National and Community Service    2, XXII; 45, XII, XXV
@@ -6372,7 +6573,7 @@ Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
 
-[[Page 87]]
+[[Page 93]]
 
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
@@ -6414,7 +6615,7 @@ Education, Department of                          5, LIII
        Office of
   Vocational and Adult Education, Office of       34, IV
 Educational Research and Improvement, Office of   34, VII
-Election Assistance Commission                    11, II
+Election Assistance Commission                    2, LVIII; 11, II
 Elementary and Secondary Education, Office of     34, II
 Emergency Oil and Gas Guaranteed Loan Board       13, V
 Emergency Steel Guarantee Loan Board              13, IV
@@ -6445,7 +6646,7 @@ Executive Office of the President                 3, I
   Management and Budget, Office of                5, III, LXXVII; 14, VI; 
                                                   48, 99
 
-[[Page 88]]
+[[Page 94]]
 
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
@@ -6479,11 +6680,9 @@ Federal Financing Bank                            12, VIII
 Federal Highway Administration                    23, I, II
 Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
-Federal Housing Finance Agency                    12, XII
+Federal Housing Finance Agency                    5, LXXX; 12, XII
 Federal Housing Finance Board                     12, IX
-Federal Labor Relations Authority, and General    5, XIV; 22, XIV
-     Counsel of the Federal Labor Relations 
-     Authority
+Federal Labor Relations Authority                 5, XIV, XLIX; 22, XIV
 Federal Law Enforcement Training Center           31, VII
 Federal Management Regulation                     41, 102
 Federal Maritime Commission                       46, IV
@@ -6503,6 +6702,7 @@ Federal Service Impasses Panel                    5, XIV
 Federal Trade Commission                          5, XLVII; 16, I
 Federal Transit Administration                    49, VI
 Federal Travel Regulation System                  41, Subtitle F
+Financial Crimes Enforcement Network              31, X
 Fine Arts, Commission on                          45, XXI
 Fiscal Service                                    31, II
 Fish and Wildlife Service, United States          50, I, IV
@@ -6520,7 +6720,7 @@ Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 
-[[Page 89]]
+[[Page 95]]
 
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
@@ -6596,7 +6796,7 @@ Immigration and Naturalization                    8, I
 Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
 
-[[Page 90]]
+[[Page 96]]
 
 Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
@@ -6616,6 +6816,8 @@ Inter-American Foundation                         5, LXIII; 22, X
 Interior Department
   American Indians, Office of the Special         25, VII
        Trustee
+  MBureau of Ocean Energy Management,             30, II
+       Regulation, and Enforcement
   Endangered Species Committee                    50, IV
   Federal Acquisition Regulation                  48, 14
   Federal Property Management Regulations System  41, 114
@@ -6626,13 +6828,11 @@ Interior Department
        Secretary
   Indian Arts and Crafts Board                    25, II
   Land Management, Bureau of                      43, II
-  Minerals Management Service                     30, II
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
+  Natural Resource Revenue, Office of             30, XII
   Reclamation, Bureau of                          43, I
   Secretary of the Interior, Office of            2, XIV; 43, Subtitle A
-  Surface Mining and Reclamation Appeals, Board   30, III
-       of
   Surface Mining Reclamation and Enforcement,     30, VII
        Office of
 Internal Revenue Service                          26, I
@@ -6671,12 +6871,11 @@ Justice Department                                2, XXVII; 5, XXVIII; 28,
   Prisons, Bureau of                              28, V
   Property Management Regulations                 41, 128
 Labor Department                                  5, XLII
-  Benefits Review Board                           20, VII
   Employee Benefits Security Administration       29, XXV
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
 
-[[Page 91]]
+[[Page 97]]
 
   Employment Standards Administration             20, VI
   Federal Acquisition Regulation                  48, 29
@@ -6686,6 +6885,7 @@ Labor Department                                  5, XLII
   Labor-Management Standards, Office of           29, II, IV
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
+  Office of Workers' Compensation Programs        20, VII
   Public Contracts                                41, 50
   Secretary of Labor, Office of                   29, Subtitle A
   Veterans' Employment and Training Service,      41, 61; 20, IX
@@ -6707,7 +6907,6 @@ Merit Systems Protection Board                    5, II, LXIV
 Micronesian Status Negotiations, Office for       32, XXVII
 Millenium Challenge Corporation                   22, XIII
 Mine Safety and Health Administration             30, I
-Minerals Management Service                       30, II
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
@@ -6735,10 +6934,11 @@ National Endowment for the Arts                   2, XXXII
 National Endowment for the Humanities             2, XXXIII
 National Foundation on the Arts and the           45, XI
      Humanities
-National Highway Traffic Safety Administration    23, II, III; 49, V
+National Highway Traffic Safety Administration    23, II, III; 47, VI; 49, V
 National Imagery and Mapping Agency               32, I
 National Indian Gaming Commission                 25, III
 National Institute for Literacy                   34, XI
+National Institute of Food and Agriculture.       7, XXXIV
 National Institute of Standards and Technology    15, II
 National Intelligence, Office of Director of      32, XVII
 National Labor Relations Board                    5, LXI; 29, I
@@ -6748,30 +6948,32 @@ National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV,
                                                   VI
 National Park Service                             36, I
 National Railroad Adjustment Board                29, III
+
+[[Page 98]]
+
 National Railroad Passenger Corporation (AMTRAK)  49, VII
-
-[[Page 92]]
-
 National Science Foundation                       2, XXV; 5, XLIII; 45, VI
   Federal Acquisition Regulation                  48, 25
 National Security Council                         32, XXI
 National Security Council and Office of Science   47, II
      and Technology Policy
-National Telecommunications and Information       15, XXIII; 47, III
+National Telecommunications and Information       15, XXIII; 47, III, IV
      Administration
 National Transportation Safety Board              49, VIII
 Natural Resources Conservation Service            7, VI
+Natural Resource Revenue, Office of               30, XII
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Interstate Low-Level Radioactive Waste  10, XVIII
      Commission
-Nuclear Regulatory Commission                     5, XLVIII; 10, I
+Nuclear Regulatory Commission                     2, XX; 5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
 Occupational Safety and Health Review Commission  29, XX
 Offices of Independent Counsel                    28, VI
+Office of Workers' Compensation Programs          20, VII
 Oklahoma City National Memorial Trust             36, XV
 Operations Office                                 7, XXVIII
 Overseas Private Investment Corporation           5, XXXIII; 22, VII
@@ -6822,14 +7024,15 @@ Rural Development Administration                  7, XLII
 Rural Housing Service                             7, XVIII, XXXV, L
 Rural Telephone Bank                              7, XVI
 Rural Utilities Service                           7, XVII, XVIII, XLII, L
+
+[[Page 99]]
+
 Saint Lawrence Seaway Development Corporation     33, IV
 Science and Technology Policy, Office of          32, XXIV
 Science and Technology Policy, Office of, and     47, II
-   National Security Council
-[[Page 93]]
-
+     National Security Council
 Secret Service                                    31, IV
-Securities and Exchange Commission                17, II
+Securities and Exchange Commission                5, XXXIV; 17, II
 Selective Service System                          32, XVI
 Small Business Administration                     2, XXVII; 13, I
 Smithsonian Institution                           36, V
@@ -6838,9 +7041,10 @@ Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
 Special Education and Rehabilitative Services,    34, III
      Office of
+Special Inspector General for Iraq                5, LXXXVII
+     Reconstruction
 State Department                                  2, VI; 22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
-Surface Mining and Reclamation Appeals, Board of  30, III
 Surface Mining Reclamation and Enforcement,       30, VII
      Office of
 Surface Transportation Board                      49, X
@@ -6855,42 +7059,5 @@ Trade Representative, United States, Office of    15, XX
 Transportation, Department of                     2, XII; 5, L
   Commercial Space Transportation                 14, III
   Contract Appeals, Board of                      48, 63
-  Emergency Management and Assistance             44, IV
-  Federal Acquisition Regulation                  48, 12
-  Federal Aviation Administration                 14, I
-  Federal Highway Administration                  23, I, II
-  Federal Motor Carrier Safety Administration     49, III
-  Federal Railroad Administration                 49, II
-  Federal Transit Administration                  49, VI
-  Maritime Administration                         46, II
-  National Highway Traffic Safety Administration  23, II, III; 49, V
-  Pipeline and Hazardous Materials Safety         49, I
-       Administration
-  Saint Lawrence Seaway Development Corporation   33, IV
-  Secretary of Transportation, Office of          14, II; 49, Subtitle A
-  Surface Transportation Board                    49, X
-  Transportation Statistics Bureau                49, XI
-Transportation, Office of                         7, XXXIII
-Transportation Security Administration            49, XII
-Transportation Statistics Bureau                  49, XI
-Travel Allowances, Temporary Duty (TDY)           41, 301
-Treasury Department                               5, XXI; 12, XV; 17, IV; 
-                                                  31, IX
-  Alcohol and Tobacco Tax and Trade Bureau        27, I
-  Community Development Financial Institutions    12, XVIII
-       Fund
-  Comptroller of the Currency                     12, I
-  Customs and Border Protection Bureau            19, I
-  Engraving and Printing, Bureau of               31, VI
-  Federal Acquisition Regulation                  48, 10
-  Federal Claims Collection Standards             31, IX
-  Federal Law Enforcement Training Center         31, VII
-  Fiscal Service                                  31, II
-  Foreign Assets Control, Office of               31, V
-  Internal Revenue Service                        26, I
-  Investment Security, Office of                  31, VIII
-  Monetary Offices                                31, I
-  Secret Service                                  31, IV
-  Secretary of the Treasury, Office of            31, Subtitle A
-  Thrift Sup
+  Emergency Management and Assistance     
 </pre></body></html>
