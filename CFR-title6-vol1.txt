@@ -1,24 +1,23 @@
 <html><body><pre>
 [Title 6 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2012 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2013 Edition]
 [From the U.S. Government Printing Office]
 
 
 
 [[Page i]]
 
-          
 <R02>
           Title 6
 
 Domestic Security
 
-                         Revised as of January 1, 2012
+                         Revised as of January 1, 2013
 
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of January 1, 2012
+          As of January 1, 2013
                     Published by the Office of the Federal Register 
                     National Archives and Records Administration as a 
                     Special Edition of the Federal Register
@@ -87,9 +86,9 @@ Domestic Security
           Chapter I--Department of Homeland Security, Office 
           of the Secretary                                           3
   Finding Aids:
-      Table of CFR Titles and Chapters........................     253
-      Alphabetical List of Agencies Appearing in the CFR......     273
-      List of CFR Sections Affected...........................     283
+      Table of CFR Titles and Chapters........................     255
+      Alphabetical List of Agencies Appearing in the CFR......     275
+      List of CFR Sections Affected...........................     285
 
 [[Page iv]]
 
@@ -145,7 +144,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2012), consult the ``List of CFR 
+revision date (in this case, January 1, 2013), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -178,16 +177,18 @@ amendments to existing regulations in the CFR. These OMB numbers are
 placed as close as possible to the applicable recordkeeping or reporting 
 requirements.
 
-OBSOLETE PROVISIONS
+PAST PROVISIONS OF THE CODE
 
-    Provisions that become obsolete before the revision date stated on 
-the cover of each volume are not carried. Code users may find the text 
-of provisions in effect on a given date in the past by using the 
-appropriate numerical list of sections affected. For the period before 
-April 1, 2001, consult either the List of CFR Sections Affected, 1949-
-1963, 1964-1972, 1973-1985, or 1986-2000, published in eleven separate 
-volumes. For the period beginning April 1, 2001, a ``List of CFR 
-Sections Affected'' is published at the end of each CFR volume.
+    Provisions of the Code that are no longer in force and effect as of 
+the revision date stated on the cover of each volume are not carried. 
+Code users may find the text of provisions in effect on any given date 
+in the past by using the appropriate List of CFR Sections Affected 
+(LSA). For the convenience of the reader, a ``List of CFR Sections 
+Affected'' is published at the end of each CFR volume. For changes to 
+the Code prior to the LSA listings at the end of the volume, consult 
+previous annual editions of the LSA. For changes to the Code prior to 
+2001, consult the List of CFR Sections Affected compilations, published 
+for 1949-1963, 1964-1972, 1973-1985, and 1986-2000.
 
 ``[RESERVED]'' TERMINOLOGY
 
@@ -236,11 +237,11 @@ and Finding Aids. This volume contains the Parallel Table of Authorities
 and Rules. A list of CFR titles, chapters, subchapters, and parts and an 
 alphabetical list of agencies publishing in the CFR are also included in 
 this volume.
-    An index to the text of ``Title 3--The President'' is carried within 
-that volume.
 
 [[Page vii]]
 
+    An index to the text of ``Title 3--The President'' is carried within 
+that volume.
     The Federal Register Index is issued monthly in cumulative form. 
 This index is based on a consolidation of the ``Contents'' entries in 
 the daily Federal Register.
@@ -280,17 +281,21 @@ States, Compilation of Presidential Documents and the Privacy Act
 Compilation are available in electronic format via www.ofr.gov. For more 
 information, contact the GPO Customer Contact Center, U.S. Government 
 Printing Office. Phone 202-512-1800, or 866-512-1800 (toll-free). E-
-mail, gpo@custhelp.com.
+mail, ContactCenter@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
 information. Connect to NARA's web site at www.archives.gov/federal-
 register.
+    The e-CFR is a regularly updated, unofficial editorial compilation 
+of CFR material and Federal Register amendments, produced by the Office 
+of the Federal Register and the Government Printing Office. It is 
+available at www.ecfr.gov.
 
-    Raymond A. Mosley,
+    Charles A. Barth,
     Director,
     Office of the Federal Register.
-    January 1, 2012.
+    January 1, 2013.
 
 
 
@@ -310,7 +315,7 @@ Secretary. Chapter I contains the current Freedom of Information Act,
 Privacy Act and Classified National Security Information issued by the 
 Department of Homeland Security. The contents of this volume represent 
 all current regulations codified under this title of the CFR as of 
-January 1, 2012.
+January 1, 2013.
 
     For this volume, Jonn V. Lilyea was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
@@ -347,29 +352,29 @@ chapter i--Department of Homeland Security, Office of the
   --------------------------------------------------------------------
 Part                                                                Page
 5               Disclosure of records and information.......           5
-7               Classified national security information....         100
-9               Restrictions upon lobbying..................         108
-11              Claims......................................         119
-13              Program fraud civil remedies................         125
+7               Classified national security information....         103
+9               Restrictions upon lobbying..................         111
+11              Claims......................................         121
+13              Program fraud civil remedies................         127
 15              Enforcement of nondiscrimination on the 
                     basis of disability in programs or 
                     activities conducted by the Department 
-                    of Homeland Security....................         141
+                    of Homeland Security....................         143
 17              Nondiscrimination on the basis of sex in 
                     education programs or activities 
-                    receiving Federal financial assistance..         147
+                    receiving Federal financial assistance..         149
 21              Nondiscrimination on the basis of race, 
                     color, or national origin in programs or 
                     activities receiving Federal financial 
                     assistance from the Department of 
-                    Homeland Security.......................         164
+                    Homeland Security.......................         166
 25              Regulations to support anti-terrorism by 
-                    fostering effective technologies........         174
-27              Chemical facility anti-terrorism standards..         190
+                    fostering effective technologies........         176
+27              Chemical facility anti-terrorism standards..         192
 29              Protected critical infrastructure 
-                    information.............................         225
-37              Real ID driver's licenses and identification 
-                    cards...................................         235
+                    information.............................         227
+37              REAL ID driver's licenses and identification 
+                    cards...................................         237
 
 [[Page 5]]
 
@@ -1373,7 +1378,7 @@ the procedures by which individuals may request access to records about
 themselves, request amendment or correction of those records, and 
 request an accounting of disclosures of those by the Department. In 
 addition, the Department processes all Privacy Act requests for access 
-to records under the Freedom of Information Act (FOIA) ( 5 U.S.C. 552), 
+to records under the Freedom of Information Act (FOIA) (5 U.S.C. 552), 
 following the rules contained in subpart A of this part, which gives 
 requests the benefit of both statutes.
     (2) The provisions established by this subpart shall apply to all 
@@ -2268,7 +2273,7 @@ United States ex rel. Touhy v. Ragen, 340 U.S. 462 (1951).
 
 
 <R05>
-Sec. 5.48  Considerations in determining whether the Department will
+Sec. 5.48  Considerations in determining whether the Department will 
 comply with a demand or request.
 
     (a) In deciding whether to comply with a demand or request, 
@@ -8567,6 +8572,251 @@ be filed under seal and could result in disclosure of investigative
 techniques, procedures, and evidence.
     (i) From subsection (g)(1) (Civil Remedies) to the extent that the 
 system is exempt from other specific subsections of the Privacy Act.
+    67. The DHS/FEMA-012 Suspicious Activity Reporting System of Records 
+consists of electronic and paper records and will be used by DHS/FEMA 
+and its components. The DHS/FEMA--012 Suspicious Activity Reporting 
+System of Records is a repository of information held by DHS/FEMA to 
+serve its mission to support our citizens and first responders to ensure 
+that as a nation we work together to build, sustain, and improve our 
+capability to prepare for, protect against, respond to, recover from, 
+and mitigate all hazards. This system also supports certain other DHS/
+FEMA programs whose functions include, but are not limited to, the 
+enforcement of civil and criminal laws; investigations, inquiries, and 
+proceedings there under; and national security and intelligence 
+activities. The DHS/FEMA-012 Suspicious Activity Reporting System of 
+Records contains information that is collected by, on behalf of, in 
+support of, or in cooperation with DHS/FEMA and its components and may 
+contain personally identifiable information collected by other federal, 
+state, local, tribal, foreign, or international government agencies. The 
+Secretary of Homeland Security has exempted this system from the 
+following provisions of the Privacy Act pursuant to 5 U.S.C.
+
+[[Page 101]]
+
+552a(k)(2); (c)(3); (d); (e)(1), (e)(4)(G), (e)(4)(H), (e)(4)(I); and 
+(f). Exemptions from these particular subsections are justified, on a 
+case-by-case basis determined at the time a request is made, for the 
+following reasons:
+    (a) From subsection (c)(3) (Accounting for Disclosures) because 
+release of the accounting of disclosures could alert the subject of an 
+investigation of an actual or potential criminal, civil, or regulatory 
+violation to the existence of that investigation and reveal 
+investigative interest on the part of DHS/FEMA as well as the recipient 
+agency. Disclosure of the accounting would therefore present a serious 
+impediment to law enforcement efforts and/or efforts to preserve 
+national security. Disclosure of the accounting would also permit the 
+individual who is the subject of a record to impede the investigation, 
+to tamper with witnesses or evidence, and to avoid detection or 
+apprehension, which would undermine the entire investigative process.
+    (b) From subsection (d) (Access to Records) because access to the 
+records contained in this system of records could inform the subject of 
+an investigation of an actual or potential criminal, civil, or 
+regulatory violation to the existence of that investigation and reveal 
+investigative interest on the part of DHS/FEMA or another agency. Access 
+to the records could permit the individual who is the subject of a 
+record to impede the investigation, to tamper with witnesses or 
+evidence, and to avoid detection or apprehension. Amendment of the 
+records could interfere with ongoing investigations and law enforcement 
+activities and would impose an unreasonable administrative burden by 
+requiring investigations to be continually reinvestigated. In addition, 
+permitting access and amendment to such information could disclose 
+security-sensitive information that could be detrimental to homeland 
+security.
+    (c) From subsection (e)(1) (Relevancy and Necessity of Information) 
+because in the course of investigations into potential violations of 
+federal law, the accuracy of information obtained or introduced 
+occasionally may be unclear, or the information may not be strictly 
+relevant or necessary to a specific investigation. In the interests of 
+effective law enforcement, it is appropriate to retain all information 
+that may aid in establishing patterns of unlawful activity.
+    (d) From subsections (e)(4)(G), (e)(4)(H), and (e)(4)(I) (Agency 
+Requirements) and (f) (Agency Rules), because portions of this system 
+are exempt from the individual access provisions of subsection (d) for 
+the reasons noted above, and therefore DHS/FEMA is not required to 
+establish requirements, rules, or procedures with respect to such 
+access. Providing notice to individuals with respect to existence of 
+records pertaining to them in the system of records or otherwise setting 
+up procedures pursuant to which individuals may access and view records 
+pertaining to themselves in the system would undermine investigative 
+efforts and reveal the identities of witnesses, and potential witnesses, 
+and confidential informants.
+    68. The DHS OPS-003 Operations Collection, Planning, Coordination, 
+Reporting, Analysis, and Fusion System of Records consists of electronic 
+and paper records and will be used by DHS and its components. The DHS 
+OPS-003 Operations Collection, Planning, Coordination, Reporting, 
+Analysis, and Fusion System of Records is a repository of information 
+held by DHS to serve its several and varied missions and functions. This 
+system also supports certain other DHS programs whose functions include, 
+but are not limited to, the enforcement of civil and criminal laws; 
+investigations, inquiries, and proceedings there under; national 
+security and intelligence activities; and protection of the President of 
+the U.S. or other individuals pursuant to Section 3056 and 3056A of 
+Title 18. The DHS OPS-003 Operations Collection, Planning, Coordination, 
+Reporting, Analysis, and Fusion System of Records contains information 
+that is collected by, on behalf of, in support of, or in cooperation 
+with DHS and its components and may contain personally identifiable 
+information collected by other federal, state, local, tribal, foreign, 
+or international government agencies. This system is exempted from the 
+following provisions of the Privacy Act pursuant to 5 U.S.C. 552a(k)(1), 
+(k)(2), (k)(3): 5 U.S.C. 552a(c)(3); (d); (e)(1), (e)(4)(G), (e)(4)(H), 
+(e)(4)(I); and (f). Exemptions from these particular subsections are 
+justified, on a case-by-case basis to be determined at the time a 
+request is made, for the following reasons:
+    (a) From subsection (c)(3) (Accounting for Disclosures) because 
+release of the accounting of disclosures could alert the subject of an 
+investigation of an actual or potential criminal, civil, or regulatory 
+violation to the existence of that investigation and reveal 
+investigative interest on the part of DHS as well as the recipient 
+agency. Disclosure of the accounting would therefore present a serious 
+impediment to law enforcement efforts and/or efforts to preserve 
+national security. Disclosure of the accounting would also permit the 
+individual who is the subject of a record to impede the investigation, 
+to tamper with witnesses or evidence, and to avoid detection or 
+apprehension, which would undermine the entire investigative process.
+    (b) From subsection (d) (Access and Amendment) because access to the 
+records contained in this system of records could inform the subject of 
+an investigation of an actual or potential criminal, civil, or 
+regulatory violation to the existence of that investigation and reveal 
+investigative interest
+
+[[Page 102]]
+
+on the part of DHS or another agency. Access to the records could permit 
+the individual who is the subject of a record to impede the 
+investigation, to tamper with witnesses or evidence, and to avoid 
+detection or apprehension. Amendment of the records could interfere with 
+ongoing investigations and law enforcement activities and would impose 
+an unreasonable administrative burden by requiring investigations to be 
+continually reinvestigated. In addition, permitting access and amendment 
+to such information could disclose security-sensitive information that 
+could be detrimental to homeland security.
+    (c) From subsection (e)(1) (Relevancy and Necessity of Information) 
+because in the course of investigations into potential violations of 
+federal law, the accuracy of information obtained or introduced 
+occasionally may be unclear, or the information may not be strictly 
+relevant or necessary to a specific investigation. In the interests of 
+effective law enforcement, it is appropriate to retain all information 
+that may aid in establishing patterns of unlawful activity.
+    (d) From subsections (e)(4)(G), (e)(4)(H), and (e)(4)(I) (Agency 
+Requirements) and (f) (Agency Rules), because portions of this system 
+are exempt from the individual access provisions of subsection (d) for 
+the reasons noted above, and therefore DHS is not required to establish 
+requirements, rules, or procedures with respect to such access. 
+Providing notice to individuals with respect to existence of records 
+pertaining to them in the system of records or otherwise setting up 
+procedures pursuant to which individuals may access and view records 
+pertaining to themselves in the system would undermine investigative 
+efforts and reveal the identities of witnesses, and potential witnesses, 
+and confidential informants.
+    69. The DHS/CBP--017 Analytical Framework for Intelligence (AFI) 
+System of Records consists of electronic and paper records and will be 
+used by DHS and its components. The DHS/CBP--017 Analytical Framework 
+for Intelligence (AFI) System of Records is a repository of information 
+held by DHS to enhance DHS's ability to: Identify, apprehend, and/or 
+prosecute individuals who pose a potential law enforcement or security 
+risk; aid in the enforcement of the customs and immigration laws, and 
+other laws enforced by DHS at the border; and enhance United States 
+security. This system also supports certain other DHS programs whose 
+functions include, but are not limited to, the enforcement of civil and 
+criminal laws; investigations, inquiries, and proceedings there under; 
+and national security and intelligence activities. The DHS/CBP--017 
+Analytical Framework for Intelligence (AFI) System of Records contains 
+information that is collected by, on behalf of, in support of, or in 
+cooperation with DHS and its components and may contain personally 
+identifiable information collected by other federal, state, local, 
+tribal, foreign, or international government agencies.
+    (a) The Secretary of Homeland Security has exempted this system from 
+certain provisions of the Privacy Act as follows:
+    (1) Pursuant to 5 U.S.C. 552a(j)(2), the system is exempt from 5 
+U.S.C. 552a(c)(3) and (c)(4), (e)(1), (e)(2), (e)(3), (e)(4)(G), 
+(e)(4)(H), (e)(4)(I), (e)(5), (e)(8), (f), and (g).
+    (2) Pursuant to 5 U.S.C. 552a(j)(2), the system (except for any 
+records that were ingested by AFI where the source system of records 
+already provides access and/or amendment under the Privacy Act) is 
+exempt from 5 U.S.C. 552a(d)(1), (d)(2), (d)(3), and (d)(4).
+    (3) Pursuant to 5 U.S.C. 552a(k)(1), the system is exempt from 5 
+U.S.C. 552a(c)(3); (e)(1), (e)(4)(G), (e)(4)(H), (e)(4)(I); and (f).
+    (4) Pursuant to 5 U.S.C. 552a(k)(1), the system is exempt from 
+(d)(1), (d)(2), (d)(3), and (d)(4).
+    (5) Pursuant to 5 U.S.C. 552a(k)(2), the system is exempt from 5 
+U.S.C. 552a(c)(3); (e)(1), (e)(4)(G), (e)(4)(H), (e)(4)(I); and (f).
+    (6) Pursuant to 5 U.S.C. 552a(k)(2),the system (except for any 
+records that were ingested by AFI where the source system of records 
+already provides access and/or amendment under the Privacy Act) is 
+exempt from (d)(1), (d)(2), (d)(3), and (d)(4).
+    (b) Exemptions from these particular subsections are justified, on a 
+case-by-case basis to be determined at the time a request is made, for 
+the following reasons:
+    (1) From subsection (c)(3) and (4) (Accounting for Disclosures) 
+because release of the accounting of disclosures could alert the subject 
+of an investigation of an actual or potential criminal, civil, or 
+regulatory violation to the existence of that investigation and reveal 
+investigative interest on the part of DHS as well as the recipient 
+agency. Disclosure of the accounting would therefore present a serious 
+impediment to law enforcement efforts and/or efforts to preserve 
+national security. Disclosure of the accounting would also permit the 
+individual who is the subject of a record to impede the investigation, 
+to tamper with witnesses or evidence, and to avoid detection or 
+apprehension, which would undermine the entire investigative process.
+    (2) From subsection (d) (Access to Records) because access to the 
+records contained in this system of records could inform the subject of 
+an investigation of an actual or potential criminal, civil, or 
+regulatory violation to the existence of that investigation and reveal 
+investigative interest on the part of DHS or another agency. Access to 
+the records could permit the individual who is
+
+[[Page 103]]
+
+the subject of a record to impede the investigation, to tamper with 
+witnesses or evidence, and to avoid detection or apprehension. Amendment 
+of the records could interfere with ongoing investigations and law 
+enforcement activities and would impose an unreasonable administrative 
+burden by requiring investigations to be continually reinvestigated. In 
+addition, permitting access and amendment to such information could 
+disclose security-sensitive information that could be detrimental to 
+homeland security.
+    (3) From subsection (e)(1) (Relevancy and Necessity of Information) 
+because in the course of investigations into potential violations of 
+federal law, the accuracy of information obtained or introduced 
+occasionally may be unclear, or the information may not be strictly 
+relevant or necessary to a specific investigation. In the interests of 
+effective law enforcement and national security, it is appropriate to 
+retain all information that may aid in establishing patterns of unlawful 
+activity.
+    (4) From subsection (e)(2) (Collection of Information from 
+Individuals) because requiring that information be collected from the 
+subject of an investigation would alert the subject to the nature or 
+existence of the investigation, thereby interfering with that 
+investigation and related law enforcement and national security 
+activities.
+    (5) From subsection (e)(3) (Notice to Individuals) because providing 
+such detailed information could impede law enforcement and national 
+security by compromising the existence of a confidential investigation 
+or reveal the identity of witnesses or confidential informants.
+    (6) From subsections (e)(4)(G), (e)(4)(H), and (e)(4)(I) (Agency 
+Requirements) and (f) (Agency Rules), because portions of this system 
+are exempt from the individual access provisions of subsection (d) for 
+the reasons noted above, and therefore DHS is not required to establish 
+requirements, rules, or procedures with respect to such access. 
+Providing notice to individuals with respect to existence of records 
+pertaining to them in the system of records or otherwise setting up 
+procedures pursuant to which individuals may access and view records 
+pertaining to themselves in the system would undermine investigative 
+efforts and reveal the identities of witnesses, and potential witnesses, 
+and confidential informants.
+    (7) From subsection (e)(5) (Collection of Information) because with 
+the collection of information for law enforcement purposes, it is 
+impossible to determine in advance what information is accurate, 
+relevant, timely, and complete. Compliance with subsection (e)(5) would 
+preclude DHS agents from using their investigative training and exercise 
+of good judgment to both conduct and report on investigations.
+    (8) From subsection (e)(8) (Notice on Individuals) because 
+compliance would interfere with DHS's ability to obtain, serve, and 
+issue subpoenas, warrants, and other law enforcement mechanisms that may 
+be filed under seal and could result in disclosure of investigative 
+techniques, procedures, and evidence.
+    (9) From subsection (g)(1) (Civil Remedies) to the extent that the 
+system is exempt from other specific subsections of the Privacy Act.
 
 [71 FR 20523, Apr. 21, 2006]
 
@@ -8592,8 +8842,6 @@ Sec.
 7.12 Violations of classified information requirements.
 7.13 Judicial proceedings.
 
-[[Page 101]]
-
                     Subpart B_Classified Information
 
 7.20 Classification and declassification authority.
@@ -8614,6 +8862,8 @@ Sec.
 FR 66089, 3 CFR, 1999 Comp., p. 236; 32 CFR part 2001.
 
     Source: 70 FR 61213, Oct. 21, 2005, unless otherwise noted.
+
+[[Page 104]]
 
 
 <R05>
@@ -8685,9 +8935,6 @@ information, including procedures that:
     (i) Require that a need for access to classified information is 
 established before initiating administrative procedures to grant access; 
 and
-
-[[Page 102]]
-
     (ii) Ensure that the number of persons granted access to classified 
 information is limited to the minimum necessary for operational and 
 security requirements and needs;
@@ -8703,6 +8950,9 @@ of:
     (ii) Security managers or security specialists; and
     (iii) All other personnel whose duties significantly involve the 
 creation or handling of classified information;
+
+[[Page 105]]
+
     (8) Account for the costs associated with implementing this part and 
 report the cost to the Director of ISOO;
     (9) Assign in a prompt manner personnel to respond to any request, 
@@ -8765,9 +9015,6 @@ they:
     (1) Knowingly, willfully, or negligently disclose to unauthorized 
 persons information properly classified under Executive Order 12958, as 
 amended, or its predecessor orders;
-
-[[Page 103]]
-
     (2) Knowingly, willfully, or negligently classify or continue the 
 classification of information in violation of Executive Order 12958, as 
 amended, or its implementing directives; or
@@ -8784,17 +9031,21 @@ directives promulgated by the Chief Security Officer.
 Sec. 7.13  Judicial proceedings.
 
     (a) Any DHS official or organization receiving an order or subpoena 
-from a Federal or State court, or an administrative subpoena from a 
-Federal agency, to produce classified information (see 6 CFR 5.41 
-through 5.49), required to submit classified information for official 
-DHS litigative purposes, or receiving classified information from 
-another organization for production of such in litigation, shall notify 
-the Office of the General Counsel, unless the demand for production is 
-made by the Office of the General Counsel, and immediately determine 
-from the agency originating the classified information whether the 
-information can be declassified. If declassification is not possible, 
-DHS representatives will take appropriate action to protect such 
-information, pursuant to the provisions of this section.
+from a
+
+[[Page 106]]
+
+Federal or State court, or an administrative subpoena from a Federal 
+agency, to produce classified information (see 6 CFR 5.41 through 5.49), 
+required to submit classified information for official DHS litigative 
+purposes, or receiving classified information from another organization 
+for production of such in litigation, shall notify the Office of the 
+General Counsel, unless the demand for production is made by the Office 
+of the General Counsel, and immediately determine from the agency 
+originating the classified information whether the information can be 
+declassified. If declassification is not possible, DHS representatives 
+will take appropriate action to protect such information, pursuant to 
+the provisions of this section.
     (b) If a determination is made to produce classified information in 
 a judicial proceeding in any manner, the DHS General Counsel attorney, 
 in conjunction with the Department of Justice, shall take appropriate 
@@ -8849,11 +9100,8 @@ information specified in section 1.4 of Executive Order 12958, as
 amended; and
     (4) The original classification authority determines that the 
 unauthorized disclosure of the information reasonably could be expected 
-to result in damage to the national security and
-
-[[Page 104]]
-
-such official is able to identify or describe the damage.
+to result in damage to the national security and such official is able 
+to identify or describe the damage.
     (b) Information shall be classified as Top Secret, Secret, or 
 Confidential in accordance with and in compliance with the standards and 
 criteria in Executive Order 12958, as amended. No other terms shall be 
@@ -8864,6 +9112,9 @@ otherwise provided by statute.
 error;
     (2) Prevent embarrassment to a person, organization, or agency;
     (3) Restrain competition;
+
+[[Page 107]]
+
     (4) Prevent or delay release of information that does not require 
 protection in the interest of national security.
     (d) Information may be reclassified after it has been declassified 
@@ -8929,13 +9180,10 @@ persons with a specific need-to-know;
 communication channels by the most secure and expeditious method 
 possible, or by other means deemed necessary in exigent circumstances;
     (4) Provide instructions about what specific information is 
-classified and how it should be safeguarded. Physical
-
-[[Page 105]]
-
-custody of classified information must remain with an authorized Federal 
-Government entity, in all but the most extraordinary circumstances as 
-determined by the delegated official;
+classified and how it should be safeguarded. Physical custody of 
+classified information must remain with an authorized Federal Government 
+entity, in all but the most extraordinary circumstances as determined by 
+the delegated official;
     (5) Provide appropriate briefings to the recipients on their 
 responsibilities not to disclose the information and obtain from the 
 recipients a signed DHS Emergency Release of Classified Information Non-
@@ -8943,12 +9191,15 @@ disclosure Form. In emergency situations requiring immediate verbal
 release of information, the signed nondisclosure agreement memorializing 
 the briefing may be received after the emergency abates;
     (6) Within 72 hours of the disclosure of classified information, or 
-the earliest opportunity that the emergency permits, but no later than 7 
-days after the release, the disclosing authority must notify the DHS 
-Chief Security Officer and the originating agency of the information 
-disclosed. A copy of the signed nondisclosure agreements should be 
-forwarded with the notification under this paragraph (b)(6), or as soon 
-thereafter as practical.
+the earliest opportunity that the emergency
+
+[[Page 108]]
+
+permits, but no later than 7 days after the release, the disclosing 
+authority must notify the DHS Chief Security Officer and the originating 
+agency of the information disclosed. A copy of the signed nondisclosure 
+agreements should be forwarded with the notification under this 
+paragraph (b)(6), or as soon thereafter as practical.
     (7) Release of information pursuant to this authority does not 
 constitute declassification of the information.
     (8) Authority to disclose classified information may not be further 
@@ -9012,11 +9263,8 @@ with the classification markings that apply to the source information.
 Information is also derivatively classified when classification is based 
 on instructions provided in a security classification guide.
     (b) Persons need not possess original classification authority to 
-derivatively
-
-[[Page 106]]
-
-classify information based on source documents or classification guides.
+derivatively classify information based on source documents or 
+classification guides.
     (c) Persons who apply derivative classification markings shall 
 observe original classification decisions and carry forward to any newly 
 created documents the pertinent classification markings.
@@ -9025,6 +9273,8 @@ information shall be classified and marked in accordance with the
 standards set forth in sections 2.1 and 2.2 of Executive Order 12958, as 
 amended, 32 CFR 2001.22, and internal DHS guidance provided by the Chief 
 Security Officer.
+
+[[Page 109]]
 
 
 <R05>
@@ -9093,11 +9343,7 @@ exemption request is consistent with this section, he or she will submit
 the exemption request to the Executive Secretary of the Interagency 
 Security Classification Appeals Panel (ISCAP) for approval.
     (d) Declassification guides that narrowly and precisely define 
-exempted
-
-[[Page 107]]
-
-information may be used to exempt information from automatic 
+exempted information may be used to exempt information from automatic 
 declassification. Declassification guides must include the exemption 
 notification information detailed in paragraph (b) of this section, and 
 be approved pursuant to paragraph (c) of this section.
@@ -9110,6 +9356,8 @@ Sec. 7.29  Documents of permanent historical value.
 possible, shall declassify classified information contained in records 
 determined to have permanent historical value under 44 U.S.C. 2107 
 before they are accessioned into the National Archives.
+
+[[Page 110]]
 
 
 <R05>
@@ -9173,9 +9421,6 @@ for declassification pursuant to the mandatory declassification review
 provisions of section 3.6 of Executive Order 12958, as amended. Such 
 requests shall be sent to the Departmental Disclosure Officer, Privacy 
 Office, 245 Murray Lane, SW., Building 410, Washington, DC 20528.
-
-[[Page 108]]
-
     (b) The request must sufficiently describe the document or material 
 with enough specificity to allow it to be located by the component with 
 a reasonable amount of effort. When the description of the information 
@@ -9186,6 +9431,9 @@ reasonable amount of effort, the component shall provide the requester,
 through the DHS Disclosure Officer, with written notification of the 
 reasons why no action will be taken and of the requester's right to 
 appeal.
+
+[[Page 111]]
+
     (c) Requests for review of information that has been subjected to a 
 declassification review request within the preceding two years shall not 
 be processed. The DHS Disclosure Officer will notify the requester of 
@@ -9255,8 +9503,6 @@ Sec.
 9.15 Professional and technical services.
 9.20 Reporting.
 
-[[Page 109]]
-
             Subpart C_Activities by Other than Own Employees
 
 9.23 Professional and technical services.
@@ -9277,6 +9523,9 @@ Sec.
 9.52 Inspector General report.
 
 Appendix A to Part 9--Certification Regarding Lobbying
+
+[[Page 112]]
+
 Appendix B to Part 9--Disclosure Form To Report Lobbying
 
     Authority: Sec. 319, Pub. L. 101-121, 103 Stat. 750 (31 U.S.C. 
@@ -9348,11 +9597,7 @@ defined in 31 U.S.C. 9101(1).
     (iii) The making of any Federal loan;
     (iv) The entering into of any cooperative agreement; and
     (v) The extension, continuation, renewal, amendment, or modification 
-of
-
-[[Page 110]]
-
-any Federal contract, grant, loan, or cooperative agreement.
+of any Federal contract, grant, loan, or cooperative agreement.
     (2) Does not include receiving from an agency a commitment providing 
 for the United States to insure or guarantee a loan. Loan guarantees and 
 loan insurance are addressed independently within this part.
@@ -9362,6 +9607,9 @@ agency, including those subject to the Federal Acquisition Regulation
 personal property or services not subject to the FAR.
     (d) Federal cooperative agreement means a cooperative agreement 
 entered into by an agency.
+
+[[Page 113]]
+
     (e) Federal grant means an award of financial assistance in the form 
 of money, or property in lieu of money, by the Federal Government or a 
 direct appropriation made by law to any person. The term does not 
@@ -9420,9 +9668,6 @@ connection with a Federal contract, grant, loan, or cooperative
 agreement. The term excludes an Indian tribe, tribal organization, or 
 any other Indian organization with respect to expenditures specifically 
 permitted by other Federal law.
-
-[[Page 111]]
-
     (p) Regularly employed means, with respect to an officer or employee 
 of a person requesting or receiving a Federal contract, grant, loan, or 
 cooperative agreement or a commitment providing for the United States to 
@@ -9432,7 +9677,10 @@ preceding the date of the submission that initiates agency consideration
 of such person for receipt of such contract, grant, loan, cooperative 
 agreement, loan insurance commitment, or loan guarantee commitment. An 
 officer or employee who is employed by such person for less than 130 
-working days within one year immediately preceding the date of the 
+working days within one year immediately preceding the date of the
+
+[[Page 114]]
+
 submission that initiates agency consideration of such person shall be 
 considered to be regularly employed as soon as he or she is employed by 
 such person for 130 working days.
@@ -9497,19 +9745,18 @@ forms to the agency.
 of this section shall be treated as a material representation of fact 
 upon which all receiving tiers shall rely. All liability arising from an 
 erroneous representation shall be borne solely by the tier filing that 
-representation and shall not
-
-[[Page 112]]
-
-be shared by any tier to which the erroneous representation is 
-forwarded. Submitting an erroneous certification or disclosure 
-constitutes a failure to file the required certification or disclosure, 
-respectively. If a person fails to file a required certification or 
-disclosure, the United States may pursue all available remedies, 
-including those authorized by section 31 U.S.C. 1352.
+representation and shall not be shared by any tier to which the 
+erroneous representation is forwarded. Submitting an erroneous 
+certification or disclosure constitutes a failure to file the required 
+certification or disclosure, respectively. If a person fails to file a 
+required certification or disclosure, the United States may pursue all 
+available remedies, including those authorized by section 31 U.S.C. 
+1352.
     (g) No reporting is required for an activity paid for with 
 appropriated funds if that activity is allowable under either subpart B 
 or C of this part.
+
+[[Page 115]]
 
 
 <R04>
@@ -9579,21 +9826,22 @@ as a licensed lawyer) or a technical person (such as a licensed
 accountant) are not allowable under this section unless they provide 
 advice and analysis directly applying their professional or technical 
 expertise and unless the advice or analysis is rendered directly and 
-solely in the
+solely in the preparation, submission or negotiation of a covered 
+Federal action. Thus, for example, communications with the intent to 
+influence made by a lawyer that do not provide legal advice or analysis 
+directly and solely related to the legal aspects of his or her client's 
+proposal, but generally advocate one proposal over another are not 
+allowable under this section because the lawyer is not providing 
+professional legal services. Similarly, communications with the intent 
+to influence made
 
-[[Page 113]]
+[[Page 116]]
 
-preparation, submission or negotiation of a covered Federal action. 
-Thus, for example, communications with the intent to influence made by a 
-lawyer that do not provide legal advice or analysis directly and solely 
-related to the legal aspects of his or her client's proposal, but 
-generally advocate one proposal over another are not allowable under 
-this section because the lawyer is not providing professional legal 
-services. Similarly, communications with the intent to influence made by 
-an engineer providing an engineering analysis prior to the preparation 
-or submission of a bid or proposal are not allowable under this section 
-since the engineer is providing technical services but not directly in 
-the preparation, submission or negotiation of a covered Federal action.
+by an engineer providing an engineering analysis prior to the 
+preparation or submission of a bid or proposal are not allowable under 
+this section since the engineer is providing technical services but not 
+directly in the preparation, submission or negotiation of a covered 
+Federal action.
     (c) Requirements imposed by or pursuant to law as a condition for 
 receiving a covered Federal award include those required by law or 
 regulation, or reasonably expected to be required by law or regulation, 
@@ -9657,17 +9905,15 @@ but not directly in the preparation, submission or negotiation of a
 covered Federal action.
     (d) Requirements imposed by or pursuant to law as a condition for 
 receiving a covered Federal action include those required by law or 
-regulation, or reasonably expected to be required by
-
-[[Page 114]]
-
-law or regulation, and any other requirements in the actual award 
-documents.
+regulation, or reasonably expected to be required by law or regulation, 
+and any other requirements in the actual award documents.
     (e) Persons other than officers or employees of a person requesting 
 or receiving a covered Federal action include consultants and trade 
 associations.
     (f) Only those services expressly authorized by this section are 
 allowable under this section.
+
+[[Page 117]]
 
 
 <R04>
@@ -9756,9 +10002,6 @@ House of Representatives a report containing a compilation of the
 information contained in the disclosure reports received during the six-
 month period ending on March 31 or September 30, respectively, of that 
 year.
-
-[[Page 115]]
-
     (b) The report, including the compilation, shall be available for 
 public inspection 30 days after receipt of the report by the Secretary 
 and the Clerk.
@@ -9766,9 +10009,12 @@ and the Clerk.
 only to the Select Committee on Intelligence of the Senate, the 
 Permanent Select Committee on Intelligence of the House of 
 Representatives, and the Committees on Appropriations of the Senate and 
-the House of Representatives in accordance with procedures agreed to by 
-such committees. Such information shall not be available for public 
-inspection.
+the House of Representatives in accordance with procedures
+
+[[Page 118]]
+
+agreed to by such committees. Such information shall not be available 
+for public inspection.
     (d) Information that is classified under Executive Order 12356 or 
 any successor order shall be reported only to the Committee on Foreign 
 Relations of the Senate and the Committee on Foreign Affairs of the 
@@ -9842,12 +10088,8 @@ reliance was placed when this transaction was made or entered into.
 Submission of this certification is a prerequisite for making or 
 entering into this transaction imposed by section 31 U.S.C. 1352. Any 
 person who fails to file the required certification shall be subject to 
-a civil
-
-[[Page 116]]
-
-penalty of not less than $10,000 and not more than $100,000 for each 
-such failure.
+a civil penalty of not less than $10,000 and not more than $100,000 for 
+each such failure.
 II. Statement for Loan Guarantees and Loan Insurance:
 The undersigned states, to the best of his or her knowledge and belief, 
 that:
@@ -9858,12 +10100,13 @@ employee of a Member of Congress in connection with this commitment
 providing for the United States to insure or guarantee a loan, the 
 undersigned shall complete and submit Standard Form-LLL, ``Disclosure 
 Form to Report Lobbying,'' in accordance with its instructions.
+
+[[Page 119]]
+
 Submission of this statement is a prerequisite for making or entering 
 into this transaction imposed by 31 U.S.C. 1352. Any person who fails to 
 file the required statement shall be subject to a civil penalty of not 
 less than $10,000 and not more than $100,000 for each such failure.
-
-[[Page 117]]
 
 
 <R05>
@@ -9871,13 +10114,13 @@ less than $10,000 and not more than $100,000 for each such failure.
 [GRAPHIC] [TIFF OMITTED] TR06MR03.021
 
 
-[[Page 118]]
+[[Page 120]]
 
 
 [GRAPHIC] [TIFF OMITTED] TR06MR03.022
 
 
-[[Page 119]]
+[[Page 121]]
 
 
 [GRAPHIC] [TIFF OMITTED] TR06MR03.023
@@ -9912,7 +10155,7 @@ Sec.
 3716, 3717, 3718, 3720A, 3720B, 3720D; Pub. L. 107-296, 116 Stat. 2135 
 (6 U.S.C. 1 et seq.).
 
-[[Page 120]]
+[[Page 122]]
 
 
     Source: 72 FR 4190, Jan. 30, 2007, unless otherwise noted.
@@ -9997,7 +10240,7 @@ administrative offset pursuant to 31 CFR parts 900-904.
     (b) Centralized Offset through the Treasury Offset Program. DHS 
 adopts the provisions of 31 CFR 901.3.
 
-[[Page 121]]
+[[Page 123]]
 
     (c) Non-centralized Offset for DHS Debts. When centralized offset is 
 not available or appropriate, DHS may collect delinquent DHS debts 
@@ -10066,7 +10309,7 @@ presentation.
 hearing is not necessary, he or she makes the determination based upon a 
 review of the available written record, including any
 
-[[Page 122]]
+[[Page 124]]
 
 documentation submitted by the employee in support of his or her 
 position.
@@ -10136,7 +10379,7 @@ may make a lump sum deduction exceeding 15 percent of disposable pay
 from any final salary or other payments pursuant to 31 U.S.C. 3716 in 
 order to satisfy a debt.
 
-[[Page 123]]
+[[Page 125]]
 
     (h) Payment agency's responsibilities. (1) As required by 5 CFR 
 550.1109, if the employee separates from the payment agency from which 
@@ -10194,9 +10437,8 @@ by private collection agencies.
 
 
 <R05>
-Sec. 11.8  Suspension or revocation of eligibility for loans and loan 
+Sec. 11.8  Suspension or revocation of eligibility for loans and loan
 guarantees, licenses, permits, or privileges.
-
 
     The authority to extend financial assistance in the form of a loan, 
 loan guarantee, or loan insurance to any person delinquent on a nontax 
@@ -10226,7 +10468,7 @@ thereof, under the criteria in the FCCS, or when it determines the
 collection of these charges would be against equity and good conscience 
 or not in the best interests of the United States. The authority to
 
-[[Page 124]]
+[[Page 126]]
 
 waive interest, penalties and administrative costs is delegated to the 
 Chief Financial Officer. The DHS Chief Financial Officer shall issue 
@@ -10311,7 +10553,7 @@ Fund, Federal Employee Retirement System, or other similar payments, DHS
 provides written notice to the agency making such retirement payments 
 that the debtor owes a debt (including the amount) and
 
-[[Page 125]]
+[[Page 127]]
 
 that the provisions of 5 CFR 550.1109 have been fully complied with. The 
 creditor agency is responsible for submitting a certified claim to the 
@@ -10413,7 +10655,7 @@ of Homeland Security before October 12, 2005, but not completed before
 October 12, 2005, will continue to completion under the rules and 
 procedures in effect before this part.
 
-[[Page 126]]
+[[Page 128]]
 
 
 <R05>
@@ -10489,7 +10731,7 @@ of Homeland Security, or other officer or employee of the Department who
 is designated by the General Counsel and eligible under 31 U.S.C. 
 3801(a)(8).
 
-[[Page 127]]
+[[Page 129]]
 
     (q) Statement means any representation, certification, affirmation, 
 Document, record, or accounting or bookkeeping entry Made:
@@ -10563,7 +10805,7 @@ fraudulent; or
 fact that the Person Making the Statement has a duty to include in such 
 Statement; and
 
-[[Page 128]]
+[[Page 130]]
 
     (ii) Contains, or is accompanied by, an express certification or 
 affirmation of the truthfulness and accuracy of the contents of the 
@@ -10642,7 +10884,7 @@ or the Investigating Official; and
     (6) A Statement that there is a reasonable prospect of collecting an 
 appropriate amount of penalties and assessments.
 
-[[Page 129]]
+[[Page 131]]
 
 
 <R05>
@@ -10731,7 +10973,7 @@ upon such delivery or mailing. An answer will be deemed to be a request
 for hearing.
     (b) In the answer, the Defendant:
 
-[[Page 130]]
+[[Page 132]]
 
     (1) Will admit or deny each of the allegations of liability Made in 
 the Complaint;
@@ -10806,7 +11048,7 @@ answer on time is not excused, the Authority Head will reinstate the
 Initial Decision of the ALJ, which will become final and binding upon 
 the parties 30 days after the Authority Head issues such decision.
 
-[[Page 131]]
+[[Page 133]]
 
 
 <R05>
@@ -10901,7 +11143,7 @@ reassigned promptly to another ALJ.
 determine the matter only as part of his or her review of the Initial 
 Decision upon appeal, if any.
 
-[[Page 132]]
+[[Page 134]]
 
 
 <R05>
@@ -10989,7 +11231,7 @@ Sec. 13.20  Disclosure of Documents.
     (a) Upon written request to the Reviewing Official, the Defendant 
 may review, at a time and place convenient to
 
-[[Page 133]]
+[[Page 135]]
 
 the Authority, any relevant and material Documents, transcripts, 
 records, and other materials that relate to the allegations set out in 
@@ -11068,7 +11310,7 @@ pending the ALJ's final action on the motion.
 verbatim transcript of the deposition, which it will Make available to 
 all other parties for inspection and copying.
 
-[[Page 134]]
+[[Page 136]]
 
     (e) Each party will bear its own costs of discovery.
 
@@ -11151,7 +11393,7 @@ discovery be limited to certain matters;
 designated by the ALJ;
     (6) That the contents of discovery or evidence be sealed;
 
-[[Page 135]]
+[[Page 137]]
 
     (7) That a deposition after being sealed be opened only by order of 
 the ALJ;
@@ -11240,7 +11482,7 @@ motion without awaiting a response.
     (e) The ALJ will Make a reasonable effort to dispose of all 
 outstanding motions before the hearing begins.
 
-[[Page 136]]
+[[Page 138]]
 
     (f) Except as provided by Sec. Sec. 13.21(e)(3) and 13.23(f), which 
 concern subpoenas, the filing or pendency of a motion will not 
@@ -11324,7 +11566,7 @@ Benefit falsely claimed;
 misconduct, including foreseeable consequential damages and the costs of 
 investigation;
 
-[[Page 137]]
+[[Page 139]]
 
     (6) The relationship of the amount imposed as civil penalties to the 
 amount of the Government's loss;
@@ -11406,7 +11648,7 @@ examination on matters outside the scope of direct examination will be
 conducted in the manner of direct examination and may proceed by leading 
 questions only if the witness is a hostile witness, an adverse
 
-[[Page 138]]
+[[Page 140]]
 
 party, or a witness identified with an adverse party.
     (f) Upon motion of any party, the ALJ will order witnesses excluded 
@@ -11496,7 +11738,7 @@ Authority Head. If the ALJ fails to meet the deadline contained in this
 paragraph, he or she will notify the parties of the reason for the delay 
 and will set a new deadline.
 
-[[Page 139]]
+[[Page 141]]
 
     (d) Unless the Initial Decision of the ALJ is timely appealed to the 
 Authority Head, or a motion for reconsideration of the Initial Decision 
@@ -11579,7 +11821,7 @@ the ALJ for consideration of such additional evidence.
     (j) The Authority Head may affirm, reduce, reverse, compromise, 
 remand,
 
-[[Page 140]]
+[[Page 142]]
 
 or settle any penalty or assessment determined by the ALJ in any Initial 
 Decision.
@@ -11673,7 +11915,7 @@ Sec. 13.42 or of any action to recover penalties and assessments under
 31 U.S.C. 3806.
     (e) The Investigating Official may recommend settlement terms to the
 
-[[Page 141]]
+[[Page 143]]
 
 Reviewing Official, the Authority Head, or the Attorney General, as 
 appropriate. The Reviewing Official may recommend settlement terms to 
@@ -11696,7 +11938,7 @@ parties.
 
 
 <R03>
-PART 15_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF DISABILITY IN
+PART 15_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF DISABILITY IN 
 PROGRAMS OR ACTIVITIES CONDUCTED BY THE DEPARTMENT OF HOMELAND 
 
 SECURITY--Table of Contents
@@ -11772,7 +12014,7 @@ discrimination.
 equipment, road, walk, parking lot, rolling stock, or other conveyance, 
 or other real or personal property.
 
-[[Page 142]]
+[[Page 144]]
 
     (d) Individual with a disability means any person who has a physical 
 or mental impairment that substantially limits one or more of the 
@@ -11849,7 +12091,7 @@ evaluation process.
 of the self-evaluation, maintain on file and make available for public 
 inspection:
 
-[[Page 143]]
+[[Page 145]]
 
     (1) A description of areas examined and any problems identified;
     (2) A description of any modifications made; and
@@ -11925,7 +12167,7 @@ of a program or activity with respect to individuals with a disability.
     (5) The Department may not, in determining the site or location of a 
 facility, make selections the purpose or effect of which would:
 
-[[Page 144]]
+[[Page 146]]
 
     (i) Exclude individuals with a disability from, deny them the 
 benefits of, or otherwise subject them to discrimination under any 
@@ -12006,7 +12248,7 @@ would result in such an alteration or such burdens, the Department shall
 take any other action that would not result in such an alteration or 
 such burdens but would nevertheless ensure
 
-[[Page 145]]
+[[Page 147]]
 
 that individuals with a disability receive the benefits and services of 
 the program or activity.
@@ -12083,7 +12325,7 @@ entities, and members of the public.
     (1) The Department shall furnish appropriate auxiliary aids where 
 necessary to afford an individual with a
 
-[[Page 146]]
+[[Page 148]]
 
 disability an equal opportunity to participate in, and enjoy the 
 benefits of, a program or activity conducted by the Department.
@@ -12158,7 +12400,7 @@ period for good cause.
 have jurisdiction, it shall promptly notify the complainant and shall 
 make reasonable efforts to refer the complaint to
 
-[[Page 147]]
+[[Page 149]]
 
 the appropriate entity of the Federal government.
     (f) The Department shall notify the Architectural and Transportation 
@@ -12208,7 +12450,7 @@ another agency.
 
 
 <R03>
-PART 17_NONDISCRIMINATION ON THE BASIS OF SEX IN EDUCATION PROGRAMS OR 
+PART 17_NONDISCRIMINATION ON THE BASIS OF SEX IN EDUCATION PROGRAMS OR
 ACTIVITIES RECEIVING FEDERAL FINANCIAL ASSISTANCE--Table of Contents
 
 
@@ -12244,7 +12486,7 @@ Sec.
 
 17.300 Admission.
 
-[[Page 148]]
+[[Page 150]]
 
 17.305 Preference in admission.
 17.310 Recruitment.
@@ -12342,7 +12584,7 @@ of vocational education, as defined in this section.
     (g) Federal financial assistance means any of the following, when 
 authorized or extended under a law administered
 
-[[Page 149]]
+[[Page 151]]
 
 by the Federal agency that awards such assistance:
     (1) A grant or loan of Federal financial assistance, including funds 
@@ -12414,7 +12656,7 @@ arising under these Title IX regulations.
 Security.
     (o) Student means a person who has gained admission.
 
-[[Page 150]]
+[[Page 152]]
 
     (p) Title IX means Title IX of the Education Amendments of 1972, 
 Public Law 92-318, 86 Stat. 235, 373 (codified as amended at 20 U.S.C. 
@@ -12490,7 +12732,7 @@ whatever remedial action is necessary in accordance with Sec. 17.110(a)
 to eliminate existing discrimination on the basis of sex or to eliminate 
 the effects of past discrimination whether
 
-[[Page 151]]
+[[Page 153]]
 
 occurring prior to or subsequent to the submission to the designated 
 agency official of such assurance.
@@ -12575,7 +12817,7 @@ grievance procedures.
     (a) Designation of responsible employee. Each recipient shall 
 designate at least one employee to coordinate its efforts
 
-[[Page 152]]
+[[Page 154]]
 
 to comply with and carry out its responsibilities under these Title IX 
 regulations, including any investigation of any complaint communicated 
@@ -12655,13 +12897,13 @@ financial assistance.
 
 
 <R05>
-Sec. 17.205  Educational institutions and other entities controlled
-by religious organizations.
+Sec. 17.205  Educational institutions and other entities controlled by
+religious organizations.
 
     (a) Exemption. These Title IX regulations do not apply to any 
 operation of
 
-[[Page 153]]
+[[Page 155]]
 
 an educational institution or other entity that is controlled by a 
 religious organization to the extent that application of these Title IX 
@@ -12747,7 +12989,7 @@ which this section applies shall not discriminate on the basis of sex in
 admission or recruitment in violation of Sec. Sec. 17.300 through 
 17.310.
 
-[[Page 154]]
+[[Page 156]]
 
 
 <R05>
@@ -12828,7 +13070,7 @@ or program means:
     (1) All of the operations of any entity described in paragraphs 
 (c)(1)(i)
 
-[[Page 155]]
+[[Page 157]]
 
 through (iv) of this section, any part of which is extended Federal 
 financial assistance:
@@ -12908,7 +13150,7 @@ by ranking applicants separately on such basis, or otherwise;
     (ii) Apply numerical limitations upon the number or proportion of 
 persons of either sex who may be admitted; or
 
-[[Page 156]]
+[[Page 158]]
 
     (iii) Otherwise treat one individual differently from another on the 
 basis of sex.
@@ -12995,7 +13237,7 @@ a recipient shall not, on the basis of sex:
     (1) Treat one person differently from another in determining whether 
 such
 
-[[Page 157]]
+[[Page 159]]
 
 person satisfies any requirement or condition for the provision of such 
 aid, benefit, or service;
@@ -13071,7 +13313,7 @@ as is provided to students of one sex, when compared to that provided to
 students of the other sex, is as a whole:
     (A) Proportionate in quantity; and
 
-[[Page 158]]
+[[Page 160]]
 
     (B) Comparable in quality and cost to the student.
     (ii) A recipient may render such assistance to any agency, 
@@ -13157,7 +13399,7 @@ instrument results in a substantially disproportionate number of members
 of one sex in any particular course of study or classification, the 
 recipient shall take such action as is
 
-[[Page 159]]
+[[Page 161]]
 
 necessary to assure itself that such disproportion is not the result of 
 discrimination in the instrument or its application.
@@ -13244,7 +13486,7 @@ Sec. 17.440  Health and insurance benefits and services.
 accident, or life insurance benefit, service, policy, or plan to any of 
 its students, a recipient shall
 
-[[Page 160]]
+[[Page 162]]
 
 not discriminate on the basis of sex, or provide such benefit, service, 
 policy, or plan in a manner that would violate Sec. Sec. 17.500 through 
@@ -13323,7 +13565,7 @@ interscholastic, intercollegiate, club, or intramural athletics shall
 provide equal athletic opportunity for members of both sexes. In 
 determining whether equal opportunities are available, the
 
-[[Page 161]]
+[[Page 163]]
 
 designated agency official will consider, among other factors:
     (i) Whether the selection of sports and levels of competition 
@@ -13404,7 +13646,7 @@ policies, right of return from layoff, and rehiring;
     (3) Rates of pay or any other form of compensation, and changes in 
 compensation;
 
-[[Page 162]]
+[[Page 164]]
 
     (4) Job assignments, classifications, and structure, including 
 position descriptions, lines of progression, and seniority lists;
@@ -13492,7 +13734,7 @@ benefits available to employees or make fringe benefits available to
 spouses, families, or dependents of employees differently upon the basis 
 of the employee's sex;
 
-[[Page 163]]
+[[Page 165]]
 
     (2) Administer, operate, offer, or participate in a fringe benefit 
 plan that does not provide for equal periodic benefits for members of 
@@ -13583,7 +13825,7 @@ Sec. 17.550  Sex as a bona fide occupational qualification.
 17.500 through 17.550 provided it is shown that sex is a bona fide 
 occupational qualification for that action, such that consideration of
 
-[[Page 164]]
+[[Page 166]]
 
 sex with regard to such action is essential to successful operation of 
 the employment function concerned. A recipient shall not take action 
@@ -13646,7 +13888,7 @@ been taken by the designated official of this Department.
 
 <R03>
  PART 21_NONDISCRIMINATION ON THE BASIS OF RACE, COLOR, OR NATIONAL 
- ORIGIN IN PROGRAMS OR ACTIVITIES RECEIVING FEDERAL FINANCIAL ASSISTANCE 
+ ORIGIN IN PROGRAMS OR ACTIVITIES RECEIVING FEDERAL FINANCIAL ASSISTANCE
  
  FROM THE DEPARTMENT OF HOMELAND SECURITY--Table of Contents
 
@@ -13684,7 +13926,7 @@ of the Civil Rights Act of 1964 (the Act) to the end that no person in
 the United States shall, on the grounds of race, color, or national 
 origin, be excluded from participation in, be denied the benefits of,
 
-[[Page 165]]
+[[Page 167]]
 
 or be otherwise subjected to discrimination under any program or 
 activity receiving Federal financial assistance from the Department of 
@@ -13763,7 +14005,7 @@ instrumentality of a State or of a local government; or
     (ii) The entity of such State or local government that distributes 
 such assistance and each such department or
 
-[[Page 166]]
+[[Page 168]]
 
 agency (and each other State or local government entity) to which the 
 assistance is extended, in the case of assistance to a State or local 
@@ -13839,7 +14081,7 @@ be provided under any such program, or the class of persons to be
 afforded an opportunity to participate in any such program; may not, 
 directly or through contractual or other arrangements,
 
-[[Page 167]]
+[[Page 169]]
 
 utilize criteria or methods of administration which have the effect of 
 subjecting persons to discrimination because of their race, color, or 
@@ -13908,7 +14150,7 @@ employment practices of the recipient or other persons subject to the
 regulation, to the extent necessary to assure equality of opportunity 
 to, and nondiscriminatory treatment of, beneficiaries.
 
-[[Page 168]]
+[[Page 170]]
 
     (d) Facility location or site. A recipient may not make a selection 
 of a site or location of a facility if the purpose of that selection, or 
@@ -13980,7 +14222,7 @@ assistance listed in appendix A to this part) shall as a condition to
 its approval and the extension of any Federal financial assistance 
 pursuant to the application:
 
-[[Page 169]]
+[[Page 171]]
 
     (1) Contain or be accompanied by a statement that the program is 
 (or, in the case of a new program, will be) conducted in compliance with 
@@ -14057,7 +14299,7 @@ representative, file with the Secretary a written complaint. A complaint
 must be filed not later than 180 days after the date of the alleged 
 discrimination,
 
-[[Page 170]]
+[[Page 172]]
 
 unless the time for filing is extended by the Secretary.
     (c) Investigations. The Secretary will make a prompt investigation 
@@ -14132,7 +14374,7 @@ the committee of the House and the committee of the Senate having
 legislative jurisdiction over the program involved, a full written 
 report of the circumstances and the grounds for such action.
 
-[[Page 171]]
+[[Page 173]]
 
     (2) Any action to suspend or terminate or to refuse to grant or to 
 continue Federal financial assistance shall be limited to the particular 
@@ -14206,7 +14448,7 @@ during the hearing.
 pursuant to this part, but rules or principles designed to assure 
 production of the most
 
-[[Page 172]]
+[[Page 174]]
 
 credible evidence available and to subject testimony to test by cross-
 examination shall be applied where reasonably necessary by the officer 
@@ -14278,7 +14520,7 @@ available under this part or the Act, shall promptly be transmitted to
 the Secretary personally, who may approve such decision, may vacate it, 
 or remit or mitigate any sanction imposed.
 
-[[Page 173]]
+[[Page 175]]
 
     (f) Content of orders. The final decision may provide for suspension 
 or termination of, or refusal to grant or continue Federal financial 
@@ -14358,7 +14600,7 @@ which this part applies and for which he is responsible.
 time assign to officials of the Department, or to officials of other 
 departments or
 
-[[Page 174]]
+[[Page 176]]
 
 agencies of the Government with the consent of such departments or 
 agencies, responsibilities in connection with the effectuation of the 
@@ -14419,7 +14661,7 @@ not covered.
 
 
 <R03>
-PART 25_REGULATIONS TO SUPPORT ANTI-TERRORISM BY FOSTERING EFFECTIVE
+PART 25_REGULATIONS TO SUPPORT ANTI-TERRORISM BY FOSTERING EFFECTIVE 
 TECHNOLOGIES--Table of Contents
 
 
@@ -14463,7 +14705,7 @@ requirements as defined and specified by the Secretary:
 entity, in the United States, or in the case of a domestic United States 
 air carrier or
 
-[[Page 175]]
+[[Page 177]]
 
 a United States-flag vessel (or a vessel based principally in the United 
 States on which United States income tax is paid and whose insurance 
@@ -14530,7 +14772,7 @@ available in hard copy upon written request to: Directorate of Science
 and Technology, SAFETY Act/room 4320, Department of Homeland Security, 
 Washington, DC 20528.
 
-[[Page 176]]
+[[Page 178]]
 
     SAFETY Act Confidential Information--Any and all information and 
 data voluntarily submitted to the Department under this part (including 
@@ -14608,7 +14850,7 @@ Technology is not deployed.
 conducted in order to assess the capability of the Technology to 
 substantially reduce risks of harm.
 
-[[Page 177]]
+[[Page 179]]
 
     (vii) Anti-terrorism Technology that would be effective in 
 facilitating the defense against acts of terrorism, including 
@@ -14676,7 +14918,7 @@ respect to any Technology that is being developed, tested, evaluated,
 modified or is otherwise being prepared for deployment for the purpose 
 of preventing, detecting, identifying, or deterring acts
 
-[[Page 178]]
+[[Page 180]]
 
 of terrorism or limiting the harm such acts might otherwise cause, the 
 Under Secretary may Designate such Technology as a Qualified Anti-
@@ -14750,7 +14992,7 @@ on the world market;
     (viii) The possible effects of the cost of insurance on the price of 
 the product, and the possible consequences
 
-[[Page 179]]
+[[Page 181]]
 
 thereof for development, production, or deployment of the Technology.
     (2) In determining the appropriate amounts and types of insurance 
@@ -14822,7 +15064,7 @@ applicable;
     (5) Any relevant exclusions from coverage under such policies or 
 other factors that would affect the amount of
 
-[[Page 180]]
+[[Page 182]]
 
 insurance proceeds that would be available to satisfy third party claims 
 arising out of, relating to, or resulting from an Act of Terrorism;
@@ -14867,7 +15109,7 @@ false certification.
 
 
 <R05>
-Sec. 25.6  Procedures for designation of qualified anti-terrorism 
+Sec. 25.6  Procedures for designation of qualified anti-terrorism
 technologies.
 
     (a) Application Procedure. Any person, firm or other entity seeking 
@@ -14893,7 +15135,7 @@ or
     (2) That the application is incomplete, in which case the missing or 
 incomplete parts will be specified.
 
-[[Page 181]]
+[[Page 183]]
 
     (c) Review Process. (1) The Under Secretary or his designee will 
 review each complete application and any included supporting materials. 
@@ -14966,7 +15208,7 @@ discretion may deem appropriate.
 are required to be covered by the liability insurance required to be 
 purchased by
 
-[[Page 182]]
+[[Page 184]]
 
 the Seller. The failure to specify a covered person, firm, or other 
 entity in a Designation will not preclude the application or 
@@ -15034,7 +15276,7 @@ solicitation materials, as appropriate; or
     (ii) Notify the requesting agency in writing that the relevant 
 procurement
 
-[[Page 183]]
+[[Page 185]]
 
 is potentially eligible for a Pre-Qualification Designation Notice, but 
 that additional information is needed before a decision may be reached; 
@@ -15104,7 +15346,7 @@ Secretary shall take one of the following actions:
 such approval, which notification shall include the certification 
 required by Sec. 25.5(g); or
 
-[[Page 184]]
+[[Page 186]]
 
     (ii) Deny the application, and notify the applicant in writing of 
 such decision, including the reasons for such denial.
@@ -15170,7 +15412,7 @@ for any licensee listed as a Seller on the applicable Designation.
     (l) Significant Modification of Qualified Anti-terrorism 
 Technologies. (1) The Department recognizes that Qualified
 
-[[Page 185]]
+[[Page 187]]
 
 Anti-Terrorism Technologies may routinely undergo changes or 
 modifications in their manufacturing, materials, installation, 
@@ -15238,7 +15480,7 @@ that is made post-sale by a purchaser or end-user of the QATT without
 the Seller's consent, but the Under Secretary may, in appropriate 
 circumstances, require an end-
 
-[[Page 186]]
+[[Page 188]]
 
 user to provide periodic reports on modifications or permit inspections 
 or audits.
@@ -15316,7 +15558,7 @@ consult with, and rely upon the expertise of, any other governmental or
 non-governmental person, firm, or entity, and may consider test results 
 produced by an independent laboratory or other person,
 
-[[Page 187]]
+[[Page 189]]
 
 firm, or other entity engaged by the Seller.
     (b) Extent of Liability. Should a product liability or other lawsuit 
@@ -15388,7 +15630,7 @@ Department.
 application for a Certification, the Under Secretary or his designee 
 shall notify the applicant in writing that:
 
-[[Page 188]]
+[[Page 190]]
 
     (1) The application is complete and will be reviewed, or
     (2) That the application is incomplete, in which case the missing or 
@@ -15458,7 +15700,7 @@ Science and Technology, SAFETY Act/room 4320, Department of Homeland
 Security, Washington, DC 20528. Such notification shall not be required 
 for any licensee listed as a Seller on the applicable Certification.
 
-[[Page 189]]
+[[Page 191]]
 
     (h) Transfer of Certification. In the event of any permitted 
 transfer and assignment of a Designation, any related Certification for 
@@ -15530,7 +15772,7 @@ appropriate exemptions from the Freedom of Information Act.
     (b) Non-Disclosure. Except as otherwise required by applicable law 
 or regulation or a final order of a court of
 
-[[Page 190]]
+[[Page 192]]
 
 competent jurisdiction, or as expressly authorized in writing by the 
 Under Secretary, no person, firm, or other entity may:
@@ -15604,7 +15846,7 @@ Sec.
 
 Appendix A to Part 27--DHS Chemicals of Interest
 
-     Authority: Pub. L. 109-295, sec. 550.
+    Authority: Pub. L. 109-295, sec. 550.
 
     Source: 72 FR 17729, Apr. 9, 2007, unless otherwise noted.
 
@@ -15636,7 +15878,7 @@ industry organization program, a local authority, state or Federal
 government program or any element or aspect thereof, that the Assistant 
 Secretary has determined meets the requirements of this
 
-[[Page 191]]
+[[Page 193]]
 
 part and provides for an equivalent level of security to that 
 established by this Part.
@@ -15708,7 +15950,7 @@ issues:
     (2)Theft and diversion (including chemical weapons and chemical 
 weapons precursors, weapons of mass effect,
 
-[[Page 192]]
+[[Page 194]]
 
 and explosives and improvised explosive device precursors),
     (3) Sabotage and contamination, and
@@ -15763,7 +16005,7 @@ with this Part.
 
 
 <R05>
-Sec. 27.120  Designation of a coordinating official; Consultations and 
+Sec. 27.120  Designation of a coordinating official; Consultations and
 technical assistance.
 
     (a) The Assistant Secretary will designate a Coordinating Official 
@@ -15794,7 +16036,7 @@ Sec. 27.125  Severability.
 without proper authority, the remainder of this part will remain in full 
 effect.
 
-[[Page 193]]
+[[Page 195]]
 
 
 <R04>
@@ -15864,7 +16106,7 @@ that effect.
 
 
 <R05>
-Sec. 27.203  Calculating the screening threshold quantity by security 
+Sec. 27.203  Calculating the screening threshold quantity by security
 issue.
 
     (a) General. In calculating whether a facility possesses a chemical 
@@ -15875,7 +16117,7 @@ not include chemicals of interest:
     (3) Contained in food, drugs, cosmetics, or other personal items 
 used by employees;
 
-[[Page 194]]
+[[Page 196]]
 
     (4) In process water or non-contact cooling water as drawn from 
 environment or municipal sources;
@@ -15944,7 +16186,7 @@ pursuant to the provisions of subpart F of 49 CFR part 172.
 
 [72 FR 65419, Nov. 20, 2007]
 
-[[Page 195]]
+[[Page 197]]
 
 
 <R05>
@@ -16015,7 +16257,7 @@ theft/diversion-WME chemical of interest is present in a mixture at or
 above the minimum concentration amount listed in the Minimum 
 Concentration column of appendix A to part 27, the facility
 
-[[Page 196]]
+[[Page 198]]
 
 shall count the entire amount of the mixture toward the STQ.
     (3) Theft/Diversion-Explosives/Improvised Explosive Device Precursor 
@@ -16094,7 +16336,7 @@ the Department's approval of the facility's Site Security Plan; and Tier
 3 and Tier 4 covered facilities must complete and submit a Top-Screen no 
 less than 3
 
-[[Page 197]]
+[[Page 199]]
 
 years, and no more than 3 years and 60 calendar days, from the date of 
 the Department's approval of the facility's Site Security Plan.
@@ -16168,7 +16410,7 @@ schedule provided in Sec. 27.210.
     (2) Notwithstanding paragraph (d)(1) of this section, a covered 
 facility must
 
-[[Page 198]]
+[[Page 200]]
 
 update, revise or otherwise alter its Security Vulnerability Assessment 
 to account for new or differing modes of potential terrorist attack or 
@@ -16251,7 +16493,7 @@ potentially critical targets within the facility;
 restricted areas within the facility by screening and/or inspecting 
 individuals and vehicles as they enter, including,
 
-[[Page 199]]
+[[Page 201]]
 
     (i) Measures to deter the unauthorized introduction of dangerous 
 substances and devices that may facilitate an attack or actions having 
@@ -16322,7 +16564,7 @@ officials;
     (16) Significant Security Incidents and Suspicious Activities. 
 Identify, investigate, report, and maintain records of
 
-[[Page 200]]
+[[Page 202]]
 
 significant security incidents and suspicious activities in or near the 
 site;
@@ -16406,7 +16648,7 @@ particular security measure. The Department may disapprove a Site
 Security Plan that fails to satisfy the risk-based performance standards 
 established in Sec. 27.230.
 
-[[Page 201]]
+[[Page 203]]
 
     (b) When the Department disapproves a preliminary Site Security Plan 
 issued prior to inspection or a Site Security Plan following inspection, 
@@ -16482,7 +16724,7 @@ appropriate exception, to the public disclosure requirements of 5 U.S.C.
 identifying appropriate processes for such inspections, and specifying 
 the type and nature of
 
-[[Page 202]]
+[[Page 204]]
 
 documentation that must be made available for review during inspections 
 and audits.
@@ -16565,7 +16807,7 @@ violation of an Order issued pursuant to paragraph (a) of this section
 and issues an Order Assessing Civil Penalty pursuant to paragraph (b)(1) 
 of this section, a chemical facility is liable to the United
 
-[[Page 203]]
+[[Page 205]]
 
 States for a civil penalty of not more than $25,000 for each day during 
 which the violation continues.
@@ -16648,7 +16890,7 @@ circumstances pursuant to paragraph (d) of this section.
 within fourteen calendar days of the notification to the facility or 
 other person of the
 
-[[Page 204]]
+[[Page 206]]
 
 Assistant Secretary's Finding, Determination, or Order.
     (6) Each Application for Review shall be accompanied by all legal 
@@ -16730,7 +16972,7 @@ for Review is appropriate based on the Application for Review, the
 Response, and all the supporting filings of the parties pursuant to 
 Sec. Sec. 27.310(b)(5) and 27.310(c).
 
-[[Page 205]]
+[[Page 207]]
 
     (1) The Presiding Officer shall promptly issue any necessary 
 scheduling order for any additional briefing of the issue of summary 
@@ -16814,7 +17056,7 @@ the General Counsel.
 of Appeal until the Under Secretary issues a Final Decision, unless the 
 Secretary
 
-[[Page 206]]
+[[Page 208]]
 
 lifts the stay due to exigent circumstances pursuant to Sec. 27.310(d).
     (5) The Appellant shall file and serve a Brief within 28 calendar 
@@ -16894,7 +17136,7 @@ and
     (9) Other information developed for chemical facility security 
 purposes that the Secretary, in his discretion,
 
-[[Page 207]]
+[[Page 209]]
 
 determines is similar to the information protected in Sec. 27.400(b)(1) 
 through (8) and thus warrants protection as CVI.
@@ -16969,7 +17211,7 @@ access to CVI complete a non-disclosure agreement before such access is
 granted.
     (3) Background check. The Department may make an individual's access
 
-[[Page 208]]
+[[Page 210]]
 
 to the CVI contingent upon satisfactory completion of a security 
 background check or other procedures and requirements for safeguarding 
@@ -17043,7 +17285,7 @@ undergo and satisfy, in the judgment of the Department, a security
 background check.
     (ii) [Reserved]
 
-[[Page 209]]
+[[Page 211]]
 
     (2) In any judicial enforcement proceeding of section 550 where a 
 person seeks to disclose CVI to a person not authorized to receive it 
@@ -17115,7 +17357,7 @@ destroy CVI completely to preclude recognition or reconstruction of the
 information when the covered person no longer needs the CVI to carry out 
 security measures under paragraph (e) of this section.
 
-[[Page 210]]
+[[Page 212]]
 
     (ii) Exception. Section 27.400(k)(2) does not require a State or 
 local government agency to destroy information that the agency is 
@@ -17172,94 +17414,93 @@ this Part.
 Assistant Secretary to provide the Department's view in any litigation 
 involving any issues or matters regarding this Part.
 
-
-<R05>
-          Sec. Appendix A to Part 27--DHS Chemicals of Interest
-
-[[Page 211]]
-
-[GRAPHIC] [TIFF OMITTED] TR20NO07.008
-
-
-[[Page 212]]
-
-
-[GRAPHIC] [TIFF OMITTED] TR20NO07.009
-
-
 [[Page 213]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.010
+<R05>
+          Sec. Appendix A to Part 27--DHS Chemicals of Interest
+[GRAPHIC] [TIFF OMITTED] TR20NO07.008
 
 
 [[Page 214]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.011
+[GRAPHIC] [TIFF OMITTED] TR20NO07.009
 
 
 [[Page 215]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.012
+[GRAPHIC] [TIFF OMITTED] TR20NO07.010
 
 
 [[Page 216]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.013
+[GRAPHIC] [TIFF OMITTED] TR20NO07.011
 
 
 [[Page 217]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.014
+[GRAPHIC] [TIFF OMITTED] TR20NO07.012
 
 
 [[Page 218]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.015
+[GRAPHIC] [TIFF OMITTED] TR20NO07.013
 
 
 [[Page 219]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.016
+[GRAPHIC] [TIFF OMITTED] TR20NO07.014
 
 
 [[Page 220]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.017
+[GRAPHIC] [TIFF OMITTED] TR20NO07.015
 
 
 [[Page 221]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.018
+[GRAPHIC] [TIFF OMITTED] TR20NO07.016
 
 
 [[Page 222]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.019
+[GRAPHIC] [TIFF OMITTED] TR20NO07.017
 
 
 [[Page 223]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.020
+[GRAPHIC] [TIFF OMITTED] TR20NO07.018
 
 
 [[Page 224]]
 
 
-[GRAPHIC] [TIFF OMITTED] TR20NO07.021
+[GRAPHIC] [TIFF OMITTED] TR20NO07.019
 
 
 [[Page 225]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR20NO07.020
+
+
+[[Page 226]]
+
+
+[GRAPHIC] [TIFF OMITTED] TR20NO07.021
+
+
+[[Page 227]]
 
 
 
@@ -17348,7 +17589,7 @@ States, or threatens public health or safety;
 to resist such interference, compromise, or incapacitation, including 
 any planned or
 
-[[Page 226]]
+[[Page 228]]
 
 past assessment, projection, or estimate of the vulnerability of 
 critical infrastructure or a protected system, including security 
@@ -17419,7 +17660,7 @@ furtherance of the protections provided by the CII Act.
     (i) Protected system has the meaning set forth in section 212(6) of 
 the CII
 
-[[Page 227]]
+[[Page 229]]
 
 Act, and means any service, physical or computer-based system, process, 
 or procedure that directly or indirectly affects the viability of a 
@@ -17487,7 +17728,7 @@ as CII, as evidence at trial or in any pretrial or other discovery,
 notwithstanding whether the United States, its agencies, officers, or 
 employees is or are a party to such proceeding.
 
-[[Page 228]]
+[[Page 230]]
 
 
 <R05>
@@ -17512,7 +17753,7 @@ purposes.
 
 
 <R05>
-Sec. 29.4  Protected Critical Infrastructure Information Program 
+Sec. 29.4  Protected Critical Infrastructure Information Program
 administration.
 
     (a) Preparedness Directorate Program Management. The Secretary of 
@@ -17565,7 +17806,7 @@ accordance with the provisions of the CII Act. The PCII Program Manager
 may require the completion of appropriate background investigations of 
 an individual before granting that individual access to any PCII.
 
-[[Page 229]]
+[[Page 231]]
 
 
 <R05>
@@ -17643,7 +17884,7 @@ and will be treated as PCII, enjoying the protections of section 214 of
 the CII Act, from the time the information is received by the PCII 
 Program Office or the PCII
 
-[[Page 230]]
+[[Page 232]]
 
 Program Manager's designee. The information shall remain protected 
 unless and until the PCII Program Office renders a final decision that 
@@ -17712,7 +17953,7 @@ the information qualifies for protection under the CII Act;
 Office will review any further information provided before rendering a 
 final determination;
 
-[[Page 231]]
+[[Page 233]]
 
     (C) Advise the submitting person or entity that the submission can 
 be withdrawn at any time before a final determination is made;
@@ -17785,7 +18026,7 @@ consistent with the purposes of the Act, undertake appropriate
 background checks to ensure that individuals with access to PCII do not 
 pose a threat to national security.
 
-[[Page 232]]
+[[Page 234]]
 
 These checks may also be waived in exigent circumstances.
     (c) Use and Storage. When PCII is in the physical possession of a 
@@ -17855,7 +18096,7 @@ the contractor is performing services in support of the purposes of the
 CII Act. The contractor's employees who will be handling PCII must sign 
 individual nondisclosure agreements in a form prescribed
 
-[[Page 233]]
+[[Page 235]]
 
 by the PCII Program Manager, and the contractor must agree by contract, 
 whenever and to whatever extent possible, to comply with all relevant 
@@ -17924,7 +18165,7 @@ on behalf of a submitting entity, about a submittal of information by
 that person or entity when authorized to do so by the PCII Program 
 Manager or the PCII Program Manager's designee; or
 
-[[Page 234]]
+[[Page 236]]
 
     (C) When disclosure of the information is made by any officer or 
 employee of the United States--
@@ -17997,7 +18238,7 @@ the United States or of any department or agency thereof, knowingly
 publishes, divulges, discloses, or makes known in any manner or to any 
 extent not authorized by
 
-[[Page 235]]
+[[Page 237]]
 
 law, any information protected from disclosure by the CII Act coming to 
 the officer or employee in the course of his or her employment or 
@@ -18099,7 +18340,7 @@ participate in REAL ID, but that are not intended to be accepted by
 Federal agencies for official purpose under section 202(d)(11) of the 
 REAL ID Act.
 
-[[Page 236]]
+[[Page 238]]
 
 
 <R05>
@@ -18173,7 +18414,7 @@ equivalent function which, when completed with information concerning a
 particular individual, is of a type intended or commonly accepted for 
 the purpose of identification of individuals.
 
-[[Page 237]]
+[[Page 239]]
 
     INS means the former-Immigration and Naturalization Service of the 
 U.S. Department of Justice.
@@ -18242,7 +18483,7 @@ Secretary's discretion.
 section 3, universal definitions and grant provisions, of the Violence 
 Against Women
 
-[[Page 238]]
+[[Page 240]]
 
 and Department of Justice Reauthorization Act of 2005 (Pub. L. 109-162, 
 119 Stat. 2960, 2964, Jan. 5, 2006); codified at section 40002, 
@@ -18324,7 +18565,7 @@ documents to the DMV on subsequent visits.
     (c) Identity. (1) To establish identity, the applicant must present 
 at least one of the following source documents:
 
-[[Page 239]]
+[[Page 241]]
 
     (i) Valid, unexpired U.S. passport.
     (ii) Certified copy of a birth certificate filed with a State Office 
@@ -18398,7 +18639,7 @@ prescribed in Sec. 37.13.
     (h) Exceptions Process. A State DMV may choose to establish a 
 written, defined exceptions process for persons
 
-[[Page 240]]
+[[Page 242]]
 
 who, for reasons beyond their control, are unable to present all 
 necessary documents and must rely on alternate documents to establish 
@@ -18471,7 +18712,7 @@ should refer the individual to the issuing office for resolution.
     (4) States shall verify documents issued by the Department of State 
 with
 
-[[Page 241]]
+[[Page 243]]
 
 the Department of State or through methods approved by DHS.
     (5) States must verify REAL ID driver's licenses and identification 
@@ -18483,7 +18724,7 @@ non-match.
 
 
 <R05>
-Sec. 37.15  Physical security features for the driver's license or 
+Sec. 37.15  Physical security features for the driver's license or
 identification card.
 
     (a) General. States must include document security features on REAL 
@@ -18553,7 +18794,7 @@ license or identification cards within the State.
     (e) Full facial digital photograph. A full facial photograph must be 
 taken pursuant to the standards set forth below:
 
-[[Page 242]]
+[[Page 244]]
 
     (1) States shall follow specifically ISO/IEC 19794-5:2005(E) 
 Information technology--Biometric Data Interchange Formats--Part 5: Face 
@@ -18623,7 +18864,7 @@ unable to sign their name.
     (h) Physical security features, pursuant to Sec. 37.15 of this 
 subpart.
 
-[[Page 243]]
+[[Page 245]]
 
     (i) Machine-readable technology on the back of the card, pursuant to 
 Sec. 37.19 of this subpart.
@@ -18702,7 +18943,7 @@ person has lawful status in the United States.
     (b) States shall not issue a temporary or limited-term driver's 
 license or identification card pursuant to this section:
 
-[[Page 244]]
+[[Page 246]]
 
     (1) For a time period longer than the expiration of the applicant's 
 authorized stay in the United States, or, if there is no expiration 
@@ -18751,8 +18992,7 @@ and must be verified as specified in Sec. 37.13.
 
 
 <R05>
-Sec. 37.25  Renewal of REAL ID driver's licenses and identification 
-cards.
+Sec. 37.25  Renewal of REAL ID driver's licenses and identification cards.
 
     (a) In-person renewals. States must require holders of REAL ID 
 driver's licenses and identification cards to renew their driver's 
@@ -18780,7 +19020,7 @@ identification card.
 identification card where there has been a material change in any 
 personally identifiable information since
 
-[[Page 245]]
+[[Page 247]]
 
 prior issuance. All material changes must be established through the 
 applicant's presentation of an original source document as provided in 
@@ -18803,7 +19043,7 @@ must obtain and present REAL ID cards for official purposes by December
 
 
 <R05>
-Sec. 37.29  Prohibition against holding more than one REAL ID card or
+Sec. 37.29  Prohibition against holding more than one REAL ID card or 
 more than one driver's license.
 
     (a) An individual may hold only one REAL ID card. An individual 
@@ -18862,7 +19102,7 @@ interoperable with the JPEG standard. Images must be stored in an open
 (consensus) format, without proprietary wrappers, to ensure States can 
 effectively use the image captures of other States as needed.
 
-[[Page 246]]
+[[Page 248]]
 
     (2) Document and signature images must be stored in a compressed 
 Tagged Image Format (TIF), or a standard that is interoperable with the 
@@ -18944,7 +19184,7 @@ this part.
     (iii) Controlled access systems.
     (5) Periodic training requirements in--
 
-[[Page 247]]
+[[Page 249]]
 
     (i) Fraudulent document recognition training for all covered 
 employees handling source documents or engaged in the issuance of 
@@ -19020,7 +19260,7 @@ the felonies set forth in 49 CFR 1572.103(a).
     (ii) Interim disqualifying criminal offenses. The criminal offenses 
 referenced in 49 CFR 1572.103(b) are disqualifying
 
-[[Page 248]]
+[[Page 250]]
 
 if the covered employee was either convicted of those offenses in a 
 civilian or military jurisdiction, or admits having committed acts which 
@@ -19096,7 +19336,7 @@ DHS' Web site at http://www.dhs.gov.
     Effective Date Note: At 74 FR 68478, Dec. 28, 2009, in Sec. 37.51, 
 paragraph (b) was stayed from Jan. 1, 2010 until further notice.
 
-[[Page 249]]
+[[Page 251]]
 
 
 <R05>
@@ -19181,7 +19421,7 @@ part.
     (b) The Secretary will determine that a State is not in compliance 
 with this part when it--
 
-[[Page 250]]
+[[Page 252]]
 
     (1) Fails to submit a timely certification or request an extension 
 as prescribed in this subpart; or
@@ -19253,7 +19493,7 @@ meet the standards of this part.
     (b) DHS reserves the right to approve such designations, as 
 necessary, during certification of compliance.
 
-[[Page 251]]
+[[Page 253]]
 
 
 <R02>
@@ -19273,7 +19513,7 @@ which is published separately and revised annually.
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
-[[Page 253]]
+[[Page 255]]
 
 
 <R03>
@@ -19282,7 +19522,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2012)
+                     (Revised as of January 1, 2013)
 
                       Title 1--General Provisions
 
@@ -19329,7 +19569,7 @@ which is published separately and revised annually.
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
 
-[[Page 254]]
+[[Page 256]]
 
        XXX  Department of Homeland Security (Parts 3000--3099)
       XXXI  Institute of Museum and Library Services (Parts 3100--
@@ -19337,6 +19577,7 @@ which is published separately and revised annually.
      XXXII  National Endowment for the Arts (Parts 3200--3299)
     XXXIII  National Endowment for the Humanities (Parts 3300--
                 3399)
+     XXXIV  Department of Education (Parts 3400--3499)
       XXXV  Export-Import Bank of the United States (Parts 3500--
                 3599)
     XXXVII  Peace Corps (Parts 3700--3799)
@@ -19348,7 +19589,7 @@ which is published separately and revised annually.
 
                            Title 4--Accounts
 
-         I  Government Accountability Office (Parts 1--99)
+         I  Government Accountability Office (Parts 1--199)
         II  Recovery Accountability and Transparency Board (Parts 
                 200--299)
 
@@ -19383,11 +19624,11 @@ which is published separately and revised annually.
        XXX  Farm Credit System Insurance Corporation (Parts 4000--
                 4099)
       XXXI  Farm Credit Administration (Parts 4100--4199)
+
+[[Page 257]]
+
     XXXIII  Overseas Private Investment Corporation (Parts 4300--
                 4399)
-
-[[Page 255]]
-
      XXXIV  Securities and Exchange Commission (Parts 4400--4499)
       XXXV  Office of Personnel Management (Parts 4500--4599)
     XXXVII  Federal Election Commission (Parts 4700--4799)
@@ -19442,12 +19683,18 @@ which is published separately and revised annually.
     LXXXII  Special Inspector General for Iraq Reconstruction 
                 (Parts 9200--9299)
 
-[[Page 256]]
+[[Page 258]]
 
+   LXXXIII  Special Inspector General for Afghanistan 
+                Reconstruction (Parts 9300--9399)
+    LXXXIV  Bureau of Consumer Financial Protection (Parts 9400--
+                9499)
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Parts 
                 9700--9799)
+     XCVII  Council of the Inspectors General on Integrity and 
+                Efficiency (Parts 9800--9899)
 
                       Title 6--Domestic Security
 
@@ -19493,6 +19740,9 @@ which is published separately and revised annually.
                 Agriculture (Parts 1500--1599)
        XVI  Rural Telephone Bank, Department of Agriculture (Parts 
                 1600--1699)
+
+[[Page 259]]
+
       XVII  Rural Utilities Service, Department of Agriculture 
                 (Parts 1700--1799)
      XVIII  Rural Housing Service, Rural Business-Cooperative 
@@ -19501,9 +19751,6 @@ which is published separately and revised annually.
                 2099)
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
-
-[[Page 257]]
-
        XXV  Office of Advocacy and Outreach, Department of 
                 Agriculture (Parts 2500--2599)
       XXVI  Office of Inspector General, Department of Agriculture 
@@ -19548,13 +19795,14 @@ which is published separately and revised annually.
 
          I  Animal and Plant Health Inspection Service, Department 
                 of Agriculture (Parts 1--199)
+
+[[Page 260]]
+
         II  Grain Inspection, Packers and Stockyards 
                 Administration (Packers and Stockyards Programs), 
                 Department of Agriculture (Parts 200--299)
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
-
-[[Page 258]]
 
                            Title 10--Energy
 
@@ -19606,6 +19854,8 @@ which is published separately and revised annually.
      XVIII  Community Development Financial Institutions Fund, 
                 Department of the Treasury (Parts 1800--1899)
 
+[[Page 261]]
+
                Title 13--Business Credit and Assistance
 
          I  Small Business Administration (Parts 1--199)
@@ -19614,8 +19864,6 @@ which is published separately and revised annually.
         IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
          V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
                 500--599)
-
-[[Page 259]]
 
                     Title 14--Aeronautics and Space
 
@@ -19666,12 +19914,12 @@ which is published separately and revised annually.
                 Administration, Department of Commerce (Parts 
                 2300--2399)
 
+[[Page 262]]
+
                     Title 16--Commercial Practices
 
          I  Federal Trade Commission (Parts 0--999)
         II  Consumer Product Safety Commission (Parts 1000--1799)
-
-[[Page 260]]
 
              Title 17--Commodity and Securities Exchanges
 
@@ -19720,6 +19968,8 @@ which is published separately and revised annually.
                 Employment and Training Service, Department of 
                 Labor (Parts 1000--1099)
 
+[[Page 263]]
+
                        Title 21--Food and Drugs
 
          I  Food and Drug Administration, Department of Health and 
@@ -19728,8 +19978,6 @@ which is published separately and revised annually.
                 (Parts 1300--1399)
        III  Office of National Drug Control Policy (Parts 1400--
                 1499)
-
-[[Page 261]]
 
                       Title 22--Foreign Relations
 
@@ -19777,6 +20025,9 @@ which is published separately and revised annually.
          I  Office of Assistant Secretary for Equal Opportunity, 
                 Department of Housing and Urban Development (Parts 
                 100--199)
+
+[[Page 264]]
+
         II  Office of Assistant Secretary for Housing-Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
@@ -19785,9 +20036,6 @@ which is published separately and revised annually.
         IV  Office of Housing and Office of Multifamily Housing 
                 Assistance Restructuring, Department of Housing 
                 and Urban Development (Parts 400--499)
-
-[[Page 262]]
-
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
@@ -19838,12 +20086,13 @@ which is published separately and revised annually.
          V  Bureau of Indian Affairs, Department of the Interior, 
                 and Indian Health Service, Department of Health 
                 and Human Services (Part 900)
+
+[[Page 265]]
+
         VI  Office of the Assistant Secretary-Indian Affairs, 
                 Department of the Interior (Parts 1000--1199)
        VII  Office of the Special Trustee for American Indians, 
                 Department of the Interior (Parts 1200--1299)
-
-[[Page 263]]
 
                       Title 26--Internal Revenue
 
@@ -19894,15 +20143,15 @@ which is published separately and revised annually.
                 1400--1499)
        XIV  Equal Employment Opportunity Commission (Parts 1600--
                 1699)
+
+[[Page 266]]
+
       XVII  Occupational Safety and Health Administration, 
                 Department of Labor (Parts 1900--1999)
         XX  Occupational Safety and Health Review Commission 
                 (Parts 2200--2499)
        XXV  Employee Benefits Security Administration, Department 
                 of Labor (Parts 2500--2599)
-
-[[Page 264]]
-
      XXVII  Federal Mine Safety and Health Review Commission 
                 (Parts 2700--2799)
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
@@ -19951,14 +20200,14 @@ which is published separately and revised annually.
 
             Subtitle A--Department of Defense
          I  Office of the Secretary of Defense (Parts 1--399)
+
+[[Page 267]]
+
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
-
-[[Page 265]]
-
        XII  Defense Logistics Agency (Parts 1200--1299)
        XVI  Selective Service System (Parts 1600--1699)
       XVII  Office of the Director of National Intelligence (Parts 
@@ -20009,15 +20258,14 @@ which is published separately and revised annually.
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
+[[Page 268]]
+
                           Title 35 [Reserved]
 
              Title 36--Parks, Forests, and Public Property
 
          I  National Park Service, Department of the Interior 
                 (Parts 1--199)
-
-[[Page 266]]
-
         II  Forest Service, Department of Agriculture (Parts 200--
                 299)
        III  Corps of Engineers, Department of the Army (Parts 
@@ -20054,7 +20302,7 @@ which is published separately and revised annually.
 
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
-         I  Department of Veterans Affairs (Parts 0--99)
+         I  Department of Veterans Affairs (Parts 0--199)
         II  Armed Forces Retirement Home (Parts 200--299)
 
                        Title 39--Postal Service
@@ -20068,13 +20316,14 @@ which is published separately and revised annually.
         IV  Environmental Protection Agency and Department of 
                 Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
+
+[[Page 269]]
+
         VI  Chemical Safety and Hazard Investigation Board (Parts 
                 1600--1699)
        VII  Environmental Protection Agency and Department of 
                 Defense; Uniform National Discharge Standards for 
                 Vessels of the Armed Forces (Parts 1700--1799)
-
-[[Page 267]]
 
           Title 41--Public Contracts and Property Management
 
@@ -20124,12 +20373,13 @@ which is published separately and revised annually.
 
          I  Public Health Service, Department of Health and Human 
                 Services (Parts 1--199)
+
+[[Page 270]]
+
         IV  Centers for Medicare & Medicaid Services, Department 
                 of Health and Human Services (Parts 400--599)
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
-
-[[Page 268]]
 
                    Title 43--Public Lands: Interior
 
@@ -20137,7 +20387,7 @@ which is published separately and revised annually.
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Lands
          I  Bureau of Reclamation, Department of the Interior 
-                (Parts 200--599)
+                (Parts 400--999)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
        III  Utah Reclamation Mitigation and Conservation 
@@ -20179,6 +20429,9 @@ which is published separately and revised annually.
                 (Parts 1100--1199)
        XII  Corporation for National and Community Service (Parts 
                 1200--1299)
+
+[[Page 271]]
+
       XIII  Office of Human Development Services, Department of 
                 Health and Human Services (Parts 1300--1399)
        XVI  Legal Services Corporation (Parts 1600--1699)
@@ -20187,9 +20440,6 @@ which is published separately and revised annually.
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
-
-[[Page 269]]
-
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
@@ -20233,6 +20483,9 @@ which is published separately and revised annually.
          9  Department of Energy (Parts 900--999)
         10  Department of the Treasury (Parts 1000--1099)
         12  Department of Transportation (Parts 1200--1299)
+
+[[Page 272]]
+
         13  Department of Commerce (Parts 1300--1399)
         14  Department of the Interior (Parts 1400--1499)
         15  Environmental Protection Agency (Parts 1500--1599)
@@ -20240,9 +20493,6 @@ which is published separately and revised annually.
                 Health Benefits Acquisition Regulation (Parts 
                 1600--1699)
         17  Office of Personnel Management (Parts 1700--1799)
-
-[[Page 270]]
-
         18  National Aeronautics and Space Administration (Parts 
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
@@ -20288,6 +20538,9 @@ which is published separately and revised annually.
                 (Parts 100--199)
         II  Federal Railroad Administration, Department of 
                 Transportation (Parts 200--299)
+
+[[Page 273]]
+
        III  Federal Motor Carrier Safety Administration, 
                 Department of Transportation (Parts 300--399)
         IV  Coast Guard, Department of Homeland Security (Parts 
@@ -20296,9 +20549,6 @@ which is published separately and revised annually.
                 Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
                 Transportation (Parts 600--699)
-
-[[Page 271]]
-
        VII  National Railroad Passenger Corporation (AMTRAK) 
                 (Parts 700--799)
       VIII  National Transportation Safety Board (Parts 800--999)
@@ -20329,15 +20579,7 @@ which is published separately and revised annually.
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 600--699)
 
-                      CFR Index and Finding Aids
-
-            Subject/Agency Index
-            List of Agency Prepared Indexes
-            Parallel Tables of Statutory Authorities and Rules
-            List of CFR Titles, Chapters, Subchapters, and Parts
-            Alphabetical List of Agencies Appearing in the CFR
-
-[[Page 273]]
+[[Page 275]]
 
 
 
@@ -20348,7 +20590,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2012)
+                     (Revised as of January 1, 2013)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -20357,6 +20599,8 @@ Administrative Committee of the Federal Register  1, I
 Administrative Conference of the United States    1, III
 Advisory Council on Historic Preservation         36, VIII
 Advocacy and Outreach, Office of                  7, XXV
+Afghanistan Reconstruction, Special Inspector     22, LXXXIII
+     General for
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
 Agency for International Development              2, VII; 22, II
@@ -20407,10 +20651,10 @@ Alcohol, Tobacco, Firearms, and Explosives,       27, II
 AMTRAK                                            49, VII
 American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
+
+[[Page 276]]
+
 Animal and Plant Health Inspection Service        7, III; 9, I
-
-[[Page 274]]
-
 Appalachian Regional Commission                   5, IX
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -20437,6 +20681,8 @@ Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
 Civil Rights, Commission on                       5, LXVIII; 45, VII
 Civil Rights, Office for                          34, I
+Council of the Inspectors General on Integrity    5, XCVIII
+     and Efficiency
 Court Services and Offender Supervision Agency    5, LXX
      for the District of Columbia
 Coast Guard                                       33, I; 46, I; 49, IV
@@ -20474,17 +20720,18 @@ Community Services, Office of                     45, X
 Comptroller of the Currency                       12, I
 Construction Industry Collective Bargaining       29, IX
      Commission
-Consumer Financial Protection Bureau              12, X
+Consumer Financial Protection Bureau              5, LXXXIV; 12, X
 Consumer Product Safety Commission                5, LXXI; 16, II
 Copyright Office                                  37, II
 Copyright Royalty Board                           37, III
 Corporation for National and Community Service    2, XXII; 45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
-Court Services and Offender Supervision Agency    5, LXX; 28, VIII
-   for the District of Columbia
-[[Page 275]]
 
+[[Page 277]]
+
+Court Services and Offender Supervision Agency    5, LXX; 28, VIII
+     for the District of Columbia
 Customs and Border Protection                     19, I
 Defense Contract Audit Agency                     32, I
 Defense Department                                2, XI; 5, XXVI; 32, 
@@ -20513,7 +20760,7 @@ Economic Affairs, Under Secretary                 37, V
 Economic Analysis, Bureau of                      15, VIII
 Economic Development Administration               13, III
 Economic Research Service                         7, XXXVII
-Education, Department of                          5, LIII
+Education, Department of                          2, XXXIV; 5, LIII
   Bilingual Education and Minority Languages      34, V
        Affairs, Office of
   Civil Rights, Office for                        34, I
@@ -20552,12 +20799,11 @@ Environmental Protection Agency                   2, XV; 5, LIV; 40, I, IV,
 Environmental Quality, Office of                  7, XXXI
 Equal Employment Opportunity Commission           5, LXII; 29, XIV
 Equal Opportunity, Office of Assistant Secretary  24, I
-     for
+   for
+[[Page 278]]
+
 Executive Office of the President                 3, I
   Administration, Office of                       5, XV
-
-[[Page 276]]
-
   Environmental Quality, Council on               40, V
   Management and Budget, Office of                2, Subtitle A; 5, III, 
                                                   LXXVII; 14, VI; 48, 99
@@ -20626,12 +20872,12 @@ Food and Nutrition Service                        7, II
 Food Safety and Inspection Service                9, III
 Foreign Agricultural Service                      7, XV
 Foreign Assets Control, Office of                 31, V
+
+[[Page 279]]
+
 Foreign Claims Settlement Commission of the       45, V
      United States
 Foreign Service Grievance Board                   22, IX
-
-[[Page 277]]
-
 Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
@@ -20670,7 +20916,7 @@ Health and Human Services, Department of          2, III; 5, XLV; 45,
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
-Homeland Security, Department of                  2, XXX; 6, I
+Homeland Security, Department of                  2, XXX; 6, I; 8, I
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
   Customs and Border Protection                   19, I
@@ -20678,7 +20924,6 @@ Homeland Security, Department of                  2, XXX; 6, I
   Human Resources Management and Labor Relations  5, XCVII
        Systems
   Immigration and Customs Enforcement Bureau      19, IV
-  Immigration and Naturalization                  8, I
   Transportation Security Administration          49, XII
 HOPE for Homeowners Program, Board of Directors   24, XXIV
      of
@@ -20703,13 +20948,11 @@ Housing and Urban Development, Department of      2, XXIV; 5, LXV; 24,
 Housing--Federal Housing Commissioner, Office of  24, II, VIII, X, XX
      Assistant Secretary for
 Housing, Office of, and Multifamily Housing       24, IV
-     Assistance Restructuring, Office of
+   Assistance Restructuring, Office of
+[[Page 280]]
+
 Human Development Services, Office of             45, XIII
-
-[[Page 278]]
-
 Immigration and Customs Enforcement Bureau        19, IV
-Immigration and Naturalization                    8, I
 Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
 Indian Affairs, Bureau of                         25, I, V
@@ -20767,6 +21010,8 @@ International Trade Administration                15, III; 19, III
 International Trade Commission, United States     19, II
 Interstate Commerce Commission                    5, XL
 Investment Security, Office of                    31, VIII
+Iraq Reconstruction, Special Inspector General    5, LXXXVII
+     for
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
@@ -20783,10 +21028,10 @@ Justice Department                                2, XXVIII; 5, XXVIII; 28,
   Immigration Review, Executive Office for        8, V
   Offices of Independent Counsel                  28, VI
   Prisons, Bureau of                              28, V
+
+[[Page 281]]
+
   Property Management Regulations                 41, 128
-
-[[Page 279]]
-
 Labor Department                                  5, XLII
   Employee Benefits Security Administration       29, XXV
   Employees' Compensation Appeals Board           20, IV
@@ -20856,10 +21101,10 @@ National Institute of Food and Agriculture        7, XXXIV
 National Institute of Standards and Technology    15, II
 National Intelligence, Office of Director of      32, XVII
 National Labor Relations Board                    5, LXI; 29, I
+
+[[Page 282]]
+
 National Marine Fisheries Service                 50, II, IV
-
-[[Page 280]]
-
 National Mediation Board                          29, X
 National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV, 
                                                   VI
@@ -20933,10 +21178,10 @@ Relocation Allowances                             41, 302
 Research and Innovative Technology                49, XI
      Administration
 Rural Business-Cooperative Service                7, XVIII, XLII, L
+
+[[Page 283]]
+
 Rural Development Administration                  7, XLII
-
-[[Page 281]]
-
 Rural Housing Service                             7, XVIII, XXXV, L
 Rural Telephone Bank                              7, XVI
 Rural Utilities Service                           7, XVII, XVIII, XLII, L
@@ -20954,8 +21199,6 @@ Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
 Special Education and Rehabilitative Services,    34, III
      Office of
-Special Inspector General for Iraq                5, LXXXVII
-     Reconstruction
 State Department                                  2, VI; 22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
 Surface Mining Reclamation and Enforcement,       30, VII
@@ -21011,7 +21254,7 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Secret Service                                  31, IV
   Secretary of the Treasury, Office of            31, Subtitle A
 
-[[Page 282]]
+[[Page 284]]
 
   Thrift Supervision, Office of                   12, V
 Truman, Harry S. Scholarship Foundation           45, XVIII
@@ -21032,5 +21275,72 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[
+[[Page 285]]
+
+
+<R03>
+List of CFR Sections Affected
+
+<R04>
+
+All changes in this volume of the Code of Federal Regulations that were 
+made by documents published in the Federal Register since 2008, are 
+enumerated in the following list. Entries indicate the nature of the 
+changes effected. Page numbers refer to Federal Register pages. The user 
+should consult the entries for chapters and parts as well as sections 
+for revisions.
+
+                                  2008
+
+6 CFR
+                                                                   73 FR
+                                                                    Page
+Chapter I
+5 Appendix C amended.....5421, 48118, 56922, 56925, 56928, 63058, 63059, 
+                                                            68292, 71521
+27 Clarification...................................................15051
+37 Added............................................................5331
+
+                                  2009
+
+6 CFR
+                                                                   74 FR
+                                                                    Page
+Chapter I
+5 Appendix C amended.....38888, 42575, 42576, 42578, 42579, 45070-45073, 
+         45075--45080, 45082--45086, 45088, 45089, 45090, 50902, 50904, 
+                                       50906, 63945, 63947, 63948, 63949
+37.51 (b) stayed indefinitely......................................68478
+37.63 (b) amended..................................................49309
+
+                                  2010
+
+6 CFR
+                                                                   75 FR
+                                                                    Page
+Chapter I
+5 Appendix C amended.......5490, 5495, 9086, 10633, 12437, 50845, 50846, 
+                                                     51622, 67909, 79948
+
+                                  2011
+
+6 CFR
+                                                                   76 FR
+                                                                    Page
+Chapter I
+5 Appendix C amended....27847, 42004, 42005, 42006, 44451, 44453, 70637, 
+                                                            70638, 81788
+    Appendix C corrected...........................................39245
+37.51 (a) amended..................................................12271
+
+                                  2012
+
+6 CFR
+                                                                   77 FR
+                                                                    Page
+Chapter I
+5 Appendix C amended..................................1387, 33607, 47767
+
+
+                                  [all]
 </pre></body></html>
