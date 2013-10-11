@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 32 CFR ]
-[Code of Federal Regulations (annual edition) - July 1, 2011 Edition]
+[Code of Federal Regulations (annual edition) - July 1, 2012 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -18,12 +18,12 @@ ________________________
 
 Parts 700 to 799
 
-                         Revised as of July 1, 2011
+                         Revised as of July 1, 2012
 
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of July 1, 2011
+          As of July 1, 2012
                     Published by the Office of the Federal Register 
                     National Archives and Records Administration as a 
                     Special Edition of the Federal Register
@@ -150,7 +150,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, July 1, 2011), consult the ``List of CFR 
+revision date (in this case, July 1, 2012), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -189,9 +189,9 @@ OBSOLETE PROVISIONS
 the cover of each volume are not carried. Code users may find the text 
 of provisions in effect on a given date in the past by using the 
 appropriate numerical list of sections affected. For the period before 
-April 1, 2001, consult either the List of CFR Sections Affected, 1949-
+January 1, 2001, consult either the List of CFR Sections Affected, 1949-
 1963, 1964-1972, 1973-1985, or 1986-2000, published in eleven separate 
-volumes. For the period beginning April 1, 2001, a ``List of CFR 
+volumes. For the period beginning January 1, 2001, a ``List of CFR 
 Sections Affected'' is published at the end of each CFR volume.
 
 ``[RESERVED]'' TERMINOLOGY
@@ -292,10 +292,10 @@ site for public law numbers, Federal Register finding aids, and related
 information. Connect to NARA's web site at www.archives.gov/federal-
 register.
 
-    Raymond A. Mosley,
+    Charles A. Barth,
     Director,
     Office of the Federal Register.
-    July 1, 2011.
+    July 1, 2012.
 
 
 
@@ -313,7 +313,7 @@ register.
 these volumes are arranged in the following order: Parts 1-190, parts 
 191-399, parts 400-629, parts 630-699, parts 700-799, and part 800 to 
 end. The contents of these volumes represent all current regulations 
-codified under this title of the CFR as of July 1, 2011.
+codified under this title of the CFR as of July 1, 2012.
 
     The current regulations issued by the Department of Defense appear 
 in the volumes containing parts 1-189 and parts 190-399; those issued by 
@@ -330,7 +330,6 @@ States appear in the volume containing part 800 to end.
     For this volume, Cheryl E. Sirofchuck was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
 Michael L. White, assisted by Ann Worley.
-
 
 [[Page 1]]
 
@@ -388,7 +387,9 @@ Part                                                                Page
 720             Delivery of personnel; service of process 
                     and subpoenas; production of official 
                     records.................................         213
-721-722         [Reserved]
+721-722
+
+[Reserved]
 
 723             Board for Correction of Naval Records.......         230
 724             Naval Discharge Review Board................         237
@@ -435,7 +436,9 @@ Part                                                                Page
                     Reservations, areas under Navy 
                     administration, and the Trust Territory 
                     of the Pacific Islands..................         439
-762             [Reserved]
+762
+
+[Reserved]
 
 763             Rules governing public access...............         451
                     SUBCHAPTER G--MISCELLANEOUS RULES
@@ -446,11 +449,15 @@ Part                                                                Page
                     research permits on ship and aircraft 
                     wrecks under the jurisdication of the 
                     Department of the Navy..................         468
-768-769         [Reserved]
+768-769
+
+[Reserved]
 
 770             Rules limiting public access to particular 
                     installations...........................         472
-771-774         [Reserved]
+771-774
+
+[Reserved]
 
 [[Page 7]]
 
@@ -459,7 +466,9 @@ Part                                                                Page
 776             Professional conduct of attorneys practicing 
                     under the cognizance and supervision of 
                     the Judge Advocate General..............         491
-777-799         [Reserved]
+777-799
+
+[Reserved]
 
 [[Page 9]]
 
@@ -467,10 +476,11 @@ Part                                                                Page
 <R03>
     SUBCHAPTER A_UNITED STATES NAVY REGULATIONS AND OFFICIAL RECORDS
 
+<R05>
+
 
 <R03>
 PART 700_UNITED STATES NAVY REGULATIONS AND OFFICIAL RECORDS--Table of 
-
 Contents
 
 
@@ -757,7 +767,6 @@ powers and duties.
 
 <R05>
 Sec. 700.102  Statutory authority for issuance of United States Navy 
-
 Regulations.
 
     Title 10, United States Code, section 6011, provides that United 
@@ -1248,7 +1257,8 @@ Secretary of the Navy may prescribe in accordance with law.
 
 
 <R05>
-Sec. 700.323  The Assistant Secretary of the Navy (Financial Management).
+Sec. 700.323  The Assistant Secretary of the Navy (Financial 
+Management).
 
     The Assistant Secretary of the Navy (Financial Management) is the 
 Comptroller of the Navy, and is responsible for all matters related to 
@@ -1265,7 +1275,6 @@ Secretary of the Navy.
 
 <R05>
 Sec. 700.324  The Assistant Secretary of the Navy (Manpower and Reserve 
-
 Affairs).
 
     The Assistant Secretary of the Navy (Manpower and Reserve Affairs) 
@@ -1281,7 +1290,6 @@ Board for Correction of Naval Records.
 
 <R05>
 Sec. 700.325  The Assistant Secretary of the Navy (Installations and 
-
 Environment).
 
     The Assistant Secretary of the Navy (Installations and Environment) 
@@ -1302,9 +1310,8 @@ Policy Act; and
 
 
 <R05>
-Sec. 700.326  The Assistant Secretary of the Navy (Research, Development and 
-
-Acquisition).
+Sec. 700.326  The Assistant Secretary of the Navy (Research, 
+Development and Acquisition).
 
     The Assistant Secretary of the Navy (Research, Development and 
 Acquisition) is responsible for:
@@ -1555,9 +1562,8 @@ first.
 
 
 <R05>
-Sec. 700.403  Statutory authority and responsibility of the Chief of Naval 
-
-Operations.
+Sec. 700.403  Statutory authority and responsibility of the Chief of
+Naval Operations.
 
     (a) Except as otherwise prescribed by law, and subject to the 
 statutory authority of the Secretary of the Navy to assign functions, 
@@ -1601,9 +1607,8 @@ duties and responsibilities of the Secretary of the Navy.
 
 
 <R05>
-Sec. 700.404  Statutory authority and responsibility of the Office of the 
-
-Chief of Naval Operations.
+Sec. 700.404  Statutory authority and responsibility of the Office of 
+the Chief of Naval Operations.
 
     (a) The Office of the Chief of Naval Operations shall furnish 
 professional assistance to the Secretary, the Under Secretary and the 
@@ -1714,9 +1719,8 @@ efficiency and economy.
 
 
 <R05>
-Sec. 700.406  Naval Vessel Register, classification of naval craft, and status 
-
-of ships and service craft.
+Sec. 700.406  Naval Vessel Register, classification of naval craft, and
+status of ships and service craft.
 
     (a) The Chief of Naval Operations shall be responsible for the Naval 
 Vessel Register (except the Secretary of the Navy shall strike vessels 
@@ -1780,9 +1784,8 @@ whichever occurs first.
 
 
 <R05>
-Sec. 700.503  Statutory authority and responsibility of the Commandant of the 
-
-Marine Corps.
+Sec. 700.503  Statutory authority and responsibility of the Commandant
+of the Marine Corps.
 
     (a) Except as otherwise prescribed by law and subject to the 
 statutory authority of the Secretary of the Navy to assign functions, 
@@ -1825,9 +1828,8 @@ the duties and responsibilities of the Secretary of the Navy.
 
 
 <R05>
-Sec. 700.504  Statutory authority and responsibility of the Headquarters, 
-
-Marine Corps.
+Sec. 700.504  Statutory authority and responsibility of the 
+Headquarters, Marine Corps.
 
     (a) The Headquarters, Marine Corps, shall furnish professional 
 assistance to the Secretary, the Under Secretary and the Assistant 
@@ -1908,7 +1910,6 @@ Corps personnel and the prestige of a career in the Marine Corps.
 
 <R04>
 Subpart F_The United States Coast Guard (When Operating as a Service in 
-
                                 the Navy)
 
 
@@ -2190,7 +2191,6 @@ the internal regulations and routine of that command or activity.
 
 <R05>
 Sec. 700.722  Administration and discipline: Staff unassigned to an 
-
 administrative command.
 
     (a) When it is not practicable to assign enlisted persons serving 
@@ -2206,7 +2206,8 @@ authorization from the Secretary of the Navy.
 
 
 <R05>
-Sec. 700.723  Administration and discipline: Separate and detached command.
+Sec. 700.723  Administration and discipline: Separate and detached 
+command.
 
     Any flag or general officer in command, any officer authorized to 
 convene general courts-martial, or the senior officer present may 
@@ -2412,9 +2413,8 @@ are maintained properly by those responsible therefor.
 
 
 <R05>
-Sec. 700.822  Delivery of personnel to civil authorities and service of 
-
-subpoena or other process.
+Sec. 700.822  Delivery of personnel to civil authorities and service 
+of subpoena or other process.
 
     (a) Commanding officers or other persons in authority shall not 
 deliver any person in the naval service to civil authorities except as 
@@ -2497,11 +2497,11 @@ command.
 
 
 <R05>
-Sec. 700.835  Work, facilities, supplies, or services for other Government 
+Sec. 700.835  Work, facilities, supplies, or services for other 
+Government departments, State or local governments, foreign 
 
-departments, State or local governments, foreign governments, private parties 
-
-and morale, welfare, and recreational activities.
+governments, private parties and morale, welfare, and recreational 
+activities.
 
     (a) Work may be done for or on facilities, supplies, or services 
 furnished to departments and agencies of the Federal and State 
@@ -2650,9 +2650,8 @@ command.
 
 
 <R05>
-Sec. 700.847  Responsibility of a master of an in-service ship of the Military 
-
-Sealift Command.
+Sec. 700.847  Responsibility of a master of an in-service ship of the 
+Military Sealift Command.
 
     (a) In an in-service ship of the Military Sealift Command, the 
 master's responsibility is absolute, except when, and to the extent, 
@@ -2739,9 +2738,8 @@ drydock.
 
 
 <R05>
-Sec. 700.857  Safe navigation and regulations governing operation of ships and 
-
-aircraft.
+Sec. 700.857  Safe navigation and regulations governing operation of 
+ships and aircraft.
 
     (a) The commanding officer is responsible for the safe navigation of 
 his or her ship or aircraft, except as prescribed otherwise in these 
@@ -2856,9 +2854,8 @@ performance of her assigned duty.
 
 
 <R05>
-Sec. 700.871  Responsibility for safety of ships and craft at a naval station 
-
-or shipyard.
+Sec. 700.871  Responsibility for safety of ships and craft at a naval
+station or shipyard.
 
     (a) The commanding officer of a naval station or shipyard shall be 
 responsible for the care and safety of all ships and craft at such 
@@ -3402,9 +3399,8 @@ opinion of approval or disapproval of any commercial product or process.
 
 
 <R05>
-Sec. 700.1120  Personal privacy and rights of individuals regarding their 
-
-personal records.
+Sec. 700.1120  Personal privacy and rights of individuals regarding 
+their personal records.
 
     (a) Except as specifically provided in this section, maintenance of 
 personal records of individuals, and the release of those records, shall 
@@ -3419,7 +3415,8 @@ the Secretary of the Navy.
 
 
 <R05>
-Sec. 700.1121  Disclosure, publication and security of official information.
+Sec. 700.1121  Disclosure, publication and security of official
+information.
 
     (a) No person in the Department of the Navy shall convey or disclose 
 by oral or written communications, publication, graphic (including 
@@ -3525,9 +3522,8 @@ Department of Justice, or with special written authorization.
 
 
 <R05>
-Sec. 700.1138  Responsibilities concerning marijuana, narcotics, and other 
-
-controlled substances.
+Sec. 700.1138  Responsibilities concerning marijuana, narcotics, and 
+other controlled substances.
 
     (a) All personnel shall endeavor to prevent and eliminate the 
 unauthorized use of marijuana, narcotics and other controlled substances 
@@ -3633,9 +3629,10 @@ discipline, or mission accomplishment.
 
 
 <R03>
-PART 701_AVAILABILITY OF DEPARTMENT OF THE NAVY RECORDS AND PUBLICATION OF 
+PART 701_AVAILABILITY OF DEPARTMENT OF THE NAVY RECORDS AND PUBLICATION
+OF DEPARTMENT OF THE NAVY DOCUMENTS AFFECTING THE PUBLIC--Table of 
 
-DEPARTMENT OF THE NAVY DOCUMENTS AFFECTING THE PUBLIC--Table of Contents
+Contents
 
 
 
@@ -3775,7 +3772,6 @@ Subpart E_Indexing, Public Inspection, and Federal Register Publication
 
 <R04>
    Subpart A_Department of the Navy Freedom of Information Act (FOIA) 
-
                                  Program
 
 
@@ -6623,7 +6619,8 @@ easy access).
 
 
 <R05>
-Sec. 701.59  A brief explanation of the meaning and scope of the nine FOIA exemptions.
+Sec. 701.59  A brief explanation of the meaning and scope of the nine
+FOIA exemptions.
 
     (a) 5 U.S.C. 552 (b)(1): Those properly and currently classified in 
 the interest of national defense or foreign policy, as specifically 
@@ -7034,9 +7031,7 @@ information and data (including maps) concerning wells.
 
 <R04>
 Subpart E_Indexing, Public Inspection, and Federal Register Publication 
-
  of Department of the Navy Directives and Other Documents Affecting the 
-
                                  Public
 
     Source: 65 FR 24635, Apr. 27, 2000, unless otherwise noted.
@@ -7108,9 +7103,8 @@ directly affect the public.
 
 
 <R05>
-Sec. 701.64  Publication of adopted regulatory documents for the guidance of 
-
-the public.
+Sec. 701.64  Publication of adopted regulatory documents for the 
+guidance of the public.
 
     (a) Classes of documents to be published. Subject to the provisions 
 of 5 U.S.C. 552(b) which exempt specified matters from requirements for 
@@ -7176,9 +7170,8 @@ documents contemplated in Sec. 701.65.
 
 
 <R05>
-Sec. 701.65  Availability, public inspection, and indexing of other documents 
-
-affecting the public.
+Sec. 701.65  Availability, public inspection, and indexing of other 
+documents affecting the public.
 
     (a) Discussion. Section 552(a) of title 5, United States Code, 
 requires the Department of the Navy to make available for public 
@@ -7420,9 +7413,8 @@ the guidance of the public, if required under Sec. 701.64(b).
 
 
 <R05>
-Sec. 701.67  Petitions for issuance, revision, or cancellation of regulations 
-
-affecting the public.
+Sec. 701.67  Petitions for issuance, revision, or cancellation of 
+regulations affecting the public.
 
     In accordance with the provisions of 32 CFR part 336, the Department 
 of the Navy shall accord any interested person the right to petition in 
@@ -9416,7 +9408,6 @@ what may be posted on a Navy Web site.
 
 <R05>
 Sec. 701.120  Processing requests that cite or imply PA, Freedom of 
-
 Information (FOIA), or PA/FOIA.
 
     Individuals do not always know what Act(s) to cite when requesting 
@@ -10821,7 +10812,8 @@ Sec. 705.3  [Reserved]
 
 
 <R05>
-Sec. 705.4  Communication directly with private organizations and individuals.
+Sec. 705.4  Communication directly with private organizations and 
+individuals.
 
     (a) Questions from the public and requests from groups or 
 individuals for pamphlets, photos, biographies, historical matter, etc., 
@@ -10853,9 +10845,8 @@ Administration, Washington, DC 20408.
 
 
 <R05>
-Sec. 705.5  Taking of photos on board naval ships, aircraft and installations 
-
-by members of the general public.
+Sec. 705.5  Taking of photos on board naval ships, aircraft and 
+installations by members of the general public.
 
     (a) Visitors will not be allowed to take photographic equipment on 
 board a naval ship or aircraft or into a naval activity or to take 
@@ -11245,9 +11236,8 @@ forwarded with this unprocessed photography.
 
 
 <R05>
-Sec. 705.11  Supplying photographs and services to other than Navy and Marine 
-
-Corps.
+Sec. 705.11  Supplying photographs and services to other than Navy and
+Marine Corps.
 
     (a) To avoid competition with civilian photographic organizations, 
 naval aircraft will not be used to take photographs for, nor will 
@@ -11459,9 +11449,8 @@ misleading statements.
 
 
 <R05>
-Sec. 705.15  Employment of Navy personnel as correspondents or staff members 
-
-of civilian news media.
+Sec. 705.15  Employment of Navy personnel as correspondents or staff
+members of civilian news media.
 
     (a) A member of the naval service on active duty or Navy civilian 
 may act as correspondent for a news periodical or service, radio or TV 
@@ -12853,9 +12842,8 @@ or 695-9900.
 
 
 <R05>
-Sec. 705.33  Participation by Armed Forces bands, choral groups, and troops in 
-
-the public domain.
+Sec. 705.33  Participation by Armed Forces bands, choral groups, and
+troops in the public domain.
 
     (a) Military musical participation in public events which otherwise 
 meet the criteria outlined herein will be limited to patriotic programs 
@@ -13145,8 +13133,7 @@ appropriateness.
 
 
 <R05>
-Sec. 705.36  Government transportation of civilians for public affairs 
-
+Sec. 705.36  Government transportation of civilians for public affairs
 purposes.
 
     (a) General policy. (1) Regulations on transportation of civilians 
@@ -13520,11 +13507,12 @@ associated in a commercial or governmental business capacity.
 <R03>
                          SUBCHAPTER B_NAVIGATION
 
+<R05>
+
 
 <R03>
-PART 706_CERTIFICATIONS AND EXEMPTIONS UNDER THE INTERNATIONAL REGULATIONS FOR 
-
-PREVENTING COLLISIONS AT SEA, 1972--Table of Contents
+PART 706_CERTIFICATIONS AND EXEMPTIONS UNDER THE INTERNATIONAL 
+REGULATIONS FOR PREVENTING COLLISIONS AT SEA, 1972--Table of Contents
 
 
 
@@ -13597,9 +13585,8 @@ the International Regulations for Preventing Collisions at Sea, 1972.
 
 
 <R05>
-Sec. 706.2  Certifications of the Secretary of the Navy under Executive Order 
-
-11964 and 33 U.S.C. 1605.
+Sec. 706.2  Certifications of the Secretary of the Navy under Executive
+Order 11964 and 33 U.S.C. 1605.
 
     The Secretary of the Navy hereby finds and certifies that each 
 vessel listed in this section is a naval vessel of special construction 
@@ -13666,6 +13653,7 @@ USS RODNEY M. DAVIS.............................      FFG 60         1.6
 USS INGRAHAM....................................      FFG 61        1.37
 USS FREEDOM.....................................       LCS 1        5.99
 USS INDEPENDENCE................................       LCS 2        4.91
+USS FORT WORTH..................................       LCS 3       5.965
 USS OGDEN.......................................       LPD 5        4.15
 USS DULUTH......................................       LPD 6         4.4
 USS DUBUQUE.....................................       LPD 8         4.2
@@ -13725,11 +13713,11 @@ USS ALEXANDRIA..................................     SSN 757         3.5
 USS ASHEVILLE...................................     SSN 758         3.5
 USS JEFFERSON CITY..............................     SSN 759         3.4
 USS ANNAPOLIS...................................     SSN 760         3.5
-USS SPRINGFIELD.................................     SSN 761         3.5
 
 [[Page 177]]
 
  
+USS SPRINGFIELD.................................     SSN 761         3.5
 USS COLUMBUS....................................     SSN 762         3.5
 USS SANTA FE....................................     SSN 763         3.5
 USS BOISE.......................................     SSN 764         3.5
@@ -13750,6 +13738,7 @@ USS NEW HAMPSHIRE...............................     SSN 778        2.90
 USS NEW MEXICO..................................     SSN 779        2.76
 USS MISSOURI....................................     SSN 780        2.76
 USS CALIFORNIA..................................     SSN 781        2.76
+USS MISSISSIPPI.................................     SSN 782        2.76
 USS HENRY M. JACKSON............................    SSBN 730        3.70
 USS ALABAMA.....................................    SSBN 731        3.70
 USS ALASKA......................................    SSBN 732        3.70
@@ -13787,8 +13776,8 @@ USS GEORGIA.....................................    SSGN 729        3.70
                                                                                                    distance      below      anchor     flight dk    light,       below      forward   inboard of
                               Vessel                                           Number             to stbd of   flight dk    light,    in meters;  number of;   flight dk   masthead     ship's
                                                                                                     keel in   in meters;  number of;     Rule        Rule     in meters;   light in    sides in
-                                                                                                    meters;      Sec.       Rule       21(e),     30(a)(ii)     Sec.      meters;     meters;
-                                                                                                  Rule 21(a)     2(K),     30(a)(i)      Rule                    2(g),       Sec.       Sec.
+                                                                                                    meters;      Sec. Rule       21(e),     30(a)(ii)     Sec. meters;     meters;
+                                                                                                  Rule 21(a)     2(K),     30(a)(i)      Rule                    2(g),       Sec. Sec.
                                                                                                                 Annex I                30(a)(ii)                Annex I      3(b),       3(b),
                                                                                                                   \6\                     \6\                               Annex I     Annex I
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -13844,6 +13833,7 @@ USS DALLAS........................................................              
 USS SAN FRANCISCO.................................................                       SSN 711        0.41  ..........  ..........  ..........  ..........  ..........  ..........  ..........
 USS NORFOLK.......................................................                       SSN 714        0.41  ..........  ..........  ..........  ..........  ..........  ..........  ..........
 USS PROVIDENCE....................................................                       SSN 719        0.41           X           X           X           X           X           X           X
+USS PITTSBURGH....................................................                       SSN 720        0.41  ..........  ..........  ..........  ..........  ..........  ..........  ..........
 USS CHICAGO.......................................................                       SSN 721        0.41  ..........  ..........  ..........  ..........  ..........  ..........  ..........
 USS KEY WEST......................................................                       SSN 722        0.41  ..........  ..........  ..........  ..........  ..........  ..........  ..........
 USS OKLAHOMA CITY.................................................                       SSN 723        0.41  ..........  ..........  ..........  ..........  ..........  ..........  ..........
@@ -13883,7 +13873,10 @@ USS NEW ORLEANS.........................  LPD 18                    ........... 
 USS MESA VERDE..........................  LPD 19                    ...........  ...........  ...........  .........  .........  .........   1.42 below
 USS GREEN BAY...........................  LPD 20                    ...........  ...........  ...........  .........  .........  .........   1.29 below
 USS NEW YORK............................  LPD 21                    ...........  ...........  ...........  .........  .........  .........   1.75 below
-USS SAN DIEGO...........................  LPD 22                    ...........  ...........  ...........  .........  .........  .........  1.88 below.
+USS SAN DIEGO...........................  LPD 22                    ...........  ...........  ...........  .........  .........  .........   1.88 below
+USS ANCHORAGE...........................  LPD 23                    ...........  ...........  ...........  .........  .........  .........   1.19 below
+USS ARLINGTON...........................  LPD 24                    ...........  ...........  ...........  .........  .........  .........   1.62 below
+USS ASHLAND.............................  LSD 48                    ...........  ...........  ...........  .........  .........  .........   2.60 below
 USS CYCLONE.............................  PC 1                      ...........  ...........  ...........  .........   \1\ 25.5        3.0          1.0
 USS TEMPEST.............................  PC 2                           (\2\)   ...........  ...........  .........   \1\ 28.3        3.0    1.1 below
 USS HURRICANE...........................  PC 3                           (\2\)   ...........  ...........  .........   \1\ 28.5        3.0    1.1 below
@@ -13900,7 +13893,7 @@ USS TORNADO.............................  PC 14                     ........... 
 USS DOLPHIN.............................  AGSS 555                  227.5\1/2\     119\1/2\     191\1/2\         2.1       10.8        1.8    0.5 above
 NR-1....................................  NR 1                      238.5\1/2\     114[deg]   136.5[deg]         1.5        4.1        2.1
 USS SEAWOLF.............................  SSN 21                      225[deg]   111.5[deg]     205[deg]         5.1       10.7        2.8    1.8 below
-USS CONNECTICUT.........................  SSN 22                      232[deg]   112.8[deg]     207[deg]         5.1       10.7        2.8  1.63 below.
+USS CONNECTICUT.........................  SSN 22                      232[deg]   112.8[deg]     207[deg]         5.1       10.7        2.8   1.63 below
 USS JIMMY CARTER........................  SSN 23                    ...........  ...........    211[deg]        5.12       10.7        2.8   1.63 below
 USS KAMEHAMEHA..........................  SSN 642                     236[deg]     117[deg]     252[deg]         3.8        7.6        2.1  same height
 USS PARCHE..............................  SSN 683                     232[deg]   112.5[deg]     209[deg]         4.1        6.8        2.2    0.2 below
@@ -13968,6 +13961,7 @@ USS NEW HAMPSHIRE.......................  SSN 778                   ........... 
 USS NEW MEXICO..........................  SSN 779                   ...........  ...........  206.4[deg]        4.37      11.05        2.8   0.30 below
 USS MISSOURI............................  SSN 780                   ...........  ...........  210.5[deg]        4.37      11.05        2.8   0.30 below
 USS CALIFORNIA..........................  SSN 781                   ...........  ...........  205.1[deg]        4.37      11.05        2.8   0.30 below
+USS MISSISSIPPI.........................  SSN 782                   ...........  ...........  209.0[deg]        4.37      11.05        2.8   0.30 below
 USS HENRY M. JACKSON....................  SSBN 730                  ...........  ...........    209[deg]         5.3        9.0        3.8    4.0 below
 USS ALABAMA.............................  SSBN 731                  ...........  ...........    209[deg]         5.3        9.0        3.8    4.0 below
 USS ALASKA..............................  SSBN 732                  ...........  ...........    209[deg]         5.3        9.0        3.8    4.0 below
@@ -13998,11 +13992,12 @@ SHABONEE................................  YTB 833                   ........... 
 YTB 835.................................  YTB 835                   ...........  ...........  ...........       3.00      14.02  .........  ............
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 \1\ Only when towing
-\2\ Lower forward masthead light (used for towing) is partially blocked at angles plus or minus 8.5 degrees off centerline; this light is used only when
-  tow exceeds 200 meters from the stern of the ship to aft end of tow.
-
 
 [[Page 182]]
+
+ 
+\2\ Lower forward masthead light (used for towing) is partially blocked at angles plus or minus 8.5 degrees off centerline; this light is used only when
+  tow exceeds 200 meters from the stern of the ship to aft end of tow.
 
                                Table Four
 
@@ -14112,6 +14107,10 @@ USS SIDES.............................  FFG 14                     2.75
 USS ESTOCIN...........................  FFG 15                     2.75
 USS JOHN A. MOORE.....................  FFG 19                     2.75
 USS BOONE.............................  FFG 28                     2.75
+
+[[Page 183]]
+
+ 
 USS STEPHEN W. GROVES.................  FFG 29                     2.75
 USS JOHN L. HALL......................  FFG 32                     2.75
 USS JARRETT...........................  FFG 33                     2.69
@@ -14125,10 +14124,6 @@ USS KLAKRING..........................  FFG 42                     2.75
 USS THACH.............................  FFG 43                     2.75
 USS DEWERT............................  FFG 45                     2.75
 USS RENTZ.............................  FFG 46                     2.75
-
-[[Page 183]]
-
- 
 USS NICHOLAS..........................  FFG 47                     2.75
 USS VANDEGRIFT........................  FFG 48                     2.75
 USS ROBERT G. BRADLEY.................  FFG 49                     2.75
@@ -14222,77 +14217,78 @@ do not comply with Annex I, section 3(c).
                                                            distance from
                                                            the fore and
                                                           aft centerline
-                Vessel                       Number        of the vessel
+               Vessel                       Number         of the vessel
                                                               in the
                                                             athwartship
                                                              direction
 ------------------------------------------------------------------------
-USS ARLEIGH BURKE....................  DDG 51...........     1.85 meters
-USS BARRY............................  DDG 52...........     1.94 meters
-USS JOHN PAUL JONES..................  DDG 53...........     1.89 meters
-USS CURTIS WILBUR....................  DDG 54...........     1.90 meters
-USS STOUT............................  DDG 55...........     1.90 meters
-USS JOHN S. MCCAIN...................  DDG 56...........     1.88 meters
-USS MITSCHER.........................  DDG 57...........     1.93 meters
-USS LABOON...........................  DDG 58...........     1.90 meters
-USS RUSSELL..........................  DDG 59...........     1.91 meters
-USS PAUL HAMILTON....................  DDG 60...........     1.88 meters
-USS RAMAGE...........................  DDG 61...........     1.91 meters
-USS FITZGERALD.......................  DDG 62...........     1.90 meters
-USS STETHEM..........................  DDG 63...........     1.91 meters
-USS CARNEY...........................  DDG 64...........     1.90 meters
-USS BENFOLD..........................  DDG 65...........     1.90 meters
-USS GONZALES.........................  DDG 66...........     1.90 meters
-USS COLE.............................  DDG 67...........     1.90 meters
-USS THE SULLIVANS....................  DDG 68...........     1.87 meters
-USS MILIUS...........................  DDG 69...........     1.93 meters
-USS HOPPER...........................  DDG 70...........     1.83 meters
-USS ROSS.............................  DDG 71...........     1.96 meters
-USS MAHAN............................  DDG 72...........     1.90 meters
-USS DECATUR..........................  DDG 73...........     1.87 meters
-USS MCFAUL...........................  DDG 74...........     1.91 meters
-USS DONALD COOK......................  DDG 75...........     1.90 meters
-USS HIGGINS..........................  DDG 76...........     1.92 meters
-USS O'KANE...........................  DDG 77...........     1.92 meters
+USS ARLEIGH BURKE...................  DDG 51............     1.85 meters
+USS BARRY...........................  DDG 52............     1.94 meters
+USS JOHN PAUL JONES.................  DDG 53............     1.89 meters
+USS CURTIS WILBUR...................  DDG 54............     1.90 meters
+USS STOUT...........................  DDG 55............     1.90 meters
+USS JOHN S. MCCAIN..................  DDG 56............     1.88 meters
+USS MITSCHER........................  DDG 57............     1.93 meters
+USS LABOON..........................  DDG 58............     1.90 meters
+USS RUSSELL.........................  DDG 59............     1.91 meters
+USS PAUL HAMILTON...................  DDG 60............     1.88 meters
+USS RAMAGE..........................  DDG 61............     1.91 meters
+USS FITZGERALD......................  DDG 62............     1.90 meters
+USS STETHEM.........................  DDG 63............     1.91 meters
+USS CARNEY..........................  DDG 64............     1.90 meters
+USS BENFOLD.........................  DDG 65............     1.90 meters
 
 [[Page 184]]
 
  
-USS PORTER...........................  DDG 78...........     1.92 meters
-USS OSCAR AUSTIN.....................  DDG 79...........     1.89 meters
-USS ROOSEVELT........................  DDG 80...........     1.90 meters
-USS WINSTON S. CHURCHILL.............  DDG 81...........     1.87 meters
-USS HOWARD...........................  DDG 83...........     1.88 meters
-USS LASSEN...........................  DDG 82...........     1.93 meters
-USS BULKELEY.........................  DDG 84...........     1.90 meters
-USS MCCAMPBELL.......................  DDG 85...........     1.85 meters
-USS SHOUP............................  DDG 86...........     1.90 meters
-USS MASON............................  DDG 87...........     1.87 meters
-USS PREBLE...........................  DDG 88...........     1.93 meters
-USS MUSTIN...........................  DDG 89...........     1.93 meters
-USS CHAFEE...........................  DDG 90...........     1.90 meters
-USS PINCKNEY.........................  DDG 91...........     1.87 meters
-USS MOMSEN...........................  DDG 92...........     1.88 meters
-USS CHUNG-HOON.......................  DDG 93...........     1.95 meters
-USS NITZE............................  DDG 94...........     1.90 meters
-USS JAMES E. WILLIAMS................  DDG 95...........     1.89 meters
-USS BAINBRIDGE.......................  DDG 96...........     1.90 meters
-USS HALSEY...........................  DDG 97...........     1.93 meters
-USS FORREST SHERMAN..................  DDG 98...........     1.87 meters
-USS FARRAGUT.........................  DDG 99...........     1.84 meters
-USS KIDD.............................  DDG 100..........     1.89 meters
-USS GRIDLEY..........................  DDG 101..........     1.86 meters
-USS SAMPSON..........................  DDG 102..........     1.88 meters
-USS TRUXTUN..........................  DDG 103..........     1.86 meters
-USS STERETT..........................  DDG 104..........     1.88 meters
-USS DEWEY............................  DDG 105..........     1.85 meters
-USS STOCKDALE........................  DDG 106..........     1.90 meters
-USS GRAVELY..........................  DDG 107..........     1.83 meters
-USS WAYNE E. MEYER...................  DDG 108..........     1.84 meters
-USS JASON DUNHAM.....................  DDG 109..........     1.89 meters
-USS WILLIAM P. LAWRENCE..............  DDG 110..........     1.86 meters
-USS SPRUANCE.........................  DDG 111..........     1.90 meters
-USS INDEPENDENCE.....................  LCS 2............     1.31 meters
+USS GONZALES........................  DDG 66............     1.90 meters
+USS COLE............................  DDG 67............     1.90 meters
+USS THE SULLIVANS...................  DDG 68............     1.87 meters
+USS MILIUS..........................  DDG 69............     1.93 meters
+USS HOPPER..........................  DDG 70............     1.83 meters
+USS ROSS............................  DDG 71............     1.96 meters
+USS MAHAN...........................  DDG 72............     1.90 meters
+USS DECATUR.........................  DDG 73............     1.87 meters
+USS MCFAUL..........................  DDG 74............     1.91 meters
+USS DONALD COOK.....................  DDG 75............     1.90 meters
+USS HIGGINS.........................  DDG 76............     1.92 meters
+USS O'KANE..........................  DDG 77............     1.92 meters
+USS PORTER..........................  DDG 78............     1.92 meters
+USS OSCAR AUSTIN....................  DDG 79............     1.89 meters
+USS ROOSEVELT.......................  DDG 80............     1.90 meters
+USS WINSTON S. CHURCHILL............  DDG 81............     1.87 meters
+USS HOWARD..........................  DDG 83............     1.88 meters
+USS LASSEN..........................  DDG 82............     1.93 meters
+USS BULKELEY........................  DDG 84............     1.90 meters
+USS MCCAMPBELL......................  DDG 85............     1.85 meters
+USS SHOUP...........................  DDG 86............     1.90 meters
+USS MASON...........................  DDG 87............     1.87 meters
+USS PREBLE..........................  DDG 88............     1.93 meters
+USS MUSTIN..........................  DDG 89............     1.93 meters
+USS CHAFEE..........................  DDG 90............     1.90 meters
+USS PINCKNEY........................  DDG 91............     1.87 meters
+USS MOMSEN..........................  DDG 92............     1.88 meters
+USS CHUNG-HOON......................  DDG 93............     1.95 meters
+USS NITZE...........................  DDG 94............     1.90 meters
+USS JAMES E. WILLIAMS...............  DDG 95............     1.89 meters
+USS BAINBRIDGE......................  DDG 96............     1.90 meters
+USS HALSEY..........................  DDG 97............     1.93 meters
+USS FORREST SHERMAN.................  DDG 98............     1.87 meters
+USS FARRAGUT........................  DDG 99............     1.84 meters
+USS KIDD............................  DDG 100...........     1.89 meters
+USS GRIDLEY.........................  DDG 101...........     1.86 meters
+USS SAMPSON.........................  DDG 102...........     1.88 meters
+USS TRUXTUN.........................  DDG 103...........     1.86 meters
+USS STERETT.........................  DDG 104...........     1.88 meters
+USS DEWEY...........................  DDG 105...........     1.85 meters
+USS STOCKDALE.......................  DDG 106...........     1.90 meters
+USS GRAVELY.........................  DDG 107...........     1.83 meters
+USS WAYNE E. MEYER..................  DDG 108...........     1.84 meters
+USS JASON DUNHAM....................  DDG 109...........     1.89 meters
+USS WILLIAM P. LAWRENCE.............  DDG 110...........     1.86 meters
+USS SPRUANCE........................  DDG 111...........     1.90 meters
+USS MICHAEL MURPHY..................  DDG 112...........     1.90 meters
+USS INDEPENDENCE....................  LCS 2.............     1.31 meters
 ------------------------------------------------------------------------
 
     16. On the following ships, the arc of visibility of the forward 
@@ -14361,6 +14357,7 @@ USS WAYNE E. MEYER...........  DDG 108.........  106.71 thru 112.50[deg]
 USS JASON DUNHAM.............  DDG 109.........  107.09 thru 112.50[deg]
 USS WILLIAM P. LAWRENCE......  DDG 110.........  107.86 thru 112.50[deg]
 USS SPRUANCE.................  DDG 111.........  107.48 thru 112.50[deg]
+USS MICHAEL MURPHY...........  DDG 112.........  109.60 thru 112.50[deg]
 USS INDEPENDENCE.............  LCS 2...........  71 thru 73[deg]
                                                  76 thru 78[deg]
                                                  287 thru 289[deg]
@@ -14434,6 +14431,8 @@ USS MESA VERDE.................  LPD 19                              10
 USS GREEN BAY..................  LPD 20                              10
 USS NEW YORK...................  LPD 21                              10
 USS SAN DIEGO..................  LPD 22                              10
+USS ANCHORAGE..................  LPD 23                              10
+USS ARLINGTON..................  LPD 24                              10
 ------------------------------------------------------------------------
 
     21. On the following ships, the forward towing light array and 
@@ -14475,28 +14474,30 @@ I, 2(i)(iii).
                                                         the upper and
                                                        middle light by
 ------------------------------------------------------------------------
-USS FREEDOM....................  LCS 1.............  0.39 meter.
+USS FREEDOM....................  LCS 1.............  0.39 meter
+USS FORT WORTH.................  LCS 3.............  0.41 meter
 ------------------------------------------------------------------------
 
     23. On the following ships the verticality of the restricted 
 maneuvering light array do not meet verticality requirements described 
 in Rule 27(b)(i).
 
-------------------------------------------------------------------------
-                                                  Verticality of lights,
-                                                     when viewed from
-                                                     directly port or
-                                                   starboard, the lower
-            Vessel                  Number         task light is out of
-                                                    alignment with the
-                                                  upper and middle task
-                                                   light in meters by:
-------------------------------------------------------------------------
-USV..........................  11MUCO601,        0.85
-                                11MUCO602,
-                                11MUC0603,
-                                11MUC0604.
-------------------------------------------------------------------------
+----------------------------------------------------------------------------------------------------------------
+                                                                 Verticality of lights,   Verticality of lights,
+                                                                  when viewed directly     when viewed directly
+                                                                    from the port or      from the bow or stern,
+                                                                  starboard, the lower   the lower task light is
+                Vessel                          Number            task light is out of    with out of alignment
+                                                                   alignment with the      the upper and middle
+                                                                 upper and middle task     task light in meters
+                                                                  light in meters by:              by:
+----------------------------------------------------------------------------------------------------------------
+USV..................................  11MUCO601..............                     0.85  .......................
+                                       11MUCO602..............                     0.85  .......................
+                                       11MUCO603..............                     0.85  .......................
+                                       11MUCO604..............                     0.85  .......................
+USS FORT WORTH.......................  LCS 3..................  .......................                     0.21
+----------------------------------------------------------------------------------------------------------------
 
     24. On the following ships the vertical separation of the Restricted 
 Maneuvering Light Array lights do not meet requirements described in 
@@ -14544,19 +14545,19 @@ USS MOBILE BAY.................   CG 53            .............   X            
 USS ANTIETAM...................   CG 54            .............   X                X                36.8
 USS LEYTE GULF.................   CG 55            .............   X                X                38
 USS SAN JACINTO................   CG 56            .............   X                X                38
-USS LAKE CHAMPLAIN.............   CG 57            .............   X                X                38
+USS LAKE CHAMPLAIN.............   CG 57            .............   X                X                36.9
 USS PHILIPPINE SEA.............   CG 58            .............   X                X                36.8
 USS PRINCETON..................   CG 59            .............   X                X                38
+
+[[Page 187]]
+
+ 
 USS NORMANDY...................   CG 60            .............   X                X                38
 USS MONTEREY...................   CG 61            .............   X                X                38
 USS CHANCELLORSVILLE...........   CG 62            .............   X                X                38
 USS COWPENS....................   CG 63            .............   X                X                38
 USS GETTYSBURG.................   CG 64            .............   X                X                38
 USS CHOSIN.....................   CG 65            .............   X                X                38
-
-[[Page 187]]
-
- 
 USS HUE CITY...................   CG 66            .............   X                X                38
 USS SHILOH.....................   CG 67            .............   X                X                38
 USS ANZIO......................   CG 68            .............   X                X                38
@@ -14616,16 +14617,16 @@ USS RAMAGE.....................   DDG 61                      X    X            
 USS FITZGERALD.................   DDG 62                      X    X                X                21.2
 USS STETHEM....................   DDG 63                      X    X                X                20.9
 USS CARNEY.....................   DDG 64           .............   X                X                14.4
+
+[[Page 188]]
+
+ 
 USS BENFOLD....................   DDG 65                      X    X                X                14.8
 USS GONZALES...................   DDG 66                      X    X                X                20.4
 USS COLE.......................   DDG 67                      X    X                X                14.0
 USS The SULLIVANS..............   DDG 68           .............   X                X                21.2
 USS MILIUS.....................   DDG 69           .............   X                X                14.7
 USS HOPPER.....................   DDG 70                      X    X                X                20.4
-
-[[Page 188]]
-
- 
 USS ROSS.......................   DDG 71                      X    X                X                20.6
 USS MAHAN......................   DDG 72                      X    X                X                13.9
 USS DECATUR....................   DDG 73                    N/A    X                X                15.0
@@ -14667,10 +14668,12 @@ USS WAYNE E. MEYER.............   DDG 108                     X    X            
 USS JASON DUNHAM...............   DDG 109                     X    X                X                14.5
 USS WILLIAM P. LAWRENCE........   DDG 110                     X    X                X                14.7
 USS SPRUANCE...................   DDG 111                     X    X                X                14.9
+USS MICHAEL MURPHY.............   DDG 112                     X    X                X                14.5
 USS BLUE RIDGE.................   LCC 19                    N/A    N/A              X                84
 USS MOUNT WHITNEY..............   LCC 20           .............  ...............   X                84
 USS FREEDOM....................   LCS 1            .............   X                X                23
 USS INDEPENDENCE...............   LCS 2            .............   X                X                18.8
+USS FORT WORTH.................   LCS 3            .............   X                X                23
 USS TARAWA.....................   LHA 1            .............   X                X                13
 USS SAIPAN.....................   LHA 2            .............   X                X                10.2
 USS BELLEAU WOOD...............   LHA 3            .............   X                X                13
@@ -14683,6 +14686,10 @@ USS BOXER......................   LHD 4            .............   X            
 USS BATAAN.....................   LHD 5            .............   X                X                39.7
 USS BONHOMME RICHARD...........   LHD 6            .............   X                X                39.8
 USS IWO JIMA...................   LHD 7            .............   X                X                41.5
+
+[[Page 189]]
+
+ 
 USS MAKIN ISLAND...............   LHD 8            .............   X                X                40.9
 USS AUSTIN.....................   LPD 4            .............  ...............   X                37
 USS OGDEN......................   LPD 5                     N/A    N/A              X                56.6
@@ -14691,10 +14698,6 @@ USS CLEVELAND..................   LPD 7            .............  ..............
 USS DUBUQUE....................   LPD 8            .............  ...............   X                57
 USS DENVER.....................   LPD 9                     N/A    N/A              X                54.7
 USS JUNEAU.....................   LPD 10                    N/A    N/A              X                54.8
-
-[[Page 189]]
-
- 
 USS SHREVEPORT.................   LPD 12           .............  ...............   X                49
 USS NASHVILLE..................   LPD 13           .............   N/A              X                54.7
 USS TRENTON....................   LPD 14           .............  ...............   X                41
@@ -14705,6 +14708,8 @@ USS MESA VERDE.................   LPD 19           .............  ..............
 USS GREENBAY...................   LPD 20           .............  ...............   X                70.9
 USS NEW YORK...................   LPD 21           .............  ...............   X                71.0
 USS SAN DIEGO..................   LPD 22           .............  ...............   X                71
+USS ANCHORAGE..................   LPD 23           .............  ...............   X                71
+USS ARLINGTON..................   LPD 24           .............  ...............   X                71
 USS TRIPOLI....................   LPH 10           .............   X                X                12
 USS ANCHORAGE..................   LSD 36           .............  ...............   X                46
 USS PORTLAND...................   LSD 37           .............  ...............   X                46
@@ -14716,7 +14721,7 @@ USS GUNSTON HALL...............   LSD 44           .............  ..............
 USS COMSTOCK...................   LSD 46           .............  ...............   X                64
 USS TORTUGA....................   LSD 46           .............  ...............   X                64
 USS RUSHMORE...................   LSD 47           .............  ...............   X                64
-USS ASHLAND....................   LSD 48           .............  ...............   X                64.1
+USS ASHLAND....................   LSD 48           .............  ...............   X                63.6
 USS HARPERS FERRY..............   LSD 49           .............  ...............   X                63.9
 USS CARTER HALL................   LSD 50           .............  ...............   X                63.9
 USS OAK HILL...................   LSD 51           .............  ...............   X                63.9
@@ -14752,25 +14757,22 @@ USNS KILAUEA...................   T-AE 26          .............  ..............
 706.2, see the List of CFR Sections Affected, which appears in the 
 Finding Aids section of the printed volume and at www.fdsys.gov.
 
+[[Page 190]]
+
 
 <R05>
-Sec. 706.3  Exemptions by the Secretary of the Navy under Executive Order 
-
-11964.
+Sec. 706.3  Exemptions by the Secretary of the Navy under Executive Order 11964.
 
     The Secretary of the Navy hereby exempts, in accordance with Rule 38 
 of the International Regulations for Preventing Collisions at Sea, 1972, 
 the vessels and classes of vessels listed in this section, from full 
 compliance with the Regulations, where an exemption is allowed by, and 
-for the periods specified
-
-[[Page 190]]
-
-in, Rule 38. The Secretary of the Navy further finds that the vessels 
-and classes of vessels listed have had their keels laid or are in 
-corresponding stages of construction before July 15, 1977, and that such 
-vessels and classes of vessels comply with the requirements of the 
-International Regulations for Preventing Collisions at Sea, 1960.
+for the periods specified in, Rule 38. The Secretary of the Navy further 
+finds that the vessels and classes of vessels listed have had their 
+keels laid or are in corresponding stages of construction before July 
+15, 1977, and that such vessels and classes of vessels comply with the 
+requirements of the International Regulations for Preventing Collisions 
+at Sea, 1960.
 
                                 Table One
  [The following vessels and classes of vessels, less than 150 meters in
@@ -14805,9 +14807,8 @@ FR 22506, May 8, 1995; 65 FR 79742, Dec. 20, 2000]
 
 
 <R03>
-PART 707_SPECIAL RULES WITH RESPECT TO ADDITIONAL STATION AND SIGNAL LIGHTS--
-
-Table of Contents
+PART 707_SPECIAL RULES WITH RESPECT TO ADDITIONAL STATION AND SIGNAL 
+LIGHTS--Table of Contents
 
 
 
@@ -14875,7 +14876,11 @@ Sec. 707.5  Underway replenishment contour lights.
 
     Naval vessels may display, as a means of outlining the contour of 
 the delivery ship during nighttime underway replenishment operations, 
-either red or blue lights at delivery-ship-deck-edge extremities.
+either
+
+[[Page 191]]
+
+red or blue lights at delivery-ship-deck-edge extremities.
 
 [42 FR 61596, Dec. 6, 1977, as amended at 44 FR 27991, May 14, 1979]
 
@@ -14886,8 +14891,6 @@ Sec. 707.6  Minesweeping station keeping lights.
     Naval vessels engaged in minesweeping operations may display, as an 
 aid in maintaining prescribed intervals and bearings, two white lights 
 in a vertical line visible from 070[deg] through 290[deg] relative.
-
-[[Page 191]]
 
 
 <R05>
@@ -14954,6 +14957,8 @@ operations being conducted.
 
 <R03>
                          SUBCHAPTER C_PERSONNEL
+
+<R05>
 
 
 <R03>
@@ -15634,9 +15639,8 @@ FR 22456, Apr. 16, 1979]
 
 
 <R03>
-PART 719_REGULATIONS SUPPLEMENTING THE MANUAL FOR COURTS-MARTIAL--Table of 
-
-Contents
+PART 719_REGULATIONS SUPPLEMENTING THE MANUAL FOR COURTS-MARTIAL--Table
+of Contents
 
 
 
@@ -15828,9 +15832,8 @@ Sec. Sec. 719.113-719.114  [Reserved]
 
 
 <R05>
-Sec. 719.115  Release of information pertaining to accused persons; spectators 
-
-at judicial sessions.
+Sec. 719.115  Release of information pertaining to accused persons; 
+spectators at judicial sessions.
 
     (a) Release of information--(1) General. There are valid reasons for 
 making information available to the public concerning the administration 
@@ -16412,9 +16415,8 @@ under article 69, Uniform Code of Military Justice.
 
 
 <R05>
-Sec. 719.144  Application for relief under 10 U.S.C. 869, in cases which have 
-
-been finally reviewed.
+Sec. 719.144  Application for relief under 10 U.S.C. 869, in cases which
+have been finally reviewed.
 
     (a) Statutory provisions. 10 U.S.C. 869 provides in pertinent part, 
 ``The findings or sentence, or both, in a court-martial case not 
@@ -16514,9 +16516,8 @@ Sec. Sec. 719.145-719.150  [Reserved]
 
 
 <R05>
-Sec. 719.151  Furnishing of advice and counsel to accused placed in pretrial 
-
-confinement.
+Sec. 719.151  Furnishing of advice and counsel to accused placed in 
+pretrial confinement.
 
     The Department of the Navy Corrections Manual, SECNAVINST 1640.9, 
 reiterates the requirement of Article 10, UCMJ, that, when a person is 
@@ -16535,9 +16536,10 @@ available for consultation within 48 hours after the request is made.
 
 
 <R05>
-Sec. 719.155  Application under 10 U.S.C. 874(b) for the substitution of an 
+Sec. 719.155  Application under 10 U.S.C. 874(b) for the substitution 
+of an administrative form of discharge for a punitive discharge or 
 
-administrative form of discharge for a punitive discharge or dismissal.
+dismissal.
 
     (a) Statutory provisions. 10 U.S.C. 874(b) provides that the 
 ``Secretary
@@ -16639,9 +16641,8 @@ cause.
 
 
 <R03>
-PART 720_DELIVERY OF PERSONNEL; SERVICE OF PROCESS AND SUBPOENAS; PRODUCTION 
-
-OF OFFICIAL RECORDS--Table of Contents
+PART 720_DELIVERY OF PERSONNEL; SERVICE OF PROCESS AND SUBPOENAS; 
+PRODUCTION OF OFFICIAL RECORDS--Table of Contents
 
 
 
@@ -16714,9 +16715,8 @@ Sec.
 
 
 <R05>
-Sec. 720.1  Delivery of persons requested by State authorities in criminal 
-
-cases.
+Sec. 720.1  Delivery of persons requested by State authorities in
+criminal cases.
 
     Subpart A of this part deals with requests by State authorities for 
 the surrender of members or civilians pursuant to arrest warrants or 
@@ -16733,9 +16733,8 @@ interests without unduly restricting State jurisdiction.
 
 
 <R05>
-Sec. 720.2  Delivery when persons are within the territorial limits of the 
-
-requesting State.
+Sec. 720.2  Delivery when persons are within the territorial limits of
+the requesting State.
 
     When the delivery of any member or civilian is requested by local 
 civil authorities of a State for an offense punishable under the laws of 
@@ -16768,8 +16767,7 @@ order and discipline.
 
 
 <R05>
-Sec. 720.3  Delivery when persons are beyond territorial limits of the 
-
+Sec. 720.3  Delivery when persons are beyond territorial limits of the
 requesting State.
 
     (a) General. When State civil authorities request delivery of any 
@@ -16867,7 +16865,8 @@ Sec. 720.9.
 
 
 <R05>
-Sec. 720.5  Authority of the Judge Advocate General and the General Counsel.
+Sec. 720.5  Authority of the Judge Advocate General and the General 
+Counsel.
 
     (a) Authority of the Judge Advocate General. The Judge Advocate 
 General,
@@ -17004,9 +17003,8 @@ coordinator.
 
 
 <R05>
-Sec. 720.10  Members released by civil authorities on bail or on their own 
-
-recognizance.
+Sec. 720.10  Members released by civil authorities on bail or on their 
+own recognizance.
 
     A member of the Navy or Marine Corps arrested by Federal or State 
 authorities and released on bail or on his own recognizance has a duty 
@@ -17025,9 +17023,8 @@ recognizance by reason of the member's being in the military service.
 
 
 <R05>
-Sec. 720.11  Interviewing servicemembers or civilian employees by Federal 
-
-civilian investigative agencies.
+Sec. 720.11  Interviewing servicemembers or civilian employees by 
+Federal civilian investigative agencies.
 
     Requests by the Federal Bureau of Investigation, Naval Investigative 
 Service Command, or other Federal civilian investigative agencies to 
@@ -17046,9 +17043,8 @@ present during the interview.
 
 
 <R05>
-Sec. 720.12  Request for delivery of members serving sentence of court-
-
-martial.
+Sec. 720.12  Request for delivery of members serving sentence of 
+court-martial.
 
     (a) General. Article 14, UCMJ (10 U.S.C. 814), provides authority to 
 honor requests for delivery of members serving a sentence of a court-
@@ -17109,8 +17105,7 @@ martial sentence.
 
 
 <R05>
-Sec. 720.13  Request for delivery of members serving sentence of a State 
-
+Sec. 720.13  Request for delivery of members serving sentence of a State
 court.
 
     (a) General. Ordinarily, members serving protracted sentences 
@@ -17372,9 +17367,8 @@ the Associate General Counsel (Litigation), as appropriate.
 
 
 <R05>
-Sec. 720.21  Members or civilian employees subpoenaed as witnesses in State 
-
-courts.
+Sec. 720.21  Members or civilian employees subpoenaed as witnesses in 
+State courts.
 
     Where members or civilian employees are subpoenaed to appear as 
 witnesses in State courts, and are served as described in Sec. Sec. 
@@ -17390,9 +17384,8 @@ contact the Judge Advocate General, or the Associate General Counsel
 
 
 <R05>
-Sec. 720.22  Members or civilian employees subpoenaed as witnesses in Federal 
-
-courts.
+Sec. 720.22  Members or civilian employees subpoenaed as witnesses in 
+Federal courts.
 
     (a) Witnesses on behalf of Federal Government. When members or 
 civilian employees of the Department of the Navy are required to appear 
@@ -17469,9 +17462,8 @@ concerned.
 
 
 <R05>
-Sec. 720.24  Interviews and depositions in connection with civil litigation in 
-
-matters pertaining to official duties.
+Sec. 720.24  Interviews and depositions in connection with civil 
+litigation in matters pertaining to official duties.
 
     Requests to interview, depose, or call as witnesses, current or 
 former members or civilian employees of the Department of the Navy, 
@@ -17613,7 +17605,8 @@ custody of the records may be maintained.
 
 
 <R05>
-Sec. 720.31  Production of official records in the absence of court order.
+Sec. 720.31  Production of official records in the absence of court 
+order.
 
     (a) General. Release of official records outside the Department of 
 the Navy in the absence of a court order is governed by the Privacy Act 
@@ -17683,7 +17676,6 @@ authority of officers of the Department of the Navy.
 
 <R04>
     Subpart D_Compliance With Court Orders by Department of the Navy 
-
     Members, Employees, and Family Members Outside the United States
 
     Authority: DoD Directive 5525.9, 54 FR 296, 32 CFR part 146.
@@ -18011,7 +18003,7 @@ Sec. 720.47  Report.
     The report requirement in this instruction is exempt from reports 
 control by SECNAVINST 5214.2B.
 
-                        PARTS 721-722 [RESERVED]
+                        PARTS 721	722 [RESERVED]
 
 
 <R03>
@@ -18173,9 +18165,8 @@ will be provided to the applicant and counsel.
 
 
 <R05>
-Sec. 723.4  Appearance before the board; notice; counsel; witnesses; access to 
-
-records.
+Sec. 723.4  Appearance before the board; notice; counsel; witnesses;
+access to records.
 
     (a) General. In each case in which the Board determines a hearing is 
 warranted, the applicant will be entitled to appear before the Board 
@@ -18598,7 +18589,7 @@ Sec.
 724.302 Functions: Director, Secretary of the Navy Council of Review 
           Boards.
 724.303 Functions: President, Naval Discharge Review Board.
-724.304 Responsibility for Department of the Navy suppport of the Naval 
+724.304 Responsibility for Department of the Navy support of the Naval 
           Discharge Review Board.
 724.305 Functions of the CMC and CNO.
 724.306 Functions of the Commander, Naval Medical Command.
@@ -18852,7 +18843,7 @@ President's program, and has fully earned his/her return to the
 mainstream of American society in accordance with that program.
     (b) The clemency discharge is a neutral discharge, neither honorable 
 nor less than honorable. It does not effect a change in the 
-characterization of the individual's military service as havng been 
+characterization of the individual's military service as having been 
 under other than honorable condition, nor does it serves to change, 
 seal, erase or in any way modify the individual's past military record. 
 Therefore, if the underlying discharge was issued as a result of a 
@@ -19101,8 +19092,7 @@ initiated on the motion of the NDRB (See Sec. 724.220).
 
 
 <R05>
-Sec. 724.205  Authority for review of naval discharges; jurisdictional 
-
+Sec. 724.205  Authority for review of naval discharges; jurisdictional
 limitations.
 
     (a) The Board shall have no authority to:
@@ -19314,8 +19304,7 @@ Such representation may be prohibited by 18 U.S.C. 205.
 
 
 <R05>
-Sec. 724.216  Failure to appear at a hearing or respond to a scheduling 
-
+Sec. 724.216  Failure to appear at a hearing or respond to a scheduling
 notice.
 
     (a) Except as otherwise authorized by the Secretary concerned, 
@@ -19442,7 +19431,8 @@ region and the availability of resources.
 
 
 <R05>
-Sec. 724.223  NDRB support and augmentation by regular and reserve activities.
+Sec. 724.223  NDRB support and augmentation by regular and reserve 
+activities.
 
     (a) When an NDRB Panel travels for the purpose of conducting 
 hearings, it shall normally select Navy or Marine Corps installations in 
@@ -19510,9 +19500,7 @@ Uniform Code of Military Justice).
 
 <R04>
  Subpart C_Director, Secretary of the Navy Council of Review Boards and 
-
  President Naval Discharge Review Board; Responsibilities in Support of 
-
                     the Naval Discharge Review Board
 
 
@@ -19524,9 +19512,8 @@ Department of the Navy.
 
 
 <R05>
-Sec. 724.302  Functions: Director, Secretary of the Navy Council of Review 
-
-Boards.
+Sec. 724.302  Functions: Director, Secretary of the Navy Council of 
+Review Boards.
 
     (a) Make recommendations to the Secretary of the Navy regarding 
 organization, tasking and resources of the
@@ -19584,9 +19571,8 @@ and maintain associated NDRB indexes updated quarterly.
 
 
 <R05>
-Sec. 724.304  Responsibility for Department of the Navy support of the Naval 
-
-Discharge Review Board.
+Sec. 724.304  Responsibility for Department of the Navy support of the
+Naval Discharge Review Board.
 
     The Commandant of the Marine Corps; Commander, Naval Military 
 Personnel Command; Commander, Naval Reserve Force; Commander, Naval 
@@ -19648,7 +19634,6 @@ Corps Reserve Centers and aviation facilities.
 
 <R04>
   Subpart D_Principal Elements of the Navy Department Discharge Review 
-
                                  System
 
 
@@ -19678,9 +19663,8 @@ review process. (See subpart C).
 
 
 <R05>
-Sec. 724.405  Commandant of the Marine Corps or the Commander, Naval Military 
-
-Personnel Command.
+Sec. 724.405  Commandant of the Marine Corps or the Commander, Naval 
+Military Personnel Command.
 
     Personnel managers of the Marine Corps and the Navy; responsible for 
 providing limited support to the Naval Discharge Review Board and for 
@@ -19710,7 +19694,6 @@ review.
 
 <R04>
 Subpart E_Procedural Rights of the Applicant and Administrative Actions 
-
                      Preliminary To Discharge Review
 
 
@@ -19782,9 +19765,8 @@ review.
 
 
 <R05>
-Sec. 724.502  Actions to be taken by the applicant preliminary to discharge 
-
-review.
+Sec. 724.502  Actions to be taken by the applicant preliminary to
+discharge review.
 
     (a) Application for Review of Discharge or Dismissal from the Armed 
 Forces of the United States, DD Form 293 must be used in requesting a 
@@ -20710,9 +20692,8 @@ regulations.
 
 
 <R05>
-Sec. 724.810  Availability of Naval Discharge Review Board documents for 
-
-public inspection and copying.
+Sec. 724.810  Availability of Naval Discharge Review Board documents 
+for public inspection and copying.
 
     (a) A copy of the decisional document prepared in accordance with 
 subpart H of this enclosure shall be made available for public 
@@ -21101,7 +21082,6 @@ by records or other evidence.
 
 <R05>
    Sec. Appendix A to Part 724--Policy Statement by the Secretary of 
-
           Defense--Addressing Certain Categories of Discharges
 
     Secretary of Defense memorandum of August 13, 1971, to the 
@@ -21162,7 +21142,6 @@ recharacterized.''
 
 <R05>
  Sec. Appendix B to Part 724--Oath or Affirmation To Be Administered To 
-
                      Discharge Review Board Members
 
     Prior to undertaking duties as a Board member, each person assigned 
@@ -21183,7 +21162,6 @@ regulations applicable to review of naval discharges, so help me God.
 
 <R05>
  Sec. Appendix C to Part 724--Samples of Formats Employed by the Naval 
-
                          Discharge Review Board
 
 ------------------------------------------------------------------------
@@ -21399,9 +21377,8 @@ enactment date) to all other persons.
 
 
 <R03>
-PART 725_RELEASE OF OFFICIAL INFORMATION FOR LITIGATION PURPOSES AND TESTIMONY 
-
-BY DEPARTMENT OF THE NAVY PERSONNEL--Table of Contents
+PART 725_RELEASE OF OFFICIAL INFORMATION FOR LITIGATION PURPOSES 
+AND TESTIMONY BY DEPARTMENT OF THE NAVY PERSONNEL--Table of Contents
 
 
 
@@ -22304,7 +22281,6 @@ essential.
 
 <R05>
 Sec. 725.10  Response to requests or demands in conflict with this 
-
 instruction.
 
     (a) Except as otherwise provided in this paragraph, DON personnel, 
@@ -22452,9 +22428,8 @@ Services have a genuine and compelling interest in the outcome.
 
 
 <R03>
-PART 726_PAYMENTS OF AMOUNTS DUE MENTALLY INCOMPETENT MEMBERS OF THE NAVAL 
-
-SERVICE--Table of Contents
+PART 726_PAYMENTS OF AMOUNTS DUE MENTALLY INCOMPETENT MEMBERS OF THE 
+NAVAL SERVICE--Table of Contents
 
 
 
@@ -22916,9 +22891,8 @@ civilian lawyer.
 
 
 <R05>
-Sec. 727.10  Fees, compensation, solicitation, and representation in civilian 
-
-courts.
+Sec. 727.10  Fees, compensation, solicitation, and representation in 
+civilian courts.
 
     (a) General. Active duty military personnel and civilian employees 
 of the Navy and Marine Corps are prohibited from accepting or receiving, 
@@ -23043,8 +23017,7 @@ to aid in accomplishing the mission of legal assistance.
 
 
 <R03>
-PART 728_MEDICAL AND DENTAL CARE FOR ELIGIBLE PERSONS AT NAVY MEDICAL 
-
+PART 728_MEDICAL AND DENTAL CARE FOR ELIGIBLE PERSONS AT NAVY MEDICAL
 DEPARTMENT FACILITIES--Table of Contents
 
 
@@ -23451,14 +23424,14 @@ care or deciding priorities.
                                           of NATO nations meeting the
                                           conditions prescribed in subpart E
                                           of this part.
-3......................................  Members ot the Senior Reserve        See Sec.  728.23.
+3......................................  Members ot the Senior Reserve        See Sec. 728.23.
                                           Officers' Training Corps of the
                                           Armed Forces.
 4......................................  Retired members of the uniformed     See subpart D.
                                           services and their dependents and
                                           dependents of deceased retired
                                           members.
-5......................................  Civilian employees of the Federal    See Sec.  728.80.
+5......................................  Civilian employees of the Federal    See Sec. 728.80.
                                           Government under the limited
                                           circumstances covered by the
                                           Federal Employees' Health Service
@@ -24956,7 +24929,7 @@ civilian non-Federal sources out of operation and maintenance funds.
 hearing aids, spectacles, orthopedic footwear, and other orthopedic 
 appliances (see subpart H). When these items need repair or replacement 
 and the items were not damaged or lost through negligence, repair or 
-replacement is authorized at Goverment expense.
+replacement is authorized at Government expense.
     (iv) Routine dental care.
     (2) When a USMTF, with a mission of providing the care required, 
 releases the medical management of an active duty member of the Navy, 
@@ -25048,9 +25021,7 @@ outpatient care provided to these categories of patients.
 
 <R04>
   Subpart C_Members of Reserve Components, Reserve Officers' Training 
-
  Corps, Navy and Marine Corps Officer Candidate Programs, and National 
-
                              Guard Personnel
 
 
@@ -25140,7 +25111,8 @@ determination of eligibility.
 
 
 <R05>
-Sec. 728.22  Members of other reserve components of the uniformed services.
+Sec. 728.22  Members of other reserve components of the uniformed
+services.
 
     (a) Members of reserve components of the Coast Guard may be provided 
 care the same as Navy and Marine Corps reservists.
@@ -25942,7 +25914,8 @@ include dental prostheses or orthodontia.
 
 
 <R05>
-Sec. 728.43  Members of other foreign military services and their dependents.
+Sec. 728.43  Members of other foreign military services and their 
+dependents.
 
     (a) Foreign military service members. For the purpose of Sec. 
 728.43, members of foreign military services include only:
@@ -26001,8 +25974,7 @@ include dental prostheses or orthodontia.
 
 
 <R05>
-Sec. 728.44  Members of security assistance training programs, foreign 
-
+Sec. 728.44  Members of security assistance training programs, foreign
 military sales, and their ITO authorized dependents.
 
     (a) Policies--(1) Invitational travel orders screening. Prior to 
@@ -26121,9 +26093,8 @@ amplification, see OPNAVINST 4950.1H and NAVCOMPTMAN 032103.
 
 
 <R05>
-Sec. 728.45  Civilian components (employees of foreign military services) and 
-
-their dependents.
+Sec. 728.45  Civilian components (employees of foreign military 
+services) and their dependents.
 
     (a) Care authorized. Beneficiaries covered in this section are only 
 authorized care in naval MTFs in the United States and then only 
@@ -26341,9 +26312,8 @@ prepared on an SF 502.
 
 
 <R05>
-Sec. 728.53  Department of Labor, Office of Workers' Compensation Programs 
-
-(OWCP) beneficiaries.
+Sec. 728.53  Department of Labor, Office of Workers' Compensation 
+Programs (OWCP) beneficiaries.
 
     (a) Potential beneficiaries. The following may be beneficiaries of 
 one of the programs sponsored by the Office of Workers' Compensation 
@@ -26543,9 +26513,8 @@ rendered to any OWCP beneficiary.
 
 
 <R05>
-Sec. 728.54  U.S. Public Health Service (USPHS), other than members of the 
-
-uniformed services.
+Sec. 728.54  U.S. Public Health Service (USPHS), other than members of
+the uniformed services.
 
     (a) Potential beneficiaries. The following may be beneficiaries of 
 the USPHS for care in naval MTFs upon submission of the necessary form 
@@ -26878,7 +26847,6 @@ part B) when outpatient or inpatient care is rendered.
 
 <R05>
 Sec. 728.60  Job Corps and Volunteers in Service to America (VISTA) 
-
 beneficiaries.
 
     (a) Beneficiaries. Job Corps and VISTA enrollees and Job Corps 
@@ -27014,8 +26982,7 @@ USPHS, and NOAA members.
 
 
 <R05>
-Sec. 728.72  Applicants for enrollment in the Senior Reserve Officers' 
-
+Sec. 728.72  Applicants for enrollment in the Senior Reserve Officers'
 Training Program.
 
     When properly authorized, designated applicants (including 
@@ -27030,9 +26997,8 @@ observation.
 
 
 <R05>
-Sec. 728.73  Applicants for enlistment or reenlistment in the Armed Forces, 
-
-and applicants for enlistment in the reserve components.
+Sec. 728.73  Applicants for enlistment or reenlistment in the Armed 
+Forces, and applicants for enlistment in the reserve components.
 
     (a) Upon referral by a commander of a Military Enlistment Processing 
 Station (MEPS), applicants will be furnished necessary medical 
@@ -27046,11 +27012,10 @@ hospitalization, for that injury or illness.
 
 
 <R05>
-Sec. 728.74  Applicants for appointment in the regular Navy or Marine Corps 
+Sec. 728.74  Applicants for appointment in the regular Navy or Marine 
+Corps and reserve components, including members of the reserve components
 
-and reserve components, including members of the reserve components who apply 
-
-for active duty.
+who apply for active duty.
 
     (a) Necessary medical examinations may be furnished, including 
 hospitalization when qualifications for service cannot otherwise be 
@@ -27063,9 +27028,10 @@ hospitalization, for that injury or illness.
 
 
 <R05>
-Sec. 728.75  Applicants for cadetship at service academies and applicants for 
+Sec. 728.75  Applicants for cadetship at service academies and 
+applicants for the Uniformed Services University of Health Sciences 
 
-the Uniformed Services University of Health Sciences (USUHS).
+(USUHS).
 
     (a) Upon presentation of a letter of authorization from the 
 Department of Defense Medical Examination Review Board (DODMERB), 
@@ -27498,8 +27464,7 @@ B) when outpatient or inpatient care is rendered.
 
 
 <R05>
-Sec. 728.82  Individuals whose military records are being considered for 
-
+Sec. 728.82  Individuals whose military records are being considered for
 correction.
 
     Individuals who require medical evaluation in connection with 
@@ -27510,7 +27475,8 @@ conduct thereof.
 
 
 <R05>
-Sec. 728.83  Persons in military custody and nonmilitary Federal prisoners.
+Sec. 728.83  Persons in military custody and nonmilitary Federal 
+prisoners.
 
     (a) Potential beneficiaries. (1) Military prisoners.
     (2) Nonmilitary Federal prisoners.
@@ -27645,7 +27611,7 @@ Walking irons(\7\).................  Yes........................  Yes...........
 Wheel chairs(\7\)..................  Yes........................  Yes...........................  Yes........................  Yes
 --------------------------------------------------------------------------------------------------------------------------------------------------------
 \1\ When considered medically appropriate by the attending physician.
-\2\ See Sec.  728.92(f).
+\2\ See Sec. 728.92(f).
 \3\ Outside the United States and at designated remote stations when considered medically appropriate by the attending physician.
 \4\ Contact or special lenses are not to be issued solely for cosmetic reasons. Further guidelines are contained in NAVMEDCOMINST 6810.1.
 \5\ In addition to the hearing aid, include in initial issue one spare receiver cord, approximately 1 month's supply of batteries, and a statement
@@ -27664,7 +27630,6 @@ Wheel chairs(\7\)..................  Yes........................  Yes...........
 
 <R04>
    Subpart I_Reservists_Continued Treatment, Return to Limited Duty, 
-
             Separation, or Retirement for Physical Disability
 
 
@@ -27684,13 +27649,13 @@ hospitalized in a naval MTF and the attending physician is of the
 opinion that recovery is not anticipated or that the reservist is not 
 expected to be fit for return to full duty within a reasonable period, a 
 medical board will be convened and the case managed the same as that of 
-a Regular member. Assure that a copy of the NOE accompanies the medical 
-board report forwarded to the Central Physical Evaluation Board.
+a Regular member. Assure that a copy of the NOE accompanies
 
 [[Page 354]]
 
-Disability benefits, equal to pay and allowances, will continue in such 
-instances until final disposition.
+the medical board report forwarded to the Central Physical Evaluation 
+Board. Disability benefits, equal to pay and allowances, will continue 
+in such instances until final disposition.
     (2) There is no limited duty status, per se, for inactive 
 reservists. However, if the attending physician determines that a 
 reservist is temporarily unfit for full duty, but will be fit for full 
@@ -27773,19 +27738,19 @@ Officers; (3) Dependents of Officers.
 Active Officers; (2) Retired Officers; (3) Dependents of Officers.
     (d) Foreign. (1) NATO Officers (Except Canadians provided care under 
 the comparable care agreement.); (2) NATO Enlisted (Except Canadians 
-provided care under the comparable care agreement.); (3) NATO 
-Dependents; (4) Civilians Accompanying NATO Members; (5) Foreign 
-Military Sales (FMS) Officers;
+provided
 
 [[Page 355]]
 
-(6) FMS Enlisted; (7) FMS Dependents; (8) FMS Civilians; (9) Military 
-Grant Aid Officers; (10) Military Grant Aid Enlisted; (11) Military 
-Grant Aid Dependents; (12) Military Grant Aid Civilians; (13) Military 
-Officers From Other Than NATO Nations; (14) Military Enlisted From Other 
-Than NATO Nations; (15) Dependents of Officers and Enlisted From Other 
-Than NATO Nations; (16) Civilians Accompanying Military Members of Other 
-Than NATO Nations; (17) Nationals and Their Dependents.
+care under the comparable care agreement.); (3) NATO Dependents; (4) 
+Civilians Accompanying NATO Members; (5) Foreign Military Sales (FMS) 
+Officers; (6) FMS Enlisted; (7) FMS Dependents; (8) FMS Civilians; (9) 
+Military Grant Aid Officers; (10) Military Grant Aid Enlisted; (11) 
+Military Grant Aid Dependents; (12) Military Grant Aid Civilians; (13) 
+Military Officers From Other Than NATO Nations; (14) Military Enlisted 
+From Other Than NATO Nations; (15) Dependents of Officers and Enlisted 
+From Other Than NATO Nations; (16) Civilians Accompanying Military 
+Members of Other Than NATO Nations; (17) Nationals and Their Dependents.
     (e) Secretarial designees not exempted from paying.
     (f) Others. (1) Merchant Marines; (2) Military Sealift Command (MSC) 
 Personnel; (3) Public Health Service beneficiaries (Other than 
@@ -27870,6 +27835,8 @@ delayed adjudication and payment or may result in denial of Navy
 financial responsibility for expenses of maternity, medical, or dental 
 care obtained.
 
+[[Page 356]]
+
 
 <R04>
          Subpart B_Medical and Dental Care From Nonnaval Sources
@@ -27880,9 +27847,6 @@ Sec. 732.11  Definitions.
 
     Unless otherwise qualified in this part the following terms when 
 used throughout are defined as follows:
-
-[[Page 356]]
-
     (a) Active duty. Full-time duty in the active military service of 
 the United States. Includes full-time training duty; annual training 
 duty; and attendance, while in the active military service, at a school 
@@ -27950,18 +27914,17 @@ Staten Island, NY 10304, telephone (718) 390-5547 or 6007.
 98144, telephone (206) 326-4100.
     (3) Outpatient services only. (i) Coastal Health Service, 331 
 Veranda Street, Portland, ME 04103 (207) 774-5805.
-    (ii) Lutheran Medical Center, Downtown Health Care Services, 1313 
-Superior Avenue, Cleveland, OH 44113, telephone (216) 363-2065.
-    (e) Duty status. The situation of the claimant when maternity, 
-medical, or
 
 [[Page 357]]
 
-dental care is received. Members, including reservists, on leave or 
-liberty are considered in a duty status. Reservists, performing active 
-duty for training or inactive duty training, are also considered in a 
-duty status during their allowable constructive travel time to and from 
-training.
+    (ii) Lutheran Medical Center, Downtown Health Care Services, 1313 
+Superior Avenue, Cleveland, OH 44113, telephone (216) 363-2065.
+    (e) Duty status. The situation of the claimant when maternity, 
+medical, or dental care is received. Members, including reservists, on 
+leave or liberty are considered in a duty status. Reservists, performing 
+active duty for training or inactive duty training, are also considered 
+in a duty status during their allowable constructive travel time to and 
+from training.
     (f) Emergency care. Medical treatment of severe life threatening or 
 potentially disabling conditions which result from accident or illness 
 of sudden onset and necessitates immediate intervention to prevent undue 
@@ -28019,16 +27982,16 @@ result of a referral when:
 or Marine Corps member requires care beyond the capability of the 
 referring USMTF and care is obtained for such a member not admitted to 
 or not being treated on an outpatient basis by a USMTF, and
+
+[[Page 358]]
+
     (ii) The referring USMTF is not organized nor authorized to provide 
 the needed health care.
     (3) Other uniformed services supplemental care programs. In addition 
 to services that augment other USMTF's capabilities, supplemental care 
-programs of the other uniformed services
-
-[[Page 358]]
-
-include care and services comparable to those authorized by this part, 
-e.g., emergency care and pre-approved nonemergency care.
+programs of the other uniformed services include care and services 
+comparable to those authorized by this part, e.g., emergency care and 
+pre-approved nonemergency care.
     (q) Unauthorized absence. Absence or departure without authority 
 from a member's command or assigned place of duty.
     (r) Uniformed Services Medical Treatment Facilities (USMTF). Health 
@@ -28096,14 +28059,15 @@ dental care and naval facilities are unavailable, make initial
 application to other available Federal medical or dental facilities or 
 USTFs. When members are stationed in or passing through a NATO SOFA 
 nation and U.S. facilities are unavailable, ensure that members make 
-initial application for emergency and nonemergency care to military 
-facilities of the host country, or if applicable, to civilian sources 
-under the NATO SOFA nation's health care program. When hospitalized in 
-Hawaii, Alaska, or in a foreign medical facility, members and 
-responsible commands will comply with OPNAVINST 6320.6.
+initial application for emergency
 
 [[Page 359]]
 
+and nonemergency care to military facilities of the host country, or if 
+applicable, to civilian sources under the NATO SOFA nation's health care 
+program. When hospitalized in Hawaii, Alaska, or in a foreign medical 
+facility, members and responsible commands will comply with OPNAVINST 
+6320.6.
     (b) Secondary sources. When either emergency or nonemergency care is 
 required and there are no Federal or NATO SOFA facilities available, 
 care may be obtained from non-Federal sources under this part.
@@ -28172,13 +28136,14 @@ Sec. 732.15  Unauthorized care.
     (a) Chiropractic services.
     (b) Vasectomies.
     (c) Tubal ligations.
+
+[[Page 360]]
+
     (d) Breast augmentations or reductions.
     (e) Psychiatric care, beyond the initial evaluation.
     (f) Court ordered care.
     (g) Contact lenses.
     (h) Other elective procedures.
-
-[[Page 360]]
 
 
 <R05>
@@ -28250,14 +28215,14 @@ allowable in each instance of care.
 authority is clearly delineated.
     (iii) Travel distance and time required to reach the nearest USMTF, 
 USDTF, designated USTF, or VA facility have been considered.
+
+[[Page 361]]
+
     (iv) Certain conditions are specifically excluded, e.g., psychiatric 
 care and elective surgical procedures. These conditions will continue to 
 require individual prior approval.
     (v) COMNAVMEDCOM (MEDCOM-333) is made an information addressee on 
 each letter of authorization.
-
-[[Page 361]]
-
     (c) Maternity care. (1) Pregnant active duty members residing 
 outside Military Health Services System (MHSS) inpatent catchment areas 
 of uniformed services facilities (including USTFs), designated in 
@@ -28318,14 +28283,15 @@ officer. Request that the member sign a statement on an SF 600,
 Chronological Record of Medical Care, or an SF 603 or 603A, Health 
 Record, Dental as appropriate, for inclusion in the member's Health 
 Record. The statement must specify that counseling has been 
-accomplished, and that the member understands the significance of 
-receiving unauthorized civilian care. This must be accomplished when 
-either personal funds or third party payor (insurance) funds are 
-intended to be used to defray the cost of care. Counseling will include:
-    (i) Availability of care from a Federal source.
+accomplished, and that the member understands the
 
 [[Page 362]]
 
+significance of receiving unauthorized civilian care. This must be 
+accomplished when either personal funds or third party payor (insurance) 
+funds are intended to be used to defray the cost of care. Counseling 
+will include:
+    (i) Availability of care from a Federal source.
     (ii) The requirement for prior approval if the Government may be 
 expected to defray any of the cost of such care.
     (iii) Information regarding possible compromise of disability 
@@ -28395,19 +28361,20 @@ addressees.
     (1) Article 4210100.11 of the MILPERSMAN requires submission of a 
 personnel casualty report, by priority message, to the primary and 
 secondary next of kin (PNOK/SNOK) of Navy members seriously or very 
-seriously ill or injured, and on those terminally ill (diagnosed and 
-confirmed). While submission of the personnel casualty report to the 
-PNOK and SNOK is a responsibility of the member's command, adjudication 
-authorities must advise the member's command when such a member is being 
-treated or diagnosed
+seriously ill
 
 [[Page 363]]
 
-by non-Federal sources. The message will also request forwarding of the 
-member's service and medical records to the personnel support detachment 
-(PSD) supporting the activity in which the OMA is located. Additionally, 
-the notification should contain a request for appropriate orders, either 
-temporary additional duty (TEMADD) or temporary duty (TEMPDU).
+or injured, and on those terminally ill (diagnosed and confirmed). While 
+submission of the personnel casualty report to the PNOK and SNOK is a 
+responsibility of the member's command, adjudication authorities must 
+advise the member's command when such a member is being treated or 
+diagnosed by non-Federal sources. The message will also request 
+forwarding of the member's service and medical records to the personnel 
+support detachment (PSD) supporting the activity in which the OMA is 
+located. Additionally, the notification should contain a request for 
+appropriate orders, either temporary additional duty (TEMADD) or 
+temporary duty (TEMPDU).
     (i) Request TEMADD orders if care is expected to terminate within 
 the time constraints imposed for these orders.
     (ii) Request TEMDU Under Treatment orders for members hospitalized 
@@ -28469,14 +28436,14 @@ training period, the claim should also include:
     (i) An NOE issued per SECNAVINST 1770.3.
     (ii) An LOD determination from the member's commanding officer.
     (b) Adjudicating authority's responsibility. Reviewing and 
-processing properly completed claims and forwarding approved claims to 
-the appropriate disbursing office should be completed within 30 days of 
-receipt. Advice may be requested from COMNAVMEDCOM (MEDCOM-333 (A/V 294-
-1127)) for medical or MEDCOM-06 (A/V 294-1250)) for dental on unusual or 
-questionable instances of care. Advise claimants of
+processing properly completed claims and forwarding
 
 [[Page 364]]
 
+approved claims to the appropriate disbursing office should be completed 
+within 30 days of receipt. Advice may be requested from COMNAVMEDCOM 
+(MEDCOM-333 (A/V 294-1127)) for medical or MEDCOM-06 (A/V 294-1250)) for 
+dental on unusual or questionable instances of care. Advise claimants of 
 any delay experienced in processing claims.
     (1) Review. The receiving adjudication authority will carefully 
 review each claim submitted for payment or reimbursement to verify 
@@ -28537,16 +28504,16 @@ facts.
 authority will advise the provider of care of the conclusion reached and 
 afford the provider an opportunity to voluntarily reduce the amount of 
 the claim. If this does not result in a proper reduction and the claim 
-is that of a physician or dentist, refer the difference in opinions to 
-the grievance committee of the provider's professional group for an 
-opinion of the reasonableness of the charge. If satisfactory settlement 
-of any claim cannot thus be made, forward all documentation to 
-COMNAVMEDCOM (MEDCOM-333) for decision. Charges determined to be above 
-the allowed amount or charges for unauthorized
+is that of a physician or dentist, refer the difference in opinions
 
 [[Page 365]]
 
-services are the responsibility of the service member.
+to the grievance committee of the provider's professional group for an 
+opinion of the reasonableness of the charge. If satisfactory settlement 
+of any claim cannot thus be made, forward all documentation to 
+COMNAVMEDCOM (MEDCOM-333) for decision. Charges determined to be above 
+the allowed amount or charges for unauthorized services are the 
+responsibility of the service member.
     (2) Third party payment. Do not withhold payment while seeking funds 
 from health benefit plans or from insurance policies for which premiums 
 are paid privately by service members (see Sec. 732.22 for possible 
@@ -28610,14 +28577,14 @@ Medical Clinic, Code O1A, New Orleans, LA 70146, Tele: (A/V) 485-2406/7/
     (5) Southwest Region. For the States of Arizona and New Mexico; the 
 counties of Kern, San Bernadino, San Luis Obispo, Santa Barbara, and all 
 other California counties south thereof; the community of Bridgeport, 
-California (Marine Corps cold-weather training site); and Nevada, except 
-for NAS Fallon and its immediate area; medical and dental 
-responsibilities are vested in: Commander, Naval Medical Command, 
-Southwest Region, Office of Medical Affairs, San Diego, CA 92134-7000, 
-Tele: (A/V) 987-2611 or (C) 233-2611.
+California (Marine Corps cold-weather training
 
 [[Page 366]]
 
+site); and Nevada, except for NAS Fallon and its immediate area; medical 
+and dental responsibilities are vested in: Commander, Naval Medical 
+Command, Southwest Region, Office of Medical Affairs, San Diego, CA 
+92134-7000, Tele: (A/V) 987-2611 or (C) 233-2611.
     (6) Northwest Region. The States of Alaska, Colorado, Idaho, Kansas, 
 Montana, Nebraska, North Dakota, Oregon, South Dakota, Utah, Washington, 
 and Wyoming; the counties of Inyo, Kings, Tulare, and all other counties 
@@ -28678,17 +28645,17 @@ in Mexico to all other personnel to Commander, Naval Medical Command,
 Washington, DC 20372-5120 (MEDCOM-333).
     (10) Commander, Naval Medical Command, Washington, DC 20372-5120 
 (MEDCOM-333) for inpatient and outpatient emergency and nonemergency 
-care of active duty Navy and Marine Corps members in Canada and under 
-the circumstances outlined in paragraph (d) of this section.
-    (11) Outside the 50 United States, commanding officers of 
-operational units may either approve claims and direct payment by the 
-disbursing officer serving the command or forward
+care of active duty Navy and Marine Corps members in Canada and under
 
 [[Page 367]]
 
-claims to the appropriate naval medical command in paragraphs (b)(1) 
-through (c)(9) of this section. This is a local policy decision to 
-enhance the maintenance of good public relations.
+the circumstances outlined in paragraph (d) of this section.
+    (11) Outside the 50 United States, commanding officers of 
+operational units may either approve claims and direct payment by the 
+disbursing officer serving the command or forward claims to the 
+appropriate naval medical command in paragraphs (b)(1) through (c)(9) of 
+this section. This is a local policy decision to enhance the maintenance 
+of good public relations.
     (12) The appropriate command in paragraphs (b)(1) through (c)(9) of 
 this section for care rendered aboard commercial vessels en route to a 
 location within the geographic areas listed.
@@ -28760,18 +28727,18 @@ received in connection with a vehicle accident. Adjudication authorities
 should return for completion, as applicable, any claim received without 
 item 16 completed.
     (b) The front of a NAVJAG Form 5890/12 (Hospital and Medical Care, 
-3rd Party Liability Case) must be completed and submitted by 
-adjudication authorities with evidence of payment. Block 4 of this form 
-requires an appended statement of the patient or an accident report, if 
-available. To ensure that Privacy Act procedures are accomplished and 
-documented, the person securing such a statement from a
+3rd
 
 [[Page 368]]
 
-recipient of care must show the recipient the Privacy Act statement 
-printed at the bottom of the form prior to securing such a statement. 
-The member should be asked to sign his or her name beneath the 
-statement.
+Party Liability Case) must be completed and submitted by adjudication 
+authorities with evidence of payment. Block 4 of this form requires an 
+appended statement of the patient or an accident report, if available. 
+To ensure that Privacy Act procedures are accomplished and documented, 
+the person securing such a statement from a recipient of care must show 
+the recipient the Privacy Act statement printed at the bottom of the 
+form prior to securing such a statement. The member should be asked to 
+sign his or her name beneath the statement.
     (c) For care rendered in States with no-fault insurance laws, comply 
 with procedures outlined in Sec. 732.19(c)(3).
 
@@ -28813,14 +28780,11 @@ the initial denial on reconsideration.
 
 <R04>
   Subpart C_Accounting Classifications for Nonnaval Medical and Dental 
-
                Care Expenses and Standard Document Numbers
 
 
 <R05>
-Sec. 732.25  Accounting classifications for nonnaval medical and dental care 
-
-expenses.
+Sec. 732.25  Accounting classifications for nonnaval medical and dental care expenses.
 
 ----------------------------------------------------------------------------------------------------------------
                        OBJ.**
@@ -28840,16 +28804,16 @@ expenses.
   17*1804  188M           000   00018   M   000179  2D       MDTI00        990020000MDT         Inpatient Care
                                                                                                  Supply
                                                                                                  Expenses. \1,3\
+
+[[Page 369]]
+
+ 
   17*1804  188M           006   00018   M   000179  3C       MDZI00        990020000MDZ         Inpatient
                                                                                                  Subsistence
                                                                                                  Collections.
                                                                                                  \1\
 ----------------------------------------------------------------------------------------------------------------
 Notes:
-
-[[Page 369]]
-
- 
 *For the third digit of the appropriation, enter the last digit of the fiscal year current at the time claim is
   approved for payment.
 **Refer to NAVCOMPT Manual par. 027003 for appropriate Expenditure Category Codes when disbursement or
@@ -28908,9 +28872,8 @@ following example: N0016887MD00001 or N0016887RV00001.
 
 
 <R03>
-PART 733_ASSISTANCE TO AND SUPPORT OF DEPENDENTS; PATERNITY COMPLAINTS--Table 
-
-of Contents
+PART 733_ASSISTANCE TO AND SUPPORT OF DEPENDENTS; PATERNITY COMPLAINTS--
+Table of Contents
 
 
 
@@ -28933,8 +28896,12 @@ Sec. 733.1  Rates of basic allowance for housing (BAH).
 
     (a) Except as otherwise provided by law, a member of the naval 
 service entitled to basic pay is entitled to a BAH at the monthly rates 
-according to the pay grade to which he or she is assigned, in accordance 
-with 37 U.S.C. 403.
+according to the
+
+[[Page 370]]
+
+pay grade to which he or she is assigned, in accordance with 37 U.S.C. 
+403.
     (b) The term ``dependent'' with respect to a member of the naval 
 service, as used in this part, means:
     (1) His or her spouse;
@@ -28942,12 +28909,8 @@ service, as used in this part, means:
 categories of children if such child is in fact dependent on the member: 
 A stepchild; an adopted child; or an illegitimate child whose alleged 
 member-parent has been judicially decreed to be the parent of the child 
-or judicially ordered to
-
-[[Page 370]]
-
-contribute to the child's support, or whose parentage has been admitted 
-in writing by the member) who either:
+or judicially ordered to contribute to the child's support, or whose 
+parentage has been admitted in writing by the member) who either:
     (i) Is under 21 years of age; or
     (ii) Is incapable of self-support because of a mental or physical 
 incapacity, and in fact dependent on the member for over one-half of his 
@@ -29012,20 +28975,20 @@ permanently only in the civil courts. Salient factors that should be
 considered are the pay of the member, any other private income or 
 resources of the member and the dependents, the cost of necessities and 
 every day living expenses and financial obligations of the dependents, 
-and the expenses and other financial obligations of the member in 
-relation to his or her income. The Department of the Navy does not and 
-cannot act as a court in these matters. It is desired that the amount of 
-support to be provided for dependents either be established by mutual 
-understanding between the parties concerned or adjudicated in the civil 
-courts. The support scales set forth in paragraphs (b) and (c) of this 
-section are not intended as a fixed rule. They are intended as 
-guidelines and the actual support may be increased or decreased as the 
-facts and circumstances warrant
+and the expenses and
 
 [[Page 371]]
 
-until the amount of support to be furnished is settled by agreement of 
-the parties or adjudicated by the civil courts. Because of the inherent 
+other financial obligations of the member in relation to his or her 
+income. The Department of the Navy does not and cannot act as a court in 
+these matters. It is desired that the amount of support to be provided 
+for dependents either be established by mutual understanding between the 
+parties concerned or adjudicated in the civil courts. The support scales 
+set forth in paragraphs (b) and (c) of this section are not intended as 
+a fixed rule. They are intended as guidelines and the actual support may 
+be increased or decreased as the facts and circumstances warrant until 
+the amount of support to be furnished is settled by agreement of the 
+parties or adjudicated by the civil courts. Because of the inherent 
 arbitrary and temporary nature of the support scales set forth below, it 
 is not intended that they be used as bases for any judicial proceedings, 
 for to do so would lend excessive credence to administrative tools which 
@@ -29084,6 +29047,9 @@ relieved of the obligation to support the child as such duty is imposed
 on the adoptive parents. A Navy or Marine Corps member who contemplates 
 the adoption of a child should be aware of the legal obligation to 
 provide continuous support for such child during minority.
+
+[[Page 372]]
+
     (7) Entitlement to basic allowance for quarters. Entitlement of 
 members to basic allowance for quarters on behalf of dependents is 
 provided by statute. No member should be denied the right to submit a 
@@ -29092,16 +29058,12 @@ command refuse or fail to forward any such claim or application. In
 cases involving parents, the member should furnish an estimate of the 
 dependency situation to the best of his or her knowledge. Commanding 
 officers should not contact parents for dependency information to 
-include in the member's application. This delays the
-
-[[Page 372]]
-
-application and serves no useful purpose, as such cases are thoroughly 
-investigated by the Navy Family Allowance Activity or Headquarters 
-Marine Corps, which obtains necessary dependency affidavits directly 
-from the parents. Any person, including a service member or dependent 
-who obtains an allowance by fraudulent means is subject to criminal 
-prosecution.
+include in the member's application. This delays the application and 
+serves no useful purpose, as such cases are thoroughly investigated by 
+the Navy Family Allowance Activity or Headquarters Marine Corps, which 
+obtains necessary dependency affidavits directly from the parents. Any 
+person, including a service member or dependent who obtains an allowance 
+by fraudulent means is subject to criminal prosecution.
     (8) Application of the rule based on Robey v. United States 71 Ct. 
 Cl. 561. Determinations that no dependency exists may be made in 
 disputed cases--if a member does not contribute to the support of spouse 
@@ -29158,23 +29120,24 @@ the following ways:
     (F) Involuntary allotment.
     (G) Garnishment.
     (ii) As an exception to paragraph 15002.6a of the LEGADMINMAN, a 
-commanding officer may direct compliance with the financial support 
-requirements of this section by making in-kind financial support. For 
-example, paying non-Government housing expenses on behalf of family 
-members, automobile loans, or charge accounts.
+commanding officer may direct compliance
+
+[[Page 373]]
+
+with the financial support requirements of this section by making in-
+kind financial support. For example, paying non-Government housing 
+expenses on behalf of family members, automobile loans, or charge 
+accounts.
     (7) Alimony and child support. (i) Dependents for whom BAH or other 
 allowances are payable are defined by law. For purposes of qualifying 
 for BAH, medical care, or other benefits, a former spouse is not a 
 dependent even though alimony has been decreed. Marines are expected to 
 comply with the terms of court orders which adjudge alimony payments 
-(even though BAH is not payable) until the responsibility
-
-[[Page 373]]
-
-for compliance is terminated by a court of competent jurisdiction; a 
-written agreement between the persons concerned; relinquishment by the 
-former spouse in writing; or the waiver of the support requirement is 
-granted by the general court-martial (GCM) authority in writing.
+(even though BAH is not payable) until the responsibility for compliance 
+is terminated by a court of competent jurisdiction; a written agreement 
+between the persons concerned; relinquishment by the former spouse in 
+writing; or the waiver of the support requirement is granted by the 
+general court-martial (GCM) authority in writing.
     (ii) If the decree is silent as to alimony payments, it is presumed 
 that the court did not intend such payments.
     (iii) When a valid court order exists and the Marine concerned is 
@@ -29221,7 +29184,8 @@ adopted, for such child during its minority.
 
 
 <R05>
-Sec. 733.4  Complaints of nonsupport and insufficient support of dependents.
+Sec. 733.4  Complaints of nonsupport and insufficient support of 
+dependents.
 
     (a) Upon receipt of a complaint alleging that a member is not 
 adequately supporting his or her lawful dependents (spouse or children), 
@@ -29230,20 +29194,21 @@ Department of the Navy concerning support of dependents. In the absence
 of a determination by a civil court or a mutual agreement of the 
 parties, the applicable guide in Sec. 733.3 will apply. The member will 
 be informed that his/her Navy or Marine Corps career may be in jeopardy 
-if he/she does not take satisfactory action. The member may become 
-ineligible to reenlist or extend enlistment (in the case of enlisted 
-members), and may be subject to administrative or disciplinary action 
-that may result in separation from the Navy or Marine Corps.
+if he/she does not take satisfactory action.
+
+[[Page 374]]
+
+The member may become ineligible to reenlist or extend enlistment (in 
+the case of enlisted members), and may be subject to administrative or 
+disciplinary action that may result in separation from the Navy or 
+Marine Corps.
     (1) Waiver of support of spouse. If the member feels that he or she 
 has legitimate grounds for a waiver of support for the spouse, the 
 Director, Navy Family Allowance Activity or in the case of a member of 
 the U.S. Marine Corps, the general court-martial convening authority, 
 may grant such a waiver for support of a spouse (but not children) on 
-the basis of evidence of desertion without cause or infidelity on
-
-[[Page 374]]
-
-the part of the spouse. The evidence may consist of--
+the basis of evidence of desertion without cause or infidelity on the 
+part of the spouse. The evidence may consist of--
     (i) U.S. Navy members. An affidavit of the service member, relative, 
 disinterested person, public official, or law enforcement officer, and 
 written admissions by the spouse contained in letters written by that 
@@ -29286,7 +29251,8 @@ in the member's separation from active service.
 
 
 <R05>
-Sec. 733.5  Determination of paternity and support of illegitimate children.
+Sec. 733.5  Determination of paternity and support of illegitimate 
+children.
 
     (a) Illegitimate children. If the service member desires marriage, 
 leave for this purpose is recommended whenever consistent with the needs 
@@ -29303,7 +29269,10 @@ falls within the scope of this paragraph. If a judicial order or decree
 of paternity or support is rendered by a United States or foreign court 
 of competent jurisdiction against a member of the Navy or Marine Corps 
 on active duty, the member concerned will be informed of his moral and 
-legal obligations as well as his legal rights in the matter. The member 
+legal obligations as well as his legal rights in the matter. The member
+
+[[Page 375]]
+
 will be advised that he is expected to render financial assistance to 
 the child regardless of any doubts of paternity that the member may 
 have. If the court order or decree specifies an amount of support to be 
@@ -29312,12 +29281,8 @@ decree or order. If no amount is specified, support should be rendered
 in accordance with such reasonable agreement as may be made with the 
 mother or legal guardian of the child or, in the absence of such 
 agreement, in accordance with the applicable guide set forth above. If 
-the member refuses to comply with the
-
-[[Page 375]]
-
-terms of the court order, administrative action will be taken as 
-indicated in Sec. 733.4.
+the member refuses to comply with the terms of the court order, 
+administrative action will be taken as indicated in Sec. 733.4.
     (1) Court of competent jurisdiction. A court of competent 
 jurisdiction is generally a court that has jurisdiction over the subject 
 matter and the parties involved. As a general rule, the competency of 
@@ -29374,20 +29339,20 @@ jurisdiction, administrative or executive agency, or official authorized
 to receive it. In cases where the complaint, along with the 
 corroboration of a physician's affidavit, alleges and explains an 
 unusual medical situation which makes it essential to obtain information 
-from the alleged father in order to protect the physical health of 
-either the prospective mother or the unborn child, the last-known 
-address of the former member shall likewise be furnished to the 
-claimant.
-
-[44 FR 42190, July 19, 1979, as amended at 65 FR 62618, Oct. 19, 2000]
+from
 
 [[Page 376]]
 
+the alleged father in order to protect the physical health of either the 
+prospective mother or the unborn child, the last-known address of the 
+former member shall likewise be furnished to the claimant.
+
+[44 FR 42190, July 19, 1979, as amended at 65 FR 62618, Oct. 19, 2000]
+
 
 <R03>
-PART 734_GARNISHMENT OF PAY OF NAVAL MILITARY AND CIVILIAN PERSONNEL FOR 
-
-COLLECTION OF CHILD SUPPORT AND ALIMONY--Table of Contents
+PART 734_GARNISHMENT OF PAY OF NAVAL MILITARY AND CIVILIAN PERSONNEL 
+FOR COLLECTION OF CHILD SUPPORT AND ALIMONY--Table of Contents
 
 
 
@@ -29465,19 +29430,19 @@ employees of the Department of the Navy:
 (including nonappropriated-fund instrumentalities) or installations 
 situated within the territorial jurisdiction of the issuing court, such 
 process may be served personally, or by registered or certified mail, 
-return receipt requested, on the commanding officer or head of such 
-activity or installation, or principal assistant specifically designated 
-in writing by such official.
+return receipt requested, on the
+
+[[Page 377]]
+
+commanding officer or head of such activity or installation, or 
+principal assistant specifically designated in writing by such official.
     (ii) In other cases involving civilian employees, such process may 
 be served personally or by registered or certified mail, return receipt 
 requested, in the manner indicated below:
     (A) If pertaining to civil service personnel of the Navy or Marine 
-Corps,
-
-[[Page 377]]
-
-such process may be served on the Director of Civilian Personnel Law, 
-Office of the General Counsel, Navy Department, Washington, DC 20390.
+Corps, such process may be served on the Director of Civilian Personnel 
+Law, Office of the General Counsel, Navy Department, Washington, DC 
+20390.
     (B) If pertaining to non-civil service civilian personnel of Navy 
 Exchanges or related nonappropriated-fund instrumentalities administered 
 by the Navy Resale System Office, such process may be served on the 
@@ -29541,18 +29506,17 @@ commanding officer shall comply with the directions of the designated
 official in responding to the legal process.
     (2) For the purposes of this part, the Director, Navy Family 
 Allowance Activity, Cleveland, Ohio, will function as the commanding 
-officer with regard to retired Navy military personnel and members of 
-the Fleet Reserve.
+officer with regard to
+
+[[Page 378]]
+
+retired Navy military personnel and members of the Fleet Reserve.
     (c) Legal services. The Judge Advocate General is responsible for 
 the following functions pertaining to legal process within the purview 
 of this part:
     (1) Providing overall technical direction and guidance, as required, 
-for all Department of the Navy military and
-
-[[Page 378]]
-
-civilian attorneys engaged in reviewing such process or advising on its 
-disposition.
+for all Department of the Navy military and civilian attorneys engaged 
+in reviewing such process or advising on its disposition.
     (2) Ensuring, as Director, Naval Legal Sevice, the availability of 
 attorneys in Naval Legal Service Offices who are qualified to advise and 
 assist the designated officials concerning the disposition of legal 
@@ -29579,9 +29543,8 @@ the Federal Personnel Manual.
 
 
 <R03>
-PART 735_REPORTING BIRTHS AND DEATHS IN COOPERATION WITH OTHER AGENCIES--Table 
-
-of Contents
+PART 735_REPORTING BIRTHS AND DEATHS IN COOPERATION WITH OTHER 
+AGENCIES--Table of Contents
 
 
 
@@ -29638,17 +29601,17 @@ ship or aircraft log. A report shall also be made to local civil
 authorities in the first port of entry if required by law and regulation 
 of such authorities when births occur on a course inbound to the U.S. 
 Additionally, the medical officer shall:
+
+[[Page 379]]
+
     (i) Furnish the parents with appropriate certificates and shall, if 
 the report is not accepted by the local registrar of vital statistics or 
 other civil authority, or in any case in which local authority has 
 indicated in writing that such a report will not be accepted,
     (ii) Advise the parents to seek the advice of the nearest office of 
 the U.S. Immigration and Naturalization Service (USINS), at the earliest 
-practicable time. USINS offices are located in
-
-[[Page 379]]
-
-ports of entry and in major cities of the United States.
+practicable time. USINS offices are located in ports of entry and in 
+major cities of the United States.
     (iii) For births occurring on courses out-bound and beyond the 
 continental limits of the U.S., report to the U.S. consular 
 representative at the next appropriate foreign port. When the aircraft 
@@ -29893,9 +29856,8 @@ Public Works Officers.
 
 
 <R05>
-Sec. 736.5  Disposition of real and personal property under special statutory 
-
-authority.
+Sec. 736.5  Disposition of real and personal property under special 
+statutory authority.
 
     In addition to the authority to sell personal property to the 
 general public and to transfer real property to the General Services 
@@ -30052,11 +30014,10 @@ of his determination.
 
 
 <R03>
-PART 744_POLICIES AND PROCEDURES FOR THE PROTECTION OF PROPRIETARY RIGHTS IN 
+PART 744_POLICIES AND PROCEDURES FOR THE PROTECTION OF PROPRIETARY 
+RIGHTS IN TECHNICAL INFORMATION PROPOSED FOR RELEASE TO FOREIGN 
 
-TECHNICAL INFORMATION PROPOSED FOR RELEASE TO FOREIGN GOVERNMENTS--Table of 
-
-Contents
+GOVERNMENTS--Table of Contents
 
 
 
@@ -30115,9 +30076,8 @@ which is not proprietary.
 
 
 <R03>
-PART 746_LICENSING OF GOVERNMENT INVENTIONS IN THE CUSTODY OF THE DEPARTMENT 
-
-OF THE NAVY--Table of Contents
+PART 746_LICENSING OF GOVERNMENT INVENTIONS IN THE CUSTODY OF THE 
+DEPARTMENT OF THE NAVY--Table of Contents
 
 
 
@@ -30566,6 +30526,8 @@ to this part.
 
 <R03>
                            SUBCHAPTER E_CLAIMS
+
+<R05>
 
 
 <R03>
@@ -32311,9 +32273,8 @@ claims.
 
 
 <R05>
-Sec. 750.54  Payment of costs, settlements, and judgments related to certain 
-
-medical or legal malpractice claims.
+Sec. 750.54  Payment of costs, settlements, and judgments related to 
+certain medical or legal malpractice claims.
 
     (a) General. Requests for reimbursement/indemnification of costs, 
 settlements, and judgments cognizable under 10 U.S.C. 1089(f) [for 
@@ -33433,9 +33394,8 @@ Apr. 16, 2004]
 
 
 <R03>
-PART 755_CLAIMS FOR INJURIES TO PROPERTY UNDER ARTICLE 139 OF THE UNIFORM CODE 
-
-OF MILITARY JUSTICE--Table of Contents
+PART 755_CLAIMS FOR INJURIES TO PROPERTY UNDER ARTICLE 139 OF THE 
+UNIFORM CODE OF MILITARY JUSTICE--Table of Contents
 
 
 
@@ -33652,9 +33612,8 @@ responsibility for damages under these regulations.
 
 
 <R03>
-PART 756_PROCEDURES FOR PROCESSING CLAIMS INVOLVING NON-APPROPRIATED FUND 
-
-ACTIVITIES AND THEIR EMPLOYEES--Table of Contents
+PART 756_PROCEDURES FOR PROCESSING CLAIMS INVOLVING NON-APPROPRIATED 
+FUND ACTIVITIES AND THEIR EMPLOYEES--Table of Contents
 
 
 
@@ -34121,7 +34080,6 @@ Sec. Sec. 757.7-757.10  [Reserved]
 
 <R04>
  Subpart B_Medical Care Recovery Act (MCRA) Claims and Claims Asserted 
-
                        Pursuant to 10 U.S.C. 1095
 
 
@@ -34491,13 +34449,14 @@ copy of the release will be kept in the claims file.
 <R03>
               SUBCHAPTER F_ISLANDS UNDER NAVY JURISDICTION
 
+<R05>
+
 
 <R03>
-PART 761_NAVAL DEFENSIVE SEA AREAS; NAVAL AIRSPACE RESERVATIONS, AREAS UNDER 
+PART 761_NAVAL DEFENSIVE SEA AREAS; NAVAL AIRSPACE RESERVATIONS, AREAS
+UNDER NAVY ADMINISTRATION, AND THE TRUST TERRITORY OF THE PACIFIC 
 
-NAVY ADMINISTRATION, AND THE TRUST TERRITORY OF THE PACIFIC ISLANDS--Table of 
-
-Contents
+ISLANDS--Table of Contents
 
 
 
@@ -35493,9 +35452,8 @@ Sincerely yours,
 
 
 <R05>
-Sec. 761.20  Additional regulations governing persons and vessels in Naval 
-
-Defensive Sea Areas.
+Sec. 761.20  Additional regulations governing persons and vessels in 
+Naval Defensive Sea Areas.
 
     (a) By virtue of the authority vested in the President by section 44 
 of the United States Criminal Code, as amended and reenacted in 18 
@@ -35728,6 +35686,8 @@ one year, or a fine of $5,000 or both.
 <R03>
                     SUBCHAPTER G_MISCELLANEOUS RULES
 
+<R05>
+
 
 <R03>
 PART 765_RULES APPLICABLE TO THE PUBLIC--Table of Contents
@@ -35937,9 +35897,8 @@ FR 6472, Mar. 30, 1972; 44 FR 37610, June 28, 1979]
 
 
 <R05>
-Sec. 765.14  Unofficial use of the seal, emblem, names, or initials of the 
-
-Marine Corps.
+Sec. 765.14  Unofficial use of the seal, emblem, names, or initials of
+the Marine Corps.
 
     (a) Purpose. To establish procedures to determine whether to grant 
 permission to use or imitate the seal, emblem, names, or initials of the 
@@ -36042,9 +36001,8 @@ Corps Reserve.
 
 
 <R03>
-PART 766_USE OF DEPARTMENT OF THE NAVY AVIATION FACILITIES BY CIVIL AIRCRAFT--
-
-Table of Contents
+PART 766_USE OF DEPARTMENT OF THE NAVY AVIATION FACILITIES BY CIVIL 
+AIRCRAFT--Table of Contents
 
 
 
@@ -36275,7 +36233,8 @@ for proposed terms which are in conflict with this part.
 
 
 <R05>
-Sec. 766.5  Conditions governing use of aviation facilities by civil aircraft.
+Sec. 766.5  Conditions governing use of aviation facilities by civil 
+aircraft.
 
     (a) Risk. The use of Navy or Marine Corps aviation facilities by 
 civil aircraft shall be at the risk of the operator. Except as 
@@ -36409,9 +36368,8 @@ prerogative of the commanding officer of the facility.
 
 
 <R05>
-Sec. 766.6  Approving authority for landings at Navy/Marine Corps aviation 
-
-facilities.
+Sec. 766.6  Approving authority for landings at Navy/Marine Corps 
+aviation facilities.
 
     (a) Except as indicated in paragraphs (b) and (c) of this section, 
 the commanding officer of an active Navy/Marine Corps aviation facility 
@@ -36533,9 +36491,8 @@ authority.
 
 
 <R05>
-Sec. 766.8  Procedure for review, approval, execution and distribution of 
-
-aviation facility licenses.
+Sec. 766.8  Procedure for review, approval, execution and distribution 
+of aviation facility licenses.
 
     (a) Review of application by the commanding officer. The commanding 
 officer will review each application for Aviation Facility License and 
@@ -36690,8 +36647,7 @@ the aircraft is bailed specifies that insurance is not required.
 
 
 <R05>
-Sec. 766.10  Cancellation or suspension of the aviation facility license 
-
+Sec. 766.10  Cancellation or suspension of the aviation facility license
 (OPNAV Form 3770/1).
 
     (a) Cancellation. (1) If the user fails to comply with the terms of 
@@ -36850,11 +36806,10 @@ supplies and service are available.
 
 
 <R03>
-PART 767_APPLICATION GUIDELINES FOR ARCHEOLOGICAL RESEARCH PERMITS ON SHIP AND 
+PART 767_APPLICATION GUIDELINES FOR ARCHEOLOGICAL RESEARCH PERMITS ON
+SHIP AND AIRCRAFT WRECKS UNDER THE JURISDICATION OF THE DEPARTMENT OF 
 
-AIRCRAFT WRECKS UNDER THE JURISDICATION OF THE DEPARTMENT OF THE NAVY--Table 
-
-of Contents
+THE NAVY--Table of Contents
 
 
 
@@ -37193,8 +37148,7 @@ to the appeal authority listed in Sec. 767.5.
 
 
 <R05>
-Sec. 767.12  References for submission of permit application to conduct 
-
+Sec. 767.12  References for submission of permit application to conduct
 archeological research.
 
     (a) National Historic Preservation Act of 1966, as amended (NHPA), 
@@ -37228,13 +37182,12 @@ Program.
 5510.4, 14 December 1995). Subject: Disclosure of Information from the 
 Naval Shipwreck Database.
 
-                        PARTS 768-769 [RESERVED]
+                        PARTS 768	769 [RESERVED]
 
 
 <R03>
-PART 770_RULES LIMITING PUBLIC ACCESS TO PARTICULAR INSTALLATIONS--Table of 
-
-Contents
+PART 770_RULES LIMITING PUBLIC ACCESS TO PARTICULAR INSTALLATIONS--Table
+of Contents
 
 
 
@@ -37545,7 +37498,6 @@ any annual miscellaneous changes.
 
 <R04>
    Subpart B_Base Entry Regulations for Naval Submarine Base, Bangor, 
-
                          Silverdale, Washington
 
     Authority: 50 U.S.C. 797; DoDDir. 5200.8 of April 25, 1991; 5 U.S.C. 
@@ -37645,7 +37597,6 @@ one (1) year or both as provided in 50 U.S.C. 797.
 
 <R04>
 Subpart C_Base Entry Regulations for Naval Installations in the State of 
-
                                  Hawaii
 
     Authority: 50 U.S.C. 797; DoD Dir. 5200.8 of Aug. 20, 1954; 5 U.S.C 
@@ -37774,9 +37725,10 @@ both. See 50 U.S.C. 797.
 
 
 <R05>
-Sec. 770.31  List of major naval installations in the State of Hawaii and 
+Sec. 770.31  List of major naval installations in the State of Hawaii
+and cognizant commanders authorized to grant access under these 
 
-cognizant commanders authorized to grant access under these regulations.
+regulations.
 
     (a) On Oahu. (1) Naval Base, Pearl Harbor (including the Naval 
 Station, Naval Submarine Base, Naval Shipyard, Naval Supply Center, 
@@ -37881,7 +37833,6 @@ Commander Naval Base, Pearl Harbor, HI 96860.
 
 <R04>
   Subpart D_Entry Regulations for Naval Installations and Property in 
-
                                Puerto Rico
 
     Source: 46 FR 22756, Apr. 21, 1981, unless otherwise noted.
@@ -37978,7 +37929,6 @@ other applicable laws or regulations.
 
 <R04>
  Subpart E_Base Entry Regulations for Naval Submarine Base New London, 
-
                            Groton, Connecticut
 
     Authority: 50 U.S.C. 797; DoD Directive 5200.8 of July 29, 1980; 
@@ -38074,7 +38024,6 @@ one (1) year or both as provided in 50 U.S.C. 797.
 
 <R04>
     Subpart F_Base Entry Regulations for Puget Sound Naval Shipyard, 
-
                           Bremerton, Washington
 
     Authority: 5 U.S.C. 301; 10 U.S.C. 6011; 50 U.S.C. 797; DoD 
@@ -38168,7 +38117,6 @@ than one year or both as provided in 50 U.S.C. 797.
 
 <R04>
  Subpart G_Entry Regulations for Portsmouth Naval Shipyard, Portsmouth, 
-
                               New Hampshire
 
     Authority: 5 U.S.C. 301; 10 U.S.C. 6011; 50 U.S.C. 797; DoD 
@@ -38276,13 +38224,12 @@ months, or both.
 subject to a fine not to exceed $5000 or imprisonment for not more than 
 one (1) year, or both, as provided by 50 U.S.C. 797.
 
-                        PARTS 771-774 [RESERVED]
+                        PARTS 771	774 [RESERVED]
 
 
 <R03>
-PART 775_PROCEDURES FOR IMPLEMENTING THE NATIONAL ENVIRONMENTAL POLICY ACT--
-
-Table of Contents
+PART 775_PROCEDURES FOR IMPLEMENTING THE NATIONAL ENVIRONMENTAL POLICY
+ACT--Table of Contents
 
 
 
@@ -38915,9 +38862,10 @@ until revised or withdrawn.
 
 
 <R03>
-PART 776_PROFESSIONAL CONDUCT OF ATTORNEYS PRACTICING UNDER THE COGNIZANCE AND 
+PART 776_PROFESSIONAL CONDUCT OF ATTORNEYS PRACTICING UNDER THE 
+COGNIZANCE AND SUPERVISION OF THE JUDGE ADVOCATE GENERAL--Table of 
 
-SUPERVISION OF THE JUDGE ADVOCATE GENERAL--Table of Contents
+Contents
 
 
 
@@ -40440,7 +40388,8 @@ of obtaining evidence that violate the legal rights of such a person.
 
 
 <R05>
-Sec. 776.53  Responsibilities of the Judge Advocate General and supervisory attorneys.
+Sec. 776.53  Responsibilities of the Judge Advocate General and 
+supervisory attorneys.
 
     (a) Responsibilities of the Judge Advocate General and supervisory 
 attorneys. (1) The JAG and supervisory attorneys shall make reasonable 
@@ -40733,7 +40682,6 @@ unable or unqualified to practice in DON programs or proceedings.
 
 <R05>
 Sec. 776.71  Requirement to remain in good standing with licensing 
-
 authorities.
 
     (a) Requirement to remain in good standing with state licensing 
@@ -41401,8 +41349,7 @@ attorney's Federal, State, and local bar or other licensing authority.
 
 Subpart D [Reserved]
 
-                        PARTS 777-799 [RESERVED]
-
+                        PARTS 777	799 [RESERVED]
 
 [[Page 523]]
 
@@ -41433,7 +41380,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of July 1, 2011)
+                      (Revised as of July 1, 2012)
 
                       Title 1--General Provisions
 
@@ -41449,8 +41396,7 @@ which is published separately and revised annually.
             Subtitle A--Office of Management and Budget Guidance 
                 for Grants and Agreements
          I  Office of Management and Budget Governmentwide 
-                Guidance for Grants and Agreements (Parts 100--
-                199)
+                Guidance for Grants and Agreements (Parts 2--199)
         II  Office of Management and Budget Circulars and Guidance 
                 (200--299)
             Subtitle B--Federal Agency Regulations for Grants and 
@@ -41468,7 +41414,7 @@ which is published separately and revised annually.
        XIV  Department of the Interior (Parts 1400--1499)
         XV  Environmental Protection Agency (Parts 1500--1599)
      XVIII  National Aeronautics and Space Administration (Parts 
-                1880--1899)
+                1800--1899)
         XX  United States Nuclear Regulatory Commission (Parts 
                 2000--2099)
       XXII  Corporation for National and Community Service (Parts 
@@ -41489,6 +41435,7 @@ which is published separately and revised annually.
      XXXII  National Endowment for the Arts (Parts 3200--3299)
     XXXIII  National Endowment for the Humanities (Parts 3300--
                 3399)
+     XXXIV  Department of Education (Parts 3400--3499)
       XXXV  Export-Import Bank of the United States (Parts 3500--
                 3599)
     XXXVII  Peace Corps (Parts 3700--3799)
@@ -41500,7 +41447,7 @@ which is published separately and revised annually.
 
                            Title 4--Accounts
 
-         I  Government Accountability Office (Parts 1--99)
+         I  Government Accountability Office (Parts 1--199)
         II  Recovery Accountability and Transparency Board (Parts 
                 200--299)
 
@@ -41535,13 +41482,14 @@ which is published separately and revised annually.
        XXX  Farm Credit System Insurance Corporation (Parts 4000--
                 4099)
       XXXI  Farm Credit Administration (Parts 4100--4199)
-    XXXIII  Overseas Private Investment Corporation (Parts 4300--
-                4399)
 
 [[Page 527]]
 
+    XXXIII  Overseas Private Investment Corporation (Parts 4300--
+                4399)
      XXXIV  Securities and Exchange Commission (Parts 4400--4499)
       XXXV  Office of Personnel Management (Parts 4500--4599)
+    XXXVII  Federal Election Commission (Parts 4700--4799)
         XL  Interstate Commerce Commission (Parts 5000--5099)
        XLI  Commodity Futures Trading Commission (Parts 5100--
                 5199)
@@ -41583,32 +41531,31 @@ which is published separately and revised annually.
        LXX  Court Services and Offender Supervision Agency for the 
                 District of Columbia (Parts 8000--8099)
       LXXI  Consumer Product Safety Commission (Parts 8100--8199)
-     LXXII  Special Inspector General for Iraq Reconstruction 
-                (Parts 8200--8299)
     LXXIII  Department of Agriculture (Parts 8300--8399)
      LXXIV  Federal Mine Safety and Health Review Commission 
                 (Parts 8400--8499)
      LXXVI  Federal Retirement Thrift Investment Board (Parts 
                 8600--8699)
     LXXVII  Office of Management and Budget (Parts 8700--8799)
-      LXXX  Federal Housing Finance Agency (Parts 8700--8799)
+      LXXX  Federal Housing Finance Agency (Parts 9000--9099)
     LXXXII  Special Inspector General for Iraq Reconstruction 
                 (Parts 9200--9299)
 
 [[Page 528]]
 
+   LXXXIII  Special Inspector General for Afghanistan 
+                Reconstruction (Parts 9300--9399)
+    LXXXIV  Bureau of Consumer Financial Protection (Parts 9400--
+                9499)
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Parts 
                 9700--9799)
-      XCIX  Department of Defense Human Resources Management and 
-                Labor Relations Systems (Department of Defense--
-                Office of Personnel Management) (Parts 9900--9999)
 
                       Title 6--Domestic Security
 
          I  Department of Homeland Security, Office of the 
-                Secretary (Parts 0--99)
+                Secretary (Parts 1--99)
 
                          Title 7--Agriculture
 
@@ -41660,6 +41607,8 @@ which is published separately and revised annually.
                 2099)
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
+       XXV  Office of Advocacy and Outreach, Department of 
+                Agriculture (Parts 2500--2599)
       XXVI  Office of Inspector General, Department of Agriculture 
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
@@ -41690,9 +41639,6 @@ which is published separately and revised annually.
       XLII  Rural Business-Cooperative Service and Rural Utilities 
                 Service, Department of Agriculture (Parts 4200--
                 4299)
-         L  Rural Business-Cooperative Service, Rurual Housing 
-                Service, and Rural Utilities Service, Department 
-                of Agriculture (Parts 5000--5099)
 
                     Title 8--Aliens and Nationality
 
@@ -41721,7 +41667,7 @@ which is published separately and revised annually.
        III  Department of Energy (Parts 700--999)
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
-      XIII  Nuclear Waste Technical Review Board (Parts 1303--
+      XIII  Nuclear Waste Technical Review Board (Parts 1300--
                 1399)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
@@ -41747,26 +41693,30 @@ which is published separately and revised annually.
        VII  National Credit Union Administration (Parts 700--799)
       VIII  Federal Financing Bank (Parts 800--899)
         IX  Federal Housing Finance Board (Parts 900--999)
+         X  Bureau of Consumer Financial Protection (Parts 1000--
+                1099)
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
        XII  Federal Housing Finance Agency (Parts 1200--1299)
+      XIII  Financial Stability Oversight Council (Parts 1300--
+                1399)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
         XV  Department of the Treasury (Parts 1500--1599)
+       XVI  Office of Financial Research (Parts 1600--1699)
       XVII  Office of Federal Housing Enterprise Oversight, 
                 Department of Housing and Urban Development (Parts 
                 1700--1799)
      XVIII  Community Development Financial Institutions Fund, 
                 Department of the Treasury (Parts 1800--1899)
 
+[[Page 531]]
+
                Title 13--Business Credit and Assistance
 
          I  Small Business Administration (Parts 1--199)
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
-
-[[Page 531]]
-
         IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
          V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
                 500--599)
@@ -41779,7 +41729,7 @@ which is published separately and revised annually.
                 (Aviation Proceedings) (Parts 200--399)
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
-                (Parts 400--499)
+                (Parts 400--1199)
          V  National Aeronautics and Space Administration (Parts 
                 1200--1299)
         VI  Air Transportation System Stabilization (Parts 1300--
@@ -41860,7 +41810,7 @@ which is published separately and revised annually.
                 of Labor (Parts 1--199)
         II  Railroad Retirement Board (Parts 200--399)
        III  Social Security Administration (Parts 400--499)
-        IV  Employees Compensation Appeals Board, Department of 
+        IV  Employees' Compensation Appeals Board, Department of 
                 Labor (Parts 500--599)
          V  Employment and Training Administration, Department of 
                 Labor (Parts 600--699)
@@ -41902,7 +41852,7 @@ which is published separately and revised annually.
                 1100--1199)
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
-      XIII  Millenium Challenge Corporation (Parts 1300--1399)
+      XIII  Millennium Challenge Corporation (Parts 1300--1399)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
@@ -41935,7 +41885,7 @@ which is published separately and revised annually.
 [[Page 534]]
 
         II  Office of Assistant Secretary for Housing-Federal 
-                HousingCommissioner, Department of Housing and 
+                Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
@@ -42003,7 +41953,7 @@ which is published separately and revised annually.
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
-                (Parts 1--899)
+                (Parts 1--End)
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -42067,11 +42017,12 @@ which is published separately and revised annually.
 
          I  Mine Safety and Health Administration, Department of 
                 Labor (Parts 1--199)
-        II  Bureau of Ocean Energy Management, Regulation, and 
-                Enforcement, Department of the Interior (Parts 
-                200--299)
+        II  Bureau of Safety and Environmental Enforcement, 
+                Department of the Interior (Parts 200--299)
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
+         V  Bureau of Ocean Energy Management, Department of the 
+                Interior (Parts 500--599)
        VII  Office of Surface Mining Reclamation and Enforcement, 
                 Department of the Interior (Parts 700--999)
        XII  Office of Natural Resources Revenue, Department of the 
@@ -42098,18 +42049,18 @@ which is published separately and revised annually.
                 Treasury (Parts 800--899)
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
-         X  Financial Crimes Enforcement Network, Departmnent of 
+         X  Financial Crimes Enforcement Network, Department of 
                 the Treasury (Parts 1000--1099)
 
                       Title 32--National Defense
 
             Subtitle A--Department of Defense
          I  Office of the Secretary of Defense (Parts 1--399)
-         V  Department of the Army (Parts 400--699)
-        VI  Department of the Navy (Parts 700--799)
 
 [[Page 537]]
 
+         V  Department of the Army (Parts 400--699)
+        VI  Department of the Navy (Parts 700--799)
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
@@ -42157,10 +42108,10 @@ which is published separately and revised annually.
                 Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
                 Education (Parts 600--699)
-       VII  Office of Educational Research and Improvmeent, 
+       VII  Office of Educational Research and Improvement, 
                 Department of Education [Reserved]
-        XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
+        XI  National Institute for Literacy (Parts 1100--1199)
        XII  National Council on Disability (Parts 1200--1299)
 
 [[Page 538]]
@@ -42199,7 +42150,7 @@ which is published separately and revised annually.
                 of Commerce (Parts 1--199)
         II  Copyright Office, Library of Congress (Parts 200--299)
        III  Copyright Royalty Board, Library of Congress (Parts 
-                301--399)
+                300--399)
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
@@ -42207,8 +42158,8 @@ which is published separately and revised annually.
 
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
-         I  Department of Veterans Affairs (Parts 0--99)
-        II  Armed Forces Retirement Home
+         I  Department of Veterans Affairs (Parts 0--199)
+        II  Armed Forces Retirement Home (Parts 200--299)
 
                        Title 39--Postal Service
 
@@ -42232,6 +42183,8 @@ which is published separately and revised annually.
 
           Title 41--Public Contracts and Property Management
 
+            Subtitle A--Federal Procurement Regulations System 
+                [Note]
             Subtitle B--Other Provisions Relating to Public 
                 Contracts
         50  Public Contracts, Department of Labor (Parts 50-1--50-
@@ -42244,20 +42197,20 @@ which is published separately and revised annually.
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
-   62--100  [Reserved]
+    62-100  [Reserved]
             Subtitle C--Federal Property Management Regulations 
                 System
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
-  103--104  [Reserved]
+   103-104  [Reserved]
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
        128  Department of Justice (Parts 128-1--128-99)
-  129--200  [Reserved]
+   129-200  [Reserved]
             Subtitle D--Other Provisions Relating to Property 
                 Management [Reserved]
             Subtitle E--Federal Information Resources Management 
@@ -42276,11 +42229,11 @@ which is published separately and revised annually.
 
          I  Public Health Service, Department of Health and Human 
                 Services (Parts 1--199)
-        IV  Centers for Medicare & Medicaid Services, Department 
-                of Health and Human Services (Parts 400--499)
 
 [[Page 540]]
 
+        IV  Centers for Medicare & Medicaid Services, Department 
+                of Health and Human Services (Parts 400--599)
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
 
@@ -42290,7 +42243,7 @@ which is published separately and revised annually.
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Lands
          I  Bureau of Reclamation, Department of the Interior 
-                (Parts 200--499)
+                (Parts 400--999)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
        III  Utah Reclamation Mitigation and Conservation 
@@ -42332,11 +42285,11 @@ which is published separately and revised annually.
                 (Parts 1100--1199)
        XII  Corporation for National and Community Service (Parts 
                 1200--1299)
-      XIII  Office of Human Development Services, Department of 
-                Health and Human Services (Parts 1300--1399)
 
 [[Page 541]]
 
+      XIII  Office of Human Development Services, Department of 
+                Health and Human Services (Parts 1300--1399)
        XVI  Legal Services Corporation (Parts 1600--1699)
       XVII  National Commission on Libraries and Information 
                 Science (Parts 1700--1799)
@@ -42386,11 +42339,11 @@ which is published separately and revised annually.
          9  Department of Energy (Parts 900--999)
         10  Department of the Treasury (Parts 1000--1099)
         12  Department of Transportation (Parts 1200--1299)
-        13  Department of Commerce (Parts 1300--1399)
-        14  Department of the Interior (Parts 1400--1499)
 
 [[Page 542]]
 
+        13  Department of Commerce (Parts 1300--1399)
+        14  Department of the Interior (Parts 1400--1499)
         15  Environmental Protection Agency (Parts 1500--1599)
         16  Office of Personnel Management, Federal Employees 
                 Health Benefits Acquisition Regulation (Parts 
@@ -42441,13 +42394,13 @@ which is published separately and revised annually.
                 (Parts 100--199)
         II  Federal Railroad Administration, Department of 
                 Transportation (Parts 200--299)
+
+[[Page 543]]
+
        III  Federal Motor Carrier Safety Administration, 
                 Department of Transportation (Parts 300--399)
         IV  Coast Guard, Department of Homeland Security (Parts 
                 400--499)
-
-[[Page 543]]
-
          V  National Highway Traffic Safety Administration, 
                 Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
@@ -42501,22 +42454,23 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of July 1, 2011)
+                      (Revised as of July 1, 2012)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
 
 Administrative Committee of the Federal Register  1, I
 Administrative Conference of the United States    1, III
-Advanced Research Projects Agency                 32, I
 Advisory Council on Historic Preservation         36, VIII
+Advocacy and Outreach, Office of                  7, XXV
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
-Agency for International Development              22, II
+Agency for International Development              2, VII; 22, II
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
 Agriculture Department                            2, IV; 5, LXXIII
+  Advocacy and Outreach, Office of                7, XXV
   Agricultural Marketing Service                  7, I, IX, X, XI
   Agricultural Research Service                   7, V
   Animal and Plant Health Inspection Service      7, III; 9, I
@@ -42538,7 +42492,7 @@ Agriculture Department                            2, IV; 5, LXXIII
   Inspector General, Office of                    7, XXVI
   National Agricultural Library                   7, XLI
   National Agricultural Statistics Service        7, XXXVI
-  National Institute of Food and Agriculture.     7, XXXIV
+  National Institute of Food and Agriculture      7, XXXIV
   Natural Resources Conservation Service          7, VI
   Operations, Office of                           7, XXVIII
   Procurement and Property Management, Office of  7, XXXII
@@ -42560,10 +42514,10 @@ AMTRAK                                            49, VII
 American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
-Appalachian Regional Commission                   5, IX
 
 [[Page 546]]
 
+Appalachian Regional Commission                   5, IX
 Architectural and Transportation Barriers         36, XI
      Compliance Board
 Arctic Research Commission                        45, XXIII
@@ -42574,7 +42528,7 @@ Army Department                                   32, V
 Bilingual Education and Minority Languages        34, V
      Affairs, Office of
 Blind or Severely Disabled, Committee for         41, 51
-     Purchase From People Who Are
+     Purchase from People Who Are
 Broadcasting Board of Governors                   22, V
   Federal Acquisition Regulation                  48, 19
 Bureau of Ocean Energy Management, Regulation,    30, II
@@ -42582,6 +42536,8 @@ Bureau of Ocean Energy Management, Regulation,    30, II
 Census Bureau                                     15, I
 Centers for Medicare & Medicaid Services          42, IV
 Central Intelligence Agency                       32, XIX
+Chemical Safety and Hazardous Investigation       40, VI
+     Board
 Chief Financial Officer, Office of                7, XXX
 Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
@@ -42591,7 +42547,7 @@ Court Services and Offender Supervision Agency    5, LXX
      for the District of Columbia
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
-Commerce Department                               44, IV; 50, VI
+Commerce Department                               2, XIII; 44, IV; 50, VI
   Census Bureau                                   15, I
   Economic Affairs, Under Secretary               37, V
   Economic Analysis, Bureau of                    15, VIII
@@ -42624,21 +42580,21 @@ Community Services, Office of                     45, X
 Comptroller of the Currency                       12, I
 Construction Industry Collective Bargaining       29, IX
      Commission
+Consumer Financial Protection Bureau              12, X
 Consumer Product Safety Commission                5, LXXI; 16, II
 Copyright Office                                  37, II
 Copyright Royalty Board                           37, III
 Corporation for National and Community Service    2, XXII; 45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
-Court Services and Offender Supervision Agency    28, VIII
-     for the District of Columbia
-Customs and Border Protection Bureau              19, I
-Defense Contract Audit Agency                     32, I
-Defense Department                                5, XXVI; 32, Subtitle A; 
-                                                  40, VII
-
+Court Services and Offender Supervision Agency    5, LXX; 28, VIII
+   for the District of Columbia
 [[Page 547]]
 
+Customs and Border Protection                     19, I
+Defense Contract Audit Agency                     32, I
+Defense Department                                2, XI; 5, XXVI; 32, 
+                                                  Subtitle A; 40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
@@ -42647,8 +42603,6 @@ Defense Department                                5, XXVI; 32, Subtitle A;
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Human Resources Management and Labor Relations  5, XCIX
-       Systems
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 2, XI; 32, I
@@ -42657,7 +42611,7 @@ Defense Intelligence Agency                       32, I
 Defense Logistics Agency                          32, XII; 48, 54
 Defense Nuclear Facilities Safety Board           10, XVII
 Delaware River Basin Commission                   18, III
-District of Columbia, Court Services and          28, VIII
+District of Columbia, Court Services and          5, LXX; 28, VIII
      Offender Supervision Agency for the
 Drug Enforcement Administration                   21, II
 East-West Foreign Trade Board                     15, XIII
@@ -42665,7 +42619,7 @@ Economic Affairs, Under Secretary                 37, V
 Economic Analysis, Bureau of                      15, VIII
 Economic Development Administration               13, III
 Economic Research Service                         7, XXXVII
-Education, Department of                          5, LIII
+Education, Department of                          2, XXXIV; 5, LIII
   Bilingual Education and Minority Languages      34, V
        Affairs, Office of
   Civil Rights, Office for                        34, I
@@ -42689,7 +42643,8 @@ Employees Loyalty Board                           5, V
 Employment and Training Administration            20, V
 Employment Standards Administration               20, VI
 Endangered Species Committee                      50, IV
-Energy, Department of                             5, XXIII; 10, II, III, X
+Energy, Department of                             2, IX; 5, XXIII; 10, II, 
+                                                  III, X
   Federal Acquisition Regulation                  48, 9
   Federal Energy Regulatory Commission            5, XXIV; 18, I
   Property Management Regulations                 41, 109
@@ -42706,12 +42661,12 @@ Equal Opportunity, Office of Assistant Secretary  24, I
      for
 Executive Office of the President                 3, I
   Administration, Office of                       5, XV
-  Environmental Quality, Council on               40, V
-  Management and Budget, Office of                5, III, LXXVII; 14, VI; 
-                                                  48, 99
 
 [[Page 548]]
 
+  Environmental Quality, Council on               40, V
+  Management and Budget, Office of                2, Subtitle A; 5, III, 
+                                                  LXXVII; 14, VI; 48, 99
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
   Presidential Documents                          3
@@ -42731,7 +42686,7 @@ Federal Communications Commission                 5, XXIX; 47, I
 Federal Contract Compliance Programs, Office of   41, 60
 Federal Crop Insurance Corporation                7, IV
 Federal Deposit Insurance Corporation             5, XXII; 12, III
-Federal Election Commission                       11, I
+Federal Election Commission                       5, XXXVII; 11, I
 Federal Emergency Management Agency               44, I
 Federal Employees Group Life Insurance Federal    48, 21
      Acquisition Regulation
@@ -42767,6 +42722,8 @@ Federal Trade Commission                          5, XLVII; 16, I
 Federal Transit Administration                    49, VI
 Federal Travel Regulation System                  41, Subtitle F
 Financial Crimes Enforcement Network              31, X
+Financial Research Office                         12, XVI
+Financial Stability Oversight Council             12, XIII
 Fine Arts, Commission on                          45, XXI
 Fiscal Service                                    31, II
 Fish and Wildlife Service, United States          50, I, IV
@@ -42778,14 +42735,14 @@ Foreign Assets Control, Office of                 31, V
 Foreign Claims Settlement Commission of the       45, V
      United States
 Foreign Service Grievance Board                   22, IX
+
+[[Page 549]]
+
 Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 General Services Administration                   5, LVII; 41, 105
-
-[[Page 549]]
-
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
@@ -42819,15 +42776,14 @@ Health and Human Services, Department of          2, III; 5, XLV; 45,
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
-Homeland Security, Department of                  2, XXX; 6, I
+Homeland Security, Department of                  2, XXX; 6, I; 8, I
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
-  Customs and Border Protection Bureau            19, I
+  Customs and Border Protection                   19, I
   Federal Emergency Management Agency             44, I
   Human Resources Management and Labor Relations  5, XCVII
        Systems
   Immigration and Customs Enforcement Bureau      19, IV
-  Immigration and Naturalization                  8, I
   Transportation Security Administration          49, XII
 HOPE for Homeowners Program, Board of Directors   24, XXIV
      of
@@ -42855,13 +42811,12 @@ Housing, Office of, and Multifamily Housing       24, IV
      Assistance Restructuring, Office of
 Human Development Services, Office of             45, XIII
 Immigration and Customs Enforcement Bureau        19, IV
-Immigration and Naturalization                    8, I
-Immigration Review, Executive Office for          8, V
-Independent Counsel, Office of                    28, VII
-Indian Affairs, Bureau of                         25, I, V
 
 [[Page 550]]
 
+Immigration Review, Executive Office for          8, V
+Independent Counsel, Office of                    28, VII
+Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
      Secretary
 Indian Arts and Crafts Board                      25, II
@@ -42873,14 +42828,14 @@ Information Security Oversight Office, National   32, XX
 Inspector General
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
-  Housing and Urban Development Department        24, XII
+  Housing and Urban Development Department        24, XII, XV
 Institute of Peace, United States                 22, XVII
 Inter-American Foundation                         5, LXIII; 22, X
-Interior Department
+Interior Department                               2, XIV
   American Indians, Office of the Special         25, VII
        Trustee
-  MBureau of Ocean Energy Management,             30, II
-       Regulation, and Enforcement
+  Bureau of Ocean Energy Management, Regulation,  30, II
+       and Enforcement
   Endangered Species Committee                    50, IV
   Federal Acquisition Regulation                  48, 14
   Federal Property Management Regulations System  41, 114
@@ -42894,6 +42849,7 @@ Interior Department
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
   Natural Resource Revenue, Office of             30, XII
+  Ocean Energy Management, Bureau of              30, V
   Reclamation, Bureau of                          43, I
   Secretary of the Interior, Office of            2, XIV; 43, Subtitle A
   Surface Mining Reclamation and Enforcement,     30, VII
@@ -42915,10 +42871,12 @@ International Trade Administration                15, III; 19, III
 International Trade Commission, United States     19, II
 Interstate Commerce Commission                    5, XL
 Investment Security, Office of                    31, VIII
+Iraq Reconstruction, Special Inspector General    5, LXXXVII
+     for
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                2, XXVII; 5, XXVIII; 28, 
+Justice Department                                2, XXVIII; 5, XXVIII; 28, 
                                                   I, XI; 40, IV
   Alcohol, Tobacco, Firearms, and Explosives,     27, II
        Bureau of
@@ -42933,14 +42891,14 @@ Justice Department                                2, XXVII; 5, XXVIII; 28,
   Prisons, Bureau of                              28, V
   Property Management Regulations                 41, 128
 Labor Department                                  5, XLII
+
+[[Page 551]]
+
   Employee Benefits Security Administration       29, XXV
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
   Employment Standards Administration             20, VI
   Federal Acquisition Regulation                  48, 29
-
-[[Page 551]]
-
   Federal Contract Compliance Programs, Office    41, 60
        of
   Federal Procurement Regulations System          41, 50
@@ -42967,7 +42925,7 @@ Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
 Merit Systems Protection Board                    5, II, LXIV
 Micronesian Status Negotiations, Office for       32, XXVII
-Millenium Challenge Corporation                   22, XIII
+Millennium Challenge Corporation                  22, XIII
 Mine Safety and Health Administration             30, I
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
@@ -42979,7 +42937,7 @@ National Aeronautics and Space Administration     2, XVIII; 5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
 National Agricultural Statistics Service          7, XXXVI
-National and Community Service, Corporation for   45, XII, XXV
+National and Community Service, Corporation for   2, XXII; 45, XII, XXV
 National Archives and Records Administration      2, XXVI; 5, LXVI; 36, XII
   Information Security Oversight Office           32, XX
 National Capital Planning Commission              1, IV
@@ -43000,21 +42958,21 @@ National Highway Traffic Safety Administration    23, II, III; 47, VI; 49, V
 National Imagery and Mapping Agency               32, I
 National Indian Gaming Commission                 25, III
 National Institute for Literacy                   34, XI
-National Institute of Food and Agriculture.       7, XXXIV
+National Institute of Food and Agriculture        7, XXXIV
 National Institute of Standards and Technology    15, II
 National Intelligence, Office of Director of      32, XVII
 National Labor Relations Board                    5, LXI; 29, I
 National Marine Fisheries Service                 50, II, IV
 National Mediation Board                          29, X
+
+[[Page 552]]
+
 National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV, 
                                                   VI
 National Park Service                             36, I
 National Railroad Adjustment Board                29, III
 National Railroad Passenger Corporation (AMTRAK)  49, VII
 National Science Foundation                       2, XXV; 5, XLIII; 45, VI
-
-[[Page 552]]
-
   Federal Acquisition Regulation                  48, 25
 National Security Council                         32, XXI
 National Security Council and Office of Science   47, II
@@ -43034,6 +42992,7 @@ Nuclear Regulatory Commission                     2, XX; 5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
 Occupational Safety and Health Review Commission  29, XX
+Ocean Energy Management, Bureau of                30, V
 Offices of Independent Counsel                    28, VI
 Office of Workers' Compensation Programs          20, VII
 Oklahoma City National Memorial Trust             36, XV
@@ -43044,12 +43003,10 @@ Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
      Certain Employees
-Peace Corps                                       22, III
+Peace Corps                                       2, XXXVII; 22, III
 Pennsylvania Avenue Development Corporation       36, IX
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-  Human Resources Management and Labor Relations  5, XCIX
-       Systems, Department of Defense
   Human Resources Management and Labor Relations  5, XCVII
        Systems, Department of Homeland Security
   Federal Acquisition Regulation                  48, 17
@@ -43084,13 +43041,13 @@ Research and Innovative Technology                49, XI
 Rural Business-Cooperative Service                7, XVIII, XLII, L
 Rural Development Administration                  7, XLII
 Rural Housing Service                             7, XVIII, XXXV, L
+
+[[Page 553]]
+
 Rural Telephone Bank                              7, XVI
 Rural Utilities Service                           7, XVII, XVIII, XLII, L
 Saint Lawrence Seaway Development Corporation     33, IV
 Science and Technology Policy, Office of          32, XXIV
-
-[[Page 553]]
-
 Science and Technology Policy, Office of, and     47, II
      National Security Council
 Secret Service                                    31, IV
@@ -43103,8 +43060,6 @@ Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
 Special Education and Rehabilitative Services,    34, III
      Office of
-Special Inspector General for Iraq                5, LXXXVII
-     Reconstruction
 State Department                                  2, VI; 22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
 Surface Mining Reclamation and Enforcement,       30, VII
@@ -43146,7 +43101,7 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Community Development Financial Institutions    12, XVIII
        Fund
   Comptroller of the Currency                     12, I
-  Customs and Border Protection Bureau            19, I
+  Customs and Border Protection                   19, I
   Engraving and Printing, Bureau of               31, VI
   Federal Acquisition Regulation                  48, 10
   Federal Claims Collection Standards             31, IX
@@ -43161,12 +43116,13 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Secretary of the Treasury, Office of            31, Subtitle A
   Thrift Supervision, Office of                   12, V
 Truman, Harry S. Scholarship Foundation           45, XVIII
+
+[[Page 554]]
+
 United States and Canada, International Joint     22, IV
      Commission
 United States and Mexico, International Boundary  22, XI
-   and Water Commission, United States Section
-[[Page 554]]
-
+     and Water Commission, United States Section
 Utah Reclamation Mitigation and Conservation      43, III
      Commission
 Veterans Affairs Department                       2, VIII; 38, I
@@ -43449,46 +43405,5 @@ Chapter VI
 
 [[Page 558]]
 
-750.50 Regulation at 72 FR 53421 confirmed.........................60948
-750.66 Regulation at 72 FR 53421 confirmed.........................60948
-751 Regulation at 72 FR 53421 confirmed............................60949
-751.1 Regulation at 72 FR 53422 confirmed..........................60949
-751.2 Regulation at 72 FR 53422 confirmed..........................60949
-751.3 Regulation at 72 FR 53422 confirmed..........................60949
-751.5 Regulation at 72 FR 53422 confirmed..........................60949
-751.6 Regulation at 72 FR 53422 confirmed..........................60949
-751.7 Regulation at 72 FR 53423 confirmed..........................60949
-751.8 Regulation at 72 FR 53423 confirmed..........................60949
-751.9 Regulation at 72 FR 53423 confirmed..........................60949
-751.10 Regulation at 72 FR 53424 confirmed.........................60949
-751.11 Regulation at 72 FR 53424 confirmed.........................60949
-751.12 Regulation at 72 FR 53424 confirmed.........................60949
-751.13 Regulation at 72 FR 53424 confirmed.........................60949
-751.14 Regulation at 72 FR 53424 confirmed.........................60949
-751.15 Regulation at 72 FR 53424 confirmed.........................60949
-751.21--751.35 (Subpart B) Regulation at 72 FR 53424 confirmed.....60949
-756 Regulation at 72 FR 53425 confirmed............................60949
-756.1 Regulation at 72 FR 53425 confirmed..........................60949
-756.2 Regulation at 72 FR 53425 confirmed..........................60949
-756.4 Regulation at 72 FR 53425 confirmed..........................60949
-756.5 Regulation at 72 FR 53425 confirmed..........................60949
-756.6 Regulation at 72 FR 53425 confirmed..........................60949
-756.7 Regulation at 72 FR 53426 confirmed..........................60949
-756.8 Regulation at 72 FR 53426 confirmed..........................60949
-756.9 Regulation at 72 FR 53426 confirmed..........................60949
-757.2 Regulation at 72 FR 53427 confirmed..........................60950
-757.3 Regulation at 72 FR 53427 confirmed..........................60950
-757.4 Regulation at 72 FR 53427 confirmed..........................60950
-757.5 Regulation at 72 FR 53427 confirmed..........................60950
-757.6 Regulation at 72 FR 53428 confirmed..........................60950
-757.11--757.20 (Subpart B) Regulation at 72 FR 53428 confirmed.....60950
-757.11 Regulation at 72 FR 53428 confirmed.........................60950
-757.12 Regulation at 72 FR 53428 confirmed.........................60950
-757.13 Regulation at 72 FR 53428 confirmed.........................60950
-757.14 Regulation at 72 FR 53428 confirmed.........................60950
-757.15 Regulation at 72 FR 53428 confirmed.........................60950
-757.16 Regulation at 72 FR 53429 confirmed.........................60950
-757.17 Regulation at 72 FR 53429 confirmed.........................60950
-757.18 Regulation at 72 FR 53429 confirmed.........................60950
-757.19 Regulation at 72 FR 53430 confirmed..............
+750.5
 </pre></body></html>

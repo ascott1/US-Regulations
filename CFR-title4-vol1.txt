@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 4 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2011 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2012 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -11,27 +11,17 @@
 <R02>
           Title 4
 
+Accounts
 
-
-
-                         Revised as of January 1, 2011
-
-
-          Accounts
-          
-<R03>
-
-
-________________________
+                         Revised as of January 1, 2012
 
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of January 1, 2011
+          As of January 1, 2012
                     Published by the Office of the Federal Register 
                     National Archives and Records Administration as a 
                     Special Edition of the Federal Register
-                    A Special Edition of the Federal Register
 
 [[Page ii]]
 
@@ -156,7 +146,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2011), consult the ``List of CFR 
+revision date (in this case, January 1, 2012), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -195,9 +185,9 @@ OBSOLETE PROVISIONS
 the cover of each volume are not carried. Code users may find the text 
 of provisions in effect on a given date in the past by using the 
 appropriate numerical list of sections affected. For the period before 
-January 1, 2001, consult either the List of CFR Sections Affected, 1949-
+April 1, 2001, consult either the List of CFR Sections Affected, 1949-
 1963, 1964-1972, 1973-1985, or 1986-2000, published in eleven separate 
-volumes. For the period beginning January 1, 2001, a ``List of CFR 
+volumes. For the period beginning April 1, 2001, a ``List of CFR 
 Sections Affected'' is published at the end of each CFR volume.
 
 ``[RESERVED]'' TERMINOLOGY
@@ -301,7 +291,7 @@ register.
     Raymond A. Mosley,
     Director,
     Office of the Federal Register.
-    January 1, 2011.
+    January 1, 2012.
 
 
 
@@ -319,7 +309,7 @@ register.
 chapter I--Government Accountability Office (GAO) and chapter II--
 Recovery Accountability and Transparency Board. The contents of this 
 volume represent all current regulations codified under this title of 
-the CFR as of January 1, 2011.
+the CFR as of January 1, 2012.
 
     For this volume, Cheryl E. Sirofchuck was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
@@ -1327,7 +1317,7 @@ interests.
 
 
 <R05>
-Sec. 7.4  Employment limitations, foreign gifts and decorations, and
+Sec. 7.4  Employment limitations, foreign gifts and decorations, and 
 misconduct.
 
     The provisions of subchapters II, IV, and V of chapter 73 of title 
@@ -1368,7 +1358,7 @@ appointment limited to 1 year or less.
 
 
 <R05>
-Sec. 7.6  Adverse actions: Removal, suspension for more than 14 days,
+Sec. 7.6  Adverse actions: Removal, suspension for more than 14 days, 
 reduced in grade, reduced in pay or furloughed for 30 days or less.
 
     (a) Policy. A GAO employee may be removed, suspended for more than 
@@ -1520,7 +1510,7 @@ System. The GAO Senior Executive Service may include--
 
 
 <R03>
-PART 11_RECOGNITION OF ATTORNEYS AND OTHER REPRESENTATIVES--Table of
+PART 11_RECOGNITION OF ATTORNEYS AND OTHER REPRESENTATIVES--Table of 
 Contents
 
 
@@ -1820,8 +1810,8 @@ untimely protest.
 
 
 <R05>
-Sec. 21.3  Notice of protest, submission of agency report, and time for
-filing of comments on report.
+Sec. 21.3  Notice of protest, submission of agency report, and time 
+for filing of comments on report.
 
     (a) GAO shall notify the agency by telephone within 1 day after the 
 filing of a protest, and, unless the protest is dismissed under this 
@@ -2200,9 +2190,9 @@ express option procedures in Sec. 21.10.
 
 <R05>
 Sec. 21.10  Express options, flexible alternative procedures, 
-accelerated schedules, summary decisions, and status and 
+accelerated schedules, summary decisions, and status and other 
 
-other conferences.
+conferences.
 
     (a) At the request of a party or on its own initiative, GAO may 
 decide a protest using an express option.
@@ -2313,7 +2303,7 @@ reconsideration based on repetition of arguments previously raised.
 
 
 <R03>
-PART 22_RULES OF PROCEDURE OF THE GOVERNMENT ACCOUNTABILITY OFFICE
+PART 22_RULES OF PROCEDURE OF THE GOVERNMENT ACCOUNTABILITY OFFICE 
 CONTRACT APPEALS BOARD--Table of Contents
 
 
@@ -3630,7 +3620,7 @@ should be made with a member of the Board.
 
 
 <R03>
-PART 25_CONDUCT IN THE GOVERNMENT ACCOUNTABILITY OFFICE BUILDING AND
+PART 25_CONDUCT IN THE GOVERNMENT ACCOUNTABILITY OFFICE BUILDING AND 
 ON ITS GROUNDS--Table of Contents
 
 
@@ -3944,11 +3934,10 @@ the Board, and otherwise assist the Board in carrying out its functions.
 
 
 <R03>
-      PART 28_GOVERNMENT ACCOUNTABILITY OFFICE PERSONNEL APPEALS 
-      BOARD; PROCEDURES APPLICABLE TO CLAIMS CONCERNING EMPLOYMENT 
+      PART 28_GOVERNMENT ACCOUNTABILITY OFFICE PERSONNEL APPEALS BOARD;
+      PROCEDURES APPLICABLE TO CLAIMS CONCERNING EMPLOYMENT PRACTICES AT 
       
-      PRACTICES AT THE GOVERNMENT ACCOUNTABILITY OFFICE--Table 
-      of Contents
+      THE GOVERNMENT ACCOUNTABILITY OFFICE--Table of Contents
 
 
 
@@ -3966,8 +3955,8 @@ Sec.
 28.9 Procedures; general.
 28.10 Notice of petition rights.
 28.11 Filing a charge with the Office of General Counsel.
-28.12 Special procedure for reduction in force.
-28.13 Special procedure for Workforce Restructuring Action.
+28.12 General Counsel Procedures.
+28.13 Special procedure for Reduction in Force.
 
          Hearing Procedures for Cases Before the Board--General
 
@@ -4056,11 +4045,12 @@ Sec.
 28.101 Termination of Board proceedings when suit is filed in Federal 
           District Court.
 
-[[Page 48]]
-
         Subpart E_Special Procedures; Representation Proceedings
 
 28.110 Purpose.
+
+[[Page 48]]
+
 28.111 Scope.
 28.112 Who may file petitions.
 28.113 Contents of representation petitions.
@@ -4109,6 +4099,9 @@ Sec.
 
     Source: 58 FR 61992, Nov. 23, 1993, unless otherwise noted.
 
+    Editorial Note: Nomenclature changes to part 28 appear at 76 FR 
+76873, Dec. 9, 2011.
+
 
 <R04>
         Subpart A_Purpose, General Definitions, and Jurisdiction
@@ -4155,12 +4148,13 @@ personnel action based upon an alleged prohibited personnel practice
 that has occurred or is about to occur;
     (2) Proceedings in which the General Counsel seeks corrective action 
 for an alleged prohibited personnel practice; and
+    (3) Proceedings in which the General Counsel seeks discipline for a 
+GAO employee who has allegedly committed a
 
 [[Page 49]]
 
-    (3) Proceedings in which the General Counsel seeks discipline for a 
-GAO employee who has allegedly committed a prohibited personnel practice 
-or who has engaged in prohibited political activity.
+prohibited personnel practice or who has engaged in prohibited political 
+activity.
     (b) The Board has jurisdiction to hear any action brought by any 
 person or group of persons in the following subject areas:
     (1) An officer or employee petition involving a removal, suspension 
@@ -4194,12 +4188,22 @@ Board's procedures, but not both. The employee will be deemed to have
 elected the Board's procedures if the employee files a timely charge 
 with the Board's General Counsel or files a timely written EEO complaint 
 with GAO before filing a timely written grievance.
-    (2) Other matters. If the negotiated grievance procedure permits the 
+    (2) Matters involving prohibited personnel practices. If the 
+negotiated grievance procedure permits the employee to grieve an 
+appealable action involving a prohibited personnel practice other than 
+prohibited discrimination (as defined in Sec. 28.95), such an action 
+may be raised under either, but not both, of the following procedures:
+    (A) The Board's procedures; or
+    (B) The negotiated grievance procedure.
+    The employee will be deemed to have elected the Board's procedures 
+if the employee files a timely charge with the Board's Office of General 
+Counsel before filing a timely grievance.
+    (3) Other matters. If the negotiated grievance procedure permits the 
 employee to grieve any matters which would otherwise be appealable to 
-the Board, other than those listed in paragraph (c)(1) of this section, 
-then those matters may only be raised under the negotiated grievance 
-procedure and not before the Board.
-    (3) Board review of final decisions from the negotiated grievance 
+the Board, other than those listed in paragraphs (c)(1) or (c)(2) of 
+this section, then those matters may only be raised under the negotiated 
+grievance procedure and not before the Board.
+    (4) Board review of final decisions from the negotiated grievance 
 procedure involving discrimination. If an employee elects to pursue a 
 matter involving prohibited discrimination (as defined in Sec. 28.95) 
 through the negotiated grievance procedure, the employee may ask the 
@@ -4210,14 +4214,22 @@ receipt of the final decision of the negotiated grievance procedure. The
 Board will not review any final decisions of the negotiated grievance 
 procedure other than those where prohibited discrimination was raised as 
 an issue in the grievance.
+    (d) Except for actions involving prohibited discrimination (under 
+Sec. 28.95) or any other prohibited personnel practice, any appealable 
+action that is excluded from the application of the negotiated grievance 
+procedure may be raised only under the Board's procedures.
 
-[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69298, Dec. 12, 2003]
+[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69298, Dec. 12, 2003; 
+76 FR 76873, Dec. 9, 2011]
 
 
 <R05>
 Sec. 28.3  General definitions.
 
     In this part--
+
+[[Page 50]]
+
     Administrative judge means any individual designated by the Board to 
 preside over a hearing conducted on matters within its jurisdiction. An 
 administrative judge may be a member of the Board, an employee of the 
@@ -4230,9 +4242,6 @@ administrative judge in the proceedings.
 initial decision.
     Board means the Government Accountability Office Personnel Appeals 
 Board as established by 31 U.S.C. 751 and explained in 4 CFR 27.1.
-
-[[Page 50]]
-
     Charge means any request filed with the PAB Office of General 
 Counsel to investigate any matter within the jurisdiction of the Board, 
 under the provisions of Subchapter IV of chapter 7 of Title 31, United 
@@ -4274,13 +4283,13 @@ that decision in whole or part.
     Solicitor means the attorney appointed by the Board to provide 
 advice and assistance to the Board in carrying out its adjudicatory 
 functions and to otherwise provide assistance as directed by the Board.
-    Workforce Restructuring Action (WRA) means the release of an 
-employee from a job group by separation, demotion, reassignment 
-requiring displacement, or furlough for more than 30 days when the cause 
-of action is lack of work, shortage of funds, insufficient personnel 
-ceiling, reorganization or realignment, an individual's exercise of 
-reemployment or reinstatement rights, correction of skills imbalances, 
-or reduction of high-grade supervisory, or managerial positions.
+    Reduction in Force (RIF) means the release of an employee from a job 
+group by separation, demotion, reassignment requiring displacement, or 
+furlough for more than 30 days when the cause of action is lack of work, 
+shortage of funds, insufficient personnel ceiling, reorganization or 
+realignment, an individual's exercise of reemployment or reinstatement 
+rights, correction of skills imbalances, or reduction of high-grade 
+supervisory, or managerial positions.
 
 [68 FR 69298, Dec. 12, 2003]
 
@@ -4297,8 +4306,11 @@ federal government workday.
     (b) Whenever a party has the right or is required to do some act 
 within a prescribed period after the service of a notice or other paper 
 upon him or her and the notice or paper is served by mail, five (5) days 
-shall be added to the prescribed period. Only two (2) days shall be 
-added when a document is served by express mail or other form of 
+shall be added to the prescribed period. Only two (2) days shall
+
+[[Page 51]]
+
+be added when a document is served by express mail or other form of 
 expedited delivery.
     (c) Except as otherwise provided by law, whenever an act is required 
 or allowed to be done at or within a specified period of time, the time 
@@ -4308,8 +4320,6 @@ shortened by the Board or administrative judge.
 Board after 4 p.m., Monday through Friday.
 
 [58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69298, Dec. 12, 2003]
-
-[[Page 51]]
 
 
 <R04>
@@ -4390,21 +4400,22 @@ shall be filed in accordance with the special rules set forth in Sec.
     (4) Charges relating to continuing violations may be filed at any 
 time.
     (c) How to file. Charges may be filed with the Office of General 
-Counsel by personal delivery (including commercial carrier) or by mail. 
-The address to be used differs for the two kinds of filing.
+Counsel by
+
+[[Page 52]]
+
+personal delivery (including commercial carrier) or by mail. The address 
+to be used differs for the two kinds of filing.
     (1) A charge may be filed by personal delivery at the Office of 
 General Counsel, Personnel Appeals Board, GAO, Suite 580, Union Center 
 Plaza II, 820 First Street, NE., Washington, DC 20002.
     (2) A charge may be filed by mail addressed to the Office of General 
 Counsel, Personnel Appeals Board, Suite 580, Union Center Plaza II, 441 
-G Street,
-
-[[Page 52]]
-
-NW., Washington, DC 20548 or Office of General Counsel, Personnel 
-Appeals Board, GAO, Suite 580, Union Center Plaza II, 820 First Street, 
-NE., Washington, DC 20002. When filed by mail, the postmark shall be the 
-date of filing for all submissions to the Office of General Counsel.
+G Street, NW., Washington, DC 20548 or Office of General Counsel, 
+Personnel Appeals Board, GAO, Suite 580, Union Center Plaza II, 820 
+First Street, NE., Washington, DC 20002. When filed by mail, the 
+postmark shall be the date of filing for all submissions to the Office 
+of General Counsel.
     (d) What to file. The charging party should include in any charge 
 the following information:
     (1) Name of the charging party or a clear description of the group 
@@ -4432,7 +4443,7 @@ shall transmit the charge to the Board for processing under Sec. Sec.
 
 
 <R05>
-Sec. 28.12  General Counsel procedures.
+Sec. 28.12  General Counsel Procedures.
 
     (a) The General Counsel shall serve on the GAO or other charged 
 party a copy of the charge, investigate the matters raised in a charge, 
@@ -4467,27 +4478,27 @@ representation.
 Counsel, the General Counsel is to direct the representation in the 
 charging party's case. The charging party may also retain a private 
 representative in such cases. However, the role of a private 
-representative is limited to assisting the General Counsel as the 
-General Counsel determines to be appropriate.
+representative is limited to assisting
+
+[[Page 53]]
+
+the General Counsel as the General Counsel determines to be appropriate.
     (f) When the General Counsel is not participating in a case, the 
 General Counsel may request permission to intervene with regard to any 
 issue in which the General Counsel finds a significant public interest 
 with respect to the preservation of the merit system.
     (g) If 180 days have elapsed since the filing of the charge, and the 
 Office of General Counsel has not completed the investigation and issued 
-a Right to Petition Letter, the charging party may
-
-[[Page 53]]
-
-bring his or her case directly to the Board by filing a petition in 
-accordance with Sec. 28.18. If a charging party exercises this option 
-to file a petition with the Board without waiting for the completion of 
-the investigation, the Office of General Counsel shall not represent the 
-charging party in proceedings before the Board. The charging party may 
-represent him- or herself or obtain other representation. The Office of 
-General Counsel shall close the investigation of the charge upon being 
-notified by the Clerk of the Board that the charging party has filed a 
-petition with the Board under this paragraph (g).
+a Right to Petition Letter, the charging party may bring his or her case 
+directly to the Board by filing a petition in accordance with Sec. 
+28.18. If a charging party exercises this option to file a petition with 
+the Board without waiting for the completion of the investigation, the 
+Office of General Counsel shall not represent the charging party in 
+proceedings before the Board. The charging party may represent him- or 
+herself or obtain other representation. The Office of General Counsel 
+shall close the investigation of the charge upon being notified by the 
+Clerk of the Board that the charging party has filed a petition with the 
+Board under this paragraph (g).
     (h) Office of General Counsel settlement: Where the General Counsel 
 under paragraph (a) of this section transmits a settlement which has 
 been agreed to by the parties, the settlement agreement shall be the 
@@ -4514,16 +4525,16 @@ pursuant to court order, an employee shall notify the General Counsel.
 
 
 <R05>
-Sec. 28.13  Special procedure for Workforce Restructuring Action.
+Sec. 28.13  Special procedure for Reduction in Force.
 
-    In the event of a Workforce Restructuring Action (WRA) resulting in 
-an individual's separation from employment, an aggrieved employee may 
+    In the event of a Reduction in Force (RIF) resulting in an 
+individual's separation from employment, an aggrieved employee may 
 choose to file a petition directly with the Personnel Appeals Board, 
 without first filing the charge with the PAB's Office of General Counsel 
 pursuant to Sec. 28.11. Pursuant to Sec. 28.98, individuals raising 
-discrimination issues in connection with a WRA action need not file a 
+discrimination issues in connection with a RIF action need not file a 
 complaint with GAO's Office of Opportunity and Inclusiveness before 
-pursuing a WRA challenge alleging discrimination, either by filing 
+pursuing a RIF challenge alleging discrimination, either by filing 
 directly with the PAB or by filing a charge with the Board's Office of 
 General Counsel.
 
@@ -4546,6 +4557,8 @@ rights of all parties.
 
 [58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69299, Dec. 12, 2003]
 
+[[Page 54]]
+
 
 <R05>
 Sec. 28.16  Revocation, amendment or waiver of rules.
@@ -4556,11 +4569,8 @@ less than 30 days. Following the comment period, any changes to the
 rules are final once they are published in the Federal Register. Notice 
 of publication in the Federal Register must be published throughout GAO.
     (b) An administrative judge or the Board may waive a Board 
-regulation in an individual case for good cause
-
-[[Page 54]]
-
-shown if application of the regulation is not required by statute.
+regulation in an individual case for good cause shown if application of 
+the regulation is not required by statute.
 
 
 <R05>
@@ -4587,14 +4597,14 @@ shall have 20 days from service of this notice to file an EEO charge
 with the PAB Office of General Counsel. Upon receipt of an EEO charge, 
 the General Counsel shall arrange with the Executive Director for 
 processing in accordance with paragraph (b) of this section. If the EEO 
-allegations involve challenge to a WRA-based separation, the employee 
+allegations involve challenge to a RIF-based separation, the employee 
 may choose to expedite the procedures by filing a petition directly with 
 the Board.
     (3) When an employee of the Board wishes to raise any other issue 
 that would be subject to the Board's jurisdiction, the employee shall 
 file a charge with the General Counsel and the General Counsel shall 
 arrange with the Executive Director for processing in accordance with 
-paragraph (b) of this section. If the challenged action is a WRA-based 
+paragraph (b) of this section. If the challenged action is a RIF-based 
 separation from employment, the employee may choose to expedite the 
 procedures by filing a petition directly with the Board.
     (b) The responsibilities and functions of the Board's General 
@@ -4622,6 +4632,9 @@ below.
 will appoint and detail one of its administrative law judges (ALJ) or 
 administrative judges (AJ) to perform the Board's adjudicative 
 functions.
+
+[[Page 55]]
+
     (2) If neither the MSPB nor the EEOC agrees to such a procedure, an 
 appointment of an arbitrator will be sought from the FMCS.
     (3) In any event, whoever is so appointed shall possess all of the 
@@ -4632,11 +4645,8 @@ judicial review of the decision shall be the same as that described in
 Sec. 28.90.
     (d) Any employee of the Board (other than the General Counsel) who 
 believes that he or she is aggrieved by any personnel matter that is not 
-reviewable by
-
-[[Page 55]]
-
-the Board under 31 U.S.C. 753(a) may file a grievance as follows:
+reviewable by the Board under 31 U.S.C. 753(a) may file a grievance as 
+follows:
     (1) Informal Step. The employee must discuss the complained of 
 incident with his or her supervisor as soon as possible after the 
 complained of incident.
@@ -4679,10 +4689,9 @@ Board's Office of General Counsel; or
     (2) At least 180 days have elapsed from the filing of the charge 
 with the Board's Office of General Counsel and that Office has not 
 issued a Right to Petition Letter; or
-    (3) The person was separated due to a Workforce Restructuring Action 
-and chooses to file a petition directly with the Board, without first 
-filing with the Board's Office of General Counsel, as provided in Sec. 
-28.13.
+    (3) The person was separated due to a Reduction in Force and chooses 
+to file a petition directly with the Board, without first filing with 
+the Board's Office of General Counsel, as provided in Sec. 28.13.
     (b) When to file. (1) Petitions filed pursuant to paragraph (a)(1) 
 of this section must be filed within 30 days after receipt by the 
 charging party of the Right to Petition Letter from the Board's Office 
@@ -4693,11 +4702,14 @@ charge with the Board's Office of General Counsel, provided that that
 Office has not issued a Right to Petition Letter concerning the charge.
     (3) Petitions filed pursuant to paragraph (a)(3) of this section 
 must be filed within 30 days after the effective date of the separation 
-due to a Workforce Restructuring Action.
+due to a Reduction in Force.
     (c) How to file. (1) A petition may be filed by hand delivery at the 
 office of the Board, Suite 560, Union Center Plaza II, 820 First Street 
 NE., Washington, DC 20002. It must be received by 4 p.m., Monday through 
 Friday, on the date that it is filed.
+
+[[Page 56]]
+
     (2) A petition may be filed by mail addressed to the Personnel 
 Appeals Board, GAO, Suite 560, Union Center Plaza II, 441 G Street NW., 
 Washington, DC 20548 or Personnel Appeals Board, GAO, Suite 560, Union 
@@ -4712,9 +4724,6 @@ class of persons on whose behalf the petition is being filed;
 the petitioner wishes to have the Board review;
     (3) The actions being complained about, including dates, reasons 
 given and internal appeals taken;
-
-[[Page 56]]
-
     (4) Petitioner's reasons for believing the actions to be improper;
     (5) Remedies sought by the petitioner;
     (6) Name and address of the representative, if any, who will act for 
@@ -4777,8 +4786,11 @@ facsimile or by delivering personally a copy of the pleading to each
 party on the service list previously provided by the Board. Each 
 pleading must be accompanied by a certificate of service specifying how 
 and when service was made. It shall be the duty of all parties to notify 
-the Board and one another in writing of any changes in the names or 
-addresses on the service list.
+the Board and one another in writing of
+
+[[Page 57]]
+
+any changes in the names or addresses on the service list.
     (c) Time limitations for response to pleadings. Unless otherwise 
 specified by the administrative judge or this subpart, a party shall 
 file a response to a pleading within 20 days of the service of that 
@@ -4794,11 +4806,8 @@ Sec. 28.21  Amendments to petitions and motions practice.
     (a) Amendments to petitions. The Board, at its discretion, may allow 
 amendments to a petition as long as all persons who are parties to the 
 proceeding have adequate notice to prepare for the new allegations and 
-if to do so would not prejudice the rights of
-
-[[Page 57]]
-
-the other parties or unduly delay the proceedings.
+if to do so would not prejudice the rights of the other parties or 
+unduly delay the proceedings.
     (b) Motions practice. (1) When an action is before an administrative 
 judge, motions of the parties shall be filed with the Clerk of the Board 
 and shall be in writing except for oral motions made during the hearing. 
@@ -4860,6 +4869,9 @@ Sec. 28.22  Administrative judges.
     (a) Exercise of authority. Administrative judges may exercise 
 authority as provided in paragraph (b) of this section upon their own 
 initiative or upon the motion of a party, as appropriate.
+
+[[Page 58]]
+
     (b) Authority. Administrative judges shall conduct fair and 
 impartial hearings and take all necessary action to avoid delay in the 
 disposition of all proceedings. They shall have all powers necessary to 
@@ -4874,13 +4886,9 @@ through 28.45;
 hearing, maintain decorum and exclude from the hearing any disruptive 
 persons;
     (6) Exclude from the hearing any witness, except the petitioner(s), 
-whose
-
-[[Page 58]]
-
-later testimony might be colored by testimony of other witnesses, or any 
-persons whose presence might have a chilling effect on a testifying 
-witness;
+whose later testimony might be colored by testimony of other witnesses, 
+or any persons whose presence might have a chilling effect on a 
+testifying witness;
     (7) Rule on all motions, witness and exhibit lists and proposed 
 findings;
     (8) Require the filing of memoranda of law and the presentation of 
@@ -4945,6 +4953,8 @@ timely fashion in compliance with this subpart.
 
 [58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69301, Dec. 12, 2003]
 
+[[Page 59]]
+
                   Parties, Practitioners and Witnesses
 
 
@@ -4960,10 +4970,7 @@ Once a party has designated a representative, all documents required by
 the Board's regulations to be served upon the party shall instead be 
 served upon the representative.
     (b) A party may choose any representative so long as the person is 
-willing and available to serve. However, the other party or parties may
-
-[[Page 59]]
-
+willing and available to serve. However, the other party or parties may 
 challenge the representative on the grounds of conflict of interest or 
 conflict of position. This challenge must be made by motion to the 
 administrative judge within 10 days of service of the notice of 
@@ -5027,9 +5034,13 @@ proceeding because the proceeding, or its outcome, may affect their
 rights or duties.
     (b) Any person may, by motion to the administrative judge, request 
 permission to intervene. The motion shall state the reasons why the 
-person should be permitted to intervene. A person alleged to have 
-committed a prohibited personnel practice under 5 U.S.C. 2302(b) may 
-request permission to intervene under this section.
+person
+
+[[Page 60]]
+
+should be permitted to intervene. A person alleged to have committed a 
+prohibited personnel practice under 5 U.S.C. 2302(b) may request 
+permission to intervene under this section.
     (c) A motion for permission to intervene will be granted where a 
 determination is made by the administrative judge or the Board, where 
 the case is being heard en banc, that the requestor will be affected 
@@ -5040,9 +5051,6 @@ intervene.
     (d) Intervenors who are granted permission to intervene will be 
 considered full parties to the hearing and will have the same rights and 
 duties as a party with two exceptions:
-
-[[Page 60]]
-
     (1) Intervenors will not have an independent right to a hearing.
     (2) Intervenors may participate in Board proceedings only on the 
 issues affecting them, as determined by the administrative judge or 
@@ -5116,9 +5124,12 @@ interpreted as instructive rather than controlling.
 this section regarding any nonprivileged matter which is relevant to the 
 issue under review, including the existence, description, nature, 
 custody, condition and location of documents or other tangible things, 
-and the identity and location of persons having knowledge of relevant 
-facts. The information sought must appear reasonably calculated to lead 
-to the discovery of admissible evidence.
+and the identity and location of persons having knowledge
+
+[[Page 61]]
+
+of relevant facts. The information sought must appear reasonably 
+calculated to lead to the discovery of admissible evidence.
     (c) Methods. Discovery may be obtained by one or more of the methods 
 provided under the Federal Rules of Civil Procedure, including written 
 interrogatories, depositions, production of documents or things for 
@@ -5132,11 +5143,8 @@ Sec. 28.42  Discovery procedures and protective orders.
 
     (a) Discovery from a party. A party seeking discovery from another 
 party shall initiate the process by serving a request for discovery on 
-the other party. For purposes of discovery under
-
-[[Page 61]]
-
-these regulations, a party includes an intervenor.
+the other party. For purposes of discovery under these regulations, a 
+party includes an intervenor.
     (1) Each request for discovery shall state the time limit for 
 responding, as prescribed in paragraph (d) of this section.
     (2) In the case of a request for deposition of a party, reasonable 
@@ -5189,22 +5197,23 @@ unless the parties agree otherwise.
     (3) In responding to a discovery request, a party or nonparty shall 
 respond as fully as possible, except to the extent that the party or 
 nonparty objects to the discovery or requests a protective order. Any 
-objection or request for a protective order shall be filed within the 
-time limits set forth in paragraph (d)(2) of this section. Any objection 
-shall be addressed to the party requesting discovery and shall state the 
-particular grounds for the objection. Any request for a protective order 
-shall state the grounds for the protective order and shall be served on 
-the administrative judge and any other parties to the action. The 
-administrative judge shall rule on the request for a protective order.
+objection or request for a protective order shall be filed
+
+[[Page 62]]
+
+within the time limits set forth in paragraph (d)(2) of this section. 
+Any objection shall be addressed to the party requesting discovery and 
+shall state the particular grounds for the objection. Any request for a 
+protective order shall state the grounds for the protective order and 
+shall be served on the administrative judge and any other parties to the 
+action. The administrative judge shall rule on the request for a 
+protective order.
     (4) Motions for an order compelling discovery shall be filed with 
 the administrative judge within 10 days of the service of objections or 
 within 10 days of the expiration of the time limits for response when no 
 response or an alleged inadequate response is received. Opposition to a 
-motion to compel must be filed with the administrative judge
-
-[[Page 62]]
-
-within 10 days of the date of service of the motion.
+motion to compel must be filed with the administrative judge within 10 
+days of the date of service of the motion.
     (5) Discovery shall be completed by the time designated by the 
 administrative judge, but no later than 65 days after the service of the 
 notice of filing of a petition. A later date may be set by the 
@@ -5275,6 +5284,9 @@ States or any territory or possession thereof, the Commonwealth of
 Puerto Rico, or the District of Columbia. Any member of the Board may 
 order the taking of depositions or order responses to written 
 interrogatories.
+
+[[Page 63]]
+
     (b) Motion. (1) A motion for the issuance of a subpoena requiring 
 the attendance and testimony of witnesses or the production of documents 
 or other evidence under Sec. 28.46(a) shall be submitted to the 
@@ -5287,11 +5299,8 @@ deposition or the production of documents.
     (c) Forms and showing. Motions for subpoenas shall be submitted in 
 writing to the administrative judge and shall specify with particularity 
 the books, papers, or testimony desired and shall be supported by a 
-showing of general relevance and reasonable scope
-
-[[Page 63]]
-
-and a statement of the facts expected to be proven thereby.
+showing of general relevance and reasonable scope and a statement of the 
+facts expected to be proven thereby.
 
 [58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69301, Dec. 12, 2003]
 
@@ -5369,7 +5378,11 @@ submit the original of each such exhibit to the court reporter, two
 copies to the administrative judge, plus one copy for each opposing 
 party that is separately represented.
     (e) Each party to a proceeding shall be responsible for bringing the 
-proper number of copies of an exhibit to the hearing.
+proper
+
+[[Page 64]]
+
+number of copies of an exhibit to the hearing.
     (f) Multipage exhibits shall be paginated in the lower right hand 
 corner and the first page shall indicate the total number of pages in 
 the exhibit. Multiple exhibits shall be indexed and tabbed.
@@ -5386,15 +5399,12 @@ expected to be used by the witnesses.
 Sec. 28.57  Public hearings.
 
     (a) Hearings shall be open to the public. However, the 
-administrative judge at his or her discretion, may order a
-
-[[Page 64]]
-
-hearing or any part thereof closed, where to do so would be in the best 
-interests of the petitioner, a witness, the public, or other affected 
-persons. Any order closing the hearing shall set forth the reasons for 
-the administrative judge's decision. Any objections thereto shall be 
-made a part of the record.
+administrative judge at his or her discretion, may order a hearing or 
+any part thereof closed, where to do so would be in the best interests 
+of the petitioner, a witness, the public, or other affected persons. Any 
+order closing the hearing shall set forth the reasons for the 
+administrative judge's decision. Any objections thereto shall be made a 
+part of the record.
     (b) At the hearing, the petitioner, the petitioner's representative, 
 GAO's legal representative, and a GAO management representative, who is 
 not expected to testify, each have a right to be present. The Agency 
@@ -5453,6 +5463,8 @@ separately represented. When an action is before the full Board, an
 original and seven copies of each brief must be filed with the Board and 
 one copy served on each party separately represented.
 
+[[Page 65]]
+
 
 <R05>
 Sec. 28.61  Burden and degree of proof.
@@ -5472,13 +5484,9 @@ procedures in arriving at such decision;
 practice described in 4 CFR 2.5; or
     (3) Shows that the decision was not in accordance with law.
     (c) In any other action within the Board's jurisdiction, the 
-petitioner
-
-[[Page 65]]
-
-shall have the responsibility of presenting the evidence in support of 
-the action and shall have the burden of proving the allegations of the 
-appeal by a preponderance of the evidence.
+petitioner shall have the responsibility of presenting the evidence in 
+support of the action and shall have the burden of proving the 
+allegations of the appeal by a preponderance of the evidence.
     (d) Definitions. For purposes of this section, the following 
 definitions shall apply:
     Harmful error means error by the agency in the application of its 
@@ -5537,6 +5545,8 @@ and any approved correction to the transcript.
 
 [58 FR 61992, Nov. 23, 1993. Redesignated at 68 FR 69302, Dec. 12, 2003]
 
+[[Page 66]]
+
                                 Evidence
 
 
@@ -5565,12 +5575,9 @@ Sec. 28.67  Production of statements.
     After an individual has given evidence in a proceeding, any party 
 may request a copy of any prior signed statement made by that individual 
 which is relevant to the evidence given. If the party refuses to furnish 
-the statement, the administrative judge
-
-[[Page 66]]
-
-may draw an adverse inference from the failure to produce or may exclude 
-the relevant evidence given by the individual from consideration.
+the statement, the administrative judge may draw an adverse inference 
+from the failure to produce or may exclude the relevant evidence given 
+by the individual from consideration.
 
 
 <R05>
@@ -5636,8 +5643,12 @@ after service of the motion.
 interlocutory ruling shall not be appealable. The administrative judge 
 shall promptly bring a denial of such a motion, and the reasons 
 therefor, to the attention of the Board. If, upon its consideration of 
-the motion and the underlying record, the Board believes that 
-interlocutory review is warranted, it may grant the motion sua sponte.
+the motion and the underlying
+
+[[Page 67]]
+
+record, the Board believes that interlocutory review is warranted, it 
+may grant the motion sua sponte.
     (e) Upon its acceptance of a ruling of the administrative judge for 
 interlocutory review, the Board shall issue an order setting forth the 
 procedures that will be followed in the conduct of that review.
@@ -5648,8 +5659,6 @@ administrative judge.
     (g) The denial of a motion for certification does not affect the 
 right of the parties to challenge interlocutory rulings in the course of 
 the review by the Board of initial or recommended decisions.
-
-[[Page 67]]
 
           Board Decisions, Attorney's Fees and Judicial Review
 
@@ -5712,21 +5721,22 @@ part. If deemed warranted, the Board may remand the proceeding to the
 single member or panel for further action, including the reopening of 
 the record for the taking of additional evidence. Unless the full Board 
 expressly retains jurisdiction, the single member or panel shall render, 
-on completion of the remand, a supplemental initial decision which shall 
-be subject to appellate review in the same manner and to the same extent 
-as provided for initial decisions in paragraphs (b), (d) and (g) of this 
-section. If the Board does expressly retain jurisdiction at the time of 
-remand, the single member or panel shall instead render a report to the 
-Board on the remanded matters. Upon receipt of the report, the Board 
-shall determine whether the views of the parties on the content of the 
-report should be obtained in writing and, where necessary, shall fix by 
-order the time for the submission of those views. A decision of the full 
-Board disposing of the proceeding without a remand or, where the Board 
-has expressly retained jurisdiction, following completion of the remand 
-shall be the final decision of the Board and subject to judicial review.
+on completion of the remand, a supplemental initial decision which
 
 [[Page 68]]
 
+shall be subject to appellate review in the same manner and to the same 
+extent as provided for initial decisions in paragraphs (b), (d) and (g) 
+of this section. If the Board does expressly retain jurisdiction at the 
+time of remand, the single member or panel shall instead render a report 
+to the Board on the remanded matters. Upon receipt of the report, the 
+Board shall determine whether the views of the parties on the content of 
+the report should be obtained in writing and, where necessary, shall fix 
+by order the time for the submission of those views. A decision of the 
+full Board disposing of the proceeding without a remand or, where the 
+Board has expressly retained jurisdiction, following completion of the 
+remand shall be the final decision of the Board and subject to judicial 
+review.
     (g) In conducting its examination of the initial decision, the Board 
 may substitute its own findings of fact and conclusions of law, but the 
 Board generally will defer to demeanor-based credibility determinations 
@@ -5790,8 +5800,11 @@ service of the request. Motions for attorney's fees shall be filed in
 accordance with Sec. 28.21 of these regulations. Rulings on attorney's 
 fees and costs shall be consistent with the standards set forth at 5 
 U.S.C. 7701(g). The decision of the administrative judge concerning 
-attorney's fees and costs shall be subject to review and shall become 
-final according to the provisions of Sec. 28.87.
+attorney's fees and costs shall be subject to review and
+
+[[Page 69]]
+
+shall become final according to the provisions of Sec. 28.87.
 
 [68 FR 69302, Dec. 12, 2003]
 
@@ -5805,11 +5818,8 @@ Appeals for the Federal Circuit within 30 days after the petitioner
 receives notice of the Board's decision.
     (b) The Board may designate the Solicitor, the General Counsel or 
 any other qualified individual to represent it in any judicial 
-proceeding involving a Board decision or the interpretation
-
-[[Page 69]]
-
-of a Board rule or of the GAO Personnel Act.
+proceeding involving a Board decision or the interpretation of a Board 
+rule or of the GAO Personnel Act.
 
 [58 FR 61992, Nov. 23, 1993, as amended at 59 FR 59106, Nov. 16, 1994]
 
@@ -5886,8 +5896,11 @@ U.S.C. 12101 et seq.) and sections 501 and 505 of the Rehabilitation Act
 of 1973 (29 U.S.C. 791, 794a) prohibiting discrimination on the basis of 
 disability; or
     (e) Any other law prohibiting discrimination in Federal employment 
-on the basis of race, color, religion, age, sex, national origin or 
-disability. 31 U.S.C. 732(f)(2).
+on the basis of race, color, religion, age,
+
+[[Page 70]]
+
+sex, national origin or disability. 31 U.S.C. 732(f)(2).
 
 [58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69302, Dec. 12, 2003]
 
@@ -5905,12 +5918,9 @@ this part.
 Sec. 28.97  Class actions in EEO cases.
 
     (a) Prior to invoking the Board's procedures in a case alleging 
-prohibited discrimination on behalf of a class of
-
-[[Page 70]]
-
-GAO employees or applicants for employment, a complaint must first be 
-filed with GAO in accordance with GAO Order 2713.2.
+prohibited discrimination on behalf of a class of GAO employees or 
+applicants for employment, a complaint must first be filed with GAO in 
+accordance with GAO Order 2713.2.
     (b) An appeal from GAO's disposition of any EEO class complaint may 
 be submitted to the Board at the following times:
     (1) Within 20 days of receipt of a GAO determination rejecting or 
@@ -5970,6 +5980,9 @@ times:
 decision rejecting the complaint in whole or part;
     (2) Whenever a period of more than 120 days has elapsed since the 
 complaint was filed, and the GAO has not issued a final decision; or
+
+[[Page 71]]
+
     (3) Within 30 days from the receipt by the charging party of a final 
 GAO decision concerning the complaint of discrimination.
     (c) Special rules for adverse and performance based actions. Where 
@@ -5980,12 +5993,9 @@ employee wishes to allege that such action was due in whole or part to
 prohibited discrimination (as defined in Sec. 28.95), the employee may 
 elect to do either (but not both) of the following:
     (1) File a charge directly with the Board's General Counsel within 
-30 days of the effective date of the personnel
-
-[[Page 71]]
-
-action and raise the issue of discrimination in the course of the 
-proceedings before the Board; or
+30 days of the effective date of the personnel action and raise the 
+issue of discrimination in the course of the proceedings before the 
+Board; or
     (2) File a complaint of discrimination with the GAO pursuant to GAO 
 Order 2713.2. If the employee elects to file a complaint of 
 discrimination with GAO, he or she may still seek Board review of the 
@@ -6001,8 +6011,8 @@ discrimination with GAO before filing a charge with the Board's General
 Counsel. Consultation with an EEO counselor, without filing a written 
 complaint of discrimination, does not constitute an election of the EEO 
 complaint process.
-    (d) Special rules for WRA based actions. An individual alleging 
-discrimination issues in connection with a WRA-based separation may 
+    (d) Special rules for RIF based actions. An individual alleging 
+discrimination issues in connection with a RIF-based separation may 
 follow the procedures outlined above in paragraph (c) of this section 
 for adverse and performance based actions, or may choose instead a third 
 option. In accordance with the provisions of Sec. 28.13, such an 
@@ -6053,10 +6063,13 @@ Federal District Court.
     Any proceeding before the Board shall be terminated when an employee 
 or applicant who is alleging violation of Title VII of the Civil Rights 
 Act of 1964, as amended, 42 U.S.C. 2000e-16, Title I of the Americans 
-with Disabilities Act of 1990, 42 U.S.C. 12101 et seq., the Age 
-Discrimination in Employment Act, 29 U.S.C. 633a, or the Rehabilitation 
-Act, 29 U.S.C. 791, files suit in Federal District Court on the same 
-cause of action pending before the Personnel Appeals Board.
+with Disabilities Act of 1990, 42 U.S.C. 12101 et seq.,
+
+[[Page 72]]
+
+the Age Discrimination in Employment Act, 29 U.S.C. 633a, or the 
+Rehabilitation Act, 29 U.S.C. 791, files suit in Federal District Court 
+on the same cause of action pending before the Personnel Appeals Board.
 
 [68 FR 69303, Dec. 12, 2003]
 
@@ -6069,13 +6082,9 @@ cause of action pending before the Personnel Appeals Board.
 Sec. 28.110  Purpose.
 
     The procedures in this subpart relate to the Board's duty under 31 
-U.S.C.
-
-[[Page 72]]
-
-753(a) (4) and (5) to determine appropriate units of GAO employees for 
-collective bargaining, to conduct elections in order to determine 
-whether the employees in any such units wish to select a labor 
+U.S.C. 753(a) (4) and (5) to determine appropriate units of GAO 
+employees for collective bargaining, to conduct elections in order to 
+determine whether the employees in any such units wish to select a labor 
 organization to represent them in collective bargaining, and, 
 thereafter, to certify labor organizations so selected as the designated 
 exclusive bargaining representative. They are referred to in these 
@@ -6146,8 +6155,11 @@ Sec. 28.113  Contents of representation petitions.
 replace an exclusive bargaining representative) shall consist of:
     (1) A detailed identification of the unit of employees to which the 
 petition applies, and their geographical location within the GAO, the 
-classifications of employees to be included and excluded, and the number 
-of employees involved;
+classifications of employees to be included and
+
+[[Page 73]]
+
+excluded, and the number of employees involved;
     (2) Names, addresses and officers of any other labor organizations 
 known by the petitioner to be interested in representing employees 
 covered by the petition, including a labor organization which is party 
@@ -6155,15 +6167,12 @@ to a current collective bargaining agreement covering any employees in
 the unit;
     (3) Name, address, affiliation, if any, and telephone number of the 
 petitioning organization;
-
-[[Page 73]]
-
     (4) A copy of the constitution and bylaws of the organization, a 
 roster of the organization's officers and representatives, and a 
 statement of the organization's objectives, together with a statement 
 that these documents have also been supplied to the GAO;
     (5) A declaration by the signer of the petition, under penalties of 
-the Criminal Code (18 U.S.C. 1101), that the petition's contents are 
+the Criminal Code (18 U.S.C. 1001), that the petition's contents are 
 true and correct, to the best of his or her knowledge and belief;
     (6) The signature of the representative of the petitioner, including 
 title and telephone number; and
@@ -6204,7 +6213,8 @@ clarification or amendment of a certification, or raising any other
 representation matter) shall be filed on forms to be supplied by the 
 Board upon request.
 
-[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69303, Dec. 12, 2003]
+[58 FR 61992, Nov. 23, 1993, as amended at 68 FR 69303, Dec. 12, 2003; 
+76 FR 76874, Dec. 9, 2011]
 
 
 <R05>
@@ -6221,7 +6231,10 @@ possession concerning other potentially interested labor organizations,
 copies of relevant correspondence, and copies of existing or recently 
 expired agreements covering any employees in the unit. The GAO shall 
 also provide a list of employees it believes should be included in the 
-unit together with their classifications and the names and 
+unit together with their classifications and the names and
+
+[[Page 74]]
+
 classifications of those employees it proposes to exclude from the unit.
     (c) All interested parties shall meet as soon as possible after the 
 expiration of the 10-day posting period and shall attempt to resolve any 
@@ -6229,10 +6242,7 @@ issues in controversy.
     (d) A labor organization may become an intervenor in any 
 representation proceeding by submitting to the General Counsel, within 
 the 10-day period, evidence that it represents at least 10 percent of 
-the employees in the proposed unit or that it is the exclusive
-
-[[Page 74]]
-
+the employees in the proposed unit or that it is the exclusive 
 representative of the employees involved. Denial of a request to 
 intervene may be appealed to the Board. Such an appeal must be filed 
 within 10 days of service of the General Counsel's determination.
@@ -6303,6 +6313,9 @@ affect the results;
 Board shall:
     (1) If necessary rule on the challenges and adjust the results 
 accordingly;
+
+[[Page 75]]
+
     (2) Formally announce the results and, where appropriate, designate 
 a labor organization as the exclusive collective bargaining agent, or 
 withdraw such a designation;
@@ -6312,12 +6325,8 @@ because no choice on the ballot has secured a majority of the valid
 votes cast. Not more than one additional and one runoff election may be 
 held.
     (i) Runoff election. The Board may order a runoff election where one 
-or
-
-[[Page 75]]
-
-more of the labor organizations on the ballot has received the vote of 
-at least 30 percent of the employees eligible to vote, but none has 
+or more of the labor organizations on the ballot has received the vote 
+of at least 30 percent of the employees eligible to vote, but none has 
 gained a majority of the votes cast. The runoff election will be between 
 the two choices receiving the largest and the second largest number of 
 votes in the original election.
@@ -6391,6 +6400,9 @@ Sec. 28.122  Negotiability issues.
 whether a matter is subject to negotiation as part of the requirement to 
 bargain in good faith, the matter shall be appealable to the Board under 
 the following procedures:
+
+[[Page 76]]
+
     (a) When, in connection with negotiations, a proposal is declared 
 nonnegotiable, the party submitting the proposal shall, prior to the 
 close of negotiations, submit to the other party a Request for Formal 
@@ -6399,12 +6411,9 @@ declaring the proposal nonnegotiable shall, within ten (10) days,
 deliver to the other party a Formal Negotiability Determination stating 
 the basis for the Determination.
     (b) A Formal Negotiability Determination may be appealed to the 
-Board within 20 days of its service by filing a
-
-[[Page 76]]
-
-Petition for Review with the Board. A complete statement of argument 
-from the petitioner should accompany the Petition for Review.
+Board within 20 days of its service by filing a Petition for Review with 
+the Board. A complete statement of argument from the petitioner should 
+accompany the Petition for Review.
     (c) The Board shall serve the Respondent with a copy of the Petition 
 for Review and accompanying argument. Respondent shall reply to the 
 Petition for Review within 20 days of its service upon respondent.
@@ -6469,18 +6478,18 @@ actions as it deems necessary to carry out the policies of this section.
 Sec. 28.124  Review of arbitration awards.
 
     (a) Filing an exception. (1) Either party to arbitration, conducted 
-pursuant to a grievance procedure under a collective bargaining 
-agreement, may file with the Board an exception to the arbitrator's 
-award rendered pursuant to the arbitration.
+pursuant to a grievance procedure under a
+
+[[Page 77]]
+
+collective bargaining agreement, may file with the Board an exception to 
+the arbitrator's award rendered pursuant to the arbitration.
     (2) The time limit for filing an exception to an arbitration award 
 is 30 days from the service of the award on the filing party.
     (3) An opposition to the exception may be filed by a party within 30 
 days after the service of the exception.
     (4) A copy of the exception and any opposition shall be served on 
 the other party.
-
-[[Page 77]]
-
     (b) Content of exception. An exception must be a dated, self-
 contained document which sets forth in full:
     (1) A statement of the grounds on which review is requested;
@@ -6556,21 +6565,22 @@ Sec. 28.132  Disciplinary proceedings.
 
     (a) If the General Counsel determines after any investigation under 
 31 U.S.C. 752(b) that disciplinary action should be initiated against an 
-employee, the General Counsel shall prepare a written complaint against 
-the employee containing his or her determination, together with a 
-statement of the supporting facts, and present the complaint and the 
-statement to the employee and the Board in accordance with paragraphs 
-(b) and (c) of this section.
-    (b) In the case of an employee in a confidential, policy making, 
-policy-determining, or policy-advocating position appointed by the 
-President, by and
+employee, the
 
 [[Page 78]]
 
-with the advice and consent of the Senate, the complaint and statement 
-referred to in paragraph (a) of this section, with any response by the 
-employee, shall be presented to the Congress for appropriate action in 
-lieu of being presented under paragraph (d) of this section.
+General Counsel shall prepare a written complaint against the employee 
+containing his or her determination, together with a statement of the 
+supporting facts, and present the complaint and the statement to the 
+employee and the Board in accordance with paragraphs (b) and (c) of this 
+section.
+    (b) In the case of an employee in a confidential, policy making, 
+policy-determining, or policy-advocating position appointed by the 
+President, by and with the advice and consent of the Senate, the 
+complaint and statement referred to in paragraph (a) of this section, 
+with any response by the employee, shall be presented to the Congress 
+for appropriate action in lieu of being presented under paragraph (d) of 
+this section.
     (c) Any employee against whom a complaint has been presented to the 
 Board under paragraph (a) of this section is entitled to:
     (1) A reasonable time to answer orally and in writing and to furnish 
@@ -6629,22 +6639,23 @@ decided by the Board en banc. The Board member, or Board en banc, may
 require further briefing, oral argument, submission of affidavits or 
 other documentary evidence, or may conduct an evidentiary hearing before 
 rendering a decision. Any stay then in effect may be extended, sua 
-sponte, for a period not to exceed 30 days to enable the Board member, 
-or Board en banc, a reasonable opportunity to render a decision.
+sponte, for a period not to exceed 30 days to enable the
+
+[[Page 79]]
+
+Board member, or Board en banc, a reasonable opportunity to render a 
+decision.
     (d) A temporary stay under paragraph (b)(1) of this section may be 
 issued if the Board member, or Board en banc, determines that under all 
 of the circumstances the interests of justice would be served by 
 providing more time for the Board's Office of General Counsel to pursue 
 the investigation. However, the duration of any single temporary stay 
 shall not exceed the amount of time reasonably necessary to acquire 
-sufficient information to
-
-[[Page 79]]
-
-support a request for a permanent stay in the exercise of a high degree 
-of diligence and, in no event, shall any single temporary stay exceed 60 
-days except as provided under paragraph (c) of this section for the 
-purpose of allowing time to render a decision.
+sufficient information to support a request for a permanent stay in the 
+exercise of a high degree of diligence and, in no event, shall any 
+single temporary stay exceed 60 days except as provided under paragraph 
+(c) of this section for the purpose of allowing time to render a 
+decision.
     (e) In determining whether a permanent stay under paragraph (b)(2) 
 of this section should be issued, the Board member, or Board en banc, 
 shall:
@@ -6717,6 +6728,8 @@ Sec. 28.145  Policy.
 communications between members of the Board and their decision-making 
 personnel and any interested party to a proceeding before the Board.
 
+[[Page 80]]
+
 
 <R05>
 Sec. 28.146  Explanation and definitions.
@@ -6730,14 +6743,10 @@ violate other rules requiring submissions to be in writing. Accordingly,
 interested parties may make inquiries about such matters as the status 
 of a case, when it will be heard, and the method for transmitting 
 evidence to the Board. Such communications should be directed to the 
-Clerk of the
-
-[[Page 80]]
-
-Board. Parties may not inquire about such matters as what defense they 
-should use or whether their evidence is adequate, make a submission 
-orally which is required to be in writing, or otherwise inquire as to 
-the merits of a pending case.
+Clerk of the Board. Parties may not inquire about such matters as what 
+defense they should use or whether their evidence is adequate, make a 
+submission orally which is required to be in writing, or otherwise 
+inquire as to the merits of a pending case.
     (b) In this subpart--
     (1) ``Interested party'' includes:
     (i) Any party, including the General Counsel of the Board, or 
@@ -6814,6 +6823,8 @@ involved; and
 guidance would promote the purposes of the General Accounting Office 
 Personnel Act.
 
+[[Page 81]]
+
 
 <R04>
                        Subpart K_Access to Records
@@ -6830,11 +6841,7 @@ inquiry to the PAB General Counsel either by mail or by appearing in
 person at the Personnel Appeals Board Office of General Counsel, 820 
 First Street, NE., Suite 580, Washington, DC 20002, during business 
 hours on a regular business day. Requests in writing should be clearly 
-and
-
-[[Page 81]]
-
-prominently marked ``Privacy Act Request.'' Requests for copies of 
+and prominently marked ``Privacy Act Request.'' Requests for copies of 
 records shall be subject to duplication fees set forth in 4 CFR 83.17.
     (b) Individuals making a request in person shall be required to 
 present satisfactory proof of identity, preferably a document bearing 
@@ -6896,8 +6903,8 @@ evidentiary hearing.
 
 
 <R03>
-PART 75_CERTIFICATES AND APPROVALS OF BASIC VOUCHERS AND 
-INVOICES--Table of Contents
+PART 75_CERTIFICATES AND APPROVALS OF BASIC VOUCHERS AND INVOICES--Table 
+of Contents
 
 
 
@@ -6965,26 +6972,33 @@ Sec. 81.1  Purpose and scope of part.
 
     (a) This part implements the policy of the U.S. Government 
 Accountability Office (GAO) with respect to the public availability of 
-GAO records. While GAO is not subject to the Freedom of Information Act 
-(5 U.S.C. 552), GAO's disclosure policy follows the spirit of the act 
-consistent with its duties and functions and responsibility to the 
-Congress. Application of this act to GAO is not to be inferred from the 
-provisions of these regulations.
-    (b) GAO published testimonies, reports, and decisions or listings of 
-publications are included within the scope of this part to the extent 
-that they may be obtained from the GAO Web site, http://www.gao.gov, or 
-from the U.S. Government Accountability Office, 441 G Street NW., Room 
-LM, Washington, DC 20548, or phone 202-512-6000, FAX 202-512-6061, TDD 
-202-512-2537. [Please note that this address is for published GAO 
-documents only, other records requests should be sent to the address 
-provided in section 81.4(a).]
+GAO records, except as set forth in paragraph (b) of this section. While 
+GAO is not subject to the Freedom of Information Act (5 U.S.C. 552), 
+GAO's disclosure policy follows the spirit of the act consistent with 
+its duties and functions and responsibility to the Congress. Application 
+of this act to GAO is not to be inferred from the provisions of these 
+regulations.
+    (b) GAO published testimonies, reports, decisions, special 
+publications, or listings of publications are not included within the 
+scope of this part. These documents may be obtained from the GAO Web 
+site, http://www.gao.gov, or by telephone at 202-512-6000, TDD 202-512-
+2537, or 1-866-801-7077 (toll free). These publications may be 
+downloaded free of charge from the GAO Web site. Paper copies requested 
+from GAO are subject to a printing, shipping, and handling fee.
+    (c) Requests for all other GAO records are within the scope of this 
+part and should be submitted to GAO as directed in paragraph (a) of 
+Sec. 81.4.
+
+[68 FR 33832, June 6, 2003, as amended at 76 FR 12550, Mar. 8, 2011]
 
 
 <R05>
 Sec. 81.2  Administration.
 
-    The Chief Quality Officer administers this part and may promulgate 
+    GAO's Chief Quality Officer administers this part and may promulgate 
 such supplemental rules or regulations as may be necessary.
+
+[76 FR 12550, Mar. 8, 2011]
 
 
 <R05>
@@ -7017,12 +7031,13 @@ agency.
     (f) Compelling need means that a failure to obtain requested records 
 on an expedited basis could reasonably be expected to pose an imminent 
 threat to the life or physical safety of an individual, or the records 
-are needed urgently, with respect to a request made by a person 
-primarily engaged in disseminating information, for the requester to 
-inform the public concerning actual or alleged Federal Government 
-activity.
+are needed urgently, with respect to a request made
 
 [[Page 84]]
+
+by a person primarily engaged in disseminating information, for the 
+requester to inform the public concerning actual or alleged Federal 
+Government activity.
 
 
 <R05>
@@ -7031,10 +7046,9 @@ Sec. 81.4  Requests for identifiable records.
     (a) A request to inspect or obtain a copy of an identifiable record 
 of GAO must be submitted in writing to the Chief Quality Officer, U.S. 
 Government Accountability Office, 441 G Street, NW., Washington, DC 
-20548. Requests may also be made via a link from GAO's Internet Home 
-page at http://www.gao.gov. Requests also may be emailed to 
-recordsrequest@gao.gov. The Chief Quality Officer will either 
-acknowledge or honor the request within 20 days of receipt.
+20548. Requests also may be emailed to recordsrequest@gao.gov. The Chief 
+Quality Officer will either acknowledge or honor the request within 20 
+days of receipt.
     (b) The Chief Quality Officer will honor requests for expedited 
 processing before all other requests in cases in which the person 
 requesting the records demonstrates a compelling need. A demonstration 
@@ -7054,9 +7068,11 @@ denial by submitting a letter to the Comptroller General of the United
 States at the address listed in paragraph (a) of this section, 
 explaining why the denial of the request was unwarranted.
 
+[68 FR 33832, June 6, 2003, as amended at 76 FR 12550, Mar. 8, 2011]
+
 
 <R05>
-Sec. 81.5  Records originating outside GAO, records of interviews,
+Sec. 81.5  Records originating outside GAO, records of interviews, 
 or records involving work in progress.
 
     (a) It is the policy of GAO not to provide records from its files 
@@ -7097,17 +7113,16 @@ not apply to records, or parts thereof, within any of the categories
 listed below. Unless precluded by law, the Chief Quality Officer may 
 nevertheless release records within these categories.
     (a) Records relating to work performed in response to a 
-congressional request (unless authorized by the congressional 
-requester), congressional correspondence, and congressional contact 
-memoranda.
-    (b) Records specifically required by an Executive Order to be kept 
-secret in
+congressional
 
 [[Page 85]]
 
-the interest of national defense or foreign policy. An example of this 
-category is a record classified under Executive Order 12958, Classified 
-National Security Information.
+request (unless authorized by the congressional requester), 
+congressional correspondence, and congressional contact memoranda.
+    (b) Records specifically required by an Executive Order to be kept 
+secret in the interest of national defense or foreign policy. An example 
+of this category is a record classified under Executive Order 12958, 
+Classified National Security Information.
     (c) Records related solely to the internal personnel rules and 
 practices of an agency. This category includes, in addition to internal 
 matters of personnel administration, internal rules and practices which 
@@ -7134,7 +7149,9 @@ other files, which, if disclosed to the public, would amount to a
 clearly unwarranted invasion of the privacy of any person. An example of 
 such other files within the exemption would be files compiled to 
 evaluate candidates for security clearance.
-    (g) Records and information compiled for law enforcement purposes.
+    (g) Records compiled for law enforcement purposes that originate in 
+another agency, or records provided by GAO to another agency for law 
+enforcement purposes.
     (h) Records having information contained in or related to 
 examination, operation, or condition reports prepared by, on behalf of, 
 or for the use of an agency responsible for the regulation or 
@@ -7159,11 +7176,12 @@ not limited to, records for which GAO officials have made a pledge of
 confidentiality, and records the release of which would adversely impact 
 significant property interests or negatively affect public safety.
     (m) Unsolicited records containing information submitted by any 
-person to GAO in confidence. An example of records covered by this 
-exemption would be information obtained by the GAO Office of General 
-Counsel (GAO FraudNET).
+person to GAO in confidence. Records obtained by the GAO Forensic Audits 
+and Special Investigations (GAO FraudNet) are an example of records that 
+could contain information covered by this exemption.
 
-[68 FR 33832, June 6, 2003, as amended at 72 FR 50644, Sept. 4, 2007]
+[68 FR 33832, June 6, 2003, as amended at 72 FR 50644, Sept. 4, 2007; 76 
+FR 12550, Mar. 8, 2011]
 
 
 <R05>
@@ -7172,16 +7190,15 @@ Sec. 81.7  Fees and charges.
     (a) No fee or charge will be made for:
     (1) Records provided under this part when the direct costs involve 
 less than one hour of search time and 50 pages of photocopying.
+
+[[Page 86]]
+
     (2) Staff-hours spent in resolving any legal or policy questions 
 pertaining to the request.
     (3) Copies of records, including those certified as true copies, 
 furnished for official use to a federal government officer or employee.
     (4) Copies of pertinent records furnished to a party having a direct 
-and
-
-[[Page 86]]
-
-immediate interest in a matter pending before GAO, when necessary or 
+and immediate interest in a matter pending before GAO, when necessary or 
 desirable to the performance of a GAO function.
     (b) The fees and charges described below will be assessed for the 
 direct costs of search, review, and reproduction of records available to 
@@ -7228,13 +7245,18 @@ Sec. 81.8  Public reading facility.
 
     GAO maintains a public reading facility in the Law Library at the 
 Government Accountability Office Building, 441 G Street, NW., 
-Washington, DC. The facility shall be open to the public from 8:30 a.m. 
-to 4 p.m. except Saturday, Sundays, and holidays.
+Washington, DC. To determine if a record is part of the public reading 
+facility collection and to schedule an appointment to visit the 
+facility, contact the Library reference desk at 202-512-2585. The 
+facility is open to the public from 8:30 a.m. to 4 p.m. except 
+Saturdays, Sundays, and Federal holidays.
+
+[68 FR 33832, June 6, 2003, as amended at 76 FR 12550, Mar. 8, 2011]
 
 
 <R03>
-PART 82_FURNISHING RECORDS OF THE GOVERNMENT ACCOUNTABILITY OFFICE 
-IN JUDICIAL PROCEEDINGS--Table of Contents
+PART 82_FURNISHING RECORDS OF THE GOVERNMENT ACCOUNTABILITY OFFICE IN
+JUDICIAL PROCEEDINGS--Table of Contents
 
 
 
@@ -7252,6 +7274,9 @@ Sec. 82.1  Court subpoenas or requests.
 Accountability Office should be directed to the Comptroller General of 
 the United States and served upon the Records Management and Services 
 Officer, Office of Information Systems and Services.
+
+[[Page 87]]
+
     (b) In honoring a court subpoena or request original records may be 
 presented for examination but must not be presented as evidence or 
 otherwise used in any manner by reason of which they may lose their 
@@ -7263,8 +7288,6 @@ are admitted in evidence equally with the originals (31 U.S.C. 704).
 
 [33 FR 358, Jan. 10, 1968, as amended at 45 FR 84955, Dec. 24, 1980; 47 
 FR 56980, Dec. 22, 1982]
-
-[[Page 87]]
 
 
 <R05>
@@ -7352,6 +7375,9 @@ authorized to issue such supplemental regulations or procedural
 directives as may be necessary and appropriate.
     (a) The Director, Personnel, shall have general responsibility and 
 authority for implementing this part, including--
+
+[[Page 88]]
+
     (1) Approving all systems of personnel records to be maintained by 
 GAO (whether physically located in GAO's Office of Personnel or 
 elsewhere), including the contents and uses of such systems, accounting 
@@ -7368,9 +7394,6 @@ Sec. 83.3  Definitions.
     As used in this part:
     (a) Individual means a citizen of the United States or an alien 
 lawfully admitted for permanent residence;
-
-[[Page 88]]
-
     (b) Information means papers, records, photographs, magnetic storage 
 media, micro storage media, and other documentary materials, regardless 
 of physical form or characteristics, containing data about an individual 
@@ -7429,6 +7452,9 @@ data subject) if upon such disclosure notification is transmitted to the
 last known address of the subject of the personnel record; or
     (g) To either House of Congress, or, to the extent of matter within 
 its jurisdiction, any committee or subcommittee of Congress; or
+
+[[Page 89]]
+
     (h) Pursuant to the order of a court of competent jurisdiction or in 
 connection with any judicial or quasi-judicial proceedings; or
     (i) To the Bureau of the Census for purposes of planning or carrying 
@@ -7441,8 +7467,6 @@ Administrator of General Services or his designee to determine whether
 the record has such value; or
     (k) To a consumer reporting agency in accordance with 31 U.S.C. 
 3711(f).
-
-[[Page 89]]
 
 
 <R05>
@@ -7503,6 +7527,9 @@ identifies the individual from whose file the information is sought,
 shall disclose the following information from a Personnel Appeal File to 
 a member of the public, except when the disclosure would constitute a 
 clearly unwarranted invasion of personal privacy:
+
+[[Page 90]]
+
     (1) Confirmation of the name of the individual from whose file the 
 information is sought and the names of the other parties concerned;
     (2) The status of the case;
@@ -7516,10 +7543,7 @@ public by GAO or other Government agency.
     (i) Examinations and related subjects. Information concerning the 
 results of examinations will be released only to the individual 
 concerned, and to those parties explicitly designated in writing by the 
-individual. The names of applicants for GAO positions or eligibles on
-
-[[Page 90]]
-
+individual. The names of applicants for GAO positions or eligibles on 
 GAO or civil service registers, certificates, employment lists, or other 
 lists of eligibles, or their ratings or relative standings are not 
 information available to the public.
@@ -7580,8 +7604,11 @@ individual concerned or a third party are:
     (1) The nature of the information is such that it can only be 
 obtained from another party;
     (2) The cost of collecting the information directly from the 
-individual is unreasonable when compared with the cost of collecting it 
-from another party;
+individual is unreasonable when compared with the
+
+[[Page 91]]
+
+cost of collecting it from another party;
     (3) There is virtually no risk that information collected from other 
 parties, if inaccurate, could result in a determination adverse to the 
 individual concerned;
@@ -7593,9 +7620,6 @@ information collected from another party with the individual concerned.
 information for a personnel record, on the form which it uses to collect 
 the information or on a separate form that can be retained by the 
 individual, of--
-
-[[Page 91]]
-
     (1) The authority for the solicitation of the information and 
 whether disclosure of such information is mandatory or voluntary;
     (2) The principal purpose or purposes for which the information is 
@@ -7652,10 +7676,13 @@ confidentiality of personnel records. At a minimum, these controls shall
 require that all persons whose official duties require access to and use 
 of personnel records be responsible and accountable for safeguarding 
 those records and for ensuring that the records are secured whenever 
-they are not in use or under the direct control of authorized persons. 
-Generally, personnel records should be held, processed, or stored only 
-where facilities and conditions are adequate to prevent unauthorized 
-access;
+they are not in use or under the direct control
+
+[[Page 92]]
+
+of authorized persons. Generally, personnel records should be held, 
+processed, or stored only where facilities and conditions are adequate 
+to prevent unauthorized access;
     (2) Except for access by the data subject, only employees whose 
 official duties require and authorize access shall be allowed to handle 
 and use personnel records, in whatever form or media the records might 
@@ -7665,9 +7692,6 @@ records from storage areas must be kept so that adequate control
 procedures can be established to assure that removed records are 
 returned intact on a timely basis and properly controlled during such 
 period of removal.
-
-[[Page 92]]
-
     (3) In addition to following the above security requirements, 
 managers of automated personnel records shall establish and maintain 
 administrative, technical, physical, and security safeguards for data 
@@ -7731,6 +7755,9 @@ request the SSN as a necessary means of verifying the identity of an
 individual.
     (b) Individuals asked to voluntarily provide their SSN shall suffer 
 no penalty or denial of benefits for refusing to provide it.
+
+[[Page 93]]
+
     (c) When GAO requests an individual to disclose his or her SSN, it 
 shall inform that individual whether that disclosure is mandatory or 
 voluntary, by what statutory or other authority such number is 
@@ -7746,11 +7773,8 @@ Constitution are prohibited, unless expressly authorized by statute or
 by the individual concerned, or unless pertinent to and within the scope 
 of an authorized law enforcement activity. These rights include, but are 
 not limited to, free exercise of religious and political beliefs, 
-freedom of speech and the press, and
-
-[[Page 93]]
-
-freedom to assemble and to petition the Government.
+freedom of speech and the press, and freedom to assemble and to petition 
+the Government.
 
 
 <R05>
@@ -7807,11 +7831,14 @@ shall also contain permanent records affecting the employee's status and
 service as required by U.S. OPM instructions and as designated in FPM 
 Supplement 293-31.
     (f) Use of existing Folders upon transfer or reemployment. In 
-accordance with paragraph (a) of this section, GAO shall request the 
-transfer of the Official Personnel Folder for a person who was 
-previously employed with a Federal agency that maintains such a Folder. 
-The Folder so obtained shall be used in lieu of establishing a new 
-Official Personnel Folder.
+accordance with paragraph (a) of this section, GAO shall
+
+[[Page 94]]
+
+request the transfer of the Official Personnel Folder for a person who 
+was previously employed with a Federal agency that maintains such a 
+Folder. The Folder so obtained shall be used in lieu of establishing a 
+new Official Personnel Folder.
     (1) When a person for whom an Official Personnel Folder has been 
 established transfers from GAO to another Federal agency that maintains 
 the Folder, GAO shall, on request, transfer the Folder to the new 
@@ -7819,9 +7846,6 @@ employing agency.
     (2) Before transferring the Official Personnel Folder, GAO shall--
     (i) Remove those records of a temporary nature filed on the left 
 side of the Folder; and
-
-[[Page 94]]
-
     (ii) Ensure that all permanent documents of the Folder are complete, 
 correct, and present in the Folder in accordance with FPM Supplement 
 293-31.
@@ -7882,7 +7906,11 @@ appropriate; and
     (4) Social security number (for those systems of records retrieved 
 by this identifier).
     (c) A request or inquiry from someone other than the individual to 
-whom the information pertains shall contain such documents or copies of 
+whom
+
+[[Page 95]]
+
+the information pertains shall contain such documents or copies of 
 documents that establish the relationship or authorize access as 
 follows:
     (1) When the requester is the parent or legal guardian of a data 
@@ -7894,9 +7922,6 @@ legal guardian.
 has been declared incompetent by the courts, the requester shall 
 identify the relationship with the data subject and furnish a certified 
 or authenticated copy of the court's appointment of guardianship.
-
-[[Page 95]]
-
     (3) Where the requester is a representative of the data subject, the 
 requester shall identify the relationship with the data subject or the 
 data subject's parent or legal guardian, and furnish documentation 
@@ -7962,6 +7987,9 @@ Sec. 83.14  Denial of access requests.
 
     (a) If an access request is denied, the official denying the request 
 shall give the requester the following information:
+
+[[Page 96]]
+
     (1) The official's name, position title, and business mailing 
 address;
     (2) The date of the denial;
@@ -7975,9 +8003,6 @@ further review.
 the official GAO designee and only upon a determination that:
     (1) The record is subject to an exemption under Sec. 83.21 when the 
 system manager has elected to invoke the exemption; or
-
-[[Page 96]]
-
     (2) The record is information compiled in reasonable anticipation of 
 a civil action or proceeding; or
     (3) The data subject or authorized representative of the data 
@@ -8037,6 +8062,9 @@ proceeding.
     (d) If necessary, the official authorized to rule on a request for 
 amendment may seek additional information pertinent to the request to 
 assure that a fair, equitable, and accurate decision is reached.
+
+[[Page 97]]
+
     (e) The following criteria will be considered by the system manager 
 or designee in reviewing initial requests for amendment of records:
     (1) The sufficiency of the evidence submitted by the data subject;
@@ -8049,9 +8077,6 @@ result in unfair determinations adverse to the data subject;
     (5) The character of record sought to be amended;
     (6) The propriety and feasibility of complying with specific means 
 of amendment requested by the data subject; and
-
-[[Page 97]]
-
     (7) The possible involvement of the record in a judicial or quasi-
 judicial process.
 
@@ -8113,11 +8138,15 @@ Sec. 83.17  Fees.
 
     (a) Generally, GAO's policy is to provide the first copy of any 
 record or portion thereof, furnished as a result of this part, at no 
-cost to the data subject or authorized representative. However, in cases 
-where GAO deems it appropriate (for example, where the record is 
-voluminous), the system manager or designee in his or her discretion may 
-charge a fee when the cost for copying the record (at a rate of 20 cents 
-per page) would be in excess of ten dollars ($10).
+cost to the data subject
+
+[[Page 98]]
+
+or authorized representative. However, in cases where GAO deems it 
+appropriate (for example, where the record is voluminous), the system 
+manager or designee in his or her discretion may charge a fee when the 
+cost for copying the record (at a rate of 20 cents per page) would be in 
+excess of ten dollars ($10).
     (b) There shall be no fees charged or collected from a data subject 
 for the following:
     (1) Search for or retrieval of the data subject's records;
@@ -8127,9 +8156,6 @@ process of making the record available for review;
     (4) Copying at the initiative of GAO without a request from the 
 individual;
     (5) Transportation of the record; and
-
-[[Page 98]]
-
     (6) Making a copy of an amended record to provide the individual 
 with evidence of the amendment.
     (c) Certification of authenticity shall be $10 for each certificate, 
@@ -8202,22 +8228,22 @@ section 3056 of Title 18, United States Code;
 statistical records;
     (5) Investigatory material compiled solely for the purposes of 
 determining suitability, eligibility, or qualifications for Federal 
-civilian employment, military service, Federal contracts, or access to 
-classified information, but only to the extent that the disclosure of 
-such material would reveal the identity of the source who furnished 
-information to the Government under an express promise that the identity 
-of the source would be held in confidence, or, prior to the effective 
-date of this section, under an express or implied promise that the 
-identity of the source would be held in confidence (see Sec. 83.5(j)(1) 
-for the procedure to be used to obtain investigative data originated by 
-other Government agencies);
+civilian employment, military service, Federal contracts, or
+
+[[Page 99]]
+
+access to classified information, but only to the extent that the 
+disclosure of such material would reveal the identity of the source who 
+furnished information to the Government under an express promise that 
+the identity of the source would be held in confidence, or, prior to the 
+effective date of this section, under an express or implied promise that 
+the identity of the source would be held in confidence (see Sec. 
+83.5(j)(1) for the procedure to be used to obtain investigative data 
+originated by other Government agencies);
     (6) Testing or examination material used solely to determine 
 individual qualifications for appointment or promotion in the Federal 
 service the disclosure of which would compromise the objectivity or 
 fairness of the testing or examination process; or
-
-[[Page 99]]
-
     (7) Evaluation material used to determine potential for promotion in 
 the armed services, but only to the extent that the disclosure of such 
 material would reveal the identity of a source who furnished information 
@@ -9635,7 +9661,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2011)
+                     (Revised as of January 1, 2012)
 
                       Title 1--General Provisions
 
@@ -9651,8 +9677,7 @@ which is published separately and revised annually.
             Subtitle A--Office of Management and Budget Guidance 
                 for Grants and Agreements
          I  Office of Management and Budget Governmentwide 
-                Guidance for Grants and Agreements (Parts 100--
-                199)
+                Guidance for Grants and Agreements (Parts 2--199)
         II  Office of Management and Budget Circulars and Guidance 
                 (200--299)
             Subtitle B--Federal Agency Regulations for Grants and 
@@ -9661,6 +9686,7 @@ which is published separately and revised annually.
                 399)
         IV  Department of Agriculture (Parts 400--499)
         VI  Department of State (Parts 600--699)
+       VII  Agency for International Development (Parts 700--799)
       VIII  Department of Veterans Affairs (Parts 800--899)
         IX  Department of Energy (Parts 900--999)
         XI  Department of Defense (Parts 1100--1199)
@@ -9669,7 +9695,7 @@ which is published separately and revised annually.
        XIV  Department of the Interior (Parts 1400--1499)
         XV  Environmental Protection Agency (Parts 1500--1599)
      XVIII  National Aeronautics and Space Administration (Parts 
-                1880--1899)
+                1800--1899)
         XX  United States Nuclear Regulatory Commission (Parts 
                 2000--2099)
       XXII  Corporation for National and Community Service (Parts 
@@ -9681,10 +9707,10 @@ which is published separately and revised annually.
                 2600--2699)
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
-       XXX  Department of Homeland Security (Parts 3000--3099)
 
 [[Page 124]]
 
+       XXX  Department of Homeland Security (Parts 3000--3099)
       XXXI  Institute of Museum and Library Services (Parts 3100--
                 3199)
      XXXII  National Endowment for the Arts (Parts 3200--3299)
@@ -9738,11 +9764,12 @@ which is published separately and revised annually.
       XXXI  Farm Credit Administration (Parts 4100--4199)
     XXXIII  Overseas Private Investment Corporation (Parts 4300--
                 4399)
-     XXXIV  Securities and Exchange Commission (Parts 4400--4499)
 
 [[Page 125]]
 
+     XXXIV  Securities and Exchange Commission (Parts 4400--4499)
       XXXV  Office of Personnel Management (Parts 4500--4599)
+    XXXVII  Federal Election Commission (Parts 4700--4799)
         XL  Interstate Commerce Commission (Parts 5000--5099)
        XLI  Commodity Futures Trading Commission (Parts 5100--
                 5199)
@@ -9781,33 +9808,30 @@ which is published separately and revised annually.
                 7799)
     LXVIII  Commission on Civil Rights (Parts 7800--7899)
       LXIX  Tennessee Valley Authority (Parts 7900--7999)
+       LXX  Court Services and Offender Supervision Agency for the 
+                District of Columbia (Parts 8000--8099)
       LXXI  Consumer Product Safety Commission (Parts 8100--8199)
-     LXXII  Special Inspector General for Iraq Reconstruction 
-                (Parts 8200--8299)
     LXXIII  Department of Agriculture (Parts 8300--8399)
      LXXIV  Federal Mine Safety and Health Review Commission 
                 (Parts 8400--8499)
      LXXVI  Federal Retirement Thrift Investment Board (Parts 
                 8600--8699)
     LXXVII  Office of Management and Budget (Parts 8700--8799)
-      LXXX  Federal Housing Finance Agency (Parts 8700--8799)
+      LXXX  Federal Housing Finance Agency (Parts 9000--9099)
     LXXXII  Special Inspector General for Iraq Reconstruction 
                 (Parts 9200--9299)
+
+[[Page 126]]
+
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Parts 
                 9700--9799)
 
-[[Page 126]]
-
-      XCIX  Department of Defense Human Resources Management and 
-                Labor Relations Systems (Department of Defense--
-                Office of Personnel Management) (Parts 9900--9999)
-
                       Title 6--Domestic Security
 
          I  Department of Homeland Security, Office of the 
-                Secretary (Parts 0--99)
+                Secretary (Parts 1--99)
 
                          Title 7--Agriculture
 
@@ -9859,6 +9883,8 @@ which is published separately and revised annually.
 
 [[Page 127]]
 
+       XXV  Office of Advocacy and Outreach, Department of 
+                Agriculture (Parts 2500--2599)
       XXVI  Office of Inspector General, Department of Agriculture 
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
@@ -9889,9 +9915,6 @@ which is published separately and revised annually.
       XLII  Rural Business-Cooperative Service and Rural Utilities 
                 Service, Department of Agriculture (Parts 4200--
                 4299)
-         L  Rural Business-Cooperative Service, Rurual Housing 
-                Service, and Rural Utilities Service, Department 
-                of Agriculture (Parts 5000--5099)
 
                     Title 8--Aliens and Nationality
 
@@ -9919,7 +9942,7 @@ which is published separately and revised annually.
        III  Department of Energy (Parts 700--999)
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
-      XIII  Nuclear Waste Technical Review Board (Parts 1303--
+      XIII  Nuclear Waste Technical Review Board (Parts 1300--
                 1399)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
@@ -9945,12 +9968,17 @@ which is published separately and revised annually.
        VII  National Credit Union Administration (Parts 700--799)
       VIII  Federal Financing Bank (Parts 800--899)
         IX  Federal Housing Finance Board (Parts 900--999)
+         X  Bureau of Consumer Financial Protection (Parts 1000--
+                1099)
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
        XII  Federal Housing Finance Agency (Parts 1200--1299)
+      XIII  Financial Stability Oversight Council (Parts 1300--
+                1399)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
         XV  Department of the Treasury (Parts 1500--1599)
+       XVI  Office of Financial Research (Parts 1600--1699)
       XVII  Office of Federal Housing Enterprise Oversight, 
                 Department of Housing and Urban Development (Parts 
                 1700--1799)
@@ -9976,7 +10004,7 @@ which is published separately and revised annually.
                 (Aviation Proceedings) (Parts 200--399)
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
-                (Parts 400--499)
+                (Parts 400--1199)
          V  National Aeronautics and Space Administration (Parts 
                 1200--1299)
         VI  Air Transportation System Stabilization (Parts 1300--
@@ -10057,7 +10085,7 @@ which is published separately and revised annually.
                 of Labor (Parts 1--199)
         II  Railroad Retirement Board (Parts 200--399)
        III  Social Security Administration (Parts 400--499)
-        IV  Employees Compensation Appeals Board, Department of 
+        IV  Employees' Compensation Appeals Board, Department of 
                 Labor (Parts 500--599)
          V  Employment and Training Administration, Department of 
                 Labor (Parts 600--699)
@@ -10099,7 +10127,7 @@ which is published separately and revised annually.
                 1100--1199)
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
-      XIII  Millenium Challenge Corporation (Parts 1300--1399)
+      XIII  Millennium Challenge Corporation (Parts 1300--1399)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
@@ -10129,7 +10157,7 @@ which is published separately and revised annually.
                 Department of Housing and Urban Development (Parts 
                 100--199)
         II  Office of Assistant Secretary for Housing-Federal 
-                HousingCommissioner, Department of Housing and 
+                Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
@@ -10165,6 +10193,9 @@ which is published separately and revised annually.
                 Registration Program) (Parts 1700--1799)
        XII  Office of Inspector General, Department of Housing and 
                 Urban Development (Parts 2000--2099)
+        XV  Emergency Mortgage Insurance and Loan Programs, 
+                Department of Housing and Urban Development (Parts 
+                2700--2799)
         XX  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 3200--3899)
@@ -10191,12 +10222,12 @@ which is published separately and revised annually.
        VII  Office of the Special Trustee for American Indians, 
                 Department of the Interior (Parts 1200--1299)
 
+[[Page 133]]
+
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
-                (Parts 1--899)
-
-[[Page 133]]
+                (Parts 1--End)
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -10248,22 +10279,24 @@ which is published separately and revised annually.
                 (Parts 2200--2499)
        XXV  Employee Benefits Security Administration, Department 
                 of Labor (Parts 2500--2599)
+
+[[Page 134]]
+
      XXVII  Federal Mine Safety and Health Review Commission 
                 (Parts 2700--2799)
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
-[[Page 134]]
-
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
                 Labor (Parts 1--199)
-        II  Bureau of Ocean Energy Management, Regulation, and 
-                Enforcement, Department of the Interior (Parts 
-                200--299)
+        II  Bureau of Safety and Environmental Enforcement, 
+                Department of the Interior (Parts 200--299)
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
+         V  Bureau of Ocean Energy Management, Department of the 
+                Interior (Parts 500--599)
        VII  Office of Surface Mining Reclamation and Enforcement, 
                 Department of the Interior (Parts 700--999)
        XII  Office of Natural Resources Revenue, Department of the 
@@ -10290,7 +10323,7 @@ which is published separately and revised annually.
                 Treasury (Parts 800--899)
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
-         X  Financial Crimes Enforcement Network, Departmnent of 
+         X  Financial Crimes Enforcement Network, Department of 
                 the Treasury (Parts 1000--1099)
 
                       Title 32--National Defense
@@ -10302,6 +10335,9 @@ which is published separately and revised annually.
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
+
+[[Page 135]]
+
        XII  Defense Logistics Agency (Parts 1200--1299)
        XVI  Selective Service System (Parts 1600--1699)
       XVII  Office of the Director of National Intelligence (Parts 
@@ -10312,9 +10348,6 @@ which is published separately and revised annually.
                 Archives and Records Administration (Parts 2000--
                 2099)
        XXI  National Security Council (Parts 2100--2199)
-
-[[Page 135]]
-
       XXIV  Office of Science and Technology Policy (Parts 2400--
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
@@ -10349,7 +10382,7 @@ which is published separately and revised annually.
                 Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
                 Education (Parts 600--699)
-       VII  Office of Educational Research and Improvmeent, 
+       VII  Office of Educational Research and Improvement, 
                 Department of Education [Reserved]
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
@@ -10361,6 +10394,9 @@ which is published separately and revised annually.
 
          I  National Park Service, Department of the Interior 
                 (Parts 1--199)
+
+[[Page 136]]
+
         II  Forest Service, Department of Agriculture (Parts 200--
                 299)
        III  Corps of Engineers, Department of the Army (Parts 
@@ -10373,9 +10409,6 @@ which is published separately and revised annually.
                 899)
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
-
-[[Page 136]]
-
          X  Presidio Trust (Parts 1000--1099)
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
@@ -10392,7 +10425,7 @@ which is published separately and revised annually.
                 of Commerce (Parts 1--199)
         II  Copyright Office, Library of Congress (Parts 200--299)
        III  Copyright Royalty Board, Library of Congress (Parts 
-                301--399)
+                300--399)
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
@@ -10401,7 +10434,7 @@ which is published separately and revised annually.
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
          I  Department of Veterans Affairs (Parts 0--99)
-        II  Armed Forces Retirement Home
+        II  Armed Forces Retirement Home (Parts 200--299)
 
                        Title 39--Postal Service
 
@@ -10420,17 +10453,18 @@ which is published separately and revised annually.
                 Defense; Uniform National Discharge Standards for 
                 Vessels of the Armed Forces (Parts 1700--1799)
 
+[[Page 137]]
+
           Title 41--Public Contracts and Property Management
 
+            Subtitle A--Federal Procurement Regulations System 
+                [Note]
             Subtitle B--Other Provisions Relating to Public 
                 Contracts
         50  Public Contracts, Department of Labor (Parts 50-1--50-
                 999)
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
-
-[[Page 137]]
-
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
@@ -10470,9 +10504,11 @@ which is published separately and revised annually.
          I  Public Health Service, Department of Health and Human 
                 Services (Parts 1--199)
         IV  Centers for Medicare & Medicaid Services, Department 
-                of Health and Human Services (Parts 400--499)
+                of Health and Human Services (Parts 400--599)
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
+
+[[Page 138]]
 
                    Title 43--Public Lands: Interior
 
@@ -10480,12 +10516,9 @@ which is published separately and revised annually.
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Lands
          I  Bureau of Reclamation, Department of the Interior 
-                (Parts 200--499)
+                (Parts 200--599)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
-
-[[Page 138]]
-
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10099)
 
@@ -10533,13 +10566,14 @@ which is published separately and revised annually.
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
+
+[[Page 139]]
+
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
-
-[[Page 139]]
 
                           Title 46--Shipping
 
@@ -10585,6 +10619,9 @@ which is published separately and revised annually.
                 Health Benefits Acquisition Regulation (Parts 
                 1600--1699)
         17  Office of Personnel Management (Parts 1700--1799)
+
+[[Page 140]]
+
         18  National Aeronautics and Space Administration (Parts 
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
@@ -10595,9 +10632,6 @@ which is published separately and revised annually.
         23  Social Security Administration (Parts 2300--2399)
         24  Department of Housing and Urban Development (Parts 
                 2400--2499)
-
-[[Page 140]]
-
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
@@ -10641,6 +10675,9 @@ which is published separately and revised annually.
                 Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
                 Transportation (Parts 600--699)
+
+[[Page 141]]
+
        VII  National Railroad Passenger Corporation (AMTRAK) 
                 (Parts 700--799)
       VIII  National Transportation Safety Board (Parts 800--999)
@@ -10650,8 +10687,6 @@ which is published separately and revised annually.
                 Department of Transportation [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
-
-[[Page 141]]
 
                    Title 50--Wildlife and Fisheries
 
@@ -10692,22 +10727,23 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2011)
+                     (Revised as of January 1, 2012)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
 
 Administrative Committee of the Federal Register  1, I
 Administrative Conference of the United States    1, III
-Advanced Research Projects Agency                 32, I
 Advisory Council on Historic Preservation         36, VIII
+Advocacy and Outreach, Office of                  7, XXV
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
-Agency for International Development              22, II
+Agency for International Development              2, VII; 22, II
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
 Agriculture Department                            2, IV; 5, LXXIII
+  Advocacy and Outreach, Office of                7, XXV
   Agricultural Marketing Service                  7, I, IX, X, XI
   Agricultural Research Service                   7, V
   Animal and Plant Health Inspection Service      7, III; 9, I
@@ -10729,7 +10765,7 @@ Agriculture Department                            2, IV; 5, LXXIII
   Inspector General, Office of                    7, XXVI
   National Agricultural Library                   7, XLI
   National Agricultural Statistics Service        7, XXXVI
-  National Institute of Food and Agriculture.     7, XXXIV
+  National Institute of Food and Agriculture      7, XXXIV
   Natural Resources Conservation Service          7, VI
   Operations, Office of                           7, XXVIII
   Procurement and Property Management, Office of  7, XXXII
@@ -10751,10 +10787,10 @@ AMTRAK                                            49, VII
 American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
-Appalachian Regional Commission                   5, IX
 
 [[Page 144]]
 
+Appalachian Regional Commission                   5, IX
 Architectural and Transportation Barriers         36, XI
      Compliance Board
 Arctic Research Commission                        45, XXIII
@@ -10765,7 +10801,7 @@ Army Department                                   32, V
 Bilingual Education and Minority Languages        34, V
      Affairs, Office of
 Blind or Severely Disabled, Committee for         41, 51
-     Purchase From People Who Are
+     Purchase from People Who Are
 Broadcasting Board of Governors                   22, V
   Federal Acquisition Regulation                  48, 19
 Bureau of Ocean Energy Management, Regulation,    30, II
@@ -10773,26 +10809,29 @@ Bureau of Ocean Energy Management, Regulation,    30, II
 Census Bureau                                     15, I
 Centers for Medicare & Medicaid Services          42, IV
 Central Intelligence Agency                       32, XIX
+Chemical Safety and Hazardous Investigation       40, VI
+     Board
 Chief Financial Officer, Office of                7, XXX
 Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
 Civil Rights, Commission on                       5, LXVIII; 45, VII
 Civil Rights, Office for                          34, I
+Court Services and Offender Supervision Agency    5, LXX
+     for the District of Columbia
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
-Commerce Department                               44, IV
+Commerce Department                               2, XIII; 44, IV; 50, VI
   Census Bureau                                   15, I
   Economic Affairs, Under Secretary               37, V
   Economic Analysis, Bureau of                    15, VIII
   Economic Development Administration             13, III
   Emergency Management and Assistance             44, IV
   Federal Acquisition Regulation                  48, 13
-  Fishery Conservation and Management             50, VI
   Foreign-Trade Zones Board                       15, IV
   Industry and Security, Bureau of                15, VII
   International Trade Administration              15, III; 19, III
   National Institute of Standards and Technology  15, II
-  National Marine Fisheries Service               50, II, IV, VI
+  National Marine Fisheries Service               50, II, IV
   National Oceanic and Atmospheric                15, IX; 50, II, III, IV, 
        Administration                             VI
   National Telecommunications and Information     15, XXIII; 47, III, IV
@@ -10814,21 +10853,21 @@ Community Services, Office of                     45, X
 Comptroller of the Currency                       12, I
 Construction Industry Collective Bargaining       29, IX
      Commission
+Consumer Financial Protection Bureau              12, X
 Consumer Product Safety Commission                5, LXXI; 16, II
 Copyright Office                                  37, II
 Copyright Royalty Board                           37, III
 Corporation for National and Community Service    2, XXII; 45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
-Court Services and Offender Supervision Agency    28, VIII
-     for the District of Columbia
-Customs and Border Protection Bureau              19, I
-Defense Contract Audit Agency                     32, I
-Defense Department                                5, XXVI; 32, Subtitle A; 
-                                                  40, VII
-
+Court Services and Offender Supervision Agency    5, LXX; 28, VIII
+   for the District of Columbia
 [[Page 145]]
 
+Customs and Border Protection                     19, I
+Defense Contract Audit Agency                     32, I
+Defense Department                                2, XI; 5, XXVI; 32, 
+                                                  Subtitle A; 40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
@@ -10837,8 +10876,6 @@ Defense Department                                5, XXVI; 32, Subtitle A;
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Human Resources Management and Labor Relations  5, XCIX
-       Systems
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 2, XI; 32, I
@@ -10847,7 +10884,7 @@ Defense Intelligence Agency                       32, I
 Defense Logistics Agency                          32, XII; 48, 54
 Defense Nuclear Facilities Safety Board           10, XVII
 Delaware River Basin Commission                   18, III
-District of Columbia, Court Services and          28, VIII
+District of Columbia, Court Services and          5, LXX; 28, VIII
      Offender Supervision Agency for the
 Drug Enforcement Administration                   21, II
 East-West Foreign Trade Board                     15, XIII
@@ -10879,7 +10916,8 @@ Employees Loyalty Board                           5, V
 Employment and Training Administration            20, V
 Employment Standards Administration               20, VI
 Endangered Species Committee                      50, IV
-Energy, Department of                             5, XXIII; 10, II, III, X
+Energy, Department of                             2, IX; 5, XXIII; 10, II, 
+                                                  III, X
   Federal Acquisition Regulation                  48, 9
   Federal Energy Regulatory Commission            5, XXIV; 18, I
   Property Management Regulations                 41, 109
@@ -10896,12 +10934,12 @@ Equal Opportunity, Office of Assistant Secretary  24, I
      for
 Executive Office of the President                 3, I
   Administration, Office of                       5, XV
-  Environmental Quality, Council on               40, V
-  Management and Budget, Office of                5, III, LXXVII; 14, VI; 
-                                                  48, 99
 
 [[Page 146]]
 
+  Environmental Quality, Council on               40, V
+  Management and Budget, Office of                2, Subtitle A; 5, III, 
+                                                  LXXVII; 14, VI; 48, 99
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
   Presidential Documents                          3
@@ -10921,7 +10959,7 @@ Federal Communications Commission                 5, XXIX; 47, I
 Federal Contract Compliance Programs, Office of   41, 60
 Federal Crop Insurance Corporation                7, IV
 Federal Deposit Insurance Corporation             5, XXII; 12, III
-Federal Election Commission                       11, I
+Federal Election Commission                       5, XXXVII; 11, I
 Federal Emergency Management Agency               44, I
 Federal Employees Group Life Insurance Federal    48, 21
      Acquisition Regulation
@@ -10957,10 +10995,11 @@ Federal Trade Commission                          5, XLVII; 16, I
 Federal Transit Administration                    49, VI
 Federal Travel Regulation System                  41, Subtitle F
 Financial Crimes Enforcement Network              31, X
+Financial Research Office                         12, XVI
+Financial Stability Oversight Council             12, XIII
 Fine Arts, Commission on                          45, XXI
 Fiscal Service                                    31, II
 Fish and Wildlife Service, United States          50, I, IV
-Fishery Conservation and Management               50, VI
 Food and Drug Administration                      21, I
 Food and Nutrition Service                        7, II
 Food Safety and Inspection Service                9, III
@@ -10969,13 +11008,13 @@ Foreign Assets Control, Office of                 31, V
 Foreign Claims Settlement Commission of the       45, V
      United States
 Foreign Service Grievance Board                   22, IX
+
+[[Page 147]]
+
 Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-
-[[Page 147]]
-
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
@@ -11013,7 +11052,7 @@ Health and Human Services, Department of          2, III; 5, XLV; 45,
 Homeland Security, Department of                  2, XXX; 6, I
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
-  Customs and Border Protection Bureau            19, I
+  Customs and Border Protection                   19, I
   Federal Emergency Management Agency             44, I
   Human Resources Management and Labor Relations  5, XCVII
        Systems
@@ -11045,13 +11084,13 @@ Housing--Federal Housing Commissioner, Office of  24, II, VIII, X, XX
 Housing, Office of, and Multifamily Housing       24, IV
      Assistance Restructuring, Office of
 Human Development Services, Office of             45, XIII
+
+[[Page 148]]
+
 Immigration and Customs Enforcement Bureau        19, IV
 Immigration and Naturalization                    8, I
 Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
-
-[[Page 148]]
-
 Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
      Secretary
@@ -11064,14 +11103,14 @@ Information Security Oversight Office, National   32, XX
 Inspector General
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
-  Housing and Urban Development Department        24, XII
+  Housing and Urban Development Department        24, XII, XV
 Institute of Peace, United States                 22, XVII
 Inter-American Foundation                         5, LXIII; 22, X
-Interior Department
+Interior Department                               2, XIV
   American Indians, Office of the Special         25, VII
        Trustee
-  MBureau of Ocean Energy Management,             30, II
-       Regulation, and Enforcement
+  Bureau of Ocean Energy Management, Regulation,  30, II
+       and Enforcement
   Endangered Species Committee                    50, IV
   Federal Acquisition Regulation                  48, 14
   Federal Property Management Regulations System  41, 114
@@ -11085,6 +11124,7 @@ Interior Department
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
   Natural Resource Revenue, Office of             30, XII
+  Ocean Energy Management, Bureau of              30, V
   Reclamation, Bureau of                          43, I
   Secretary of the Interior, Office of            2, XIV; 43, Subtitle A
   Surface Mining Reclamation and Enforcement,     30, VII
@@ -11098,7 +11138,6 @@ International Development, United States Agency   22, II
   Federal Acquisition Regulation                  48, 7
 International Development Cooperation Agency,     22, XII
      United States
-International Fishing and Related Activities      50, III
 International Joint Commission, United States     22, IV
      and Canada
 International Organizations Employees Loyalty     5, V
@@ -11110,7 +11149,7 @@ Investment Security, Office of                    31, VIII
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                2, XXVII; 5, XXVIII; 28, 
+Justice Department                                2, XXVIII; 5, XXVIII; 28, 
                                                   I, XI; 40, IV
   Alcohol, Tobacco, Firearms, and Explosives,     27, II
        Bureau of
@@ -11124,13 +11163,13 @@ Justice Department                                2, XXVII; 5, XXVIII; 28,
   Offices of Independent Counsel                  28, VI
   Prisons, Bureau of                              28, V
   Property Management Regulations                 41, 128
+
+[[Page 149]]
+
 Labor Department                                  5, XLII
   Employee Benefits Security Administration       29, XXV
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
-
-[[Page 149]]
-
   Employment Standards Administration             20, VI
   Federal Acquisition Regulation                  48, 29
   Federal Contract Compliance Programs, Office    41, 60
@@ -11159,7 +11198,7 @@ Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
 Merit Systems Protection Board                    5, II, LXIV
 Micronesian Status Negotiations, Office for       32, XXVII
-Millenium Challenge Corporation                   22, XIII
+Millennium Challenge Corporation                  22, XIII
 Mine Safety and Health Administration             30, I
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
@@ -11171,7 +11210,7 @@ National Aeronautics and Space Administration     2, XVIII; 5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
 National Agricultural Statistics Service          7, XXXVI
-National and Community Service, Corporation for   45, XII, XXV
+National and Community Service, Corporation for   2, XXII; 45, XII, XXV
 National Archives and Records Administration      2, XXVI; 5, LXVI; 36, XII
   Information Security Oversight Office           32, XX
 National Capital Planning Commission              1, IV
@@ -11192,19 +11231,19 @@ National Highway Traffic Safety Administration    23, II, III; 47, VI; 49, V
 National Imagery and Mapping Agency               32, I
 National Indian Gaming Commission                 25, III
 National Institute for Literacy                   34, XI
-National Institute of Food and Agriculture.       7, XXXIV
+National Institute of Food and Agriculture        7, XXXIV
 National Institute of Standards and Technology    15, II
 National Intelligence, Office of Director of      32, XVII
 National Labor Relations Board                    5, LXI; 29, I
-National Marine Fisheries Service                 50, II, IV, VI
+National Marine Fisheries Service                 50, II, IV
+
+[[Page 150]]
+
 National Mediation Board                          29, X
 National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV, 
                                                   VI
 National Park Service                             36, I
 National Railroad Adjustment Board                29, III
-
-[[Page 150]]
-
 National Railroad Passenger Corporation (AMTRAK)  49, VII
 National Science Foundation                       2, XXV; 5, XLIII; 45, VI
   Federal Acquisition Regulation                  48, 25
@@ -11226,6 +11265,7 @@ Nuclear Regulatory Commission                     2, XX; 5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
 Occupational Safety and Health Review Commission  29, XX
+Ocean Energy Management, Bureau of                30, V
 Offices of Independent Counsel                    28, VI
 Office of Workers' Compensation Programs          20, VII
 Oklahoma City National Memorial Trust             36, XV
@@ -11236,12 +11276,10 @@ Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
      Certain Employees
-Peace Corps                                       22, III
+Peace Corps                                       2, XXXVII; 22, III
 Pennsylvania Avenue Development Corporation       36, IX
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-  Human Resources Management and Labor Relations  5, XCIX
-       Systems, Department of Defense
   Human Resources Management and Labor Relations  5, XCVII
        Systems, Department of Homeland Security
   Federal Acquisition Regulation                  48, 17
@@ -11275,12 +11313,12 @@ Research and Innovative Technology                49, XI
      Administration
 Rural Business-Cooperative Service                7, XVIII, XLII, L
 Rural Development Administration                  7, XLII
-Rural Housing Service                             7, XVIII, XXXV, L
-Rural Telephone Bank                              7, XVI
-Rural Utilities Service                           7, XVII, XVIII, XLII, L
 
 [[Page 151]]
 
+Rural Housing Service                             7, XVIII, XXXV, L
+Rural Telephone Bank                              7, XVI
+Rural Utilities Service                           7, XVII, XVIII, XLII, L
 Saint Lawrence Seaway Development Corporation     33, IV
 Science and Technology Policy, Office of          32, XXIV
 Science and Technology Policy, Office of, and     47, II
@@ -11338,7 +11376,7 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Community Development Financial Institutions    12, XVIII
        Fund
   Comptroller of the Currency                     12, I
-  Customs and Border Protection Bureau            19, I
+  Customs and Border Protection                   19, I
   Engraving and Printing, Bureau of               31, VI
   Federal Acquisition Regulation                  48, 10
   Federal Claims Collection Standards             31, IX
@@ -11351,12 +11389,13 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Monetary Offices                                31, I
   Secret Service                                  31, IV
   Secretary of the Treasury, Office of            31, Subtitle A
+
+[[Page 152]]
+
   Thrift Supervision, Office of                   12, V
 Truman, Harry S. Scholarship Foundation           45, XVIII
 United States and Canada, International Joint     22, IV
-   Commission
-[[Page 152]]
-
+     Commission
 United States and Mexico, International Boundary  22, XI
      and Water Commission, United States Section
 Utah Reclamation Mitigation and Conservation      43, III
@@ -11425,39 +11464,5 @@ Chapter I
 28.2 (a) introductory text, (b)(1) and (3) revised.................69298
 28.3 Revised.......................................................69298
 28.4 (d) added.....................................................69298
-28.8 (a) revised...................................................69298
-28.10 Heading and (b)(1) revised; (a) amended......................69298
-28.11 Heading, (c) and (d)(2) revised; (e) amended.................69298
-28.12 (c), (d) and (g) revised; (h) and (i) added..................69299
-28.13 Revised......................................................69299
-28.15 Amended......................................................69299
-28.17 Heading, (a)(2), (3), (b)(1), (2), (c)(1), (2) and (3) 
-        revised....................................................69299
-28.18 Heading, (a) through (d) introductory text, (e) and (f) 
-        revised....................................................69300
-28.19 (a) revised..................................................69300
-28.20 (b)(1) heading and (2) heading removed; (b)(1) and (2) 
-        amended....................................................69300
-28.21 Revised......................................................69300
-28.22 (b)(12) amended..............................................69301
-28.24 (a) introductory text and (2) revised; (b) amended...........69301
-28.25 (a) amended..................................................69301
-28.27 (c) amended..................................................69301
-28.28 (a) amended..................................................69301
-28.29 (a)(2) revised...............................................69301
-28.41 (b) amended..................................................69301
-28.42 (d)(5) amended...............................................69301
-28.46 (b) revised; (d) removed.....................................69301
-28.56 (f) amended..................................................69301
-28.57 (b) revised..................................................69301
-28.61 (b) introductory text and (d) amended........................69302
-28.62 Redesignated as 28.63; new 28.62 added.......................69302
-28.63 Redesignated from 28.62......................................69302
-28.66 Revised......................................................69302
-28.69 Revised......................................................69302
-
-[[Page 154]]
-
-28.86 Removed......................................................69302
-28.87 (a), (b) and (g) intro
+28.8 (a) rev
 </pre></body></html>

@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 49 CFR ]
-[Code of Federal Regulations (annual edition) - October 1, 2011 Edition]
+[Code of Federal Regulations (annual edition) - October 1, 2012 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -8,7 +8,7 @@
 [[Page i]]
 
           
- <R02>
+<R02>
           Title 49
 
 Transportation
@@ -18,12 +18,12 @@ ________________________
 
 Part 1200 to End
 
-                         Revised as of October 1, 2011
+                         Revised as of October 1, 2012
 
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of October 1, 2011
+          As of October 1, 2012
                     Published by the Office of the Federal Register 
                     National Archives and Records Administration as a 
                     Special Edition of the Federal Register
@@ -99,10 +99,10 @@ Part 1200 to End
           Chapter XII--Transportation Security Administration, 
           Department of Homeland Security                          239
   Finding Aids:
-      Table of CFR Titles and Chapters........................     447
-      Alphabetical List of Agencies Appearing in the CFR......     467
-      Redesignation Table.....................................     477
-      List of CFR Sections Affected...........................     479
+      Table of CFR Titles and Chapters........................     449
+      Alphabetical List of Agencies Appearing in the CFR......     469
+      Redesignation Table.....................................     479
+      List of CFR Sections Affected...........................     481
 
 [[Page iv]]
 
@@ -158,7 +158,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, October 1, 2011), consult the ``List of CFR 
+revision date (in this case, October 1, 2012), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -197,9 +197,9 @@ OBSOLETE PROVISIONS
 the cover of each volume are not carried. Code users may find the text 
 of provisions in effect on a given date in the past by using the 
 appropriate numerical list of sections affected. For the period before 
-April 1, 2001, consult either the List of CFR Sections Affected, 1949-
+January 1, 2001, consult either the List of CFR Sections Affected, 1949-
 1963, 1964-1972, 1973-1985, or 1986-2000, published in eleven separate 
-volumes. For the period beginning April 1, 2001, a ``List of CFR 
+volumes. For the period beginning January 1, 2001, a ``List of CFR 
 Sections Affected'' is published at the end of each CFR volume.
 
 ``[RESERVED]'' TERMINOLOGY
@@ -300,10 +300,10 @@ site for public law numbers, Federal Register finding aids, and related
 information. Connect to NARA's web site at www.archives.gov/federal-
 register.
 
-    Raymond A. Mosley,
+    Charles A. Barth,
     Director,
     Office of the Federal Register.
-    October 1, 2011.
+    October 1, 2012.
 
 
 
@@ -343,7 +343,7 @@ the current regulations issued under chapter X--Surface Transportation
 Board, chapter XI--Research and Innovative Technology Administration, 
 and chapter XII--Transportation Security Administration, Department of 
 Transportation. The contents of these volumes represent all current 
-regulations codified under this title of the CFR as of October 1, 2011.
+regulations codified under this title of the CFR as of October 1, 2012.
 
     In the volume containing parts 100-177, see Sec.  172.101 for the 
 Hazardous Materials Table. The Federal Motor Vehicle Safety Standards 
@@ -409,9 +409,7 @@ Part                                                                Page
 1200            General accounting regulations under the 
                     Interstate Commerce Act.................           7
 1201            Railroad companies..........................           8
-1202-1219
-
- [Reserved]
+1202-1219        [Reserved]
 
                 PARTS 1220-1239--PRESERVATION OF RECORDS
 1220            Preservation of records.....................         164
@@ -430,34 +428,26 @@ Part                                                                Page
 1246            Number of railroad employees................         205
 1247            Report of cars loaded and cars terminated...         205
 1248            Freight commodity statistics................         205
-1250-1252
-
- [Reserved]
+1250-1252        [Reserved]
 
 [[Page 6]]
 
 1253            Rate-making organization; records and 
                     reports.................................         211
                        PARTS 1260-1269--VALUATION
-1260-1261
-
- [Reserved]
+1260-1261        [Reserved]
 
     PARTS 1280-1299--CLASSIFICATION AND DECLASSIFICATION OF NATIONAL 
                     SECURITY INFORMATION AND MATERIAL
 1280            Handling of national security information 
                     and classified material.................         212
-1281-1299
-
- [Reserved]
+1281-1299        [Reserved]
 
               SUBCHAPTER D--CARRIER RATES AND SERVICE TERMS
 1300            Disclosure, publication, and notice of 
                     change of rates and other service terms 
                     for rail common carriage................         215
-1301
-
-[Reserved]
+1301            [Reserved]
 
 1302            Export and import shipments; railroads......         217
 1305            Disclosure and notice of change of rates and 
@@ -472,9 +462,7 @@ Part                                                                Page
 1313            Railroad contracts for the transportation of 
                     agricultural products...................         227
 1319            Exemptions..................................         233
-1320-1324
-
- [Reserved]
+1320-1324        [Reserved]
 
 1325            Extension of credit to candidates for 
                     Federal office or their representatives.         233
@@ -494,8 +482,8 @@ Part                                                                Page
 
 
 <R03>
-PART 1200_GENERAL ACCOUNTING REGULATIONS UNDER THE INTERSTATE COMMERCE 
-ACT--Table of Contents
+PART 1200_GENERAL ACCOUNTING REGULATIONS UNDER THE INTERSTATE 
+COMMERCE ACT--Table of Contents
 
 
 
@@ -9576,7 +9564,7 @@ account 63-60-00, ``Uncollectible Accounts; General and
 administrative.''
     (b) Allowances for receivables not applicable to transportation 
 operations. Credits to this subdivision shall be concurrently charged to 
-account 553, ``Uncollectable accounts.''
+account 553, ``Uncollectible accounts.''
 
 [42 FR 35017, July 7, 1977, as amended at 67 FR 57533, Sept. 11, 2002]
 710 Working funds.
@@ -15279,7 +15267,7 @@ Administration, Surface Transportation Board, Washington, DC 20423-0001.
 
 
 <R03>
-PART 1241_ANNUAL, SPECIAL, OR PERIODIC REPORTS_CARRIERS SUBJECT TO
+PART 1241_ANNUAL, SPECIAL, OR PERIODIC REPORTS_CARRIERS SUBJECT TO 
 PART I OF THE INTERSTATE COMMERCE ACT--Table of Contents
 
 
@@ -15617,7 +15605,7 @@ required.
 
 
 <R05>
-Sec. 1242.01  Expenses solely related to freight service and passenger 
+Sec. 1242.01  Expenses solely related to freight service and passenger
 service.
 
     The Uniform System of Accounts for Railroad Companies (49 CFR part 
@@ -15830,7 +15818,7 @@ Signals and Interlockers:
 
 
 <R05>
-Sec. 1242.13  Administration--communica- tions (account XX-19-05).
+Sec. 1242.13  Administration--communications (account XX-19-05).
 
     Separate common administration--communications expenses between 
 freight and passenger services in the same proportion as the common 
@@ -15857,11 +15845,11 @@ Administration:
 
 
 <R05>
-Sec. 1242.15  Roadway, tunnels and subways, bridges and culverts, ties, 
-rails, other track material, ballast, track laying and surfacing, and 
-
-road property damaged (accounts XX-17-10 to XX-18-12 inclusive, 21-17-13
-to 21-18-16 inclusive, XX-17-17, XX-18-17, XX-17-48, and XX-18-48).
+Sec. 1242.15  Roadway, tunnels and subways, bridges and culverts, 
+ties, rails, other track material, ballast, track laying and
+surfacing, and road property damaged (accounts XX-17-10 to XX-18-12 
+inclusive, 21-17-13 to 21-18-16 inclusive, XX-17-17, XX-18-17,
+XX-17-48, and XX-18-48).
 
     The expenses for running and switching subactivities shall be 
 separated between freight service and passenger service as follows:
@@ -15997,10 +15985,9 @@ Track (account XX-19-02).
 
 <R05>
 Sec. 1242.27  Coal marine terminals, ore marine terminals, TOFC/COFC 
-terminals, other marine terminals, motor vehicle loading and distribution 
-
-facilities, and facilities for other specialized service operations 
-(accounts XX-13-29 to XX-13-35, inclusive).
+terminals, other marine terminals, motor vehicle loading and 
+distribution facilities, and facilities for other specialized service
+operations (accounts XX-13-29 to XX-13-35, inclusive).
 
     These accounts pertain solely to freight service and contain no 
 common expenses for separation herein.
@@ -16016,8 +16003,7 @@ expenses listed in Sec. 1242.10, Administration--Track (account XX-19-
 
 
 <R05>
-Sec. 1242.29  Fringe benefits (accounts 12-17-00, 12-18-00, and 
-12-19-00).
+Sec. 1242.29  Fringe benefits (accounts 12-17-00, 12-18-00, and 12-19-00).
 
     Separate common expenses in the running subactivity in the same 
 proportion as the salaries and wages, way and structures, common 
@@ -16031,9 +16017,8 @@ subactivity.
 
 
 <R05>
-Sec. 1242.30  Dismantling retired road property and depreciation 
+Sec. 1242.30  Dismantling retired road property and depreciation
 (accounts XX-17-39, XX-18-39, XX-19-39, 62-17-00, 62-18-00, 
-
 and 62-19-00).
 
     Separate common expenses in each account for each subactivity 
@@ -16045,9 +16030,8 @@ properties depreciated and/or dismantled.
 <R05>
 Sec. 1242.31  Lease rentals--debit and credit and other rents--debit 
 and credit (accounts 31-17-00, 31-18-00, 31-19-00, 32-17-00, 32-18-00,
-
-32-19-00, 35-17-00, 35-18-00, 35-19-00, 36-17-00, 36-18-00, and 
-36-19-00).
+32-19-00, 35-17-00, 35-18-00, 35-19-00, 36-17-00, 36-18-00, 
+and 36-19-00).
 
     (a) Separate common debit expense accounts in each subactivity 
 (running,
@@ -16067,9 +16051,8 @@ percentages calculated for the separation of administration--other
 
 <R05>
 Sec. 1242.32  Joint facility rents--debit and credit and joint 
-facility--debit and credit (accounts 33-17-00, 33-18-00, 33-19-00, 
-
-34-17-00, 34-18-00, 34-19-00, 37-17-00, 37-18-00, 37-19-00, 38-17-00,
+facility--debit and credit (accounts 33-17-00, 33-18-00, 33-19-00,
+34-17-00, 34-18-00, 34-19-00,37-17-00, 37-18-00, 37-19-00, 38-17-00,
 38-18-00, and 38-19-00).
 
     (a) Solely related (freight or passenger service) debit expense 
@@ -16088,8 +16071,9 @@ percentages calculated for the separation of administration--other
 
 
 <R05>
-Sec. 1242.33  Other expenses and casualties and insurance (accounts 
-XX-17-99, XX-18-99, XX-19-99, 50-17-00, 50-18-00, and 50-19-00).
+Sec. 1242.33  Other expenses and casualties and insurance 
+(accounts XX-17-99, XX-18-99, XX-19-99, 50-17-00, 50-18-00,
+and 50-19-00).
 
     Separate common expenses on the basis of the percentages calculated 
 for the separation of administrative--other (account XX-19-06).
@@ -16157,16 +16141,16 @@ accounting period for which the separation is being made.
 
 
 <R05>
-Sec. 1242.36  Machinery repair and equipment damaged (accounts XX-26-40
-and XX-26-48).
+Sec. 1242.36  Machinery repair and equipment damaged 
+(accounts XX-26-40 and XX-26-48).
 
     Separate common expenses according to separation of common expenses 
 in repair and maintenance (account XX-26-41).
 
 
 <R05>
-Sec. 1242.37  Dismantling retired property and depreciation (accounts 
-XX-26-39 and 62-26-00).
+Sec. 1242.37  Dismantling retired property and depreciation 
+(accounts XX-26-39 and 62-26-00).
 
     Separate common expenses in each account in proportion to the 
 separation of common repair and maintenance expenses associated with the 
@@ -16184,9 +16168,8 @@ property (accounts 11-26-01, 11-26-41, 11-26-40, 11-26-48, and 11-26-
 
 
 <R05>
-Sec. 1242.39  Lease rentals--debit and credit, other rents--debit and 
-credit, and repairs billed to others (accounts 31-26-00, 32-26-00, 
-
+Sec. 1242.39  Lease rentals--debit and credit, other rents--debit 
+and credit, and repairs billed to others (accounts 31-26-00, 32-26-00,
 35-26-00, 36-26-00 and 40-26-98).
 
     (a) Separate common debit expense accounts in proportion to the 
@@ -16203,8 +16186,7 @@ percentages calculated for the separation of administration (account XX-
 
 <R05>
 Sec. 1242.40  Joint facility rents--debit and credit, and joint 
-facility--debit and credit (accounts 33-26-00, 34-26-00, 37-26-00 
-
+facility--debit and credit (accounts 33-26-00, 34-26-00, 37-26-00
 and 38-26-00).
 
     (a) Solely related freight and passenger debit expense accounts 
@@ -16221,8 +16203,8 @@ percentages calculated for the separation of administration (account XX-
 
 
 <R05>
-Sec. 1242.41  Other and casualties and insurance (accounts XX-26-99 and
-50-26-00).
+Sec. 1242.41  Other and casualties and insurance (accounts XX-26-99
+and 50-26-00).
 
     Separate common expenses on the basis of percentages calculated for 
 the separation of administration (account XX-26-01).
@@ -16231,14 +16213,13 @@ the separation of administration (account XX-26-01).
 
 
 <R05>
-Sec. 1242.42  Administration, repair and maintenance, machinery repair, 
-equipment damaged, dismantling retired property, fringe benefits, other 
-
-casualties and insurance, lease rentals, joint facility rents, other 
-rents, depreciation, joint facility, repairs billed to others, and 
-other (accounts XX-22-01, XX-22-42, XX-22-40, XX-22-48, XX-22-39, 
-12-22-00, 50-22-00, 31-22-00 to 38-22-00 inclusive, 62-22-00,
-40-22-98 and XX-22-99).
+Sec. 1242.42  Administration, repair and maintenance, machinery
+repair, equipment damaged, dismantling retired property, fringe 
+benefits, other casualties and insurance, lease rentals, joint 
+facility rents, other rents, depreciation, joint facility, repairs
+billed to others, and other (accounts XX-22-01, XX-22-42, XX-22-40,
+XX-22-48, XX-22-39, 12-22-00, 50-22-00, 31-22-00 to 38-22-00 
+inclusive, 62-22-00, 40-22-98 and XX-22-99).
 
     These accounts pertain solely to freight service and contain no 
 common expenses for separation herein.
@@ -16259,8 +16240,9 @@ Work and Other Non-Revenue Equipment (XX-27-47)
 
 
 <R05>
-Sec. 1242.44  Trucks, trailers, and containers (revenue service) and 
-floating equipment (revenue service) (accounts XX-23-43 and XX-23-44).
+Sec. 1242.44  Trucks, trailers, and containers (revenue service) 
+and floating equipment (revenue service) (accounts XX-23-43
+and XX-23-44).
 
     These accounts pertain solely to freight service and contain no 
 common expenses for separation herein.
@@ -16273,8 +16255,7 @@ Sec. 1242.45  Passenger and other revenue equipment (account XX-27-45).
 
 
 <R05>
-Sec. 1242.46  Computers and data processing equipment (account 
-XX-27-46).
+Sec. 1242.46  Computers and data processing equipment (account XX-27-46).
 
     If the sum of the direct freight and the direct passenger expenses 
 is more than 50 percent of the total charges to this account for an 
@@ -16323,8 +16304,8 @@ of common salaries and wages in administration (account XX-27-01).
 
 
 <R05>
-Sec. 1242.51  Dismantling retired property and depreciation (accounts 
-XX-27-39 and 62-27-00).
+Sec. 1242.51  Dismantling retired property and depreciation 
+(accounts XX-27-39 and 62-27-00).
 
     Separate common expenses in proportion to the separation of common 
 repair and maintenance expenses associated with the particular common 
@@ -16332,10 +16313,9 @@ property depreciated and/or dismantled.
 
 
 <R05>
-Sec. 1242.52  Lease rentals--debit and credit, other rents--debit and 
-credit, repairs billed to others--credit (accounts 31-27-00, 32-27-00, 
-
-35-27-00, 36-27-00, and 40-27-98).
+Sec. 1242.52  Lease rentals--debit and credit, other rents--debit 
+and credit, repairs billed to others--credit (accounts 31-27-00, 
+32-27-00, 35-27-00, 36-27-00, and 40-27-98).
 
     (a) Separate common debit expense accounts in proportion to the 
 separation of solely related (freight or passenger service) in each 
@@ -16353,7 +16333,6 @@ percentages calculated for the separation of administration (account XX-
 <R05>
 Sec. 1242.53  Joint facility rents--debit and credit and joint 
 facility--debit and credit (accounts 33-27-00, 34-27-00, 37-27-00 
-
 and 38-27-00).
 
     (a) Solely related freight and passenger service debit expense 
@@ -16371,8 +16350,8 @@ same percentages calculated for the separation of administration
 
 
 <R05>
-Sec. 1242.54  Other and casualties and insurance (accounts XX-27-99 
-and 50-27-00).
+Sec. 1242.54  Other and casualties and insurance 
+(accounts XX-27-99 and 50-27-00).
 
     Separate common expenses on the basis of the percentages calculated 
 for the separation of administration (account XX-27-01).
@@ -16406,8 +16385,8 @@ Clearing Wrecks (XX-51-63)
 
 
 <R05>
-Sec. 1242.56  Engine crews and train crews (accounts XX-51-56 and 
-XX-51-57).
+Sec. 1242.56  Engine crews and train crews (accounts XX-51-56 
+and XX-51-57).
 
     Separate common expenses on the basis of direct assignment or if 
 there are no directly assignable expenses, separate on the basis of 
@@ -16422,8 +16401,9 @@ train switching hours.
 
 
 <R05>
-Sec. 1242.58  Operating signals and interlockers, operating drawbridges,
-highway crossing protection (accounts XX-51-59, XX-51-60 and XX-51-61).
+Sec. 1242.58  Operating signals and interlockers, operating 
+drawbridges, highway crossing protection (accounts XX-51-59, XX-51-60
+and XX-51-61).
 
     Separate common expenses on the basis of total train hours 
 (including train switching hours) of the particular common operating 
@@ -16442,7 +16422,6 @@ train miles.
 <R05>
 Sec. 1242.60  Locomotive fuel, electric power purchased/produced for
 motive power and servicing locomotives (accounts XX-51-67, XX-51-68 
-
 and XX-51-69).
 
     Separate common expenses in each account on basis of direct 
@@ -16476,8 +16455,8 @@ calculated for the salaries and wages account--administration (account
 
 
 <R05>
-Sec. 1242.64  Joint facility--debit and credit (accounts 37-51-00 and 
-38-51-00).
+Sec. 1242.64  Joint facility--debit and credit (accounts 37-51-00
+and 38-51-00).
 
     (a) Solely related freight and passenger service debit expense 
 accounts shall be assigned according to the use made of each facility by 
@@ -16494,8 +16473,8 @@ percentages calculated for the separation of administration (account XX-
 
 
 <R05>
-Sec. 1242.65  Other and casualties and insurance (accounts XX-51-99 and 
-50-51-00).
+Sec. 1242.65  Other and casualties and insurance (accounts XX-51-99
+and 50-51-00).
 
     Separate common expenses on the basis of the percentages calculated 
 for the separation of administration (account XX-51-01).
@@ -16520,12 +16499,11 @@ Clearing Wrecks (XX-52-63)
 
 
 <R05>
-Sec. 1242.67  Switch crews; controlling operations; yard and terminal 
-clerical; locomotive fuel; electric power purchased/produced for motive 
-
-power; operating switches signals, retarders, and humps; and servicing 
-locomotives (accounts XX-52-64, XX-52-65, XX-52-66, XX-52-59, XX-52-67,
-XX-52-68 and XX-52-69).
+Sec. 1242.67  Switch crews; controlling operations; yard and terminal
+clerical; locomotive fuel; electric power purchased/produced for
+motive power; operating switches signals, retarders, and humps; 
+and servicing locomotives (accounts XX-52-64, XX-52-65, XX-52-66,
+XX-52-59, XX-52-67, XX-52-68 and XX-52-69).
 
     Separate common expenses on the basis of the distribution of freight 
 and passenger yard-switching hours in those yards common to both freight 
@@ -16533,8 +16511,8 @@ and passenger services.
 
 
 <R05>
-Sec. 1242.68  Freight lost or damaged--solely related (to yard) (account 
-51-52-00).
+Sec. 1242.68  Freight lost or damaged--solely related (to yard) 
+(account 51-52-00).
 
     Separate common expenses on the basis of the solely related freight 
 and passenger expenses or on the basis of a special study.
@@ -16555,8 +16533,8 @@ calculated for the salaries and wages administration account (account
 
 
 <R05>
-Sec. 1242.71  Joint facility--debit and credit (accounts 37-52-00 and 
-38-52-00).
+Sec. 1242.71  Joint facility--debit and credit (accounts 37-52-00 
+and 38-52-00).
 
     (a) Solely related freight and passenger service debit expenses 
 accounts shall be assigned according to the use made of each facility by 
@@ -16575,8 +16553,8 @@ percentages calculated for the separation of administration (account XX-
 
 
 <R05>
-Sec. 1242.72  Other and casualties and insurance (accounts XX-52-99 and
-50-52-00).
+Sec. 1242.72  Other and casualties and insurance (accounts XX-52-99 
+and 50-52-00).
 
     Separate common expenses on the basis of the percentages calculated 
 for the separation of administration (account XX-52-01).
@@ -16585,16 +16563,16 @@ for the separation of administration (account XX-52-01).
 
 
 <R05>
-Sec. 1242.73  Cleaning car interiors and freight lost and damaged--all 
-other (accounts XX-53-70 and 51-53-00).
+Sec. 1242.73  Cleaning car interiors and freight lost and damaged-
+-all other (accounts XX-53-70 and 51-53-00).
 
     Separate common expenses on basis of solely related freight and 
 passenger expenses or special study.
 
 
 <R05>
-Sec. 1242.74  Adjusting and transferring loads, and car loading devices
-and grain doors (accounts XX-33-71 and XX-33-72).
+Sec. 1242.74  Adjusting and transferring loads, and car loading 
+devices and grain doors (accounts XX-33-71 and XX-33-72).
 
     These accounts pertain solely to freight service and contain no 
 common expenses for separation herein.
@@ -16611,13 +16589,12 @@ common account (account 11-53-70).
 
 
 <R05>
-Sec. 1242.76  Administration; pickup and delivery, marine line haul, 
+Sec. 1242.76  Administration; pickup and delivery, marine line haul,
 and rail substitute service; loading, unloading and local marine; 
-
-protective services; freight lost or damaged--solely related; fringe 
-benefits; casualties and insurance; joint facility, and other 
-(accounts XX-34-01, XX-34-73, XX-34-74, XX-34-75, 51-34-00, 12-34-00, 
-50-34-00. 37-34-00, 38-34-00 and XX-34-99).
+protective services; freight lost or damaged--solely related;
+fringe benefits; casualties and insurance; joint facility, and 
+other (accounts  XX-34-01, XX-34-73, XX-34-74, XX-34-75, 51-34-00,
+12-34-00, 50-34-00. 37-34-00, 38-34-00 and XX-34-99).
 
     These accounts pertain solely to freight service and contain no 
 common expenses for separation herein.
@@ -16635,7 +16612,7 @@ communication systems operations and loss and damage claims processing
 
 
 <R05>
-Sec. 1242.78  Employees performing clerical and accounting functions, 
+Sec. 1242.78  Employees performing clerical and accounting functions,
 and loss and damage claims processing (accounts XX-55-76 and XX-55-78).
 
     If the sum of the direct freight and the direct passenger expenses 
@@ -16671,8 +16648,8 @@ calculated for the salaries and wages--administration account (account
 
 
 <R05>
-Sec. 1242.81  Joint facility--debit and credit (accounts 37-55-00 and 
-38-55-00).
+Sec. 1242.81  Joint facility--debit and credit (accounts 37-55-00
+and 38-55-00).
 
     Solely related freight and passenger service debit expense accounts 
 shall be assigned according to the use made of each facility by the 
@@ -16692,8 +16669,8 @@ calculated for the separation of administration (account XX-55-01).
 
 
 <R05>
-Sec. 1242.82  Other and casualties and insurance (accounts XX-55-99 and
-50-55-00).
+Sec. 1242.82  Other and casualties and insurance (accounts XX-55-99
+and 50-55-00).
 
     Separate common expenses on the basis of the percentages calculated 
 for the separation of administration (account XX-55-01).
@@ -16708,14 +16685,13 @@ general and administration--Table of Contents
 
 
 <R05>
-Sec. 1242.83  Officers--general superintendence; accounting, auditing 
+Sec. 1242.83  Officers--general superintendence; accounting, auditing
 and finance; management services and data processing; personnel and 
-
 labor relations; legal and secretarial; research and development; 
-writedown of uncollectible accounts; property taxes; other taxes except
-on corporate income or payrolls; and other (accounts XX-63-01, XX-63-86,
-XX-63-87, XX-63-91, XX-63-92, XX-63-94, 63-63-00, 64-63-00, 65-63-00 
-and XX-63-99).
+writedown of uncollectible accounts; property taxes; other taxes 
+except on corporate income or payrolls; and other (accounts XX-63-01, 
+XX-63-86, XX-63-87, XX-63-91, XX-63-92, XX-63-94, 63-63-00, 
+          64-63-00, 65-63-00 and XX-63-99).
 
     Separate common expenses in proportion to the separation of all 
 other common expenses except General and Administrative Expenses.
@@ -16745,7 +16721,7 @@ common expenses for separation herein.
 
 
 <R05>
-Sec. 1242.87  Joint facility--debit and credit and casualties and 
+Sec. 1242.87  Joint facility--debit and credit and casualties and
 insurance (accounts 37-63-00, 38-63-00 and 50-63-00).
 
     Separate the common expenses in proportion to the total of all 
@@ -16841,8 +16817,8 @@ quarter. Cost and revenue are defined as accrued or earned that quarter.
   The report shall be filed with the Surface Transportation Board on or
              before 30 days after the end of that quarter.]
 ------------------------------------------------------------------------
-                                                           Amount  (in
-        Line No.                    Data  (a)            thousands)  (b)
+                                                           Amount (in
+        Line No.                    Data (a)             thousands) (b)
 ------------------------------------------------------------------------
 1.......................  Total fuel cost \1\.........
 2.......................  Total gallons of fuel
@@ -16880,13 +16856,12 @@ monitor the fuel surcharge practices of Class I carriers.
 report is 12 hours.
     This report is mandatory for Class I carriers.
     Information collected through this report is published on the 
-Board's
+Board's website and is maintained by the agency for at least 2 years.
+    The display of a currently valid OMB control number for this 
+collection is required by law. Under 5 CFR 1320.5(b), persons are not
 
 [[Page 185]]
 
-website and is maintained by the agency for at least 2 years.
-    The display of a currently valid OMB control number for this 
-collection is required by law. Under 5 CFR 1320.5(b), persons are not 
 required to respond to this collection of information unless it displays 
 a currently valid OMB control number.
 
@@ -16973,14 +16948,15 @@ audit months thereafter. The former rule will continue to apply to all
 subject waybills for the prior audit months up to and including June 
 1981.
 
-[[Page 186]]
-
 
 <R05>
 Sec. 1244.3  Reporting contract shipment waybills and Canadian and 
 Mexican international waybills.
 
     (a) All railroads shall identify (flag) contract shipment waybills.
+
+[[Page 186]]
+
     (b) The revenue associated with contract shipments may be encrypted 
 (masked) to safeguard the confidentiality of the contract rates.
     (1) Upon written request, the Board will provide a masking procedure 
@@ -17056,17 +17032,17 @@ issued by the Surface Transportation Board. The Director of the Federal
 Register has approved this incorporation by reference in accordance with 
 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any editions other than 
 those specified in this section, the STB must publish notice of change 
-in the Federal Register and the material
+in the Federal Register and the material must be available to the 
+public. You may obtain or inspect a copy of these standards from the 
+Surface Transportation Board, 395 E Street, SW., Washington, DC 20423-
+0001; from the Surface
 
 [[Page 187]]
 
-must be available to the public. You may obtain or inspect a copy of 
-these standards from the Surface Transportation Board, 395 E Street, 
-SW., Washington, DC 20423-0001; from the Surface Transportation Board 
-Web site at http://www.stb.dot.gov; or by calling (202) 245-0323. You 
-may also inspect a copy at the National Archives and Records 
-Administration (NARA). For information on the availability of this 
-material at NARA, call (202) 741-6030, or go to: http://
+Transportation Board Web site at http://www.stb.dot.gov; or by calling 
+(202) 245-0323. You may also inspect a copy at the National Archives and 
+Records Administration (NARA). For information on the availability of 
+this material at NARA, call (202) 741-6030, or go to: http://
 www.archives.gov/federal--register/code--of--federal--regulations/ibr--
 locations.html.
     (2) The sampling rates for the computerized system are as follows:
@@ -17142,15 +17118,16 @@ Sec. 1244.6  Retention of files.
     (a) Subject railroads which submit waybill sample data by the 
 computerized system instead of the manual system shall retain the 
 underlying hard copy waybills or facsimilies capable of producing 
-legible copies, which shall be complete including inbound references
+legible copies, which shall be complete including inbound references for 
+transit waybills, for a minimum period of four years.
+    (b) This file of retained waybills shall be maintained in such a 
+manner that
 
 [[Page 188]]
 
-for transit waybills, for a minimum period of four years.
-    (b) This file of retained waybills shall be maintained in such a 
-manner that the railroads on the computerized system may readily 
-retrieve waybill copies using the waybill identifier code as shown on 
-the submitted computerized waybill record.
+the railroads on the computerized system may readily retrieve waybill 
+copies using the waybill identifier code as shown on the submitted 
+computerized waybill record.
 
 [46 FR 26784, May 15, 1981. Redesignated at 65 FR 37711, June 16, 2000]
 
@@ -17224,15 +17201,15 @@ this section.
     (4) Transportation practitioners, consulting firms, and law firms--
 specific proceedings. Transportation practitioners, consulting firms and 
 law firms may use data from the STB Waybill Sample in preparing verified 
-statements to be submitted in formal proceedings before
+statements to be submitted in formal proceedings before the STB and/or 
+State Boards (Board) subject to the following requirements:
+    (i) The STB Waybill Sample is the only single source of the data or 
+obtaining the data from other sources is
 
 [[Page 189]]
 
-the STB and/or State Boards (Board) subject to the following 
-requirements:
-    (i) The STB Waybill Sample is the only single source of the data or 
-obtaining the data from other sources is burdensome or costly, and the 
-data is relevant to issues pendng before the Board.
+burdensome or costly, and the data is relevant to issues pending before 
+the Board.
     (ii) The requestor submits to the STB a written waybill request that 
 complies with Sec. 1244.8(e).
     (iii) All waybill data must be returned to the STB, and the firm 
@@ -17306,17 +17283,18 @@ competitively sensitive shipper data).
 (b)(1) through (b)(5) of this section may file written requests in 
 accordance with paragraph (e) of this section for permission to use data 
 from the STB Waybill Sample.
-
-[[Page 190]]
-
     (2) All written requests filed by such users are subject to the 
 notice and protest procedures described in paragraph (d) of this 
 section.
     (d) Notice and protest procedures for waybill requests by other 
-users. Railroads and shippers will be notified and afforded the 
-opportunity to protest waybill requests filed by users other than those 
-described in paragraphs (b)(1) through (b)(5) of this section in 
-accordance with the following procedures:
+users. Railroads
+
+[[Page 190]]
+
+and shippers will be notified and afforded the opportunity to protest 
+waybill requests filed by users other than those described in paragraphs 
+(b)(1) through (b)(5) of this section in accordance with the following 
+procedures:
     (1) Notice of request for confidential waybill data. Affected 
 railroads and shippers will receive notice by Federal Register 
 Publication. If railroad specific or shipper specific data are 
@@ -17378,14 +17356,14 @@ publicly released.
 alternative aggregation method provided the requestor establishes that a 
 particular project necessitates an alternative approach and that 
 approach effectively protects the identity of individual shippers.
-
-[[Page 191]]
-
     (g) Complaint procedures. (1) Complaints for alleged breaches of 
 confidentiality or misuse of confidential waybill data must include the 
 following:
     (i) Identification of all known parties involved in the alleged 
 violation.
+
+[[Page 191]]
+
     (ii) The approximate date(s) of the alleged violations.
     (iii) A full and detailed description of the alleged violation.
     (iv) A description of any resulting harm to the complainant.
@@ -17418,8 +17396,8 @@ as amended at 67 FR 57534, Sept. 11, 2002]
 
 
 <R03>
-PART 1245_CLASSIFICATION OF RAILROAD EMPLOYEES; REPORTS OF SERVICE AND
-COMPENSATION--Table of Contents
+PART 1245_CLASSIFICATION OF RAILROAD EMPLOYEES; REPORTS OF SERVICE
+AND COMPENSATION--Table of Contents
 
 
 
@@ -17441,8 +17419,8 @@ Administration, Surface Transportation Board, Washington, DC 20423-0001.
 
 
 <R05>
-Sec. 1245.1  Rules governing classification of employees, service, and 
-compensation.
+Sec. 1245.1  Rules governing classification of employees, service, 
+and compensation.
 
     The rules governing the classification of railroad employees and 
 reports of their service and compensation outlined in Sec. Sec. 1245.3 
@@ -17466,15 +17444,13 @@ Compensation, (Form QRSC). In addition, such carriers shall also file an
 Annual Report of Railroad Employees, Service, and Compensation, (Form 
 ARSC) for each calendar year. Both reports shall be filed with the 
 Bureau of Accounts, Surface Transportation Board, Washington, DC 20423. 
-The quarterly report shall be
-
-[[Page 192]]
-
-filed within thirty days after the end of each calendar quarter. The 
-annual report shall be filed within forty five days after the end of the 
-reporting year.
+The quarterly report shall be filed within thirty days after the end of 
+each calendar quarter. The annual report shall be filed within forty 
+five days after the end of the reporting year.
 
 [47 FR 53867, Nov. 30, 1982]
+
+[[Page 192]]
 
 
 <R05>
@@ -17544,30 +17520,29 @@ employees in Forms A and B, it should be understood that the total
 compensation received by the employees in each Reporting Division, as 
 well as the amount of work they perform, should be shown properly 
 distributed under the prescribed column heads as indicated by the forms. 
-It should be noted
+It should be noted that if the work of an employee varies during a 
+report period, his time and compensation should be apportioned 
+accordingly. Amounts reported should be gross compensation paid.
+
+    Illustrations. (a) In the course of a month, an employee works as a 
+Machinist, and as
 
 [[Page 193]]
 
-that if the work of an employee varies during a report period, his time 
-and compensation should be apportioned accordingly. Amounts reported 
-should be gross compensation paid.
-
-    Illustrations. (a) In the course of a month, an employee works as a 
-Machinist, and as such earns $200 and he works also as a Gang Foreman 
-and earns $130. The pay received by him in the occupation of Machinist 
-with corresponding time should be included in returns for Division 61, 
-``Machinists'', and his other pay and time as indicated should be 
-included in returns for Division 53, ``Gang Foremen and Gang Leaders''. 
-(b) When an employee works at two or more of the occupations of 
-engineer, fireman, conductor, and brakeman, his time and compensation 
-should be assigned in accordance with the facts. For example, in a 
-certain month an employee earns as a Through Freight Engineer $110, as a 
-Local or Way Freight Engineer $140, as a Yard Engineer $100, and as a 
-Local or Way Freight Fireman $75. The time and the compensation of this 
-employee should be correspondingly distributed among Reporting Divisions 
-122, 123, 124, and 127 as they are respectively applicable, without 
-regard to the predominance of the time worked or the amount earned by 
-him in one occupation.
+such earns $200 and he works also as a Gang Foreman and earns $130. The 
+pay received by him in the occupation of Machinist with corresponding 
+time should be included in returns for Division 61, ``Machinists'', and 
+his other pay and time as indicated should be included in returns for 
+Division 53, ``Gang Foremen and Gang Leaders''. (b) When an employee 
+works at two or more of the occupations of engineer, fireman, conductor, 
+and brakeman, his time and compensation should be assigned in accordance 
+with the facts. For example, in a certain month an employee earns as a 
+Through Freight Engineer $110, as a Local or Way Freight Engineer $140, 
+as a Yard Engineer $100, and as a Local or Way Freight Fireman $75. The 
+time and the compensation of this employee should be correspondingly 
+distributed among Reporting Divisions 122, 123, 124, and 127 as they are 
+respectively applicable, without regard to the predominance of the time 
+worked or the amount earned by him in one occupation.
 
     (c) As elsewhere indicated, the statement of the number of employees 
 in the service of a company with respect to Reporting Divisions depends 
@@ -17602,7 +17577,7 @@ Sec. 1245.5  Classification of job titles.
                                                       Manager (department or
                                                       subdepartment head).
     102  Corporate Staff       Corporate executives  Director (other than subdepartment   New classification,
-          Managers.             and managers          head), Assistant Director,           providng a specific
+          Managers.             and managers          head), Assistant Director,           providing a specific
                                 assisting             Assistant General Manager (not       assignment for staff
                                 department and        regional), Manager, Assistant        managers; adds new
                                 subdepartment heads.  Manager, Assistant Chief Engineer,   title.
@@ -19650,7 +19625,8 @@ and 46 FR 10745, Feb. 4, 1981]
 
 
 <R03>
-PART 1253_RATE-MAKING ORGANIZATION; RECORDS AND REPORTS--Table of Contents
+PART 1253_RATE-MAKING ORGANIZATION; RECORDS AND REPORTS--
+Table of Contents
 
 
 
@@ -19743,8 +19719,8 @@ PARTS 1280	1299_CLASSIFICATION AND DECLASSIFICATION OF NATIONAL SECURITY
 
 
 <R03>
-PART 1280_HANDLING OF NATIONAL SECURITY INFORMATION AND CLASSIFIED M
-ATERIAL--Table of Contents
+PART 1280_HANDLING OF NATIONAL SECURITY INFORMATION AND CLASSIFIED 
+MATERIAL--Table of Contents
 
 
 
@@ -19900,8 +19876,8 @@ responsible for issuance of the document involved.
 
 
 <R03>
-PART 1300_DISCLOSURE, PUBLICATION, AND NOTICE OF CHANGE OF RATES AND 
-OTHER SERVICE TERMS FOR RAIL COMMON CARRIAGE--Table of Contents
+PART 1300_DISCLOSURE, PUBLICATION, AND NOTICE OF CHANGE OF RATES
+AND OTHER SERVICE TERMS FOR RAIL COMMON CARRIAGE--Table of Contents
 
 
 
@@ -20110,7 +20086,7 @@ continue in force until further order of the Board.
 
 
 <R05>
-Sec. 1302.43  Applicable rates on shipments in transit when statute 
+Sec. 1302.43  Applicable rates on shipments in transit when statute
 becomes effective.
 
     The following conditions are hereby prescribed as supplemental to 
@@ -20246,8 +20222,8 @@ increase in rates or charges or the change in service terms.
 
 
 <R03>
-PART 1310_TARIFF REQUIREMENTS FOR HOUSEHOLD GOODS CARRIERS--Table of
-Contents
+PART 1310_TARIFF REQUIREMENTS FOR HOUSEHOLD GOODS CARRIERS--
+Table of Contents
 
 
 
@@ -20438,8 +20414,7 @@ same publications and delivery service.
 
 <R03>
 PART 1312_REGULATIONS FOR THE PUBLICATION, POSTING AND FILING OF 
-TARIFFS FOR THE TRANSPORTATION OF PROPERTY BY OR WITH A WATER CARRIER 
-
+TARIFFS FOR THE TRANSPORTATION OF PROPERTY BY OR WITH A WATER CARRIER
 IN NONCONTIGUOUS DOMESTIC TRADE--Table of Contents
 
 
@@ -20931,7 +20906,7 @@ subsequent to, the service performed by Carrier B.
 
 
 <R03>
-PART 1313_RAILROAD CONTRACTS FOR THE TRANSPORTATION OF AGRICULTURAL 
+PART 1313_RAILROAD CONTRACTS FOR THE TRANSPORTATION OF AGRICULTURAL
 PRODUCTS--Table of Contents
 
 
@@ -21443,7 +21418,7 @@ PART 1319_EXEMPTIONS--Table of Contents
 
 
 <R05>
-Sec. 1319.1  Exemption of freight forwarders in the noncontiguous 
+Sec. 1319.1  Exemption of freight forwarders in the noncontiguous
 domestic trade from tariff filing requirements.
 
     Freight forwarders subject to the Board's jurisdiction under 49 
@@ -21454,8 +21429,8 @@ U.S.C. 13702.
 
 
 <R03>
-PART 1325_EXTENSION OF CREDIT TO CANDIDATES FOR FEDERAL OFFICE OR THEIR
-REPRESENTATIVES--Table of Contents
+PART 1325_EXTENSION OF CREDIT TO CANDIDATES FOR FEDERAL OFFICE OR 
+THEIR REPRESENTATIVES--Table of Contents
 
 
 
@@ -21508,8 +21483,8 @@ of the United States.
 
 
 <R03>
-PART 1331_APPLICATIONS UNDER 49 U.S.C. 10706 AND 13703--Table of 
-Contents
+PART 1331_APPLICATIONS UNDER 49 U.S.C. 10706 AND 13703--
+Table of Contents
 
 
 
@@ -21647,7 +21622,8 @@ passenger's option over the line of one or more carriers.
 
 
 <R03>
-PART 1332_FILING CONTRACTS FOR SURFACE MAIL TRANSPORTATION--Table of Contents
+PART 1332_FILING CONTRACTS FOR SURFACE MAIL TRANSPORTATION--
+Table of Contents
 
 
 
@@ -22252,7 +22228,7 @@ follows:
 ----------------------------------------------------------------------------------------------------------------
                                                                               Maximum penalty
                                      Civil penalty     Minimum    Adjusted   amount when last    Maximum penalty
-  United States Code  citation        description      penalty    minimum     set or adjusted        amount
+   United States Code citation        description      penalty    minimum     set or adjusted        amount
                                                                   penalty     pursuant to law
 ----------------------------------------------------------------------------------------------------------------
 49 U.S.C. 46301(a)(1), (4)......  Violation of 49           N/A        N/A  $25,000 per         $25,000 per
@@ -22550,7 +22526,7 @@ Federal Register.
 
 
 <R05>
-Sec. 1503.415  Request for portions of the enforcement investigative 
+Sec. 1503.415  Request for portions of the enforcement investigative
 report (EIR).
 
     (a) Upon receipt of a Notice of Proposed Civil Penalty, a person 
@@ -23926,8 +23902,8 @@ available to the public.
 
 
 <R05>
-Sec. 1503.659  Petition to reconsider or modify a final decision and
-order of the TSA decision maker on appeal.
+Sec. 1503.659  Petition to reconsider or modify a final decision
+and order of the TSA decision maker on appeal.
 
     (a) General. Any party may petition the TSA decision maker to 
 reconsider or modify a final decision and order issued by the TSA 
@@ -24771,8 +24747,8 @@ FR 44227, Aug. 4, 2006; 72 FR 63709, Nov. 9, 2007]
 
 
 <R03>
-PART 1510_PASSENGER CIVIL AVIATION SECURITY SERVICE FEES--Table of
-Contents
+PART 1510_PASSENGER CIVIL AVIATION SECURITY SERVICE FEES--
+Table of Contents
 
 
 
@@ -25045,7 +25021,7 @@ U.S.C. 41712 and may also result in a claim due the United
 
 [[Page 281]]
 
-States by the carrier collectable pursuant to 49 CFR part 89. These 
+States by the carrier collectible pursuant to 49 CFR part 89. These 
 remedies are in addition to any others remedies provided by law.
 
 
@@ -25257,7 +25233,7 @@ and/or imprisonment under 18 U.S.C 1001.
     (b) An air carrier's or foreign air carrier's failure to comply with 
 the requirements of 49 U.S.C. 44940 or the provisions of this part may 
 result in a claim due the United States by the carrier, which claim 
-shall be collectable pursuant to 31 U.S.C. Chapter 37 and the Department 
+shall be collectible pursuant to 31 U.S.C. Chapter 37 and the Department 
 of Transportation's implementing regulations at 49 CFR part 89.
 
 
@@ -25503,8 +25479,8 @@ for screening services not included elsewhere on the form.
 
 
 <R03>
-PART 1515_APPEAL AND WAIVER PROCEDURES FOR SECURITY THREAT ASSESSMENTS 
-FOR INDIVIDUALS--Table of Contents
+PART 1515_APPEAL AND WAIVER PROCEDURES FOR SECURITY THREAT 
+ASSESSMENTS FOR INDIVIDUALS--Table of Contents
 
 
 
@@ -25599,8 +25575,8 @@ Administrator.
 
 
 <R05>
-Sec. 1515.5  Appeal of Initial Determination of Threat Assessment based 
-on criminal conviction, immigration status, or mental capacity.
+Sec. 1515.5  Appeal of Initial Determination of Threat Assessment 
+based on criminal conviction, immigration status, or mental capacity.
 
     (a) Scope. This section applies to applicants appealing from an 
 Initial Determination of Threat Assessment that was based on one or more 
@@ -25727,7 +25703,7 @@ Threat Assessment and Immediate Revocation pursuant to 49 CFR
 
 
 <R05>
-Sec. 1515.7  Procedures for waiver of criminal offenses, immigration 
+Sec. 1515.7  Procedures for waiver of criminal offenses, immigration
 status, or mental capacity standards.
 
     (a) Scope. This section applies to the following applicants:
@@ -25863,8 +25839,8 @@ screening facilities.
 
 
 <R05>
-Sec. 1515.11  Review by administrative law judge and TSA Final Decision
-Maker.
+Sec. 1515.11  Review by administrative law judge and TSA Final 
+Decision Maker.
 
     (a) Scope. This section applies to the following applicants:
     (1) An applicant who seeks review of a decision by TSA denying a 
@@ -26071,7 +26047,8 @@ provided in 49 U.S.C. 46110.
 
 
 <R03>
-PART 1520_PROTECTION OF SENSITIVE SECURITY INFORMATION--Table of Contents
+PART 1520_PROTECTION OF SENSITIVE SECURITY INFORMATION--
+Table of Contents
 
 
 
@@ -26950,7 +26927,8 @@ by TSA on a case-by-case basis.
 
 
 <R05>
-Sec. 1540.109  Prohibition against interference with screening personnel.
+Sec. 1540.109  Prohibition against interference with screening
+personnel.
 
     No person may interfere with, assault, threaten, or intimidate 
 screening personnel in the performance of their screening duties under 
@@ -26958,8 +26936,8 @@ this subchapter.
 
 
 <R05>
-Sec. 1540.111  Carriage of weapons, explosives, and incendiaries by
-individuals.
+Sec. 1540.111  Carriage of weapons, explosives, and incendiaries 
+by individuals.
 
     (a) On an individual's person or accessible property--prohibitions. 
 Except as provided in paragraph (b) of this section, an individual may 
@@ -27019,9 +26997,8 @@ for inspection upon a request from TSA.
 
 <R05>
 Sec. 1540.115  Threat assessments regarding citizens of the United 
-States holding or applying for FAA certificates, ratings, or 
-
-authorizations.
+States holding or applying for FAA certificates, ratings, 
+or authorizations.
 
     (a) Applicability. This section applies when TSA has determined that 
 an individual who is a United States citizen and who holds, or is 
@@ -27121,7 +27098,7 @@ law.
 
 
 <R05>
-Sec. 1540.117  Threat assessments regarding aliens holding or applying 
+Sec. 1540.117  Threat assessments regarding aliens holding or applying
 for FAA certificates, ratings, or authorizations.
 
     (a) Applicability. This section applies when TSA has determined that 
@@ -28211,7 +28188,8 @@ SIDA.
 
 
 <R05>
-Sec. 1542.205  Security of the security identification display area (SIDA).
+Sec. 1542.205  Security of the security identification display area
+(SIDA).
 
     (a) Each airport operator required to have a complete program under 
 Sec. 1542.103(a) must establish at least one SIDA, as follows:
@@ -29452,7 +29430,7 @@ amendment.
 
 
 <R05>
-Sec. 1544.201  Acceptance and screening of individuals and accessible 
+Sec. 1544.201  Acceptance and screening of individuals and accessible
 property.
 
     (a) Preventing or deterring the carriage of any explosive, 
@@ -30173,10 +30151,9 @@ or to supervise the screening of cargo under Sec. 1544.205.
 
 
 <R05>
-Sec. 1544.229  Fingerprint-based criminal history records checks (CHRC):
-Unescorted access authority, authority to perform screening functions,
-
-and authority to perform checked baggage or cargo functions.
+Sec. 1544.229  Fingerprint-based criminal history records checks 
+(CHRC): Unescorted access authority, authority to perform screening
+functions, and authority to perform checked baggage or cargo functions.
 
     This section applies to each aircraft operator operating under a 
 full program, a private charter program, or a full all-cargo program.
@@ -30563,8 +30540,8 @@ security program.
 
 
 <R05>
-Sec. 1544.230  Fingerprint-based criminal history records checks (CHRC):
-Flightcrew members.
+Sec. 1544.230  Fingerprint-based criminal history records checks 
+(CHRC): Flightcrew members.
 
     (a) Scope. This section applies to each flightcrew member for each 
 aircraft operator, except that this section does not apply to flightcrew 
@@ -30684,7 +30661,7 @@ section not later than December 6, 2002.
 
 
 <R05>
-Sec. 1544.231  Airport-approved and exclusive area personnel 
+Sec. 1544.231  Airport-approved and exclusive area personnel
 identification systems.
 
     (a) Each aircraft operator must establish and carry out a personnel 
@@ -30755,8 +30732,8 @@ month in which it was required.
 
 
 <R05>
-Sec. 1544.235  Training and knowledge for individuals with 
-security-related duties.
+Sec. 1544.235  Training and knowledge for individuals with security-
+related duties.
 
     (a) No aircraft operator may use any direct or contractor employee 
 to perform any security-related duties to meet the requirements of its 
@@ -30995,7 +30972,7 @@ may use screeners who are not United States citizens.
 
 
 <R05>
-Sec. 1544.407  Training, testing, and knowledge of individuals who 
+Sec. 1544.407  Training, testing, and knowledge of individuals who
 perform screening functions.
 
     (a) Training required. Before performing screening functions, an 
@@ -31373,7 +31350,7 @@ emergency amendment.
 
 
 <R05>
-Sec. 1546.201  Acceptance and screening of individuals and accessible 
+Sec. 1546.201  Acceptance and screening of individuals and accessible
 property.
 
     (a) Preventing or deterring the carriage of any explosive, 
@@ -32240,7 +32217,7 @@ for reconsideration. TSA disposes of the petition within 30 calendar
 days of receipt, either by directing the designated official to withdraw 
 or amend the notice of amendment, or by affirming the notice of 
 amendment.
-    (e)  Emergency Amendments. (1) If TSA finds that there is an 
+    (e) Emergency Amendments. (1) If TSA finds that there is an 
 emergency requiring immediate action, with respect to aviation security 
 that makes procedures in this section contrary to the public interest, 
 the designated official may issue an emergency amendment, without the 
@@ -32311,8 +32288,8 @@ part, or parts 1544 or 1546 of this chapter.
 
 
 <R05>
-Sec. 1548.11  Training and knowledge for individuals with 
-security-related duties.
+Sec. 1548.11  Training and knowledge for individuals with security-
+related duties.
 
     (a) No indirect air carrier may use an employee or agent to perform 
 any security-related duties to meet the requirements of its security 
@@ -32548,7 +32525,7 @@ Sec.
 1549.3 TSA inspection authority.
 1549.5 Adoption and implementation of the security program.
 1549.7 Approval, amendment, renewal of the security program and 
-          certification of acertified cargo screening facility.
+          certification of a certified cargo screening facility.
 
                           Subpart B_Operations
 
@@ -33066,7 +33043,7 @@ than those with a need-to-know without the prior written consent of TSA.
 
 
 <R05>
-Sec. 1549.111  Security threat assessments for personnel of certified 
+Sec. 1549.111  Security threat assessments for personnel of certified
 cargo screening facilities.
 
     (a) Scope. This section applies to the following:
@@ -33097,8 +33074,8 @@ in 49 CFR part 1540, subpart C.
 
 
 <R03>
-PART 1550_AIRCRAFT SECURITY UNDER GENERAL OPERATING AND FLIGHT
-RULES--Table of Contents
+PART 1550_AIRCRAFT SECURITY UNDER GENERAL OPERATING AND FLIGHT RULES--
+Table of Contents
 
 
 
@@ -34337,8 +34314,8 @@ Rights and Civil Liberties.
 
 
 <R03>
-PART 1562_OPERATIONS IN THE WASHINGTON, DC, METROPOLITAN AREA--Table of
-Contents
+PART 1562_OPERATIONS IN THE WASHINGTON, DC, METROPOLITAN AREA--
+Table of Contents
 
 
 
@@ -35165,7 +35142,8 @@ subchapter.
 
 
 <R05>
-Sec. 1570.7  Fraudulent use or manufacture; responsibilities of persons.
+Sec. 1570.7  Fraudulent use or manufacture; responsibilities of 
+persons.
 
     (a) No person may use or attempt to use a credential, security 
 threat assessment, access control medium, or identification medium 
@@ -35210,8 +35188,8 @@ including copies of records.
 
 
 <R05>
-Sec. 1570.13  False statements regarding security background checks by
-public transportation agency or railroad carrier.
+Sec. 1570.13  False statements regarding security background checks
+by public transportation agency or railroad carrier.
 
     (a) Scope. This section implements sections 1414(e) (6 U.S.C. 1143) 
 and 1522(e) (6 U.S.C. 1170) of the ``Implementing Recommendations of the 
@@ -35262,8 +35240,8 @@ individuals when conducting a security background check.
 
 
 <R03>
-PART 1572_CREDENTIALING AND SECURITY THREAT ASSESSMENTS--Table of 
-Contents
+PART 1572_CREDENTIALING AND SECURITY THREAT ASSESSMENTS--
+Table of Contents
 
 
 
@@ -35405,7 +35383,7 @@ Federal Agency Comparability Check, Hazmat
 [[Page 417]]
 
 Threat Assessment Program, Transportation Security Administration, 601 
-South 12th Street, Arlington, VA 22202-4220.
+South 12th Street, Arlington, VA 20598-6019.
     (3) TSA will notify the public when a comparability determination is 
 made.
     (4) An applicant, who has completed a security threat assessment 
@@ -35423,13 +35401,15 @@ FAST card, under the Free and Secure Trade program administered by U.S.
 Customs and Border Protection, is comparable to the security threat 
 assessment described in this part.
 
+[72 FR 3595, Jan. 25, 2007, as amended at 77 FR 18717, Mar. 28, 2012]
+
 
 <R05>
 Sec. 1572.7  [Reserved]
 
 
 <R05>
-Sec. 1572.9  Applicant information required for HME security threat 
+Sec. 1572.9  Applicant information required for HME security threat
 assessment.
 
     An applicant must supply the information required in this section, 
@@ -35479,12 +35459,12 @@ security threat assessment.
     (b) The applicant must provide a statement, signature, and date of 
 signature that he or she--
     (1) Was not convicted, or found not guilty by reason of insanity, of 
-a disqualifying crime listed in 49 CFR 1572.103(b), in a civilian or 
-military jurisdiction, during the seven years before the date of the 
-application, or is applying for a waiver;
+a disqualifying crime listed in 49 CFR
 
 [[Page 418]]
 
+1572.103(b), in a civilian or military jurisdiction, during the seven 
+years before the date of the application, or is applying for a waiver;
     (2) Was not released from incarceration, in a civilian or military 
 jurisdiction, for committing a disqualifying crime listed in 49 CFR 
 1572.103(b), during the five years before the date of the application, 
@@ -35548,7 +35528,7 @@ injury or damage to the facility or vessel.
 
 
 <R05>
-Sec. 1572.11  Applicant responsibilities for HME security threat 
+Sec. 1572.11  Applicant responsibilities for HME security threat
 assessment.
 
     (a) Surrender of HME. If an individual is disqualified from holding 
@@ -35566,11 +35546,11 @@ jurisdiction, for a disqualifying criminal offense identified in 49 CFR
 mental health facility, as described in 49 CFR 1572.109; or
     (3) Renounces or loses U.S. citizenship or status as a lawful 
 permanent resident; or
-    (4) Violates his or her immigration status, and/or is ordered 
-removed from the United States.
 
 [[Page 419]]
 
+    (4) Violates his or her immigration status, and/or is ordered 
+removed from the United States.
     (c) Submission of fingerprints and information. (1) An HME applicant 
 must submit fingerprints and the information required in 49 CFR 1572.9, 
 in a form acceptable to TSA, when so notified by the State, or when the 
@@ -35644,14 +35624,14 @@ expiration of the HME.
 information, the State--
     (i) Collects fingerprints and applicant information required in 49 
 CFR 1572.9;
-    (ii) Provides the applicant information to TSA electronically, 
-unless otherwise authorized by TSA;
-    (iii) Transmits the fingerprints to the FBI/Criminal Justice 
-Information Services (CJIS), in accordance with the
 
 [[Page 420]]
 
-FBI/CJIS fingerprint submission standards; and
+    (ii) Provides the applicant information to TSA electronically, 
+unless otherwise authorized by TSA;
+    (iii) Transmits the fingerprints to the FBI/Criminal Justice 
+Information Services (CJIS), in accordance with the FBI/CJIS fingerprint 
+submission standards; and
     (iv) Retains the signed application, in paper or electronic form, 
 for one year and provides it to TSA, if requested.
     (3) Where the State elects to have a TSA agent collect fingerprints 
@@ -35715,16 +35695,16 @@ becomes a Final Determination of Threat Assessment.
 Threat Assessment or Initial Determination of Threat Assessment and 
 Immediate Revocation, TSA serves a Final Determination of Threat 
 Assessment on the State in which the applicant applied for the HME, the 
-applicant's employer where appropriate, and on the applicant, if the 
-appeal of the Initial Determination results in a finding that the 
-applicant poses a security threat.
-    (5) If the applicant appeals the Initial Determination of Threat 
-Assessment
+applicant's employer
 
 [[Page 421]]
 
-or the Initial Determination of Threat Assessment and Immediate 
-Revocation, the procedures in 49 CFR 1515.5 or 1515.9 apply.
+where appropriate, and on the applicant, if the appeal of the Initial 
+Determination results in a finding that the applicant poses a security 
+threat.
+    (5) If the applicant appeals the Initial Determination of Threat 
+Assessment or the Initial Determination of Threat Assessment and 
+Immediate Revocation, the procedures in 49 CFR 1515.5 or 1515.9 apply.
     (6) Applicants who do not meet certain standards in 49 CFR 1572.103, 
 1572.105, or 1572.109 may seek a waiver in accordance with 49 CFR 
 1515.7.
@@ -35794,14 +35774,13 @@ adjudication process for applicants who are U.S. citizens born abroad.
     (14) Department of State Consular Report of Birth Abroad. This 
 information is voluntary and may expedite the adjudication process for 
 applicants who are U.S. citizens born abroad.
-    (15) Whether the applicant has previously completed a TSA threat 
-assessment, and if so the date and program for which it was completed. 
-This information is voluntary and may expedite the adjudication process 
-for applicants
 
 [[Page 422]]
 
-who have completed a TSA security threat assessment.
+    (15) Whether the applicant has previously completed a TSA threat 
+assessment, and if so the date and program for which it was completed. 
+This information is voluntary and may expedite the adjudication process 
+for applicants who have completed a TSA security threat assessment.
     (16) Whether the applicant currently holds a federal security 
 clearance, and if so, the date of and agency for which the clearance was 
 performed. This information is voluntary and may expedite the 
@@ -35878,22 +35857,22 @@ punished by fine or imprisonment or both (see section 1001 of Title 18
 United States Code), and may be grounds for denial of a Transportation 
 Worker Identification Credential.
 
-    (g) The applicant must certify the following statement in writing:
-
-    I acknowledge that if the Transportation Security Administration 
-determines that I
 
 [[Page 423]]
 
-pose a security threat, my employer, as listed on this application, may 
-be notified. If TSA or other law enforcement agency becomes aware of an 
-imminent threat to a maritime facility or vessel, TSA may provide 
-limited information necessary to reduce the risk of injury or damage to 
-the facility or vessel.
+
+    (g) The applicant must certify the following statement in writing:
+
+    I acknowledge that if the Transportation Security Administration 
+determines that I pose a security threat, my employer, as listed on this 
+application, may be notified. If TSA or other law enforcement agency 
+becomes aware of an imminent threat to a maritime facility or vessel, 
+TSA may provide limited information necessary to reduce the risk of 
+injury or damage to the facility or vessel.
 
 
 <R05>
-Sec. 1572.19  Applicant responsibilities for a TWIC security threat 
+Sec. 1572.19  Applicant responsibilities for a TWIC security threat
 assessment.
 
     (a) Implementation schedule. Except as provided in paragraph (b) of 
@@ -35961,17 +35940,16 @@ CJIS, in accordance with 49 CFR 1572.103 and, if applicable, 49 CFR
 check, TSA completes the following procedures:
     (1) Reviews the applicant information required in 49 CFR 1572.17;
     (2) Searches domestic and international Government databases 
-required to determine if the applicant meets the requirements of 49 CFR 
-1572.105, 1572.107, and 1572.109;
-    (3) Adjudicates the results of the check in accordance with 49 CFR 
-1572.103, 1572.105, 1572.107, and 1572.109.
-    (d) Final disposition. Following completion of the procedures 
-described in
+required to determine if the applicant
 
 [[Page 424]]
 
-paragraphs (b) and/or (c) of this section, the following procedures 
-apply, as appropriate:
+meets the requirements of 49 CFR 1572.105, 1572.107, and 1572.109;
+    (3) Adjudicates the results of the check in accordance with 49 CFR 
+1572.103, 1572.105, 1572.107, and 1572.109.
+    (d) Final disposition. Following completion of the procedures 
+described in paragraphs (b) and/or (c) of this section, the following 
+procedures apply, as appropriate:
     (1) TSA serves a Determination of No Security Threat on the 
 applicant if TSA determines that the applicant meets the security threat 
 assessment standards described in 49 CFR 1572.5. In the case of a 
@@ -36037,16 +36015,17 @@ on the credential associated with the comparable threat assessment.
 in 1572.105(a)(7), and the status expires, the employer terminates the 
 employment relationship with the applicant, or the applicant otherwise 
 ceases working for the employer. Under any of these circumstances, TSA 
-deems the TWIC to have expired regardless of the expiration date on the 
-face of the TWIC.
-    (b) TSA may issue a TWIC for a term less than five years to match 
-the expiration of a visa.
+deems the TWIC to have expired regardless of the
 
 [[Page 425]]
 
+expiration date on the face of the TWIC.
+    (b) TSA may issue a TWIC for a term less than five years to match 
+the expiration of a visa.
+
 
 <R05>
-Sec. Sec. 1572.24--1572.40  [Reserved]
+Sec. Sec. 1572.24-1572.40  [Reserved]
 
 
 <R04>
@@ -36122,15 +36101,14 @@ other weapon includes, but is not limited to, firearms as defined in 18
 U.S.C. 921(a)(3) or 26 U.S.C. 5 845(a), or items contained on the U.S. 
 Munitions Import List at 27 CFR 447.21.
     (ii) Extortion.
-    (iii) Dishonesty, fraud, or misrepresentation, including identity 
-fraud and money laundering where the money laundering is related to a 
-crime described in paragraphs (a) or (b) of this section. Welfare fraud 
-and passing bad
 
 [[Page 426]]
 
-checks do not constitute dishonesty, fraud, or misrepresentation for 
-purposes of this paragraph.
+    (iii) Dishonesty, fraud, or misrepresentation, including identity 
+fraud and money laundering where the money laundering is related to a 
+crime described in paragraphs (a) or (b) of this section. Welfare fraud 
+and passing bad checks do not constitute dishonesty, fraud, or 
+misrepresentation for purposes of this paragraph.
     (iv) Bribery.
     (v) Smuggling.
     (vi) Immigration violations.
@@ -36205,13 +36183,13 @@ restricted authorization to work in the United States--
     (iv) H-1B1 Free Trade Agreement;
     (v) E-1 Treaty Trader;
     (vi) E-3 Australian in Specialty Occupation;
+
+[[Page 427]]
+
     (vii) L-1 Intracompany Executive Transfer;
     (viii) O-1 Extraordinary Ability;
     (ix) TN North American Free Trade Agreement;
     (x) E-2 Treaty Investor; or
-
-[[Page 427]]
-
     (xi) Another authorization that confers legal status, when TSA 
 determines that the legal status is comparable to the legal status set 
 out in paragraph (a)(7) of this section.
@@ -36330,8 +36308,8 @@ who wish to apply for a TWIC must comply with the rules in 49 CFR part
 
 
 <R05>
-Sec. 1572.203  Transportation of explosives from Canada to the United 
-States via railroad carrier.
+Sec. 1572.203  Transportation of explosives from Canada to the 
+United States via railroad carrier.
 
     (a) Applicability. This section applies to railroad carriers that 
 carry explosives from Canada to the United States, using a train crew 
@@ -37659,22 +37637,26 @@ WI............  Milwaukee Area.........  Milwaukee and a 10-mile buffer extendin
                                                1580.100(b))     materials      within an               historic,
                                                                                  HTUA                 excursion)
 ----------------------------------------------------------------------------------------------------------------
-Allow TSA to inspect (Sec. X             X                 X           X           X           X
+Allow TSA to inspect (Sec. X             X               X             X           X           X
  1580.5).......................
-Appoint rail security                     X             X                 X           X           X       (\1\)
+Appoint rail security                     X             X               X             X           X       (\1\)
  coordinator (Sec. 1580.101
  freight; Sec. 1580.201
  passenger)....................
-Report significant security               X             X                 X           X           X           X
+Report significant security               X             X               X             X           X           X
  concerns (Sec. 1580.105
  freight; Sec. 1580.203
  passenger)....................
-Provide location and shipping    ............           X                 X           X
+Provide location and shipping    ............           X               X             X
  information for rail cars
  containing specified hazardous
  materials if requested (Sec.
  1580.103).....................
-Chain of custody and control     ............           X                 X          X
+
+[[Page 445]]
+
+ 
+Chain of custody and control     ............           X               X            X
  requirements for transport of
  specified hazardous materials
  that are or may be in HTUA
@@ -37683,7 +37665,7 @@ Chain of custody and control     ............           X                 X     
 \1\ Only if notified in writing that a security threat exists.
 
 
-[[Page 445]]
+[[Page 447]]
 
 
 <R02>
@@ -37704,7 +37686,7 @@ published separately and revised annually.
   Redesignation Table
   List of CFR Sections Affected
 
-[[Page 447]]
+[[Page 449]]
 
 
 <R03>
@@ -37713,7 +37695,7 @@ published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2011)
+                     (Revised as of October 1, 2012)
 
                       Title 1--General Provisions
 
@@ -37729,8 +37711,7 @@ published separately and revised annually.
             Subtitle A--Office of Management and Budget Guidance 
                 for Grants and Agreements
          I  Office of Management and Budget Governmentwide 
-                Guidance for Grants and Agreements (Parts 100--
-                199)
+                Guidance for Grants and Agreements (Parts 2--199)
         II  Office of Management and Budget Circulars and Guidance 
                 (200--299)
             Subtitle B--Federal Agency Regulations for Grants and 
@@ -37748,7 +37729,7 @@ published separately and revised annually.
        XIV  Department of the Interior (Parts 1400--1499)
         XV  Environmental Protection Agency (Parts 1500--1599)
      XVIII  National Aeronautics and Space Administration (Parts 
-                1880--1899)
+                1800--1899)
         XX  United States Nuclear Regulatory Commission (Parts 
                 2000--2099)
       XXII  Corporation for National and Community Service (Parts 
@@ -37761,7 +37742,7 @@ published separately and revised annually.
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
 
-[[Page 448]]
+[[Page 450]]
 
        XXX  Department of Homeland Security (Parts 3000--3099)
       XXXI  Institute of Museum and Library Services (Parts 3100--
@@ -37769,6 +37750,7 @@ published separately and revised annually.
      XXXII  National Endowment for the Arts (Parts 3200--3299)
     XXXIII  National Endowment for the Humanities (Parts 3300--
                 3399)
+     XXXIV  Department of Education (Parts 3400--3499)
       XXXV  Export-Import Bank of the United States (Parts 3500--
                 3599)
     XXXVII  Peace Corps (Parts 3700--3799)
@@ -37780,7 +37762,7 @@ published separately and revised annually.
 
                            Title 4--Accounts
 
-         I  Government Accountability Office (Parts 1--99)
+         I  Government Accountability Office (Parts 1--199)
         II  Recovery Accountability and Transparency Board (Parts 
                 200--299)
 
@@ -37815,13 +37797,14 @@ published separately and revised annually.
        XXX  Farm Credit System Insurance Corporation (Parts 4000--
                 4099)
       XXXI  Farm Credit Administration (Parts 4100--4199)
+
+[[Page 451]]
+
     XXXIII  Overseas Private Investment Corporation (Parts 4300--
                 4399)
-
-[[Page 449]]
-
      XXXIV  Securities and Exchange Commission (Parts 4400--4499)
       XXXV  Office of Personnel Management (Parts 4500--4599)
+    XXXVII  Federal Election Commission (Parts 4700--4799)
         XL  Interstate Commerce Commission (Parts 5000--5099)
        XLI  Commodity Futures Trading Commission (Parts 5100--
                 5199)
@@ -37869,24 +37852,25 @@ published separately and revised annually.
      LXXVI  Federal Retirement Thrift Investment Board (Parts 
                 8600--8699)
     LXXVII  Office of Management and Budget (Parts 8700--8799)
-      LXXX  Federal Housing Finance Agency (Parts 8700--8799)
+      LXXX  Federal Housing Finance Agency (Parts 9000--9099)
     LXXXII  Special Inspector General for Iraq Reconstruction 
                 (Parts 9200--9299)
 
-[[Page 450]]
+[[Page 452]]
 
+   LXXXIII  Special Inspector General for Afghanistan 
+                Reconstruction (Parts 9300--9399)
+    LXXXIV  Bureau of Consumer Financial Protection (Parts 9400--
+                9499)
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Parts 
                 9700--9799)
-      XCIX  Department of Defense Human Resources Management and 
-                Labor Relations Systems (Department of Defense--
-                Office of Personnel Management) (Parts 9900--9999)
 
                       Title 6--Domestic Security
 
          I  Department of Homeland Security, Office of the 
-                Secretary (Parts 0--99)
+                Secretary (Parts 1--99)
 
                          Title 7--Agriculture
 
@@ -37930,7 +37914,7 @@ published separately and revised annually.
       XVII  Rural Utilities Service, Department of Agriculture 
                 (Parts 1700--1799)
 
-[[Page 451]]
+[[Page 453]]
 
      XVIII  Rural Housing Service, Rural Business-Cooperative 
                 Service, Rural Utilities Service, and Farm Service 
@@ -37938,6 +37922,8 @@ published separately and revised annually.
                 2099)
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
+       XXV  Office of Advocacy and Outreach, Department of 
+                Agriculture (Parts 2500--2599)
       XXVI  Office of Inspector General, Department of Agriculture 
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
@@ -37968,9 +37954,6 @@ published separately and revised annually.
       XLII  Rural Business-Cooperative Service and Rural Utilities 
                 Service, Department of Agriculture (Parts 4200--
                 4299)
-         L  Rural Business-Cooperative Service, Rurual Housing 
-                Service, and Rural Utilities Service, Department 
-                of Agriculture (Parts 5000--5099)
 
                     Title 8--Aliens and Nationality
 
@@ -37987,7 +37970,7 @@ published separately and revised annually.
                 Administration (Packers and Stockyards Programs), 
                 Department of Agriculture (Parts 200--299)
 
-[[Page 452]]
+[[Page 454]]
 
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
@@ -37999,7 +37982,7 @@ published separately and revised annually.
        III  Department of Energy (Parts 700--999)
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
-      XIII  Nuclear Waste Technical Review Board (Parts 1303--
+      XIII  Nuclear Waste Technical Review Board (Parts 1300--
                 1399)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
@@ -38035,18 +38018,18 @@ published separately and revised annually.
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
         XV  Department of the Treasury (Parts 1500--1599)
+       XVI  Office of Financial Research (Parts 1600--1699)
       XVII  Office of Federal Housing Enterprise Oversight, 
                 Department of Housing and Urban Development (Parts 
                 1700--1799)
      XVIII  Community Development Financial Institutions Fund, 
                 Department of the Treasury (Parts 1800--1899)
 
+[[Page 455]]
+
                Title 13--Business Credit and Assistance
 
          I  Small Business Administration (Parts 1--199)
-
-[[Page 453]]
-
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
         IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
@@ -38061,7 +38044,7 @@ published separately and revised annually.
                 (Aviation Proceedings) (Parts 200--399)
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
-                (Parts 400--499)
+                (Parts 400--1199)
          V  National Aeronautics and Space Administration (Parts 
                 1200--1299)
         VI  Air Transportation System Stabilization (Parts 1300--
@@ -38102,7 +38085,7 @@ published separately and revised annually.
                 Administration, Department of Commerce (Parts 
                 2300--2399)
 
-[[Page 454]]
+[[Page 456]]
 
                     Title 16--Commercial Practices
 
@@ -38142,7 +38125,7 @@ published separately and revised annually.
                 of Labor (Parts 1--199)
         II  Railroad Retirement Board (Parts 200--399)
        III  Social Security Administration (Parts 400--499)
-        IV  Employees Compensation Appeals Board, Department of 
+        IV  Employees' Compensation Appeals Board, Department of 
                 Labor (Parts 500--599)
          V  Employment and Training Administration, Department of 
                 Labor (Parts 600--699)
@@ -38156,7 +38139,7 @@ published separately and revised annually.
                 Employment and Training Service, Department of 
                 Labor (Parts 1000--1099)
 
-[[Page 455]]
+[[Page 457]]
 
                        Title 21--Food and Drugs
 
@@ -38184,7 +38167,7 @@ published separately and revised annually.
                 1100--1199)
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
-      XIII  Millenium Challenge Corporation (Parts 1300--1399)
+      XIII  Millennium Challenge Corporation (Parts 1300--1399)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
@@ -38214,10 +38197,10 @@ published separately and revised annually.
                 Department of Housing and Urban Development (Parts 
                 100--199)
 
-[[Page 456]]
+[[Page 458]]
 
         II  Office of Assistant Secretary for Housing-Federal 
-                HousingCommissioner, Department of Housing and 
+                Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
@@ -38275,7 +38258,7 @@ published separately and revised annually.
                 and Indian Health Service, Department of Health 
                 and Human Services (Part 900)
 
-[[Page 457]]
+[[Page 459]]
 
         VI  Office of the Assistant Secretary-Indian Affairs, 
                 Department of the Interior (Parts 1000--1199)
@@ -38285,7 +38268,7 @@ published separately and revised annually.
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
-                (Parts 1--899)
+                (Parts 1--End)
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -38332,7 +38315,7 @@ published separately and revised annually.
        XIV  Equal Employment Opportunity Commission (Parts 1600--
                 1699)
 
-[[Page 458]]
+[[Page 460]]
 
       XVII  Occupational Safety and Health Administration, 
                 Department of Labor (Parts 1900--1999)
@@ -38349,11 +38332,12 @@ published separately and revised annually.
 
          I  Mine Safety and Health Administration, Department of 
                 Labor (Parts 1--199)
-        II  Bureau of Ocean Energy Management, Regulation, and 
-                Enforcement, Department of the Interior (Parts 
-                200--299)
+        II  Bureau of Safety and Environmental Enforcement, 
+                Department of the Interior (Parts 200--299)
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
+         V  Bureau of Ocean Energy Management, Department of the 
+                Interior (Parts 500--599)
        VII  Office of Surface Mining Reclamation and Enforcement, 
                 Department of the Interior (Parts 700--999)
        XII  Office of Natural Resources Revenue, Department of the 
@@ -38380,18 +38364,18 @@ published separately and revised annually.
                 Treasury (Parts 800--899)
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
-         X  Financial Crimes Enforcement Network, Departmnent of 
+         X  Financial Crimes Enforcement Network, Department of 
                 the Treasury (Parts 1000--1099)
 
                       Title 32--National Defense
 
             Subtitle A--Department of Defense
          I  Office of the Secretary of Defense (Parts 1--399)
+
+[[Page 461]]
+
          V  Department of the Army (Parts 400--699)
         VI  Department of the Navy (Parts 700--799)
-
-[[Page 459]]
-
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
@@ -38439,13 +38423,13 @@ published separately and revised annually.
                 Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
                 Education (Parts 600--699)
-       VII  Office of Educational Research and Improvmeent, 
+       VII  Office of Educational Research and Improvement, 
                 Department of Education [Reserved]
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
-[[Page 460]]
+[[Page 462]]
 
                           Title 35 [Reserved]
 
@@ -38481,7 +38465,7 @@ published separately and revised annually.
                 of Commerce (Parts 1--199)
         II  Copyright Office, Library of Congress (Parts 200--299)
        III  Copyright Royalty Board, Library of Congress (Parts 
-                301--399)
+                300--399)
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
@@ -38489,8 +38473,8 @@ published separately and revised annually.
 
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
-         I  Department of Veterans Affairs (Parts 0--99)
-        II  Armed Forces Retirement Home
+         I  Department of Veterans Affairs (Parts 0--199)
+        II  Armed Forces Retirement Home (Parts 200--299)
 
                        Title 39--Postal Service
 
@@ -38504,7 +38488,7 @@ published separately and revised annually.
                 Justice (Parts 1400--1499)
          V  Council on Environmental Quality (Parts 1500--1599)
 
-[[Page 461]]
+[[Page 463]]
 
         VI  Chemical Safety and Hazard Investigation Board (Parts 
                 1600--1699)
@@ -38514,6 +38498,8 @@ published separately and revised annually.
 
           Title 41--Public Contracts and Property Management
 
+            Subtitle A--Federal Procurement Regulations System 
+                [Note]
             Subtitle B--Other Provisions Relating to Public 
                 Contracts
         50  Public Contracts, Department of Labor (Parts 50-1--50-
@@ -38558,11 +38544,11 @@ published separately and revised annually.
 
          I  Public Health Service, Department of Health and Human 
                 Services (Parts 1--199)
+
+[[Page 464]]
+
         IV  Centers for Medicare & Medicaid Services, Department 
-                of Health and Human Services (Parts 400--499)
-
-[[Page 462]]
-
+                of Health and Human Services (Parts 400--599)
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
 
@@ -38572,7 +38558,7 @@ published separately and revised annually.
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Lands
          I  Bureau of Reclamation, Department of the Interior 
-                (Parts 200--499)
+                (Parts 400--999)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
        III  Utah Reclamation Mitigation and Conservation 
@@ -38614,11 +38600,11 @@ published separately and revised annually.
                 (Parts 1100--1199)
        XII  Corporation for National and Community Service (Parts 
                 1200--1299)
+
+[[Page 465]]
+
       XIII  Office of Human Development Services, Department of 
                 Health and Human Services (Parts 1300--1399)
-
-[[Page 463]]
-
        XVI  Legal Services Corporation (Parts 1600--1699)
       XVII  National Commission on Libraries and Information 
                 Science (Parts 1700--1799)
@@ -38668,11 +38654,11 @@ published separately and revised annually.
          9  Department of Energy (Parts 900--999)
         10  Department of the Treasury (Parts 1000--1099)
         12  Department of Transportation (Parts 1200--1299)
+
+[[Page 466]]
+
         13  Department of Commerce (Parts 1300--1399)
         14  Department of the Interior (Parts 1400--1499)
-
-[[Page 464]]
-
         15  Environmental Protection Agency (Parts 1500--1599)
         16  Office of Personnel Management, Federal Employees 
                 Health Benefits Acquisition Regulation (Parts 
@@ -38723,13 +38709,13 @@ published separately and revised annually.
                 (Parts 100--199)
         II  Federal Railroad Administration, Department of 
                 Transportation (Parts 200--299)
+
+[[Page 467]]
+
        III  Federal Motor Carrier Safety Administration, 
                 Department of Transportation (Parts 300--399)
         IV  Coast Guard, Department of Homeland Security (Parts 
                 400--499)
-
-[[Page 465]]
-
          V  National Highway Traffic Safety Administration, 
                 Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
@@ -38772,7 +38758,7 @@ published separately and revised annually.
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 467]]
+[[Page 469]]
 
 
 
@@ -38783,22 +38769,25 @@ published separately and revised annually.
 
 <R04>
 
-                     (Revised as of October 1, 2011)
+                     (Revised as of October 1, 2012)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
 
 Administrative Committee of the Federal Register  1, I
 Administrative Conference of the United States    1, III
-Advanced Research Projects Agency                 32, I
 Advisory Council on Historic Preservation         36, VIII
+Advocacy and Outreach, Office of                  7, XXV
+Afghanistan Reconstruction, Special Inspector     22, LXXXIII
+     General for
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
-Agency for International Development              22, II
+Agency for International Development              2, VII; 22, II
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
 Agriculture Department                            2, IV; 5, LXXIII
+  Advocacy and Outreach, Office of                7, XXV
   Agricultural Marketing Service                  7, I, IX, X, XI
   Agricultural Research Service                   7, V
   Animal and Plant Health Inspection Service      7, III; 9, I
@@ -38820,7 +38809,7 @@ Agriculture Department                            2, IV; 5, LXXIII
   Inspector General, Office of                    7, XXVI
   National Agricultural Library                   7, XLI
   National Agricultural Statistics Service        7, XXXVI
-  National Institute of Food and Agriculture.     7, XXXIV
+  National Institute of Food and Agriculture      7, XXXIV
   Natural Resources Conservation Service          7, VI
   Operations, Office of                           7, XXVIII
   Procurement and Property Management, Office of  7, XXXII
@@ -38841,11 +38830,11 @@ Alcohol, Tobacco, Firearms, and Explosives,       27, II
 AMTRAK                                            49, VII
 American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
+
+[[Page 470]]
+
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
-
-[[Page 468]]
-
 Architectural and Transportation Barriers         36, XI
      Compliance Board
 Arctic Research Commission                        45, XXIII
@@ -38856,7 +38845,7 @@ Army Department                                   32, V
 Bilingual Education and Minority Languages        34, V
      Affairs, Office of
 Blind or Severely Disabled, Committee for         41, 51
-     Purchase From People Who Are
+     Purchase from People Who Are
 Broadcasting Board of Governors                   22, V
   Federal Acquisition Regulation                  48, 19
 Bureau of Ocean Energy Management, Regulation,    30, II
@@ -38864,6 +38853,8 @@ Bureau of Ocean Energy Management, Regulation,    30, II
 Census Bureau                                     15, I
 Centers for Medicare & Medicaid Services          42, IV
 Central Intelligence Agency                       32, XIX
+Chemical Safety and Hazardous Investigation       40, VI
+     Board
 Chief Financial Officer, Office of                7, XXX
 Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
@@ -38873,7 +38864,7 @@ Court Services and Offender Supervision Agency    5, LXX
      for the District of Columbia
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
-Commerce Department                               44, IV; 50, VI
+Commerce Department                               2, XIII; 44, IV; 50, VI
   Census Bureau                                   15, I
   Economic Affairs, Under Secretary               37, V
   Economic Analysis, Bureau of                    15, VIII
@@ -38906,22 +38897,21 @@ Community Services, Office of                     45, X
 Comptroller of the Currency                       12, I
 Construction Industry Collective Bargaining       29, IX
      Commission
-Consumer Financial Protection Bureau              12, X
+Consumer Financial Protection Bureau              5, LXXXIV; 12, X
 Consumer Product Safety Commission                5, LXXI; 16, II
 Copyright Office                                  37, II
 Copyright Royalty Board                           37, III
 Corporation for National and Community Service    2, XXII; 45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
-Court Services and Offender Supervision Agency    28, VIII
-     for the District of Columbia
+Court Services and Offender Supervision Agency    5, LXX; 28, VIII
+   for the District of Columbia
+[[Page 471]]
+
 Customs and Border Protection                     19, I
 Defense Contract Audit Agency                     32, I
-
-[[Page 469]]
-
-Defense Department                                5, XXVI; 32, Subtitle A; 
-                                                  40, VII
+Defense Department                                2, XI; 5, XXVI; 32, 
+                                                  Subtitle A; 40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
@@ -38930,8 +38920,6 @@ Defense Department                                5, XXVI; 32, Subtitle A;
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Human Resources Management and Labor Relations  5, XCIX
-       Systems
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 2, XI; 32, I
@@ -38940,7 +38928,7 @@ Defense Intelligence Agency                       32, I
 Defense Logistics Agency                          32, XII; 48, 54
 Defense Nuclear Facilities Safety Board           10, XVII
 Delaware River Basin Commission                   18, III
-District of Columbia, Court Services and          28, VIII
+District of Columbia, Court Services and          5, LXX; 28, VIII
      Offender Supervision Agency for the
 Drug Enforcement Administration                   21, II
 East-West Foreign Trade Board                     15, XIII
@@ -38948,7 +38936,7 @@ Economic Affairs, Under Secretary                 37, V
 Economic Analysis, Bureau of                      15, VIII
 Economic Development Administration               13, III
 Economic Research Service                         7, XXXVII
-Education, Department of                          5, LIII
+Education, Department of                          2, XXXIV; 5, LIII
   Bilingual Education and Minority Languages      34, V
        Affairs, Office of
   Civil Rights, Office for                        34, I
@@ -38972,7 +38960,8 @@ Employees Loyalty Board                           5, V
 Employment and Training Administration            20, V
 Employment Standards Administration               20, VI
 Endangered Species Committee                      50, IV
-Energy, Department of                             5, XXIII; 10, II, III, X
+Energy, Department of                             2, IX; 5, XXIII; 10, II, 
+                                                  III, X
   Federal Acquisition Regulation                  48, 9
   Federal Energy Regulatory Commission            5, XXIV; 18, I
   Property Management Regulations                 41, 109
@@ -38989,12 +38978,12 @@ Equal Opportunity, Office of Assistant Secretary  24, I
      for
 Executive Office of the President                 3, I
   Administration, Office of                       5, XV
+
+[[Page 472]]
+
   Environmental Quality, Council on               40, V
-
-[[Page 470]]
-
-  Management and Budget, Office of                5, III, LXXVII; 14, VI; 
-                                                  48, 99
+  Management and Budget, Office of                2, Subtitle A; 5, III, 
+                                                  LXXVII; 14, VI; 48, 99
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
   Presidential Documents                          3
@@ -39014,7 +39003,7 @@ Federal Communications Commission                 5, XXIX; 47, I
 Federal Contract Compliance Programs, Office of   41, 60
 Federal Crop Insurance Corporation                7, IV
 Federal Deposit Insurance Corporation             5, XXII; 12, III
-Federal Election Commission                       11, I
+Federal Election Commission                       5, XXXVII; 11, I
 Federal Emergency Management Agency               44, I
 Federal Employees Group Life Insurance Federal    48, 21
      Acquisition Regulation
@@ -39063,10 +39052,10 @@ Foreign Assets Control, Office of                 31, V
 Foreign Claims Settlement Commission of the       45, V
      United States
 Foreign Service Grievance Board                   22, IX
+
+[[Page 473]]
+
 Foreign Service Impasse Disputes Panel            22, XIV
-
-[[Page 471]]
-
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
@@ -39104,7 +39093,7 @@ Health and Human Services, Department of          2, III; 5, XLV; 45,
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
-Homeland Security, Department of                  2, XXX; 6, I
+Homeland Security, Department of                  2, XXX; 6, I; 8, I
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
   Customs and Border Protection                   19, I
@@ -39112,7 +39101,6 @@ Homeland Security, Department of                  2, XXX; 6, I
   Human Resources Management and Labor Relations  5, XCVII
        Systems
   Immigration and Customs Enforcement Bureau      19, IV
-  Immigration and Naturalization                  8, I
   Transportation Security Administration          49, XII
 HOPE for Homeowners Program, Board of Directors   24, XXIV
      of
@@ -39141,9 +39129,8 @@ Housing, Office of, and Multifamily Housing       24, IV
 Human Development Services, Office of             45, XIII
 Immigration and Customs Enforcement Bureau        19, IV
 
-[[Page 472]]
+[[Page 474]]
 
-Immigration and Naturalization                    8, I
 Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
 Indian Affairs, Bureau of                         25, I, V
@@ -39158,10 +39145,10 @@ Information Security Oversight Office, National   32, XX
 Inspector General
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
-  Housing and Urban Development Department        24, XII
+  Housing and Urban Development Department        24, XII, XV
 Institute of Peace, United States                 22, XVII
 Inter-American Foundation                         5, LXIII; 22, X
-Interior Department
+Interior Department                               2, XIV
   American Indians, Office of the Special         25, VII
        Trustee
   Bureau of Ocean Energy Management, Regulation,  30, II
@@ -39179,6 +39166,7 @@ Interior Department
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
   Natural Resource Revenue, Office of             30, XII
+  Ocean Energy Management, Bureau of              30, V
   Reclamation, Bureau of                          43, I
   Secretary of the Interior, Office of            2, XIV; 43, Subtitle A
   Surface Mining Reclamation and Enforcement,     30, VII
@@ -39200,10 +39188,12 @@ International Trade Administration                15, III; 19, III
 International Trade Commission, United States     19, II
 Interstate Commerce Commission                    5, XL
 Investment Security, Office of                    31, VIII
+Iraq Reconstruction, Special Inspector General    5, LXXXVII
+     for
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                2, XXVII; 5, XXVIII; 28, 
+Justice Department                                2, XXVIII; 5, XXVIII; 28, 
                                                   I, XI; 40, IV
   Alcohol, Tobacco, Firearms, and Explosives,     27, II
        Bureau of
@@ -39218,10 +39208,10 @@ Justice Department                                2, XXVII; 5, XXVIII; 28,
   Prisons, Bureau of                              28, V
   Property Management Regulations                 41, 128
 Labor Department                                  5, XLII
+
+[[Page 475]]
+
   Employee Benefits Security Administration       29, XXV
-
-[[Page 473]]
-
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
   Employment Standards Administration             20, VI
@@ -39252,7 +39242,7 @@ Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
 Merit Systems Protection Board                    5, II, LXIV
 Micronesian Status Negotiations, Office for       32, XXVII
-Millenium Challenge Corporation                   22, XIII
+Millennium Challenge Corporation                  22, XIII
 Mine Safety and Health Administration             30, I
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
@@ -39264,7 +39254,7 @@ National Aeronautics and Space Administration     2, XVIII; 5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
 National Agricultural Statistics Service          7, XXXVI
-National and Community Service, Corporation for   45, XII, XXV
+National and Community Service, Corporation for   2, XXII; 45, XII, XXV
 National Archives and Records Administration      2, XXVI; 5, LXVI; 36, XII
   Information Security Oversight Office           32, XX
 National Capital Planning Commission              1, IV
@@ -39285,17 +39275,17 @@ National Highway Traffic Safety Administration    23, II, III; 47, VI; 49, V
 National Imagery and Mapping Agency               32, I
 National Indian Gaming Commission                 25, III
 National Institute for Literacy                   34, XI
-National Institute of Food and Agriculture.       7, XXXIV
+National Institute of Food and Agriculture        7, XXXIV
 National Institute of Standards and Technology    15, II
 National Intelligence, Office of Director of      32, XVII
 National Labor Relations Board                    5, LXI; 29, I
 National Marine Fisheries Service                 50, II, IV
 National Mediation Board                          29, X
+
+[[Page 476]]
+
 National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV, 
                                                   VI
-
-[[Page 474]]
-
 National Park Service                             36, I
 National Railroad Adjustment Board                29, III
 National Railroad Passenger Corporation (AMTRAK)  49, VII
@@ -39319,6 +39309,7 @@ Nuclear Regulatory Commission                     2, XX; 5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
 Occupational Safety and Health Review Commission  29, XX
+Ocean Energy Management, Bureau of                30, V
 Offices of Independent Counsel                    28, VI
 Office of Workers' Compensation Programs          20, VII
 Oklahoma City National Memorial Trust             36, XV
@@ -39329,12 +39320,10 @@ Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
      Certain Employees
-Peace Corps                                       22, III
+Peace Corps                                       2, XXXVII; 22, III
 Pennsylvania Avenue Development Corporation       36, IX
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-  Human Resources Management and Labor Relations  5, XCIX
-       Systems, Department of Defense
   Human Resources Management and Labor Relations  5, XCVII
        Systems, Department of Homeland Security
   Federal Acquisition Regulation                  48, 17
@@ -39370,7 +39359,7 @@ Rural Business-Cooperative Service                7, XVIII, XLII, L
 Rural Development Administration                  7, XLII
 Rural Housing Service                             7, XVIII, XXXV, L
 
-[[Page 475]]
+[[Page 477]]
 
 Rural Telephone Bank                              7, XVI
 Rural Utilities Service                           7, XVII, XVIII, XLII, L
@@ -39388,8 +39377,6 @@ Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
 Special Education and Rehabilitative Services,    34, III
      Office of
-Special Inspector General for Iraq                5, LXXXVII
-     Reconstruction
 State Department                                  2, VI; 22, I; 28, XI
   Federal Acquisition Regulation                  48, 6
 Surface Mining Reclamation and Enforcement,       30, VII
@@ -39445,10 +39432,10 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Secret Service                                  31, IV
   Secretary of the Treasury, Office of            31, Subtitle A
   Thrift Supervision, Office of                   12, V
-
-[[Page 476]]
-
 Truman, Harry S. Scholarship Foundation           45, XVIII
+
+[[Page 478]]
+
 United States and Canada, International Joint     22, IV
      Commission
 United States and Mexico, International Boundary  22, XI
@@ -39466,7 +39453,7 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 477]]
+[[Page 479]]
 
                                      
 
@@ -39504,7 +39491,7 @@ new regulations.
 ------------------------------------------------------------------------
 
 
-[[Page 479]]
+[[Page 481]]
 
 
 <R03>
@@ -39593,7 +39580,7 @@ Chapter XII Heading revised; nomenclature change...................49720
 1500 Authority citation revised....................................49720
 1500.3 Amended.....................................................49720
 
-[[Page 480]]
+[[Page 482]]
 
 1502 Authority citation revised....................................49720
 1503 Authority citation revised; nomenclature change...............49720
@@ -39683,7 +39670,7 @@ Chapter XII
 1562.21--1562.29 (Subpart B) Added; interim........................41600
 1572 Authority citation revised.....................................2558
 
-[[Page 481]]
+[[Page 483]]
 
 1572.301--157.399 (Subpart D) Added.................................2558
 1572.401--1572.405 (Subpart E) Added................................2558
@@ -39773,7 +39760,7 @@ Chapter XII
 1544.228 (d) revised; (e) added; interim...........................13025
 1546.213 (d) revised; (e) added; interim...........................13026
 
-[[Page 482]]
+[[Page 484]]
 
 1548.15 (d) revised; (e) added; interim............................13026
 1548.16 (a) revised; (d) added; interim............................13026
@@ -39858,7 +39845,7 @@ Chapter XII
 1546.401 Revised; interim; eff. 11-16-09...........................47705
 1546.403 Removed; interim; eff. 11-16-09...........................47705
 
-[[Page 483]]
+[[Page 485]]
 
 1546.405 Heading revised; interim; eff. 11-16-09...................47705
 1546.407 Heading revised; interim; eff. 11-16-09...................47705
@@ -39883,5 +39870,82 @@ Chapter XII
 49 CFR
                                                                    75 FR
                                                                     Page
-Chapter
+Chapter XII
+1503.629 (d) revised...............................................58333
+1503.631 (c)(2) amended............................................58334
+1503.659 (e) revised...............................................58334
+
+                                  2011
+
+49 CFR
+                                                                   76 FR
+                                                                    Page
+Chapter XII
+1503 Authority citation revised....................................22630
+1503.1--1503.3 (Subpart A) Added...................................22630
+1515.1 (a)(2) revised..............................................51867
+    Regulation at 76 FR 51867 comment period extended to 10-31-11 
+                                                                   60755
+1515.9 (c)(1)(v) removed; (a)(3) and (f)(3) revised................51867
+    Regulation at 76 FR 51867 comment period extended to 10-31-11 
+                                                                   60755
+1515.11 (a)(3) revised.............................................51867
+    Regulation at 76 FR 51867 comment period extended to 10-31-11 
+                                                                   60755
+1520.7 (b) revised.................................................51867
+    Regulation at 76 FR 51867 comment period extended to 10-31-11 
+                                                                   60755
+1522 Removed.......................................................51867
+    Regulation at 76 FR 51867 comment period extended to 10-31-11 
+                                                                   60755
+1540.201 (a)(10), (11) and (12) removed; (a) introductory text 
+        revised; (b) amended.......................................51867
+    Regulation at 76 FR 51867 comment period extended to 10-31-11 
+                                                                   60755
+1540.203 (a)(1) removed; (a)(2) through (6) redesignated as new 
+        (a)(1) through (5).........................................51867
+    Regulation at 76 FR 51867 comment period extended to 10-31-11 
+                                                                   60755
+1540.209 Introductory text and (c)(1) revised......................51867
+    Regulation at 76 FR 51867 comment period extended to 10-31-11 
+                                                                   60755
+1544.105 (a) introductory text revised.............................51867
+    Regulation at 76 FR 51867 comment period extended to 10-31-11 
+                                                                   60755
+1544.205 (g)(3) revised............................................51867
+    (g)(3) corrected...............................................53080
+    Regulation at 76 FR 51867 comment period extended to 10-31-11 
+                                                                   60755
+1546.205 (g)(3) revised............................................51868
+    (g)(3) corrected...............................................53081
+    Regulation at 76 FR 51868 comment period extended to 10-31-11 
+                                                                   60755
+1548.15 (a) revised................................................51868
+    Regulation at 76 FR 51868 comment period extended to 10-31-11 
+                                                                   60755
+1549.7 (a)(2)(ii), (3)(ii), (5) and (b)(2) revised.................51868
+    Regulation at 76 FR 51868 comment period extended to 10-31-11 
+                                                                   60755
+
+[[Page 486]]
+
+1549.105 (a)(2) revised............................................51868
+    Regulation at 76 FR 51868 comment period extended to 10-31-11 
+                                                                   60755
+
+                                  2012
+
+  (Regulations published from January 1, 2012, through October 1, 2012)
+
+49 CFR
+                                                                   77 FR
+                                                                    Page
+Chapter X
+1244 Policy statement..............................................15969
+Chapter XII
+1572 Exemption.....................................................36406
+1572.5 (e)(2) amended..............................................18717
+
+
+                                  [all]
 </pre></body></html>

@@ -1,6 +1,6 @@
 <html><body><pre>
 [Title 7 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2011 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2012 Edition]
 [From the U.S. Government Printing Office]
 
 
@@ -11,27 +11,22 @@
 <R02>
           Title 7
 
-
-          Parts 1000 to 1199
-
-                         Revised as of January 1, 2011
-
-
-          Agriculture
-          
-<R03>
+Agriculture
 
 
 ________________________
 
+Parts 1000 to 1199
+
+                         Revised as of January 1, 2012
+
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of January 1, 2011
+          As of January 1, 2012
                     Published by the Office of the Federal Register 
                     National Archives and Records Administration as a 
                     Special Edition of the Federal Register
-                    A Special Edition of the Federal Register
 
 [[Page ii]]
 
@@ -100,9 +95,9 @@ ________________________
           Agreements and Orders; Milk), Department of 
           Agriculture                                                5
   Finding Aids:
-      Table of CFR Titles and Chapters........................     225
-      Alphabetical List of Agencies Appearing in the CFR......     245
-      List of CFR Sections Affected...........................     255
+      Table of CFR Titles and Chapters........................     231
+      Alphabetical List of Agencies Appearing in the CFR......     251
+      List of CFR Sections Affected...........................     261
 
 [[Page iv]]
 
@@ -158,7 +153,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2011), consult the ``List of CFR 
+revision date (in this case, January 1, 2012), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -197,9 +192,9 @@ OBSOLETE PROVISIONS
 the cover of each volume are not carried. Code users may find the text 
 of provisions in effect on a given date in the past by using the 
 appropriate numerical list of sections affected. For the period before 
-January 1, 2001, consult either the List of CFR Sections Affected, 1949-
+April 1, 2001, consult either the List of CFR Sections Affected, 1949-
 1963, 1964-1972, 1973-1985, or 1986-2000, published in eleven separate 
-volumes. For the period beginning January 1, 2001, a ``List of CFR 
+volumes. For the period beginning April 1, 2001, a ``List of CFR 
 Sections Affected'' is published at the end of each CFR volume.
 
 ``[RESERVED]'' TERMINOLOGY
@@ -303,7 +298,7 @@ register.
     Raymond A. Mosley,
     Director,
     Office of the Federal Register.
-    January 1, 2011.
+    January 1, 2012.
 
 
 
@@ -322,7 +317,7 @@ these volumes are arranged in the following order: Parts 1-26, 27-52,
 53-209, 210-299, 300-399, 400-699, 700-899, 900-999, 1000-1199, 1200-
 1599, 1600-1759, 1760-1939, 1940-1949, 1950-1999, and part 2000 to end. 
 The contents of these volumes represent all current regulations codified 
-under this title of the CFR as of January 1, 2011.
+under this title of the CFR as of January 1, 2012.
 
     The Food and Nutrition Service current regulations in the volume 
 containing parts 210-299, include the Child Nutrition Programs and the 
@@ -411,18 +406,18 @@ Part                                                                Page
 
  [Reserved]
 
-1145            Dairy forward pricing program...............         190
-1150            Dairy promotion program.....................         191
+1145            Dairy Forward Pricing Program...............         190
+1150            Dairy Promotion Program.....................         191
 1151-1159
 
  [Reserved]
 
-1160            Fluid milk promotion program................         204
+1160            Fluid Milk Promotion Program................         209
 1161-1169
 
  [Reserved]
 
-1170            Dairy product mandatory reporting...........         218
+1170            Dairy product mandatory reporting...........         223
 1171-1199
 
  [Reserved]
@@ -1493,7 +1488,7 @@ utilization of producer milk by the handler.
 
 
 <R05>
-Sec. 1000.50  Class prices, component prices, and advanced pricing
+Sec. 1000.50  Class prices, component prices, and advanced pricing 
 factors.
 
     Class prices per hundredweight of milk containing 3.5 percent 
@@ -3050,7 +3045,7 @@ TODD                             MN...............   27153          1.70
 TRAVERSE                         MN...............   27155          1.70
 WABASHA                          MN...............   27157          1.70
 WADENA                           MN...............   27159          1.65
-WASec. MN...............   27161          1.70
+WASECA                           MN...............   27161          1.70
 WASHINGTON                       MN...............   27163          1.70
 WATONWAN                         MN...............   27165          1.70
 WILKIN                           MN...............   27167          1.65
@@ -5892,7 +5887,7 @@ Sec. 1001.44  Classification of producer milk.
 
 
 <R05>
-Sec. 1001.45  Market administrator's reports and announcements
+Sec. 1001.45  Market administrator's reports and announcements 
 concerning classification.
 
     See Sec. 1000.45.
@@ -5901,8 +5896,7 @@ concerning classification.
 
 
 <R05>
-Sec. 1001.50  Class prices, component prices, and advanced pricing
-factors.
+Sec. 1001.50  Class prices, component prices, and advanced pricing factors.
 
     See Sec. 1000.50.
 
@@ -6280,7 +6274,7 @@ Sec. 1001.74  [Reserved]
 
 
 <R05>
-Sec. 1001.75  Plant location adjustments for producer milk and nonpool
+Sec. 1001.75  Plant location adjustments for producer milk and nonpool 
 milk.
 
     For purposes of making payments for producer milk and nonpool milk, 
@@ -6975,7 +6969,7 @@ Sec. 1005.44  Classification of producer milk.
 
 
 <R05>
-Sec. 1005.45  Market administrator's reports and announcements 
+Sec. 1005.45  Market administrator's reports and announcements
 concerning classification.
 
     See Sec. 1000.45.
@@ -6984,15 +6978,14 @@ concerning classification.
 
 
 <R05>
-Sec. 1005.50  Class prices, component prices, and advanced pricing
-factors.
+Sec. 1005.50  Class prices, component prices, and advanced pricing factors.
 
     See Sec. 1000.50.
 
 
 <R05>
-Sec. 1005.51  Class I differential, adjustments to Class I prices, 
-and Class I price.
+Sec. 1005.51  Class I differential, adjustments to Class I prices, and
+Class I price.
 
     (a) The Class I differential shall be the differential established 
 for Mecklenburg County, North Carolina, which is reported in Sec. 
@@ -8548,8 +8541,7 @@ concerning classification.
 
 
 <R05>
-Sec. 1006.50  Class prices, component prices, and advanced pricing 
-factors.
+Sec. 1006.50  Class prices, component prices, and advanced pricing factors.
 
     See Sec. 1000.50.
 
@@ -9020,8 +9012,7 @@ Sec. 1006.74  [Reserved]
 
 
 <R05>
-Sec. 1006.75  Plant location adjustments for producer milk and nonpool
-milk.
+Sec. 1006.75  Plant location adjustments for producer milk and nonpool milk.
 
     For purposes of making payments for producer milk and nonpool milk, 
 a plant location adjustment shall be determined by subtracting the Class 
@@ -9700,15 +9691,13 @@ concerning classification.
 
 
 <R05>
-Sec. 1007.50  Class prices, component prices, and advanced pricing 
-factors.
+Sec. 1007.50  Class prices, component prices, and advanced pricing factors.
 
     See Sec. 1000.50.
 
 
 <R05>
-Sec. 1007.51  Class I differential, adjustments to Class I prices, 
-and Class I price.
+Sec. 1007.51  Class I differential, adjustments to Class I prices, and Class I price.
 
     (a) The Class I differential shall be the differential established 
 for Fulton County, Georgia, which is reported in Sec. 1000.52. The 
@@ -10339,7 +10328,7 @@ Sec. 1007.52  Adjusted Class I differentials.
 
 
 <R05>
-Sec. 1007.53  Announcement of class prices, component prices, and
+Sec. 1007.53  Announcement of class prices, component prices, and 
 advanced pricing factors.
 
     See Sec. 1000.53.
@@ -11676,8 +11665,7 @@ concerning classification.
 
 
 <R05>
-Sec. 1030.50  Class prices, component prices, and advanced pricing 
-factors.
+Sec. 1030.50  Class prices, component prices, and advanced pricing factors.
 
     See Sec. 1000.50.
 
@@ -12148,8 +12136,7 @@ Sec. 1030.74  [Reserved]
 
 
 <R05>
-Sec. 1030.75  Plant location adjustments for producer milk and nonpool 
-milk.
+Sec. 1030.75  Plant location adjustments for producer milk and nonpool milk.
 
     For purposes of making payments for producer milk and nonpool milk, 
 a plant location adjustment shall be determined by subtracting the Class 
@@ -12160,7 +12147,7 @@ used to adjust the payments required pursuant to Sec. Sec. 1030.73 and
 
 
 <R05>
-Sec. 1030.76  Payments by a handler operating a partially regulated 
+Sec. 1030.76  Payments by a handler operating a partially regulated
 distributing plant.
 
     See Sec. 1000.76.
@@ -13020,7 +13007,7 @@ Sec. 1032.52  Adjusted Class I differentials.
 
 
 <R05>
-Sec. 1032.53  Announcement of class prices, component prices, and 
+Sec. 1032.53  Announcement of class prices, component prices, and
 advanced pricing factors.
 
     See Sec. 1000.53.
@@ -13413,7 +13400,7 @@ used to adjust the payments required pursuant to Sec. Sec. 1032.73 and
 
 
 <R05>
-Sec. 1032.76  Payments by a handler operating a partially regulated
+Sec. 1032.76  Payments by a handler operating a partially regulated 
 distributing plant.
 
     See Sec. 1000.76.
@@ -14209,8 +14196,7 @@ concerning classification.
 
 
 <R05>
-Sec. 1033.50  Class prices, component prices, and advanced pricing 
-factors.
+Sec. 1033.50  Class prices, component prices, and advanced pricing factors.
 
     See Sec. 1000.50.
 
@@ -14594,7 +14580,7 @@ Sec. 1033.74  [Reserved]
 
 
 <R05>
-Sec. 1033.75  Plant location adjustments for producer milk and nonpool
+Sec. 1033.75  Plant location adjustments for producer milk and nonpool 
 milk.
 
     For purposes of making payments for producer milk and nonpool milk, 
@@ -15451,8 +15437,7 @@ concerning classification.
 
 
 <R05>
-Sec. 1124.50  Class prices, component prices, and advanced pricing 
-factors.
+Sec. 1124.50  Class prices, component prices, and advanced pricing factors.
 
     See Sec. 1000.50.
 
@@ -15473,7 +15458,7 @@ Sec. 1124.52  Adjusted Class I differentials.
 
 
 <R05>
-Sec. 1124.53  Announcement of class prices, component prices, and 
+Sec. 1124.53  Announcement of class prices, component prices, and
 advanced pricing factors.
 
     See Sec. 1000.53.
@@ -16471,8 +16456,7 @@ concerning classification.
 
 
 <R05>
-Sec. 1126.50  Class prices, component prices, and advanced pricing 
-factors.
+Sec. 1126.50  Class prices, component prices, and advanced pricing factors.
 
     See Sec. 1000.50.
 
@@ -16868,7 +16852,7 @@ used to adjust the payments required pursuant to Sec. Sec. 1126.73 and
 
 
 <R05>
-Sec. 1126.76  Payments by a handler operating a partially regulated
+Sec. 1126.76  Payments by a handler operating a partially regulated 
 distributing plant.
 
     See Sec. 1000.76.
@@ -17616,8 +17600,7 @@ concerning classification.
 
 
 <R05>
-Sec. 1131.50  Class prices, component prices, and advanced pricing 
-factors.
+Sec. 1131.50  Class prices, component prices, and advanced pricing factors.
 
     See Sec. 1000.50.
 
@@ -17942,8 +17925,7 @@ Sec. 1131.74  [Reserved]
 
 
 <R05>
-Sec. 1131.75  Plant location adjustments for producers and nonpool 
-milk.
+Sec. 1131.75  Plant location adjustments for producers and nonpool milk.
 
     For purposes of making payments for producer milk and nonpool milk, 
 a plant location adjustment shall be determined by subtracting the Class 
@@ -18162,7 +18144,7 @@ Sec.
 1150.106 United States.
 1150.107 Fiscal period.
 1150.108 Eligible organization.
-1150.109 Qualified State or regional program.
+1150.109 Qualified program.
 1150.110 Producer.
 1150.111 Milk.
 1150.112 Dairy products.
@@ -18173,6 +18155,9 @@ Sec.
 1150.117 Plans and projects.
 1150.118 Marketing.
 1150.119 Cooperative association.
+1150.120 Imported dairy product.
+1150.121 Importer.
+1150.122 CBP.
 
                National Dairy Promotion and Research Board
 
@@ -18180,7 +18165,7 @@ Sec.
 1150.132 Term of office.
 1150.133 Nominations.
 1150.134 Nominee's agreement to serve.
-1150.135 Appointment.
+1150.135 Appointments.
 1150.136 Vacancies.
 1150.137 Procedure.
 1150.138 Compensation and reimbursement.
@@ -18191,8 +18176,8 @@ Sec.
 
 1150.151 Expenses.
 1150.152 Assessments.
-1150.153 Qualified State or regional dairy product promotion, research 
-          or nutrition education programs.
+1150.153 Qualified dairy product promotion, research or nutrition 
+          education programs.
 1150.154 Influencing governmental action.
 1150.155 Adjustment of accounts.
 1150.156 Charges and penalties.
@@ -18208,12 +18193,11 @@ Sec.
 1150.172 Books and records.
 1150.173 Confidential treatment.
 
+[[Page 192]]
+
                               Miscellaneous
 
 1150.181 Proceedings after termination.
-
-[[Page 192]]
-
 1150.182 Effect of termination or amendment.
 1150.183 Personal liability.
 1150.184 Patents, copyrights, inventions and publications.
@@ -18284,8 +18268,10 @@ corporation, association, cooperative or other entity.
 <R05>
 Sec. 1150.106  United States.
 
-    United States means the 48 contiguous States in the continental 
-United States.
+    United States means all of the States, the District of Columbia, and 
+the Commonwealth of Puerto Rico.
+
+[76 FR 14787, Mar. 18, 2011]
 
 
 <R05>
@@ -18304,11 +18290,13 @@ certified by the Secretary pursuant to Sec. Sec. 1150.270 through
 
 
 <R05>
-Sec. 1150.109  Qualified State or regional program.
+Sec. 1150.109  Qualified program.
 
-    Qualified State or regional program means any State or regional 
-dairy product promotion, research or nutrition education program which 
-is certified as a qualified program pursuant to Sec. 1150.153.
+    Qualified program means any dairy product promotion, research or 
+nutrition education program which is certified as a qualified program 
+pursuant to Sec. 1150.153.
+
+[76 FR 14788, Mar. 18, 2011]
 
 
 <R05>
@@ -18321,7 +18309,9 @@ commercial use.
 <R05>
 Sec. 1150.111  Milk.
 
-    Milk means any class of cow's milk produced in the United States.
+    Milk means any class of cow's milk.
+
+[76 FR 14788, Mar. 18, 2011]
 
 
 <R05>
@@ -18343,21 +18333,20 @@ liquid form as a beverage.
 Sec. 1150.114  Promotion.
 
     Promotion means actions such as paid advertising, sales promotion, 
-and publicity to advance the image and sales of, and demand for, dairy 
-products generally.
+and publicity to advance the image and sales
+
+[[Page 193]]
+
+of, and demand for, dairy products generally.
 
 
 <R05>
 Sec. 1150.115  Research.
 
     Research means studies testing the effectiveness of market 
-development
-
-[[Page 193]]
-
-and promotion efforts, studies relating to the nutritional value of milk 
-and dairy products, and other related efforts to expand demand for dairy 
-products.
+development and promotion efforts, studies relating to the nutritional 
+value of milk and dairy products, and other related efforts to expand 
+demand for dairy products.
 
 
 <R05>
@@ -18391,6 +18380,37 @@ of producers which is organized under the provisions of the Act of
 Congress of February 18, 1922, as amended, known as the ``Capper-
 Volstead Act''.
 
+
+<R05>
+Sec. 1150.120  Imported dairy product.
+
+    Imported dairy product means any product that is imported into the 
+United States under any of the Harmonized Tariff Schedule (HTS) 
+classification numbers listed in Sec. 1150.152(b)(1).
+
+[76 FR 14788, Mar. 18, 2011]
+
+
+<R05>
+Sec. 1150.121  Importer.
+
+    Importer means a person that imports imported dairy products into 
+the United States as a principal or as an agent, broker, or consignee of 
+any person who produces or handles dairy products outside of the United 
+States for sale in the United States, and who is listed as the importer 
+of record for such dairy products.
+
+[76 FR 14788, Mar. 18, 2011]
+
+
+<R05>
+Sec. 1150.122  CBP.
+
+    CBP means the United States Customs and Border Protection of the 
+Department of Homeland Security.
+
+[76 FR 14788, Mar. 18, 2011]
+
                National Dairy Promotion and Research Board
 
 
@@ -18398,16 +18418,17 @@ Volstead Act''.
 Sec. 1150.131  Establishment and membership.
 
     (a) There is hereby established a National Dairy Promotion and 
-Research Board of thirty-six members. For purposes of nominating 
-producers to the Board, the United States shall be divided into thirteen 
-geographic regions and the number of Board members from each region 
-shall be as follows:
-    (1) One member from region number one comprised of the following 
-States: Washington and Oregon.
-    (2) Eight members from region number two comprised of the following 
-State: California.
-    (3) Four members from region number three comprised of the following 
-States: Arizona, Colorado, Idaho, Montana, Nevada, Utah and Wyoming.
+Research Board.
+    (b) Thirty-six members of the Board shall be United States 
+producers. For purposes of nominating producers to the Board, the United 
+States shall be divided into twelve geographic regions and the number of 
+Board members from each region shall be as follows:
+    (1) Two members from region number one comprised of the following 
+States: Alaska, Oregon and Washington.
+    (2) Seven members from region number two comprised of the following 
+States: California and Hawaii.
+    (3) Two members from region number three comprised of the following 
+States: Arizona, Colorado, Montana, Nevada, Utah and Wyoming.
     (4) Four members from region number four comprised of the following 
 States: Arkansas, Kansas, New Mexico, Oklahoma and Texas.
     (5) Two members from region number five comprised of the following 
@@ -18415,61 +18436,74 @@ States: Minnesota, North Dakota and South Dakota.
     (6) Five members from region number six comprised of the following 
 State: Wisconsin.
     (7) Two members from region number seven comprised of the following 
-States: Illinois, Iowa, Missouri, and Nebraska.
-    (8) One member from region number eight comprised of the following 
-States: Alabama, Kentucky, Louisiana, Mississippi and Tennessee.
+States: Illinois, Iowa, Missouri and Nebraska.
+    (8) Two members from region number eight comprised of the following 
+State: Idaho.
     (9) Three members from region number nine comprised of the following 
 States: Indiana, Michigan, Ohio and West Virginia.
-    (10) One member from region number ten comprised of the following 
-States: Florida, Georgia, North Carolina, South Carolina and Virginia.
-    (11) Two members from region number eleven comprised of the 
-following States: Delaware, Maryland, New Jersey and Pennsylvania.
-    (12) Two members from region number twelve comprised of the 
-following State: New York.
-    (13) One member from region number thirteen comprised of the 
-following States: Connecticut, Maine, Massachusetts, New Hampshire, 
-Rhode Island and Vermont.
-    (b) The Board shall be composed of milk producers appointed by the 
-Secretary either from nominations submitted pursuant to Sec. 1150.133 
-or in accordance with Sec. 11150.136. A milk producer may be nominated 
-only to represent the region in which such producer's milk is produced.
-    (c) At least every five years, and not more than every three years, 
-the Board shall review the geographic distribution of milk production 
-volume throughout the United States and, if warranted, shall recommend 
-to the Secretary a reapportionment of regions and/or a modification of 
-the number of members from regions in order to best reflect the 
-geographic distribution of milk production volume in the United States.
-    (d) The number of members for each region which shall serve on the 
-Board shall be determined by dividing the total pounds of milk produced 
-in the
+    (10) Two members from region number ten comprised of the following 
+States: Alabama, District of Columbia, Florida, Georgia, Kentucky, 
+Louisiana,
 
 [[Page 194]]
 
-United States for the calendar year previous to the date of review by 36 
-which provides a factor of pounds of milk per member, and then dividing 
-the total pounds of milk for each region by such factor.
-    (e) In determining the volume of milk produced in the United States, 
-the Board and the Secretary shall utilize the information received by 
-the Board pursuant to Sec. 1150.171 and data published by the 
-Department.
+Mississippi, North Carolina, Commonwealth of Puerto Rico, South 
+Carolina, Tennessee, and Virginia.
+    (11) Two members from region number eleven comprised of the 
+following States: Delaware, Maryland, New Jersey and Pennsylvania.
+    (12) Three members from region number twelve comprised of the 
+following States: Connecticut, Maine, Massachusetts, New Hampshire, New 
+York, Rhode Island, and Vermont.
+    (c) Two members of the Board shall be importers who are subject to 
+assessments under Sec. 1150.152(b).
+    (d) The Board shall be composed of milk producers and importers 
+appointed by the Secretary either from nominations submitted pursuant to 
+Sec. 1150.133 or in accordance with Sec. 1150.136. A milk producer may 
+be nominated only to represent the region in which such producer's milk 
+is produced.
+    (e) At least every five years, and not more than every three years, 
+the Board shall review the geographic distribution of milk production 
+volume throughout the United States and, if warranted, shall recommend 
+to the Secretary a reapportionment of regions and/or a modification of 
+the number of producer members from regions in order to best reflect the 
+geographic distribution of milk production volume in the United States.
+    (f) At least once every three years, after the initial appointment 
+of importer representatives on the Board, the Secretary shall review the 
+average volume of domestic production of dairy products compared to the 
+average volume of imports of dairy products into the United States 
+during the previous three years and, on the basis of that review, if 
+warranted, reapportion the importer representation on the Board to 
+reflect the proportional shares of the United States market served by 
+domestic production and imported dairy products. The basis for 
+comparison of domestic production of dairy products to imported products 
+shall be estimated total milk solids. The calculation of total milk 
+solids of imported dairy products for reapportionment purposes shall be 
+the same as the calculation of total milk solids of imported dairy 
+products for assessment purposes.
+    (g) In determining the volume of milk produced and total milk solids 
+of dairy products produced in the United States, the Board and Secretary 
+shall utilize the information received by the Board pursuant to Sec. 
+1150.171(a) and data published by the Department.
 
-[49 FR 11816, Mar. 28, 1984, as amended at 54 FR 6264, Feb. 9, 1989; 59 
-FR 13435, Mar. 22, 1994; 63 FR 57895, Oct. 29, 1998; 68 FR 52336, Sept. 
-3, 2003; 73 FR 56451, Sept. 29, 2008]
+[76 FR 14788, Mar. 18, 2011, as amended at 76 FR 80216, Dec. 23, 2011]
 
 
 <R05>
 Sec. 1150.132  Term of office.
 
     (a) The members of the Board shall serve for terms of three years, 
-except that the members appointed to the initial Board shall serve 
+except that:
+    (1) The members appointed to the initial Board shall serve 
 proportionately, for terms of one, two and three years.
+    (2) The 2 importer members initially appointed to the Board shall 
+serve until October 31, 2013, and October 31, 2014.
     (b) Each member of the Board shall serve until October 31 of the 
 year in which his/her term expires, except that a retiring member may 
 serve until a successor is appointed.
     (c) No member shall serve more than two consecutive terms.
 
-[49 FR 11816, Mar. 28, 1984, as amended at 60 FR 53253, Oct. 13, 1995]
+[49 FR 11816, Mar. 28, 1984, as amended at 60 FR 53253, Oct. 13, 1995; 
+76 FR 14788, Mar. 18, 2011]
 
 
 <R05>
@@ -18477,51 +18511,73 @@ Sec. 1150.133  Nominations.
 
     Nominations for members of the Board shall be made in the following 
 manner:
-    (a) Upon effectuation of this provision, the Secretary shall solicit 
-nominations for the initial Board from all eligible organizations. If 
-the Secretary determines that a substantial number of producers are not 
-members of, or their interests are not represented by, such eligible 
-organizations, the Secretary shall also solicit nominations from such 
-producers through general farmer organizations or by other means.
+    (a) The Secretary shall solicit nominations for producer 
+representation on the Board from all eligible organizations. For 
+nominations of producers, if the Secretary determines that a substantial 
+number of producers are not members of, or their interests are not 
+represented by, such eligible organizations, the Secretary shall also 
+solicit nominations from such producers through general farmer 
+organizations or by other means.
     (b) After the appointment of the initial Board, the Secretary shall 
 announce at least 120 days in advance when a Board member's term is 
 expiring and shall solicit nominations for that position in the manner 
-described in paragraph (a) of this section. Nominations for such 
-position should be submitted to the Secretary not less than 60 days 
-prior to the expiration of such term.
-    (c) An eligible organization may submit nominations only for 
-positions on the Board that represent regions in which such eligible 
+described
+
+[[Page 195]]
+
+in paragraph (a) of this section. Nominations for such position should 
+be submitted to the Secretary not less than 60 days prior to the 
+expiration of such term.
+    (c) An eligible producer organization may submit nominations only 
+for positions on the Board that represent regions in which such eligible 
 organization can establish that it represents a substantial number of 
 producers. If there is more than one Board position for any such region, 
 the organization may submit nominations for each position.
     (d) Where there is more than one eligible organization representing 
-producers in a specific region, they may caucus and jointly nominate 
-producers for each position representing that region on the Board for 
-which a member is to be appointed. If joint agreement is not reached 
-with respect to any such nominations, or if no caucus is held, each 
-eligible organization may submit to the Secretary nominations for each 
-appointment to be made to represent that region.
+producers in a specific geographic region, the organizations may caucus 
+and jointly nominate producers for each position representing that 
+region on the Board for which a member is to be appointed. If joint 
+agreement is not reached with respect to any such nominations, or if no 
+caucus is held, each eligible organization may submit to the Secretary 
+nominations for each appointment to be made to represent that region.
+    (e) Nominations for representation of importers may be submitted by:
+    (1) Organizations that represent importers of dairy products, as 
+approved by the Secretary. The primary considerations in determining if 
+organizations adequately represent importers of dairy products shall be 
+whether its membership consists primarily of importers of dairy products 
+and whether a substantial interest of the organization is in the 
+importation of dairy products and the promotion of the nutritional 
+attributes of dairy products; and
+    (2) Individual importers of dairy products. Individual importers 
+submitting nominations to represent importers on the Board must 
+establish to the satisfaction of the Secretary that the persons 
+submitting the nominations are importers of dairy products.
+
+[49 FR 11816, Mar. 28, 1984, as amended at 76 FR 14788, Mar. 18, 2011]
 
 
 <R05>
 Sec. 1150.134  Nominee's agreement to serve.
 
-    Any producer nominated to serve on the Board shall file with the 
-Secretary at the time of the nomination a written agreement to:
+    Any producer or importer nominated to serve on the Board shall file 
+with the Secretary at the time of the nomination a written agreement to:
     (a) Serve on the Board if appointed;
     (b) Disclose any relationship with any organization that operates a 
-qualified State or regional program or has a contractual relationship 
-with the Board; and
+qualified program or has a contractual relationship with the Board; and
     (c) Withdraw from participation in deliberations, decision-making, 
 or voting on matters where paragraph (b) applies.
 
+[49 FR 11816, Mar. 28, 1984, as amended at 76 FR 14789, Mar. 18, 2011]
+
 
 <R05>
-Sec. 1150.135  Appointment.
+Sec. 1150.135  Appointments.
 
     From the nominations made pursuant to Sec. 1150.133, the Secretary 
-shall appoint the members of the Board on the basis of representation 
-provided for in Sec. 1150.131(a).
+shall appoint the members of the Board on the bases of representation 
+provided for in Sec. Sec. 1150.131(b) and 1150.131(c).
+
+[76 FR 14789, Mar. 18, 2011]
 
 
 <R05>
@@ -18531,8 +18587,6 @@ Sec. 1150.136  Vacancies.
 or disqualification of any member of the Board, the Secretary shall 
 appoint a successor from the most recent list of nominations for the 
 position or from nominations made by the Board.
-
-[[Page 195]]
 
 
 <R05>
@@ -18553,6 +18607,8 @@ taken shall have the same force and effect as though such action had
 been taken at a properly convened meeting of the Board.
 
 [49 FR 11816, Mar. 28, 1984, as amended at 50 FR 9984, Mar. 13, 1985]
+
+[[Page 196]]
 
 
 <R05>
@@ -18579,9 +18635,9 @@ its terms and provisions;
 provisions of this subpart;
     (d) To receive, investigate, and report to the Secretary complaints 
 of violations of the provisions of this subpart;
-    (e) To disseminate information to producers or eligible 
-organizations through programs or by direct contact utilizing the public 
-postage system or other systems;
+    (e) To disseminate information to producers, producer organizations, 
+importers, and importer organizations through programs or by direct 
+contact utilizing the public postage system or other systems;
     (f) To select committees and subcommittees of Board members, and to 
 adopt such rules for the conduct of its business as it may deem 
 advisable;
@@ -18598,6 +18654,8 @@ account or certificate of deposit of a bank that is a member of the
 Federal Reserve System, or in obligations fully guaranteed as to 
 principal and interest by the United States.
 
+[49 FR 11816, Mar. 28, 1984, as amended at 76 FR 14789, Mar. 18, 2011]
+
 
 <R05>
 Sec. 1150.140  Duties of the Board.
@@ -18607,20 +18665,17 @@ Sec. 1150.140  Duties of the Board.
 among its members a chairman and such other officers as may be 
 necessary;
     (b) To appoint from its members an executive committee whose 
-membership shall equally reflect each of the different regions in the 
-United States in which milk is produced, and to delegate to the 
-committee authority to administer the terms and provisions of this 
-subpart under the direction of the Board and within the policies 
-determined by the Board;
+membership shall equally reflect each of the different geographic 
+regions in the United States in which milk is produced and importer 
+representation on the Board, and to delegate to the committee authority 
+to administer the terms and provisions of this subpart under the 
+direction of the Board and within the policies determined by the Board;
     (c) To appoint or employ such persons as it may deem necessary and 
 define the duties and determine the compensation of each;
     (d) To review all programs that promote milk and dairy products on a 
 brand or trade name basis that have requested certification pursuant to 
 Sec. 1150.153, and to recommend to the Secretary whether such request 
 should be granted;
-
-[[Page 196]]
-
     (e) To develop and submit to the Secretary for approval, promotion, 
 research, and nutrition education plans or projects resulting from 
 research or studies conducted either by the Board or others;
@@ -18633,7 +18688,10 @@ and export use;
 a fiscal period basis of its anticipated expenses and disbursements in 
 the administration of this subpart, including probable costs of 
 promotion, research and nutrition education plans or projects, and also 
-including a general description of the proposed promotion, research and 
+including a general description of the proposed promotion, research and
+
+[[Page 197]]
+
 nutrition education programs contemplated therein;
     (h) To maintain such books and records, which shall be available to 
 the Secretary for inspection and audit, and prepare and submit such 
@@ -18674,9 +18732,14 @@ representative of the Secretary, may attend such meetings;
 subpart as may be requested; and
     (n) To encourage the coordination of programs of promotion, research 
 and nutrition education designed to strengthen the dairy industry's 
-position in the marketplace and to maintain and expand domestic and 
-foreign markets and uses for fluid milk and dairy products produced in 
-the United States.
+position in the marketplace and to maintain and expand:
+    (1) domestic markets and domestic uses for fluid milk and dairy 
+products produced in the United States or imported into the United 
+States; and
+    (2) foreign markets and foreign uses for fluid milk and dairy 
+products produced in the United States.
+
+[49 FR 11816, Mar. 28, 1984, as amended at 76 FR 14789, Mar. 18, 2011]
 
                         Expenses and Assessments
 
@@ -18694,163 +18757,487 @@ incurred by the Board shall not exceed 5 percent of the projected
 revenue of that fiscal year. Such expenses shall be paid from 
 assessments collected pursuant to Sec. 1150.152.
     (b) The Board shall reimburse the Secretary, from assessments 
-collected
+collected pursuant to Sec. 1150.152, for administrative costs incurred 
+by the Department after May 1, 1984.
+    (c) The Board is authorized to expend up to the amount of the 
+assessments collected from United States producers to promote dairy 
+products produced in the United States in foreign markets.
 
-[[Page 197]]
-
-pursuant to Sec. 1150.152, for administrative costs incurred by the 
-Department after May 1, 1984.
+[49 FR 11816, Mar. 28, 1984, as amended at 76 FR 14789, Mar. 18, 2011]
 
 
 <R05>
 Sec. 1150.152  Assessments.
 
-    (a) Each person making payment to a producer for milk produced in 
-the United States and marketed for commercial use shall collect an 
-assessment on all such milk handled for the account of the producer at 
-the rate of 15 cents per hundredweight of milk for commercial use or the 
-equivalent thereof and shall remit the assessment to the Board.
-    (b) Any producer marketing milk of that producer's own production in 
+    (a) Domestic Assessments. (1) Each person making payment to a 
+producer for milk produced in the United States and marketed for 
+commercial use shall collect an assessment on all such milk
+
+[[Page 198]]
+
+handled for the account of the producer at the rate of 15 cents per 
+hundredweight of milk for commercial use, or the equivalent thereof, and 
+shall remit the assessment to the Board.
+    (2) Any producer marketing milk of that producer's own production in 
 the form of milk or dairy products to consumers, either directly or 
 through retail or wholesale outlets, shall remit to the Board an 
 assessment on such milk at the rate of 15 cents per hundredweight of 
 milk for commercial use or the equivalent thereof.
-    (c) In determining the assessment due from each producer pursuant to 
-Sec. 1150.152 (a) and (b), a producer who is participating in a 
-qualified State or regional program(s) shall receive a credit for 
-contributions to such program(s), but not to exceed the following 
-amounts:
-    (1) In the case of contributions for milk marketed on or before May 
-31, 1984, up to the actual rate of contribution that was in effect under 
-such program(s) on November 29, 1983, not to exceed 15 cents per 
+    (3) In determining the assessment due from each producer pursuant to 
+Sec. 1150.152(a)(1) and (a)(2), a producer who is participating in a 
+qualified program(s) under Sec. 1150.153 shall receive a credit for 
+contributions to such program(s), but not to exceed 10 cents per 
 hundredweight of milk marketed.
-    (2) In all other cases, the credit shall not exceed 10 cents per 
-hundredweight of milk marketed.
-    (d) In order for a producer described in Sec. 1150.152(a) to 
-receive the credit authorized in Sec. 1150.152(c), either the producer 
-or a cooperative association on behalf of the producer must establish to 
-the person responsible for remitting the assessment to the Board that 
-the producer is contributing to a qualified State or regional program. 
-Producers who contribute to a qualified program directly (other than 
-through a payroll deduction) must establish with the person responsible 
-for remitting the assessment to the Board, with validation by the 
-qualified program, that they are making such contributions.
-    (e) In order for a producer described in Sec. 1150.152(b) to 
-receive the credit authorized in Sec. 1150.152(c), the producer and the 
-applicable qualified State or regional program must establish to the 
-Board that the producer is contributing to a qualified State or regional 
-program.
-    (f) The collection of assessments pursuant to Sec. 1150.152(a) and 
-(b) shall begin with respect to milk marketed on and after the effective 
-date of this section and shall continue until terminated by the 
-Secretary. If the Board is not constituted by the date the first 
-assessments are to be collected, the Secretary shall have the authority 
-to receive the assessments on behalf of the Board. The Secretary shall 
-remit such assessments to the Board when it is constituted.
-    (g) Each person responsible for the remittance of the assessment 
-pursuant to Sec. 1150.152(a) and (b) shall remit the assessment to the 
-Board not later than the last day of the month following the month in 
-which the milk was marketed.
-    (h) Money remitted to the Board shall be in the form of a negotiable 
+    (4) In order for a producer described in Sec. 1150.152(a)(1) to 
+receive the credit authorized in Sec. 1150.152(a)(3), either the 
+producer or a cooperative association on behalf of the producer must 
+establish to the person responsible for remitting the assessment to the 
+Board that the producer is contributing to a qualified program under 
+Sec. 1150.153. Producers who contribute to a qualified program directly 
+(other than through a payroll deduction) must establish with the person 
+responsible for remitting the assessment to the Board, with validation 
+by the qualified program, that they are making such contributions.
+    (5) In order for a producer described in Sec. 1150.152(a)(2) to 
+receive the credit authorized in Sec. 1150.152(a)(3), the producer and 
+the applicable qualified program must establish to the Board that the 
+producer is contributing to the qualified program.
+    (6) The collection of assessments pursuant to Sec. 1150.152(a)(1) 
+and (a)(2) shall begin with respect to milk marketed on and after the 
+effective date of this section and shall continue until terminated by 
+the Secretary.
+    (7) Each person responsible for the remittance of the assessment 
+pursuant to Sec. 1150.152(a)(1) and (a)(2) shall remit the assessment 
+to the Board not later than the last day of the month following the 
+month in which the milk was marketed.
+    (8) Money remitted to the Board shall be in the form of a negotiable 
 instrument made payable to ``National Dairy Promotion and Research 
-Board.'' Remittances and reports specified in Sec. 1150.171 shall be 
+Board.'' Remittances and reports specified in Sec. 1150.171(a) shall be 
 mailed to the location designated by the Secretary or the Board.
+    (b) Importer Assessments. (1) Each importer of dairy products 
+identified in the following table, except for as provided for in Sec. 
+1150.157, is responsible for paying an assessment of 7.5 cents per 
+hundredweight of U.S. milk, or equivalent thereof. The importer shall 
+use the assessment rate of $0.01327 per kilogram (kg) of milk solids to 
+calculate and pay the assessment.
+
+------------------------------------------------------------------------
+                  HTS Nos. for dairy import assessment
+-------------------------------------------------------------------------
+                                   0401.10.0000
+                                   0401.20.2000
+                                   0401.20.4000
+                                   0401.30.0500
+                                   0401.30.2500
+                                   0401.30.5000
+                                   0401.30.7500
+                                   0402.10.1000
+                                   0402.10.5000
+                                   0402.21.0500
+                                   0402.21.2500
+                                   0402.21.3000
+                                   0402.21.5000
+                                   0402.21.7500
+                                   0402.21.9000
+                                   0402.29.1000
+                                   0402.29.5000
+                                   0402.91.1000
+                                   0402.91.3000
+                                   0402.91.7000
+                                   0402.91.9000
+                                   0402.99.1000
+                                   0402.99.3000
+                                   0402.99.4500
+                                   0402.99.5500
+                                   0402.99.7000
+                                   0402.99.9000
+                                   0403.10.1000
+                                   0403.10.5000
+                                   0403.10.9000
+                                   0403.90.0400
+                                   0403.90.1600
+                                   0403.90.2000
+                                   0403.90.4110
+
+[[Page 199]]
+
+ 
+                                   0403.90.4190
+                                   0403.90.4500
+                                   0403.90.5100
+                                   0403.90.5500
+                                   0403.90.6100
+                                   0403.90.6500
+                                   0403.90.7400
+                                   0403.90.7800
+                                   0403.90.8500
+                                   0403.90.9000
+                                   0403.90.9500
+                                   0404.10.0500
+                                   0404.10.1100
+                                   0404.10.1500
+                                   0404.10.2000
+                                   0404.10.5010
+                                   0404.10.5090
+                                   0404.10.9000
+                                   0404.90.1000
+                                   0404.90.3000
+                                   0404.90.5000
+                                   0404.90.7000
+                                   0405.10.1000
+                                   0405.10.2000
+                                   0405.20.2000
+                                   0405.20.3000
+                                   0405.20.4000
+                                   0405.20.6000
+                                   0405.20.7000
+                                   0405.20.8000
+                                   0405.90.1020
+                                   0405.90.1040
+                                   0405.90.2020
+                                   0405.90.2040
+                                   0406.10.0400
+                                   0406.10.0800
+                                   0406.10.1400
+                                   0406.10.1800
+                                   0406.10.2400
+                                   0406.10.2800
+                                   0406.10.3400
+                                   0406.10.3800
+                                   0406.10.4400
+                                   0406.10.4800
+                                   0406.10.5400
+                                   0406.10.5800
+                                   0406.10.6400
+                                   0406.10.6800
+                                   0406.10.7400
+                                   0406.10.7800
+                                   0406.10.8400
+                                   0406.10.8800
+                                   0406.20.1500
+                                   0406.20.2400
+                                   0406.20.2800
+                                   0406.20.3110
+                                   0406.20.3190
+                                   0406.20.3300
+                                   0406.20.3600
+                                   0406.20.3900
+                                   0406.20.4400
+                                   0406.20.4800
+                                   0406.20.5100
+                                   0406.20.5300
+                                   0406.20.6100
+                                   0406.20.6300
+                                   0406.20.6500
+                                   0406.20.6700
+                                   0406.20.6900
+                                   0406.20.7100
+                                   0406.20.7300
+                                   0406.20.7500
+                                   0406.20.7700
+                                   0406.20.7900
+                                   0406.20.8100
+                                   0406.20.8300
+                                   0406.20.8500
+                                   0406.20.8700
+                                   0406.20.8900
+                                   0406.20.9100
+                                   0406.30.0500
+                                   0406.30.1400
+                                   0406.30.1800
+                                   0406.30.2400
+                                   0406.30.2800
+                                   0406.30.3400
+                                   0406.30.3800
+                                   0406.30.4400
+                                   0406.30.4800
+                                   0406.30.5100
+                                   0406.30.5300
+                                   0406.30.6100
+                                   0406.30.6300
+                                   0406.30.6500
+                                   0406.30.6700
+                                   0406.30.6900
+                                   0406.30.7100
+                                   0406.30.7300
+                                   0406.30.7500
+                                   0406.30.7700
+                                   0406.30.7900
+                                   0406.30.8100
+
+[[Page 200]]
+
+ 
+                                   0406.30.8300
+                                   0406.30.8500
+                                   0406.30.8700
+                                   0406.30.8900
+                                   0406.30.9100
+                                   0406.40.4400
+                                   0406.40.4800
+                                   0406.40.5400
+                                   0406.40.5800
+                                   0406.40.7000
+                                   0406.90.0810
+                                   0406.90.0890
+                                   0406.90.1200
+                                   0406.90.1600
+                                   0406.90.1800
+                                   0406.90.3100
+                                   0406.90.3200
+                                   0406.90.3300
+                                   0406.90.3600
+                                   0406.90.3700
+                                   0406.90.4100
+                                   0406.90.4200
+                                   0406.90.4600
+                                   0406.90.4800
+                                   0406.90.4900
+                                   0406.90.5200
+                                   0406.90.5400
+                                   0406.90.6600
+                                   0406.90.6800
+                                   0406.90.7200
+                                   0406.90.7400
+                                   0406.90.7600
+                                   0406.90.7800
+                                   0406.90.8200
+                                   0406.90.8400
+                                   0406.90.8600
+                                   0406.90.8800
+                                   0406.90.9000
+                                   0406.90.9200
+                                   0406.90.9300
+                                   0406.90.9400
+                                   0406.90.9500
+                                   0406.90.9700
+                                   0406.90.9900
+                                   1517.90.5000
+                                   1517.90.6000
+                                   1702.11.0000
+                                   1702.19.0000
+                                   1704.90.5400
+                                   1704.90.5800
+                                   1806.20.2090
+                                   1806.20.2400
+                                   1806.20.2600
+                                   1806.20.2800
+                                   1806.20.3400
+                                   1806.20.3600
+                                   1806.20.3800
+                                   1806.20.8100
+                                   1806.20.8200
+                                   1806.20.8300
+                                   1806.20.8500
+                                   1806.20.8700
+                                   1806.20.8900
+                                   1806.32.0400
+                                   1806.32.0600
+                                   1806.32.0800
+                                   1806.32.1400
+                                   1806.32.1600
+                                   1806.32.1800
+                                   1806.32.6000
+                                   1806.32.7000
+                                   1806.32.8000
+                                   1806.90.0500
+                                   1806.90.0800
+                                   1806.90.1000
+                                   1806.90.1500
+                                   1806.90.1800
+                                   1806.90.2000
+                                   1806.90.2500
+                                   1806.90.2800
+                                   1806.90.3000
+                                   1901.10.1500
+                                   1901.10.3000
+                                   1901.10.3500
+                                   1901.10.4000
+                                   1901.10.4500
+                                   1901.20.0500
+                                   1901.20.1500
+                                   1901.20.2000
+                                   1901.20.2500
+                                   1901.20.3000
+                                   1901.20.3500
+                                   1901.20.4000
+                                   1901.20.4500
+                                   1901.20.5000
+                                   1901.90.2800
+                                   1901.90.3400
+                                   1901.90.3600
+                                   1901.90.4200
+                                   1901.90.4300
+                                   1901.90.7000
+                                   2105.00.1000
+
+[[Page 201]]
+
+ 
+                                   2105.00.2000
+                                   2105.00.3000
+                                   2105.00.4000
+                                   2106.90.0600
+                                   2106.90.0900
+                                   2106.90.2400
+                                   2106.90.2600
+                                   2106.90.2800
+                                   2106.90.3400
+                                   2106.90.3600
+                                   2106.90.3800
+                                   2106.90.6400
+                                   2106.90.6600
+                                   2106.90.6800
+                                   2106.90.7200
+                                   2106.90.7400
+                                   2106.90.7600
+                                   2106.90.7800
+                                   2106.90.8000
+                                   2106.90.8200
+                                   2202.90.1000
+                                   2202.90.2400
+                                   2202.90.2800
+                                   3501.10.1000
+                                   3501.10.5000
+                                   3501.90.6000
+                                   3502.20.0000
+------------------------------------------------------------------------
+
+    (2) The assessment on imported dairy products shall be paid by the 
+importer to CBP at the time of entry summary for any products identified 
+in Sec. 1150.152(b)(1).
+    (3) The assessments collected by CBP pursuant to Sec. 
+1150.152(b)(2) of this section shall be transferred to the Board in 
+compliance with an agreement between CBP and the Secretary.
+    (4) The Secretary, at his or her discretion, shall verify the 
+information reported by importers to CBP to determine if additional 
+money is due the Board or an amount is due to an importer based on the 
+quantity imported and the milk solids content per unit. In the case of 
+money due to an importer from the Board, the Board will issue payment 
+promptly to the importer. In the case of money due from the importer to 
+the Board, the Secretary will send an invoice for payment directly to 
+the importer. The remittance will be due to the Secretary upon receipt 
+of the invoice. The Secretary will promptly forward such payments 
+received to the Board.
+    (5) If an importer elects to have funds remitted to a qualified 
+program(s), the importer shall inform the Secretary of such designation 
+by sending a letter to an address provided by the Secretary. Importer 
+remittances for qualified program(s) shall not exceed 2.5 cents per 
+hundredweight of milk, or equivalent thereof, of the 7.5 cents per 
+hundredweight of milk, or equivalent thereof, paid by the importer 
+pursuant to Sec. 1150.152(b)(1). The Secretary shall compute the funds 
+due for each qualified program designated by importers and direct the 
+Board to forward such funds to each qualified program.
+    (6) Assessments collected on imported dairy products shall not be 
+used for foreign market promotion of United States dairy products.
+    (7) Any money received by the Board pursuant to Sec. 1150.152(b)(1) 
+before the Secretary appoints the initial importer representatives to 
+the Board shall not be spent by the Board but shall be held in escrow 
+until such appointment.
+    (8) The collection of assessments pursuant to Sec. 1150.152(a) and 
+(b) shall continue until terminated by the Secretary.
+
+[76 FR 14789, Mar. 18, 2011]
 
 
 <R05>
-Sec. 1150.153  Qualified State or regional dairy product promotion, 
-research or nutrition education programs.
+Sec. 1150.153  Qualified dairy product promotion, research or nutrition
+education programs.
 
-    (a) Any organization which conducts a State or regional dairy 
-product promotion, research or nutrition education program may apply to 
-the Secretary for certification of qualification so that producers may 
-receive credit pursuant to Sec. 1150.152(c) for contributions to such 
-program.
+    (a) Any producer organization that conducts a State or regional 
+dairy product promotion, research or nutrition education program, 
+authorized by Federal or State law; or has been an active and ongoing 
+producer program before enactment of the Act; or is an importer 
+organization that conducts a promotion, research, or nutrition education 
+program may apply to the Secretary for certification of qualification so 
+that:
+    (1) Producers may receive credit pursuant to Sec. 1150.152(a)(3) 
+for contributions to such program; and
+    (2) The Board may remit payments designated by importers pursuant to 
+Sec. 1150.152(b)(5).
     (b) In order to be certified by the Secretary as a qualified 
 program, the program must:
+
+[[Page 202]]
+
     (1) Conduct activities as defined in Sec. Sec. 1150.114, 1150.115, 
 and 1150.116 that are intended to increase consumption of milk and dairy 
 products generally;
-    (2) Except for programs operated under the laws of the United States 
-or any State, have been active and ongoing before enactment of the Act;
-
-[[Page 198]]
-
-    (3) Be financed primarily by producers, either individually or 
-through cooperative associations;
+    (2) Except for producer programs operated under the laws of the 
+United States or any State, and except for importer programs, have been 
+active and ongoing before enactment of the Act;
+    (3) For producer organizations, be financed primarily by producers, 
+either individually or through cooperative associations, or for importer 
+organizations, be financed primarily by importers;
     (4) Not use a private brand or trade name in its advertising and 
 promotion of dairy products unless the Board recommends and the 
 Secretary concurs that such preclusion should not apply;
-    (5) Certify to the Secretary that any requests from producers for 
-refunds under the program will be honored by forwarding to either the 
-Board or a qualified State or regional program designated by the 
-producer that portion of such refunds equal to the amount of credit that 
-otherwise would be applicable to that program pursuant to Sec. 
-1150.152(c); and
+    (5) Certify to the Secretary that any requests from producers or 
+importers for refunds under the program will be honored by forwarding to 
+either the Board or a qualified program designated by the producer or 
+importer that portion of such refunds equal to the amount that otherwise 
+would be applicable to that program pursuant to Sec. 1150.152(a)(3) or 
+(b)(5); and
     (6) Not use program funds for the purpose of influencing 
 governmental policy or action.
-    (c) An application for certification of qualifications of any State 
-or regional dairy product promotion, research or nutrition education 
-program which does not satisfy the requirements specified in paragraph 
-(b) of this section shall be denied. The certification of any qualified 
-program which fails to satisfy the requirements specified in paragraph 
-(b) of this section after certification shall be subject to suspension 
-or termination.
+    (c) An application for certification of qualifications of any dairy 
+product promotion, research or nutrition education program which does 
+not satisfy the requirements specified in paragraph (b) of this section 
+shall be denied. The certification of any qualified program which fails 
+to satisfy the requirements specified in paragraph (b) of this section 
+after certification shall be subject to suspension or termination.
     (1) Prior to the denial of an application for certification of 
 qualification, or the suspension or termination of an existing 
 certification, the Director of the Dairy Division shall afford the 
 applicant or the holder of an existing certification an opportunity to 
 achieve compliance with the requirements for certification within a 
 reasonable time, as determined by the Director.
-    (2) Any State or regional dairy product promotion, research or 
-nutrition education program whose application for certification of 
-qualification is to be denied, or whose certification of qualification 
-is to be suspended or terminated shall be given written notice of such 
-pending action and shall be afforded an opportunity to petition the 
-Secretary for a review of the action. The petition shall be in writing 
-and shall state the facts relevant to the matter for which the review is 
-sought, and whether petitioner desires an informal hearing. If an 
-informal hearing is not requested, the Director of the Dairy Division 
-shall issue a final decision setting forth the action to be taken and 
-the basis for such action. If petitioner requests a hearing, the 
-Director of the Dairy Division, or a person designated by the Director, 
-shall hold an informal hearing in the following manner:
+    (2) Any dairy product promotion, research or nutrition education 
+program whose application for certification of qualification is to be 
+denied, or whose certification of qualification is to be suspended or 
+terminated shall be given written notice of such pending action and 
+shall be afforded an opportunity to petition the Secretary for a review 
+of the action. The petition shall be in writing and shall state the 
+facts relevant to the matter for which the review is sought, and whether 
+petitioner desires an informal hearing. If an informal hearing is not 
+requested, the Director of the Dairy Division shall issue a final 
+decision setting forth the action to be taken and the basis for such 
+action. If petitioner requests a hearing, the Director of the Dairy 
+Division, or a person designated by the Director, shall hold an informal 
+hearing in the following manner:
     (i) Notice of a hearing shall be given in writing and shall be 
-mailed to the last known address of the petitioner or of the State or 
-regional program, or to an officer thereof, at least 20 days before the 
-date set for the hearing. Such notice shall contain the time and place 
-of the hearing and may contain a statement of the reason for calling the 
-hearing and the nature of the questions upon which evidence is desired 
-or upon which argument may be presented. The hearing place shall be as 
-convenient to the State or regional program as can reasonably be 
-arranged.
+mailed to the last known address of the petitioner or of the program, or 
+to an officer thereof, at least 20 days before the date set for the 
+hearing. Such notice shall contain the time and place of the hearing and 
+may contain a statement of the reason for calling the hearing and the 
+nature of the questions upon which evidence is desired or upon which 
+argument may be presented. The hearing place shall be as convenient to 
+the State or regional program as can reasonably be arranged.
     (ii) Hearings are not to be public and are to be attended only by 
-representatives of the petitioner or the State or regional program and 
-of the U.S. Government, and such other parties as either the State or 
-regional program or the U.S. Government desires to have appear for 
-purposes of submitting information or as counsel.
+representatives of the petitioner or the program and of the U.S. 
+Government, and such other parties as either the program or the U.S. 
+Government desires to have appear for purposes of submitting information 
+or as counsel.
     (iii) The Director of the Dairy Division, or a person designated by 
 the Director, shall be the presiding officer at the hearing. The hearing 
 shall be conducted in such manner as will be most conducive to the 
 proper disposition of the matter. Written statements or briefs may be 
-filed by the petitioner or the State or regional program, or other 
-participating parties, within the time specified by the presiding 
-officer.
+filed by the petitioner or the program, or other participating parties, 
+within the time specified by the presiding officer.
     (iv) The presiding officer shall prepare preliminary findings 
 setting forth a recommendation as to what action should be taken and the 
-basis for such action. A copy of such findings shall be served upon the 
-petitioner or the State or regional program by mail or in person. 
-Written exceptions to the findings may be filed within 10 days after 
-service thereof.
+basis for such action. A copy of such findings shall be
+
+[[Page 203]]
+
+served upon the petitioner or the program by mail or in person. Written 
+exceptions to the findings may be filed within 10 days after service 
+thereof.
     (v) After due consideration of all the facts and the exceptions, if 
 any, the Director of the Dairy Division shall issue a final decision 
-setting forth the action
+setting forth the action to be taken and the basis for such action.
 
-[[Page 199]]
-
-to be taken and the basis for such action.
-
-[49 FR 11816, Mar. 28, 1984, as amended at 56 FR 8258, Feb. 28, 1991]
+[49 FR 11816, Mar. 28, 1984, as amended at 56 FR 8258, Feb. 28, 1991; 76 
+FR 14791, Mar. 18, 2011]
 
 
 <R05>
@@ -18864,32 +19251,53 @@ action, except to recommend to the Secretary amendments to this subpart.
 <R05>
 Sec. 1150.155  Adjustment of accounts.
 
-    Whenever the Board or the Department determines through an audit of 
-a person's reports, records, books or accounts or through some other 
+    (a) Whenever the Board or the Department determines through an audit 
+of a person's reports, records, books or accounts or through some other 
 means that additional money is due the Board or that money is due such 
-person from the Board, such person shall be notified of the amount due. 
-The person shall then remit any amount due the Board by the next date 
-for remitting assessments as provided in Sec. 1150.152. Overpayments 
-shall be credited to the account of the person remitting the overpayment 
-and shall be applied against amounts due in succeeding months.
+person from the Board in accordance with 1150.152(a), such person shall 
+be notified of the amount due. The person shall then remit any amount 
+due the Board by the next date for remitting assessments as provided in 
+Sec. 1150.152(a). Overpayments shall be credited to the account of the 
+person remitting the overpayment and shall be applied against amounts 
+due in succeeding months.
+    (b) Any importer of dairy products against whose imports an 
+assessment has been collected under Sec. 1150.152(b) who believes that 
+such assessment or any portion of such assessment was made on milk 
+solids of U.S. origin or milk solids other than cow's milk may apply to 
+the Secretary for a reimbursement. The importer would be required to 
+submit satisfactory proof to the Secretary that the importer paid the 
+assessment for milk solids from milk produced from the U.S. or milk 
+solids other than cow's milk solids. The Secretary will instruct the 
+Board to send such reimbursement to the importer.
+
+[76 FR 14791, Mar. 18, 2011]
 
 
 <R05>
 Sec. 1150.156  Charges and penalties.
 
-    (a) Late-payment charge. Any unpaid assessments to the Board 
+    (a) Late-payment charge. Any unpaid assessments due to the Board 
 pursuant to Sec. 1150.152 shall be increased 1.5 percent each month 
 beginning with the day following the date such assessments were due. Any 
 remaining amount due, which shall include any unpaid charges previously 
 made pursuant to this section, shall be increased at the same rate on 
-the corresponding day of each month thereafter until paid. For the 
-purpose of this section, any assessment that was determined at a date 
-later than prescribed by this subpart because of a person's failure to 
-submit a report to the Board when due shall be considered to have been 
-payable by the date it would have been due if the report had been filed 
-when due. The timeliness of a payment to the Board shall be based on the 
-applicable postmark date or the date actually received by the Board, 
-whichever is earlier.
+the corresponding day of each month thereafter until paid.
+    (1) For the purpose of this section, any assessment pursuant to 
+Sec. 1150.152(a) that was determined at a date later than prescribed by 
+this subpart because of a person's failure to submit a report to the 
+Board when due shall be considered to have been payable by the date it 
+would have been due if the report had been filed when due. The 
+timeliness of a payment to the Board shall be based on the applicable 
+postmark date or the date actually received by the Board, whichever is 
+earlier.
+    (2) For the purpose of this section, any assessment not collected by 
+CBP at the time entry summary documents are filed by the importer is 
+considered to be past due. If CBP does not collect an assessment from an 
+importer, the importer shall be responsible for paying the assessment 
+and any late charges to the Secretary in the form of a negotiable 
+instrument made payable to ``USDA.'' The payment shall be mailed to a 
+location designated by the Secretary or sent in an electronic form 
+approved by the Secretary.
     (b) Penalties. Any person who willfully violates any provision of 
 this subpart shall be assessed a civil penalty by the Secretary of not 
 more than the amount specified in Sec. 3.91(b)(1)(xx) of this title for 
@@ -18899,56 +19307,70 @@ addition to the amount due, a penalty equal to the amount of the
 assessment on the quantity of milk as to which the failure applies. The 
 amount of any such penalty shall accrue to the United States and may be 
 recovered in a civil suit brought by the United States. The remedies 
-provided in this section shall be in addition to, and not exclusive of, 
+provided in this section shall be in addition to, and not exclusive of,
+
+[[Page 204]]
+
 other remedies that may be available by law or in equity.
 
-[49 FR 11816, Mar. 28, 1984, as amended at 70 FR 29579, May 24, 2005]
+[49 FR 11816, Mar. 28, 1984, as amended at 70 FR 29579, May 24, 2005; 76 
+FR 14791, Mar. 18, 2011]
 
 
 <R05>
 Sec. 1150.157  Assessment exemption.
 
-    (a) A producer described in Sec. 1150.152 (a) and (b) who operates 
-under an approved National Organic Program (NOP) (7 CFR part 205) system 
-plan; produces only products that are eligible to be labeled as 100 
-percent organic under the NOP, except as provided for in paragraph (h) 
-of this section; and is not a split operation shall be exempt from the 
-payment of assessments.
-    (b) To apply for an exemption under this section, a producer 
-pursuant to Sec. 1150.152 (a) and (b) shall submit a request for 
-exemption to the Board on a form provided by the Board at any time 
-initially and annually thereafter on or before July 1 as long as the 
-producer continues to be eligible for the exemption.
-    (c) The request shall include the following: the producer's name and 
-address, a copy of the organic farm or organic handling operation 
-certificate provided by a USDA-accredited certifying agent as defined in 
-section 2103 of the Organic Foods Production Act of 1990 (7 U.S.C. 
-6502), a signed certification that the applicant meets all of the 
-requirements specified in paragraph (a) of this section for an 
-assessment exemption, and such other information as may be required by 
-the Board and with the approval of the Secretary.
-    (d) If a producer described in Sec. 1150.152 (a) and (b) complies 
-with the requirements of this section, the Board will grant an 
-assessment exemption and issue a Certificate of Exemption to the
-
-[[Page 200]]
-
-producer. For exemption requests received on or before August 15, 2005, 
-the Board will have 60 days to approve the exemption request; after 
-August 15, 2005, the Board will have 30 days to approve the exemption 
-request. If the application is disapproved, the Board will notify the 
-applicant of the reason(s) for disapproval within the same timeframe.
+    (a) A producer described in Sec. 1150.152(a)(1) and (a)(2) who 
+operates under an approved National Organic Program (NOP) (7 CFR part 
+205) system plan; produces only products that are eligible to be labeled 
+as 100 percent organic under the NOP, except as provided for in 
+paragraph (h) of this section; and is not a split operation shall be 
+exempt from the payment of assessments.
+    (b) To apply for exemption under this section, a producer pursuant 
+to Sec. 1150.152 (a)(1) and (a)(2) shall submit a request for exemption 
+to the Board on a form provided by the Board at any time initially and 
+annually thereafter on or before July 1 as long as the producer 
+continues to be eligible for the exemption.
+    (c) A producer request for exemption shall include the following: 
+the producer's name and address, a copy of the organic farm or organic 
+handling operation certificate provided by a USDA-accredited certifying 
+agent as defined in section 2103 of the Organic Foods Production Act of 
+1990 (7 U.S.C. 6502), a signed certification that the applicant meets 
+all of the requirements specified in paragraph (a) of this section for 
+an assessment exemption, and such other information as may be required 
+by the Board and with the approval of the Secretary.
+    (d) If a producer described in Sec. 1150.152(a)(1) and (a)(2) 
+complies with the requirements of this section, the Board will grant an 
+assessment exemption and issue a Certificate of Exemption to the 
+producer within 30 days. If the application is disapproved, the Board 
+will notify the applicant of the reason(s) for disapproval within the 
+same timeframe.
     (e) The producer described in paragraph (c) of this section shall 
 provide a copy of the Certificate of Exemption to each person 
 responsible for remitting assessments to the Board on behalf of the 
-producer pursuant to Sec. 1150.152.
+producer pursuant to Sec. 1150.152(a).
     (f) The person responsible for remitting assessments to the Board 
-pursuant to Sec. 1150.152 shall maintain records showing the exempt 
+pursuant to Sec. 1150.152(a) shall maintain records showing the exempt 
 producer's name and address and the exemption number assigned by the 
-Board pursuant to Sec. 1150.172.
-    (g) The exemption will apply not later than the last day of the 
+Board pursuant to Sec. 1150.172(a).
+    (g) An importer who imports only products that are eligible to be 
+labeled as 100 percent organic under the NOP (7 CFR part 205) and who is 
+not a split operation shall be exempt from the payment of assessments. 
+That importer may submit documentation to the Board and request an 
+exemption from assessment on 100 percent organic dairy products--on a 
+form provided by the Board--at any time initially and annually 
+thereafter as long as the importer continues to be eligible for the 
+exemption. This documentation shall include the same information 
+required of producers in paragraph (c) of this section. If the importer 
+complies with the requirements of this section, the Board will grant the 
+exemption and issue a Certificate of Exemption to the importer. The 
+Board will issue the importer a 9-digit alphanumeric Harmonized Tariff 
+Schedule (HTS) classification valid for 1 year from the date of issue. 
+This HTS classification should be entered by the importer on the Customs 
+entry documentation.
+    (h) The exemption will apply not later than the last day of the 
 month following the Certificate of Exemption issuance date.
-    (h) Agricultural commodities produced and marketed under an organic 
+    (i) Agricultural commodities produced and marketed under an organic 
 system plan, as described in 7 CFR 205.201, but not sold, labeled, or 
 represented as organic, shall not disqualify a producer from exemption 
 under this section, except that producers who produce both organic and 
@@ -18959,7 +19381,16 @@ humane purposes, chemical or pesticide use as the result of State or
 emergency spray programs, and crops from a buffer area as described in 7 
 CFR part 205, provided all other criteria are met.
 
-[70 FR 2753, Jan. 14, 2005]
+[[Page 205]]
+
+    (j) Importers who are exempt from assessment in paragraph (g) of 
+this section shall be eligible for reimbursement of assessments 
+collected by the CBP and may apply to the Secretary for a reimbursement. 
+The importer would be required to submit satisfactory proof to the 
+Secretary that the importer paid the assessment on exempt organic 
+products.
+
+[76 FR 14792, Mar. 18, 2011]
 
                Promotion, Research and Nutrition Education
 
@@ -18999,36 +19430,54 @@ quality, value or use of any competing product.
 <R05>
 Sec. 1150.171  Reports.
 
-    Each producer marketing milk of that producer's own production 
+    (a) Each producer marketing milk of that producer's own production 
 directly to consumers and each person making payment to producers and 
-responsible for the collection of the assessment under Sec. 1150.152 
+responsible for the collection of the assessment under Sec. 1150.152(a) 
 shall be required to report at the time for remitting assessments to the 
 Board such information as may be required by the Board or by the 
 Secretary. Such information may include but not be limited to the 
 following:
-    (a) The quantity of milk purchased, initially transferred or which, 
-in any
-
-[[Page 201]]
-
-other manner, are subject to the collection of the assessment;
-    (b) The amount of assessment remitted;
-    (c) The basis, if necessary, to show why the remittance is less than 
+    (1) The quantity of milk purchased, initially transferred or which, 
+in any other manner, are subject to the collection of the assessment;
+    (2) The amount of assessment remitted;
+    (3) The basis, if necessary, to show why the remittance is less than 
 the number of hundredweights of milk multiplied by 15 cents; and
-    (d) The date any assessment was paid.
+    (4) The date any assessment was paid.
+    (b) Importers of dairy products shall submit reports as requested by 
+the Secretary as necessary to verify that provisions pursuant to Sec. 
+1150.152(b) have been carried out correctly, including verification that 
+correct amounts were paid based upon milk solids content of the imported 
+dairy products pursuant to Sec. 1150.152(b)(1).
+
+[76 FR 14792, Mar. 18, 2011]
 
 
 <R05>
 Sec. 1150.172  Books and records.
 
-    Each person who is subject to this subpart, and other persons 
-subject to Sec. 1150.171, shall maintain and make available for 
+    (a) Each producer who is subject to this subpart, and other persons 
+subject to Sec. 1150.171(a), shall maintain and make available for 
 inspection by employees of the Board and the Secretary such books and 
 records as are necessary to carry out the provisions of this subpart and 
 the regulations issued hereunder, including such records as are 
-necesssary to verify any reports required. Such records shall be 
-retained for at least two years beyond the fiscal period of their 
-applicability.
+necessary to verify any reports required. Such records shall be retained 
+for at least two years beyond the fiscal period of their applicability.
+    (b) Each importer of dairy products shall maintain and make 
+available for inspection by the Secretary such books and records to 
+verify that provisions
+
+[[Page 206]]
+
+pursuant to Sec. 1150.152(b) have been carried out correctly, including 
+verification that correct amounts were paid based upon milk solids 
+content of the imported dairy products. Such records shall be retained 
+for at least two years beyond the calendar period of their 
+applicability. Such information may include but not be limited to 
+invoices, packing slips, bills of lading, laboratory test results, and 
+letters from the manufacturer on the manufacturer's letterhead stating 
+the milk solids content of imported dairy products.
+
+[76 FR 14792, Mar. 18, 2011]
 
 
 <R05>
@@ -19089,19 +19538,20 @@ the same obligation imposed upon the Board and upon the trustees.
     (d) Any residual funds not required to defray the necessary expenses 
 of liquidation shall be turned over to the Secretary to be used, to the 
 extent practicable, in the interest of continuing one or more of the 
-promotion, research or nutrition education plans
-
-[[Page 202]]
-
-or projects authorized pursuant to this subpart.
+promotion, research or nutrition education plans or projects authorized 
+pursuant to this subpart.
 
 
 <R05>
 Sec. 1150.182  Effect of termination or amendment.
 
     Unless otherwise expressly provided by the Secretary, the 
-termination of this subpart or of any regulation issued pursuant hereto, 
-or the issuance of any amendment to either thereof, shall not:
+termination of this subpart or of any regulation issued
+
+[[Page 207]]
+
+pursuant hereto, or the issuance of any amendment to either thereof, 
+shall not:
     (a) Affect or waive any right, duty, obligation, or liability which 
 shall have arisen or which may hereafter arise in connection with any 
 provision of this subpart or any regulation issued thereunder;
@@ -19156,13 +19606,13 @@ thereof to other persons or circumstances shall not be affected thereby.
 Sec. 1150.187  Paperwork Reduction Act assigned number.
 
     The information collection and recordkeeping requirements contained 
-in Sec. Sec. 1150.133, 1150.152, 1150.153, 1150.171, 1150.172, 
-1150.202, 1150.204, 1150.205, 1150.211 and 1150.273 of these regulations 
-(7 CFR Part 1150) have been approved by the Office of Management and 
-Budget (OMB) under the provisions of 44 U.S.C. Chapter 35 and have been 
-assigned OMB Control Number 0581-0147.
+in Sec. Sec. 1150.133, 1150.152, 1150.153, 1150.171, 1150.172, and 
+1150.273 of these regulations (7 CFR part 1150) have been approved by 
+the Office of Management and Budget (OMB) under the provisions of 44 
+U.S.C. chapter 35 and have been assigned OMB Control Number 0581-0093 as 
+appropriate.
 
-[50 FR 9984, Mar. 13, 1985]
+[76 FR 14793, Mar. 18, 2011]
 
 
 <R04>
@@ -19192,14 +19642,14 @@ November 29, 1983, and any amendments thereto;
 States, or any officer or employee of the Department to whom authority 
 has heretofore been delegated, or to whom authority may hereafter be 
 delegated to act in the Secretary's stead;
-
-[[Page 203]]
-
     (d) Dairy Division means the Dairy Division of the Department's 
 Agricultural Marketing Service;
     (e) Producer means any person engaged in the production of milk for 
 commercial use;
-    (f) Dairy products means products manufactured for human consumption 
+    (f) Dairy products means products manufactured for human consumption
+
+[[Page 208]]
+
 which are derived from the processing of milk, and includes fluid milk 
 products; and
     (g) Fluid milk products means those milk products normally consumed 
@@ -19291,16 +19741,16 @@ Sec. 1150.278  Confidential treatment.
 
     All documents and other information submitted by applicant 
 organizations and otherwise obtained by the Department by investigation 
-or examination
+or examination of books, documents, papers, records, files, or 
+facilities shall be kept confidential by all employees of the 
+Department. Only such information so furnished or acquired as the 
+Secretary deems relevant shall be disclosed by them, and then only in 
+the issuance of
 
-[[Page 204]]
+[[Page 209]]
 
-of books, documents, papers, records, files, or facilities shall be kept 
-confidential by all employees of the Department. Only such information 
-so furnished or acquired as the Secretary deems relevant shall be 
-disclosed by them, and then only in the issuance of general statements 
-based upon the applications of a number of persons, which do not 
-identify the information furnished by any one person.
+general statements based upon the applications of a number of persons, 
+which do not identify the information furnished by any one person.
 
                        PARTS 1151	1159 [RESERVED]
 
@@ -19418,12 +19868,11 @@ Sec. 1160.102  Department.
 Sec. 1160.103  Secretary.
 
     Secretary means the Secretary of Agriculture of the United States or 
-any officer or employee of the Department
+any officer or employee of the Department to whom authority has 
+heretofore been delegated, or to whom authority may hereafter be 
+delegated, to act in the Secretary's stead.
 
-[[Page 205]]
-
-to whom authority has heretofore been delegated, or to whom authority 
-may hereafter be delegated, to act in the Secretary's stead.
+[[Page 210]]
 
 
 <R05>
@@ -19521,17 +19970,18 @@ involving only fluid milk products and directed toward educating
 consumers about the positive attributes of fluid milk and increasing the 
 general demand for fluid milk products.
 
-[[Page 206]]
-
 
 <R05>
 Sec. 1160.112  Research.
 
     Research means market research to support advertising and promotion 
-efforts, including educational activities, research directed to product 
-characteristics, and product development, including new products or 
-improved technology in production, manufacturing or processing of milk 
-and the products of milk.
+efforts, including educational activities,
+
+[[Page 211]]
+
+research directed to product characteristics, and product development, 
+including new products or improved technology in production, 
+manufacturing or processing of milk and the products of milk.
 
 [62 FR 3983, Jan. 28, 1997]
 
@@ -19613,9 +20063,6 @@ owned or operated at the date of appointment, such member shall be
 disqualified for membership on the Board, except that such member shall 
 continue to serve on the Board for a period not to exceed 6 months, or 
 until appointment of a successor Board member, whichever is sooner.
-
-[[Page 207]]
-
     (b) In selecting the 15 Board members who represent geographic 
 regions, one member shall be selected from each of the following 
 regions:
@@ -19623,6 +20070,9 @@ regions:
 Region 1. Connecticut, Maine, Massachusetts, New Hampshire, Rhode 
 Island, and Vermont.
 Region 2. New York and New Jersey.
+
+[[Page 212]]
+
 Region 3. Delaware, Maryland, Pennsylvania, Virginia, and the District 
 of Columbia.
 Region 4. Georgia, North Carolina and South Carolina.
@@ -19707,12 +20157,8 @@ appointed.
 Sec. 1160.204  Appointment.
 
     From the nominations made pursuant to Sec. 1160.202, the Secretary 
-shall appoint the members of the Board on the
-
-[[Page 208]]
-
-basis of representation provided for in Sec. Sec. 1160.200 and 
-1160.201.
+shall appoint the members of the Board on the basis of representation 
+provided for in Sec. Sec. 1160.200 and 1160.201.
 
 
 <R05>
@@ -19720,10 +20166,13 @@ Sec. 1160.205  Vacancies.
 
     To fill any vacancy occasioned by the death, removal, resignation, 
 or disqualification of any member of the Board, the Secretary shall 
-appoint a successor from the most recent list of nominations made by 
-individual fluid milk processors and other interested parties, including 
-eligible organizations, for the Board, or from nominations made by the 
-Board.
+appoint a successor from the most recent list of
+
+[[Page 213]]
+
+nominations made by individual fluid milk processors and other 
+interested parties, including eligible organizations, for the Board, or 
+from nominations made by the Board.
 
 
 <R05>
@@ -19798,13 +20247,12 @@ among its members a chairperson, who may serve for a term of a fiscal
 period pursuant to Sec. 1160.113, and not more than two consecutive 
 terms, and to select such other officers as may be necessary;
     (b) To prepare and submit to the Secretary for approval a budget for 
-each
-
-[[Page 209]]
-
-fiscal period of the anticipated expenses and disbursements in the 
+each fiscal period of the anticipated expenses and disbursements in the 
 administration of this subpart, including a description of and the 
 probable costs of consumer education, promotion and research projects;
+
+[[Page 214]]
+
     (c) To develop and submit to the Secretary for approval promotion 
 and consumer education, and research plans or projects;
     (d) To the extent practicable, carry out consumer education and 
@@ -19871,15 +20319,16 @@ appears in the midst of Board-sponsored advertising.
 [58 FR 62503, Nov. 29, 1993, as amended at 61 FR 27003, May 30, 1996; 62 
 FR 3983, Jan. 28, 1997]
 
-[[Page 210]]
-
 
 <R05>
 Sec. 1160.210  Expenses.
 
     (a) The Board is authorized to incur such expenses (including 
-provision for a reasonable reserve) as the Secretary finds are 
-reasonable and likely to be incurred by the Board for its 
+provision for a reasonable reserve) as the Secretary
+
+[[Page 215]]
+
+finds are reasonable and likely to be incurred by the Board for its 
 administration, and to enable it to exercise its powers and perform its 
 duties in accordance with the provisions of this subpart; except that, 
 after the Board's first year, it shall not spend on its administration 
@@ -19945,15 +20394,14 @@ by a handler, as determined by the Secretary.
     (c) Money remitted to the Board or the Board's designated agent 
 shall be in the form of a negotiable instrument made payable to the 
 Board or its agent, as the case may be. Processors must mail remittances 
-and reports specified in Sec. Sec. 1160.108, 1160.211(a)(1), 1160.213,
-
-[[Page 211]]
-
+and reports specified in Sec. Sec. 1160.108, 1160.211(a)(1), 1160.213, 
 1160.214, and 1160.401 to the location designated by the Board or its 
 agent.
 
 [58 FR 62503, Nov. 29, 1993, as amended at 62 FR 3983, Jan. 28, 1997; 70 
 FR 2753, Jan. 14, 2005]
+
+[[Page 216]]
 
 
 <R05>
@@ -20033,16 +20481,16 @@ annually thereafter on or before July 1 as long as the fluid milk
 processor continues to be eligible for the assessment exemption.
     (d) The request shall include the following: The fluid milk 
 processor's name and address, a copy of the organic farm or organic 
-handling operation certificate provided by a USDA-
+handling operation certificate provided by a USDA-accredited certifying 
+agent as defined in section 2103 of the Organic Foods Production Act of 
+1990 (7 U.S.C. 6502), a signed certification that the applicant meets 
+all of the requirements specified
 
-[[Page 212]]
+[[Page 217]]
 
-accredited certifying agent as defined in section 2103 of the Organic 
-Foods Production Act of 1990 (7 U.S.C. 6502), a signed certification 
-that the applicant meets all of the requirements specified in paragraph 
-(b) of this section for an assessment exemption, and such other 
-information as may be required by the Board and with the approval of the 
-Secretary.
+in paragraph (b) of this section for an assessment exemption, and such 
+other information as may be required by the Board and with the approval 
+of the Secretary.
     (e) The Board will grant an assessment exemption to any fluid milk 
 processor meeting the criteria in Sec. 1160.215(b) and issue a 
 Certificate of Exemption to the fluid milk processor. For exemption 
@@ -20122,23 +20570,24 @@ their applicability.
 Sec. 1160.403  Confidential treatment.
 
     (a) All persons, including agents and former agents of the Board, 
-all officers and employees and all former officers
+all officers and employees and all former officers and employees of the 
+Department, and all officers and all employees and all former officers 
+and employees of contracting agencies having access to commercial or 
+financial information
 
-[[Page 213]]
+[[Page 218]]
 
-and employees of the Department, and all officers and all employees and 
-all former officers and employees of contracting agencies having access 
-to commercial or financial information obtained from such books, records 
-or reports under the Act and this subpart shall keep such information 
-confidential, and not make it available to Board members. Only those 
-persons, as determined by the Secretary, who have a specific need for 
-such information in order to effectively administer the provisions of 
-this subpart shall have access to such information. In addition, they 
-shall disclose only that information the Secretary deems relevant, and 
-then only in a suit or administrative hearing brought at the discretion, 
-or upon the request, of the Secretary, or to which the Secretary or any 
-officer of the United States is a party, and involving this subpart. 
-Nothing in this section, however, shall be deemed to prohibit:
+obtained from such books, records or reports under the Act and this 
+subpart shall keep such information confidential, and not make it 
+available to Board members. Only those persons, as determined by the 
+Secretary, who have a specific need for such information in order to 
+effectively administer the provisions of this subpart shall have access 
+to such information. In addition, they shall disclose only that 
+information the Secretary deems relevant, and then only in a suit or 
+administrative hearing brought at the discretion, or upon the request, 
+of the Secretary, or to which the Secretary or any officer of the United 
+States is a party, and involving this subpart. Nothing in this section, 
+however, shall be deemed to prohibit:
     (1) The issuance of general statements based upon the reports of the 
 number of processors, individuals, groups of individuals, partnerships, 
 corporations, associations, cooperatives, or other entities subject to 
@@ -20202,16 +20651,16 @@ Sec. 1160.502  Proceedings after suspension or termination.
 
     (a) Upon the suspension or termination of this subpart, the Board 
 shall recommend to the Secretary not more than five of its members to 
-serve as
+serve as trustees for the purpose of liquidating the affairs of the 
+Board. Once the Secretary has designated such members as trustees, they 
+shall become trustees of all the funds and property that the
 
-[[Page 214]]
+[[Page 219]]
 
-trustees for the purpose of liquidating the affairs of the Board. Once 
-the Secretary has designated such members as trustees, they shall become 
-trustees of all the funds and property that the Board owns, possesses, 
-or controls, including unpaid and undelivered property or any other 
-unpaid claim existing at the time of such termination. The actions of 
-such trustees shall be subject to approval by the Secretary.
+Board owns, possesses, or controls, including unpaid and undelivered 
+property or any other unpaid claim existing at the time of such 
+termination. The actions of such trustees shall be subject to approval 
+by the Secretary.
     (b) The said trustees shall:
     (1) Serve as trustees until discharged by the Secretary;
     (2) Carry out the obligations of the Board under any contract or 
@@ -20288,12 +20737,10 @@ paragraph (a) of this section.
 Sec. 1160.506  Amendments.
 
     The Secretary may from time to time amend provisions of this 
-subpart. Any interested person or organization
+subpart. Any interested person or organization affected by the 
+provisions of the Act may propose amendments to the Secretary.
 
-[[Page 215]]
-
-affected by the provisions of the Act may propose amendments to the 
-Secretary.
+[[Page 220]]
 
 
 <R05>
@@ -20380,8 +20827,6 @@ the referendum is being held;
     (3) A statement as to the time within which the ballot must be 
 mailed to the referendum agent.
 
-[[Page 216]]
-
 
 <R05>
 Sec. 1160.603  Who may vote.
@@ -20389,16 +20834,20 @@ Sec. 1160.603  Who may vote.
     (a) Each person who was a fluid milk processor during the 
 representative period, as determined by the Secretary, and who at the 
 time of voter registration and when voting is processing and marketing 
-commercially fluid milk products in consumer-type packages in the United 
-States shall be entitled to vote in a referendum, and no such person 
-shall be refused a ballot. Any person casting more than one ballot with 
-conflicting votes shall thereby invalidate all ballots cast by such 
-person in such referendum. Each person voting shall have registered with 
-the referendum agent prior to the voting period. Each ballot cast shall 
-contain a certification by the person casting the ballot that such 
-person is qualified to vote. All information required on the ballot 
-pertinent to the identification of the person voting must be supplied 
-and certified to as being correct in order for the ballot to be valid.
+commercially fluid milk products in consumer-type packages in
+
+[[Page 221]]
+
+the United States shall be entitled to vote in a referendum, and no such 
+person shall be refused a ballot. Any person casting more than one 
+ballot with conflicting votes shall thereby invalidate all ballots cast 
+by such person in such referendum. Each person voting shall have 
+registered with the referendum agent prior to the voting period. Each 
+ballot cast shall contain a certification by the person casting the 
+ballot that such person is qualified to vote. All information required 
+on the ballot pertinent to the identification of the person voting must 
+be supplied and certified to as being correct in order for the ballot to 
+be valid.
     (b) Voting by proxy or agent will not be permitted. However, the 
 ballot of a fluid milk processor who is other than an individual may be 
 cast by a person who is duly authorized to do so, and such ballot shall 
@@ -20455,17 +20904,18 @@ following:
 to the referendum agent.
     (e) Further verify ballots to avoid a duplication of votes. The 
 following criteria shall serve as a guide:
-
-[[Page 217]]
-
     (1) Each fluid milk processor that is other than an individual shall 
 be regarded as one person for voting purposes;
     (2) No more than one vote may be cast on behalf of any one fluid 
 milk processor; and
     (3) In the event that more than one individual claim the right to 
-vote and cast a ballot for a fluid milk processor, concurring votes of 
-such individuals shall be treated as one vote while any conflicting 
-votes shall thereby invalidate all ballots cast by such individuals.
+vote and cast a ballot for a fluid milk processor,
+
+[[Page 222]]
+
+concurring votes of such individuals shall be treated as one vote while 
+any conflicting votes shall thereby invalidate all ballots cast by such 
+individuals.
 
 [58 FR 62503, Nov. 29, 1993, as amended at 62 FR 3983, Jan. 28, 1997]
 
@@ -20539,15 +20989,15 @@ disapproving, and the persons who cast such ballots shall not be
 regarded as participating in the referendum.
     (c) The referendum agent shall notify the Administrator of the 
 number of ballots cast, the count of the votes, the number of 
-disqualified ballots, and the
+disqualified ballots, and the volume of fluid milk products associated 
+with the ballots cast as prescribed in Sec. 1160.607(b). The referendum 
+agent shall seal the ballots and transmit to the Administrator a 
+complete detailed report of all actions taken in connection with the 
+referendum and all other information furnished to or compiled by the 
+referendum agent.
 
-[[Page 218]]
+[[Page 223]]
 
-volume of fluid milk products associated with the ballots cast as 
-prescribed in Sec. 1160.607(b). The referendum agent shall seal the 
-ballots and transmit to the Administrator a complete detailed report of 
-all actions taken in connection with the referendum and all other 
-information furnished to or compiled by the referendum agent.
     (d) Announcement of the results of the referendum will be made only 
 at the direction of the Secretary. The referendum agent or others who 
 assist in the referendum shall not disclose the results of the 
@@ -20663,8 +21113,6 @@ or lower and hold these dairy products for 30 days or more; or
 manufacturing plant, packaging plant, distribution point, or shipment in 
 transit.
 
-[[Page 219]]
-
                     Dairy Product Reporting Programs
 
 
@@ -20673,10 +21121,13 @@ Sec. 1170.7  Reporting requirements.
 
     (a) All dairy product manufacturers, with the exception of those who 
 are exempt as described in Sec. 1170.9, shall submit a report to 
-National Agricultural Statistics Service (NASS) by noon on Wednesday of 
-all products sold as specified in Sec. 1170.8 during the seven days 
-ending with the previous Saturday. If a Federal holiday falls on a 
-Tuesday or Wednesday, NASS will contact manufacturers via e-mail or 
+National Agricultural Statistics Service (NASS) by noon on
+
+[[Page 224]]
+
+Wednesday of all products sold as specified in Sec. 1170.8 during the 
+seven days ending with the previous Saturday. If a Federal holiday falls 
+on a Tuesday or Wednesday, NASS will contact manufacturers via e-mail or 
 phone concerning the applicable report deadline. The report is to be 
 submitted on the appropriate forms supplied by NASS and shall indicate 
 the name, address, plant location(s), quantities sold, total sales 
@@ -20744,12 +21195,12 @@ under the Dairy Export Incentive Program or other premium-assisted sales
 Together program), and cheese certified as organic by a USDA-accredited 
 certifying agent.
     (b) Specifications for Butter Prices:
-
-[[Page 220]]
-
     (1) Variety: 80 percent butterfat, salted, fresh or storage.
     (2) Grade: Product meets USDA Grade AA standards.
     (3) Packaging: 25-kilogram and 68-pound box sales.
+
+[[Page 225]]
+
     (4) Exclude: Unsalted and Grade A butter, intra-company sales, 
 resales of purchased butter, forward pricing sales (sales in which the 
 selling price was set [not adjusted] 30 or more days before the 
@@ -20825,16 +21276,15 @@ Sec. 1170.10  Storage reporting specifications.
 
     (a) Cold Storage Report:
     (1) Reporting universe: All warehouses or facilities, artificially 
-cooled
+cooled to a temperature of 50 degrees Fahrenheit or lower, where dairy 
+products generally are placed and held for 30 days or more. Excluded are 
+stocks in refrigerated space maintained by wholesalers, jobbers, 
+distributors, and chain stores; locker plants containing individual 
+lockers; and frozen food processors whose inventories are turned over 
+more than once a month.
 
-[[Page 221]]
+[[Page 226]]
 
-to a temperature of 50 degrees Fahrenheit or lower, where dairy products 
-generally are placed and held for 30 days or more. Excluded are stocks 
-in refrigerated space maintained by wholesalers, jobbers, distributors, 
-and chain stores; locker plants containing individual lockers; and 
-frozen food processors whose inventories are turned over more than once 
-a month.
     (2) Products required to be reported:
     (i) Natural cheese, domestic and foreign made, including barrel and 
 cheese to be processed; American type cheeses, (cheddar, Monterey, 
@@ -20915,23 +21365,22 @@ immediately.
     (d) If a manufacturer or person requests a hearing, the hearing 
 should be held at a location and time that is convenient to the parties 
 concerned, if possible. The hearing will be held before the Deputy 
-Administrator, Dairy
-
-[[Page 222]]
-
-Programs, Agricultural Marketing Service, or a designee. The 
-manufacturer or person may be represented. Witnesses may be called by 
-either party.
+Administrator, Dairy Programs, Agricultural Marketing Service, or a 
+designee. The manufacturer or person may be represented. Witnesses may 
+be called by either party.
     (e) The Deputy Administrator, Dairy Programs, Agricultural Marketing 
 Service, or a designee will make a decision on the basis of all the 
-information in the administrative record, including any submission made 
-by the manufacturer or person. The decision of whether a cease and 
-desist order should be issued shall be made within 30 days after receipt 
-of any information and argument submitted by the manufacturer or person. 
-The cease and desist order shall be final unless the affected 
-manufacturer or person requests a reconsideration of the order to the 
-Administrator, Agricultural Marketing Service, within 30 days after the 
-date of the issuance of the order.
+information in the administrative record, including
+
+[[Page 227]]
+
+any submission made by the manufacturer or person. The decision of 
+whether a cease and desist order should be issued shall be made within 
+30 days after receipt of any information and argument submitted by the 
+manufacturer or person. The cease and desist order shall be final unless 
+the affected manufacturer or person requests a reconsideration of the 
+order to the Administrator, Agricultural Marketing Service, within 30 
+days after the date of the issuance of the order.
 
 
 <R05>
@@ -20965,7 +21414,7 @@ civil penalty of not more than the amount specified at Sec.
 
                        PARTS 1171	1199 [RESERVED]
 
-[[Page 223]]
+[[Page 229]]
 
 
 <R02>
@@ -20985,7 +21434,7 @@ which is published separately and revised annually.
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
-[[Page 225]]
+[[Page 231]]
 
 
 <R03>
@@ -20994,7 +21443,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2011)
+                     (Revised as of January 1, 2012)
 
                       Title 1--General Provisions
 
@@ -21010,8 +21459,7 @@ which is published separately and revised annually.
             Subtitle A--Office of Management and Budget Guidance 
                 for Grants and Agreements
          I  Office of Management and Budget Governmentwide 
-                Guidance for Grants and Agreements (Parts 100--
-                199)
+                Guidance for Grants and Agreements (Parts 2--199)
         II  Office of Management and Budget Circulars and Guidance 
                 (200--299)
             Subtitle B--Federal Agency Regulations for Grants and 
@@ -21020,6 +21468,7 @@ which is published separately and revised annually.
                 399)
         IV  Department of Agriculture (Parts 400--499)
         VI  Department of State (Parts 600--699)
+       VII  Agency for International Development (Parts 700--799)
       VIII  Department of Veterans Affairs (Parts 800--899)
         IX  Department of Energy (Parts 900--999)
         XI  Department of Defense (Parts 1100--1199)
@@ -21028,7 +21477,7 @@ which is published separately and revised annually.
        XIV  Department of the Interior (Parts 1400--1499)
         XV  Environmental Protection Agency (Parts 1500--1599)
      XVIII  National Aeronautics and Space Administration (Parts 
-                1880--1899)
+                1800--1899)
         XX  United States Nuclear Regulatory Commission (Parts 
                 2000--2099)
       XXII  Corporation for National and Community Service (Parts 
@@ -21040,10 +21489,10 @@ which is published separately and revised annually.
                 2600--2699)
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
+
+[[Page 232]]
+
        XXX  Department of Homeland Security (Parts 3000--3099)
-
-[[Page 226]]
-
       XXXI  Institute of Museum and Library Services (Parts 3100--
                 3199)
      XXXII  National Endowment for the Arts (Parts 3200--3299)
@@ -21097,11 +21546,12 @@ which is published separately and revised annually.
       XXXI  Farm Credit Administration (Parts 4100--4199)
     XXXIII  Overseas Private Investment Corporation (Parts 4300--
                 4399)
+
+[[Page 233]]
+
      XXXIV  Securities and Exchange Commission (Parts 4400--4499)
-
-[[Page 227]]
-
       XXXV  Office of Personnel Management (Parts 4500--4599)
+    XXXVII  Federal Election Commission (Parts 4700--4799)
         XL  Interstate Commerce Commission (Parts 5000--5099)
        XLI  Commodity Futures Trading Commission (Parts 5100--
                 5199)
@@ -21140,33 +21590,30 @@ which is published separately and revised annually.
                 7799)
     LXVIII  Commission on Civil Rights (Parts 7800--7899)
       LXIX  Tennessee Valley Authority (Parts 7900--7999)
+       LXX  Court Services and Offender Supervision Agency for the 
+                District of Columbia (Parts 8000--8099)
       LXXI  Consumer Product Safety Commission (Parts 8100--8199)
-     LXXII  Special Inspector General for Iraq Reconstruction 
-                (Parts 8200--8299)
     LXXIII  Department of Agriculture (Parts 8300--8399)
      LXXIV  Federal Mine Safety and Health Review Commission 
                 (Parts 8400--8499)
      LXXVI  Federal Retirement Thrift Investment Board (Parts 
                 8600--8699)
     LXXVII  Office of Management and Budget (Parts 8700--8799)
-      LXXX  Federal Housing Finance Agency (Parts 8700--8799)
+      LXXX  Federal Housing Finance Agency (Parts 9000--9099)
     LXXXII  Special Inspector General for Iraq Reconstruction 
                 (Parts 9200--9299)
+
+[[Page 234]]
+
      XCVII  Department of Homeland Security Human Resources 
                 Management System (Department of Homeland 
                 Security--Office of Personnel Management) (Parts 
                 9700--9799)
 
-[[Page 228]]
-
-      XCIX  Department of Defense Human Resources Management and 
-                Labor Relations Systems (Department of Defense--
-                Office of Personnel Management) (Parts 9900--9999)
-
                       Title 6--Domestic Security
 
          I  Department of Homeland Security, Office of the 
-                Secretary (Parts 0--99)
+                Secretary (Parts 1--99)
 
                          Title 7--Agriculture
 
@@ -21216,8 +21663,10 @@ which is published separately and revised annually.
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
 
-[[Page 229]]
+[[Page 235]]
 
+       XXV  Office of Advocacy and Outreach, Department of 
+                Agriculture (Parts 2500--2599)
       XXVI  Office of Inspector General, Department of Agriculture 
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
@@ -21248,9 +21697,6 @@ which is published separately and revised annually.
       XLII  Rural Business-Cooperative Service and Rural Utilities 
                 Service, Department of Agriculture (Parts 4200--
                 4299)
-         L  Rural Business-Cooperative Service, Rurual Housing 
-                Service, and Rural Utilities Service, Department 
-                of Agriculture (Parts 5000--5099)
 
                     Title 8--Aliens and Nationality
 
@@ -21269,7 +21715,7 @@ which is published separately and revised annually.
        III  Food Safety and Inspection Service, Department of 
                 Agriculture (Parts 300--599)
 
-[[Page 230]]
+[[Page 236]]
 
                            Title 10--Energy
 
@@ -21278,7 +21724,7 @@ which is published separately and revised annually.
        III  Department of Energy (Parts 700--999)
          X  Department of Energy (General Provisions) (Parts 
                 1000--1099)
-      XIII  Nuclear Waste Technical Review Board (Parts 1303--
+      XIII  Nuclear Waste Technical Review Board (Parts 1300--
                 1399)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
@@ -21304,12 +21750,17 @@ which is published separately and revised annually.
        VII  National Credit Union Administration (Parts 700--799)
       VIII  Federal Financing Bank (Parts 800--899)
         IX  Federal Housing Finance Board (Parts 900--999)
+         X  Bureau of Consumer Financial Protection (Parts 1000--
+                1099)
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
        XII  Federal Housing Finance Agency (Parts 1200--1299)
+      XIII  Financial Stability Oversight Council (Parts 1300--
+                1399)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
         XV  Department of the Treasury (Parts 1500--1599)
+       XVI  Office of Financial Research (Parts 1600--1699)
       XVII  Office of Federal Housing Enterprise Oversight, 
                 Department of Housing and Urban Development (Parts 
                 1700--1799)
@@ -21325,7 +21776,7 @@ which is published separately and revised annually.
          V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
                 500--599)
 
-[[Page 231]]
+[[Page 237]]
 
                     Title 14--Aeronautics and Space
 
@@ -21335,7 +21786,7 @@ which is published separately and revised annually.
                 (Aviation Proceedings) (Parts 200--399)
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
-                (Parts 400--499)
+                (Parts 400--1199)
          V  National Aeronautics and Space Administration (Parts 
                 1200--1299)
         VI  Air Transportation System Stabilization (Parts 1300--
@@ -21381,7 +21832,7 @@ which is published separately and revised annually.
          I  Federal Trade Commission (Parts 0--999)
         II  Consumer Product Safety Commission (Parts 1000--1799)
 
-[[Page 232]]
+[[Page 238]]
 
              Title 17--Commodity and Securities Exchanges
 
@@ -21416,7 +21867,7 @@ which is published separately and revised annually.
                 of Labor (Parts 1--199)
         II  Railroad Retirement Board (Parts 200--399)
        III  Social Security Administration (Parts 400--499)
-        IV  Employees Compensation Appeals Board, Department of 
+        IV  Employees' Compensation Appeals Board, Department of 
                 Labor (Parts 500--599)
          V  Employment and Training Administration, Department of 
                 Labor (Parts 600--699)
@@ -21439,7 +21890,7 @@ which is published separately and revised annually.
        III  Office of National Drug Control Policy (Parts 1400--
                 1499)
 
-[[Page 233]]
+[[Page 239]]
 
                       Title 22--Foreign Relations
 
@@ -21458,7 +21909,7 @@ which is published separately and revised annually.
                 1100--1199)
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
-      XIII  Millenium Challenge Corporation (Parts 1300--1399)
+      XIII  Millennium Challenge Corporation (Parts 1300--1399)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
@@ -21488,7 +21939,7 @@ which is published separately and revised annually.
                 Department of Housing and Urban Development (Parts 
                 100--199)
         II  Office of Assistant Secretary for Housing-Federal 
-                HousingCommissioner, Department of Housing and 
+                Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
@@ -21496,7 +21947,7 @@ which is published separately and revised annually.
                 Assistance Restructuring, Department of Housing 
                 and Urban Development (Parts 400--499)
 
-[[Page 234]]
+[[Page 240]]
 
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
@@ -21524,6 +21975,9 @@ which is published separately and revised annually.
                 Registration Program) (Parts 1700--1799)
        XII  Office of Inspector General, Department of Housing and 
                 Urban Development (Parts 2000--2099)
+        XV  Emergency Mortgage Insurance and Loan Programs, 
+                Department of Housing and Urban Development (Parts 
+                2700--2799)
         XX  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 3200--3899)
@@ -21550,12 +22004,12 @@ which is published separately and revised annually.
        VII  Office of the Special Trustee for American Indians, 
                 Department of the Interior (Parts 1200--1299)
 
+[[Page 241]]
+
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
-                (Parts 1--899)
-
-[[Page 235]]
+                (Parts 1--End)
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -21607,22 +22061,24 @@ which is published separately and revised annually.
                 (Parts 2200--2499)
        XXV  Employee Benefits Security Administration, Department 
                 of Labor (Parts 2500--2599)
+
+[[Page 242]]
+
      XXVII  Federal Mine Safety and Health Review Commission 
                 (Parts 2700--2799)
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
-[[Page 236]]
-
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
                 Labor (Parts 1--199)
-        II  Bureau of Ocean Energy Management, Regulation, and 
-                Enforcement, Department of the Interior (Parts 
-                200--299)
+        II  Bureau of Safety and Environmental Enforcement, 
+                Department of the Interior (Parts 200--299)
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
+         V  Bureau of Ocean Energy Management, Department of the 
+                Interior (Parts 500--599)
        VII  Office of Surface Mining Reclamation and Enforcement, 
                 Department of the Interior (Parts 700--999)
        XII  Office of Natural Resources Revenue, Department of the 
@@ -21649,7 +22105,7 @@ which is published separately and revised annually.
                 Treasury (Parts 800--899)
         IX  Federal Claims Collection Standards (Department of the 
                 Treasury--Department of Justice) (Parts 900--999)
-         X  Financial Crimes Enforcement Network, Departmnent of 
+         X  Financial Crimes Enforcement Network, Department of 
                 the Treasury (Parts 1000--1099)
 
                       Title 32--National Defense
@@ -21661,6 +22117,9 @@ which is published separately and revised annually.
        VII  Department of the Air Force (Parts 800--1099)
             Subtitle B--Other Regulations Relating to National 
                 Defense
+
+[[Page 243]]
+
        XII  Defense Logistics Agency (Parts 1200--1299)
        XVI  Selective Service System (Parts 1600--1699)
       XVII  Office of the Director of National Intelligence (Parts 
@@ -21671,9 +22130,6 @@ which is published separately and revised annually.
                 Archives and Records Administration (Parts 2000--
                 2099)
        XXI  National Security Council (Parts 2100--2199)
-
-[[Page 237]]
-
       XXIV  Office of Science and Technology Policy (Parts 2400--
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
@@ -21708,7 +22164,7 @@ which is published separately and revised annually.
                 Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
                 Education (Parts 600--699)
-       VII  Office of Educational Research and Improvmeent, 
+       VII  Office of Educational Research and Improvement, 
                 Department of Education [Reserved]
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
@@ -21720,6 +22176,9 @@ which is published separately and revised annually.
 
          I  National Park Service, Department of the Interior 
                 (Parts 1--199)
+
+[[Page 244]]
+
         II  Forest Service, Department of Agriculture (Parts 200--
                 299)
        III  Corps of Engineers, Department of the Army (Parts 
@@ -21732,9 +22191,6 @@ which is published separately and revised annually.
                 899)
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
-
-[[Page 238]]
-
          X  Presidio Trust (Parts 1000--1099)
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
@@ -21751,7 +22207,7 @@ which is published separately and revised annually.
                 of Commerce (Parts 1--199)
         II  Copyright Office, Library of Congress (Parts 200--299)
        III  Copyright Royalty Board, Library of Congress (Parts 
-                301--399)
+                300--399)
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
@@ -21760,7 +22216,7 @@ which is published separately and revised annually.
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
          I  Department of Veterans Affairs (Parts 0--99)
-        II  Armed Forces Retirement Home
+        II  Armed Forces Retirement Home (Parts 200--299)
 
                        Title 39--Postal Service
 
@@ -21779,17 +22235,18 @@ which is published separately and revised annually.
                 Defense; Uniform National Discharge Standards for 
                 Vessels of the Armed Forces (Parts 1700--1799)
 
+[[Page 245]]
+
           Title 41--Public Contracts and Property Management
 
+            Subtitle A--Federal Procurement Regulations System 
+                [Note]
             Subtitle B--Other Provisions Relating to Public 
                 Contracts
         50  Public Contracts, Department of Labor (Parts 50-1--50-
                 999)
         51  Committee for Purchase From People Who Are Blind or 
                 Severely Disabled (Parts 51-1--51-99)
-
-[[Page 239]]
-
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
@@ -21829,9 +22286,11 @@ which is published separately and revised annually.
          I  Public Health Service, Department of Health and Human 
                 Services (Parts 1--199)
         IV  Centers for Medicare & Medicaid Services, Department 
-                of Health and Human Services (Parts 400--499)
+                of Health and Human Services (Parts 400--599)
          V  Office of Inspector General-Health Care, Department of 
                 Health and Human Services (Parts 1000--1999)
+
+[[Page 246]]
 
                    Title 43--Public Lands: Interior
 
@@ -21839,12 +22298,9 @@ which is published separately and revised annually.
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Lands
          I  Bureau of Reclamation, Department of the Interior 
-                (Parts 200--499)
+                (Parts 200--599)
         II  Bureau of Land Management, Department of the Interior 
                 (Parts 1000--9999)
-
-[[Page 240]]
-
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10099)
 
@@ -21892,13 +22348,14 @@ which is published separately and revised annually.
      XVIII  Harry S. Truman Scholarship Foundation (Parts 1800--
                 1899)
        XXI  Commission on Fine Arts (Parts 2100--2199)
+
+[[Page 247]]
+
      XXIII  Arctic Research Commission (Part 2301)
       XXIV  James Madison Memorial Fellowship Foundation (Parts 
                 2400--2499)
        XXV  Corporation for National and Community Service (Parts 
                 2500--2599)
-
-[[Page 241]]
 
                           Title 46--Shipping
 
@@ -21944,6 +22401,9 @@ which is published separately and revised annually.
                 Health Benefits Acquisition Regulation (Parts 
                 1600--1699)
         17  Office of Personnel Management (Parts 1700--1799)
+
+[[Page 248]]
+
         18  National Aeronautics and Space Administration (Parts 
                 1800--1899)
         19  Broadcasting Board of Governors (Parts 1900--1999)
@@ -21954,9 +22414,6 @@ which is published separately and revised annually.
         23  Social Security Administration (Parts 2300--2399)
         24  Department of Housing and Urban Development (Parts 
                 2400--2499)
-
-[[Page 242]]
-
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
         29  Department of Labor (Parts 2900--2999)
@@ -22000,6 +22457,9 @@ which is published separately and revised annually.
                 Department of Transportation (Parts 500--599)
         VI  Federal Transit Administration, Department of 
                 Transportation (Parts 600--699)
+
+[[Page 249]]
+
        VII  National Railroad Passenger Corporation (AMTRAK) 
                 (Parts 700--799)
       VIII  National Transportation Safety Board (Parts 800--999)
@@ -22009,8 +22469,6 @@ which is published separately and revised annually.
                 Department of Transportation [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
-
-[[Page 243]]
 
                    Title 50--Wildlife and Fisheries
 
@@ -22040,7 +22498,7 @@ which is published separately and revised annually.
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 245]]
+[[Page 251]]
 
 
 
@@ -22051,22 +22509,23 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2011)
+                     (Revised as of January 1, 2012)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
 
 Administrative Committee of the Federal Register  1, I
 Administrative Conference of the United States    1, III
-Advanced Research Projects Agency                 32, I
 Advisory Council on Historic Preservation         36, VIII
+Advocacy and Outreach, Office of                  7, XXV
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
-Agency for International Development              22, II
+Agency for International Development              2, VII; 22, II
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
 Agriculture Department                            2, IV; 5, LXXIII
+  Advocacy and Outreach, Office of                7, XXV
   Agricultural Marketing Service                  7, I, IX, X, XI
   Agricultural Research Service                   7, V
   Animal and Plant Health Inspection Service      7, III; 9, I
@@ -22088,7 +22547,7 @@ Agriculture Department                            2, IV; 5, LXXIII
   Inspector General, Office of                    7, XXVI
   National Agricultural Library                   7, XLI
   National Agricultural Statistics Service        7, XXXVI
-  National Institute of Food and Agriculture.     7, XXXIV
+  National Institute of Food and Agriculture      7, XXXIV
   Natural Resources Conservation Service          7, VI
   Operations, Office of                           7, XXVIII
   Procurement and Property Management, Office of  7, XXXII
@@ -22110,10 +22569,10 @@ AMTRAK                                            49, VII
 American Battle Monuments Commission              36, IV
 American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
+
+[[Page 252]]
+
 Appalachian Regional Commission                   5, IX
-
-[[Page 246]]
-
 Architectural and Transportation Barriers         36, XI
      Compliance Board
 Arctic Research Commission                        45, XXIII
@@ -22124,7 +22583,7 @@ Army Department                                   32, V
 Bilingual Education and Minority Languages        34, V
      Affairs, Office of
 Blind or Severely Disabled, Committee for         41, 51
-     Purchase From People Who Are
+     Purchase from People Who Are
 Broadcasting Board of Governors                   22, V
   Federal Acquisition Regulation                  48, 19
 Bureau of Ocean Energy Management, Regulation,    30, II
@@ -22132,26 +22591,29 @@ Bureau of Ocean Energy Management, Regulation,    30, II
 Census Bureau                                     15, I
 Centers for Medicare & Medicaid Services          42, IV
 Central Intelligence Agency                       32, XIX
+Chemical Safety and Hazardous Investigation       40, VI
+     Board
 Chief Financial Officer, Office of                7, XXX
 Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
 Civil Rights, Commission on                       5, LXVIII; 45, VII
 Civil Rights, Office for                          34, I
+Court Services and Offender Supervision Agency    5, LXX
+     for the District of Columbia
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
-Commerce Department                               44, IV
+Commerce Department                               2, XIII; 44, IV; 50, VI
   Census Bureau                                   15, I
   Economic Affairs, Under Secretary               37, V
   Economic Analysis, Bureau of                    15, VIII
   Economic Development Administration             13, III
   Emergency Management and Assistance             44, IV
   Federal Acquisition Regulation                  48, 13
-  Fishery Conservation and Management             50, VI
   Foreign-Trade Zones Board                       15, IV
   Industry and Security, Bureau of                15, VII
   International Trade Administration              15, III; 19, III
   National Institute of Standards and Technology  15, II
-  National Marine Fisheries Service               50, II, IV, VI
+  National Marine Fisheries Service               50, II, IV
   National Oceanic and Atmospheric                15, IX; 50, II, III, IV, 
        Administration                             VI
   National Telecommunications and Information     15, XXIII; 47, III, IV
@@ -22173,21 +22635,21 @@ Community Services, Office of                     45, X
 Comptroller of the Currency                       12, I
 Construction Industry Collective Bargaining       29, IX
      Commission
+Consumer Financial Protection Bureau              12, X
 Consumer Product Safety Commission                5, LXXI; 16, II
 Copyright Office                                  37, II
 Copyright Royalty Board                           37, III
 Corporation for National and Community Service    2, XXII; 45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
-Court Services and Offender Supervision Agency    28, VIII
-     for the District of Columbia
-Customs and Border Protection Bureau              19, I
+Court Services and Offender Supervision Agency    5, LXX; 28, VIII
+   for the District of Columbia
+[[Page 253]]
+
+Customs and Border Protection                     19, I
 Defense Contract Audit Agency                     32, I
-Defense Department                                5, XXVI; 32, Subtitle A; 
-                                                  40, VII
-
-[[Page 247]]
-
+Defense Department                                2, XI; 5, XXVI; 32, 
+                                                  Subtitle A; 40, VII
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
@@ -22196,8 +22658,6 @@ Defense Department                                5, XXVI; 32, Subtitle A;
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Human Resources Management and Labor Relations  5, XCIX
-       Systems
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 2, XI; 32, I
@@ -22206,7 +22666,7 @@ Defense Intelligence Agency                       32, I
 Defense Logistics Agency                          32, XII; 48, 54
 Defense Nuclear Facilities Safety Board           10, XVII
 Delaware River Basin Commission                   18, III
-District of Columbia, Court Services and          28, VIII
+District of Columbia, Court Services and          5, LXX; 28, VIII
      Offender Supervision Agency for the
 Drug Enforcement Administration                   21, II
 East-West Foreign Trade Board                     15, XIII
@@ -22238,7 +22698,8 @@ Employees Loyalty Board                           5, V
 Employment and Training Administration            20, V
 Employment Standards Administration               20, VI
 Endangered Species Committee                      50, IV
-Energy, Department of                             5, XXIII; 10, II, III, X
+Energy, Department of                             2, IX; 5, XXIII; 10, II, 
+                                                  III, X
   Federal Acquisition Regulation                  48, 9
   Federal Energy Regulatory Commission            5, XXIV; 18, I
   Property Management Regulations                 41, 109
@@ -22255,12 +22716,12 @@ Equal Opportunity, Office of Assistant Secretary  24, I
      for
 Executive Office of the President                 3, I
   Administration, Office of                       5, XV
+
+[[Page 254]]
+
   Environmental Quality, Council on               40, V
-  Management and Budget, Office of                5, III, LXXVII; 14, VI; 
-                                                  48, 99
-
-[[Page 248]]
-
+  Management and Budget, Office of                2, Subtitle A; 5, III, 
+                                                  LXXVII; 14, VI; 48, 99
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
   Presidential Documents                          3
@@ -22280,7 +22741,7 @@ Federal Communications Commission                 5, XXIX; 47, I
 Federal Contract Compliance Programs, Office of   41, 60
 Federal Crop Insurance Corporation                7, IV
 Federal Deposit Insurance Corporation             5, XXII; 12, III
-Federal Election Commission                       11, I
+Federal Election Commission                       5, XXXVII; 11, I
 Federal Emergency Management Agency               44, I
 Federal Employees Group Life Insurance Federal    48, 21
      Acquisition Regulation
@@ -22316,10 +22777,11 @@ Federal Trade Commission                          5, XLVII; 16, I
 Federal Transit Administration                    49, VI
 Federal Travel Regulation System                  41, Subtitle F
 Financial Crimes Enforcement Network              31, X
+Financial Research Office                         12, XVI
+Financial Stability Oversight Council             12, XIII
 Fine Arts, Commission on                          45, XXI
 Fiscal Service                                    31, II
 Fish and Wildlife Service, United States          50, I, IV
-Fishery Conservation and Management               50, VI
 Food and Drug Administration                      21, I
 Food and Nutrition Service                        7, II
 Food Safety and Inspection Service                9, III
@@ -22328,13 +22790,13 @@ Foreign Assets Control, Office of                 31, V
 Foreign Claims Settlement Commission of the       45, V
      United States
 Foreign Service Grievance Board                   22, IX
+
+[[Page 255]]
+
 Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-
-[[Page 249]]
-
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
@@ -22372,7 +22834,7 @@ Health and Human Services, Department of          2, III; 5, XLV; 45,
 Homeland Security, Department of                  2, XXX; 6, I
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
-  Customs and Border Protection Bureau            19, I
+  Customs and Border Protection                   19, I
   Federal Emergency Management Agency             44, I
   Human Resources Management and Labor Relations  5, XCVII
        Systems
@@ -22404,13 +22866,13 @@ Housing--Federal Housing Commissioner, Office of  24, II, VIII, X, XX
 Housing, Office of, and Multifamily Housing       24, IV
      Assistance Restructuring, Office of
 Human Development Services, Office of             45, XIII
+
+[[Page 256]]
+
 Immigration and Customs Enforcement Bureau        19, IV
 Immigration and Naturalization                    8, I
 Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
-
-[[Page 250]]
-
 Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
      Secretary
@@ -22423,14 +22885,14 @@ Information Security Oversight Office, National   32, XX
 Inspector General
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
-  Housing and Urban Development Department        24, XII
+  Housing and Urban Development Department        24, XII, XV
 Institute of Peace, United States                 22, XVII
 Inter-American Foundation                         5, LXIII; 22, X
-Interior Department
+Interior Department                               2, XIV
   American Indians, Office of the Special         25, VII
        Trustee
-  MBureau of Ocean Energy Management,             30, II
-       Regulation, and Enforcement
+  Bureau of Ocean Energy Management, Regulation,  30, II
+       and Enforcement
   Endangered Species Committee                    50, IV
   Federal Acquisition Regulation                  48, 14
   Federal Property Management Regulations System  41, 114
@@ -22444,6 +22906,7 @@ Interior Department
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
   Natural Resource Revenue, Office of             30, XII
+  Ocean Energy Management, Bureau of              30, V
   Reclamation, Bureau of                          43, I
   Secretary of the Interior, Office of            2, XIV; 43, Subtitle A
   Surface Mining Reclamation and Enforcement,     30, VII
@@ -22457,7 +22920,6 @@ International Development, United States Agency   22, II
   Federal Acquisition Regulation                  48, 7
 International Development Cooperation Agency,     22, XII
      United States
-International Fishing and Related Activities      50, III
 International Joint Commission, United States     22, IV
      and Canada
 International Organizations Employees Loyalty     5, V
@@ -22469,7 +22931,7 @@ Investment Security, Office of                    31, VIII
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                2, XXVII; 5, XXVIII; 28, 
+Justice Department                                2, XXVIII; 5, XXVIII; 28, 
                                                   I, XI; 40, IV
   Alcohol, Tobacco, Firearms, and Explosives,     27, II
        Bureau of
@@ -22483,13 +22945,13 @@ Justice Department                                2, XXVII; 5, XXVIII; 28,
   Offices of Independent Counsel                  28, VI
   Prisons, Bureau of                              28, V
   Property Management Regulations                 41, 128
+
+[[Page 257]]
+
 Labor Department                                  5, XLII
   Employee Benefits Security Administration       29, XXV
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
-
-[[Page 251]]
-
   Employment Standards Administration             20, VI
   Federal Acquisition Regulation                  48, 29
   Federal Contract Compliance Programs, Office    41, 60
@@ -22518,7 +22980,7 @@ Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
 Merit Systems Protection Board                    5, II, LXIV
 Micronesian Status Negotiations, Office for       32, XXVII
-Millenium Challenge Corporation                   22, XIII
+Millennium Challenge Corporation                  22, XIII
 Mine Safety and Health Administration             30, I
 Minority Business Development Agency              15, XIV
 Miscellaneous Agencies                            1, IV
@@ -22530,7 +22992,7 @@ National Aeronautics and Space Administration     2, XVIII; 5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
 National Agricultural Statistics Service          7, XXXVI
-National and Community Service, Corporation for   45, XII, XXV
+National and Community Service, Corporation for   2, XXII; 45, XII, XXV
 National Archives and Records Administration      2, XXVI; 5, LXVI; 36, XII
   Information Security Oversight Office           32, XX
 National Capital Planning Commission              1, IV
@@ -22551,19 +23013,19 @@ National Highway Traffic Safety Administration    23, II, III; 47, VI; 49, V
 National Imagery and Mapping Agency               32, I
 National Indian Gaming Commission                 25, III
 National Institute for Literacy                   34, XI
-National Institute of Food and Agriculture.       7, XXXIV
+National Institute of Food and Agriculture        7, XXXIV
 National Institute of Standards and Technology    15, II
 National Intelligence, Office of Director of      32, XVII
 National Labor Relations Board                    5, LXI; 29, I
-National Marine Fisheries Service                 50, II, IV, VI
+National Marine Fisheries Service                 50, II, IV
+
+[[Page 258]]
+
 National Mediation Board                          29, X
 National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV, 
                                                   VI
 National Park Service                             36, I
 National Railroad Adjustment Board                29, III
-
-[[Page 252]]
-
 National Railroad Passenger Corporation (AMTRAK)  49, VII
 National Science Foundation                       2, XXV; 5, XLIII; 45, VI
   Federal Acquisition Regulation                  48, 25
@@ -22585,6 +23047,7 @@ Nuclear Regulatory Commission                     2, XX; 5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
 Occupational Safety and Health Review Commission  29, XX
+Ocean Energy Management, Bureau of                30, V
 Offices of Independent Counsel                    28, VI
 Office of Workers' Compensation Programs          20, VII
 Oklahoma City National Memorial Trust             36, XV
@@ -22595,12 +23058,10 @@ Payment From a Non-Federal Source for Travel      41, 304
      Expenses
 Payment of Expenses Connected With the Death of   41, 303
      Certain Employees
-Peace Corps                                       22, III
+Peace Corps                                       2, XXXVII; 22, III
 Pennsylvania Avenue Development Corporation       36, IX
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
-  Human Resources Management and Labor Relations  5, XCIX
-       Systems, Department of Defense
   Human Resources Management and Labor Relations  5, XCVII
        Systems, Department of Homeland Security
   Federal Acquisition Regulation                  48, 17
@@ -22634,12 +23095,12 @@ Research and Innovative Technology                49, XI
      Administration
 Rural Business-Cooperative Service                7, XVIII, XLII, L
 Rural Development Administration                  7, XLII
+
+[[Page 259]]
+
 Rural Housing Service                             7, XVIII, XXXV, L
 Rural Telephone Bank                              7, XVI
 Rural Utilities Service                           7, XVII, XVIII, XLII, L
-
-[[Page 253]]
-
 Saint Lawrence Seaway Development Corporation     33, IV
 Science and Technology Policy, Office of          32, XXIV
 Science and Technology Policy, Office of, and     47, II
@@ -22697,7 +23158,7 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Community Development Financial Institutions    12, XVIII
        Fund
   Comptroller of the Currency                     12, I
-  Customs and Border Protection Bureau            19, I
+  Customs and Border Protection                   19, I
   Engraving and Printing, Bureau of               31, VI
   Federal Acquisition Regulation                  48, 10
   Federal Claims Collection Standards             31, IX
@@ -22710,12 +23171,13 @@ Treasury Department                               5, XXI; 12, XV; 17, IV;
   Monetary Offices                                31, I
   Secret Service                                  31, IV
   Secretary of the Treasury, Office of            31, Subtitle A
+
+[[Page 260]]
+
   Thrift Supervision, Office of                   12, V
 Truman, Harry S. Scholarship Foundation           45, XVIII
 United States and Canada, International Joint     22, IV
-   Commission
-[[Page 254]]
-
+     Commission
 United States and Mexico, International Boundary  22, XI
      and Water Commission, United States Section
 Utah Reclamation Mitigation and Conservation      43, III
@@ -22731,7 +23193,7 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 255]]
+[[Page 261]]
 
 
 <R03>
@@ -22808,7 +23270,7 @@ Chapter X
                                                                     7072
     Regulation at 68 FR 7072 confirmed.............................66699
 
-[[Page 256]]
+[[Page 262]]
 
 1032.13 (d)(2) revised; (d)(3), (4) and (5) redesignated as 
         (d)(4), (5) and (6); new (d)(3) and (e) added; interim......7072
@@ -22890,7 +23352,7 @@ Chapter X
 1030.7 (c)(2) revised; interim.....................................31322
     Regulation at 70 FR 31322 eff. 2-1-06..........................73128
 
-[[Page 257]]
+[[Page 263]]
 
 1030.13 (d) introductory text revised; interim.....................31322
     Regulation at 70 FR 31322 eff. 2-1-06..........................73128
@@ -22970,7 +23432,7 @@ Chapter X
 (d)(2), (3) and (f) added; (d)(1) and new (4) revised..............63217
 1033 Authority citation revised.............................25497, 63219
 
-[[Page 258]]
+[[Page 264]]
 
     Authority citation revised; eff. 2-1-07; interim...............78334
 1033.7 Regulation at 70 FR 56112 confirmed.........................20336
@@ -22993,5 +23455,35 @@ Chapter X
 1131 Authority citation revised....................................25497
     Authority citation revised; eff. 2-1-07; interim...............78334
     Heading revised................................................28249
-1131.2 Revised.....................................
+1131.2 Revised.....................................................25502
+    Heading revised................................................28249
+1131.7 (d) introductory text and (1) revised; (h) added............25502
+    (h) introductory text revised..................................28249
+1131.10 Revised.....................................................9433
+    (f) added......................................................25502
+
+                                  2007
+
+7 CFR
+                                                                   72 FR
+                                                                    Page
+Chapter X
+1170 Added; interim................................................36343
+    Regulation at 72 FR 36343 comment period reopened; interim.....62105
+
+                                  2008
+
+7 CFR
+                                                                   73 FR
+                                                                    Page
+Chapter X
+1000 Policy statement..............................................78917
+1000.50 (b) and (c) revised; interim...............................14155
+    (l), (m), (n)(2), (3)(i), (o) and (q)(3) revised; interim......44619
+    Regulation at 73 FR 44619 eff. date delayed to 10-1-08; 
+interim............................................................51352
+1001 Policy statement..............................................78917
+1005 Policy statement..............................................78917
+1005.13 (d)(1) through (4) revised; interim........................14156
+    (d)(3) and (4) correctly revi
 </pre></body></html>
