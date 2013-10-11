@@ -1,22 +1,22 @@
 <html><body><pre>
 [Title 1 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2009 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2010 Edition]
 [From the U.S. Government Printing Office]
 
 
 
-[[Page i]]
+[[Page 1]]
 
           
 <R02>
           1
 
-                         Revised as of January 1, 2005
+         Revised as of January 1, 2010
 
 
           General Provisions
           
-          <R03>
+<R03>
 
 
 ________________________
@@ -24,13 +24,16 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of January 1, 2005
+          As of January 1, 2010
           With Ancillaries
                     Published by
                     Office of the Federal Register
                     National Archives and Records
                     Administration
                     A Special Edition of the Federal Register
+
+[[Page ii]]
+
           U.S. GOVERNMENT OFFICIAL EDITION NOTICE
 
           Legal Status and Use of Seals and Logos
@@ -58,7 +61,7 @@ ________________________
 
           This is the Official U.S. Government edition of this publication 
               and is herein identified to certify its authenticity. Use of 
-              the 0--16 ISBN prefix is for U.S. Government Printing Office 
+              the 0-16 ISBN prefix is for U.S. Government Printing Office 
               Official Editions only. The Superintendent of Documents of the 
               U.S. Government Printing Office requests that any reprinted 
               edition clearly be labeled as a copy of the authentic work 
@@ -70,8 +73,8 @@ ________________________
 
           ------------------------------------------------------------------
 
-          U.S. Superintendent of Documents <bullet> Washington, DC 20402-
-              0001
+          U.S. Superintendent of Documents <bullet<ls-thn-eq> Washington, DC 
+              20402-0001
 
           http://bookstore.gpo.gov
 
@@ -95,20 +98,19 @@ ________________________
           Chapter II--Office of the Federal Register                35
           Chapter IV--Miscellaneous Agencies                        39
   Finding Aids:
-      Chapter I--Index........................................      65
-      Table of CFR Titles and Chapters........................      69
-      Alphabetical List of Agencies Appearing in the CFR......      87
-      List of CFR Sections Affected...........................      97
+      Table of CFR Titles and Chapters........................      65
+      Alphabetical List of Agencies Appearing in the CFR......      85
+      List of CFR Sections Affected...........................      95
 
 [[Page iv]]
 
 
-      
+
 
 
                      ----------------------------
 
-                     Cite this Code:  CFR
+                     Cite this Code: CFR
                      To cite the regulations in 
                        this volume use title, 
                        part and section number. 
@@ -154,7 +156,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2005), consult the ``List of CFR 
+revision date (in this case, January 1, 2010), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -194,18 +196,48 @@ the cover of each volume are not carried. Code users may find the text
 of provisions in effect on a given date in the past by using the 
 appropriate numerical list of sections affected. For the period before 
 January 1, 2001, consult either the List of CFR Sections Affected, 1949-
-1963, 1964-1972, 1973-1985, or 1986-2000, published in 11 separate 
+1963, 1964-1972, 1973-1985, or 1986-2000, published in eleven separate 
 volumes. For the period beginning January 1, 2001, a ``List of CFR 
 Sections Affected'' is published at the end of each CFR volume.
+
+INCORPORATION BY REFERENCE
+
+    What is incorporation by reference? Incorporation by reference was 
+established by statute and allows Federal agencies to meet the 
+requirement to publish regulations in the Federal Register by referring 
+to materials already published elsewhere. For an incorporation to be 
+valid, the Director of the Federal Register must approve it. The legal 
+effect of incorporation by reference is that the material is treated as 
+if it were published in full in the Federal Register (5 U.S.C. 552(a)). 
+This material, like any other properly issued regulation, has the force 
+of law.
+    What is a proper incorporation by reference? The Director of the 
+Federal Register will approve an incorporation by reference only when 
+the requirements of 1 CFR part 51 are met. Some of the elements on which 
+approval is based are:
+    (a) The incorporation will substantially reduce the volume of 
+material published in the Federal Register.
+    (b) The matter incorporated is in fact available to the extent 
+necessary to afford fairness and uniformity in the administrative 
+process.
+    (c) The incorporating document is drafted and submitted for 
+publication in accordance with 1 CFR part 51.
+    What if the material incorporated by reference cannot be found? If 
+you have any problem locating or obtaining a copy of material listed as 
+an approved incorporation by reference, please contact the agency that 
+issued the regulation containing that incorporation. If, after 
+contacting the agency, you find the material is not available, please 
+notify the Director of the Federal Register, National Archives and 
+Records Administration, Washington DC 20408, or call 202-741-6010.
 
 CFR INDEXES AND TABULAR GUIDES
 
     A subject index to the Code of Federal Regulations is contained in a 
 separate volume, revised annually as of January 1, entitled CFR Index 
-and Finding Aids. This volume contains the Parallel Table of Statutory 
-Authorities and Agency Rules (Table I). A list of CFR titles, chapters, 
-and parts and an alphabetical list of agencies publishing in the CFR are 
-also included in this volume.
+and Finding Aids. This volume contains the Parallel Table of Authorities 
+and Rules. A list of CFR titles, chapters, subchapters, and parts and an 
+alphabetical list of agencies publishing in the CFR are also included in 
+this volume.
     An index to the text of ``Title 3--The President'' is carried within 
 that volume.
     The Federal Register Index is issued monthly in cumulative form. 
@@ -214,10 +246,17 @@ the daily Federal Register.
     A List of CFR Sections Affected (LSA) is published monthly, keyed to 
 the revision dates of the 50 CFR titles.
 
+
+
+
+[[Page vii]]
+
+
+
 REPUBLICATION OF MATERIAL
 
-    There are no restrictions on the republication of textual material 
-appearing in the Code of Federal Regulations.
+    There are no restrictions on the republication of material appearing 
+in the Code of Federal Regulations.
 
 INQUIRIES
 
@@ -235,34 +274,35 @@ SALES
 distribution of the CFR. For payment by credit card, call toll-free, 
 866-512-1800, or DC area, 202-512-1800, M-F 8 a.m. to 4 p.m. e.s.t. or 
 fax your order to 202-512-2250, 24 hours a day. For payment by check, 
-write to the Superintendent of Documents, Attn: New Orders, P.O. Box 
-371954, Pittsburgh, PA 15250-7954. For GPO Customer Service call 202-
-512-1803.
+write to: US Government Printing Office - New Orders, P.O. Box 979050, 
+St. Louis, MO 63197-9000. For GPO Customer Service call 202-512-1803.
 
 ELECTRONIC SERVICES
 
     The full text of the Code of Federal Regulations, the LSA (List of 
 CFR Sections Affected), The United States Government Manual, the Federal 
-Register, Public Laws, Public Papers, Weekly Compilation of Presidential 
+Register, Public Laws, Public Papers, Daily Compilation of Presidential 
 Documents and the Privacy Act Compilation are available in electronic 
-format at www.gpoaccess.gov/nara (``GPO Access''). For more information, 
-contact Electronic Information Dissemination Services, U.S. Government 
-Printing Office. Phone 202-512-1530, or 888-293-6498 (toll-free). E-
-mail, gpoaccess@gpo.gov.
-
-[[Page vii]]
-
+format via Federalregister.gov. For more information, contact Electronic 
+Information Dissemination Services, U.S. Government Printing Office. 
+Phone 202-512-1530, or 888-293-6498 (toll-free). E-mail, 
+gpoaccess@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
-information. Connect to NARA's web site at www.archives.gov/federal--
+information. Connect to NARA's web site at www.archives.gov/federal-
 register. The NARA site also contains links to GPO Access.
 
-                              Raymond A. Mosley,
-                                    Director,
-                          Office of the Federal Register.
+    Raymond A. Mosley,
+    Director,
+    Office of the Federal Register.
+    January 1, 2010.
 
-January 1, 2005.
+
+
+
+
+
 
 [[Page ix]]
 
@@ -275,19 +315,15 @@ is comprised of Chapter I--Administrative Committee of the Federal
 Register, Chapter II--Office of the Federal Register, and Chapter IV--
 Miscellaneous Agencies. The contents of this volume represents all 
 current regulations codified under this title of the CFR as of January 
-1, 2005.
+1, 2010.
 
     Chapter IV contains the current Privacy Act, Freedom of Information 
 Act, and Rehabilitation Act regulations issued by miscellaneous 
 agencies.
 
-    An Index to chapter I appears in the Finding Aids section of this 
-volume.
-
-    For this volume, Carol A. Conroy was Chief Editor. The Code of 
-Federal Regulations publication program is under the direction of 
-Frances D. McDonald, assisted by Alomha S. Morris.
-
+    For this volume, Bonnie Fritts was Chief Editor. The Code of Federal 
+Regulations publication program is under the direction of Michael L. 
+White, assisted by Ann Worley.
 
 [[Page 1]]
 
@@ -317,10 +353,6 @@ chapter iv--Miscellaneous Agencies..........................         425
 <R03>
 
   --------------------------------------------------------------------
-
-
-  Editorial Note: An Index to chapter I appears in the Finding Aids 
-section of the printed volume.
 
                           SUBCHAPTER A--GENERAL
 Part                                                                Page
@@ -358,10 +390,13 @@ Part                                                                Page
 
 
 <R03>
-                          SUBCHAPTER A--GENERAL
+                          SUBCHAPTER A_GENERAL
+
+<R05>
+
 
 <R03>
-PART 1--DEFINITIONS--Table of Contents
+PART 1_DEFINITIONS--Table of Contents
 
 <R05>
 
@@ -402,18 +437,18 @@ chapter.
 
 
 <R03>
-PART 2--GENERAL INFORMATION--Table of Contents
+PART 2_GENERAL INFORMATION--Table of Contents
 
 <R05>
 
 
 Sec.
-2.1  Scope and purpose.
-2.2  Administrative Committee of the Federal Register.
-2.3  Office of the Federal Register; location; office hours.
-2.4  General authority of Director.
-2.5  Publication of statutes, regulations, and related documents.
-2.6  Unrestricted use.
+2.1 Scope and purpose.
+2.2 Administrative Committee of the Federal Register.
+2.3 Office of the Federal Register; location; office hours.
+2.4 General authority of Director.
+2.5 Publication of statutes, regulations, and related documents.
+2.6 Unrestricted use.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189; 1 U.S.C. 112; 1 U.S.C. 113.
@@ -501,11 +536,12 @@ Register and the ``Code of Federal Regulations.''
     (c) Based on source materials that are officially related to the 
 acts and documents filed under paragraph (a) of this section, the Office 
 also publishes ``The United States Government Manual,'' the ``Public 
-Papers of the Presidents of the United States,'' the ``Weekly 
-Compilation of Presidential Documents,'' the ``Federal Register Index,'' 
-and the ``LSA (List of CFR Sections Affected)''.
+Papers of the Presidents of the United States,'' the ``Daily Compilation 
+of Presidential Documents,'' the ``Federal Register Index,'' and the 
+``LSA (List of CFR Sections Affected).''
 
-[37 FR 23603, Nov. 4, 1972, as amended at 54 FR 9676, Mar. 7, 1989]
+[37 FR 23603, Nov. 4, 1972, as amended at 54 FR 9676, Mar. 7, 1989; 74 
+FR 3952, Jan. 21, 2009]
 
 
 <R05>
@@ -517,15 +553,15 @@ Register.
 
 
 <R03>
-PART 3--SERVICES TO THE PUBLIC--Table of Contents
+PART 3_SERVICES TO THE PUBLIC--Table of Contents
 
 <R05>
 
 
 Sec.
-3.1  Information services.
-3.2  Public inspection of documents.
-3.3  Reproduction and certification of copies of acts and documents.
+3.1 Information services.
+3.2 Public inspection of documents.
+3.3 Reproduction and certification of copies of acts and documents.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -584,26 +620,28 @@ reproductions.
 
 
 <R03>
-                   SUBCHAPTER B--THE FEDERAL REGISTER
+                    SUBCHAPTER B_THE FEDERAL REGISTER
+
+<R05>
 
 
 <R03>
-PART 5--GENERAL--Table of Contents
+PART 5_GENERAL--Table of Contents
 
 <R05>
 
 
 Sec.
-5.1  Publication policy.
-5.2  Documents required to be filed for public inspection and published.
-5.3  Publication of other documents.
-5.4  Publication not authorized.
-5.5  Supplement to the Code of Federal Regulations.
-5.6  Daily publication.
-5.7  Delivery and mailing.
-5.8  Form of citation.
-5.9  Categories of documents.
-5.10  Forms of publication.
+5.1 Publication policy.
+5.2 Documents required to be filed for public inspection and published.
+5.3 Publication of other documents.
+5.4 Publication not authorized.
+5.5 Supplement to the Code of Federal Regulations.
+5.6 Daily publication.
+5.7 Delivery and mailing.
+5.8 Form of citation.
+5.9 Categories of documents.
+5.10 Forms of publication.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -632,7 +670,8 @@ document that is filed and published under law.
 
 
 <R05>
-Sec. 5.2  Documents required to be filed for public inspection and published.
+Sec. 5.2  Documents required to be filed for public inspection
+and published.
 
     The following documents are required to be filed for public 
 inspection with the Office of the Federal Register and published in the 
@@ -651,10 +690,10 @@ act of Congress.
 Sec. 5.3  Publication of other documents.
 
     Whenever the Director of the Federal Register considers that 
-publication of a document not covered by Sec. 5.2 would be in the public 
-interest, the Director may allow that document to be filed for public 
-inspection with the Office of the Federal Register and published in the 
-Federal Register.
+publication of a document not covered by Sec. 5.2 would be in the 
+public interest, the Director may allow that document to be filed for 
+public inspection with the Office of the Federal Register and published 
+in the Federal Register.
 
 [54 FR 9676, Mar. 7, 1989]
 
@@ -755,17 +794,17 @@ formats: paper; microfiche; and online on GPO Access (44 U.S.C. 4101).
 
 
 <R03>
-PART 6--INDEXES AND ANCILLARIES--Table of Contents
+PART 6_INDEXES AND ANCILLARIES--Table of Contents
 
 <R05>
 
 
 Sec.
-6.1  Index to daily issues.
-6.2  Analytical subject indexes.
-6.3  Daily lists of parts affected.
-6.4  Monthly list of sections affected.
-6.5  Indexes, digests, and guides.
+6.1 Index to daily issues.
+6.2 Analytical subject indexes.
+6.3 Daily lists of parts affected.
+6.4 Monthly list of sections affected.
+6.5 Indexes, digests, and guides.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -832,24 +871,26 @@ special printing or special binding in substantial numbers.
 
 
 <R03>
-         SUBCHAPTER C--SPECIAL EDITIONS OF THE FEDERAL REGISTER
+          SUBCHAPTER C_SPECIAL EDITIONS OF THE FEDERAL REGISTER
+
+<R05>
 
 
 <R03>
-PART 8--CODE OF FEDERAL REGULATIONS--Table of Contents
+PART 8_CODE OF FEDERAL REGULATIONS--Table of Contents
 
 <R05>
 
 
 Sec.
-8.1  Policy.
-8.2  Orderly development.
-8.3  Periodic updating.
-8.4  Indexes.
-8.5  Ancillaries.
-8.6  Forms of publication.
-8.7  Agency cooperation.
-8.9  Form of citation.
+8.1 Policy.
+8.2 Orderly development.
+8.3 Periodic updating.
+8.4 Indexes.
+8.5 Ancillaries.
+8.6 Forms of publication.
+8.7 Agency cooperation.
+8.9 Form of citation.
 
     Authority: 44 U.S.C. 1506, 1510; sec. 6, E.O. 10530, 19 FR 2709, 3 
 CFR, 1954-1958 Comp., p. 189.
@@ -946,7 +987,7 @@ volumes, ``List of Sections Affected, 1949-1963'' and ``List of CFR
 Sections Affected, 1964-1972'', list all sections of the Code which have 
 been affected by documents published during the period January 1, 1949, 
 to December 31, 1963, and January 1, 1964, to December 31, 1972, 
-respectively.)\1\ Listings shall refer to Federal Register pages and 
+respectively.) \1\ Listings shall refer to Federal Register pages and 
 shall be designed to enable the user of the Code to find the precise 
 text that was in effect on a given date in the period covered.
 ---------------------------------------------------------------------------
@@ -996,14 +1037,14 @@ Federal Regulations, part 10, section 2.
 
 
 <R03>
-PART 9--THE UNITED STATES GOVERNMENT MANUAL--Table of Contents
+PART 9_THE UNITED STATES GOVERNMENT MANUAL--Table of Contents
 
 <R05>
 
 
 Sec.
-9.1  Publication required.
-9.2  Scope.
+9.1 Publication required.
+9.2 Scope.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -1047,24 +1088,24 @@ published in the Manual.
 
 
 <R03>
-PART 10--PRESIDENTIAL PAPERS--Table of Contents
+PART 10_PRESIDENTIAL PAPERS--Table of Contents
 
 <R05>
 
 
-                      Subpart A--Weekly Publication
+                      Subpart A_Regular Publication
 
 Sec.
-10.1  Publication required.
-10.2  Scope and sources.
-10.3  Format, indexes, and ancillaries.
+10.1 Publication required.
+10.2 Scope and sources.
+10.3 Format.
 
-                      Subpart B--Annual Publication
+                      Subpart B_Annual Publication
 
-10.10  Publication required.
-10.11  Scope and sources.
-10.12  Format, indexes, and ancillaries.
-10.13  Coverage of prior years.
+10.10 Publication required.
+10.11 Scope and sources.
+10.12 Format, indexes, and ancillaries.
+10.13 Coverage of prior years.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709, 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -1073,23 +1114,25 @@ Sec.
 
 
 <R04>
-                      Subpart A--Weekly Publication
+                      Subpart A_Regular Publication
 
 
 <R05>
 Sec. 10.1  Publication required.
 
-    The Director of the Federal Register shall publish a special edition 
-of the Federal Register called the ``Weekly Compilation of Presidential 
-Documents''.
+    The Director publishes a special edition of the Federal Register 
+compiling recent presidential documents, called ``The Daily Compilation 
+of Presidential Documents.''
+
+[74 FR 3952, Jan. 21, 2009]
 
 
 <R05>
 Sec. 10.2  Scope and sources.
 
-    (a) The basic text of each publication consists of oral statements 
-by the President or of writing subscribed by the President, and selected 
-from transcripts or text issued by the Office of the White House Press 
+    (a) The text of the publication consists of oral statements by the 
+President or of writing subscribed by the President, and selected from 
+transcripts or text issued by the Office of the White House Press 
 Secretary, including--
     (1) Communications to Congress;
     (2) Public addresses and remarks;
@@ -1108,26 +1151,20 @@ subjects;
 officials; and
     (5) Fact sheets.
 
+[50 FR 12467, Mar. 28, 1985, as amended at 74 FR 3952, Jan. 21, 2009]
+
 
 <R05>
-Sec. 10.3  Format, indexes, and ancillaries.
+Sec. 10.3  Format.
 
-    (a) The Administrative Committee publishes the paper edition of the 
-Weekly Compilation of Presidential Documents in the binding and style it 
-considers suitable for public and official use.
-    (b) The Administrative Committee publishes the online edition of the 
-Weekly Compilation of Presidential Documents on GPO Access (44 U.S.C. 
-4101).
-    (c) The Weekly Compilation of Presidential Documents is 
-appropriately indexed and contains ancillary information on Presidential 
-activities and documents not carried in full text. In general, ancillary 
-texts, notes and tables are derived from official sources.
+    The Daily Compilation of Presidential Documents is published online 
+on the Government Printing Office access system.
 
-[65 FR 8843, Feb. 23, 2000]
+[74 FR 3952, Jan. 21, 2009]
 
 
 <R04>
-                      Subpart B--Annual Publication
+                      Subpart B_Annual Publication
 
 
 <R05>
@@ -1142,22 +1179,23 @@ the Presidents of the United States''.
 Sec. 10.11  Scope and sources.
 
     The basic text of the Public Papers consists of the documents 
-printed in the ``Weekly Compilation of Presidential Documents''.
+compiled under subpart A of this part.
+
+[74 FR 3952, Jan. 21, 2009]
 
 
 <R05>
 Sec. 10.12  Format, indexes, and ancillaries.
 
     (a) Each publication covers one calendar year, unless procedures 
-require
+require otherwise, and is divided into books according to the amount of 
+material to be included. The publication is published in the binding and 
+style that the Administrative Committee of the Federal Register 
+considers suitable to the dignity of the Office of the President of the 
+United States.
 
 [[Page 14]]
 
-otherwise, and is divided into books according to the amount of material 
-to be included. The publication is published in the binding and style 
-that the Administrative Committee of the Federal Register considers 
-suitable to the dignity of the Office of the President of the United 
-States.
     (b) Each publication is appropriately indexed and contains 
 additional ancillary information and illustrative material respecting 
 significant Presidential documents and activities.
@@ -1175,25 +1213,27 @@ Commission.
 
 
 <R03>
-      SUBCHAPTER D--AVAILABILITY OF OFFICE OF THE FEDERAL REGISTER 
-                              PUBLICATIONS
+SUBCHAPTER D_AVAILABILITY OF OFFICE OF THE FEDERAL REGISTER
+PUBLICATIONS
+
+<R05>
 
 
 <R03>
-PART 11--SUBSCRIPTIONS--Table of Contents
+PART 11_SUBSCRIPTIONS--Table of Contents
 
 <R05>
 
 
 Sec.
-11.1  Subscription by the public.
-11.2  Federal Register.
-11.3  Code of Federal Regulations.
-11.4  The United States Government Manual.
-11.5  Public Papers of the Presidents of the United States.
-11.6  Weekly Compilation of Presidential Documents.
-11.7  Federal Register Index.
-11.8  LSA (List of CFR Sections Affected).
+11.1 Subscription by the public.
+11.2 Federal Register.
+11.3 Code of Federal Regulations.
+11.4 The United States Government Manual.
+11.5 Public Papers of the Presidents of the United States.
+11.6 [Reserved]
+11.7 Federal Register Index.
+11.8 LSA (List of CFR Sections Affected).
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709, 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -1287,20 +1327,7 @@ Administrative Committee.
 
 
 <R05>
-Sec. 11.6  Weekly Compilation of Presidential Documents.
-
-    (a) The subscription price for the paper edition of the Weekly 
-Compilation of Presidential Documents is $113 per year, excluding 
-postage. The prevailing postal rates will be applied to orders according 
-to the delivery method requested. The price of an individual copy is $5, 
-including postage.
-    (b) The online edition of the Weekly Compilation of Presidential 
-Documents, issued under the authority of the Administrative Committee, 
-is available on GPO Access, a service of the Government Printing Office 
-(44 U.S.C. 4101).
-
-[65 FR 8843, Feb. 23, 2000, as amended at 66 FR 44524, Aug. 24, 2001; 69 
-FR 12783, Mar. 18, 2004]
+Sec. 11.6  [Reserved]
 
 
 <R05>
@@ -1326,17 +1353,18 @@ orders according to the delivery method requested.
 
 
 <R03>
-PART 12--OFFICIAL DISTRIBUTION WITHIN FEDERAL GOVERNMENT--Table of Contents
+PART 12_OFFICIAL DISTRIBUTION WITHIN FEDERAL GOVERNMENT--
+Table of Contents
 
 <R05>
 
 
 Sec.
-12.1  Federal Register.
-12.2  Code of Federal Regulations.
-12.3  The United States Government Manual.
-12.4  Weekly Compilation of Presidential Documents.
-12.5  Public Papers of the Presidents of the United States.
+12.1 Federal Register.
+12.2 Code of Federal Regulations.
+12.3 The United States Government Manual.
+12.4 Weekly Compilation of Presidential Documents.
+12.5 Public Papers of the Presidents of the United States.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -1372,9 +1400,6 @@ the alternate, designated under Sec. 16.1 of this chapter, to the
 Director of the Federal Register.
     (b) Requisitions for quantity overruns of specific issues to be paid 
 for by the agency are available as follows:
-
-[[Page 17]]
-
     (1) To meet its needs for special distribution of the Federal 
 Register in substantial quantity, any agency may request an overrun of a 
 specific issue.
@@ -1388,6 +1413,9 @@ paid for by the agency are available as follows:
 Register to be in the public interest, one or more documents may be 
 published as a separate part (e.g., part II, part III) of the Federal 
 Register.
+
+[[Page 17]]
+
     (2) Advance arrangements for this service must be made with the 
 Office of the Federal Register.
     (3) Any agency may request an overrun of such a separate part by 
@@ -1453,9 +1481,6 @@ Register.
 United States will be provided with one copy based on a written request 
 from the Director of the Administrative Office of the U.S. Courts, or 
 authorized delegate, to the Director of the Federal Register.
-
-[[Page 18]]
-
     (5) Executive agencies. Each head of a Federal executive agency and 
 each liaison officer designated under Sec. 16.1 or 20.1 of this chapter 
 will be provided with one copy.
@@ -1467,6 +1492,8 @@ binding requisition to the Government Printing Office on Standard Form
     (c) After the press run, each request for extra copies of the Manual 
 must be addressed to the Superintendent of Documents, to be paid for by 
 the agency making the request.
+
+[[Page 18]]
 
 
 <R05>
@@ -1534,26 +1561,28 @@ agency making the request.
 
 
 <R03>
-   SUBCHAPTER E--PREPARATION, TRANSMITTAL, AND PROCESSING OF DOCUMENTS
-
-
-<R03>
-PART 15--SERVICES TO FEDERAL AGENCIES--Table of Contents
+   SUBCHAPTER E_PREPARATION, TRANSMITTAL, AND PROCESSING OF DOCUMENTS
 
 <R05>
 
 
-                           Subpart A--General
+<R03>
+PART 15_SERVICES TO FEDERAL AGENCIES--Table of Contents
+
+<R05>
+
+
+                            Subpart A_General
 
 Sec.
-15.1  Cooperation.
-15.2  Information services.
-15.3  Staff assistance.
-15.4  Reproduction and certification of copies of acts and documents.
+15.1 Cooperation.
+15.2 Information services.
+15.3 Staff assistance.
+15.4 Reproduction and certification of copies of acts and documents.
 
-                      Subpart B--Special Assistance
+                      Subpart B_Special Assistance
 
-15.10  Information on drafting and publication.
+15.10 Information on drafting and publication.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -1562,7 +1591,7 @@ Sec.
 
 
 <R04>
-                           Subpart A--General
+                            Subpart A_General
 
 
 <R05>
@@ -1608,7 +1637,7 @@ unless funds are appropriated for that purpose.
 
 
 <R04>
-                      Subpart B--Special Assistance
+                      Subpart B_Special Assistance
 
 
 <R05>
@@ -1623,16 +1652,16 @@ technical instruction.
 
 
 <R03>
-PART 16--AGENCY REPRESENTATIVES--Table of Contents
+PART 16_AGENCY REPRESENTATIVES--Table of Contents
 
 <R05>
 
 
 Sec.
-16.1  Designation.
-16.2  Liaison duties.
-16.3  Certifying duties.
-16.4  Authorizing duties.
+16.1 Designation.
+16.2 Liaison duties.
+16.3 Certifying duties.
+16.4 Authorizing duties.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -1690,7 +1719,7 @@ Sec. 16.3  Certifying duties.
     The agency certifying officer is responsible for attaching the 
 required number of true copies of each original document submitted by 
 the agency to the Office of the Federal Register and for making the 
-certification required by Secs. 18.5 and 18.6 of this chapter.
+certification required by Sec. Sec. 18.5 and 18.6 of this chapter.
 
 [54 FR 9679, Mar. 7, 1989]
 
@@ -1708,31 +1737,32 @@ Presidential Documents for official use.
 
 
 <R03>
-PART 17--FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES--Table of Contents
+PART 17_FILING FOR PUBLIC INSPECTION AND PUBLICATION SCHEDULES--
+Table of Contents
 
 <R05>
 
 
 Sec.
 
-                    Subpart A--Receipt and Processing
+                    Subpart A_Receipt and Processing
 
-17.1  Receipt and processing.
+17.1 Receipt and processing.
 
-                       Subpart B--Regular Schedule
+                       Subpart B_Regular Schedule
 
-17.2  Procedure and timing for regular schedule.
+17.2 Procedure and timing for regular schedule.
 
-                      Subpart C--Emergency Schedule
+                      Subpart C_Emergency Schedule
 
-17.3  Criteria for emergency publication.
-17.4  Procedure and timing for emergency publication.
-17.5  Criteria for emergency filing for public inspection.
-17.6  Procedure and timing for emergency filing for public inspection.
+17.3 Criteria for emergency publication.
+17.4 Procedure and timing for emergency publication.
+17.5 Criteria for emergency filing for public inspection.
+17.6 Procedure and timing for emergency filing for public inspection.
 
-                      Subpart D--Deferred Schedule
+                       Subpart D_Deferred Schedule
 
-17.7  Criteria for deferred schedule.
+17.7 Criteria for deferred schedule.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -1741,7 +1771,7 @@ Sec.
 
 
 <R04>
-                    Subpart A--Receipt and Processing
+                    Subpart A_Receipt and Processing
 
 
 <R05>
@@ -1755,7 +1785,7 @@ inspection.
 
 
 <R04>
-                       Subpart B--Regular Schedule
+                       Subpart B_Regular Schedule
 
 
 <R05>
@@ -1805,7 +1835,7 @@ published 3 working days later.
 
 
 <R04>
-                      Subpart C--Emergency Schedule
+                      Subpart C_Emergency Schedule
 
 
 <R05>
@@ -1846,11 +1876,11 @@ documents to be published under the regular, emergency or deferred
 publication schedules. Emergency filing for public inspection provides 
 for the fastest possible public access to a document after it has been 
 received, processed and assigned a publication date. Emergency filing 
-for public inspection is considered a special arrangement under 
-Sec. 17.2 of this part that results in deviation from the regular 
-schedule for filing for public inspection. A document receiving 
-emergency filing for public inspection remains on public inspection 
-until it is published according to the schedule for publication.
+for public inspection is considered a special arrangement under Sec. 
+17.2 of this part that results in deviation from the regular schedule 
+for filing for public inspection. A document receiving emergency filing 
+for public inspection remains on public inspection until it is published 
+according to the schedule for publication.
 
 [54 FR 9680, Mar. 7, 1989]
 
@@ -1875,7 +1905,7 @@ scheduling.
 
 
 <R04>
-                      Subpart D--Deferred Schedule
+                       Subpart D_Deferred Schedule
 
 
 <R05>
@@ -1895,28 +1925,29 @@ FR 23343, May 31, 1989]
 
 
 <R03>
-PART 18--PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY--Table of Contents
+PART 18_PREPARATION AND TRANSMITTAL OF DOCUMENTS GENERALLY--
+Table of Contents
 
 <R05>
 
 
 Sec.
-18.1  Original and copies required.
-18.2  Prohibition on combined category documents.
-18.3  Submission of documents and letters of transmittal.
-18.4  Form of document.
-18.5  Certified copies.
-18.6  Form of certification.
-18.7  Signature.
-18.8  Seal.
-18.9  Style.
-18.10  Illustrations, tabular material, and forms.
-18.12  Preamble requirements.
-18.13  Withdrawal or correction of filed documents.
-18.15  Correction of errors in printing.
-18.16  Reinstatement of expired regulations.
-18.17  Effective dates and time periods.
-18.20  Identification of subjects in agency regulations.
+18.1 Original and copies required.
+18.2 Prohibition on combined category documents.
+18.3 Submission of documents and letters of transmittal.
+18.4 Form of document.
+18.5 Certified copies.
+18.6 Form of certification.
+18.7 Signature.
+18.8 Seal.
+18.9 Style.
+18.10 Illustrations, tabular material, and forms.
+18.12 Preamble requirements.
+18.13 Withdrawal or correction of filed documents.
+18.15 Correction of errors in printing.
+18.16 Reinstatement of expired regulations.
+18.17 Effective dates and time periods.
+18.20 Identification of subjects in agency regulations.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -1930,7 +1961,7 @@ Sec. 18.1  Original and copies required.
     Except as provided in Sec. 19.2 of this subchapter for Executive 
 orders and proclamations, each agency submitting a document to be filed 
 and published in the Federal Register shall send an original and two 
-duplicate originals or certified copies.\1\ However, if the document is 
+duplicate originals or certified copies. \1\ However, if the document is 
 printed or processed on both sides, one of the copies sent by the agency 
 must be a collated, single-sided copy.
 ---------------------------------------------------------------------------
@@ -1982,7 +2013,7 @@ public inspection and publication if it is on
 [[Page 23]]
 
 bond or similar quality paper, legible, and free of adhesive or 
-correction tape.\2\
+correction tape. \2\
 ---------------------------------------------------------------------------
 
     \2\ Agencies with computer processed data are urged to consult with 
@@ -1997,7 +2028,7 @@ Register.
     (c) Original documents submitted by telecommunication and 
 authenticated by digital signatures consistent with applicable Federal 
 standards and Office of the Federal Register technical specifications 
-may be accepted for publication.\3\
+may be accepted for publication. \3\
 ---------------------------------------------------------------------------
 
     \3\ At present, submission of documents by telecommunication is 
@@ -2228,19 +2259,19 @@ Records Administration, Washington, D.C. 20408.
 
 
 <R03>
-PART 19--EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS--Table of Contents
+PART 19_EXECUTIVE ORDERS AND PRESIDENTIAL PROCLAMATIONS--
+Table of Contents
 
 <R05>
 
 
 Sec.
-19.1  Form.
-19.2  Routing and approval of drafts.
-19.3  Routing and certification of originals and copies.
-19.4  Proclamations calling for the observance of special days or 
-          events.
-19.5  Proclamations of treaties excluded.
-19.6  Definition.
+19.1 Form.
+19.2 Routing and approval of drafts.
+19.3 Routing and certification of originals and copies.
+19.4 Proclamations calling for the observance of special days or events.
+19.5 Proclamations of treaties excluded.
+19.6 Definition.
 
     Authority: Secs. 1 to 6 of E.O. 11030, 27 FR 5847, 3 CFR, 1959-1963 
 Comp., p. 610; E.O. 11354, 32 FR 7695, 3 CFR, 1966-1970 Comp., p. 652; 
@@ -2276,7 +2307,7 @@ in the publication process.
 ---------------------------------------------------------------------------
 
     (f) Proposed Executive orders and proclamations shall be typewritten 
-on paper approximately 8 x 13 inches, shall have a left-hand margin of 
+on paper approximately 8x13 inches, shall have a left-hand margin of 
 approximately 1\1/2\ inches and a right-hand margin of approximately 1 
 inch, and shall be double-spaced except that quotations, tabulations, 
 and descriptions of land may be single-spaced.
@@ -2376,22 +2407,23 @@ thereto as are referred to in the respective proclamations or orders.
 
 
 <R03>
-PART 20--HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS--Table of Contents
+PART 20_HANDLING OF THE UNITED STATES GOVERNMENT MANUAL STATEMENTS--
+Table of Contents
 
 <R05>
 
 
 Sec.
-20.1  Liaison officers.
-20.2  Preparation of agency statements.
-20.3  Organization.
-20.4  Description of program activities.
-20.5  Sources of information.
-20.6  Form, style, arrangement and apportionment of space.
+20.1 Liaison officers.
+20.2 Preparation of agency statements.
+20.3 Organization.
+20.4 Description of program activities.
+20.5 Sources of information.
+20.6 Form, style, arrangement and apportionment of space.
 
 [[Page 27]]
 
-20.7  Deadline dates.
+20.7 Deadline dates.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -2407,8 +2439,9 @@ liaison with the Office on matters relating to The United States
 Government Manual:
     (1) Agencies of the legislative and judicial branches.
     (2) Executive agencies that do not have a liaison officer designated 
-under Sec. 16.1 of this chapter or who wish to appoint a liaison officer 
-for Manual matters other than the one designated under such Sec. 16.1.
+under Sec. 16.1 of this chapter or who wish to appoint a liaison 
+officer for Manual matters other than the one designated under such 
+Sec. 16.1.
     (3) Quasi-official agencies represented in the Manual.
     (4) Any other agency that the Director believes should be included 
 in the Manual.
@@ -2422,9 +2455,9 @@ FR 9682, Mar. 7, 1989]
 <R05>
 Sec. 20.2  Preparation of agency statements.
 
-    In accordance with schedules established under Sec. 20.7 each agency 
-shall submit for publication in the Manual an official draft of the 
-information required by Sec. 9.2 of this chapter and this part 20.
+    In accordance with schedules established under Sec. 20.7 each 
+agency shall submit for publication in the Manual an official draft of 
+the information required by Sec. 9.2 of this chapter and this part 20.
 
 
 <R05>
@@ -2494,71 +2527,72 @@ have a right to expect in a particular edition of the Manual.
 
 
 <R03>
-PART 21--PREPARATION OF DOCUMENTS SUBJECT TO CODIFICATION--Table of Contents
+PART 21_PREPARATION OF DOCUMENTS SUBJECT TO CODIFICATION--
+Table of Contents
 
 <R05>
 
 
-                           Subpart A--General
+                            Subpart A_General
 
 Sec.
-21.1  Drafting.
-21.6  Notice of expiration of codified material.
+21.1 Drafting.
+21.6 Notice of expiration of codified material.
 
                              Code Structure
 
-21.7  Titles and subtitles.
-21.8  Chapters and subchapters.
-21.9  Parts, subparts, and undesignated center heads.
-21.10  Sections.
+21.7 Titles and subtitles.
+21.8 Chapters and subchapters.
+21.9 Parts, subparts, and undesignated center heads.
+21.10 Sections.
 
                                 Numbering
 
-21.11  Standard organization of the Code of Federal Regulations.
-21.12  Reservation of numbers.
-21.14  Deviations from standard organization of the Code of Federal 
+21.11 Standard organization of the Code of Federal Regulations.
+21.12 Reservation of numbers.
+21.14 Deviations from standard organization of the Code of Federal 
           Regulations.
 
                                 Headings
 
-21.16  Required document headings.
-21.18  Tables of contents.
-21.19  Composition of part headings.
+21.16 Required document headings.
+21.18 Tables of contents.
+21.19 Composition of part headings.
 
                                Amendments
 
-21.20  General requirements.
+21.20 General requirements.
 
                                References
 
-21.21  General requirements: References.
-21.23  Parallel citations of Code and Federal Register.
-21.24  References to 1938 edition of Code.
+21.21 General requirements: References.
+21.23 Parallel citations of Code and Federal Register.
+21.24 References to 1938 edition of Code.
 
                         Effective Date Statement
 
-21.30  General.
+21.30 General.
 
                            OMB Control Numbers
 
-21.35  OMB control numbers.
+21.35 OMB control numbers.
 
-                    Subpart B--Citations of Authority
+                    Subpart B_Citations of Authority
 
-21.40  General requirements: Authority citations.
-21.41  Agency responsibility.
-21.42  Exceptions.
+21.40 General requirements: Authority citations.
+21.41 Agency responsibility.
+21.42 Exceptions.
 
                                 Placement
 
-21.43  Placing and amending authority citations.
-21.45  Nonstatutory authority.
+21.43 Placing and amending authority citations.
+21.45 Nonstatutory authority.
 
                                   Form
 
-21.51  General.
-21.52  Statutory material.
-21.53  Nonstatutory materials.
+21.51 General.
+21.52 Statutory material.
+21.53 Nonstatutory materials.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -2567,7 +2601,7 @@ Sec.
 
 
 <R04>
-                           Subpart A--General
+                            Subpart A_General
 
 
 <R05>
@@ -2668,12 +2702,12 @@ the number of the section. For example, the section number for section
 15 of part 21 is ``Sec. 21.15''; and
     (h) Paragraphs, which are designated as follows:
 
-level 1  (a), (b), (c), etc.
-level 2  (1), (2), (3), etc.
-level 3  (i), (ii), (iii), etc.
-level 4  (A), (B), (C), etc.
-level 5  (1), (2), (3), etc.
-level 6  (i), (ii), (iii), etc.
+level 1 (a), (b), (c), etc.
+level 2 (1), (2), (3), etc.
+level 3 (i), (ii), (iii), etc.
+level 4 (A), (B), (C), etc.
+level 5 (1), (2), (3), etc.
+level 6 (i), (ii), (iii), etc.
 
 [54 FR 9682, Mar. 7, 1989; 54 FR 23343, May 31, 1989]
 
@@ -2689,7 +2723,8 @@ expansion.
 
 
 <R05>
-Sec. 21.14  Deviations from standard organization of the Code of Federal Regulations.
+Sec. 21.14  Deviations from standard organization of the 
+Code of Federal Regulations.
 
     (a) Any deviation from standard Code of Federal Regulations 
 designations must be approved in advance by the Office of the Federal 
@@ -2801,8 +2836,8 @@ Sec. 21.23  Parallel citations of Code and Federal Register.
     For parallel reference, the Code of Federal Regulations and the 
 Federal Register may be cited in the following forms, as appropriate:
 
-    ------ CFR ------ (------ FR ------). Sec. ---- of this chapter (--
----- FR ------).
+    ------ CFR ------ (------ FR ------). Sec. ------ of this chapter 
+(------ FR ------).
 
 
 <R05>
@@ -2842,7 +2877,7 @@ in a table or codified section.
 
 
 <R04>
-                    Subpart B--Citations of Authority
+                    Subpart B_Citations of Authority
 
 
 <R05>
@@ -2946,7 +2981,7 @@ United States Code, whether or not enacted into positive law, may be
 cited without Public Law or U.S. Statutes at Large citation. For 
 example:
 
-    Authority: 10 U.S.C. 501.
+    Authority:  10 U.S.C. 501.
 
     (b) Public Laws and U.S. Statutes at Large. Citations to Public Laws 
 and U.S. Statutes at Large are optional when the United States Code is 
@@ -2976,22 +3011,22 @@ citation to the Code of Federal Regulations. For example:
 
 
 <R03>
-PART 22--PREPARATION OF NOTICES AND PROPOSED RULES--Table of Contents
+PART 22_PREPARATION OF NOTICES AND PROPOSED RULES--Table of Contents
 
 <R05>
 
 
-                           Subpart A--Notices
+                            Subpart A_Notices
 
 Sec.
-22.1  Name of issuing agency and subdivision.
-22.2  Authority citation.
+22.1 Name of issuing agency and subdivision.
+22.2 Authority citation.
 
-                        Subpart B--Proposed Rules
+                        Subpart B_Proposed Rules
 
-22.5  General requirements.
-22.6  Code designation.
-22.7  Codification.
+22.5 General requirements.
+22.6 Code designation.
+22.7 Codification.
 
     Authority: 44 U.S.C. 1506; sec. 6, E.O. 10530, 19 FR 2709; 3 CFR, 
 1954-1958 Comp., p. 189.
@@ -3000,7 +3035,7 @@ Sec.
 
 
 <R04>
-                           Subpart A--Notices
+                            Subpart A_Notices
 
 
 <R05>
@@ -3029,7 +3064,7 @@ following text.
 
 
 <R04>
-                        Subpart B--Proposed Rules
+                        Subpart B_Proposed Rules
 
 
 <R05>
@@ -3089,18 +3124,18 @@ Part                                                                Page
 
 
 <R03>
-PART 51--INCORPORATION BY REFERENCE--Table of Contents
+PART 51_INCORPORATION BY REFERENCE--Table of Contents
 
 <R05>
 
 
 Sec.
-51.1  Policy.
-51.3  When will the Director approve a publication?
-51.5  How does an agency request approval?
-51.7  What publications are eligible?
-51.9  What is the proper language of incorporation?
-51.11  How does an agency change or remove an approved incorporation?
+51.1 Policy.
+51.3 When will the Director approve a publication?
+51.5 How does an agency request approval?
+51.7 What publications are eligible?
+51.9 What is the proper language of incorporation?
+51.11 How does an agency change or remove an approved incorporation?
 
     Authority: 5 U.S.C. 552(a).
 
@@ -3239,7 +3274,7 @@ regulations is approved by the Director of the Federal Register as of --
 ----.
 
     (2) Includes the term ``incorporation by reference'' in the list of 
-index terms (See 1 CFR 18.20  Identification of subjects in agency 
+index terms (See 1 CFR 18.20 Identification of subjects in agency 
 regulations).
 
 
@@ -3304,19 +3339,20 @@ Part                                                                Page
 
 
 <R03>
-PART 425--PRESIDENT'S COMMISSION ON WHITE HOUSE FELLOWSHIPS--Table of Contents
+PART 425_PRESIDENT'S COMMISSION ON WHITE HOUSE FELLOWSHIPS--
+Table of Contents
 
 <R05>
 
 
 Sec.
-425.1  Purpose and scope.
-425.2  Procedures for notification of existence of records pertaining to 
+425.1 Purpose and scope.
+425.2 Procedures for notification of existence of records pertaining to 
           individuals.
-425.3  Procedure for requests for access to or disclosure of records 
+425.3 Procedure for requests for access to or disclosure of records 
           pertaining to individuals.
-425.4  Correction of records.
-425.5  Disclosure of records to agencies or persons other than the 
+425.4 Correction of records.
+425.5 Disclosure of records to agencies or persons other than the 
           individual to whom the record pertains.
 
     Authority: 5 U.S.C. 552a(f).
@@ -3336,7 +3372,8 @@ Instructions.
 
 
 <R05>
-Sec. 425.2  Procedures for notification of existence of records pertaining to individuals.
+Sec. 425.2  Procedures for notification of existence of records 
+pertaining to individuals.
 
     (a) The system of records, as defined in the Privacy Act of 1974, 
 maintained by the President's Commission on White House Fellowships is 
@@ -3367,7 +3404,8 @@ FR 59187, Dec. 22, 1975]
 
 
 <R05>
-Sec. 425.3  Procedure for requests for access to or disclosure of records pertaining to individuals.
+Sec. 425.3  Procedure for requests for access to or disclosure of 
+records pertaining to individuals.
 
     (a) Any person may request review of records pertaining to him by 
 appearing at Room 1308, 1900 E Street, NW., Washington, DC on work days 
@@ -3480,7 +3518,8 @@ amend the record, pursuant to 5 U.S.C. 552a(g)(1)(A).
 
 
 <R05>
-Sec. 425.5  Disclosure of records to agencies or persons other than the individual to whom the record pertains.
+Sec. 425.5  Disclosure of records to agencies or persons other than 
+the individual to whom the record pertains.
 
     Records subject to the Privacy Act that are requested by any person 
 other than the individual to whom they pertain will not be made 
@@ -3498,29 +3537,30 @@ FR 59187, Dec. 22, 1975]
 
 
 <R03>
-PART 455--NATIONAL CAPITAL PLANNING COMMISSION (PRIVACY ACT REGULATIONS)--Table of Contents
+PART 455_NATIONAL CAPITAL PLANNING COMMISSION 
+(PRIVACY ACT REGULATIONS)--Table of Contents
 
 <R05>
 
 
 Sec.
-455.1  Purpose and scope.
-455.2  Definitions.
-455.3  Procedures for requests pertaining to individual records in a 
+455.1 Purpose and scope.
+455.2 Definitions.
+455.3 Procedures for requests pertaining to individual records in a 
           record system.
-455.4  Times, places, and requirements for identification of individuals 
+455.4 Times, places, and requirements for identification of individuals 
           making requests.
-455.5  Disclosure of requested information to individuals.
-455.6  Request for correction or amendment to the record.
-455.7  Agency review of request for correction or amendment of the 
+455.5 Disclosure of requested information to individuals.
+455.6 Request for correction or amendment to the record.
+455.7 Agency review of request for correction or amendment of the 
           record.
-455.8  Appeal of an initial adverse agency determination on correction 
-          or amendment of the record.
-455.9  Disclosure of record to a person other than the individual to 
-          whom the record pertains.
-455.10  Fees.
-455.11  Penalties.
-455.12  Exemptions.
+455.8 Appeal of an initial adverse agency determination on correction or 
+          amendment of the record.
+455.9 Disclosure of record to a person other than the individual to whom 
+          the record pertains.
+455.10 Fees.
+455.11 Penalties.
+455.12 Exemptions.
 
     Authority: 5 U.S.C. 552a.
 
@@ -3561,7 +3601,8 @@ the purpose for which it was collected.
 
 
 <R05>
-Sec. 455.3  Procedures for requests pertaining to individual records in a record system.
+Sec. 455.3  Procedures for requests pertaining to individual records
+in a record system.
 
     (a) An individual who wishes to know whether a system of records 
 maintained by the Commission contains a
@@ -3581,7 +3622,8 @@ record through the mail.
 
 
 <R05>
-Sec. 455.4  Times, places, and requirements for identification of individuals making requests.
+Sec. 455.4  Times, places, and requirements for identification of 
+individuals making requests.
 
     (a) An individual who, in accord with Sec. 455.3(b) of this part 
 indicated that he or she would appear personally shall do so at the 
@@ -3622,7 +3664,8 @@ sought to be amended and specific reasons therefor.
 
 
 <R05>
-Sec. 455.7  Agency review of request for correction or amendment of the record.
+Sec. 455.7  Agency review of request for correction or amendment 
+of the record.
 
     Within ten days of the receipt of the request to correct or to amend 
 the record, the System Manager will acknowledge in writing such receipt 
@@ -3636,7 +3679,8 @@ review of that refusal.
 
 
 <R05>
-Sec. 455.8  Appeal of an initial adverse agency determination on correction or amendment of the record.
+Sec. 455.8  Appeal of an initial adverse agency determination on 
+correction or amendment of the record.
 
     An individual who disagrees with the refusal of the System Manager 
 to correct or to amend his or her record may submit a request for a 
@@ -3657,7 +3701,8 @@ of the Chairman's determination under 5 U.S.C. 552a(g)(1)(A).
 
 
 <R05>
-Sec. 455.9  Disclosure of record to a person other than the individual to whom the record pertains.
+Sec. 455.9  Disclosure of record to a person other than the individual
+to whom the record pertains.
 
     An individual to whom a record is to be disclosed in person may have 
 a person of his or her own choosing accompany the individual when the 
@@ -3707,16 +3752,17 @@ and (k).
 
 
 <R03>
-PART 456--NATIONAL CAPITAL PLANNING COMMISSION (FREEDOM OF INFORMATION ACT REGULATIONS)--Table of Contents
+PART 456_NATIONAL CAPITAL PLANNING COMMISSION 
+(FREEDOM OF INFORMATION ACT REGULATIONS)--Table of Contents
 
 <R05>
 
 
 Sec.
-456.1  Introduction.
-456.2  Organization.
-456.3  Definitions.
-456.4  Public access to information.
+456.1 Introduction.
+456.2 Organization.
+456.3 Definitions.
+456.4 Public access to information.
 
     Authority: 5 U.S.C. 552, as amended.
 
@@ -3941,8 +3987,8 @@ fees for the production of information pursuant to the Act:
     (v) Transcripts of Commission meetings and Committee meetings--
 $0.25/page.
     (vi) Other records--$0.25/page.
-    (vii) Map publications--microfilm printout--$1.00/each; ozalid maps-
--$0.30/linear foot.
+    (vii) Map publications--microfilm printout--$1.00/each; ozalid 
+maps--$0.30/linear foot.
     (viii) Manual record research: $2.25 per quarter hour if conducted 
 by a clerical employee; $5.00 per quarter hour if conducted by a 
 professional or managerial employee. The Commission may charge for 
@@ -4002,9 +4048,9 @@ disclosure of the information is in the public interest because it is
 likely to contribute significantly to public understanding of the 
 operations or activities of the government and it is not primarily in 
 the commercial interest of the requester.
-    (5) In deciding whether a fee waiver or reduction under 
-Sec. 456.4(j)(4) is justified, the Commission will consider the 
-following factors:
+    (5) In deciding whether a fee waiver or reduction under Sec. 
+456.4(j)(4) is justified, the Commission will consider the following 
+factors:
     (i) The subject of the request: Whether the subject of the requested 
 records concerns ``the operations or activities of the Government'';
     (ii) The informative value of the information to be disclosed: 
@@ -4068,31 +4114,34 @@ the Treasurer of the United States.
 
 
 <R03>
-PART 457--ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING COMMISSION--Table of Contents
+PART 457_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN
+PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL CAPITAL PLANNING 
+
+COMMISSION--Table of Contents
 
 <R05>
 
 
 Sec.
-457.101  Purpose.
-457.102  Application.
-457.103  Definitions.
-457.104-457.109  [Reserved]
-457.110  Self-evaluation.
-457.111  Notice.
-457.112-457.129  [Reserved]
-457.130  General prohibitions against discrimination.
-457.131-457.139  [Reserved]
-457.140  Employment.
-457.141-457.148  [Reserved]
-457.149  Program accessibility: Discrimination prohibited.
-457.150  Program accessibility: Existing facilities.
-457.151  Program accessibility: New construction and alterations.
-457.152-457.159  [Reserved]
-457.160  Communications.
-457.161-457.169  [Reserved]
-457.170  Compliance procedures.
-457.171-457.999  [Reserved]
+457.101 Purpose.
+457.102 Application.
+457.103 Definitions.
+457.104-457.109 [Reserved]
+457.110 Self-evaluation.
+457.111 Notice.
+457.112-457.129 [Reserved]
+457.130 General prohibitions against discrimination.
+457.131-457.139 [Reserved]
+457.140 Employment.
+457.141-457.148 [Reserved]
+457.149 Program accessibility: Discrimination prohibited.
+457.150 Program accessibility: Existing facilities.
+457.151 Program accessibility: New construction and alterations.
+457.152-457.159 [Reserved]
+457.160 Communications.
+457.161-457.169 [Reserved]
+457.170 Compliance procedures.
+457.171-457.999 [Reserved]
 
     Authority: 29 U.S.C. 794.
 
@@ -4225,7 +4274,7 @@ a permanent alteration.
 
 
 <R05>
-Secs. 457.104-457.109  [Reserved]
+Sec. Sec. 457.104-457.109  [Reserved]
 
 
 <R05>
@@ -4260,7 +4309,7 @@ discrimination assured them by section 504 and this regulation.
 
 
 <R05>
-Secs. 457.112-457.129  [Reserved]
+Sec. Sec. 457.112-457.129  [Reserved]
 
 
 <R05>
@@ -4336,7 +4385,7 @@ persons.
 
 
 <R05>
-Secs. 457.131-457.139  [Reserved]
+Sec. Sec. 457.131-457.139  [Reserved]
 
 
 <R05>
@@ -4352,7 +4401,7 @@ activities.
 
 
 <R05>
-Secs. 457.141-457.148  [Reserved]
+Sec. Sec. 457.141-457.148  [Reserved]
 
 
 <R05>
@@ -4416,11 +4465,11 @@ meeting the requirements of this section, the agency shall give priority
 to those methods that offer programs and activities to qualified 
 handicapped persons in the most integrated setting appropriate.
     (2) Historic preservation programs. In meeting the requirements of 
-Sec. 457.150(a) in historic preservation programs, the agency shall give 
-priority to methods that provide physical access to handicapped persons. 
-In cases where a physical alteration to an historic property is not 
-required because of Sec. 457.150(a)(2) or (a)(3), alternative methods of 
-achieving program accessibility include--
+Sec. 457.150(a) in historic preservation programs, the agency shall 
+give priority to methods that provide physical access to handicapped 
+persons. In cases where a physical alteration to an historic property is 
+not required because of Sec. 457.150(a)(2) or (a)(3), alternative 
+methods of achieving program accessibility include--
     (i) Using audio-visual materials and devices to depict those 
 portions of an historic property that cannot otherwise be made 
 accessible;
@@ -4470,7 +4519,7 @@ section.
 
 
 <R05>
-Secs. 457.152-457.159  [Reserved]
+Sec. Sec. 457.152-457.159  [Reserved]
 
 
 <R05>
@@ -4507,22 +4556,22 @@ nature of a program or activity or in undue financial and administrative
 burdens. In those circumstances where agency personnel believe that the 
 proposed action would fundamentally alter the program or activity or 
 would result in undue financial and administrative burdens, the agency 
-has the burden of proving that compliance with Sec. 457.160 would result 
-in such alteration or burdens. The decision that compliance would result 
-in such alteration or burdens must be made by the agency head or his or 
-her designee after considering all agency resources available for use in 
-the funding and operation of the conducted program or activity, and must 
-be accompanied by a written statement of the reasons for reaching that 
-conclusion. If an action required to comply with this section would 
-result in such an alteration or such burdens, the agency shall take any 
-other action that would not result in such an alteration or such burdens 
-but would nevertheless ensure that, to the maximum extent possible, 
-handicapped persons receive the benefits and services of the program or 
-activity.
+has the burden of proving that compliance with Sec. 457.160 would 
+result in such alteration or burdens. The decision that compliance would 
+result in such alteration or burdens must be made by the agency head or 
+his or her designee after considering all agency resources available for 
+use in the funding and operation of the conducted program or activity, 
+and must be accompanied by a written statement of the reasons for 
+reaching that conclusion. If an action required to comply with this 
+section would result in such an alteration or such burdens, the agency 
+shall take any other action that would not result in such an alteration 
+or such burdens but would nevertheless ensure that, to the maximum 
+extent possible, handicapped persons receive the benefits and services 
+of the program or activity.
 
 
 <R05>
-Secs. 457.161-457.169  [Reserved]
+Sec. Sec. 457.161-457.169  [Reserved]
 
 
 <R05>
@@ -4587,35 +4636,38 @@ making the final determination may not be delegated to another agency.
 
 
 <R05>
-Secs. 457.171-457.999  [Reserved]
+Sec. Sec. 457.171-457.999  [Reserved]
 
 
 <R03>
-PART 500--ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR EMPLOYMENT POLICY--Table of Contents
+PART 500_ENFORCEMENT OF NONDISCRIMINATION ON THE BASIS OF HANDICAP
+IN PROGRAMS OR ACTIVITIES CONDUCTED BY THE NATIONAL COMMISSION FOR 
+
+EMPLOYMENT POLICY--Table of Contents
 
 <R05>
 
 
 Sec.
-500.101  Purpose.
-500.102  Application.
-500.103  Definitions.
-500.104-500.109  [Reserved]
-500.110  Self-evaluation.
-500.111  Notice.
-500.112-500.129  [Reserved]
-500.130  General prohibitions against discrimination.
-500.131-500.139  [Reserved]
-500.140  Employment.
-500.141-500.148  [Reserved]
-500.149  Program accessibility: Discrimination prohibited.
-500.150  Program accessibility: Existing facilities.
-500.151  Program accessibility: New construction and alterations.
-500.152-500.159  [Reserved]
-500.160  Communications.
-500.161-500.169  [Reserved]
-500.170  Compliance procedures.
-500.171-500.999  [Reserved]
+500.101 Purpose.
+500.102 Application.
+500.103 Definitions.
+500.104-500.109 [Reserved]
+500.110 Self-evaluation.
+500.111 Notice.
+500.112-500.129 [Reserved]
+500.130 General prohibitions against discrimination.
+500.131-500.139 [Reserved]
+500.140 Employment.
+500.141-500.148 [Reserved]
+500.149 Program accessibility: Discrimination prohibited.
+500.150 Program accessibility: Existing facilities.
+500.151 Program accessibility: New construction and alterations.
+500.152-500.159 [Reserved]
+500.160 Communications.
+500.161-500.169 [Reserved]
+500.170 Compliance procedures.
+500.171-500.999 [Reserved]
 
     Authority: 29 U.S.C. 794.
 
@@ -4747,7 +4799,7 @@ a permanent alteration.
 
 
 <R05>
-Secs. 500.104-500.109  [Reserved]
+Sec. Sec. 500.104-500.109  [Reserved]
 
 
 <R05>
@@ -4782,7 +4834,7 @@ discrimination assured them by section 504 and this regulation.
 
 
 <R05>
-Secs. 500.112-500.129  [Reserved]
+Sec. Sec. 500.112-500.129  [Reserved]
 
 
 <R05>
@@ -4857,7 +4909,7 @@ persons.
 
 
 <R05>
-Secs. 500.131-500.139  [Reserved]
+Sec. Sec. 500.131-500.139  [Reserved]
 
 
 <R05>
@@ -4873,7 +4925,7 @@ activities.
 
 
 <R05>
-Secs. 500.141-500.148  [Reserved]
+Sec. Sec. 500.141-500.148  [Reserved]
 
 
 <R05>
@@ -4937,11 +4989,11 @@ meeting the requirements of this section, the agency shall give priority
 to those methods that offer programs and activities to qualified 
 handicapped persons in the most integrated setting appropriate.
     (2) Historic preservation programs. In meeting the requirements of 
-Sec. 500.150(a) in historic preservation programs, the agency shall give 
-priority to methods that provide physical access to handicapped persons. 
-In cases where a physical alteration to an historic property is not 
-required because of Sec. 500.150(a)(2) or (a)(3), alternative methods of 
-achieving program accessibility include--
+Sec. 500.150(a) in historic preservation programs, the agency shall 
+give priority to methods that provide physical access to handicapped 
+persons. In cases where a physical alteration to an historic property is 
+not required because of Sec. 500.150(a)(2) or (a)(3), alternative 
+methods of achieving program accessibility include--
     (i) Using audio-visual materials and devices to depict those 
 portions of an historic property that cannot otherwise be made 
 accessible;
@@ -4992,7 +5044,7 @@ section.
 
 
 <R05>
-Secs. 500.152-500.159  [Reserved]
+Sec. Sec. 500.152-500.159  [Reserved]
 
 
 <R05>
@@ -5029,22 +5081,22 @@ nature of a program or activity or in undue financial and adminstrative
 burdens. In those circumstances where agency personnel believe that the 
 proposed action would fundamentally alter the program or activity or 
 would result in undue financial and administrative burdens, the agency 
-has the burden of proving that compliance with Sec. 500.160 would result 
-in such alteration or burdens. The decision that compliance would result 
-in such alteration or burdens must be made by the agency head or his or 
-her designee after considering all agency resources available for use in 
-the funding and operation of the conducted program or activity, and must 
-be accompanied by a written statement of the reasons for reaching that 
-conclusion. If an action required to comply with this section would 
-result in such an alteration or such burdens, the agency shall take any 
-other action that would not result in such an alteration or such burdens 
-but would nevertheless ensure that, to the maximum extent possible, 
-handicapped persons receive the benefits and services of the program or 
-activity.
+has the burden of proving that compliance with Sec. 500.160 would 
+result in such alteration or burdens. The decision that compliance would 
+result in such alteration or burdens must be made by the agency head or 
+his or her designee after considering all agency resources available for 
+use in the funding and operation of the conducted program or activity, 
+and must be accompanied by a written statement of the reasons for 
+reaching that conclusion. If an action required to comply with this 
+section would result in such an alteration or such burdens, the agency 
+shall take any other action that would not result in such an alteration 
+or such burdens but would nevertheless ensure that, to the maximum 
+extent possible, handicapped persons receive the benefits and services 
+of the program or activity.
 
 
 <R05>
-Secs. 500.161-500.169  [Reserved]
+Sec. Sec. 500.161-500.169  [Reserved]
 
 
 <R05>
@@ -5109,8 +5161,7 @@ making the final determination may not be delegated to another agency.
 
 
 <R05>
-Secs. 500.171-500.999  [Reserved]
-
+Sec. Sec. 500.171-500.999  [Reserved]
 
 [[Page 63]]
 
@@ -5128,400 +5179,11 @@ an alphabetical list of agencies publishing in the CFR are included in
 the CFR Index and Finding Aids volume to the Code of Federal Regulations 
 which is published separately and revised annually.
 
-  Chapter I--Index
   Table of CFR Titles and Chapters
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
 [[Page 65]]
-
-                            CHAPTER I--INDEX
-
-Editorial Note: This listing is provided for information purposes only. 
-It is compiled and kept up-to-date by the Office of the Federal 
-Register.
-Action, preamble caption, Sec. 18.12
-
-Addresses, preamble caption, Sec. 18.12
-
-Administrative Committee of the Federal Register, Secs. 1.1, 2.2
-
-Agency
-  Definition, Sec. 1.1
-  Preamble caption, Sec. 18.12
-
-Agency representatives
-  Code of Federal Regulations, Sec. 16.4
-  Federal Register, Part 16
-  United States Government Manual, Sec. 20.1
-  Weekly Compilation of Presidential Documents, Sec. 16.4
-
-Agency services, Part 15
-
-Amendatory language, Secs. 21.1, 21.20
-
-Authority citations, Secs. 21.40--21.53, 22.2, 22.5
-  Parallel table of authorities and rules, Sec. 8.5
-
-Authorizing officers
-  See Agency representatives.
-
-Capitalization, Secs. 18.9, 19.1
-
-Categories of documents, Sec. 5.9
-
-Certification of reproductions of acts and documents, Secs. 3.3, 15.4
-
-Certified copies of agency documents, Secs. 18.1, 18.5, 18.6
-
-Certifying officers
-  See Agency representatives.
-
-Citation format
-  Code of Federal Regulations, Secs. 8.9, 21.23, 21.24
-  Federal Register, Sec. 5.8
-
-Classification of documents, Sec. 5.9
-
-Code of Federal Regulations
-  Authority citations, Secs. 21.40--21.53
-  Citation format, Secs. 8.9, 21.23, 21.24
-  Codification system, Sec. 8.2, Part 21, Sec. 22.7
-  Cutoff dates for amendments, Sec. 8.3
-  Distribution, Sec. 12.2
-  Editorial assistance, Part 15
-  Expired material, reinstatement, Sec. 18.16
-  Expired material, removal, Sec. 21.6
-  Incorporation by reference. See Part 51, Ch. II.
-  Indexes, Secs. 8.4, 8.5
-  OMB control numbers, Sec. 21.35
-  Part headings, Secs. 21.18, 21.19
-  Publication policy, Part 8
-  References, Secs. 21.21, 21.23, 21.24
-  Subscriptions, Sec. 11.3
-  Updating of volumes, Sec. 8.3
-
-Codification system, Sec. 8.2, Part 21, Sec. 22.7
-
-Combined documents, prohibition, Sec. 18.2
-
-Congressional laws
-  See Public Laws.
-
-Consultation services
-  See Agency services.
-
-Corrections, Secs. 18.13, 18.15
-
-Cross references
-  See References in documents subject to codification.
-
-Dates, preamble caption, Sec. 18.12
-  See also Effective dates
-
-Deadlines
-  Code of Federal Regulations amendments, Sec. 8.3
-  United States Government Manual, Sec. 20.7
-
-Definitions, Sec. 1.1
-
-Distribution
-  See also Subscriptions
-  Agency representatives, responsibility, Sec. 16.4
-  Code of Federal Regulations, Sec. 12.2
-  Federal Register, Secs. 5.7, 12.1
-  Presidential papers, Secs. 12.4, 12.5
-  United States Government Manual, Sec. 12.3
-
-Documents
-  Authority citations, Secs. 21.40--21.53, 22.2, 22.5
-
-[[Page 66]]
-
-  Categories, Sec. 5.9
-  Certified copies, Secs. 18.1, 18.5, 18.6
-  Code of Federal Regulations references, Secs. 21.21, 21.23, 21.24
-  Codification system, Sec. 8.2, Part 21, Sec. 22.7
-  Combined documents, prohibition, Sec. 18.2
-  Corrections, Secs. 18.13, 18.15
-  Definition, Sec. 1.1
-  Editorial assistance, Part 15
-  Effective dates, Secs. 18.12, 18.17, 21.30
-  Filing for public inspection, Secs. 1.1, 3.2, 5.2, Part 17, Part 18
-  Format, Part 18
-  Headings, Secs. 21.16--21.19
-  Illustrations, tables, and forms, Sec. 18.10
-  Legibility, Secs. 18.4, 18.5, 18.10
-  Notices, format, Part 22
-  OMB control numbers, Sec. 21.35
-  Preamble requirements, Sec. 18.12
-  Preparation and transmittal, Part 18
-  Proposed rules, format, Part 22
-  Public inspection, Sec. 3.2
-  Publication not authorized, Sec. 5.4
-  Publication policy, Part 5
-  Reproduction and certification of copies, Secs. 3.3, 15.4
-  Rules and regulations, format, Part 21
-  Scheduling, Part 17
-  Signatures, Sec. 18.7
-  Style, Sec. 18.9
-  Thesaurus terms, identification, Sec. 18.20
-  Withdrawal or correction of material filed with Federal Register 
-    Office, Sec. 18.13
-
-Editorial assistance, Part 15
-
-Effective dates, Secs. 18.12, 18.17, 21.30
-
-Emergency requests
-  Filing for public inspection, Secs. 17.5, 17.6
-  Publication, Secs. 17.3, 17.4
-
-Errors
-  See Corrections.
-
-Executive Orders
-  See Presidential documents.
-
-Expiration of regulations, Secs. 18.16, 21.6
-
-Extra copies, Part 12
-  See also Overruns
-
-Federal Register
-  Agency representatives, Part 16
-  Categories of documents, Sec. 5.9
-  Citation format, Sec. 5.8
-  Codification system, Part 21
-  Corrections, Secs. 18.13, 18.15
-  Distribution, Secs. 5.7, 12.1
-  Documents, publication not authorized, Sec. 5.4
-  Documents, publication policy, Part 5
-  Editorial assistance, Part 15
-  Emergency filing requests, Secs. 17.5, 17.6
-  Emergency publication requests, Secs. 17.3, 17.4
-  Incorporation by reference. See Part 51, Ch. II.
-  Indexes, Part 6
-  Overruns and extra copies, Sec. 12.1
-  Preparation and transmittal of documents, Part 18
-  Public inspection of documents, Sec. 3.2
-  Publication policy, Part 5
-  Publication schedules, Part 17
-  Subscriptions, Secs. 11.1, 11.2
-  Thesaurus terms, identification, Sec. 18.20
-  Unrestricted use of materials, Sec. 2.6
-  Withdrawal or correction of documents on file, Sec. 18.13
-
-Federal Register Office
-  Agency services, Part 15
-  Authority of Director, Secs. 2.4, 5.3
-  Certification of reproductions of acts and documents, Secs. 3.3, 15.4
-  Information services, Part 3
-  Location and office hours, Sec. 2.3
-
-Filing of documents for public inspection, Secs. 1.1, 3.2, 5.2, Part 17, 
-    Part 18
-
-Final rules
-  See Rules and regulations.
-
-Finding aids
-  See Indexes.
-
-For Further Information Contact, preamble caption, Sec. 18.12
-
-Forms, publication, Sec. 18.10
-
-Government Manual
-  See United States Government Manual.
-
-Government Printing Office
-
-[[Page 67]]
-
-  See also Distribution; Subscriptions.
-  Style manual, Secs. 18.9, 19.1, 20.6
-
-Headings, Secs. 21.16--21.19
-
-Illustrations, tables, and forms, Sec. 18.10
-
-Incorporation by reference. See Part 51, Ch. II.
-
-Indexes
-  Code of Federal Regulations, Secs. 8.4, 8.5
-  Federal Register, Part 6, Secs. 11.2, 11.7
-  List of CFR Sections Affected, Secs. 6.4, 8.5, 11.2, 11.8, 12.1
-  Parallel table of authorities and rules, Sec. 8.5
-  Public Papers of the Presidents, Sec. 10.12
-  Subscriptions, Secs. 11.2, 11.7, 11.8
-  Thesaurus terms, identification, Sec. 18.20
-  Weekly Compilation of Presidential Documents, Sec. 10.3
-
-Information services, Part 3
-  See also Agency services
-
-Inspection of documents
-  See Public inspection of documents.
-
-Internal references
-  See References in documents subject to codification.
-
-Land descriptions, format, Sec. 19.1
-
-Laws
-  See Public Laws.
-
-Legibility, Secs. 18.4, 18.5, 18.10
-
-Letters of transmittal, Secs. 18.3, 18.4, 18.13
-
-Liaison officers
-  See Agency representatives.
-
-List of CFR Sections Affected, Secs. 6.4, 8.5, 11.2, 11.8, 12.1
-
-Mailing
-  See Distribution; Subscriptions.
-
-Notices
-  See also Documents.
-  Authority of Federal Register Office Director, Sec. 5.3
-  Format, Part 22
-  Publication category, Sec. 5.9
-  Sunshine Act meetings notices, Sec. 17.2
-
-Numbering in Code of Federal Regulations
-  See Codification system.
-
-Official distribution within Federal Government
-  See Distribution.
-
-OMB control numbers, Sec. 21.35
-
-Overruns, Sec. 12.1
-
-Parallel table of authorities and rules, Sec. 8.5
-
-Preamble requirements, Sec. 18.12
-
-Presidential documents, Part 19
-  See also Presidential papers
-  Definitions, Sec. 19.6
-  Format, Sec. 19.1
-  Parallel table of authorities and rules, Sec. 8.5
-  Publication in Federal Register, Secs. 5.1, 5.2, 5.9
-  Publication responsibility, Sec. 2.5
-  Routing and approval, Secs. 19.2, 19.3
-
-Presidential papers
-  Distribution, Secs. 12.4, 12.5
-  Public Papers of the Presidents, Secs. 2.5, 10.10--10.13, 12.5
-  Subscriptions, Secs. 11.5, 11.6
-  Weekly Compilation of Presidential Documents, Secs. 2.5, 10.1--10.3, 
-    12.4
-
-Proclamations
-  See Presidential documents
-
-Proposed rules
-  See also Documents.
-  Format, Part 22
-  Publication category, Sec. 5.9
-
-Public inspection of documents, Sec. 3.2
-  See also Filing of documents for public inspection.
-
-Public Laws
-  Publication responsibility, Sec. 2.5
-  Reproductions and certification of copies, Secs. 3.3, 15.4
-  Subscriptions, Sec. 11.1
-
-[[Page 68]]
-
-
-Public Papers of the Presidents
-  See Presidential papers.
-
-Publication schedules of the Federal Register, Part 17
-
-Punctuation, Secs. 18.9, 19.1
-
-References in documents subject to codification, Secs. 21.21, 21.23, 
-    21.24
-
-Reprints
-  See Overruns.
-
-Reproductions and certification of copies of acts and documents, 
-    Secs. 3.3, 15.4
-
-Rules and regulations
-  See also Documents.
-  Expiration, Secs. 18.16, 21.6
-  Format, Part 21
-  Publication category, Sec. 5.9
-
-Scheduling of documents, Part 17
-
-Seals on original documents or certified copies, Sec. 18.8
-
-Separate parts, requests for overruns, Sec. 12.1
-
-Signatures, Sec. 18.7
-
-Slip Laws
-  See Public Laws.
-
-Spelling, Secs. 18.9, 19.1
-
-Statutes
-  See United States Statutes at Large.
-
-Statutory authorities
-  See Parallel table of authorities and rules; Authority citations.
-
-Style, Secs. 18.9, 19.1, 20.6
-
-Subject indexes
-  See Indexes.
-
-Subscriptions, Part 11
-  See also Distribution.
-
-Summary, preamble caption, Sec. 18.12
-
-Sunshine Act meetings notices, Sec. 17.2
-
-Supplementary Information, preamble caption, Sec. 18.12
-
-Tables, Sec. 18.10
-
-Thesaurus terms, identification, Sec. 18.20
-
-Training programs
-  See Agency services.
-
-Transmittal of documents, Part 18
-
-United States Government Manual, Part 20
-  Distribution, Sec. 12.3
-  Publication policy, Part 9
-  Publication responsibility, Sec. 2.5
-  Subscriptions, Sec. 11.4
-
-United States Statutes at Large
-  Publication responsibility, Sec. 2.5
-  Subscriptions, Sec. 11.1
-
-Unrestricted use of materials, Sec. 2.6
-
-Weekly Compilation of Presidential Documents
-  See Presidential papers.
-
-Withdrawal of documents filed with Federal Register Office, Sec. 18.13
-
-[[Page 69]]
 
 
 <R03>
@@ -5530,7 +5192,7 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
 
 <R04>
 
-                     (Revised as of January 1, 2005)
+                     (Revised as of January 1, 2010)
 
                       Title 1--General Provisions
 
@@ -5543,11 +5205,46 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
 
             Subtitle A--Office of Management and Budget Guidance 
                 for Grants and Agreements
-         I  [Reserved]
-        II  Office of Management and Budget Circulars and Guidance
+         I  Office of Management and Budget Governmentwide 
+                Guidance for Grants and Agreements (Parts 100--
+                199)
+        II  Office of Management and Budget Circulars and Guidance 
+                (200--299)
             Subtitle B--Federal Agency Regulations for Grants and 
-                Agreements [Reserved]
-              
+                Agreements
+       III  Department of Health and Human Services (Parts 300-- 
+                399)
+        VI  Department of State (Parts 600--699)
+      VIII  Department of Veterans Affairs (Parts 800--899)
+        IX  Department of Energy (Parts 900--999)
+        XI  Department of Defense (Parts 1100--1199)
+       XII  Department of Transportation (Parts 1200--1299)
+      XIII  Department of Commerce (Parts 1300--1399)
+       XIV  Department of the Interior (Parts 1400--1499)
+        XV  Environmental Protection Agency (Parts 1500--1599)
+     XVIII  National Aeronautics and Space Administration (Parts 
+                1880--1899)
+      XXII  Corporation for National and Community Service (Parts 
+                2200--2299)
+     XXIII  Social Security Administration (Parts 2300--2399)
+      XXIV  Housing and Urban Development (Parts 2400--2499)
+       XXV  National Science Foundation (Parts 2500--2599)
+      XXVI  National Archives and Records Administration (Parts 
+                2600--2699)
+     XXVII  Small Business Administration (Parts 2700--2799)
+    XXVIII  Department of Justice (Parts 2800--2899)
+       XXX  Department of Homeland Security (Parts 3000--3099)
+      XXXI  Institute of Museum and Library Services (Parts 3100--
+                3199)
+     XXXII  National Endowment for the Arts (Parts 3200--3299)
+    XXXIII  National Endowment for the Humanities (Parts 3300--
+                3399)
+
+[[Page 66]]
+
+      XXXV  Export-Import Bank of the United States (Parts 3500--
+                3599)
+    XXXVII  Peace Corps (Parts 3700--3799)
 
                         Title 3--The President
 
@@ -5555,7 +5252,9 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
 
                            Title 4--Accounts
 
-         I  General Accounting Office (Parts 1--99)
+         I  Government Accountability Office (Parts 1--99)
+        II  Recovery Accountability and Transparency Board (Parts 
+                200--299)
 
                    Title 5--Administrative Personnel
 
@@ -5568,72 +5267,90 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 1600--1699)
       VIII  Office of Special Counsel (Parts 1800--1899)
         IX  Appalachian Regional Commission (Parts 1900--1999)
-        XI  Armed Forces Retirement Home (Part 2100)
+        XI  Armed Forces Retirement Home (Parts 2100--2199)
        XIV  Federal Labor Relations Authority, General Counsel of 
                 the Federal Labor Relations Authority and Federal 
                 Service Impasses Panel (Parts 2400--2499)
-
-[[Page 70]]
-
         XV  Office of Administration, Executive Office of the 
                 President (Parts 2500--2599)
        XVI  Office of Government Ethics (Parts 2600--2699)
        XXI  Department of the Treasury (Parts 3100--3199)
-      XXII  Federal Deposit Insurance Corporation (Part 3201)
-     XXIII  Department of Energy (Part 3301)
-      XXIV  Federal Energy Regulatory Commission (Part 3401)
-       XXV  Department of the Interior (Part 3501)
-      XXVI  Department of Defense (Part 3601)
-    XXVIII  Department of Justice (Part 3801)
+      XXII  Federal Deposit Insurance Corporation (Parts 3200--
+                3299)
+     XXIII  Department of Energy (Parts 3300--3399)
+      XXIV  Federal Energy Regulatory Commission (Parts 3400--
+                3499)
+       XXV  Department of the Interior (Parts 3500--3599)
+      XXVI  Department of Defense (Parts 3600-- 3699)
+    XXVIII  Department of Justice (Parts 3800--3899)
       XXIX  Federal Communications Commission (Parts 3900--3999)
        XXX  Farm Credit System Insurance Corporation (Parts 4000--
                 4099)
       XXXI  Farm Credit Administration (Parts 4100--4199)
-    XXXIII  Overseas Private Investment Corporation (Part 4301)
-      XXXV  Office of Personnel Management (Part 4501)
-        XL  Interstate Commerce Commission (Part 5001)
-       XLI  Commodity Futures Trading Commission (Part 5101)
-      XLII  Department of Labor (Part 5201)
-     XLIII  National Science Foundation (Part 5301)
-       XLV  Department of Health and Human Services (Part 5501)
-      XLVI  Postal Rate Commission (Part 5601)
-     XLVII  Federal Trade Commission (Part 5701)
-    XLVIII  Nuclear Regulatory Commission (Part 5801)
-         L  Department of Transportation (Part 6001)
-       LII  Export-Import Bank of the United States (Part 6201)
+    XXXIII  Overseas Private Investment Corporation (Parts 4300--
+                4399)
+      XXXV  Office of Personnel Management (Parts 4500--4599)
+        XL  Interstate Commerce Commission (Parts 5000--5099)
+       XLI  Commodity Futures Trading Commission (Parts 5100--
+                5199)
+      XLII  Department of Labor (Parts 5200--5299)
+     XLIII  National Science Foundation (Parts 5300--5399)
+
+[[Page 67]]
+
+       XLV  Department of Health and Human Services (Parts 5500--
+                5599)
+      XLVI  Postal Rate Commission (Parts 5600--5699)
+     XLVII  Federal Trade Commission (Parts 5700--5799)
+    XLVIII  Nuclear Regulatory Commission (Parts 5800--5899)
+         L  Department of Transportation (Parts 6000--6099)
+       LII  Export-Import Bank of the United States (Parts 6200--
+                6299)
       LIII  Department of Education (Parts 6300--6399)
-       LIV  Environmental Protection Agency (Part 6401)
-        LV  National Endowment for the Arts (Part 6501)
-       LVI  National Endowment for the Humanities (Part 6601)
-      LVII  General Services Administration (Part 6701)
-     LVIII  Board of Governors of the Federal Reserve System (Part 
-                6801)
-       LIX  National Aeronautics and Space Administration (Part 
-                6901)
-        LX  United States Postal Service (Part 7001)
-       LXI  National Labor Relations Board (Part 7101)
-      LXII  Equal Employment Opportunity Commission (Part 7201)
-     LXIII  Inter-American Foundation (Part 7301)
-       LXV  Department of Housing and Urban Development (Part 
-                7501)
-      LXVI  National Archives and Records Administration (Part 
-                7601)
-     LXVII  Institute of Museum and Library Services (Part 7701)
-      LXIX  Tennessee Valley Authority (Part 7901)
-      LXXI  Consumer Product Safety Commission (Part 8101)
-    LXXIII  Department of Agriculture (Part 8301)
-     LXXIV  Federal Mine Safety and Health Review Commission (Part 
-                8401)
+       LIV  Environmental Protection Agency (Parts 6400--6499)
+        LV  National Endowment for the Arts (Parts 6500--6599)
+       LVI  National Endowment for the Humanities (Parts 6600--
+                6699)
+      LVII  General Services Administration (Parts 6700--6799)
+     LVIII  Board of Governors of the Federal Reserve System 
+                (Parts 6800--6899)
+       LIX  National Aeronautics and Space Administration (Parts 
+                6900--6999)
+        LX  United States Postal Service (Parts 7000--7099)
+       LXI  National Labor Relations Board (Parts 7100--7199)
+      LXII  Equal Employment Opportunity Commission (Parts 7200--
+                7299)
+     LXIII  Inter-American Foundation (Parts 7300--7399)
+      LXIV  Merit Systems Protection Board (Parts 7400--7499)
+       LXV  Department of Housing and Urban Development (Parts 
+                7500--7599)
+      LXVI  National Archives and Records Administration (Parts 
+                7600--7699)
+     LXVII  Institute of Museum and Library Services (Parts 7700--
+                7799)
+    LXVIII  Commission on Civil Rights (Parts 7800--7899)
+      LXIX  Tennessee Valley Authority (Parts 7900--7999)
+      LXXI  Consumer Product Safety Commission (Parts 8100--8199)
+    LXXIII  Department of Agriculture (Parts 8300--8399)
+     LXXIV  Federal Mine Safety and Health Review Commission 
+                (Parts 8400--8499)
+     LXXVI  Federal Retirement Thrift Investment Board (Parts 
+                8600--8699)
+    LXXVII  Office of Management and Budget (Parts 8700--8799)
+     XCVII  Department of Homeland Security Human Resources 
+                Management System (Department of Homeland 
+                Security--Office of Personnel Management) (Parts 
+                9700--9799)
+      XCIX  Department of Defense Human Resources Management and 
+                Labor Relations Systems (Department of Defense--
+                Office of Personnel Management) (Parts 9900--9999)
 
-[[Page 71]]
-
-     LXXVI  Federal Retirement Thrift Investment Board (Part 8601)
-    LXXVII  Office of Management and Budget (Part 8701)
-
-                      Title 6--Homeland Security
+                      Title 6--Domestic Security
 
          I  Department of Homeland Security, Office of the 
                 Secretary (Parts 0--99)
+
+[[Page 68]]
 
                          Title 7--Agriculture
 
@@ -5682,19 +5399,19 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 2099)
         XX  Local Television Loan Guarantee Board (Parts 2200--
                 2299)
-
-[[Page 72]]
-
       XXVI  Office of Inspector General, Department of Agriculture 
                 (Parts 2600--2699)
      XXVII  Office of Information Resources Management, Department 
                 of Agriculture (Parts 2700--2799)
     XXVIII  Office of Operations, Department of Agriculture (Parts 
                 2800--2899)
-      XXIX  Office of Energy, Department of Agriculture (Parts 
-                2900--2999)
+      XXIX  Office of Energy Policy and New Uses, Department of 
+                Agriculture (Parts 2900--2999)
        XXX  Office of the Chief Financial Officer, Department of 
                 Agriculture (Parts 3000--3099)
+
+[[Page 69]]
+
       XXXI  Office of Environmental Quality, Department of 
                 Agriculture (Parts 3100--3199)
      XXXII  Office of Procurement and Property Management, 
@@ -5716,6 +5433,9 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
       XLII  Rural Business-Cooperative Service and Rural Utilities 
                 Service, Department of Agriculture (Parts 4200--
                 4299)
+         L  Rural Business-Cooperative Service, Rurual Housing 
+                Service, and Rural Utilities Service, Department 
+                of Agriculture (Parts 5000--5099)
 
                     Title 8--Aliens and Nationality
 
@@ -5738,20 +5458,23 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
 
          I  Nuclear Regulatory Commission (Parts 0--199)
         II  Department of Energy (Parts 200--699)
-
-[[Page 73]]
-
        III  Department of Energy (Parts 700--999)
-         X  Department of Energy (General Provisions) (Parts 1000-
-                -1099)
+         X  Department of Energy (General Provisions) (Parts 
+                1000--1099)
+      XIII  Nuclear Waste Technical Review Board (Parts 1303--
+                1399)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
+
+[[Page 70]]
+
      XVIII  Northeast Interstate Low-Level Radioactive Waste 
-                Commission (Part 1800)
+                Commission (Parts 1800--1899)
 
                       Title 11--Federal Elections
 
          I  Federal Election Commission (Parts 1--9099)
+        II  Election Assistance Commission (Parts 9400--9499)
 
                       Title 12--Banks and Banking
 
@@ -5769,6 +5492,7 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
         IX  Federal Housing Finance Board (Parts 900--999)
         XI  Federal Financial Institutions Examination Council 
                 (Parts 1100--1199)
+       XII  Federal Housing Finance Agency (Parts 1200--1299)
        XIV  Farm Credit System Insurance Corporation (Parts 1400--
                 1499)
         XV  Department of the Treasury (Parts 1500--1599)
@@ -5783,10 +5507,9 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
          I  Small Business Administration (Parts 1--199)
        III  Economic Development Administration, Department of 
                 Commerce (Parts 300--399)
-        IV  Emergency Steel Guarantee Loan Board, Department of 
-                Commerce (Parts 400--499)
-         V  Emergency Oil and Gas Guaranteed Loan Board, 
-                Department of Commerce (Parts 500--599)
+        IV  Emergency Steel Guarantee Loan Board (Parts 400--499)
+         V  Emergency Oil and Gas Guaranteed Loan Board (Parts 
+                500--599)
 
                     Title 14--Aeronautics and Space
 
@@ -5794,12 +5517,12 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 Transportation (Parts 1--199)
         II  Office of the Secretary, Department of Transportation 
                 (Aviation Proceedings) (Parts 200--399)
-
-[[Page 74]]
-
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
                 (Parts 400--499)
+
+[[Page 71]]
+
          V  National Aeronautics and Space Administration (Parts 
                 1200--1299)
         VI  Air Transportation System Stabilization (Parts 1300--
@@ -5851,7 +5574,7 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
 
-[[Page 75]]
+[[Page 72]]
 
           Title 18--Conservation of Power and Water Resources
 
@@ -5886,13 +5609,13 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 Labor (Parts 600--699)
         VI  Employment Standards Administration, Department of 
                 Labor (Parts 700--799)
-       VII  Benefits Review Board, Department of Labor (Parts 800-
-                -899)
+       VII  Benefits Review Board, Department of Labor (Parts 
+                800--899)
       VIII  Joint Board for the Enrollment of Actuaries (Parts 
                 900--999)
         IX  Office of the Assistant Secretary for Veterans' 
-                Employment and Training, Department of Labor 
-                (Parts 1000--1099)
+                Employment and Training Service, Department of 
+                Labor (Parts 1000--1099)
 
                        Title 21--Food and Drugs
 
@@ -5909,28 +5632,28 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
         II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
 
-[[Page 76]]
+[[Page 73]]
 
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
          V  Broadcasting Board of Governors (Parts 500--599)
        VII  Overseas Private Investment Corporation (Parts 700--
                 799)
-        IX  Foreign Service Grievance Board Regulations (Parts 
-                900--999)
+        IX  Foreign Service Grievance Board (Parts 900--999)
          X  Inter-American Foundation (Parts 1000--1099)
         XI  International Boundary and Water Commission, United 
                 States and Mexico, United States Section (Parts 
                 1100--1199)
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
+      XIII  Millenium Challenge Corporation (Parts 1300--1399)
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
                 Service Impasse Disputes Panel (Parts 1400--1499)
         XV  African Development Foundation (Parts 1500--1599)
-       XVI  Japan-United States Friendship Commission (Parts 1600-
-                -1699)
+       XVI  Japan-United States Friendship Commission (Parts 
+                1600--1699)
       XVII  United States Institute of Peace (Parts 1700--1799)
 
                           Title 23--Highways
@@ -5953,7 +5676,7 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 Department of Housing and Urban Development (Parts 
                 100--199)
         II  Office of Assistant Secretary for Housing-Federal 
-                Housing Commissioner, Department of Housing and 
+                HousingCommissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
@@ -5963,12 +5686,12 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
+
+[[Page 74]]
+
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
-
-[[Page 77]]
-
        VII  Office of the Secretary, Department of Housing and 
                 Urban Development (Housing Assistance Programs and 
                 Public and Indian Housing Programs) (Parts 700--
@@ -5992,6 +5715,8 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
         XX  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 3200--3899)
+      XXIV  Board of Directors of the HOPE for Homeowners Program 
+                (Parts 4000--4099)
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
 
@@ -6011,12 +5736,14 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
         VI  Office of the Assistant Secretary-Indian Affairs, 
                 Department of the Interior (Parts 1000--1199)
        VII  Office of the Special Trustee for American Indians, 
-                Department of the Interior (Part 1200)
+                Department of the Interior (Parts 1200--1299)
 
                       Title 26--Internal Revenue
 
          I  Internal Revenue Service, Department of the Treasury 
                 (Parts 1--899)
+
+[[Page 75]]
 
            Title 27--Alcohol, Tobacco Products and Firearms
 
@@ -6024,8 +5751,6 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 of the Treasury (Parts 1--399)
         II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
                 Department of Justice (Parts 400--699)
-
-[[Page 78]]
 
                    Title 28--Judicial Administration
 
@@ -6046,8 +5771,8 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
 
                             Title 29--Labor
 
-            Subtitle A--Office of the Secretary of Labor (Parts 0-
-                -99)
+            Subtitle A--Office of the Secretary of Labor (Parts 
+                0--99)
             Subtitle B--Regulations Relating to Labor
          I  National Labor Relations Board (Parts 100--199)
         II  Office of Labor-Management Standards, Department of 
@@ -6075,6 +5800,8 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
+[[Page 76]]
+
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
@@ -6083,9 +5810,6 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 Interior (Parts 200--299)
        III  Board of Surface Mining and Reclamation Appeals, 
                 Department of the Interior (Parts 300--399)
-
-[[Page 79]]
-
         IV  Geological Survey, Department of the Interior (Parts 
                 400--499)
        VII  Office of Surface Mining Reclamation and Enforcement, 
@@ -6098,10 +5822,10 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
             Subtitle B--Regulations Relating to Money and Finance
          I  Monetary Offices, Department of the Treasury (Parts 
                 51--199)
-        II  Fiscal Service, Department of the Treasury (Parts 200-
-                -399)
-        IV  Secret Service, Department of the Treasury (Parts 400-
-                -499)
+        II  Fiscal Service, Department of the Treasury (Parts 
+                200--399)
+        IV  Secret Service, Department of the Treasury (Parts 
+                400--499)
          V  Office of Foreign Assets Control, Department of the 
                 Treasury (Parts 500--599)
         VI  Bureau of Engraving and Printing, Department of the 
@@ -6124,6 +5848,8 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 Defense
        XII  Defense Logistics Agency (Parts 1200--1299)
        XVI  Selective Service System (Parts 1600--1699)
+      XVII  Office of the Director of National Intelligence (Parts 
+                1700--1799)
      XVIII  National Counterintelligence Center (Parts 1800--1899)
        XIX  Central Intelligence Agency (Parts 1900--1999)
         XX  Information Security Oversight Office, National 
@@ -6134,18 +5860,18 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
+
+[[Page 77]]
+
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
 
                Title 33--Navigation and Navigable Waters
 
-         I  Coast Guard, Department of Homeland Security (Parts 1-
-                -199)
-        II  Corps of Engineers, Department of the Army (Parts 200-
-                -399)
-
-[[Page 80]]
-
+         I  Coast Guard, Department of Homeland Security (Parts 
+                1--199)
+        II  Corps of Engineers, Department of the Army (Parts 
+                200--399)
         IV  Saint Lawrence Seaway Development Corporation, 
                 Department of Transportation (Parts 400--499)
 
@@ -6167,11 +5893,13 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 Affairs, Department of Education (Parts 500--599)
         VI  Office of Postsecondary Education, Department of 
                 Education (Parts 600--699)
+       VII  Office of Educational Research and Improvmeent, 
+                Department of Education [Reserved]
         XI  National Institute for Literacy (Parts 1100--1199)
             Subtitle C--Regulations Relating to Education
        XII  National Council on Disability (Parts 1200--1299)
 
-                         Title 35  [Reserved]
+                          Title 35 [Reserved]
 
              Title 36--Parks, Forests, and Public Property
 
@@ -6179,21 +5907,26 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 (Parts 1--199)
         II  Forest Service, Department of Agriculture (Parts 200--
                 299)
-       III  Corps of Engineers, Department of the Army (Parts 300-
-                -399)
+       III  Corps of Engineers, Department of the Army (Parts 
+                300--399)
         IV  American Battle Monuments Commission (Parts 400--499)
          V  Smithsonian Institution (Parts 500--599)
+        VI  [Reserved]
        VII  Library of Congress (Parts 700--799)
       VIII  Advisory Council on Historic Preservation (Parts 800--
                 899)
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
          X  Presidio Trust (Parts 1000--1099)
+
+[[Page 78]]
+
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
                 1200--1299)
-        XV  Oklahoma City National Memorial Trust (Part 1501)
+        XV  Oklahoma City National Memorial Trust (Parts 1500--
+                1599)
        XVI  Morris K. Udall Scholarship and Excellence in National 
                 Environmental Policy Foundation (Parts 1600--1699)
 
@@ -6201,10 +5934,9 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
 
          I  United States Patent and Trademark Office, Department 
                 of Commerce (Parts 1--199)
-
-[[Page 81]]
-
         II  Copyright Office, Library of Congress (Parts 200--299)
+       III  Copyright Royalty Board, Library of Congress (Parts 
+                301--399)
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
@@ -6213,11 +5945,12 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
          I  Department of Veterans Affairs (Parts 0--99)
+        II  Armed Forces Retirement Home
 
                        Title 39--Postal Service
 
          I  United States Postal Service (Parts 1--999)
-       III  Postal Rate Commission (Parts 3000--3099)
+       III  Postal Regulatory Commission (Parts 3000--3099)
 
                   Title 40--Protection of Environment
 
@@ -6242,29 +5975,30 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
+
+[[Page 79]]
+
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
+            Chapters 62--100 [Reserved]
             Subtitle C--Federal Property Management Regulations 
                 System
        101  Federal Property Management Regulations (Parts 101-1--
                 101-99)
        102  Federal Management Regulation (Parts 102-1--102-299)
+            Chapters 103--104 [Reserved]
        105  General Services Administration (Parts 105-1--105-999)
        109  Department of Energy Property Management Regulations 
                 (Parts 109-1--109-99)
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
        128  Department of Justice (Parts 128-1--128-99)
-
-[[Page 82]]
-
+            Chapters 129--200 [Reserved]
             Subtitle D--Other Provisions Relating to Property 
                 Management [Reserved]
             Subtitle E--Federal Information Resources Management 
-                Regulations System
-       201  Federal Information Resources Management Regulation 
-                (Parts 201-1--201-99) [Reserved]
+                Regulations System [Reserved]
             Subtitle F--Federal Travel Regulation System
        300  General (Parts 300-1--300-99)
        301  Temporary Duty (TDY) Travel Allowances (Parts 301-1--
@@ -6296,6 +6030,8 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10010)
 
+[[Page 80]]
+
              Title 44--Emergency Management and Assistance
 
          I  Federal Emergency Management Agency, Department of 
@@ -6308,9 +6044,6 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
             Subtitle A--Department of Health and Human Services 
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Welfare
-
-[[Page 83]]
-
         II  Office of Family Assistance (Assistance Programs), 
                 Administration for Children and Families, 
                 Department of Health and Human Services (Parts 
@@ -6326,7 +6059,8 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 States, Department of Justice (Parts 500--599)
         VI  National Science Foundation (Parts 600--699)
        VII  Commission on Civil Rights (Parts 700--799)
-      VIII  Office of Personnel Management (Parts 800--899)
+      VIII  Office of Personnel Management (Parts 800--899) 
+                [Reserved]
          X  Office of Community Services, Administration for 
                 Children and Families, Department of Health and 
                 Human Services (Parts 1000--1099)
@@ -6350,10 +6084,13 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
 
                           Title 46--Shipping
 
-         I  Coast Guard, Department of Homeland Security (Parts 1-
-                -199)
+         I  Coast Guard, Department of Homeland Security (Parts 
+                1--199)
         II  Maritime Administration, Department of Transportation 
                 (Parts 200--399)
+
+[[Page 81]]
+
        III  Coast Guard (Great Lakes Pilotage), Department of 
                 Homeland Security (Parts 400--499)
         IV  Federal Maritime Commission (Parts 500--599)
@@ -6363,24 +6100,24 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
          I  Federal Communications Commission (Parts 0--199)
         II  Office of Science and Technology Policy and National 
                 Security Council (Parts 200--299)
-
-[[Page 84]]
-
        III  National Telecommunications and Information 
-                Administration, Department of Commerce (Parts 300-
-                -399)
+                Administration, Department of Commerce (Parts 
+                300--399)
+        IV  National Telecommunications and Information 
+                Administration, Department of Commerce, and 
+                National Highway Traffic Safety Administration, 
+                Department of Transportation (Parts 400--499)
 
            Title 48--Federal Acquisition Regulations System
 
          1  Federal Acquisition Regulation (Parts 1--99)
-         2  Department of Defense (Parts 200--299)
-         3  Department of Health and Human Services (Parts 300--
-                399)
+         2  Defense Acquisition Regulations System, Department of 
+                Defense (Parts 200--299)
+         3  Health and Human Services (Parts 300--399)
          4  Department of Agriculture (Parts 400--499)
          5  General Services Administration (Parts 500--599)
          6  Department of State (Parts 600--699)
-         7  United States Agency for International Development 
-                (Parts 700--799)
+         7  Agency for International Development (Parts 700--799)
          8  Department of Veterans Affairs (Parts 800--899)
          9  Department of Energy (Parts 900--999)
         10  Department of the Treasury (Parts 1000--1099)
@@ -6404,27 +6141,25 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 2400--2499)
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
+
+[[Page 82]]
+
         29  Department of Labor (Parts 2900--2999)
         30  Department of Homeland Security, Homeland Security 
                 Acquisition Regulation (HSAR) (Parts 3000--3099)
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
-        35  RESERVED
-        44  Federal Emergency Management Agency (Parts 4400--4499)
         51  Department of the Army Acquisition Regulations (Parts 
                 5100--5199)
         52  Department of the Navy Acquisition Regulations (Parts 
                 5200--5299)
         53  Department of the Air Force Federal Acquisition 
-                Regulation Supplement (Parts 5300--5399)
-
-[[Page 85]]
-
+                Regulation Supplement [Reserved]
         54  Defense Logistics Agency, Department of Defense (Parts 
                 5400--5499)
         57  African Development Foundation (Parts 5700--5799)
-        61  General Services Administration Board of Contract 
-                Appeals (Parts 6100--6199)
+        61  Civilian Board of Contract Appeals, General Services 
+                Administration (Parts 6100--6199)
         63  Department of Transportation Board of Contract Appeals 
                 (Parts 6300--6399)
         99  Cost Accounting Standards Board, Office of Federal 
@@ -6437,8 +6172,9 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 (Parts 1--99)
             Subtitle B--Other Regulations Relating to 
                 Transportation
-         I  Research and Special Programs Administration, 
-                Department of Transportation (Parts 100--199)
+         I  Pipeline and Hazardous Materials Safety 
+                Administration, Department of Transportation 
+                (Parts 100--199)
         II  Federal Railroad Administration, Department of 
                 Transportation (Parts 200--299)
        III  Federal Motor Carrier Safety Administration, 
@@ -6454,10 +6190,12 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
       VIII  National Transportation Safety Board (Parts 800--999)
          X  Surface Transportation Board, Department of 
                 Transportation (Parts 1000--1399)
-        XI  Bureau of Transportation Statistics, Department of 
-                Transportation (Parts 1400--1499)
+        XI  Research and Innovative Technology Administration, 
+                Department of Transportation [Reserved]
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
+
+[[Page 83]]
 
                    Title 50--Wildlife and Fisheries
 
@@ -6474,9 +6212,6 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
                 Atmospheric Administration, Department of 
                 Commerce); Endangered Species Committee 
                 Regulations (Parts 400--499)
-
-[[Page 86]]
-
          V  Marine Mammal Commission (Parts 500--599)
         VI  Fishery Conservation and Management, National Oceanic 
                 and Atmospheric Administration, Department of 
@@ -6490,7 +6225,7 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 87]]
+[[Page 85]]
 
 
 
@@ -6501,7 +6236,7 @@ Withdrawal of documents filed with Federal Register Office, Sec. 18.13
 
 <R04>
 
-                     (Revised as of January 1, 2005)
+                     (Revised as of January 1, 2010)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -6511,8 +6246,7 @@ Advanced Research Projects Agency                 32, I
 Advisory Council on Historic Preservation         36, VIII
 African Development Foundation                    22, XV
   Federal Acquisition Regulation                  48, 57
-Agency for International Development, United      22, II
-     States
+Agency for International Development              22, II
   Federal Acquisition Regulation                  48, 7
 Agricultural Marketing Service                    7, I, IX, X, XI
 Agricultural Research Service                     7, V
@@ -6525,7 +6259,7 @@ Agriculture Department                            5, LXXIII
   Cooperative State Research, Education, and      7, XXXIV
        Extension Service
   Economic Research Service                       7, XXXVII
-  Energy, Office of                               7, XXIX
+  Energy, Office of                               2, IX; 7, XXIX
   Environmental Quality, Office of                7, XXXI
   Farm Service Agency                             7, VII, XVIII
   Federal Acquisition Regulation                  48, 4
@@ -6543,11 +6277,11 @@ Agriculture Department                            5, LXXIII
   Natural Resources Conservation Service          7, VI
   Operations, Office of                           7, XXVIII
   Procurement and Property Management, Office of  7, XXXII
-  Rural Business-Cooperative Service              7, XVIII, XLII
+  Rural Business-Cooperative Service              7, XVIII, XLII, L
   Rural Development Administration                7, XLII
-  Rural Housing Service                           7, XVIII, XXXV
+  Rural Housing Service                           7, XVIII, XXXV, L
   Rural Telephone Bank                            7, XVI
-  Rural Utilities Service                         7, XVII, XVIII, XLII
+  Rural Utilities Service                         7, XVII, XVIII, XLII, L
   Secretary of Agriculture, Office of             7, Subtitle A
   Transportation, Office of                       7, XXXIII
   World Agricultural Outlook Board                7, XXXVIII
@@ -6563,7 +6297,7 @@ American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 
-[[Page 88]]
+[[Page 86]]
 
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -6585,7 +6319,7 @@ Central Intelligence Agency                       32, XIX
 Chief Financial Officer, Office of                7, XXX
 Child Support Enforcement, Office of              45, III
 Children and Families, Administration for         45, II, III, IV, X
-Civil Rights, Commission on                       45, VII
+Civil Rights, Commission on                       5, LXVIII; 45, VII
 Civil Rights, Office for                          34, I
 Coast Guard                                       33, I; 46, I; 49, IV
 Coast Guard (Great Lakes Pilotage)                46, III
@@ -6627,7 +6361,8 @@ Consumer Product Safety Commission                5, LXXI; 16, II
 Cooperative State Research, Education, and        7, XXXIV
      Extension Service
 Copyright Office                                  37, II
-Corporation for National and Community Service    45, XII, XXV
+Copyright Royalty Board                           37, III
+Corporation for National and Community Service    2, XXII; 45, XII, XXV
 Cost Accounting Standards Board                   48, 99
 Council on Environmental Quality                  40, V
 Court Services and Offender Supervision Agency    28, VIII
@@ -6637,19 +6372,21 @@ Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
 
-[[Page 89]]
+[[Page 87]]
 
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
   Army Department                                 32, V; 33, II; 36, III, 
                                                   48, 51
+  Defense Acquisition Regulations System          48, 2
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
-  Federal Acquisition Regulation                  48, 2
+  Human Resources Management and Labor Relations  5, XCIX
+       Systems
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
-  Secretary of Defense, Office of                 32, I
+  Secretary of Defense, Office of                 2, XI; 32, I
 Defense Contract Audit Agency                     32, I
 Defense Intelligence Agency                       32, I
 Defense Logistics Agency                          32, XII; 48, 54
@@ -6677,6 +6414,7 @@ Education, Department of                          5, LIII
        Office of
   Vocational and Adult Education, Office of       34, IV
 Educational Research and Improvement, Office of   34, VII
+Election Assistance Commission                    11, II
 Elementary and Secondary Education, Office of     34, II
 Emergency Oil and Gas Guaranteed Loan Board       13, V
 Emergency Steel Guarantee Loan Board              13, IV
@@ -6693,7 +6431,8 @@ Energy, Department of                             5, XXIII; 10, II, III, X
 Energy, Office of                                 7, XXIX
 Engineers, Corps of                               33, II; 36, III
 Engraving and Printing, Bureau of                 31, VI
-Environmental Protection Agency                   5, LIV; 40, I, IV, VII
+Environmental Protection Agency                   2, XV; 5, LIV; 40, I, IV, 
+                                                  VII
   Federal Acquisition Regulation                  48, 15
   Property Management Regulations                 41, 115
 Environmental Quality, Office of                  7, XXXI
@@ -6705,16 +6444,16 @@ Executive Office of the President                 3, I
   Environmental Quality, Council on               40, V
   Management and Budget, Office of                5, III, LXXVII; 14, VI; 
                                                   48, 99
+
+[[Page 88]]
+
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
-
-[[Page 90]]
-
   Trade Representative, Office of the United      15, XX
        States
-Export-Import Bank of the United States           5, LII; 12, IV
+Export-Import Bank of the United States           2, XXXV; 5, LII; 12, IV
 Family Assistance, Office of                      45, II
 Farm Credit Administration                        5, XXXI; 12, VI
 Farm Credit System Insurance Corporation          5, XXX; 12, XIV
@@ -6729,7 +6468,6 @@ Federal Crop Insurance Corporation                7, IV
 Federal Deposit Insurance Corporation             5, XXII; 12, III
 Federal Election Commission                       11, I
 Federal Emergency Management Agency               44, I
-  Federal Acquisition Regulation                  48, 44
 Federal Employees Group Life Insurance Federal    48, 21
      Acquisition Regulation
 Federal Employees Health Benefits Acquisition     48, 16
@@ -6741,6 +6479,7 @@ Federal Financing Bank                            12, VIII
 Federal Highway Administration                    23, I, II
 Federal Home Loan Mortgage Corporation            1, IV
 Federal Housing Enterprise Oversight Office       12, XVII
+Federal Housing Finance Agency                    12, XII
 Federal Housing Finance Board                     12, IX
 Federal Labor Relations Authority, and General    5, XIV; 22, XIV
      Counsel of the Federal Labor Relations 
@@ -6780,13 +6519,12 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
-General Accounting Office                         4, I
+
+[[Page 89]]
+
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
   Federal Acquisition Regulation                  48, 5
-
-[[Page 91]]
-
   Federal Management Regulation                   41, 102
   Federal Property Management Regulations         41, 101
   Federal Travel Regulation System                41, Subtitle F
@@ -6798,12 +6536,14 @@ General Services Administration                   5, LVII; 41, 105
   Relocation Allowances                           41, 302
   Temporary Duty (TDY) Travel Allowances          41, 301
 Geological Survey                                 30, IV
+Government Accountability Office                  4, I
 Government Ethics, Office of                      5, XVI
 Government National Mortgage Association          24, III
 Grain Inspection, Packers and Stockyards          7, VIII; 9, II
      Administration
 Harry S. Truman Scholarship Foundation            45, XVIII
-Health and Human Services, Department of          5, XLV; 45, Subtitle A
+Health and Human Services, Department of          2, III; 5, XLV; 45, 
+                                                  Subtitle A,
   Centers for Medicare & Medicaid Services        42, IV
   Child Support Enforcement, Office of            45, III
   Children and Families, Administration for       45, II, III, IV, X
@@ -6812,19 +6552,24 @@ Health and Human Services, Department of          5, XLV; 45, Subtitle A
   Federal Acquisition Regulation                  48, 3
   Food and Drug Administration                    21, I
   Human Development Services, Office of           45, XIII
-  Indian Health Service                           25, V; 42, I
+  Indian Health Service                           25, V
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
-Homeland Security, Department of                  6, I
+Homeland Security, Department of                  2, XXX; 6, I
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
   Customs and Border Protection Bureau            19, I
   Federal Emergency Management Agency             44, I
+  Human Resources Management and Labor Relations  5, XCVII
+       Systems
   Immigration and Customs Enforcement Bureau      19, IV
   Immigration and Naturalization                  8, I
   Transportation Security Administration          49, XII
-Housing and Urban Development, Department of      5, LXV; 24, Subtitle B
+HOPE for Homeowners Program, Board of Directors   24, XXIV
+     of
+Housing and Urban Development, Department of      2, XXIV; 5, LXV; 24, 
+                                                  Subtitle B
   Community Planning and Development, Office of   24, V, VI
        Assistant Secretary for
   Equal Opportunity, Office of Assistant          24, I
@@ -6850,19 +6595,19 @@ Immigration and Customs Enforcement Bureau        19, IV
 Immigration and Naturalization                    8, I
 Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
+
+[[Page 90]]
+
 Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
      Secretary
 Indian Arts and Crafts Board                      25, II
-Indian Health Service                             25, V; 42, I
+Indian Health Service                             25, V
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
      Archives and Records Administration
 Inspector General
-
-[[Page 92]]
-
   Agriculture Department                          7, XXVI
   Health and Human Services Department            42, V
   Housing and Urban Development Department        24, XII
@@ -6885,7 +6630,7 @@ Interior Department
   National Indian Gaming Commission               25, III
   National Park Service                           36, I
   Reclamation, Bureau of                          43, I
-  Secretary of the Interior, Office of            43, Subtitle A
+  Secretary of the Interior, Office of            2, XIV; 43, Subtitle A
   Surface Mining and Reclamation Appeals, Board   30, III
        of
   Surface Mining Reclamation and Enforcement,     30, VII
@@ -6900,7 +6645,6 @@ International Development, United States Agency   22, II
 International Development Cooperation Agency,     22, XII
      United States
 International Fishing and Related Activities      50, III
-International Investment, Office of               31, VIII
 International Joint Commission, United States     22, IV
      and Canada
 International Organizations Employees Loyalty     5, V
@@ -6908,11 +6652,12 @@ International Organizations Employees Loyalty     5, V
 International Trade Administration                15, III; 19, III
 International Trade Commission, United States     19, II
 Interstate Commerce Commission                    5, XL
+Investment Security, Office of                    31, VIII
 James Madison Memorial Fellowship Foundation      45, XXIV
 Japan-United States Friendship Commission         22, XVI
 Joint Board for the Enrollment of Actuaries       20, VIII
-Justice Department                                5, XXVIII; 28, I, XI; 40, 
-                                                  IV
+Justice Department                                2, XXVII; 5, XXVIII; 28, 
+                                                  I, XI; 40, IV
   Alcohol, Tobacco, Firearms, and Explosives,     27, II
        Bureau of
   Drug Enforcement Administration                 21, II
@@ -6930,6 +6675,9 @@ Labor Department                                  5, XLII
   Employee Benefits Security Administration       29, XXV
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
+
+[[Page 91]]
+
   Employment Standards Administration             20, VI
   Federal Acquisition Regulation                  48, 29
   Federal Contract Compliance Programs, Office    41, 60
@@ -6940,9 +6688,6 @@ Labor Department                                  5, XLII
   Occupational Safety and Health Administration   29, XVII
   Public Contracts                                41, 50
   Secretary of Labor, Office of                   29, Subtitle A
-
-[[Page 93]]
-
   Veterans' Employment and Training Service,      41, 61; 20, IX
        Office of the Assistant Secretary for
   Wage and Hour Division                          29, V
@@ -6952,13 +6697,15 @@ Land Management, Bureau of                        43, II
 Legal Services Corporation                        45, XVI
 Library of Congress                               36, VII
   Copyright Office                                37, II
+  Copyright Royalty Board                         37, III
 Local Television Loan Guarantee Board             7, XX
 Management and Budget, Office of                  5, III, LXXVII; 14, VI; 
                                                   48, 99
 Marine Mammal Commission                          50, V
 Maritime Administration                           46, II
-Merit Systems Protection Board                    5, II
+Merit Systems Protection Board                    5, II, LXIV
 Micronesian Status Negotiations, Office for       32, XXVII
+Millenium Challenge Corporation                   22, XIII
 Mine Safety and Health Administration             30, I
 Minerals Management Service                       30, II
 Minority Business Development Agency              15, XIV
@@ -6966,14 +6713,14 @@ Miscellaneous Agencies                            1, IV
 Monetary Offices                                  31, I
 Morris K. Udall Scholarship and Excellence in     36, XVI
      National Environmental Policy Foundation
-National Aeronautics and Space Administration     5, LIX; 14, V
+Museum and Library Services, Institute of         2, XXXI
+National Aeronautics and Space Administration     2, XVIII; 5, LIX; 14, V
   Federal Acquisition Regulation                  48, 18
 National Agricultural Library                     7, XLI
 National Agricultural Statistics Service          7, XXXVI
 National and Community Service, Corporation for   45, XII, XXV
-National Archives and Records Administration      5, LXVI; 36, XII
+National Archives and Records Administration      2, XXVI; 5, LXVI; 36, XII
   Information Security Oversight Office           32, XX
-National Bureau of Standards                      15, II
 National Capital Planning Commission              1, IV
 National Commission for Employment Policy         1, IV
 National Commission on Libraries and Information  45, XVII
@@ -6984,6 +6731,8 @@ National Credit Union Administration              12, VII
 National Crime Prevention and Privacy Compact     28, IX
      Council
 National Drug Control Policy, Office of           21, III
+National Endowment for the Arts                   2, XXXII
+National Endowment for the Humanities             2, XXXIII
 National Foundation on the Arts and the           45, XI
      Humanities
 National Highway Traffic Safety Administration    23, II, III; 49, V
@@ -6991,6 +6740,7 @@ National Imagery and Mapping Agency               32, I
 National Indian Gaming Commission                 25, III
 National Institute for Literacy                   34, XI
 National Institute of Standards and Technology    15, II
+National Intelligence, Office of Director of      32, XVII
 National Labor Relations Board                    5, LXI; 29, I
 National Marine Fisheries Service                 50, II, IV, VI
 National Mediation Board                          29, X
@@ -6999,7 +6749,10 @@ National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV,
 National Park Service                             36, I
 National Railroad Adjustment Board                29, III
 National Railroad Passenger Corporation (AMTRAK)  49, VII
-National Science Foundation                       5, XLIII; 45, VI
+
+[[Page 92]]
+
+National Science Foundation                       2, XXV; 5, XLIII; 45, VI
   Federal Acquisition Regulation                  48, 25
 National Security Council                         32, XXI
 National Security Council and Office of Science   47, II
@@ -7007,16 +6760,13 @@ National Security Council and Office of Science   47, II
 National Telecommunications and Information       15, XXIII; 47, III
      Administration
 National Transportation Safety Board              49, VIII
-National Weather Service                          15, IX
 Natural Resources Conservation Service            7, VI
 Navajo and Hopi Indian Relocation, Office of      25, IV
 Navy Department                                   32, VI
   Federal Acquisition Regulation                  48, 52
 Neighborhood Reinvestment Corporation             24, XXV
 Northeast Interstate Low-Level Radioactive Waste  10, XVIII
-   Commission
-[[Page 94]]
-
+     Commission
 Nuclear Regulatory Commission                     5, XLVIII; 10, I
   Federal Acquisition Regulation                  48, 20
 Occupational Safety and Health Administration     29, XVII
@@ -7034,12 +6784,18 @@ Peace Corps                                       22, III
 Pennsylvania Avenue Development Corporation       36, IX
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
+  Human Resources Management and Labor Relations  5, XCIX
+       Systems, Department of Defense
+  Human Resources Management and Labor Relations  5, XCVII
+       Systems, Department of Homeland Security
   Federal Acquisition Regulation                  48, 17
   Federal Employees Group Life Insurance Federal  48, 21
        Acquisition Regulation
   Federal Employees Health Benefits Acquisition   48, 16
        Regulation
-Postal Rate Commission                            5, XLVI; 39, III
+Pipeline and Hazardous Materials Safety           49, I
+     Administration
+Postal Regulatory Commission                      5, XLVI; 39, III
 Postal Service, United States                     5, LX; 39, I
 Postsecondary Education, Office of                34, VI
 President's Commission on White House             1, IV
@@ -7047,5 +6803,94 @@ President's Commission on White House             1, IV
 Presidential Documents                            3
 Presidio Trust                                    36, X
 Prisons, Bureau of                                28, V
-Procurement and Property 
+Procurement and Property Management, Office of    7, XXXII
+Productivity, Technology and Innovation,          37, IV
+     Assistant Secretary
+Public Contracts, Department of Labor             41, 50
+Public and Indian Housing, Office of Assistant    24, IX
+     Secretary for
+Public Health Service                             42, I
+Railroad Retirement Board                         20, II
+Reclamation, Bureau of                            43, I
+Recovery Accountability and Transparency Board    4, II
+Refugee Resettlement, Office of                   45, IV
+Relocation Allowances                             41, 302
+Research and Innovative Technology                49, XI
+     Administration
+Rural Business-Cooperative Service                7, XVIII, XLII, L
+Rural Development Administration                  7, XLII
+Rural Housing Service                             7, XVIII, XXXV, L
+Rural Telephone Bank                              7, XVI
+Rural Utilities Service                           7, XVII, XVIII, XLII, L
+Saint Lawrence Seaway Development Corporation     33, IV
+Science and Technology Policy, Office of          32, XXIV
+Science and Technology Policy, Office of, and     47, II
+   National Security Council
+[[Page 93]]
+
+Secret Service                                    31, IV
+Securities and Exchange Commission                17, II
+Selective Service System                          32, XVI
+Small Business Administration                     2, XXVII; 13, I
+Smithsonian Institution                           36, V
+Social Security Administration                    2, XXIII; 20, III; 48, 23
+Soldiers' and Airmen's Home, United States        5, XI
+Special Counsel, Office of                        5, VIII
+Special Education and Rehabilitative Services,    34, III
+     Office of
+State Department                                  2, VI; 22, I; 28, XI
+  Federal Acquisition Regulation                  48, 6
+Surface Mining and Reclamation Appeals, Board of  30, III
+Surface Mining Reclamation and Enforcement,       30, VII
+     Office of
+Surface Transportation Board                      49, X
+Susquehanna River Basin Commission                18, VIII
+Technology Administration                         15, XI
+Technology Policy, Assistant Secretary for        37, IV
+Technology, Under Secretary for                   37, V
+Tennessee Valley Authority                        5, LXIX; 18, XIII
+Thrift Supervision Office, Department of the      12, V
+     Treasury
+Trade Representative, United States, Office of    15, XX
+Transportation, Department of                     2, XII; 5, L
+  Commercial Space Transportation                 14, III
+  Contract Appeals, Board of                      48, 63
+  Emergency Management and Assistance             44, IV
+  Federal Acquisition Regulation                  48, 12
+  Federal Aviation Administration                 14, I
+  Federal Highway Administration                  23, I, II
+  Federal Motor Carrier Safety Administration     49, III
+  Federal Railroad Administration                 49, II
+  Federal Transit Administration                  49, VI
+  Maritime Administration                         46, II
+  National Highway Traffic Safety Administration  23, II, III; 49, V
+  Pipeline and Hazardous Materials Safety         49, I
+       Administration
+  Saint Lawrence Seaway Development Corporation   33, IV
+  Secretary of Transportation, Office of          14, II; 49, Subtitle A
+  Surface Transportation Board                    49, X
+  Transportation Statistics Bureau                49, XI
+Transportation, Office of                         7, XXXIII
+Transportation Security Administration            49, XII
+Transportation Statistics Bureau                  49, XI
+Travel Allowances, Temporary Duty (TDY)           41, 301
+Treasury Department                               5, XXI; 12, XV; 17, IV; 
+                                                  31, IX
+  Alcohol and Tobacco Tax and Trade Bureau        27, I
+  Community Development Financial Institutions    12, XVIII
+       Fund
+  Comptroller of the Currency                     12, I
+  Customs and Border Protection Bureau            19, I
+  Engraving and Printing, Bureau of               31, VI
+  Federal Acquisition Regulation                  48, 10
+  Federal Claims Collection Standards             31, IX
+  Federal Law Enforcement Training Center         31, VII
+  Fiscal Service                                  31, II
+  Foreign Assets Control, Office of               31, V
+  Internal Revenue Service                        26, I
+  Investment Security, Office of                  31, VIII
+  Monetary Offices                                31, I
+  Secret Service                                  31, IV
+  Secretary of the Treasury, Office of            31, Subtitle A
+  Thrift Sup
 </pre></body></html>

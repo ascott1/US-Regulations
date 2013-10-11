@@ -1,11 +1,11 @@
 <html><body><pre>
 [Title 19 CFR ]
-[Code of Federal Regulations (annual edition) - April 1, 2009 Edition]
+[Code of Federal Regulations (annual edition) - April 1, 2010 Edition]
 [From the U.S. Government Printing Office]
 
 
 
-[[Page i]]
+[[Page 1]]
 
           
 <R02>
@@ -14,7 +14,7 @@
 
           Part 200 to End
 
-                         Revised as of April 1, 2009
+                         Revised as of April 1, 2010
 
 
           Customs Duties
@@ -27,7 +27,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of April 1, 2009
+          As of April 1, 2010
           With Ancillaries
                     Published by
                     Office of the Federal Register
@@ -100,13 +100,13 @@ ________________________
           Commission                                                 3
           Chapter III--International Trade Administration, 
           Department of Commerce                                   197
-          Chapter IV--Bureau of Immigration and Customs 
+          Chapter IV--U.S. Immigration and Customs 
           Enforcement, Department of Homeland Security 
           [Reserved]
   Finding Aids:
-      Table of CFR Titles and Chapters........................     351
-      Alphabetical List of Agencies Appearing in the CFR......     371
-      List of CFR Sections Affected...........................     381
+      Table of CFR Titles and Chapters........................     347
+      Alphabetical List of Agencies Appearing in the CFR......     367
+      List of CFR Sections Affected...........................     377
 
 [[Page iv]]
 
@@ -162,7 +162,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, April 1, 2009), consult the ``List of CFR 
+revision date (in this case, April 1, 2010), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -240,10 +240,10 @@ CFR INDEXES AND TABULAR GUIDES
 
     A subject index to the Code of Federal Regulations is contained in a 
 separate volume, revised annually as of January 1, entitled CFR Index 
-and Finding Aids. This volume contains the Parallel Table of Statutory 
-Authorities and Agency Rules (Table I). A list of CFR titles, chapters, 
-and parts and an alphabetical list of agencies publishing in the CFR are 
-also included in this volume.
+and Finding Aids. This volume contains the Parallel Table of Authorities 
+and Rules. A list of CFR titles, chapters, subchapters, and parts and an 
+alphabetical list of agencies publishing in the CFR are also included in 
+this volume.
     An index to the text of ``Title 3--The President'' is carried within 
 that volume.
     The Federal Register Index is issued monthly in cumulative form. 
@@ -302,7 +302,7 @@ register. The NARA site also contains links to GPO Access.
     Raymond A. Mosley,
     Director,
     Office of the Federal Register.
-    April 1, 2009.
+    April 1, 2010.
 
 
 
@@ -318,23 +318,22 @@ register. The NARA site also contains links to GPO Access.
 
     Title 19--Customs Duties is composed of three volumes. The first two 
 volumes, parts 0 to 140 and parts 141 to 199 contain the regulations in 
-Chapter I--Bureau of Customs and Border Protection, Department of 
-Homeland Security; Department of the Treasury. The third volume, part 
-200 to end, contains the regulations in Chapter II--United States 
-International Trade Commission; Chapter III--International Trade 
-Administration, Department of Commerce; and Chapter IV--Bureau of 
-Immigration and Customs Enforcement, Department of Homeland Security. 
-The contents of these volumes represent all current regulations issued 
-under this title of the CFR as of April 1, 2009.
+Chapter I--U.S. Customs and Border Protection, Department of Homeland 
+Security; Department of the Treasury. The third volume, part 200 to end, 
+contains the regulations in Chapter II--United States International 
+Trade Commission; Chapter III--International Trade Administration, 
+Department of Commerce; and Chapter IV--U.S. Immigration and Customs 
+Enforcement, Department of Homeland Security. The contents of these 
+volumes represent all current regulations issued under this title of the 
+CFR as of April 1, 2010.
 
-    A Subject Index to Chapter I--Bureau of Customs and Border 
-Protection, Department of Homeland Security; Department of the Treasury 
-appears in the Finding Aids section of the first two volumes.
+    A Subject Index to Chapter I--U.S. Customs and Border Protection, 
+Department of Homeland Security; Department of the Treasury appears in 
+the Finding Aids section of the first two volumes.
 
     For this volume, Robert J. Sheehan, III was Chief Editor. The Code 
 of Federal Regulations publication program is under the direction of 
 Michael L. White, assisted by Ann Worley.
-
 
 [[Page 1]]
 
@@ -354,7 +353,7 @@ chapter ii--United States International Trade Commission....         200
 
 chapter iii--International Trade Administration, Department 
   of Commerce...............................................         351
-chapter iv--Bureau of Immigration and Customs Enforcement, Department of 
+chapter iv--U.S. Immigration and Customs Enforcement, Department of 
   Homeland Security [Reserved]
 
 [[Page 3]]
@@ -406,9 +405,6 @@ Part                                                                Page
 
 <R03>
 PART 200_EMPLOYEE RESPONSIBILITIES AND CONDUCT--Table of Contents
-
-<R05>
-
 
                       Subpart A_General Provisions
 
@@ -802,11 +798,11 @@ Government matter (18 U.S.C. 1001).
 (18 U.S.C. 2071).
     (m) The prohibition against counterfeiting and forging 
 transportation requests (18 U.S.C. 508).
-    (n) The prohibitions against (1) embezzlement of Government money or 
-property (18 U.S.C. 641); (2) failing to account for public money (18 
-U.S.C. 643); and (3) embezzlement of the money or property of another 
-person in the possession of an employee by reason of his employment (18 
-U.S.C. 654).
+    (n) The prohibitions against--
+    (1) Embezzlement of Government money or property (18 U.S.C. 641);
+    (2) Failing to account for public money (18 U.S.C. 643); and
+    (3) Embezzlement of the money or property of another person in the 
+possession of an employee by reason of his employment (18 U.S.C. 654).
     (o) The prohibition against unauthorized use of documents relating 
 to claims from or by the Government (18 U.S.C. 285).
     (p) The prohibitions against political activities in subchapter III 
@@ -1073,9 +1069,7 @@ by the submission of supplementary statements.
 
 
 <R05>
-Sec. 200.735-123  Effect of employees' and special Government employees' 
-
-statements on other requirements.
+Sec. 200.735-123  Effect of employees' and special Government employees' statements on other requirements.
 
     The statements of employment and financial interests and 
 supplementary statements required of employees and special Government 
@@ -1279,12 +1273,8 @@ before the appropriate United States district court.
 <R03>
                           SUBCHAPTER A_GENERAL
 
-
 <R03>
 PART 201_RULES OF GENERAL APPLICATION--Table of Contents
-
-<R05>
-
 
 Sec.
 201.0 Seal.
@@ -2089,9 +2079,7 @@ FR 13678, Apr. 5, 1989; 59 FR 66722, Dec. 28, 1994; 61 FR 37829, July
 
 
 <R05>
-Sec. 201.14  Computation of time, additional hearings, postponements, 
-
-continuances, and extensions of time.
+Sec. 201.14  Computation of time, additional hearings, postponements, continuances, and extensions of time.
 
     (a) Computation of time. Computation of any period of time 
 prescribed or allowed by the rules in this chapter, by order of the 
@@ -2215,7 +2203,7 @@ perform some act or take some action within a prescribed period after
 the service of a document upon it and the document is served by 
 overnight delivery, one (1) day shall be added to the prescribed period. 
 ``Overnight delivery'' is defined as delivery by the next business day.
-    (f) Electronic Service. With the prior consent of the Secretary, 
+    (f) Electronic service. With the prior consent of the Secretary, 
 parties may serve documents by electronic means in all matters before 
 the Commission, except for proceedings conducted under section 337 of 
 the Tariff Act of 1930 that are before an administrative law judge. In 
@@ -2382,9 +2370,7 @@ FR 37336, July 20, 1995; 63 FR 29348, May 29, 1998; 68 FR 32975, June 3,
 
 
 <R05>
-Sec. 201.19  Notification regarding requests for confidential business 
-
-information.
+Sec. 201.19  Notification regarding requests for confidential business information.
 
     (a) In general. Business information provided to the Commission by a 
 business submitter which the Commission has designated as ``confidential 
@@ -3028,9 +3014,7 @@ Street SW., Washington, DC 20436, or his or her designee.
 
 
 <R05>
-Sec. 201.24  Procedures for requests pertaining to individual records in a 
-
-records system.
+Sec. 201.24  Procedures for requests pertaining to individual records in a records system.
 
     (a) A request by an individual to gain access to his or her 
 record(s) or to any information pertaining to him or her which is 
@@ -3068,9 +3052,7 @@ Saturdays, Sundays, and legal public holidays).
 
 
 <R05>
-Sec. 201.25  Times, places, and requirements for identification of individuals 
-
-making requests.
+Sec. 201.25  Times, places, and requirements for identification of individuals making requests.
 
     (a) If an individual wishes to examine his or her records in person, 
 it shall be the responsibility of the individual requester to arrange an 
@@ -3197,9 +3179,7 @@ Commission.
 
 
 <R05>
-Sec. 201.29  Commission disclosure of individual records, accounting of record 
-
-disclosures, and requests for accounting of record disclosures.
+Sec. 201.29  Commission disclosure of individual records, accounting of record disclosures, and requests for accounting of record disclosures.
 
     (a) It is the policy of the Commission not to disclose, except as 
 permitted
@@ -3244,9 +3224,9 @@ notation of dispute concerning said record.
 
 
 <R05>
-Sec. 201.30  Commission review of requests for access to records, for 
+Sec. 201.30  Commission review of requests for access to records,
 
-correction or amendment to records, and for accounting of record disclosures.
+for correction or amendment to records, and for accounting of record disclosures.
 
     (a) The individual who disagrees with the refusal of the Privacy Act 
 Officer or the Inspector General for access to a record, to amend a 
@@ -3520,22 +3500,25 @@ section shall be amended to reflect such changed time or place.
 or its determination to open or close a meeting, or portion thereof, to 
 the public following a public notice by acting under Sec. 201.37(b) of 
 this subpart, the public notice required by paragraph (a) or (c)(2) of 
-this section shall be amended to (i) Include a statement affirming that 
-Commission business required the change in subject matter and that no 
-earlier announcement of such change was possible and (ii) Indicate the 
-change in subject matter and the vote of each Commissioner upon such 
-change.
+this section shall be amended to
+    (i) Include a statement affirming that Commission business required 
+the change in subject matter and that no earlier announcement of such 
+change was possible and
+    (ii) Indicate the change in subject matter and the vote of each 
+Commissioner upon such change.
     (e)(1) The Secretary shall issue the public notices required by this 
 section and such amendments thereto as are appropriate to the specific 
 meeting to which they pertain.
-    (2) The Secretary (i) Shall promptly post the public notices 
-referred to in paragraph (e)(1) of this section on bulletin boards 
-outside the Office of the Secretary to the Commission, (ii) Shall make 
-copies thereof available to interested members of the public, including 
-mailing copies thereof through a mailing list of those persons desiring 
-to receive such notices and distributing copies to the press, whether of 
-specialized or general readership, and (iii) Shall immediately submit 
-said public notices to the Federal Register for publication.
+    (2) The Secretary
+    (i) Shall promptly post the public notices referred to in paragraph 
+(e)(1) of this section on bulletin boards outside the Office of the 
+Secretary to the Commission,
+    (ii) Shall make copies thereof available to interested members of 
+the public, including mailing copies thereof through a mailing list of 
+those persons desiring to receive such notices and distributing copies 
+to the press, whether of specialized or general readership, and
+    (iii) Shall immediately submit said public notices to the Federal 
+Register for publication.
     (3) The Office of the Secretary shall respond to all questions from 
 the public concerning the agendas of Commission meetings. Persons 
 desiring to receive copies of notices of Commission meetings should 
@@ -3546,9 +3529,7 @@ mailing list.
 
 
 <R05>
-Sec. 201.36  Closing a portion or portions of a meeting or a series of 
-
-meetings.
+Sec. 201.36  Closing a portion or portions of a meeting or a series of meetings.
 
     (a) Every meeting of the Commission shall be open to public 
 observation except when the Commission properly determines in the manner 
@@ -3558,20 +3539,18 @@ reasons enumerated in paragraph (b) of this section.
     (b) The Commission may close a portion or portions of a Commission 
 meeting only when it determines that public disclosure of information to 
 be discussed at such meeting is likely to:
-    (1) Disclose matters that are
-    (i) Specifically authorized under criteria established by Executive 
-order to be kept secret in the interests of national defense or foreign 
-policy and
-    (ii) In fact properly classified pursuant to such Executive order;
+    (1) Disclose matters that are (i) Specifically authorized under 
+criteria established by Executive order to be kept secret in the 
+interests of national defense or foreign policy and (ii) in fact 
+properly classified pursuant to such Executive order;
     (2) Relate solely to the internal personnel rules and practices of 
 the Commission;
     (3) Disclose matters specifically exempted from disclosure by 
 statute (other than the Freedom of Information Act), provided that such 
-statute
-    (i) Requires that the matters be withheld from the public in such a 
-manner as to leave no discretion on the issue, or
-    (ii) Establishes particular criteria for withholding or refers to 
-particular types of matters to be withheld.
+statute (i) Requires that the matters be withheld from the public in 
+such a manner as to leave no discretion on the issue, or (ii) 
+Establishes particular criteria for withholding or refers to particular 
+types of matters to be withheld.
     (4) Disclose trade secrets and commercial or financial information 
 obtained from a person and privileged or confidential;
     (5) Involve accusing any person of a crime, or formally censuring 
@@ -3589,21 +3568,18 @@ the case of a record compiled by a criminal law-enforcement authority in
 the course of a criminal investigation or by an agency conducting a 
 lawful national-security intelligence investigation, confidential 
 information furnished only by the confidential source;
-    (8)(i) Disclose information the premature disclosure of which would, 
-in
 
 [[Page 46]]
 
-those instances where the Commission regulates commodities, be likely to 
-lead to significant financial speculation in such commodities;
+    (8)(i) Disclose information the premature disclosure of which would, 
+in those instances where the Commission regulates commodities, be likely 
+to lead to significant financial speculation in such commodities;
     (ii) Disclose information the premature disclosure of which would be 
 likely to significantly frustrate implementation of a proposed 
-Commission action except
-    (A) When the Commission has already disclosed to the public the 
-content or nature of its proposed action or
-    (B) when the Commission is required by law to make such disclosure 
-on its own initiative prior to taking final Commission action on such 
-proposal; or
+Commission action except (A) When the Commission has already disclosed 
+to the public the content or nature of its proposed action or (B) when 
+the Commission is required by law to make such disclosure on its own 
+initiative prior to taking final Commission action on such proposal; or
     (9) Specifically concern:
     (i) The Commission's issuance of a subpoena,
     (ii) The Commission's participation in a civil action or proceeding, 
@@ -3632,15 +3608,13 @@ meeting for one or more of the specific reasons enumerated in paragraphs
 of the entire membership of the Commission has voted to take such 
 action.
     (2) A single recorded vote of the Commission shall be taken with 
-respect to:
-    (i) Each Commission meeting of which the Commission proposes to 
-close a portion or portions to the public for one or more of the 
+respect to: (i) Each Commission meeting of which the Commission proposes 
+to close a portion or portions to the public for one or more of the 
 specific reasons enumerated in paragraphs (b) (1) through (9) of this 
-section, or
-    (ii) any information which the Commission proposes to withhold from 
-the public for one or more of the specific reasons enumerated in 
-paragraphs (b) (1) through (9) of this section. No proxy votes are 
-permissible.
+section, or (ii) any information which the Commission proposes to 
+withhold from the public for one or more of the specific reasons 
+enumerated in paragraphs (b) (1) through (9) of this section. No proxy 
+votes are permissible.
     (e)(1) Action by the Commission to close a series of meetings of 
 which the Commission proposes to close a portion or portions to the 
 public for one or more of the specific reasons enumerated in paragraphs 
@@ -3662,19 +3636,18 @@ following such vote.
 
 
 <R05>
-Sec. 201.37  Changing the time, place, subject matter, or determination to 
+Sec. 201.37  Changing the time, place, subject matter, or determination
 
-open or close a meeting following a public notice.
+to open or close a meeting following a public notice.
 
     (a) The time or place of a Commission meeting may be changed 
 following a public announcement required by Sec. 201.35 only if the 
-Commission publicly announces such change or changes at the earliest 
-practicable time by issuing
+Commission publicly announces such change or changes at
 
 [[Page 47]]
 
-an appropriate amendment to the public notice as required by Sec. 
-201.35.
+the earliest practicable time by issuing an appropriate amendment to the 
+public notice as required by Sec. 201.35.
     (b) The subject matter or matters of a Commission meeting or the 
 determination of the Commission to open or close a meeting, or portion 
 of a meeting, to the public may be changed following a public 
@@ -3690,9 +3663,7 @@ the public notice required by Sec. 201.35.
 
 
 <R05>
-Sec. 201.38  Requests by interested persons that the Commission close a 
-
-portion of a Commission meeting.
+Sec. 201.38  Requests by interested persons that the Commission close a portion of a Commission meeting.
 
     (a) Whenever any person whose interests may be directly affected by 
 a portion of a Commission meeting requests that the Commission close 
@@ -3708,17 +3679,14 @@ of Sec. 201.35 shall be issued.
 
 
 <R05>
-Sec. 201.39  General Counsel's certification of Commission action in closing a 
-
-meeting or a series of meetings.
+Sec. 201.39  General Counsel's certification of Commission action in closing a meeting or a series of meetings.
 
     Before a Commission meeting may be closed for the specific reasons 
 enumerated in paragraphs (b) (1) through (9) of Sec. 201.36, the 
-General Counsel
-    (i) Shall, in the related public notice, certify that in his or her 
-opinion the meeting may be closed to the public and
-    (ii) Shall state each applicable exemptive provision of paragraphs 
-(b) (1) through (9) of Sec. 201.36.
+General Counsel (i) Shall, in the related public notice, certify that in 
+his or her opinion the meeting may be closed to the public and (ii) 
+Shall state each applicable exemptive provision of paragraphs (b) (1) 
+through (9) of Sec. 201.36.
 
 
 <R05>
@@ -3754,11 +3722,10 @@ minutes.
 (b), (c), and (d) of this section shall be for a period of at least two 
 (2) years after the particular Commission meeting, or until one (1) year 
 after the conclusion of any Commission proceeding with respect to which 
-the meeting or portion
+the meeting or portion thereof was held, whichever occurs later.
 
 [[Page 48]]
 
-thereof was held, whichever occurs later.
     (f) The requirements of paragraphs (c) and (d) of this section shall 
 not affect or supplant the existing duty of the Secretary to maintain 
 permanent minutes of each Commission meeting. The Secretary shall also 
@@ -3843,16 +3810,15 @@ the Freedom of Information Act shall be processed in accordance with the
 provisions of that act and the applicable regulations of the Commission 
 (19 CFR 201.17 through 201.21).
     (2) Because the Commission does not have original classification 
-authority
+authority and national security information in
 
 [[Page 49]]
 
-and national security information in its custody has been classified by 
-another Federal agency, the Secretary shall refer all requests for 
-mandatory declassification review of classified information to the 
-originating Federal agency along with his recommendations. Following 
-consultation with the originating agency, the Secretary will notify the 
-requestor of the referral.
+its custody has been classified by another Federal agency, the Secretary 
+shall refer all requests for mandatory declassification review of 
+classified information to the originating Federal agency along with his 
+recommendations. Following consultation with the originating agency, the 
+Secretary will notify the requestor of the referral.
     (b) Safeguarding. All classified materials shall be delivered to the 
 addressee or his designee immediately upon receipt at the Commission. In 
 the event that the addressee or his designee is not available to receive 
@@ -3899,9 +3865,8 @@ for national security purposes.
 
 <R04>
  Subpart G_Enforcement of Nondiscrimination on the Basis of Handicap in 
-
+    
     Programs or Activities Conducted by the U.S. International Trade 
-
                                Commission
 
     Authority: 29 U.S.C. 794.
@@ -4460,7 +4425,7 @@ the Federal government. Generally, however, a debt may not be collected
 by such means if it has been outstanding for more than ten years after 
 the agency's right to collect the debt first accrued. These proposed 
 regulations are consistent with the Office of Personnel Management 
-regulations on salary offset, codified at 5 CFR part 550, subpart K, and 
+regulations on salary offset, codified at 5 CFR Part 550, subpart K, and 
 with regulations on administrative offset codified at 31 CFR part 901.
     (b) Scope. (1) Sections 201.201 through 201.207 establish agency 
 procedures for the collection of certain debts owed the Government.
@@ -5055,9 +5020,7 @@ law.
 
 
 <R05>
-Sec. 201.207  Administrative offset against amounts payable from Civil Service 
-
-Retirement and Disability Fund
+Sec. 201.207  Administrative offset against amounts payable from Civil Service Retirement and Disability Fund
 
     (a) Unless otherwise prohibited by law, the Commission may request 
 that moneys which are due and payable to a debtor from the Civil Service 
@@ -5215,12 +5178,8 @@ past due.
 <R03>
                SUBCHAPTER B_NONADJUDICATIVE INVESTIGATIONS
 
-
 <R03>
 PART 202_INVESTIGATIONS OF COSTS OF PRODUCTION--Table of Contents
-
-<R05>
-
 
 Sec.
 202.1 Applicability of part.
@@ -5267,12 +5226,15 @@ corporation engaged in the production of a domestic article, or by any
 duly authorized representative of the foregoing.
     (b) Requirements for applications. In addition to conforming with 
 the requirements of Sec. 201.8 of this chapter, applications under this 
-part 202 shall include the following: (1) A clear statement that they 
-are requests for investigations for the purposes of section 336; (2) the 
-name or description of the article concerning which an investigation is 
-sought; (3) a reference to the tariff provision or provisions applicable 
-to such article; and (4) a statement indicating whether an increase or a 
-decrease in the rate of duty is sought.
+part 202 shall include the following:
+    (1) A clear statement that they are requests for investigations for 
+the purposes of section 336;
+    (2) The name or description of the article concerning which an 
+investigation is sought;
+    (3) A reference to the tariff provision or provisions applicable to 
+such article; and
+    (4) A statement indicating whether an increase or a decrease in the 
+rate of duty is sought.
     (c) Supporting information. The applicant must file with his 
 application such supporting information as may be in his possession. As 
 far as practicable, information of the following character should be 
@@ -5311,13 +5273,13 @@ investigation to which this part 202 relates.
 Sec. 202.5  Type of information to be developed at hearing.
 
     Without excluding other factors, but with a view to assisting 
-parties interested to present information necessary for the formulation 
-of findings required
+parties interested to present information necessary
 
 [[Page 68]]
 
-by the statute, the Commission will expect attention in the hearing to 
-be concentrated upon facts relating to:
+for the formulation of findings required by the statute, the Commission 
+will expect attention in the hearing to be concentrated upon facts 
+relating to:
     (a) The degree of competition between the foreign and domestic 
 articles in the markets of the United States.
     (b) The degree of likeness or similarity between grades, classes, 
@@ -5348,12 +5310,7 @@ to the President.
 
 
 <R03>
-PART 204_INVESTIGATIONS OF EFFECTS OF IMPORTS ON AGRICULTURAL PROGRAMS--Table 
-
-of Contents
-
-<R05>
-
+PART 204_INVESTIGATIONS OF EFFECTS OF IMPORTS ON AGRICULTURAL PROGRAMS--Table of Contents
 
 Sec.
 204.1 Applicability of part.
@@ -5461,18 +5418,12 @@ Secretary of Agriculture.
 
 
 <R03>
- PART 205_INVESTIGATIONS TO DETERMINE THE PROBABLE ECONOMIC EFFECT ON THE 
-
-ECONOMY OF THE UNITED STATES OF PROPOSED MODIFICATIONS OF DUTIES OR OF ANY 
-
-BARRIER TO (OR OTHER DISTORTION OF) INTERNATIONAL TRADE OR OF TAKING 
-
-RETALIATORY ACTIONS TO OBTAIN THE ELIMINATION OF UNJUSTIFIABLE OR UNREASONABLE 
-
-FOREIGN ACTS OR POLICIES WHICH RESTRICT U.S. COMMERCE--Table of Contents
-
-<R05>
-
+ PART 205_INVESTIGATIONS TO DETERMINE THE PROBABLE ECONOMIC EFFECT ON
+ 
+ THE ECONOMY OF THE UNITED STATES OF PROPOSED MODIFICATIONS OF DUTIES OR OF ANY BARRIER TO 
+    (OR OTHER DISTORTION OF) INTERNATIONAL TRADE OR OF TAKING RETALIATORY 
+    ACTIONS TO OBTAIN THE ELIMINATION OF UNJUSTIFIABLE OR UNREASONABLE FOREIGN ACTS OR 
+POLICIES WHICH RESTRICT U.S. COMMERCE--Table of Contents
 
 Sec.
 205.1 Applicability of part.
@@ -5513,6 +5464,7 @@ other applicable rules, see part 201 of this chapter.
 
 <R04>
  Subpart A_Investigations To Determine the Probable Economic Effect of 
+
   Modifications of United States Duties or of Any Barrier to (or Other 
     Distortion of) International Trade on Domestic Industries and on 
                                 Consumers
@@ -5527,9 +5479,7 @@ purposes of section 131(a)-(b), 131(c), and 503 of the Trade Act of
 
 
 <R05>
-Sec. 205.3  Investigations under sections 131 and 503 of the Trade Act of 
-
-1974.
+Sec. 205.3  Investigations under sections 131 and 503 of the Trade Act of 1974.
 
     (a) Purpose of investigations--(1) Sections 131(a)-(b) and 503(a). 
 Upon the receipt of a list of articles from the President or from the 
@@ -5583,9 +5533,7 @@ Sec. 205.4  [Reserved]
  Subpart B_Investigations Concerning the Probable Impact on the Economy 
 
   of the United States of the President's Taking Retaliatory Action To 
-
 Obtain the Elimination of Unjustifiable or Unreasonable Foreign Acts or 
-
                   Policies Which Restrict U.S. Commerce
 
 
@@ -5638,14 +5586,9 @@ which will be transmitted promptly to the President.
 
 
 <R03>
-PART 206_INVESTIGATIONS RELATING TO GLOBAL AND BILATERAL SAFEGUARD ACTIONS, 
+PART 206_INVESTIGATIONS RELATING TO GLOBAL AND BILATERAL SAFEGUARD ACTIONS,
 
-MARKET DISRUPTION, TRADE DIVERSION, AND REVIEW OF RELIEF ACTIONS--Table of 
-
-Contents
-
-<R05>
-
+MARKET DISRUPTION, TRADE DIVERSION, AND REVIEW OF RELIEF ACTIONS--Table of Contents
 
 Sec.
 206.1 Applicability of part.
@@ -5795,9 +5738,7 @@ the United States International Trade Commission.''
 
 
 <R05>
-Sec. 206.3  Institution of investigations; publication of notice; and 
-
-availability for public inspection.
+Sec. 206.3  Institution of investigations; publication of notice; and availability for public inspection.
 
     (a) Institution of investigation and publication of notice. Except 
 as provided in Sec. 206.15(b), the Commission, after receipt of a 
@@ -5937,9 +5878,7 @@ and on other domestic industries.
 
 
 <R05>
-Sec. 206.7  Confidential business information; furnishing of nonconfidential 
-
-summaries thereof.
+Sec. 206.7  Confidential business information; furnishing of nonconfidential summaries thereof.
 
     (a) Nonrelease of information. Except as provided for in Sec. 
 206.17, in the case of an investigation under subpart B, C, D, F, or G 
@@ -6061,7 +6000,7 @@ this part and part 201 of this chapter.
 <R05>
 Sec. 206.12  Definitions applicable to subpart B of this part.
 
-    For the purposes of this subpart, the following terms have the 
+    For the purposes of this Subpart, the following terms have the 
 meanings hereby assigned to them:
     (a) Adjustment plan means a plan to facilitate positive adjustment 
 to import competition submitted by a petitioner to the Commission and 
@@ -6235,9 +6174,7 @@ intend to take to facilitate positive adjustment to import competition.
 
 
 <R05>
-Sec. 206.17  Limited disclosure of certain confidential business information 
-
-under administrative protective order.
+Sec. 206.17  Limited disclosure of certain confidential business information under administrative protective order.
 
     (a)(1) Disclosure. Upon receipt of a timely application filed by an 
 authorized applicant, as defined in paragraph (a)(3) of this section, 
@@ -6588,7 +6525,7 @@ determination regarding such allegation and any finding on or before the
 Sec. 206.19  Public report.
 
     Upon making a report to the President of the results of an 
-investigation to which this subpart B relates, the Commission will make 
+investigation to which this Subpart B relates, the Commission will make 
 such report public (with the exception of information which the 
 Commission determines to be confidential) and cause a summary thereof to 
 be published in the Federal Register.
@@ -6959,9 +6896,7 @@ import relief sought.
 
 
 <R05>
-Sec. 206.44  Contents of a petition under section 421(b) or (o) of the Trade 
-
-Act.
+Sec. 206.44  Contents of a petition under section 421(b) or (o) of the Trade Act.
 
     (a) Petitions under section 421(b). (1) A petition for relief under 
 section 421(b) of the Trade Act shall provide specific information in 
@@ -7096,9 +7031,7 @@ with due diligence.
 
 
 <R05>
-Sec. 206.44a  Special rules for conducting investigations under section 421(b) 
-
-of the Trade Act.
+Sec. 206.44a  Special rules for conducting investigations under section 421(b) of the Trade Act.
 
     (a) Service of the petition. (1)(i) The Secretary shall promptly 
 notify a petitioner when, before the establishment of a service list 
@@ -7195,9 +7128,7 @@ be published in the Federal Register.
 
 
 <R05>
-Sec. 206.47  Limited disclosure of certain confidential business information 
-
-under administrative protective order.
+Sec. 206.47  Limited disclosure of certain confidential business information under administrative protective order.
 
     In an investigation under section 421(b) or (o) of the Trade Act, 
 the Secretary shall make confidential business information available to 
@@ -7208,7 +7139,6 @@ authorized applicants, subject to the provisions of Sec. 206.17.
 
 <R04>
    Subpart F_Monitoring; Advice As to Effect of Extension, Reduction, 
-
               Modification, or Termination of Relief Action
 
     Source: 60 FR 10, Jan. 3, 1995, unless otherwise noted.
@@ -7264,9 +7194,7 @@ paragraph.
 
 
 <R05>
-Sec. 206.53  Investigations to advise the President as to the probable 
-
-economic effect of reduction, modification, or termination of action.
+Sec. 206.53  Investigations to advise the President as to the probable economic effect of reduction, modification, or termination of action.
 
     Upon the request of the President, the Commission will conduct an 
 investigation for the purpose of gathering information in order that it 
@@ -7456,9 +7384,7 @@ purpose thereof.
 
 
 <R05>
-Sec. 206.64  Institution of investigation or review; publication of notice; 
-
-and availability for public inspection.
+Sec. 206.64  Institution of investigation or review; publication of notice; and availability for public inspection.
 
     (a) Paragraphs (a) and (b) in Sec. 206.3 govern the institution of 
 an investigation under section 422(b) of the Act and the publication of 
@@ -7491,9 +7417,7 @@ are provided for in Sec. 206.5(b).
 
 
 <R05>
-Sec. 206.66  Limited disclosure of certain confidential business information 
-
-under administrative protective order.
+Sec. 206.66  Limited disclosure of certain confidential business information under administrative protective order.
 
     In an investigation under section 422(b) of the Trade Act, the 
 Secretary shall make confidential business information available to 
@@ -7528,14 +7452,10 @@ Register.
 
 
 <R03>
-  PART 207_INVESTIGATIONS OF WHETHER INJURY TO DOMESTIC INDUSTRIES RESULTS 
-
-FROM IMPORTS SOLD AT LESS THAN FAIR VALUE OR FROM SUBSIDIZED EXPORTS TO THE 
-
-UNITED STATES--Table of Contents
-
-<R05>
-
+  PART 207_INVESTIGATIONS OF WHETHER INJURY TO DOMESTIC INDUSTRIES
+  
+  RESULTS FROM IMPORTS SOLD AT LESS THAN FAIR VALUE OR FROM SUBSIDIZED EXPORTS TO THE UNITED 
+STATES--Table of Contents
 
 Sec.
 207.1 Applicability of part.
@@ -7838,9 +7758,7 @@ Sec. 207.6  [Reserved]
 
 
 <R05>
-Sec. 207.7  Limited disclosure of certain business proprietary information 
-
-under administrative protective order.
+Sec. 207.7  Limited disclosure of certain business proprietary information under administrative protective order.
 
     (a)(1) Disclosure. Upon receipt of a timely application filed by an 
 authorized applicant, as defined in paragraph (a)(3) of this section, 
@@ -8153,9 +8071,7 @@ of Sec. 207.3.
 
 
 <R05>
-Sec. 207.8  Questionnaires to have the force of subpoenas; subpoena 
-
-enforcement.
+Sec. 207.8  Questionnaires to have the force of subpoenas; subpoena enforcement.
 
     Any questionnaire issued by the Commission in connection with any 
 investigation under title VII of the Act may be issued as a subpoena and 
@@ -8291,9 +8207,7 @@ Federal Register.
 
 
 <R05>
-Sec. 207.13  Cooperation with administering authority; preliminary phase of 
-
-investigation.
+Sec. 207.13  Cooperation with administering authority; preliminary phase of investigation.
 
     Subsequent to institution of an investigation pursuant to section 
 207.12,
@@ -8663,9 +8577,8 @@ proprietary information in the comments permitted by Sec. 207.3(c).
 
 <R04>
      Subpart D_Terminated, Suspended, and Continued Investigations, 
-
+ 
  Investigations to Review Negotiated Agreements, and Investigations To 
-
                     Review Outstanding Determinations
 
     Source: 56 FR 11929, Mar. 21, 1991, unless otherwise noted.
@@ -8703,9 +8616,9 @@ all investigations instituted under this section.
 
 
 <R05>
-Sec. 207.41  Commission review of agreements to eliminate the injurious effect 
+Sec. 207.41  Commission review of agreements to eliminate the injurious
 
-of subsidized imports or imports sold at less than fair value.
+effect of subsidized imports or imports sold at less than fair value.
 
     If the administering authority determines to suspend an 
 investigation upon acceptance of an agreement to eliminate the injurious 
@@ -8910,11 +8823,9 @@ section 516A of the Act.
 
 
 <R05>
-Sec. 207.51  Judicial review of denial of application for disclosure of 
+Sec. 207.51  Judicial review of denial of application for disclosure 
 
-certain business proprietary information under administrative protective 
-
-order.
+of certain business proprietary information under administrative protective order.
 
     (a) In general. Persons entitled to judicial review under section 
 777(c)(2) of the Commission determination not to disclose business 
@@ -9345,9 +9256,7 @@ Commerce in its regulations at 19 CFR part 356.
 
 
 <R05>
-Sec. 207.93  Protection of proprietary information during panel and committee 
-
-proceedings.
+Sec. 207.93  Protection of proprietary information during panel and committee proceedings.
 
     (a) Requests for protective orders. A request for access to 
 proprietary information pursuant to 19 U.S.C. 1677f(f)(1) shall be made 
@@ -9618,9 +9527,7 @@ amendment or modification.
 
 
 <R05>
-Sec. 207.94  Protection of privileged information during panel and committee 
-
-proceedings.
+Sec. 207.94  Protection of privileged information during panel and committee proceedings.
 
     When and if a panel or extraordinary challenge committee decides 
 that the Commission is required, pursuant to the United States law, to 
@@ -10225,12 +10132,7 @@ Commission deems appropriate.
 
 
 <R03>
-PART 208_INVESTIGATIONS WITH RESPECT TO COMMERCIAL AVAILABILITY OF TEXTILE 
-
-FABRIC AND YARN IN SUB-SAHARAN AFRICAN COUNTRIES--Table of Contents
-
-<R05>
-
+PART 208_INVESTIGATIONS WITH RESPECT TO COMMERCIAL AVAILABILITY OF TEXTILE FABRIC AND YARN IN SUB-SAHARAN AFRICAN COUNTRIES--Table of Contents
 
 Sec.
 208.1 Applicability of part.
@@ -10382,9 +10284,7 @@ including orders and other supporting documents.
 
 
 <R05>
-Sec. 208.4  Institution of investigations; publication of notice; and 
-
-availability of petition for public inspection.
+Sec. 208.4  Institution of investigations; publication of notice; and availability of petition for public inspection.
 
     (a) Institution of investigation and publication of notice. The 
 Commission, after receipt of a petition under this part, properly filed, 
@@ -10520,9 +10420,7 @@ confidential), and publish a summary thereof in the Federal Register.
 
 
 <R05>
-Sec. 208.8  Confidential business information; furnishing of nonconfidential 
-
-summaries thereof.
+Sec. 208.8  Confidential business information; furnishing of nonconfidential summaries thereof.
 
     (a) Nonrelease of information. In the case of an investigation under 
 this part, the Commission will not release information which the 
@@ -10553,12 +10451,8 @@ summarized form, the Commission may disregard the submission.
 <R03>
      SUBCHAPTER C_INVESTIGATIONS OF UNFAIR PRACTICES IN IMPORT TRADE
 
-
 <R03>
 PART 210_ADJUDICATION AND ENFORCEMENT--Table of Contents
-
-<R05>
-
 
                 Subpart A_Rules of General Applicability
 
@@ -10903,7 +10797,7 @@ the
 
 Commission shall describe the conduct determined to constitute a 
 violation of this rule and explain the basis for the sanction imposed. 
-See also Sec. 210.25(d)--(f).
+See also Sec. 210.25(d)-(f).
     (e) Inapplicability to discovery. Paragraphs (c) and (d) of this 
 section do not apply to discovery requests, responses, objections, and 
 motions that are subject to provisions of Sec. Sec. 210.27 through 
@@ -11079,9 +10973,7 @@ FR 32444, June 22, 1995]
 
 
 <R05>
-Sec. 210.6  Computation of time, additional hearings, postponements, 
-
-continuances, and extensions of time.
+Sec. 210.6  Computation of time, additional hearings, postponements, continuances, and extensions of time.
 
     (a) Unless the Commission, the administrative law judge, or this or 
 another section of this part specifically provides otherwise, the 
@@ -11212,9 +11104,11 @@ temporary relief, if any; and
     (vi) For each proposed respondent, one copy of the confidential 
 version of the motion along with one copy of the confidential exhibits 
 filed with the motion.
+
     Note to paragraph (a)(2): The same requirements apply for the filing 
 of a supplement to the complaint or a supplement to the motion for 
 temporary relief.
+
     (b) Upon the initiative of the Commission. The Commission may upon 
 its initiative commence a preinstitution proceeding based upon any 
 alleged violation of section 337 of the Tariff Act of 1930.
@@ -11626,9 +11520,7 @@ submitted by the complainant.
 
 
 <R05>
-Sec. 210.14  Amendments to pleadings and notice; supplemental submissions; 
-
-counterclaims.
+Sec. 210.14  Amendments to pleadings and notice; supplemental submissions; counterclaims.
 
     (a) Preinstitution amendments. The complaint may be amended at any 
 time prior to the institution of the investigation.
@@ -11959,7 +11851,7 @@ whole or in part as to any or all respondents on the basis of a
 settlement, a licensing or other agreement, including an agreement to 
 present the matter for arbitration, or a consent order, as provided in 
 paragraphs (b), (c) and (d) of this section.
-    (b) Termination by Settlement. (1) An investigation before the 
+    (b) Termination by settlement. (1) An investigation before the 
 Commission may be terminated as to one or more respondents pursuant to 
 section 337(c) of the Tariff Act of 1930 on the basis of a licensing or 
 other settlement agreement. A motion for termination by settlement shall 
@@ -12588,9 +12480,7 @@ which the answer may be ascertained.
 
 
 <R05>
-Sec. 210.30  Requests for production of documents and things and entry upon 
-
-land.
+Sec. 210.30  Requests for production of documents and things and entry upon land.
 
     (a) Scope. Any party may serve on any other party a request:
     (1) To produce and permit the party making the request, or someone 
@@ -12862,9 +12752,7 @@ section to reimburse the Commission for attorney's fees.
 
 
 <R05>
-Sec. 210.34  Protective orders; reporting requirement; sanctions and other 
-
-actions.
+Sec. 210.34  Protective orders; reporting requirement; sanctions and other actions.
 
     (a) Issuance of protective order. Upon motion by a party or by the 
 person from whom discovery is sought or by the administrative law judge 
@@ -12952,10 +12840,10 @@ the protective order is the subject of:
     (1) A subpoena;
     (2) A court or an administrative order (other than an order of a 
 court reviewing a Commission decision);
-    (3) A discovery request;
 
 [[Page 163]]
 
+    (3) A discovery request;
     (4) An agreement; or
     (5) Any other written request, if the request or order seeks 
 disclosure, by him or any other person, of the subject confidential 
@@ -13038,11 +12926,11 @@ shall be public unless otherwise ordered by the administrative law
 judge.
     (c) Expedition. Hearings shall proceed with all reasonable 
 expedition, and, insofar as practicable, shall be held at one place, 
-continuing until completed unless otherwise ordered by the 
-administrative law judge.
+continuing until completed
 
 [[Page 164]]
 
+unless otherwise ordered by the administrative law judge.
     (d) Rights of the parties. Every hearing under this section shall be 
 conducted in accordance with the Administrative Procedure Act (i.e., 5 
 U.S.C. Sec. Sec. 554 through 556). Hence, every party shall have the 
@@ -13356,9 +13244,7 @@ FR 53120, Oct. 12, 1995; 73 FR 38324, July 7, 2008]
 
 
 <R05>
-Sec. 210.43  Petitions for review of initial determinations on matters other 
-
-than temporary relief.
+Sec. 210.43  Petitions for review of initial determinations on matters other than temporary relief.
 
     (a) Filing of the petition. (1) Except as provided in paragraph 
 (a)(2) of this section, any party to an investigation may request 
@@ -13479,9 +13365,7 @@ FR 53120, Oct. 12, 1995; 73 FR 38325, July 7, 2008]
 
 
 <R05>
-Sec. 210.44  Commission review on its own motion of initial determinations on 
-
-matters other than temporary relief.
+Sec. 210.44  Commission review on its own motion of initial determinations on matters other than temporary relief.
 
     Within the time provided in Sec. 210.43(d)(1), the Commission on 
 its own initiative may order review of an initial determination, or 
@@ -13495,9 +13379,7 @@ address.
 
 
 <R05>
-Sec. 210.45  Review of initial determinations on matters other than temporary 
-
-relief.
+Sec. 210.45  Review of initial determinations on matters other than temporary relief.
 
     (a) Briefs and oral argument. In the event the Commission orders 
 review of an initial determination pertaining to issues other than 
@@ -13530,9 +13412,7 @@ FR 38235, July 7, 2008]
 
 
 <R05>
-Sec. 210.46  Petitions for and sua sponte review of initial determinations on 
-
-violation of section 337 or temporary relief.
+Sec. 210.46  Petitions for and sua sponte review of initial determinations on violation of section 337 or temporary relief.
 
     (a) Violation of section 337. An initial determination issued under 
 Sec. 210.42(a)(1)(i) on whether respondents have violated section 337 
@@ -13622,9 +13502,7 @@ FR 38325, July 7, 2008]
 
 
 <R05>
-Sec. 210.50  Commission action, the public interest, and bonding by 
-
-respondents.
+Sec. 210.50  Commission action, the public interest, and bonding by respondents.
 
     (a) During the course of each investigation under this part, the 
 Commission shall--
@@ -14079,9 +13957,7 @@ Sec. 210.34 of this part.
 
 
 <R05>
-Sec. 210.60  Designating an investigation ``more complicated'' for the purpose 
-
-of adjudicating a motion for temporary relief.
+Sec. 210.60  Designating an investigation ``more complicated'' for the purpose of adjudicating a motion for temporary relief.
 
     At the time the Commission determines to institute an investigation 
 and provisionally accepts a motion for temporary relief pursuant to 
@@ -14173,9 +14049,7 @@ determination is based.
 
 
 <R05>
-Sec. 210.66  Initial determination concerning temporary relief; Commission 
-
-action thereon.
+Sec. 210.66  Initial determination concerning temporary relief; Commission action thereon.
 
     (a) On or before the 70th day after publication of the notice of 
 investigation in an ordinary investigation, or on or before the 120th 
@@ -14709,9 +14583,7 @@ comment on the proposed change.
 
 
 <R05>
-Sec. 210.75  Proceedings to enforce exclusion orders, cease and desist orders, 
-
-consent orders, and other Commission orders.
+Sec. 210.75  Proceedings to enforce exclusion orders, cease and desist orders, consent orders, and other Commission orders.
 
     (a) Informal enforcement proceedings. Informal enforcement 
 proceedings may be conducted by the Commission, through the Office of 
@@ -14826,9 +14698,7 @@ initiated.
 
 
 <R05>
-Sec. 210.76  Modification or rescission of exclusion orders, cease and desist 
-
-orders, and consent orders.
+Sec. 210.76  Modification or rescission of exclusion orders, cease and desist orders, and consent orders.
 
     (a) Petitions for modification or rescission of exclusion orders, 
 cease and desist orders, and consent orders. (1) Whenever any person 
@@ -14982,9 +14852,6 @@ Commission's advice.
 
 <R03>
 PART 212_IMPLEMENTATION OF THE EQUAL ACCESS TO JUSTICE ACT--Table of Contents
-
-<R05>
-
 
                       Subpart A_General Provisions
 
@@ -15464,9 +15331,6 @@ by the applicant or any other party to the proceeding.
 <R03>
 PART 213_TRADE REMEDY ASSISTANCE--Table of Contents
 
-<R05>
-
-
 Sec.
 213.1 Purpose and applicability of part.
 213.2 Definitions.
@@ -15688,16 +15552,12 @@ Part                                                                Page
 357             Short supply procedures.....................         332
 358             Supplies for use in emergency relief work...         337
 360             Steel import monitoring and analysis system.         339
-361             Mexican cement import licensing system......         342
 
 [[Page 199]]
 
 
 <R03>
 PART 351_ANTIDUMPING AND COUNTERVAILING DUTIES--Table of Contents
-
-<R05>
-
 
                      Subpart A_Scope and Definitions
 
@@ -15914,8 +15774,8 @@ Act;
 Act; and
     (3) Elaborates on the meaning of certain terms that are defined in 
 the Act.
-    (b) Definitions.
-    (1) Act. ``Act'' means the Tariff Act of 1930, as amended.
+    (b) Definitions. (1) Act. ``Act'' means the Tariff Act of 1930, as 
+amended.
     (2) Administrative review. ``Administrative review'' means a review 
 under section 751(a)(1) of the Act.
     (3) Affiliated persons; affiliated parties. ``Affiliated persons'' 
@@ -16111,7 +15971,7 @@ is equivalent to a sale.
     (44) Secretary. ``Secretary'' means the Secretary of Commerce or a 
 designee. The Secretary has delegated to the Assistant Secretary for 
 Import Administration the authority to make determinations under title 
-VII of the Act and this Part.
+VII of the Act and this part.
     (45) Section 753 review. ``Section 753 review'' means a review under 
 section 753 of the Act.
 
@@ -16136,7 +15996,7 @@ to a suspension of liquidation ordered by the Secretary under the
 authority of title VII of the Act, the provisions of this Part, or 
 section 516a(g)(5)(C) of the Act, or by a court of the United States in 
 a lawsuit involving action taken, or not taken, by the Secretary under 
-title VII of the Act or the provisions of this Part.
+title VII of the Act or the provisions of this part.
     (51) Third country. For purposes of subpart D, ``third country'' 
 means a country other than the exporting country and the United States. 
 Under section 773(a) of the Act and subpart D, in certain circumstances 
@@ -16148,9 +16008,7 @@ third country.
 
 
 <R05>
-Sec. 351.103  Central Records Unit and Administrative Protective Order and 
-
-Dockets Unit.
+Sec. 351.103  Central Records Unit and Administrative Protective Order and Dockets Unit.
 
     (a) Import Administration's Central Records Unit maintains a Public 
 File Room in Room 1117, U.S. Department of Commerce, Pennsylvania Avenue 
@@ -16258,9 +16116,7 @@ the Department.
 
 
 <R05>
-Sec. 351.105  Public, business proprietary, privileged, and classified 
-
-information.
+Sec. 351.105  Public, business proprietary, privileged, and classified information.
 
     (a) Introduction. There are four categories of information in an 
 antidumping or countervailing duty proceeding: public, business 
@@ -16335,9 +16191,7 @@ to the public or to representatives of interested parties.
 
 
 <R05>
-Sec. 351.106  De minimis net countervailable subsidies and weighted-average 
-
-dumping margins disregarded.
+Sec. 351.106  De minimis net countervailable subsidies and weighted-average dumping margins disregarded.
 
     (a) Introduction. Prior to the enactment of the URAA, the Department 
 had a well-established and judicially sanctioned practice of 
@@ -16376,9 +16230,9 @@ the equivalent specific rate.
 
 
 <R05>
-Sec. 351.107  Cash deposit rates for nonproducing exporters; rates in 
+Sec. 351.107  Cash deposit rates for nonproducing exporters; rates 
 
-antidumping proceedings involving a nonmarket economy country.
+in antidumping proceedings involving a nonmarket economy country.
 
     (a) Introduction. This section deals with the establishment of cash 
 deposit rates in situations where the exporter is not the producer of 
@@ -16725,9 +16579,7 @@ suspended investigation was terminated, the Secretary will consider
 
 
 <R05>
-Sec. 351.204  Time periods and persons examined; voluntary respondents; 
-
-exclusions.
+Sec. 351.204  Time periods and persons examined; voluntary respondents; exclusions.
 
     (a) Introduction. Because the Act does not specify the precise 
 period of time that the Secretary should examine in an antidumping or 
@@ -17543,9 +17395,9 @@ of the Act).
 
 
 <R05>
-Sec. 351.212  Assessment of antidumping and countervailing duties; provisional 
+Sec. 351.212  Assessment of antidumping and countervailing duties; 
 
-measures deposit cap; interest on certain overpayments and underpayments.
+provisional measures deposit cap; interest on certain overpayments and underpayments.
 
     (a) Introduction. Unlike the systems of some other countries, the 
 United States uses a ``retrospective'' assessment system under which 
@@ -17689,9 +17541,7 @@ paragraph (f)(1) or (f)(2) of this section, whichever is appropriate
 
 
 <R05>
-Sec. 351.213  Administrative review of orders and suspension agreements under 
-
-section 751(a)(1) of the Act.
+Sec. 351.213  Administrative review of orders and suspension agreements under section 751(a)(1) of the Act.
 
     (a) Introduction. As noted in Sec. 351.212(a), the United States 
 has a ``retrospective'' assessment system under which final liability 
@@ -18113,9 +17963,7 @@ Sec. 351.212(f).
 
 
 <R05>
-Sec. 351.215  Expedited antidumping review and security in lieu of estimated 
-
-duty under section 736(c) of the Act.
+Sec. 351.215  Expedited antidumping review and security in lieu of estimated duty under section 736(c) of the Act.
 
     (a) Introduction. Exporters and producers individually examined in 
 an investigation normally cannot obtain a review of entries until an 
@@ -18173,9 +18021,7 @@ parties to the proceeding agree to the outcome of the review.
 
 
 <R05>
-Sec. 351.217  Reviews to implement results of subsidies enforcement proceeding 
-
-under section 751(g) of the Act.
+Sec. 351.217  Reviews to implement results of subsidies enforcement proceeding under section 751(g) of the Act.
 
     (a) Introduction. Section 751(g) provides a mechanism for 
 incorporating into an ongoing countervailing duty proceeding the results 
@@ -18636,9 +18482,7 @@ FR 62064, Oct. 28, 2005]
 
 
 <R05>
-Sec. 351.219  Reviews of countervailing duty orders in connection with an 
-
-investigation under section 753 of the Act.
+Sec. 351.219  Reviews of countervailing duty orders in connection with an investigation under section 753 of the Act.
 
     (a) Introduction. Section 753 of the Act is a transition provision 
 for countervailing duty orders that were issued under section 303 of the 
@@ -18666,9 +18510,7 @@ conduct a section 753 review in accordance with Sec. 351.221.
 
 
 <R05>
-Sec. 351.220  Countervailing duty review at the direction of the President 
-
-under section 762 of the Act.
+Sec. 351.220  Countervailing duty review at the direction of the President under section 762 of the Act.
 
     At the direction of the President or a designee, the Secretary will 
 conduct a review under section 762(a)(1) of the Act to determine if a 
@@ -19176,7 +19018,7 @@ part, following an Article 4/Article 7 review under Sec. 351.217(c),
 due to the imposition of countermeasures by the United States or the 
 withdrawal of a countervailable subsidy by a WTO member country (see 
 section 751(g)(2) of the Act).
-    (2) Additional Requirements. In addition to the requirements of 
+    (2) Additional requirements. In addition to the requirements of 
 Sec. 351.221, if the Secretary determines to revoke an order as the 
 result of an Article 4/Article 7 review, the Secretary will:
     (i) Conduct a verification, if appropriate, under Sec. 351.307;
@@ -19286,7 +19128,7 @@ States of the downstream product.
 after an application is filed under paragraph (b) of this section, the 
 Secretary will rule on the sufficiency of the application by making the 
 determinations described in section 780(a)(2) of the Act.
-    (d) Notice of Determination. The Secretary will publish in the 
+    (d) Notice of determination. The Secretary will publish in the 
 Federal Register notice of each affirmative or negative ``monitoring'' 
 determination made under section 780(a)(2) of the Act, and if the 
 determination under section 780(a)(2)(A) of the Act and a determination 
@@ -19298,9 +19140,7 @@ the information upon which the Secretary based the initiation.
 
 
 <R05>
-Sec. 351.224  Disclosure of calculations and procedures for the correction of 
-
-ministerial errors.
+Sec. 351.224  Disclosure of calculations and procedures for the correction of ministerial errors.
 
     (a) Introduction. In the interests of transparency, the Department 
 has long had a practice of providing parties with the details of its 
@@ -19847,9 +19687,7 @@ FR 74932, Dec. 10, 2008]
 
 
 <R05>
-Sec. 351.302  Extension of time limits; return of untimely filed or 
-
-unsolicited material.
+Sec. 351.302  Extension of time limits; return of untimely filed or unsolicited material.
 
     (a) Introduction. This section sets forth the procedures for 
 requesting an extension of a time limit. In addition, this section 
@@ -19883,9 +19721,7 @@ practicable, written notice stating the reasons for return.
 
 
 <R05>
-Sec. 351.303  Filing, format, translation, service, and certification of 
-
-documents.
+Sec. 351.303  Filing, format, translation, service, and certification of documents.
 
     (a) Introduction. This section contains the procedural rules 
 regarding filing, format, service, translation, and certification of 
@@ -20412,7 +20248,7 @@ respect to corroboration of information.
     (b) In general. The Secretary may make a determination under the Act 
 and this part based on the facts otherwise available in accordance with 
 section 776(a) of the Act.
-    (c) Adverse Inferences. For purposes of section 776(b) of the Act, 
+    (c) Adverse inferences. For purposes of section 776(b) of the Act, 
 an adverse inference may include reliance on:
     (1) Secondary information, such as information derived from:
     (i) The petition;
@@ -20583,9 +20419,7 @@ obtain copies of the transcript.
 
 
 <R05>
-Sec. 351.311  Countervailable subsidy practice discovered during investigation 
-
-or review.
+Sec. 351.311  Countervailable subsidy practice discovered during investigation or review.
 
     (a) Introduction. During the course of a countervailing duty 
 investigation or review, Department officials may discover or receive 
@@ -20752,9 +20586,7 @@ producer establishes the material terms of sale.
 
 
 <R05>
-Sec. 351.402  Calculation of export price and constructed export price; 
-
-reimbursement of antidumping and countervailing duties.
+Sec. 351.402  Calculation of export price and constructed export price; reimbursement of antidumping and countervailing duties.
 
     (a) Introduction. In order to establish export price, constructed 
 export price, and normal value, the Secretary must make certain 
@@ -20874,9 +20706,7 @@ duties or countervailing duties.
 
 
 <R05>
-Sec. 351.403  Sales used in calculating normal value; transactions between 
-
-affiliated parties.
+Sec. 351.403  Sales used in calculating normal value; transactions between affiliated parties.
 
     (a) Introduction. This section clarifies when the Secretary may use 
 offers for sale in determining normal value. Additionally, this section 
@@ -20906,9 +20736,7 @@ this section.
 
 
 <R05>
-Sec. 351.404  Selection of the market to be used as the basis for normal 
-
-value.
+Sec. 351.404  Selection of the market to be used as the basis for normal value.
 
     (a) Introduction. Although in most circumstances sales of the 
 foreign like product in the home market are the most appropriate basis 
@@ -21001,9 +20829,7 @@ the country in which the merchandise is produced.
 
 
 <R05>
-Sec. 351.406  Calculation of normal value if sales are made at less than cost 
-
-of production.
+Sec. 351.406  Calculation of normal value if sales are made at less than cost of production.
 
     (a) Introduction. In determining normal value, the Secretary may 
 disregard sales of the foreign like product made at prices that are less 
@@ -21100,9 +20926,7 @@ general research and development costs), as startup costs.
 
 
 <R05>
-Sec. 351.408  Calculation of normal value of merchandise from nonmarket 
-
-economy countries.
+Sec. 351.408  Calculation of normal value of merchandise from nonmarket economy countries.
 
     (a) Introduction. In identifying dumping from a nonmarket economy 
 country, the Secretary normally will calculate normal value by valuing 
@@ -21243,9 +21067,7 @@ identical physical characteristics.
 
 
 <R05>
-Sec. 351.412  Levels of trade; adjustment for difference in level of trade; 
-
-constructed export price offset.
+Sec. 351.412  Levels of trade; adjustment for difference in level of trade; constructed export price offset.
 
     (a) Introduction. In comparing United States sales with foreign 
 market sales, the Secretary may determine that sales in the two markets 
@@ -21350,9 +21172,7 @@ the levels of trade under Sec. 351.412.
 
 
 <R05>
-Sec. 351.414  Comparison of normal value with export price (constructed export 
-
-price).
+Sec. 351.414  Comparison of normal value with export price (constructed export price).
 
     (a) Introduction. The Secretary normally will average prices used as 
 the basis for normal value and, in an investigation, prices used as the 
@@ -21421,7 +21241,7 @@ U.S. sale in which there was a sale of the foreign like product.
     (iii) If there are no sales of the foreign like product during any 
 of these months, the earlier of the two months following the month of 
 the U.S. sale in which there was a sale of the foreign like product.
-    (f)--(g) [Reserved]
+    (f)-(g) [Reserved]
 
 [62 FR 27379, May 19, 1997, as amended at 73 FR 74932, Dec. 10, 2008]
 
@@ -21841,7 +21661,7 @@ decision is inconsistent with the usual investment practice of private
 investors, including the practice regarding the provision of risk 
 capital, in the country in which the equity infusion is made. See 
 section 771(5)(E)(i) of the Act.
-    (2) Private investor prices available.--(i) In general. Except as 
+    (2) Private investor prices available--(i) In general. Except as 
 provided in paragraph (a)(2)(iii) of this section, the Secretary will 
 consider an equity infusion as being inconsistent with usual investment 
 practice (see paragraph (a)(1) of this section) if the price paid by the 
@@ -22167,9 +21987,7 @@ section.
 
 
 <R05>
-Sec. 351.516  Price preferences for inputs used in the production of goods for 
-
-export.
+Sec. 351.516  Price preferences for inputs used in the production of goods for export.
 
     (a) Benefit--(1) In general. In the case of a program involving the 
 provision by governments or their agencies, either
@@ -22223,9 +22041,7 @@ is considered to have been received under paragraph (b) of this section.
 
 
 <R05>
-Sec. 351.518  Exemption, remission, or deferral upon export of prior-stage 
-
-cumulative indirect taxes.
+Sec. 351.518  Exemption, remission, or deferral upon export of prior-stage cumulative indirect taxes.
 
     (a) Benefit--(1) Exemption of prior-stage cumulative indirect taxes. 
 In the case of a program that provides for the exemption of prior-stage 
@@ -22585,7 +22401,7 @@ express authorization or approval (i.e., receipt of benefits is not
 automatic), or
     (iii) Whether the subsidy was provided for, or tied to, the capital 
 structure or capital assets of the firm.
-    (d) Process for allocating non-recurring benefits over time.--(1) In 
+    (d) Process for allocating non-recurring benefits over time--(1) In 
 general. For purposes of allocating a non-recurring benefit over time 
 and determining the annual benefit amount that should be assigned to a 
 particular year, the Secretary will use the following formula:
@@ -22658,9 +22474,7 @@ rate described in Sec. 351.505(a)(3)(iii).
 
 
 <R05>
-Sec. 351.525  Calculation of ad valorem subsidy rate and attribution of 
-
-subsidy to a product.
+Sec. 351.525  Calculation of ad valorem subsidy rate and attribution of subsidy to a product.
 
     (a) Calculation of ad valorem subsidy rate. The Secretary will 
 calculate an ad valorem subsidy rate by dividing the amount of the 
@@ -23534,7 +23348,6 @@ the requirements of the Act as amended by the URAA.
 
 <R05>
     Sec. Annex VI to Part 351--Countervailing Investigations Timeline
-
 [GRAPHIC] [TIFF OMITTED] TR19MY97.000
 
 
@@ -23545,7 +23358,6 @@ the requirements of the Act as amended by the URAA.
 
 <R05>
      Sec. Annex VII to Part 351--Antidumping Investigations Timeline
-
 [GRAPHIC] [TIFF OMITTED] TR19MY97.001
 
 
@@ -23739,12 +23551,7 @@ the requirements of the Act as amended by the URAA.
 
 
 <R03>
-PART 354_PROCEDURES FOR IMPOSING SANCTIONS FOR VIOLATION OF AN ANTIDUMPING OR 
-
-COUNTERVAILING DUTY ADMINISTRATIVE PROTECTIVE ORDER--Table of Contents
-
-<R05>
-
+PART 354_PROCEDURES FOR IMPOSING SANCTIONS FOR VIOLATION OF AN ANTIDUMPING OR COUNTERVAILING DUTY ADMINISTRATIVE PROTECTIVE ORDER--Table of Contents
 
 Sec.
 354.1 Scope.
@@ -24515,12 +24322,7 @@ request.
 
 
 <R03>
-PART 356_PROCEDURES AND RULES FOR IMPLEMENTING ARTICLE 1904 OF THE NORTH 
-
-AMERICAN FREE TRADE AGREEMENT--Table of Contents
-
-<R05>
-
+PART 356_PROCEDURES AND RULES FOR IMPLEMENTING ARTICLE 1904 OF THE NORTH AMERICAN FREE TRADE AGREEMENT--Table of Contents
 
                      Subpart A_Scope and Definitions
 
@@ -24824,9 +24626,7 @@ Sec. 356.5  [Reserved]
 
 
 <R05>
-Sec. 356.6  Receipt of notice of a scope determination by the Government of a 
-
-FTA country.
+Sec. 356.6  Receipt of notice of a scope determination by the Government of a FTA country.
 
     (a) Where the Department has made a scope determination, notice of 
 such determination shall be deemed received by the Government of a FTA 
@@ -24845,9 +24645,7 @@ determination at issue.
 
 
 <R05>
-Sec. 356.7  Request to determine when the Government of a FTA country received 
-
-notice of a scope determination.
+Sec. 356.7  Request to determine when the Government of a FTA country received notice of a scope determination.
 
     (a) Pursuant to section 516A(g)(10) of the Act (19 U.S.C. 
 1516a(g)(10)), any party to the proceeding may request in writing from 
@@ -25378,9 +25176,7 @@ and (iii).
 
 
 <R05>
-Sec. 356.12  Sanctions for violation of a protective order or disclosure 
-
-undertaking.
+Sec. 356.12  Sanctions for violation of a protective order or disclosure undertaking.
 
     (a) A person, other than a person exempted from this part by the 
 provisions of section 777f(f)(4) of the Act (19 U.S.C. 1677f(f)(4)), 
@@ -26064,9 +25860,7 @@ consistent with the provisions of Sec. 356.10.
 
 
 <R05>
-Sec. 356.30  Sanctions for violations of a protective order for privileged 
-
-information.
+Sec. 356.30  Sanctions for violations of a protective order for privileged information.
 
     The provisions of this subpart shall apply to persons who are 
 alleged to have violated a Protective Order for Privileged Information.
@@ -26074,9 +25868,6 @@ alleged to have violated a Protective Order for Privileged Information.
 
 <R03>
 PART 357_SHORT SUPPLY PROCEDURES--Table of Contents
-
-<R05>
-
 
 Sec.
 357.101 Definitions.
@@ -26262,9 +26053,7 @@ customers of the product in each of the last three years.
 
 
 <R05>
-Sec. 357.104  Determination of adequacy of petition, notice of review and 
-
-opportunity for comment.
+Sec. 357.104  Determination of adequacy of petition, notice of review and opportunity for comment.
 
     (a) Within 24 hours after a petition is filed, excluding weekends 
 and holidays, the Secretary will determine whether the petition is 
@@ -26340,9 +26129,7 @@ is received.
 
 
 <R05>
-Sec. 357.107  Publication of determinations and notification of foreign 
-
-governments.
+Sec. 357.107  Publication of determinations and notification of foreign governments.
 
     The Secretary will publish in the Federal Register a notice of each 
 short supply determination setting forth the basis for that 
@@ -26487,9 +26274,6 @@ considered in the short supply determination.
 <R03>
 PART 358_SUPPLIES FOR USE IN EMERGENCY RELIEF WORK--Table of Contents
 
-<R05>
-
-
 Sec.
 358.101 Scope.
 358.102 Definitions.
@@ -26594,9 +26378,6 @@ dumped and/or subsidized imports.
 
 <R03>
 PART 360_STEEL IMPORT MONITORING AND ANALYSIS SYSTEM--Table of Contents
-
-<R05>
-
 
 Sec.
 360.101 Steel import licensing.
@@ -26851,266 +26632,11 @@ require up to 10 working days to process such forms. Delays in filing
 caused by the removal of a filer's electronic filing privilege will not 
 be considered a mitigating factor by the U.S. Customs Service.
 
-
-<R03>
-PART 361_MEXICAN CEMENT IMPORT LICENSING SYSTEM--Table of Contents
-
-<R05>
-
-
-Sec.
-361.101 Mexican Cement Import Licensing System.
-361.102 Online registration.
-361.103 Automatic issuance of import licenses.
-361.104 Fees.
-361.105 Hours of operation.
-
-    Authority: 13 U.S.C. 301(a) and 302.
-
-    Source: 72 FR 10009, Mar. 6, 2007, unless otherwise noted.
-
-
-<R05>
-Sec. 361.101  Mexican Cement Import Licensing System.
-
-    (a) In general. (1) On March 6, 2006, the Agreement between the 
-Office of the United States Trade Representative and the Department of 
-Commerce of the United States of America and the Ministry of Economy of 
-the United Mexican States (Secretaria de Economia) on Trade in Cement 
-(Agreement) was signed. Pursuant to the Agreement, the United States has 
-agreed to implement an import licensing system for imports of 
-merchandise covered by the scope of the antidumping duty order on Cement 
-from Mexico. Some of the data to be collected is in addition to data 
-currently collected by U.S. Customs and Border Protection (USCBP). The 
-data collected by the Mexican Cement Import Licensing System will be 
-used by the Department of Commerce (Commerce) to monitor imports of 
-Mexican Cement, as the imports occur.
-    (2) Mexican Cement is defined as gray portland cement and clinker 
-from Mexico. Gray portland cement is a hydraulic cement and the primary 
-component of concrete. Clinker, an intermediate material produced when 
-manufacturing cement, has no use other than being ground into finished 
-cement. Specifically included within the scope of this definition are 
-pozzolanic blended cements and oil well cements. Specifically excluded 
-are white cement and Type ``S'' masonry cement. Gray portland cement is 
-currently classifiable under the Harmonized Tariff Schedule of the 
-United States (HTSUS) item number 2523.29 and cement clinker is 
-currently classifiable under HTSUS item number 2523.10. Gray portland 
-cement has also been entered under HTSUS item number 2523.90 as ``other 
-hydraulic cements.'' These HTSUS subheadings are provided for 
-convenience and USCBP purposes; the written definition is controlling 
-for purposes of this Agreement.
-    (3) The Mexican Cement Import Licensing System includes an online 
-registration system. All imports of Mexican Cement covered by the scope 
-of the Agreement, including samples, whether or not for consumption, are 
-subject to the Mexican Cement Import Licensing requirements. Information 
-gathered from these import licenses will be used to ensure that the 
-terms of the Agreement are complied with and enforced.
-    (4) A single import license may cover multiple products if the 
-following information reported on the import license remains the same: 
-Company Name, Address, City, State, Zip, Contact Name, Contact Phone, 
-Contact Fax, Contact E-mail, Importer Name, Exporter Name, Manufacturer 
-Name, Country of Origin, Country of Exportation, Expected Port of Entry, 
-Expected Date of Importation, Expected Date of Export, Customs Entry 
-Number (if known), Date License Valid From, Date License Valid Through, 
-Date of Application, Subregion of Final Destination, Type of 
-Affiliation, U.S. Affiliate's Name, Address, County, City, State, Zip, 
-Mexican Export License Number, and Disaster Relief Statement. Separate 
-import licenses will be required for each type of Mexican Cement entry 
-if the above information
-
 [[Page 343]]
-
-differs. As a result, a single USCBP entry summary may require more than 
-one Mexican Cement import license. The applicable import license(s) must 
-cover the total quantity of Mexican Cement entered and should cover the 
-same information provided on USCBP Form 7501.
-    (5) Access to Information. (i) Information gathered by the Mexican 
-Cement Import Licensing System will be treated as business proprietary 
-information and will be subject to the administrative protective order 
-in place for this Agreement. Commerce may elect to publish certain 
-aggregate information collected by the Mexican Cement Import License 
-System on the Import Administration Web site. Any information Commerce 
-elects to publish will not include business proprietary information nor 
-information from specific ports of entry or companies.
-    (ii) In accordance with 19 CFR 351.305, interested parties who have 
-been approved for access to business proprietary information under the 
-administrative protective order in effect for this Agreement will 
-receive a quarterly report of all information gathered by the Mexican 
-Cement Import License System.
-    (b) Covered Entries. All entries of Mexican Cement subject to the 
-Agreement, including samples, whether or not for consumption, will 
-require an import license prior to the filing of USCBP Form 7501, except 
-as provided in Sec. 361.101(c). The import license number(s) must be 
-reported on USCBP Form 7501 at the time of filing. There is no 
-requirement to present physical copies of the import license forms at 
-the time of filing USCBP Form 7501; however, copies must be maintained 
-in accordance with USCBP's existing requirements. Submission of a USCBP 
-Form 7501 without the required import license number(s) will be 
-considered circumvention of the Agreement.
-    (c) Foreign Trade Zone entries. All shipments of covered Mexican 
-Cement into FTZs, known as FTZ admissions, will require an import 
-license prior to the filing of FTZ admission documents. The import 
-license number(s) must be reported on the application for FTZ admission 
-and/or status designation (USCBP Form 214) at the time of filing. There 
-is no requirement to present physical copies of the import license forms 
-at the time of FTZ admission; however, copies must be maintained in 
-accordance with USCBP's existing requirements. Submission of FTZ 
-admission documents without the required import license number(s) will 
-be considered circumvention of the Agreement. A further Mexican Cement 
-import license will not be required for shipments from FTZs into the 
-commerce of the United States.
-    (d) Mexican Export License Requirement. Each importer is required to 
-submit a valid Mexican Export License to USCBP with its 7501 entry 
-summary. For multiple shipments at multiple ports, or multiple entries 
-at one port, the original Mexican Export License shall be presented with 
-the first 7501 entry summary and a copy of the Export License shall be 
-presented with each subsequent 7501 entry summary. In the case where an 
-entry is covered by two Mexican export licenses, the importer must 
-obtain two separate import licenses (e.g., if a shipment of 100 metric 
-tons (MT) is entered into the United States, 60 MT of which applies to 
-one Mexican Export License, and 40 MT of which applies to a second 
-Mexican Export License, the importer must obtain an import license for 
-60 MT and a second import license for 40 MT).
-
-
-<R05>
-Sec. 361.102  Online registration.
-
-    (a) In General. (1) Any importer, importing company, customs broker 
-or importer's agent with a U.S. street address may register and obtain 
-the user identification number necessary to log on to the automatic 
-Mexican Cement import license issuance system. Foreign companies may 
-obtain a user identification number if they have a U.S. address through 
-which they may be reached; P.O. Boxes will not be accepted. A user 
-identification number normally will be issued within two business days. 
-Companies will be able to register online through the import licensing 
-Web site. However, should a company prefer to apply for a user 
-identification number non-electronically, a phone/fax option will be 
-available at Commerce during regular business hours.
-
-[[Page 344]]
-
-    (2) This user identification number will be required in order to log 
-on to the Mexican Cement import license issuance system. A single user 
-identification number will be issued to an importing company, brokerage 
-house or importer's agent. Operating units within the company (e.g., 
-individual branches, divisions, or employees) will all use the same 
-company user identification number. The Mexican Cement import license 
-issuance system will be designed to allow multiple users of a single 
-identification number from different locations within the company to 
-enter information simultaneously.
-    (b) Information required to obtain a user identification number. In 
-order to obtain a user identification number, the importer, importing 
-company, customs broker or importer's agent will be required to provide 
-certain general information. This information will include: the filer's 
-company name, employer identification number (EIN) or USCBP ID number 
-(where no EIN is available), U.S. street address, telephone number, e-
-mail address, and contact information for both the company headquarters 
-and any branch offices that will be applying for Mexican Cement import 
-licenses. It is the responsibility of the applicant to keep this 
-information up-to-date. This information will not be released by 
-Commerce, except as required by U.S. law.
-
-
-<R05>
-Sec. 361.103  Automatic issuance of import licenses.
-
-    (a) In general. Mexican Cement import licenses will be issued to 
-registered importers, customs brokers or their agents through the 
-automatic Mexican Cement Import Licensing System. The import licenses 
-will be issued automatically after the completion of the form.
-    (b) USCBP entry number. Filers are required to report a USCBP entry 
-number to obtain an import license if the USCBP entry number is known at 
-the time of filing for the import license.
-    (c) Information required to obtain an import license. (1) The 
-following information is required to be reported in order to obtain an 
-import license (if using the automatic licensing system, some of this 
-information will be provided automatically from information submitted as 
-part of the registration process):
-    (i) Applicant company name and address;
-    (ii) Applicant contact name, phone number, fax number and e-mail 
-address;
-    (iii) Importer name;
-    (iv) Exporter name;
-    (v) Manufacturer name;
-    (vi) Country of origin;
-    (vii) Country of exportation;
-    (viii) Expected date of export;
-    (ix) Expected date of import;
-    (x) Expected port of entry;
-    (xi) Sub-Region of Final Destination: Indicate the Sub-region where 
-either the Mexican Cement will be consumed by an affiliated company to 
-make concrete or concrete products or the Sub-region of the first 
-unaffiliated purchaser of the Mexican Cement.
-    (xii) Final Destination: Indicate the complete name and address 
-(including county) of either the affiliated company that will consume 
-the Mexican Cement or the first unaffiliated purchaser of the Mexican 
-Cement. If either is not known when the Import License is issued, 
-indicate the address (including county) where the Mexican Cement will be 
-siloed/warehoused until the time of shipment to the first unaffiliated 
-purchaser.
-    (xiii) USCBP entry number, if known;
-    (xiv) Current Harmonized Tariff System of the United States (HTSUS) 
-number (from Chapter 25 of the HTSUS);
-    (xv) Quantity (in metric tons);
-    (xvi) Customs value (U.S. $);
-    (xvii) Whether the entry is made pursuant to the disaster relief 
-provisions of the Agreement; and
-    (xviii) Mexican Export License Number.
-    (2) Certain fields will be automatically completed by the automatic 
-import license system based on information submitted by the filer (e.g., 
-product category, unit value). Filers should review these fields to help 
-confirm the accuracy of the submitted data.
-    (3) Upon completion of the form, the importer, customs broker or the 
-importer's agent will certify as to the accuracy and completeness of the 
-information and submit the form electronically. After submitting the 
-completed
-
-[[Page 345]]
-
-form, the system will automatically issue a Mexican Cement import 
-license number. The refreshed form containing the submitted information 
-and the newly issued import license number will appear on the screen 
-(the ``import license form''). If needed, copies of completed import 
-license forms can be requested from Commerce during normal business 
-hours.
-    (d) Duration of the Mexican Cement import license. The Mexican 
-Cement import license can be applied for up to 30 days prior to the 
-expected date of importation and until the date of filing of USCBP Form 
-7501, or in the case of FTZ entries, the filing of USCBP Form 214. The 
-Mexican Cement import license is valid for 60 days; however, import 
-licenses that were valid on the date of importation but expired prior to 
-the filing of USCBP Form 7501 will be accepted.
-    (e) Correcting submitted license information. If an error is 
-discovered in the import license after the entry date listed on USCBP 
-Form 7501, filers will be able to correct the import license or cancel 
-the import license and obtain a new import license. Commerce reserves 
-the right to verify any changes made to an import license after entry 
-and may take appropriate action under the terms of the Agreement if it 
-determines that a violation of the Agreement has occurred.
-
-
-<R05>
-Sec. 361.104  Fees.
-
-    No fees will be charged for obtaining a user identification number 
-or issuing a Mexican Cement import license.
-
-
-<R05>
-Sec. 361.105  Hours of operation.
-
-    The automatic licensing system will generally be accessible 24 hours 
-a day, 7 days a week but may be down at selected times for server 
-maintenance. If the system is down for an extended period of time, 
-parties will be able to obtain import licenses from Commerce directly 
-via fax during regular business hours.
-
-[[Page 347]]
 
 
 <R02>
-CHAPTER IV--BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT, DEPARTMENT OF 
+  CHAPTER IV--U.S. IMMIGRATION AND CUSTOMS ENFORCEMENT, DEPARTMENT OF 
                       HOMELAND SECURITY [RESERVED]
 
 
@@ -27121,9 +26647,8 @@ CHAPTER IV--BUREAU OF IMMIGRATION AND CUSTOMS ENFORCEMENT, DEPARTMENT OF
 
 
  PARTS 400-599 [RESERVED]
-
 
-[[Page 349]]
+[[Page 345]]
 
 
 <R02>
@@ -27143,7 +26668,7 @@ which is published separately and revised annually.
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
-[[Page 351]]
+[[Page 347]]
 
 
 <R03>
@@ -27152,7 +26677,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of April 1, 2009)
+                      (Revised as of April 1, 2010)
 
                       Title 1--General Provisions
 
@@ -27193,13 +26718,14 @@ which is published separately and revised annually.
                 2600--2699)
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
+       XXX  Department of Homeland Security (Parts 3000--3099)
       XXXI  Institute of Museum and Library Services (Parts 3100--
                 3199)
      XXXII  National Endowment for the Arts (Parts 3200--3299)
     XXXIII  National Endowment for the Humanities (Parts 3300--
                 3399)
 
-[[Page 352]]
+[[Page 348]]
 
       XXXV  Export-Import Bank of the United States (Parts 3500--
                 3599)
@@ -27207,12 +26733,13 @@ which is published separately and revised annually.
 
                         Title 3--The President
 
-            Presidential Documents
          I  Executive Office of the President (Parts 100--199)
 
                            Title 4--Accounts
 
          I  Government Accountability Office (Parts 1--99)
+        II  Recovery Accountability and Transparency Board (Parts 
+                200--299)
 
                    Title 5--Administrative Personnel
 
@@ -27253,11 +26780,11 @@ which is published separately and revised annually.
                 5199)
       XLII  Department of Labor (Parts 5200--5299)
      XLIII  National Science Foundation (Parts 5300--5399)
+
+[[Page 349]]
+
        XLV  Department of Health and Human Services (Parts 5500--
                 5599)
-
-[[Page 353]]
-
       XLVI  Postal Rate Commission (Parts 5600--5699)
      XLVII  Federal Trade Commission (Parts 5700--5799)
     XLVIII  Nuclear Regulatory Commission (Parts 5800--5899)
@@ -27307,10 +26834,8 @@ which is published separately and revised annually.
 
          I  Department of Homeland Security, Office of the 
                 Secretary (Parts 0--99)
-         X  Privacy and Civil Liberties Oversight Board (Parts 
-                1000--1099)
 
-[[Page 354]]
+[[Page 350]]
 
                          Title 7--Agriculture
 
@@ -27370,7 +26895,7 @@ which is published separately and revised annually.
        XXX  Office of the Chief Financial Officer, Department of 
                 Agriculture (Parts 3000--3099)
 
-[[Page 355]]
+[[Page 351]]
 
       XXXI  Office of Environmental Quality, Department of 
                 Agriculture (Parts 3100--3199)
@@ -27426,7 +26951,7 @@ which is published separately and revised annually.
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
 
-[[Page 356]]
+[[Page 352]]
 
      XVIII  Northeast Interstate Low-Level Radioactive Waste 
                 Commission (Parts 1800--1899)
@@ -27434,7 +26959,7 @@ which is published separately and revised annually.
                       Title 11--Federal Elections
 
          I  Federal Election Commission (Parts 1--9099)
-        II  Election Assistance Commission (Parts9400--9499)
+        II  Election Assistance Commission (Parts 9400--9499)
 
                       Title 12--Banks and Banking
 
@@ -27481,7 +27006,7 @@ which is published separately and revised annually.
                 Administration, Department of Transportation 
                 (Parts 400--499)
 
-[[Page 357]]
+[[Page 353]]
 
          V  National Aeronautics and Space Administration (Parts 
                 1200--1299)
@@ -27534,7 +27059,7 @@ which is published separately and revised annually.
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
 
-[[Page 358]]
+[[Page 354]]
 
           Title 18--Conservation of Power and Water Resources
 
@@ -27547,15 +27072,15 @@ which is published separately and revised annually.
 
                        Title 19--Customs Duties
 
-         I  Bureau of Customs and Border Protection, Department of 
+         I  U.S. Customs and Border Protection, Department of 
                 Homeland Security; Department of the Treasury 
                 (Parts 0--199)
         II  United States International Trade Commission (Parts 
                 200--299)
        III  International Trade Administration, Department of 
                 Commerce (Parts 300--399)
-        IV  Bureau of Immigration and Customs Enforcement, 
-                Department of Homeland Security (Parts 400--599)
+        IV  U.S. Immigration and Customs Enforcement, Department 
+                of Homeland Security (Parts 400--599)
 
                      Title 20--Employees' Benefits
 
@@ -27592,7 +27117,7 @@ which is published separately and revised annually.
         II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
 
-[[Page 359]]
+[[Page 355]]
 
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
@@ -27636,7 +27161,7 @@ which is published separately and revised annually.
                 Department of Housing and Urban Development (Parts 
                 100--199)
         II  Office of Assistant Secretary for Housing-Federal 
-                Housing Commissioner, Department of Housing and 
+                HousingCommissioner, Department of Housing and 
                 Urban Development (Parts 200--299)
        III  Government National Mortgage Association, Department 
                 of Housing and Urban Development (Parts 300--399)
@@ -27647,7 +27172,7 @@ which is published separately and revised annually.
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
 
-[[Page 360]]
+[[Page 356]]
 
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
@@ -27675,6 +27200,8 @@ which is published separately and revised annually.
         XX  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 3200--3899)
+      XXIV  Board of Directors of the HOPE for Homeowners Program 
+                (Parts 4000--4099)
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
 
@@ -27701,13 +27228,12 @@ which is published separately and revised annually.
          I  Internal Revenue Service, Department of the Treasury 
                 (Parts 1--899)
 
+[[Page 357]]
+
            Title 27--Alcohol, Tobacco Products and Firearms
 
          I  Alcohol and Tobacco Tax and Trade Bureau, Department 
                 of the Treasury (Parts 1--399)
-
-[[Page 361]]
-
         II  Bureau of Alcohol, Tobacco, Firearms, and Explosives, 
                 Department of Justice (Parts 400--699)
 
@@ -27759,7 +27285,7 @@ which is published separately and revised annually.
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
-[[Page 362]]
+[[Page 358]]
 
                       Title 30--Mineral Resources
 
@@ -27820,7 +27346,7 @@ which is published separately and revised annually.
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
 
-[[Page 363]]
+[[Page 359]]
 
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
@@ -27878,7 +27404,7 @@ which is published separately and revised annually.
                 900--999)
          X  Presidio Trust (Parts 1000--1099)
 
-[[Page 364]]
+[[Page 360]]
 
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
@@ -27904,6 +27430,7 @@ which is published separately and revised annually.
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
          I  Department of Veterans Affairs (Parts 0--99)
+        II  Armed Forces Retirement Home
 
                        Title 39--Postal Service
 
@@ -27933,12 +27460,12 @@ which is published separately and revised annually.
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
+
+[[Page 361]]
+
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
-
-[[Page 365]]
-
             Chapters 62--100 [Reserved]
             Subtitle C--Federal Property Management Regulations 
                 System
@@ -27988,7 +27515,7 @@ which is published separately and revised annually.
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10010)
 
-[[Page 366]]
+[[Page 362]]
 
              Title 44--Emergency Management and Assistance
 
@@ -28047,7 +27574,7 @@ which is published separately and revised annually.
         II  Maritime Administration, Department of Transportation 
                 (Parts 200--399)
 
-[[Page 367]]
+[[Page 363]]
 
        III  Coast Guard (Great Lakes Pilotage), Department of 
                 Homeland Security (Parts 400--499)
@@ -28061,14 +27588,17 @@ which is published separately and revised annually.
        III  National Telecommunications and Information 
                 Administration, Department of Commerce (Parts 
                 300--399)
+        IV  National Telecommunications and Information 
+                Administration, Department of Commerce, and 
+                National Highway Traffic Safety Administration, 
+                Department of Transportation (Parts 400--499)
 
            Title 48--Federal Acquisition Regulations System
 
          1  Federal Acquisition Regulation (Parts 1--99)
          2  Defense Acquisition Regulations System, Department of 
                 Defense (Parts 200--299)
-         3  Department of Health and Human Services (Parts 300--
-                399)
+         3  Health and Human Services (Parts 300--399)
          4  Department of Agriculture (Parts 400--499)
          5  General Services Administration (Parts 500--599)
          6  Department of State (Parts 600--699)
@@ -28096,12 +27626,12 @@ which is published separately and revised annually.
                 2400--2499)
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
+
+[[Page 364]]
+
         29  Department of Labor (Parts 2900--2999)
         30  Department of Homeland Security, Homeland Security 
                 Acquisition Regulation (HSAR) (Parts 3000--3099)
-
-[[Page 368]]
-
         34  Department of Education Acquisition Regulation (Parts 
                 3400--3499)
         51  Department of the Army Acquisition Regulations (Parts 
@@ -28113,8 +27643,8 @@ which is published separately and revised annually.
         54  Defense Logistics Agency, Department of Defense (Parts 
                 5400--5499)
         57  African Development Foundation (Parts 5700--5799)
-        61  General Services Administration Board of Contract 
-                Appeals (Parts 6100--6199)
+        61  Civilian Board of Contract Appeals, General Services 
+                Administration (Parts 6100--6199)
         63  Department of Transportation Board of Contract Appeals 
                 (Parts 6300--6399)
         99  Cost Accounting Standards Board, Office of Federal 
@@ -28150,13 +27680,12 @@ which is published separately and revised annually.
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
 
+[[Page 365]]
+
                    Title 50--Wildlife and Fisheries
 
          I  United States Fish and Wildlife Service, Department of 
                 the Interior (Parts 1--199)
-
-[[Page 369]]
-
         II  National Marine Fisheries Service, National Oceanic 
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 200--299)
@@ -28181,7 +27710,7 @@ which is published separately and revised annually.
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 371]]
+[[Page 367]]
 
 
 
@@ -28192,7 +27721,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                      (Revised as of April 1, 2009)
+                      (Revised as of April 1, 2010)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -28253,7 +27782,7 @@ American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 
-[[Page 372]]
+[[Page 368]]
 
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -28294,7 +27823,7 @@ Commerce Department                               44, IV
   National Marine Fisheries Service               50, II, IV, VI
   National Oceanic and Atmospheric                15, IX; 50, II, III, IV, 
        Administration                             VI
-  National Telecommunications and Information     15, XXIII; 47, III
+  National Telecommunications and Information     15, XXIII; 47, III, IV
        Administration
   National Weather Service                        15, IX
   Patent and Trademark Office, United States      37, I
@@ -28328,7 +27857,7 @@ Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
 
-[[Page 373]]
+[[Page 369]]
 
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
@@ -28401,7 +27930,7 @@ Executive Office of the President                 3, I
   Management and Budget, Office of                5, III, LXXVII; 14, VI; 
                                                   48, 99
 
-[[Page 374]]
+[[Page 370]]
 
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
@@ -28476,7 +28005,7 @@ Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
 
-[[Page 375]]
+[[Page 371]]
 
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
@@ -28512,7 +28041,7 @@ Health and Human Services, Department of          2, III; 5, XLV; 45,
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
-Homeland Security, Department of                  6, I
+Homeland Security, Department of                  2, XXX; 6, I
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
   Customs and Border Protection Bureau            19, I
@@ -28552,7 +28081,7 @@ Immigration and Naturalization                    8, I
 Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
 
-[[Page 376]]
+[[Page 372]]
 
 Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
@@ -28632,7 +28161,7 @@ Labor Department                                  5, XLII
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
 
-[[Page 377]]
+[[Page 373]]
 
   Employment Standards Administration             20, VI
   Federal Acquisition Regulation                  48, 29
@@ -28691,7 +28220,7 @@ National Endowment for the Arts                   2, XXXII
 National Endowment for the Humanities             2, XXXIII
 National Foundation on the Arts and the           45, XI
      Humanities
-National Highway Traffic Safety Administration    23, II, III; 49, V
+National Highway Traffic Safety Administration    23, II, III; 47, VI; 49, V
 National Imagery and Mapping Agency               32, I
 National Indian Gaming Commission                 25, III
 National Institute for Literacy                   34, XI
@@ -28706,14 +28235,14 @@ National Park Service                             36, I
 National Railroad Adjustment Board                29, III
 National Railroad Passenger Corporation (AMTRAK)  49, VII
 
-[[Page 378]]
+[[Page 374]]
 
 National Science Foundation                       2, XXV; 5, XLIII; 45, VI
   Federal Acquisition Regulation                  48, 25
 National Security Council                         32, XXI
 National Security Council and Office of Science   47, II
      and Technology Policy
-National Telecommunications and Information       15, XXIII; 47, III
+National Telecommunications and Information       15, XXIII; 47, III, IV
      Administration
 National Transportation Safety Board              49, VIII
 Natural Resources Conservation Service            7, VI
@@ -28759,7 +28288,6 @@ President's Commission on White House             1, IV
 Presidential Documents                            3
 Presidio Trust                                    36, X
 Prisons, Bureau of                                28, V
-Privacy and Civil Liberties Oversight Board       6, X
 Procurement and Property Management, Office of    7, XXXII
 Productivity, Technology and Innovation,          37, IV
      Assistant Secretary
@@ -28769,6 +28297,7 @@ Public and Indian Housing, Office of Assistant    24, IX
 Public Health Service                             42, I
 Railroad Retirement Board                         20, II
 Reclamation, Bureau of                            43, I
+Recovery Accountability and Transparency Board    4, II
 Refugee Resettlement, Office of                   45, IV
 Relocation Allowances                             41, 302
 Research and Innovative Technology                49, XI
@@ -28782,7 +28311,7 @@ Saint Lawrence Seaway Development Corporation     33, IV
 Science and Technology Policy, Office of          32, XXIV
 Science and Technology Policy, Office of, and     47, II
    National Security Council
-[[Page 379]]
+[[Page 375]]
 
 Secret Service                                    31, IV
 Securities and Exchange Commission                17, II
@@ -28819,7 +28348,7 @@ Transportation, Department of                     2, XII; 5, L
   Federal Railroad Administration                 49, II
   Federal Transit Administration                  49, VI
   Maritime Administration                         46, II
-  National Highway Traffic Safety Administration  23, II, III; 49, V
+  National Highway Traffic Safety Administration  23, II, III; 47, IV; 49, V
   Pipeline and Hazardous Materials Safety         49, I
        Administration
   Saint Lawrence Seaway Development Corporation   33, IV
@@ -28859,7 +28388,7 @@ Utah Reclamation Mitigation and Conservation      43, III
 Veterans Affairs Department                       2, VIII; 38, I
   Federal Acquisition Regulation                  48, 8
 
-[[Page 380]]
+[[Page 376]]
 
 Veterans' Employment and Training Service,        41, 61; 20, IX
      Office of the Assistant Secretary for
@@ -28870,7 +28399,7 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 381]]
+[[Page 377]]
 
 
 <R03>
@@ -28957,7 +28486,7 @@ Chapter II
 201.204 (a)(16)(ii), (g)(1), (2), (h)(1)(iii), (2)(iii), (3), 
         (4)(ii), (j) and (n) revised...............................32976
 
-[[Page 382]]
+[[Page 378]]
 
 201.206 (d), (f)(3) and (g)(1)(iv) revised.........................32976
 201.207 (b)(3) revised.............................................32976
@@ -28997,5 +28526,99 @@ Chapter II
 207.7 (b) introductory text, (1) introductory text and (iv) 
         revised.....................................................8512
 207.10 (a) revised..................................................8512
-207.23 Revised................................................
+207.23 Revised......................................................8512
+207.24 (d) revised..................................................8512
+207.93 (b)(6), (c)(1), (2)(ii), (3), (4)(ii)(A), (5)(i), (ii), 
+        (iii) and (e) revised; (b)(7) added.........................8512
+Chapter III
+351.218 (d)(2)(ii) introductory text, (iv)(C), (e)(1)(ii)(B) 
+        introductory text, (3) and (C)(2) revised; (d)(2)(iii) 
+        removed....................................................62064
+351.309 (c)(1)(iii) revised........................................62064
+360 Revised; interim...............................................12136
+    Regulation at 70 FR 12136 confirmed............................72373
+
+                                  2006
+
+19 CFR
+                                                                   71 FR
+                                                                    Page
+Chapter III
+351.218 (d)(2)(iii) correctly removed; CFR correction..............68458
+358 Added..........................................................63234
+
+                                  2007
+
+19 CFR
+                                                                   72 FR
+                                                                    Page
+Chapter II
+208 Added; interim..................................................8626
+208.7 Second (c) correctly designated as (d).......................11288
+210.6 Revised......................................................13689
+210.7 (a) revised..................................................13690
+Chapter III
+361 Added; eff. 4-5-07.............................................10009
+
+                                  2008
+
+19 CFR
+                                                                   73 FR
+                                                                    Page
+Chapter II
+201.16 (e) redesignated as (f); new (e) added......................38320
+210.3 Amended......................................................38320
+210.4 (f)(1)(i) revised............................................38320
+210.7 (b) redesignated as (c); (a)(3) and new (b) added............38320
+210.8 Introductory text added; (a) revised.........................38320
+210.10 (a)(5)(i) amended...........................................38321
+210.11 Revised.....................................................38321
+210.12 (a)(1), (6)(i) introductory text, (C), (9), (c), (f) and 
+        (g) revised; (a)(10) and (h) redesignated as (a)(11) and 
+        (j); new (a)(10), (h) and (i) added; (d) amended...........38321
+210.13 (b) introductory text, (1) and (3) amended..................38322
+210.18 (a) revised.................................................38322
+210.21 (a) and (e) revised; (b)(2), (c) introductory text, (2)(ii) 
+        and (d) amended............................................38322
+210.22 Removed.....................................................38323
+210.25 (f) amended.................................................38323
+210.28 (d) and (g) amended; (i)(4) revised.........................38323
+
+[[Page 379]]
+
+210.29 (b)(2) amended..............................................38323
+210.30 (b)(2) amended..............................................38323
+210.31 (b) and (d) amended.........................................38323
+210.32 (g) revised.................................................38323
+210.34 Heading revised; undesignated text following (c) designated 
+        as (c) note; new (c) note and (d) revised; (e) added.......38323
+210.35 (a)(2) through (6) redesignated as (a)(3) through (7); new 
+        (a)(2) added...............................................38324
+210.38 (a) and (d) revised.........................................38324
+210.39 (b) revised.................................................38324
+210.42 (a)(1)(i), (2), (h)(2), (3) and (i) revised; (h)(6) added 
+                                                                   38324
+210.43 Undesignated text following (b)(1) designated as (b)(1) 
+        note; (a)(1), new (b)(1) note, (c) and (d)(1) revised; 
+        (b)(3) amended; (b)(5) added...............................38325
+210.45 (c) revised.................................................38325
+210.49 (b) revised.................................................38325
+210.50 (d)(1) revised..............................................38326
+210.51 (a) amended.................................................38326
+210.54 Revised.....................................................38326
+210.55 (b) revised.................................................38326
+210.56 (a) and (b) amended.........................................38326
+210.66 (c) amended.................................................38326
+210.67 Heading and (a) revised.....................................38326
+210.70 Transferred to Subpart H....................................38327
+210.71 (a)(1) revised..............................................38327
+210.75 (b)(4)(ii) and (c) revised..................................38327
+210.79 (a) revised.................................................38327
+Chapter III
+351.102 Revised.....................................................3640
+351.103 Revised.....................................................3642
+351.204 (d)(4) added................................................3643
+351.301 (d)(5) removed; interim....................................74932
+351.303 (b) revised.................................................3643
+351.305 (a)
 </pre></body></html>

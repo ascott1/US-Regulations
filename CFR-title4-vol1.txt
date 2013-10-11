@@ -1,17 +1,17 @@
 <html><body><pre>
 [Title 4 CFR ]
-[Code of Federal Regulations (annual edition) - January 1, 2009 Edition]
+[Code of Federal Regulations (annual edition) - January 1, 2010 Edition]
 [From the U.S. Government Printing Office]
 
 
 
-[[Page i]]
+[[Page 1]]
 
           
 <R02>
           4
 
-                         Revised as of January 1, 2009
+                         Revised as of January 1, 2010
 
 
           Accounts
@@ -24,7 +24,7 @@ ________________________
           Containing a codification of documents of general 
           applicability and future effect
 
-          As of January 1, 2009
+          As of January 1, 2010
           With Ancillaries
                     Published by:
                     Office of the Federal Register
@@ -94,10 +94,12 @@ ________________________
 
   Title 4:
           Chapter I--Government Accountability Office                3
+          Chapter II--Recovery Accountability and Transparency 
+          Board                                                    101
   Finding Aids:
-      Table of CFR Titles and Chapters........................     103
-      Alphabetical List of Agencies Appearing in the CFR......     123
-      List of CFR Sections Affected...........................     133
+      Table of CFR Titles and Chapters........................     121
+      Alphabetical List of Agencies Appearing in the CFR......     141
+      List of CFR Sections Affected...........................     151
 
 [[Page iv]]
 
@@ -153,7 +155,7 @@ HOW TO USE THE CODE OF FEDERAL REGULATIONS
 issues of the Federal Register. These two publications must be used 
 together to determine the latest version of any given rule.
     To determine whether a Code volume has been amended since its 
-revision date (in this case, January 1, 2009), consult the ``List of CFR 
+revision date (in this case, January 1, 2010), consult the ``List of CFR 
 Sections Affected (LSA),'' which is issued monthly, and the ``Cumulative 
 List of Parts Affected,'' which appears in the Reader Aids section of 
 the daily Federal Register. These two lists will identify the Federal 
@@ -192,10 +194,10 @@ OBSOLETE PROVISIONS
 the cover of each volume are not carried. Code users may find the text 
 of provisions in effect on a given date in the past by using the 
 appropriate numerical list of sections affected. For the period before 
-January 1, 1986, consult either the List of CFR Sections Affected, 1949-
-1963, 1964-1972, or 1973-1985, published in seven separate volumes. For 
-the period beginning January 1, 1986, a ``List of CFR Sections 
-Affected'' is published at the end of each CFR volume.
+January 1, 2001, consult either the List of CFR Sections Affected, 1949-
+1963, 1964-1972, 1973-1985, or 1986-2000, published in eleven separate 
+volumes. For the period beginning January 1, 2001, a ``List of CFR 
+Sections Affected'' is published at the end of each CFR volume.
 
 INCORPORATION BY REFERENCE
 
@@ -220,22 +222,21 @@ process.
     (c) The incorporating document is drafted and submitted for 
 publication in accordance with 1 CFR part 51.
     What if the material incorporated by reference cannot be found? If 
-you have any problem locating or obtaining a copy of material listed in 
-the Finding Aids of this volume as an approved incorporation by 
-reference, please contact the agency that issued the regulation 
-containing that incorporation. If, after contacting the agency, you find 
-the material is not available, please notify the Director of the Federal 
-Register, National Archives and Records Administration, Washington DC 
-20408, or call 202-741-6010.
+you have any problem locating or obtaining a copy of material listed as 
+an approved incorporation by reference, please contact the agency that 
+issued the regulation containing that incorporation. If, after 
+contacting the agency, you find the material is not available, please 
+notify the Director of the Federal Register, National Archives and 
+Records Administration, Washington DC 20408, or call 202-741-6010.
 
 CFR INDEXES AND TABULAR GUIDES
 
     A subject index to the Code of Federal Regulations is contained in a 
 separate volume, revised annually as of January 1, entitled CFR Index 
-and Finding Aids. This volume contains the Parallel Table of Statutory 
-Authorities and Agency Rules (Table I). A list of CFR titles, chapters, 
-and parts and an alphabetical list of agencies publishing in the CFR are 
-also included in this volume.
+and Finding Aids. This volume contains the Parallel Table of Authorities 
+and Rules. A list of CFR titles, chapters, subchapters, and parts and an 
+alphabetical list of agencies publishing in the CFR are also included in 
+this volume.
     An index to the text of ``Title 3--The President'' is carried within 
 that volume.
     The Federal Register Index is issued monthly in cumulative form. 
@@ -243,6 +244,8 @@ This index is based on a consolidation of the ``Contents'' entries in
 the daily Federal Register.
     A List of CFR Sections Affected (LSA) is published monthly, keyed to 
 the revision dates of the 50 CFR titles.
+
+
 
 
 [[Page vii]]
@@ -277,12 +280,12 @@ ELECTRONIC SERVICES
 
     The full text of the Code of Federal Regulations, the LSA (List of 
 CFR Sections Affected), The United States Government Manual, the Federal 
-Register, Public Laws, Public Papers, Weekly Compilation of Presidential 
+Register, Public Laws, Public Papers, Daily Compilation of Presidential 
 Documents and the Privacy Act Compilation are available in electronic 
-format at www.gpoaccess.gov/nara (``GPO Access''). For more information, 
-contact Electronic Information Dissemination Services, U.S. Government 
-Printing Office. Phone 202-512-1530, or 888-293-6498 (toll-free). E-
-mail, gpoaccess@gpo.gov.
+format via Federalregister.gov. For more information, contact Electronic 
+Information Dissemination Services, U.S. Government Printing Office. 
+Phone 202-512-1530, or 888-293-6498 (toll-free). E-mail, 
+gpoaccess@gpo.gov.
     The Office of the Federal Register also offers a free service on the 
 National Archives and Records Administration's (NARA) World Wide Web 
 site for public law numbers, Federal Register finding aids, and related 
@@ -292,7 +295,7 @@ register. The NARA site also contains links to GPO Access.
     Raymond A. Mosley,
     Director,
     Office of the Federal Register.
-    January 1, 2009.
+    January 1, 2010.
 
 
 
@@ -307,9 +310,10 @@ register. The NARA site also contains links to GPO Access.
                                THIS TITLE
 
     Title 4--Accounts is composed of one volume. This volume is 
-comprised of chapter I--Government Accountability Office (GAO). The 
-contents of this volume represent all current regulations codified under 
-this title of the CFR as of January 1, 2009.
+comprised of chapter I--Government Accountability Office (GAO) and 
+chapter II--Recovery Accountability and Transparency Board. The contents 
+of this volume represent all current regulations codified under this 
+title of the CFR as of January 1, 2010.
 
     For this volume, Cheryl E. Sirofchuck was Chief Editor. The Code of 
 Federal Regulations publication program is under the direction of 
@@ -328,6 +332,8 @@ Michael L. White, assisted by Ann Worley.
                                                                     Part
 
 chapter i--Government Accountability Office.................           2
+
+chapter ii--Recovery Accountability and Transparency Board..         200
 
 [[Page 3]]
 
@@ -372,9 +378,7 @@ Part                                                                Page
 
 [[Page 4]]
 
-29
-
-[Reserved]
+29           [Reserved]
 
                        SUBCHAPTERS C-D [RESERVED]
               SUBCHAPTER E--STANDARDIZED FISCAL PROCEDURES
@@ -395,8 +399,14 @@ Part                                                                Page
 <R03>
                       SUBCHAPTER A_PERSONNEL SYSTEM
 
+<R05>
+
+
 <R03>
 PART 2_PURPOSE AND GENERAL PROVISION--Table of Contents
+
+<R05>
+
 
 Sec.
 2.1 Purpose, scope, and applicability.
@@ -611,6 +621,9 @@ Personnel Appeals Board.
 <R03>
 PART 3_EMPLOYMENT--Table of Contents
 
+<R05>
+
+
 Sec.
 3.1 Appointment, promotion, and assignment.
 3.2 Oath of office.
@@ -648,6 +661,9 @@ Government Accountability Office employees.
 
 <R03>
 PART 4_EMPLOYEE PERFORMANCE AND UTILIZATION--Table of Contents
+
+<R05>
+
 
 Sec.
 4.1 Training.
@@ -772,6 +788,9 @@ Government Accountability Office employees.
 
 <R03>
 PART 5_COMPENSATION--Table of Contents
+
+<R05>
+
 
 Sec.
 5.1 Pay.
@@ -956,6 +975,9 @@ Accountability Office employees.
 <R03>
 PART 6_ATTENDANCE AND LEAVE--Table of Contents
 
+<R05>
+
+
     Authority: 31 U.S.C. 732.
 
 
@@ -973,6 +995,9 @@ other paid leave.
 
 <R03>
 PART 7_PERSONNEL RELATIONS AND SERVICES--Table of Contents
+
+<R05>
+
 
 Sec.
 7.1 Labor management relations.
@@ -1300,7 +1325,8 @@ interests.
 
 
 <R05>
-Sec. 7.4  Employment limitations, foreign gifts and decorations, and misconduct.
+Sec. 7.4  Employment limitations, foreign gifts and decorations,
+and misconduct.
 
     The provisions of subchapters II, IV, and V of chapter 73 of title 
 5, United States Code and implementing regulations thereunder continue 
@@ -1340,7 +1366,8 @@ appointment limited to 1 year or less.
 
 
 <R05>
-Sec. 7.6  Adverse actions: Removal, suspension for more than 14 days, reduced in grade, reduced in pay or furloughed for 30 days or less.
+Sec. 7.6  Adverse actions: Removal, suspension for more than 14 days,
+reduced in grade, reduced in pay or furloughed for 30 days or less.
 
     (a) Policy. A GAO employee may be removed, suspended for more than 
 14 days, reduction in grade or pay, or furlough for 30 days or less for 
@@ -1405,6 +1432,9 @@ Government Accountability Office employees.
 <R03>
 PART 8_INSURANCE AND ANNUITIES--Table of Contents
 
+<R05>
+
+
     Authority: 31 U.S.C. 732.
 
 
@@ -1422,6 +1452,9 @@ Office employees.
 
 <R03>
 PART 9_SENIOR EXECUTIVE SERVICE--Table of Contents
+
+<R05>
+
 
     Authority: 31 U.S.C. 733.
 
@@ -1487,7 +1520,11 @@ System. The GAO Senior Executive Service may include--
 
 
 <R03>
-PART 11_RECOGNITION OF ATTORNEYS AND OTHER REPRESENTATIVES--Table of Contents
+PART 11_RECOGNITION OF ATTORNEYS AND OTHER REPRESENTATIVES--
+Table of Contents
+
+<R05>
+
 
 Sec.
 11.1 Right to representation before the Government Accountability 
@@ -1504,7 +1541,8 @@ Redesignated at 45 FR 68374, Oct. 15, 1980.
 
 
 <R05>
-Sec. 11.1  Right to representation before the Government Accountability Office.
+Sec. 11.1  Right to representation before the Government
+Accountability Office.
 
     Each person having a claim or other rights assertable in the 
 Government Accountability Office may pursue such claim or right 
@@ -1566,8 +1604,14 @@ automatically revoked.
 <R03>
                      SUBCHAPTER B_GENERAL PROCEDURES
 
+<R05>
+
+
 <R03>
 PART 21_BID PROTEST REGULATIONS--Table of Contents
+
+<R05>
+
 
 Sec.
 21.0 Definitions.
@@ -1778,7 +1822,8 @@ untimely protest.
 
 
 <R05>
-Sec. 21.3  Notice of protest, submission of agency report, and time for filing of comments on report.
+Sec. 21.3  Notice of protest, submission of agency report, and time
+for filing of comments on report.
 
     (a) GAO shall notify the agency by telephone within 1 day after the 
 filing of a protest, and, unless the protest is dismissed under this 
@@ -2156,7 +2201,10 @@ express option procedures in Sec. 21.10.
 
 
 <R05>
-Sec. 21.10  Express options, flexible alternative procedures, accelerated schedules, summary decisions, and status and other conferences.
+Sec. 21.10  Express options, flexible alternative procedures,
+accelerated schedules, summary decisions, and status and 
+
+other conferences.
 
     (a) At the request of a party or on its own initiative, GAO may 
 decide a protest using an express option.
@@ -2267,7 +2315,11 @@ reconsideration based on repetition of arguments previously raised.
 
 
 <R03>
-PART 22_RULES OF PROCEDURE OF THE GOVERNMENT ACCOUNTABILITY OFFICE CONTRACT APPEALS BOARD--Table of Contents
+PART 22_RULES OF PROCEDURE OF THE GOVERNMENT ACCOUNTABILITY OFFICE 
+CONTRACT APPEALS BOARD--Table of Contents
+
+<R05>
+
 
 Sec.
 22.1 Applicability of Rules [Rule 1].
@@ -3044,7 +3096,8 @@ permits withdrawal or amendment of the admission.
 
 
 <R05>
-Sec. 22.14  Production of Documents, Electronically Stored Information, Other Tangible Things, or Entry Onto Land [Rule 14].
+Sec. 22.14  Production of Documents, Electronically Stored Information,
+Other Tangible Things, or Entry Onto Land [Rule 14].
 
     (a) When documents, electronically stored information, other 
 tangible things, or entry onto land may be requested. After an appeal 
@@ -3580,7 +3633,11 @@ should be made with a member of the Board.
 
 
 <R03>
-PART 25_CONDUCT IN THE GOVERNMENT ACCOUNTABILITY OFFICE BUILDING AND ON ITS GROUNDS--Table of Contents
+PART 25_CONDUCT IN THE GOVERNMENT ACCOUNTABILITY OFFICE BUILDING
+AND ON ITS GROUNDS--Table of Contents
+
+<R05>
+
 
 Sec.
 25.1 Applicability and governing laws.
@@ -3834,7 +3891,11 @@ laws applicable to the GAO Building.
 
 
 <R03>
-PART 27_GOVERNMENT ACCOUNTABILITY OFFICE PERSONNEL APPEALS BOARD; ORGANIZATION--Table of Contents
+PART 27_GOVERNMENT ACCOUNTABILITY OFFICE PERSONNEL APPEALS 
+BOARD; ORGANIZATION--Table of Contents
+
+<R05>
+
 
 Sec.
 27.1 The Board.
@@ -3888,8 +3949,14 @@ the Board, and otherwise assist the Board in carrying out its functions.
 
 
 <R03>
-      PART 28_GOVERNMENT ACCOUNTABILITY OFFICE PERSONNEL APPEALS BOARD; PROCEDURES APPLICABLE TO CLAIMS CONCERNING EMPLOYMENT PRACTICES AT THE GOVERNMENT 
+      PART 28_GOVERNMENT ACCOUNTABILITY OFFICE PERSONNEL APPEALS 
+      BOARD; PROCEDURES APPLICABLE TO CLAIMS CONCERNING EMPLOYMENT
+      
+      PRACTICES AT THE GOVERNMENT 
 ACCOUNTABILITY OFFICE--Table of Contents
+
+<R05>
+
 
         Subpart A_Purpose, General Definitions, and Jurisdiction
 
@@ -5986,7 +6053,8 @@ Sec. 28.100  [Reserved]
 
 
 <R05>
-Sec. 28.101  Termination of Board proceedings when suit is filed in Federal District Court.
+Sec. 28.101  Termination of Board proceedings when suit is filed in
+Federal District Court.
 
     Any proceeding before the Board shall be terminated when an employee 
 or applicant who is alleging violation of Title VII of the Civil Rights 
@@ -6821,14 +6889,24 @@ evidentiary hearing.
 
 <R03>
                        SUBCHAPTERS C	D [RESERVED]
+
+<R05>
+
 [[Page 82]]
 
 
 <R03>
                SUBCHAPTER E_STANDARDIZED FISCAL PROCEDURES
 
+<R05>
+
+
 <R03>
-PART 75_CERTIFICATES AND APPROVALS OF BASIC VOUCHERS AND INVOICES--Table of Contents
+PART 75_CERTIFICATES AND APPROVALS OF BASIC VOUCHERS AND INVOICES
+--Table of Contents
+
+<R05>
+
 
     Authority: 31 U.S.C. 711 and 3511.
 
@@ -6864,8 +6942,15 @@ penalties for which are set forth in 18 U.S.C. 287.
 <R03>
                           SUBCHAPTER F_RECORDS
 
+<R05>
+
+
 <R03>
-PART 81_PUBLIC AVAILABILITY OF GOVERNMENT ACCOUNTABILITY OFFICE RECORDS--Table of Contents
+PART 81_PUBLIC AVAILABILITY OF GOVERNMENT ACCOUNTABILITY OFFICE
+RECORDS--Table of Contents
+
+<R05>
+
 
 Sec.
 81.1 Purpose and scope of part.
@@ -6979,7 +7064,8 @@ explaining why the denial of the request was unwarranted.
 
 
 <R05>
-Sec. 81.5  Records originating outside GAO, records of interviews, or records involving work in progress.
+Sec. 81.5  Records originating outside GAO, records of interviews,
+or records involving work in progress.
 
     (a) It is the policy of GAO not to provide records from its files 
 that originate in another agency or nonfederal organization to persons 
@@ -7155,7 +7241,11 @@ to 4 p.m. except Saturday, Sundays, and holidays.
 
 
 <R03>
-PART 82_FURNISHING RECORDS OF THE GOVERNMENT ACCOUNTABILITY OFFICE IN JUDICIAL PROCEEDINGS--Table of Contents
+PART 82_FURNISHING RECORDS OF THE GOVERNMENT ACCOUNTABILITY OFFICE IN
+JUDICIAL PROCEEDINGS--Table of Contents
+
+<R05>
+
 
 Sec.
 82.1 Court subpoenas or requests.
@@ -7198,6 +7288,9 @@ be collected in advance.
 
 <R03>
 PART 83_PRIVACY PROCEDURES FOR PERSONNEL RECORDS--Table of Contents
+
+<R05>
+
 
 Sec.
 83.1 Purpose and scope of part.
@@ -8188,6 +8281,1228 @@ parties.
 
 
 <R02>
+       CHAPTER II--RECOVERY ACCOUNTABILITY AND TRANSPARENCY BOARD
+
+
+<R03>
+
+  --------------------------------------------------------------------
+Part                                                                Page
+200             Privacy Act of 1974.........................         103
+201             Public information and requests.............         108
+202             Official seal...............................         116
+
+[[Page 103]]
+
+
+<R03>
+PART 200_PRIVACY ACT OF 1974--Table of Contents
+
+<R05>
+
+
+Sec.
+200.1 Purpose and scope.
+200.2 Definitions.
+200.3 Privacy Act records maintained by the Board.
+200.4 Privacy Act inquiries.
+200.5 Requests for access to records.
+200.6 Processing of requests.
+200.7 Fees.
+200.8 Appealing denials of access.
+200.9 Requests for correction of records.
+200.10 Disclosure of records to third parties.
+200.11 Maintaining records of disclosures.
+200.12 Notification of systems of Privacy Act records.
+200.13 Privacy Act training.
+200.14 Responsibility for maintaining adequate safeguards.
+200.15 Systems of records covered by exemptions.
+200.16 Mailing lists.
+
+    Authority: 5 U.S.C. 552a(f).
+
+    Source: 74 FR 60127, Nov. 20, 2009, unless otherwise noted.
+
+
+<R05>
+Sec. 200.1  Purpose and scope.
+
+    This part sets forth the policies and procedures of the Board 
+regarding access to systems of records maintained by the Board under the 
+Privacy Act, Public Law 93-579, 5 U.S.C. 552a. The provisions in the Act 
+shall take precedence over any part of the Board's regulations in 
+conflict with the Act. These regulations establish procedures by which 
+an individual may exercise the rights granted by the Privacy Act to 
+determine whether a Board system of records contains a record pertaining 
+to him or her; to gain access to such records; and to request correction 
+or amendment of such records. These regulations also set identification 
+requirements and prescribe fees to be charged for copying records.
+
+
+<R05>
+Sec. 200.2  Definitions.
+
+    As used in this part:
+    (a) Agency means any executive department, military department, 
+government corporation, or other establishment in the executive branch 
+of the federal government, including the Executive Office of the 
+President or any independent regulatory agency;
+    (b) Individual means any citizen of the United States or an alien 
+lawfully admitted for permanent residence;
+    (c) Maintain means to collect, use, store, or disseminate records as 
+well as any combination of these recordkeeping functions. The term also 
+includes exercise of control over, and therefore responsibility and 
+accountability for, systems of records;
+    (d) Record means any item, collection, or grouping of information 
+about an individual that is maintained by the Board and contains the 
+individual's name or other identifying information, such as a number or 
+symbol assigned to the individual or his or her fingerprint, voice 
+print, or photograph. The term includes, but is not limited to, 
+information regarding an individual's education, financial transactions, 
+medical history, and criminal or employment history;
+    (e) System of records means a group of records under the control of 
+the Board from which information is retrievable by use of the name of 
+the individual or by some number, symbol, or other identifying 
+particular assigned to the individual;
+    (f) Routine use means, with respect to the disclosure of a record, 
+the use of a record for a purpose that is compatible with the purpose 
+for which it was collected;
+    (g) Designated Privacy Act Officer means the person named by the 
+Board to administer the Board's activities in regard to the regulations 
+in this part;
+    (h) Executive Director means the chief operating officer of the 
+Board;
+    (i) Days means standard working days, excluding weekends and federal 
+holidays.
+
+
+<R05>
+Sec. 200.3  Privacy Act records maintained by the Board.
+
+    (a) The Board shall maintain only such information about an 
+individual as is relevant and necessary to accomplish a purpose of the 
+agency required by statute or by Executive Order of the President. In 
+addition, the Board shall maintain all records that are used in making 
+determinations about any individual with such accuracy, relevance, 
+timeliness, and completeness as is reasonably necessary to ensure 
+fairness to that individual in the making of any determination about him 
+or her. However, the Board shall not be required to update retired 
+records.
+
+[[Page 104]]
+
+    (b) The Board shall not maintain any record about any individual 
+with respect to or describing how such individual exercises rights 
+guaranteed by the First Amendment of the Constitution of the United 
+States, unless expressly authorized by statute or by the subject 
+individual, or unless pertinent to and within the scope of an authorized 
+law enforcement activity.
+
+
+<R05>
+Sec. 200.4  Privacy Act inquiries.
+
+    (a) Inquiries regarding the contents of record systems. Any person 
+wanting to know whether the Board's systems of records contain a record 
+pertaining to him or her may file an inquiry in person, by mail or by 
+telephone.
+    (b) Inquiries in person may be submitted at the Board's headquarters 
+located at 1717 Pennsylvania Avenue, NW., Suite 700, Washington, DC 
+20006. Inquiries should be marked ``Privacy Act Inquiry'' on each page 
+of the inquiry and on the front of the envelope and directed to the 
+Privacy Act Officer.
+    (c) Inquiries by mail may be sent to: Privacy Act Officer, Recovery 
+Accountability and Transparency Board, 1717 Pennsylvania Avenue, NW., 
+Suite 700, Washington, DC 20006. ``Privacy Act Inquiry'' should be 
+written on the envelope and each page of the inquiry.
+    (d) Telephone inquiries may be made by calling the Board's Privacy 
+Act Officer at (202) 254-7900.
+
+
+<R05>
+Sec. 200.5  Requests for access to records.
+
+    (a) All requests for records should include the following 
+information:
+    (1) Full name, address, and telephone number of requester.
+    (2) The system of records containing the desired information.
+    (3) Any other information that the requester believes would help 
+locate the record.
+    (b) Requests in writing. A person may request access to his or her 
+own records in writing by addressing a letter to: Privacy Act Officer, 
+Recovery Accountability and Transparency Board, 1717 Pennsylvania 
+Avenue, NW., Suite 700, Washington, DC 20006.
+    (c) Requests by fax. A person may request access to his or her 
+records by facsimile at (202) 254-7970.
+    (d) Requests by phone. A person may request access to his or her 
+records by calling the Privacy Act Officer at (202) 254-7900.
+    (e) Requests in person. Any person may examine and request copies of 
+his or her own records on the Board's premises. The requester should 
+contact the Board's office at least one week before the desired 
+appointment date. This request may be made to the Privacy Act Officer in 
+writing or by calling (202) 254-7900. Before viewing the records, proof 
+of identification must be provided. The identification should be a valid 
+copy of one of the following:
+    (1) A government ID;
+    (2) A driver's license;
+    (3) A passport; or
+    (4) Other current identification that contains both an address and a 
+picture of the requester.
+
+
+<R05>
+Sec. 200.6  Processing of requests.
+
+    Upon receipt of a request for information, the Privacy Act Officer 
+will ascertain whether the records identified by the requester exist, 
+and whether they are subject to any exemption under Sec. 200.15. If the 
+records exist and are not subject to exemption, the Privacy Act Officer 
+will provide the information.
+    (a) Requests in writing, including those sent by fax. Within five 
+working days of receiving the request, the Privacy Act Officer will 
+acknowledge its receipt and will advise the requester of any additional 
+information that may be needed. Within 15 working days of receiving the 
+request, the Privacy Act Officer will send the requested information or 
+will explain to the requester why additional time is needed for a 
+response.
+    (b) Requests in person or by telephone. Within 15 days of the 
+initial request, the Privacy Act Officer will contact the requester and 
+arrange an appointment at a mutually agreeable time when the record can 
+be examined. The requester may be accompanied by no more than one 
+person. In such case, the requestor must inform the Privacy Act Officer 
+that a second individual will be present and must sign a statement 
+authorizing disclosure of the records to that person. The statement will 
+be kept with the requester's records. At the appointment, the requester 
+will be asked to present identification as stated in Sec. 200.5(e).
+
+[[Page 105]]
+
+    (c) Excluded information. If a request is received for information 
+compiled in reasonable anticipation of litigation, the Privacy Act 
+Officer will inform the requester that the information is not subject to 
+release under the Privacy Act (see 5 U.S.C. 552a(d)(5)).
+
+
+<R05>
+Sec. 200.7  Fees.
+
+    A fee will not be charged for searching, reviewing, or making 
+corrections to records. A fee for copying will be assessed at the same 
+rate established for the Freedom of Information Act requests. 
+Duplication fees for paper copies of a record will be 10 cents per page 
+for black and white and 20 cents per page for color. For all other forms 
+of duplication, the Board will charge the direct costs of producing the 
+copy. However, the first 100 pages of black-and-white copying or its 
+equivalent will be free of charge.
+
+
+<R05>
+Sec. 200.8  Appealing denials of access.
+
+    (a) If access to records is denied by the Privacy Act Officer, the 
+requester may file an appeal in writing. The appeal should be directed 
+to Executive Director, Recovery Accountability and Transparency Board, 
+1717 Pennsylvania Avenue, NW., Suite 700, Washington, DC 20006.
+    (b) The appeal letter must specify the denied records that are still 
+sought, and state why denial by the Privacy Act Officer is erroneous.
+    (c) The Executive Director or his or her designee will respond to 
+appeals within 20 working days of the receipt of the appeal letter. The 
+appeal determination will explain the basis of the decision to deny or 
+grant the appeal.
+
+
+<R05>
+Sec. 200.9  Requests for correction of records.
+
+    (a) Correction requests. Any person is entitled to request 
+correction of his or her record(s) covered under the Act. The request 
+must be made in writing and should be addressed to Privacy Act Officer, 
+Recovery Accountability and Transparency Board, 1717 Pennsylvania 
+Avenue, NW., Suite 700, Washington, DC 20006. The letter should clearly 
+identify the corrections desired. In most circumstances, an edited copy 
+of the record will be acceptable for this purpose.
+    (b) Initial response. Receipt of a correction request will be 
+acknowledged by the Privacy Act Officer in writing within five working 
+days. The Privacy Act Officer will provide a letter to the requester 
+within 20 working days stating whether the request for correction has 
+been granted or denied. If the Privacy Act Officer denies any part of 
+the correction request, the reasons for the denial will be provided to 
+the requester.
+
+
+<R05>
+Sec. 200.10  Disclosure of records to third parties.
+
+    (a) The Board will not disclose any record that is contained in a 
+system of records to any person or agency, except with a written request 
+by or with the prior written consent of the individual whose record is 
+requested, unless disclosure of the record is:
+    (1) Required by an employee or agent of the Board in the performance 
+of his/her official duties.
+    (2) Required under the provisions of the Freedom of Information Act 
+(5 U.S.C. 552). Records required to be made available by the Freedom of 
+Information Act will be released in response to a request in accordance 
+with the Board's regulation published at 4 CFR Part 201.
+    (3) For a routine use as published in the annual notice in the 
+Federal Register.
+    (4) To the Census Bureau for planning or carrying out a census, 
+survey, or related activities pursuant to the provisions of Title 13 of 
+the United States Code.
+    (5) To a recipient who has provided the Board with adequate advance 
+written assurance that the record will be used solely as a statistical 
+research or reporting record and that the record is to be transferred in 
+a form that is not individually identifiable.
+    (6) To the National Archives and Records Administration as a record 
+that has sufficient historical or other value to warrant its continued 
+preservation by the United States government, or for evaluation by the 
+Archivist of the United States, or his or her designee, to determine 
+whether the record has such value.
+
+[[Page 106]]
+
+    (7) To another agency or to an instrumentality of any governmental 
+jurisdiction within or under the control of the United States for a 
+civil or criminal law enforcement activity, if the activity is 
+authorized by law, and if the head of the agency or instrumentality has 
+made a written request to the Board for such records specifying the 
+particular part desired and the law enforcement activity for which the 
+record is sought. The Board also may disclose such a record to a law 
+enforcement agency on its own initiative in situations in which criminal 
+conduct is suspected, provided that such disclosure has been established 
+as a routine use, or in situations in which the misconduct is directly 
+related to the purpose for which the record is maintained.
+    (8) To a person pursuant to a showing of compelling circumstances 
+affecting the health or safety of an individual if, upon such 
+disclosure, notification is transmitted to the last known address of 
+such individual.
+    (9) To either House of Congress, or, to the extent of matters within 
+its jurisdiction, any committee or subcommittee thereof, any joint 
+committee of Congress or subcommittee of any such joint committee.
+    (10) To the Comptroller General, or any of his or her authorized 
+representatives, in the course of the performance of official duties of 
+the Government Accountability Office.
+    (11) Pursuant to an order of a court of competent jurisdiction. In 
+the event that any record is disclosed under such compulsory legal 
+process, the Board shall make reasonable efforts to notify the subject 
+individual after the process becomes a matter of public record.
+    (12) To a consumer reporting agency in accordance with 31 U.S.C. 
+3711(e).
+    (b) Before disseminating any record about any individual to any 
+person other than a Board employee, the Board shall make reasonable 
+efforts to ensure that the records are, or at the time they were 
+collected, accurate, complete, timely, and relevant. This paragraph (b) 
+does not apply to disseminations made pursuant to the provisions of the 
+Freedom of Information Act (5 U.S.C. 552) and paragraph (a)(2) of this 
+section.
+
+
+<R05>
+Sec. 200.11  Maintaining records of disclosure.
+
+    (a) The Board shall maintain a log containing the date, nature, and 
+purposes of each disclosure of a record to any person or agency. Such 
+accounting also shall contain the name and address of the person or 
+agency to whom or to which each disclosure was made. This log will not 
+include disclosures made to Board employees or agents in the course of 
+their official duties or pursuant to the provisions of the Freedom of 
+Information Act (5 U.S.C. 552).
+    (b) An accounting of each disclosure shall be retained for at least 
+five years after the accounting is made or for the life of the record 
+that was disclosed, whichever is longer.
+    (c) The Board shall make the accounting of disclosure of a record 
+pertaining to an individual available to that individual at his or her 
+request. Such a request should be made in accordance with the procedures 
+set forth in Sec. 200.5. This paragraph (c) does not apply to 
+disclosure made for law enforcement purposes under 5 U.S.C. 552a(b)(7) 
+and Sec. 200.10(a)(7).
+
+
+<R05>
+Sec. 200.12  Notification of systems of Privacy Act records.
+
+    (a) Public notice. The Board periodically reviews its systems of 
+records and will publish information about any significant additions or 
+changes to those systems in the Federal Register. Information about 
+systems of records maintained by other agencies that are in the 
+temporary custody of the Board will not be published. In addition, the 
+Office of the Federal Register biennially compiles and publishes all 
+systems of records maintained by all federal agencies, including the 
+Board.
+    (b) At least 30 days before publishing additions or changes to the 
+Board's systems of records, the Board will publish a notice of intent to 
+amend, providing the public with an opportunity to comment on the 
+proposed amendments to its systems of records in the Federal Register.
+
+
+<R05>
+Sec. 200.13  Privacy Act training.
+
+    (a) The Board shall ensure that all persons involved in the design, 
+development, operation, or maintenance of
+
+[[Page 107]]
+
+any Board systems of records are informed of all requirements necessary 
+to protect the privacy of individuals. The Board shall ensure that all 
+employees having access to records receive adequate training in their 
+protection and that records have adequate and proper storage with 
+sufficient security to ensure their privacy.
+    (b) All employees shall be informed of the civil remedies provided 
+under 5 U.S.C. 552a(g)(1) and other implications of the Privacy Act and 
+of the fact that the Board may be subject to civil remedies for failure 
+to comply with the provisions of the Privacy Act and the regulations in 
+this part.
+
+
+<R05>
+Sec. 200.14  Responsibility for maintaining adequate safeguards.
+
+    The Board has the responsibility for maintaining adequate technical, 
+physical, and security safeguards to prevent unauthorized disclosure or 
+destruction of manual and automated records systems. These security 
+safeguards shall apply to all systems of records in which identifiable 
+personal data are processed or maintained, including all reports and 
+output from such systems of records that contain identifiable personal 
+information. Such safeguards must be sufficient to prevent negligent, 
+accidental, or unintentional disclosure, modification, or destruction of 
+any personal records or data; must minimize, to the extent practicable, 
+the risk that skilled technicians or knowledgeable persons could 
+improperly obtain access to modify or destroy such records or data; and 
+shall further ensure against such casual entry by unskilled persons 
+without official reasons for access to such records or data.
+    (a) Manual systems. (1) Records contained in a system of records as 
+defined in this part may be used, held, or stored only where facilities 
+are adequate to prevent unauthorized access by persons within or outside 
+the Board.
+    (2) Access to and use of a system of records shall be permitted only 
+to persons whose duties require such access to the information for 
+routine uses or for such other uses as may be provided in this part.
+    (3) Other than for access by employees or agents of the Board, 
+access to records within a system of records shall be permitted only to 
+the individual to whom the record pertains or upon his or her written 
+request.
+    (4) The Board shall ensure that all persons whose duties require 
+access to and use of records contained in a system of records are 
+adequately trained to protect the security and privacy of such records.
+    (5) The disposal and destruction of identifiable personal data 
+records shall be done by shredding and in accordance with rules 
+promulgated by the Archivist of the United States.
+    (b) Automated systems. (1) Identifiable personal information may be 
+processed, stored, or maintained by automated data systems only where 
+facilities or conditions are adequate to prevent unauthorized access to 
+such systems in any form.
+    (2) Access to and use of identifiable personal data associated with 
+automated data systems shall be limited to those persons whose duties 
+require such access. Proper control of personal data in any form 
+associated with automated data systems shall be maintained at all times, 
+including maintenance of accountability records showing disposition of 
+input and output documents.
+    (3) All persons whose duties require access to processing and 
+maintenance of identifiable personal data and automated systems shall be 
+adequately trained in the security and privacy of personal data.
+    (4) The disposal and disposition of identifiable personal data and 
+automated systems shall be done by shredding, burning, or, in the case 
+of electronic records, by degaussing or by overwriting with the 
+appropriate security software, in accordance with regulations of the 
+Archivist of the United States or other appropriate authority.
+
+
+<R05>
+Sec. 200.15  Systems of records covered by exemptions.
+
+    The Board currently has no exempt systems of records.
+
+
+<R05>
+Sec. 200.16  Mailing lists.
+
+    The Board shall not sell or rent an individual's name and/or address 
+unless such action is specifically authorized by law. This section shall 
+not be construed to require the withholding of
+
+[[Page 108]]
+
+names and addresses otherwise permitted to be made public.
+
+
+<R03>
+PART 201_PUBLIC INFORMATION AND REQUESTS--Table of Contents
+
+<R05>
+
+
+Sec.
+201.1 Scope.
+201.2 Definitions.
+201.3 Publicly available documents and electronic reading room.
+201.4 Board records exempt from public disclosure.
+201.5 Requests for Board records.
+201.6 Responsibility, form, and content of responses.
+201.7 Timing of responses to requests.
+201.8 Fees.
+201.9 Restrictions on charging fees.
+201.10 Notice of anticipated fees.
+201.11 Requirements for waiver or reduction of fees.
+201.12 Denials.
+201.13 Business information.
+201.14 Appeals.
+201.15 Preservation of records.
+201.16 Other rights and services.
+201.17 How to track a FOIA request.
+
+    Authority: 5 U.S.C. 301, 5 U.S.C. 552 as amended; Executive Order 
+12600, 3 CFR, 1987 Comp., p. 235.
+
+    Source: 74 FR 60132, Nov. 20, 2009, unless otherwise noted.
+
+
+<R05>
+Sec. 201.1  Scope.
+
+    This part sets forth the policies and procedures of the Recovery 
+Accountability and Transparency Board (Board) regarding public access to 
+documents under the Freedom of Information Act (FOIA or the Act), 5 
+U.S.C. 552. The provisions in the Act shall take precedence over any 
+part of the Board's regulations in conflict with the Act. This part 
+gives the procedures the public may use to inspect and obtain copies of 
+Board records under the FOIA, including administrative procedures which 
+must be exhausted before a requestor invokes the jurisdiction of an 
+appropriate United States District Court for the Board's failure to 
+respond to a proper request within the statutory time limits, for a 
+denial of Board records or challenges to the adequacy of a search, or 
+for denial of fee waiver.
+
+
+<R05>
+Sec. 201.2  Definitions.
+
+    For words used in this document, unless the context indicates 
+otherwise, singular includes the plural, plural includes the singular, 
+present tense includes the future tense, and words of one gender include 
+the other gender.
+    (a)(1) Agency records--Materials that are in the control of the 
+Board and associated with Board business, including:
+    (i) Materials produced by the Board.
+    (ii) Materials produced by staff for the Board.
+    (iii) Materials distributed by presenters at a Board meeting or 
+Board Committee meeting.
+    (2) All references to records include the entire record and/or any 
+part of the record.
+    (b) Board--The Recovery Accountability and Transparency Board.
+    (c) Chairman--The Chairman of the Board is designated or appointed 
+by the President.
+    (d) Designated FOIA Officer--The person designated to administer the 
+Board's activities in regard to the regulations in this part. The FOIA 
+Officer shall be:
+    (1) The Board officer having custody of, or responsibility for, 
+agency records in the possession of the Board.
+    (2) The Board officer having responsibility for authorizing or 
+denying production of records from requests filed under the FOIA.
+    (e) Executive Director--The chief operating officer of the Board.
+    (f) Member--An individual appointed to serve on the Board pursuant 
+to Title XV, Subtitle B of the American Recovery and Reinvestment Act of 
+2009 (Pub. L. 111-5).
+    (g) Days--Standard working days, excluding weekends and federal 
+holidays.
+
+
+<R05>
+Sec. 201.3  Publicly available documents and electronic reading room.
+
+    (a) Many Board records are available electronically at the Board's 
+Web site (http://www.recovery.gov).
+    (b) Records available electronically on the Board's Web site 
+include:
+    (1) The rules and regulations of the Board.
+    (2) Statements of policy adopted by the Board.
+    (3) Board reports to the President and Congress, including the 
+Committees on Appropriations of the Senate and House of Representatives.
+
+[[Page 109]]
+
+    (4) Congressional Testimony of the Chairman of the Board.
+    (5) Biographical information about the Chairman and other Board 
+members.
+    (6) Copies of records frequently requested and released in response 
+to FOIA requests.
+    (c) The cost of copying information available in the Board office 
+shall be imposed in accordance with the provisions of Sec. 201.8.
+
+
+<R05>
+Sec. 201.4  Board records exempt from public disclosure.
+
+    5 U.S.C. 552 provides that the requirements of the FOIA do not apply 
+to matters that are:
+    (a) Specifically authorized under the criteria established by an 
+executive order to be kept secret in the interest of national defense or 
+foreign policy and are in fact properly classified pursuant to such an 
+executive order.
+    (b) Related solely to the internal personnel rules and practices of 
+the Board.
+    (c) Specifically exempted from disclosure by another federal 
+statute, provided that such statute:
+    (1) Requires that records are withheld from the public in such a 
+manner that leaves no discretion on the issue; or
+    (2) Establishes criteria for withholding or refers to particular 
+types of matters to be withheld.
+    (d) Trade secrets, and commercial or financial information obtained 
+from a person and privileged or confidential.
+    (e) Interagency or intra-agency memoranda or letters that would not 
+be available by law to a party other than an agency in litigation with 
+the Board.
+    (f) Personnel, medical, or similar files that disclosing would 
+constitute a clearly unwarranted invasion of personal privacy.
+    (g) Records or information compiled for law enforcement purposes, 
+but only to the extent that the production of such law enforcement 
+records of information:
+    (1) Could reasonably be expected to interfere with enforcement 
+proceedings;
+    (2) Would deprive a person of a right to a fair trial or an 
+impartial adjudication;
+    (3) Could reasonably be expected to constitute an unwarranted 
+invasion of personal privacy;
+    (4) Could reasonably be expected to disclose the identity of any 
+confidential source, including a state, local, or foreign agency or 
+authority, or any private institution which furnished information on a 
+confidential basis, and in the case of a record or information compiled 
+by a criminal law enforcement agency in the course of a criminal 
+investigation or by an agency conducting a lawful security intelligence 
+investigation, information furnished by a confidential source;
+    (5) Would disclose techniques and procedures for law enforcement 
+investigations or prosecutions, or would disclose guidelines for law 
+enforcement investigations or prosecutions if such disclosure could 
+reasonably be expected to risk circumvention of the law; or
+    (6) Could reasonably be expected to endanger the life or physical 
+safety of any individual.
+    (h) Contained in or related to examination, operating, or condition 
+reports, prepared by, on behalf of, or for the use of an agency 
+responsible for the regulation or supervision of financial institutions.
+    (i) Geological and geophysical information and data, including maps, 
+concerning wells.
+
+
+<R05>
+Sec. 201.5  Requests for Board records.
+
+    (a) To request Board records, you may:
+    (1) Write: FOIA Officer, Recovery Accountability and Transparency 
+Board, 1717 Pennsylvania Avenue, NW., Suite 700, Washington, DC 20006;
+    (2) Send a request via e-mail at FOIA@ratb.gov; or
+    (3) Fax: (202) 254-7970.
+    (b) When requesting records under this section you must state, in 
+writing:
+    (1) Your full name,
+    (2) Address,
+    (3) Telephone number, and
+    (4) At your option, electronic mail address.
+    (c) When making a request for records about a person, Privacy Act 
+regulations also may apply. Please
+
+[[Page 110]]
+
+check the regulations for additional requirements before submitting a 
+request. When making a request for records about someone other than 
+yourself, you must include either:
+    (1) Written authorization signed by the person permitting you to see 
+the records; or
+    (2) Proof that the individual is deceased (e.g., a death certificate 
+or obituary).
+    (d) A request will be considered received for purposes of Sec. 
+201.7 on the date that it is received by the Board's FOIA office. For 
+prompt handling, write ``Freedom of Information Act Request'' on the 
+letter and envelope or in the subject line of the e-mail request or fax.
+    (e) Each request must clearly describe the desired records in 
+sufficient detail to enable Board personnel to locate them with 
+reasonable effort. Response to requests may be delayed if the records 
+are not clearly described.
+    (f) Whenever possible, requests should include specific information 
+about each record sought, such as date, title or name, author, 
+recipient, and subject.
+    (g) If the FOIA Officer determines that the request does not clearly 
+describe the records sought, he or she will either advise you of the 
+additional information needed to locate the record or otherwise state 
+why the request is insufficient. You will then be given the opportunity 
+to provide additional information or to modify your request.
+    (h) Submitting a FOIA request shall be considered a commitment by 
+the requestor to pay applicable fees required under Sec. 201.8 unless 
+the requestor seeks a waiver of fees. When making a request, you may 
+specify a willingness to pay fees up to a specific amount.
+    (i) The FOIA does not require the Board to:
+    (1) Compile or create records solely for the purpose of satisfying a 
+request for records.
+    (2) Provide records not yet in existence, even if such records may 
+be expected to come into existence at some time in the future.
+    (3) Restore records destroyed or otherwise disposed of, except that 
+the FOIA Officer must notify the requestor that the records have been 
+destroyed or otherwise disposed of.
+
+
+<R05>
+Sec. 201.6  Responsibility, form, and content of responses.
+
+    The Board's Executive Director or his/her designated FOIA Officer is 
+authorized to grant or deny any request for a record and determine 
+appropriate fees. When determining which records are responsive to a 
+request, the Board will include only records in its possession as of the 
+date of the request.
+    (a) If no records are responsive to the request, the FOIA Officer 
+will notify the requestor in writing.
+    (b) When the FOIA Officer denies a request in whole or in part, he/
+she will notify the requestor in writing. The response will be signed by 
+the FOIA Officer and will include:
+    (1) The name and title or position of the person making the denial;
+    (2) A brief statement of the reasons for the denial, including the 
+FOIA exemption(s) that the FOIA Officer has relied on in denying the 
+request; and
+    (3) A statement that the denial may be appealed under Sec. 201.14 
+and a description of the requirements of that section.
+    (c) Referrals. When a request for a record not created by the Board 
+is received, the Board shall refer the requestor to the issuing agency 
+in writing, providing the address of the agency contact and the 
+section(s) referred.
+    (d) Timing of responses to requests sent to other agencies. The 
+Board shall provide, within the FOIA deadline, responses only to those 
+parts of the request not referred.
+    (e) Agreements on referrals. The Board may make agreements with 
+other agencies to eliminate the need for referrals for particular types 
+of records.
+
+
+<R05>
+Sec. 201.7  Timing of responses to requests.
+
+    (a) General. The Board shall normally respond to requests in the 
+order of their receipt.
+    (b) Acknowledgement of requests. On receipt of a request, the Board 
+shall send an acknowledgement letter or an e-mail confirming the 
+requestor's agreement to pay fees under Sec. 201.8 and providing a 
+request number for future reference.
+
+[[Page 111]]
+
+    (c) Time limits for responding to FOIA requests. The Board shall 
+make an initial determination to grant or deny a request for records 
+within 20 days (excluding Saturday, Sunday and holidays) after the date 
+of receipt of the request, as described in Sec. 201.5(d), except as 
+stated in paragraph (f) of this section. Once the Board determines 
+whether it can grant a request entirely or in part, it shall notify the 
+requestor in writing. The Board shall advise the requestor of any fees 
+to be charged under Sec. 201.8 and shall disclose records promptly on 
+payment of the fees. Records disclosed in part shall be marked or 
+annotated to show the amount of information deleted unless doing so 
+would harm an interest protected by an applicable exemption. The 
+location of the information deleted also shall be indicated on the 
+record when technically feasible.
+    (d) Unusual circumstances. (1) If the statutory time limits for 
+processing a request cannot be met because of ``unusual circumstances'' 
+as defined in the FOIA (5 U.S.C. 552(6)(B)(iii)), the Board shall 
+promptly notify the requestor in writing, explaining the circumstances 
+and giving the date by which the request can be completed or if the 
+Board cannot complete the request. If the extension is for more than 10 
+working days, the Board shall provide the requestor with an opportunity 
+to:
+    (i) Modify the request so that it can be processed within the time 
+limit; or
+    (ii) Arrange an alternative time period for processing the original 
+request.
+    (2) If the Board believes that multiple requests submitted by a 
+requestor or by requestors acting in concert constitute a single request 
+that would otherwise involve unusual circumstances, and if the requests 
+involve clearly related matters, they may be aggregated. Multiple 
+requests involving unrelated matters will not be aggregated.
+    (e) Expedited processing. (1) Requests and appeals shall be taken 
+out of order and given expedited processing whenever it is determined 
+that they involve:
+    (i) Circumstances that could reasonably be expected to pose an 
+imminent threat to the life or physical safety of an individual; or
+    (ii) An urgency to inform the public about an actual or alleged 
+activity if made by a person primarily engaged in disseminating 
+information.
+    (2) Requests for expedited processing may be made either at the time 
+of the initial request or at a later time.
+    (3) Requests for expedited processing must include a statement 
+explaining in detail the basis for requesting expedited processing. For 
+example, a requestor under Sec. 201.8 must establish that his/her 
+professional activity is news reporting, although it need not be his/her 
+sole occupation. The requestor also must establish a particular urgency 
+to inform the public about government activity involved in the request, 
+beyond the public's right to know about government activity generally.
+    (4) Within 10 calendar days of receipt of a request for expedited 
+processing, the Board shall decide whether to grant the request and 
+notify the requestor of its decision. If a request for expedited 
+treatment is granted, the request shall be processed as soon as 
+practicable. If a request for expedited processing is denied, an appeal 
+of that decision shall be acted on expeditiously.
+    (f) Tolling of time limits. (1) The Board may toll the 20-day time 
+period to:
+    (i) Make one request for additional information from the requester; 
+or
+    (ii) Clarify the applicability or amount of any fees, if necessary, 
+with the requester.
+    (2) The tolling period ends upon the Board's receipt of information 
+from the requester or resolution of the fee issue.
+
+
+<R05>
+Sec. 201.8  Fees.
+
+    (a) General. The Board shall charge for processing requests under 
+the FOIA in accordance with paragraph (c) of this section, except where 
+fees are limited under Sec. 201.9 or where a waiver or reduction of 
+fees is granted under Sec. 201.11. Fees must be paid before the copies 
+of records are sent. Fees may be paid by check or money order payable to 
+the Treasury of the United States.
+    (b) Definitions for this section. (1) Commercial use request--A 
+request from, or on behalf of, a person who seeks information for a 
+purpose that furthers his/her commercial, trade, or profit interests 
+including furthering those interests through litigation. The Board
+
+[[Page 112]]
+
+shall try to determine the use to which a record will be put. When the 
+Board believes that a request is for commercial use either because of 
+the nature of the request or because the Board has cause to doubt the 
+stated use, the Board shall ask the requestor for clarification.
+    (2) Direct costs--Expenses that the Board incurs in searching for, 
+duplicating, and reviewing records in response to a request. Direct 
+costs include the full salary of the employee performing the work and 
+the cost of duplication of the records. Overhead expenses, such as the 
+cost of space, heating, and lighting, are not included.
+    (3) Duplication--Making a copy of a record or the information in the 
+record, to respond to a request. Copies can be in paper, electronic, or 
+other format. The Board shall honor a requestor's preference for format 
+if the record is readily reproducible in that format at a reasonable 
+cost.
+    (4) Educational institution--A public or private undergraduate, 
+graduate, professional or vocational school that has a program of 
+scholarly research. For a request to be in this category, a requestor 
+must show that the request is authorized by and made under the auspices 
+of the qualifying institution and that the records will be used for 
+scholarly research.
+    (5) Noncommercial scientific institution--An institution that is not 
+operated on a commercial basis, as defined in paragraph (b)(1) of this 
+section and is operated solely for conducting scientific research that 
+does not promote any particular product or industry. For a request to be 
+in this category, the requestor must show that the request is authorized 
+and made under the auspices of the qualifying institution and that the 
+records will be used for further scientific research.
+    (6) Representative of the news media--Any person who, or entity 
+that, gathers information of potential interest to a segment of the 
+public, uses editorial skills to turn the raw materials into a distinct 
+work, and distributes that work to an audience. A freelance journalist 
+shall be regarded as working for a news media entity if the person can 
+demonstrate a solid basis for expecting publication through that entity, 
+whether or not the journalist is actually employed by that entity. A 
+publication contract is one example of a basis for expecting publication 
+that ordinarily would satisfy this standard. The Board may consider past 
+publication records of the requester in determining whether he or she 
+qualifies as a ``representative of the news media.''
+    (7) Review--Examining a record to determine whether any part of it 
+is exempt from disclosure, and processing a record for disclosure. 
+Review costs are recoverable even if a record is not disclosed. Review 
+time includes time spent considering any formal objection to disclosure 
+made by a business submitter under Sec. 201.13 but does not include 
+time spent resolving general legal or policy issues regarding the 
+application of exemptions.
+    (8) Search--The process of looking for and retrieving records, 
+including page-by-page or line-by-line identification of information 
+within records and reasonable efforts to locate and retrieve information 
+from records maintained in electronic form. The Board shall ensure that 
+searches are done in the most efficient and least expensive way that is 
+reasonably possible.
+    (c) Fees. In responding to FOIA requests, the Board shall charge the 
+following fees unless a waiver or a reduction of fees has been granted 
+under Sec. 201.11.
+    (1) Search. (i) Search fees shall be charged for all requests 
+subject to the limitations of Sec. 201.9. The Board may charge for time 
+spent searching even if no responsive record is located, or if the 
+record(s) located are withheld as exempt from disclosure.
+    (ii) For each quarter hour spent by clerical personnel in searching 
+for and retrieving a requested record, the fee will be $5. If a search 
+and retrieval requires the use of professional personnel, the fee will 
+be $8 for each quarter hour. If the time of managerial personnel is 
+required, the fee will be $10 for each quarter hour.
+    (iii) For computer searches for records, requestors will be charged 
+the direct costs of conducting the search although certain requestors 
+(see Sec. 201.9(a)) will be charged no search fee and certain other 
+requestors (see Sec. 201.9(b)) will be entitled to two hours
+
+[[Page 113]]
+
+of manual search time without charge. Direct costs include the cost of 
+operating a computer for the search time for requested records and the 
+operator salary for the search.
+    (2) Duplication. Duplication fees for paper copies of a record will 
+be 10 cents per page for black and white and 20 cents per page for 
+color. For all other forms of duplication, the Board shall charge the 
+direct costs of producing the copy. All charges are subject to the 
+limitations of Sec. Sec. 201.9 and 201.11.
+    (3) Review. When a commercial-use request is made, review fees shall 
+be charged as stated in paragraph (c)(1) of this section. These fees 
+apply only to the initial record review, when the Board determines 
+whether an exemption applies to a particular record. Charges shall not 
+be imposed for review at the administrative appeal level if an exemption 
+is applied. However, records withheld under an exemption that is 
+subsequently determined not to apply may be reviewed again to determine 
+whether any other exemption not previously considered applies. The costs 
+of that review shall be charged. All review fees shall be charged at the 
+same rates as those charged in paragraph (c)(1) of this section.
+
+
+<R05>
+Sec. 201.9  Restrictions on charging fees.
+
+    (a) When determining search or review fees:
+    (1) No search fee shall be charged for requests by educational 
+institutions, noncommercial scientific institutions, or representatives 
+of the news media.
+    (2) The Board shall provide without charge to all but commercial 
+users:
+    (i) The first 100 pages of black and white duplication (or the cost 
+equivalent); and
+    (ii) The first two hours of search by a clerical staff member (or 
+the cost equivalent).
+    (3) When the total fee for a request will be $14.00 or less for any 
+request, no fee shall be charged.
+    (b) The Board will not assess search and/or duplication fees, as 
+applicable, if it fails to respond to a requester's FOIA request within 
+the time limits specified under 4 CFR 201.7, and no ``unusual'' 
+circumstances (as defined in 5 U.S.C. 552(a)(6)(B) and 4 CFR 201.7(d)) 
+or ``exceptional'' circumstances (as defined in 5 U.S.C. 552(a)(6)(C)) 
+apply to the processing of the request.
+
+
+<R05>
+Sec. 201.10  Notice of anticipated fees.
+
+    (a) General. The Board shall advise the requestor in writing of any 
+applicable fees. If only a part of the fee can be estimated readily, the 
+Board shall advise the requestor that this may be only a part of the 
+total fee. After the requestor has been sent a fee estimate, the request 
+shall not be considered received until the requestor makes a firm 
+commitment to pay the anticipated total fee. Any such agreement must be 
+made by the requestor in writing and must be received within 60 days of 
+the Board's notice. If the requestor does not provide a firm commitment 
+to pay the anticipated fee within 60 days of the notice, the request 
+shall be closed. The requestor may be given an opportunity to work with 
+the Board to change the request and lower the cost.
+    (b) Charges for other services. When the Board chooses as a matter 
+of administrative discretion to provide a special service, such as 
+certifying that records are true copies or sending them by other than 
+ordinary mail, the Board shall pay the costs of providing the services 
+unless previous arrangements have been made with the requestor.
+    (c) Charging interest. The Board may charge interest on any unpaid 
+bill starting on the 31st day following the date of billing. Interest 
+charges shall be assessed at the rate provided in 31 U.S.C. 3717 and 
+shall accrue from the date of the billing until payment is received by 
+the Board. The Board shall follow the provisions of the Debt Collection 
+Act of 1982 (Pub. L. 97-365, 96 Stat. 1749), as amended.
+    (d) Aggregating requests. If the Board reasonably believes that a 
+requestor or a group of requestors acting together is trying to divide a 
+request into a series of smaller requests for the purpose of avoiding 
+fees, the Board may aggregate the requests and charge accordingly. The 
+Board shall assume that multiple requests of the same type made within a 
+30-day period have been made in order to avoid fees. If requests are 
+separated by a longer period, the Board shall aggregate them only if 
+there is a solid basis for determining that aggregation is warranted. 
+Multiple requests
+
+[[Page 114]]
+
+involving unrelated matters shall not be aggregated.
+    (e) Advance payments. When a requestor has previously failed to pay 
+promptly a properly charged FOIA fee to the Board or another agency, the 
+Board shall require proof that full payment has been made to that agency 
+before it begins to process that requestor's FOIA request. The Board 
+shall also require advance payment of the full amount of the anticipated 
+fee. When advance payment is required, the request is not considered 
+received until payment has been made.
+
+
+<R05>
+Sec. 201.11  Requirements for waiver or reduction of fees.
+
+    (a) Fees for processing your request may be waived if you meet the 
+criteria listed in paragraph (b) of this section. The burden is on you 
+to justify entitlement to a fee waiver. Requests for fee waivers are 
+decided on a case-by-case basis. The fact that you have received a fee 
+waiver in the past does not mean you are automatically entitled to a fee 
+waiver for every request you may submit, because the essential element 
+of any fee waiver determination is whether the release of the particular 
+documents sought in the request will likely contribute significantly to 
+public understanding of the operations or activities of the government. 
+The Board will rely on the fee waiver justification you have submitted 
+in your request letter. If you do not submit sufficient justification, 
+your fee waiver request will be denied. The Board may, at its 
+discretion, communicate with you to request additional information if 
+necessary. However, the Board must make a determination on the fee 
+waiver request within the statutory time limit, even if the Board has 
+not received such additional information. In certain circumstances, a 
+partial fee waiver may be appropriate, if some, but not all, of the 
+requested records are likely to contribute significantly to public 
+understanding of the operations and activities of the government.
+    (b) The Board will waive fees (in whole or part) if disclosure of 
+all or part of the information is in the public interest because its 
+release:
+    (1) Is likely to contribute significantly to public understanding of 
+the operations or activities of the government; and
+    (2) Is not primarily in the commercial interest of the requester.
+
+
+<R05>
+Sec. 201.12  Denials.
+
+    (a) When denying a request in any respect, the Board shall notify 
+the requestor of that determination in writing. The types of denials 
+include:
+    (1) Denials of requests, including a determination:
+    (i) To withhold any requested record in whole or in part;
+    (ii) That a requested record does not exist or cannot be located;
+    (iii) That a record is not readily reproducible in the form or 
+format sought;
+    (iv) That what has been requested is not a record subject to the 
+FOIA; and
+    (v) That the material requested is not a Board record (e.g., 
+material produced by another agency or organization).
+    (2) A determination on any disputed fee matter, including a denial 
+of a request for a fee waiver.
+    (3) A denial of a request for expedited processing.
+    (b) The denial letter shall be signed by the FOIA Officer or 
+designee and shall include all of the following:
+    (1) The name and title of the person responsible for the denial.
+    (2) A brief statement of the reason(s) for the denial, including any 
+FOIA exemptions applied in denying the request.
+    (3) An estimate of the volume of records withheld, in number of 
+pages or in some other reasonable form of estimation. This estimate does 
+not need to be provided if it would harm an interest protected by an 
+applicable exemption.
+    (4) A statement that the denial may be appealed under Sec. 201.14 
+and a description of the requirements of Sec. 201.14.
+
+
+<R05>
+Sec. 201.13  Business information.
+
+    (a) In general. Business information obtained by the Board from a 
+submitter shall be disclosed under the FOIA only under this section.
+    (b) Definitions. For purposes of this section:
+    (1) Business information--commercial or financial records obtained 
+by
+
+[[Page 115]]
+
+the Board that may be protected from disclosure under Exemption 4 of the 
+FOIA.
+    (2) Submitter--any person or entity from which the Board obtains 
+business records, either directly or indirectly. The term includes but 
+is not limited to corporations and state, local, tribal, and foreign 
+governments.
+    (c) Designation of business information. Submitters of business 
+information shall designate any part of the record considered to be 
+protected from disclosure under Exemption 4 of the FOIA by appropriately 
+marking the material. This may be done either at the time the record is 
+submitted or at a reasonable time thereafter. This designation lasts for 
+10 years after submittal unless the submitter requests and provides 
+justification for a longer period.
+    (d) Notice to submitters. The Board shall provide a business 
+submitter with prompt written notice of any FOIA request or appeal that 
+seeks its business information under paragraph (e) of this section, 
+except as provided in paragraph (h) of this section, to give the 
+submitter an opportunity to object to that disclosure under paragraph 
+(f) of this section. The notice shall either describe the records 
+requested or include copies of the records.
+    (e) Required notice. The Board shall give notice of a FOIA request 
+seeking business information when:
+    (1) The submitter has designated that the information is considered 
+protected from disclosure under Exemption 4 of the FOIA; or
+    (2) The Board has reason to believe that the information may be 
+protected from disclosure under Exemption 4 of the FOIA.
+    (f)(1) Objecting to disclosure. A submitter shall have 30 days to 
+respond to the notice described in paragraph (d) of this section. If a 
+submitter has an objection to disclosure, it is required to submit a 
+detailed written statement including:
+    (i) All grounds for withholding any of the information under any 
+exemption of the FOIA, and
+    (ii) In the case of Exemption 4, the reason why the information is a 
+trade secret, commercial, or financial information that is privileged or 
+confidential.
+    (2) If a submitter fails to respond to the notice in paragraph (d) 
+of this section within 30 days, the Board shall assume that the 
+submitter has no objection to disclosure. The Board shall not consider 
+information not received by the Board until after a disclosure decision 
+has been made. Information provided by a submitter under this paragraph 
+might itself be subject to disclosure under the FOIA.
+    (g) Notice of intent to disclose. The Board shall consider a 
+submitter's objections and specific grounds for nondisclosure in 
+deciding whether to disclose the business records. Whenever the Board 
+decides to disclose business records over the objection of a submitter, 
+it shall give the submitter written notice, that will include:
+    (1) A statement of the reason(s) the submitter's objections were not 
+sustained;
+    (2) A description of the business records to be disclosed; and
+    (3) A specified disclosure date at a reasonable time subsequent to 
+the notice.
+    (h) Exceptions to notice requirements. The notice requirements in 
+paragraphs (d) and (g) of this section shall not apply if:
+    (1) The Board determines that the information should not be 
+disclosed;
+    (2) The information has been published legally or has been 
+officially made available to the public;
+    (3) Disclosure of the information is required by another statute or 
+by a regulation issued in accordance with Executive Order 12600 (3 CFR, 
+1987 Comp., p. 235); or
+    (4) The objection made by the submitter under paragraph (f) of this 
+section appears frivolous. In such a case, the Board shall promptly 
+notify the submitter of its decision using the guidelines in paragraph 
+(g) of this section.
+    (i) Notice of FOIA lawsuit. When a requestor files a lawsuit seeking 
+to compel the disclosure of business information, the Board shall 
+promptly notify the submitter.
+    (j) Corresponding notice to requestors. When the Board provides a 
+submitter with either notice and an opportunity to object to disclosure 
+under paragraph (d) of this section or with its intent to
+
+[[Page 116]]
+
+disclose requested information under paragraph (g) of this section, the 
+Board also shall notify the requestor(s). When a submitter files a 
+lawsuit seeking to prevent the disclosure of business information, the 
+Board shall notify the requestor(s).
+
+
+<R05>
+Sec. 201.14  Appeals.
+
+    (a)(1) Appeals of adverse determinations. If you are dissatisfied 
+with the Board's response to your request, you may appeal to the Board's 
+Executive Director:
+    (i) By mail to: Recovery Accountability and Transparency Board, 1717 
+Pennsylvania Avenue, NW., Suite 700, Washington, DC 20006;
+    (ii) By e-mail to: FOIA@ratb.gov; or
+    (iii) By fax to: 202-254-7970.
+    (2) The appeal must be in writing and must be received within 30 
+days of the date of the Board's response. The appeal letter, e-mail or 
+fax may include as much or as little related information as you wish, as 
+long as it clearly identifies the Board determination that you are 
+appealing, including the assigned request number, if known. For prompt 
+handling, please mark your appeal ``Freedom of Information Act Appeal.''
+    (b) Responses to appeals. Requestors shall be notified in writing of 
+the decision on the appeal. A decision affirming an adverse 
+determination shall include a statement of the reason(s) for the 
+affirmation, including any FOIA exemption(s) applied, and shall include 
+the FOIA provisions for court review of the decision. If the adverse 
+determination is reversed or modified on appeal, the request shall be 
+reprocessed in accordance with that appeal decision.
+    (c) [Reserved]
+    (d) Denial of appeal. An adverse determination by the Executive 
+Director shall be the final action of the Board.
+
+
+<R05>
+Sec. 201.15  Preservation of records.
+
+    The Board shall preserve all correspondence pertaining to the 
+requests that it receives under this subpart, as well as copies of all 
+requested records, until disposition or destruction is authorized by 
+title 44 of the United States Code of the National Archives and Records 
+Administration's General Records Schedule 14. Records will not be 
+disposed of while they are the subject of a pending request, appeal, or 
+lawsuit.
+
+
+<R05>
+Sec. 201.16  Other rights and services.
+
+    Nothing in this part shall be construed to entitle any person, as a 
+right, to any service or to the disclosure of any record to which such 
+person is entitled under the FOIA.
+
+
+<R05>
+Sec. 201.17  How to track a FOIA request.
+
+    (a) Tracking number. The Board will issue a tracking number to all 
+FOIA requesters within 5 days of the receipt of the request (as 
+described in Sec. 201.7(b)). The tracking number will be sent via 
+electronic mail if the requester has provided an electronic mail 
+address. Otherwise, the Board will mail the tracking number to the 
+requester's physical address, as provided in the FOIA request.
+    (b) Status of request. FOIA requesters may check the status of their 
+FOIA request(s) by contacting the FOIA Officer at FOIA@ratb.gov or (202) 
+254-7900.
+
+
+<R03>
+PART 202_OFFICIAL SEAL--Table of Contents
+
+<R05>
+
+
+Sec.
+202.1 Description.
+202.2 Authority to affix seal.
+202.3 Prohibitions against misuse of seal.
+
+    Authority: 5 U.S.C. 301, 18 U.S.C. 506.
+
+    Source: 74 FR 38503, Aug. 4, 2009, unless otherwise noted.
+
+
+<R05>
+Sec. 202.1  Description.
+
+    (a) The official seal of the Recovery Accountability and 
+Transparency Board (Board) is described as follows: The American Eagle, 
+right facing, with left wing outstretched and pointing forward with 
+right wing partially shown, is superimposed over a background suggesting 
+the American Flag; upon a blue field, which fills background space above 
+the Eagle's outstretched wing, are thirteen gold, five-pointed stars; 
+the lower half of the background, filling the space beneath the Eagle's 
+outstretched wing, is vertically striped in alternating colors of red 
+and gold. The entire image is circumscribed by a gold boundary with 18 
+equally spaced ``gear'' teeth; that image is further encircled by a ring
+
+[[Page 117]]
+
+bearing the gold-colored words ``RECOVERY ACCOUNTABILITY AND 
+TRANSPARENCY'' centered at its top, and the word ``BOARD'' is centered 
+at its bottom and separated from the top-centered words by two laurel 
+branches to its left and right.
+    (b) The Board also has developed an alternate, monochromatic version 
+of the seal in which the above-described blue field and red-and-gold 
+stripes are replaced by a white field and white-and-gold stripes. A 
+reproduction of the official seal in black and white appears as follows:
+[GRAPHIC] [TIFF OMITTED] TR04AU09.000
+
+
+<R05>
+Sec. 202.2  Authority to affix seal.
+
+    (a) The following officials of the Board are authorized to affix the 
+official seal (including reproductions) to appropriate documents, 
+certifications, and other materials of the Board: The Chairman and all 
+Members, the Executive Director, the General Counsel, and the Directors.
+    (b) The officials named in paragraph (a) of this section may 
+delegate this authority as appropriate.
+
+
+<R05>
+Sec. 202.3  Prohibitions against misuse of seal.
+
+    (a) Falsely making, forging, counterfeiting, mutilating, or altering 
+the Board seal or reproduction, or knowingly using or possessing with 
+fraudulent intent an altered Board seal or reproduction is punishable 
+under 18 U.S.C. 506.
+    (b) Any person using the Board seal or reproduction in a manner 
+inconsistent with the provisions of this part is subject to the 
+provisions of 18 U.S.C. 1017, which states penalties for the wrongful 
+use of an official seal, and other provisions of law as applicable.
+
+[[Page 119]]
+
+
+<R02>
                               FINDING AIDS
 
 
@@ -8204,7 +9519,7 @@ which is published separately and revised annually.
   Alphabetical List of Agencies Appearing in the CFR
   List of CFR Sections Affected
 
-[[Page 103]]
+[[Page 121]]
 
 
 <R03>
@@ -8213,7 +9528,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2009)
+                     (Revised as of January 1, 2010)
 
                       Title 1--General Provisions
 
@@ -8240,6 +9555,7 @@ which is published separately and revised annually.
         IX  Department of Energy (Parts 900--999)
         XI  Department of Defense (Parts 1100--1199)
        XII  Department of Transportation (Parts 1200--1299)
+      XIII  Department of Commerce (Parts 1300--1399)
        XIV  Department of the Interior (Parts 1400--1499)
         XV  Environmental Protection Agency (Parts 1500--1599)
      XVIII  National Aeronautics and Space Administration (Parts 
@@ -8253,16 +9569,18 @@ which is published separately and revised annually.
                 2600--2699)
      XXVII  Small Business Administration (Parts 2700--2799)
     XXVIII  Department of Justice (Parts 2800--2899)
+       XXX  Department of Homeland Security (Parts 3000--3099)
       XXXI  Institute of Museum and Library Services (Parts 3100--
                 3199)
      XXXII  National Endowment for the Arts (Parts 3200--3299)
     XXXIII  National Endowment for the Humanities (Parts 3300--
                 3399)
+
+[[Page 122]]
+
       XXXV  Export-Import Bank of the United States (Parts 3500--
                 3599)
     XXXVII  Peace Corps (Parts 3700--3799)
-
-[[Page 104]]
 
                         Title 3--The President
 
@@ -8271,6 +9589,8 @@ which is published separately and revised annually.
                            Title 4--Accounts
 
          I  Government Accountability Office (Parts 1--99)
+        II  Recovery Accountability and Transparency Board (Parts 
+                200--299)
 
                    Title 5--Administrative Personnel
 
@@ -8311,6 +9631,9 @@ which is published separately and revised annually.
                 5199)
       XLII  Department of Labor (Parts 5200--5299)
      XLIII  National Science Foundation (Parts 5300--5399)
+
+[[Page 123]]
+
        XLV  Department of Health and Human Services (Parts 5500--
                 5599)
       XLVI  Postal Rate Commission (Parts 5600--5699)
@@ -8320,9 +9643,6 @@ which is published separately and revised annually.
        LII  Export-Import Bank of the United States (Parts 6200--
                 6299)
       LIII  Department of Education (Parts 6300--6399)
-
-[[Page 105]]
-
        LIV  Environmental Protection Agency (Parts 6400--6499)
         LV  National Endowment for the Arts (Parts 6500--6599)
        LVI  National Endowment for the Humanities (Parts 6600--
@@ -8365,8 +9685,8 @@ which is published separately and revised annually.
 
          I  Department of Homeland Security, Office of the 
                 Secretary (Parts 0--99)
-         X  Privacy and Civil Liberties Oversight Board (Parts 
-                1000--1099)
+
+[[Page 124]]
 
                          Title 7--Agriculture
 
@@ -8379,9 +9699,6 @@ which is published separately and revised annually.
                 Agriculture (Parts 27--209)
         II  Food and Nutrition Service, Department of Agriculture 
                 (Parts 210--299)
-
-[[Page 106]]
-
        III  Animal and Plant Health Inspection Service, Department 
                 of Agriculture (Parts 300--399)
         IV  Federal Crop Insurance Corporation, Department of 
@@ -8428,6 +9745,9 @@ which is published separately and revised annually.
                 Agriculture (Parts 2900--2999)
        XXX  Office of the Chief Financial Officer, Department of 
                 Agriculture (Parts 3000--3099)
+
+[[Page 125]]
+
       XXXI  Office of Environmental Quality, Department of 
                 Agriculture (Parts 3100--3199)
      XXXII  Office of Procurement and Property Management, 
@@ -8437,9 +9757,6 @@ which is published separately and revised annually.
      XXXIV  Cooperative State Research, Education, and Extension 
                 Service, Department of Agriculture (Parts 3400--
                 3499)
-
-[[Page 107]]
-
       XXXV  Rural Housing Service, Department of Agriculture 
                 (Parts 3500--3599)
      XXXVI  National Agricultural Statistics Service, Department 
@@ -8484,15 +9801,16 @@ which is published separately and revised annually.
                 1399)
       XVII  Defense Nuclear Facilities Safety Board (Parts 1700--
                 1799)
+
+[[Page 126]]
+
      XVIII  Northeast Interstate Low-Level Radioactive Waste 
                 Commission (Parts 1800--1899)
 
                       Title 11--Federal Elections
 
          I  Federal Election Commission (Parts 1--9099)
-        II  Election Assistance Commission (Parts9400--9499)
-
-[[Page 108]]
+        II  Election Assistance Commission (Parts 9400--9499)
 
                       Title 12--Banks and Banking
 
@@ -8538,6 +9856,9 @@ which is published separately and revised annually.
        III  Commercial Space Transportation, Federal Aviation 
                 Administration, Department of Transportation 
                 (Parts 400--499)
+
+[[Page 127]]
+
          V  National Aeronautics and Space Administration (Parts 
                 1200--1299)
         VI  Air Transportation System Stabilization (Parts 1300--
@@ -8551,9 +9872,6 @@ which is published separately and revised annually.
                 Foreign Trade
          I  Bureau of the Census, Department of Commerce (Parts 
                 30--199)
-
-[[Page 109]]
-
         II  National Institute of Standards and Technology, 
                 Department of Commerce (Parts 200--299)
        III  International Trade Administration, Department of 
@@ -8592,6 +9910,8 @@ which is published separately and revised annually.
         II  Securities and Exchange Commission (Parts 200--399)
         IV  Department of the Treasury (Parts 400--499)
 
+[[Page 128]]
+
           Title 18--Conservation of Power and Water Resources
 
          I  Federal Energy Regulatory Commission, Department of 
@@ -8606,9 +9926,6 @@ which is published separately and revised annually.
          I  Bureau of Customs and Border Protection, Department of 
                 Homeland Security; Department of the Treasury 
                 (Parts 0--199)
-
-[[Page 110]]
-
         II  United States International Trade Commission (Parts 
                 200--299)
        III  International Trade Administration, Department of 
@@ -8650,6 +9967,9 @@ which is published separately and revised annually.
          I  Department of State (Parts 1--199)
         II  Agency for International Development (Parts 200--299)
        III  Peace Corps (Parts 300--399)
+
+[[Page 129]]
+
         IV  International Joint Commission, United States and 
                 Canada (Parts 400--499)
          V  Broadcasting Board of Governors (Parts 500--599)
@@ -8663,9 +9983,6 @@ which is published separately and revised annually.
        XII  United States International Development Cooperation 
                 Agency (Parts 1200--1299)
       XIII  Millenium Challenge Corporation (Parts 1300--1399)
-
-[[Page 111]]
-
        XIV  Foreign Service Labor Relations Board; Federal Labor 
                 Relations Authority; General Counsel of the 
                 Federal Labor Relations Authority; and the Foreign 
@@ -8705,6 +10022,9 @@ which is published separately and revised annually.
          V  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 500--599)
+
+[[Page 130]]
+
         VI  Office of Assistant Secretary for Community Planning 
                 and Development, Department of Housing and Urban 
                 Development (Parts 600--699) [Reserved]
@@ -8722,9 +10042,6 @@ which is published separately and revised annually.
         IX  Office of Assistant Secretary for Public and Indian 
                 Housing, Department of Housing and Urban 
                 Development (Parts 900--1699)
-
-[[Page 112]]
-
          X  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Interstate Land Sales 
@@ -8734,6 +10051,8 @@ which is published separately and revised annually.
         XX  Office of Assistant Secretary for Housing--Federal 
                 Housing Commissioner, Department of Housing and 
                 Urban Development (Parts 3200--3899)
+      XXIV  Board of Directors of the HOPE for Homeowners Program 
+                (Parts 4000--4099)
        XXV  Neighborhood Reinvestment Corporation (Parts 4100--
                 4199)
 
@@ -8760,6 +10079,8 @@ which is published separately and revised annually.
          I  Internal Revenue Service, Department of the Treasury 
                 (Parts 1--899)
 
+[[Page 131]]
+
            Title 27--Alcohol, Tobacco Products and Firearms
 
          I  Alcohol and Tobacco Tax and Trade Bureau, Department 
@@ -8777,9 +10098,6 @@ which is published separately and revised annually.
         VI  Offices of Independent Counsel, Department of Justice 
                 (Parts 600--699)
        VII  Office of Independent Counsel (Parts 700--799)
-
-[[Page 113]]
-
       VIII  Court Services and Offender Supervision Agency for the 
                 District of Columbia (Parts 800--899)
         IX  National Crime Prevention and Privacy Compact Council 
@@ -8818,6 +10136,8 @@ which is published separately and revised annually.
         XL  Pension Benefit Guaranty Corporation (Parts 4000--
                 4999)
 
+[[Page 132]]
+
                       Title 30--Mineral Resources
 
          I  Mine Safety and Health Administration, Department of 
@@ -8835,9 +10155,6 @@ which is published separately and revised annually.
 
             Subtitle A--Office of the Secretary of the Treasury 
                 (Parts 0--50)
-
-[[Page 114]]
-
             Subtitle B--Regulations Relating to Money and Finance
          I  Monetary Offices, Department of the Treasury (Parts 
                 51--199)
@@ -8879,6 +10196,9 @@ which is published separately and revised annually.
                 2499)
      XXVII  Office for Micronesian Status Negotiations (Parts 
                 2700--2799)
+
+[[Page 133]]
+
     XXVIII  Office of the Vice President of the United States 
                 (Parts 2800--2899)
 
@@ -8895,9 +10215,6 @@ which is published separately and revised annually.
 
             Subtitle A--Office of the Secretary, Department of 
                 Education (Parts 1--99)
-
-[[Page 115]]
-
             Subtitle B--Regulations of the Offices of the 
                 Department of Education
          I  Office for Civil Rights, Department of Education 
@@ -8937,6 +10254,9 @@ which is published separately and revised annually.
         IX  Pennsylvania Avenue Development Corporation (Parts 
                 900--999)
          X  Presidio Trust (Parts 1000--1099)
+
+[[Page 134]]
+
         XI  Architectural and Transportation Barriers Compliance 
                 Board (Parts 1100--1199)
        XII  National Archives and Records Administration (Parts 
@@ -8953,9 +10273,6 @@ which is published separately and revised annually.
         II  Copyright Office, Library of Congress (Parts 200--299)
        III  Copyright Royalty Board, Library of Congress (Parts 
                 301--399)
-
-[[Page 116]]
-
         IV  Assistant Secretary for Technology Policy, Department 
                 of Commerce (Parts 400--499)
          V  Under Secretary for Technology, Department of Commerce 
@@ -8964,6 +10281,7 @@ which is published separately and revised annually.
            Title 38--Pensions, Bonuses, and Veterans' Relief
 
          I  Department of Veterans Affairs (Parts 0--99)
+        II  Armed Forces Retirement Home
 
                        Title 39--Postal Service
 
@@ -8993,6 +10311,9 @@ which is published separately and revised annually.
         60  Office of Federal Contract Compliance Programs, Equal 
                 Employment Opportunity, Department of Labor (Parts 
                 60-1--60-999)
+
+[[Page 135]]
+
         61  Office of the Assistant Secretary for Veterans' 
                 Employment and Training Service, Department of 
                 Labor (Parts 61-1--61-999)
@@ -9009,9 +10330,6 @@ which is published separately and revised annually.
        114  Department of the Interior (Parts 114-1--114-99)
        115  Environmental Protection Agency (Parts 115-1--115-99)
        128  Department of Justice (Parts 128-1--128-99)
-
-[[Page 117]]
-
             Chapters 129--200 [Reserved]
             Subtitle D--Other Provisions Relating to Property 
                 Management [Reserved]
@@ -9048,6 +10366,8 @@ which is published separately and revised annually.
        III  Utah Reclamation Mitigation and Conservation 
                 Commission (Parts 10000--10010)
 
+[[Page 136]]
+
              Title 44--Emergency Management and Assistance
 
          I  Federal Emergency Management Agency, Department of 
@@ -9060,9 +10380,6 @@ which is published separately and revised annually.
             Subtitle A--Department of Health and Human Services 
                 (Parts 1--199)
             Subtitle B--Regulations Relating to Public Welfare
-
-[[Page 118]]
-
         II  Office of Family Assistance (Assistance Programs), 
                 Administration for Children and Families, 
                 Department of Health and Human Services (Parts 
@@ -9107,6 +10424,9 @@ which is published separately and revised annually.
                 1--199)
         II  Maritime Administration, Department of Transportation 
                 (Parts 200--399)
+
+[[Page 137]]
+
        III  Coast Guard (Great Lakes Pilotage), Department of 
                 Homeland Security (Parts 400--499)
         IV  Federal Maritime Commission (Parts 500--599)
@@ -9116,20 +10436,20 @@ which is published separately and revised annually.
          I  Federal Communications Commission (Parts 0--199)
         II  Office of Science and Technology Policy and National 
                 Security Council (Parts 200--299)
-
-[[Page 119]]
-
        III  National Telecommunications and Information 
                 Administration, Department of Commerce (Parts 
                 300--399)
+        IV  National Telecommunications and Information 
+                Administration, Department of Commerce, and 
+                National Highway Traffic Safety Administration, 
+                Department of Transportation (Parts 400--499)
 
            Title 48--Federal Acquisition Regulations System
 
          1  Federal Acquisition Regulation (Parts 1--99)
          2  Defense Acquisition Regulations System, Department of 
                 Defense (Parts 200--299)
-         3  Department of Health and Human Services (Parts 300--
-                399)
+         3  Health and Human Services (Parts 300--399)
          4  Department of Agriculture (Parts 400--499)
          5  General Services Administration (Parts 500--599)
          6  Department of State (Parts 600--699)
@@ -9157,6 +10477,9 @@ which is published separately and revised annually.
                 2400--2499)
         25  National Science Foundation (Parts 2500--2599)
         28  Department of Justice (Parts 2800--2899)
+
+[[Page 138]]
+
         29  Department of Labor (Parts 2900--2999)
         30  Department of Homeland Security, Homeland Security 
                 Acquisition Regulation (HSAR) (Parts 3000--3099)
@@ -9170,12 +10493,9 @@ which is published separately and revised annually.
                 Regulation Supplement [Reserved]
         54  Defense Logistics Agency, Department of Defense (Parts 
                 5400--5499)
-
-[[Page 120]]
-
         57  African Development Foundation (Parts 5700--5799)
-        61  General Services Administration Board of Contract 
-                Appeals (Parts 6100--6199)
+        61  Civilian Board of Contract Appeals, General Services 
+                Administration (Parts 6100--6199)
         63  Department of Transportation Board of Contract Appeals 
                 (Parts 6300--6399)
         99  Cost Accounting Standards Board, Office of Federal 
@@ -9211,6 +10531,8 @@ which is published separately and revised annually.
        XII  Transportation Security Administration, Department of 
                 Homeland Security (Parts 1500--1699)
 
+[[Page 139]]
+
                    Title 50--Wildlife and Fisheries
 
          I  United States Fish and Wildlife Service, Department of 
@@ -9227,9 +10549,6 @@ which is published separately and revised annually.
                 Commerce); Endangered Species Committee 
                 Regulations (Parts 400--499)
          V  Marine Mammal Commission (Parts 500--599)
-
-[[Page 121]]
-
         VI  Fishery Conservation and Management, National Oceanic 
                 and Atmospheric Administration, Department of 
                 Commerce (Parts 600--699)
@@ -9242,7 +10561,7 @@ which is published separately and revised annually.
             List of CFR Titles, Chapters, Subchapters, and Parts
             Alphabetical List of Agencies Appearing in the CFR
 
-[[Page 123]]
+[[Page 141]]
 
 
 
@@ -9253,7 +10572,7 @@ which is published separately and revised annually.
 
 <R04>
 
-                     (Revised as of January 1, 2009)
+                     (Revised as of January 1, 2010)
 
                                                   CFR Title, Subtitle or 
                      Agency                               Chapter
@@ -9314,7 +10633,7 @@ American Indians, Office of the Special Trustee   25, VII
 Animal and Plant Health Inspection Service        7, III; 9, I
 Appalachian Regional Commission                   5, IX
 
-[[Page 124]]
+[[Page 142]]
 
 Architectural and Transportation Barriers         36, XI
      Compliance Board
@@ -9389,7 +10708,7 @@ Defense Contract Audit Agency                     32, I
 Defense Department                                5, XXVI; 32, Subtitle A; 
                                                   40, VII
 
-[[Page 125]]
+[[Page 143]]
 
   Advanced Research Projects Agency               32, I
   Air Force Department                            32, VII
@@ -9399,6 +10718,8 @@ Defense Department                                5, XXVI; 32, Subtitle A;
   Defense Intelligence Agency                     32, I
   Defense Logistics Agency                        32, I, XII; 48, 54
   Engineers, Corps of                             33, II; 36, III
+  Human Resources Management and Labor Relations  5, XCIX
+       Systems
   National Imagery and Mapping Agency             32, I
   Navy Department                                 32, VI; 48, 52
   Secretary of Defense, Office of                 2, XI; 32, I
@@ -9459,11 +10780,11 @@ Executive Office of the President                 3, I
   Environmental Quality, Council on               40, V
   Management and Budget, Office of                5, III, LXXVII; 14, VI; 
                                                   48, 99
+
+[[Page 144]]
+
   National Drug Control Policy, Office of         21, III
   National Security Council                       32, XXI; 47, 2
-
-[[Page 126]]
-
   Presidential Documents                          3
   Science and Technology Policy, Office of        32, XXIV; 47, II
   Trade Representative, Office of the United      15, XX
@@ -9534,11 +10855,11 @@ Foreign Service Impasse Disputes Panel            22, XIV
 Foreign Service Labor Relations Board             22, XIV
 Foreign-Trade Zones Board                         15, IV
 Forest Service                                    36, II
+
+[[Page 145]]
+
 General Services Administration                   5, LVII; 41, 105
   Contract Appeals, Board of                      48, 61
-
-[[Page 127]]
-
   Federal Acquisition Regulation                  48, 5
   Federal Management Regulation                   41, 102
   Federal Property Management Regulations         41, 101
@@ -9571,11 +10892,13 @@ Health and Human Services, Department of          2, III; 5, XLV; 45,
   Inspector General (Health Care), Office of      42, V
   Public Health Service                           42, I
   Refugee Resettlement, Office of                 45, IV
-Homeland Security, Department of                  6, I
+Homeland Security, Department of                  2, XXX; 6, I
   Coast Guard                                     33, I; 46, I; 49, IV
   Coast Guard (Great Lakes Pilotage)              46, III
   Customs and Border Protection Bureau            19, I
   Federal Emergency Management Agency             44, I
+  Human Resources Management and Labor Relations  5, XCVII
+       Systems
   Immigration and Customs Enforcement Bureau      19, IV
   Immigration and Naturalization                  8, I
   Transportation Security Administration          49, XII
@@ -9608,14 +10931,14 @@ Immigration and Customs Enforcement Bureau        19, IV
 Immigration and Naturalization                    8, I
 Immigration Review, Executive Office for          8, V
 Independent Counsel, Office of                    28, VII
+
+[[Page 146]]
+
 Indian Affairs, Bureau of                         25, I, V
 Indian Affairs, Office of the Assistant           25, VI
      Secretary
 Indian Arts and Crafts Board                      25, II
 Indian Health Service                             25, V
-
-[[Page 128]]
-
 Industry and Security, Bureau of                  15, VII
 Information Resources Management, Office of       7, XXVII
 Information Security Oversight Office, National   32, XX
@@ -9688,14 +11011,14 @@ Labor Department                                  5, XLII
   Employee Benefits Security Administration       29, XXV
   Employees' Compensation Appeals Board           20, IV
   Employment and Training Administration          20, V
+
+[[Page 147]]
+
   Employment Standards Administration             20, VI
   Federal Acquisition Regulation                  48, 29
   Federal Contract Compliance Programs, Office    41, 60
        of
   Federal Procurement Regulations System          41, 50
-
-[[Page 129]]
-
   Labor-Management Standards, Office of           29, II, IV
   Mine Safety and Health Administration           30, I
   Occupational Safety and Health Administration   29, XVII
@@ -9762,13 +11085,14 @@ National Oceanic and Atmospheric Administration   15, IX; 50, II, III, IV,
 National Park Service                             36, I
 National Railroad Adjustment Board                29, III
 National Railroad Passenger Corporation (AMTRAK)  49, VII
+
+[[Page 148]]
+
 National Science Foundation                       2, XXV; 5, XLIII; 45, VI
   Federal Acquisition Regulation                  48, 25
 National Security Council                         32, XXI
 National Security Council and Office of Science   47, II
-   and Technology Policy
-[[Page 130]]
-
+     and Technology Policy
 National Telecommunications and Information       15, XXIII; 47, III
      Administration
 National Transportation Safety Board              49, VIII
@@ -9796,6 +11120,10 @@ Peace Corps                                       22, III
 Pennsylvania Avenue Development Corporation       36, IX
 Pension Benefit Guaranty Corporation              29, XL
 Personnel Management, Office of                   5, I, XXXV; 45, VIII
+  Human Resources Management and Labor Relations  5, XCIX
+       Systems, Department of Defense
+  Human Resources Management and Labor Relations  5, XCVII
+       Systems, Department of Homeland Security
   Federal Acquisition Regulation                  48, 17
   Federal Employees Group Life Insurance Federal  48, 21
        Acquisition Regulation
@@ -9811,7 +11139,6 @@ President's Commission on White House             1, IV
 Presidential Documents                            3
 Presidio Trust                                    36, X
 Prisons, Bureau of                                28, V
-Privacy and Civil Liberties Oversight Board       6, X
 Procurement and Property Management, Office of    7, XXXII
 Productivity, Technology and Innovation,          37, IV
      Assistant Secretary
@@ -9821,6 +11148,7 @@ Public and Indian Housing, Office of Assistant    24, IX
 Public Health Service                             42, I
 Railroad Retirement Board                         20, II
 Reclamation, Bureau of                            43, I
+Recovery Accountability and Transparency Board    4, II
 Refugee Resettlement, Office of                   45, IV
 Relocation Allowances                             41, 302
 Research and Innovative Technology                49, XI
@@ -9833,7 +11161,9 @@ Rural Utilities Service                           7, XVII, XVIII, XLII, L
 Saint Lawrence Seaway Development Corporation     33, IV
 Science and Technology Policy, Office of          32, XXIV
 Science and Technology Policy, Office of, and     47, II
-     National Security Council
+   National Security Council
+[[Page 149]]
+
 Secret Service                                    31, IV
 Securities and Exchange Commission                17, II
 Selective Service System                          32, XVI
@@ -9842,9 +11172,6 @@ Smithsonian Institution                           36, V
 Social Security Administration                    2, XXIII; 20, III; 48, 23
 Soldiers' and Airmen's Home, United States        5, XI
 Special Counsel, Office of                        5, VIII
-
-[[Page 131]]
-
 Special Education and Rehabilitative Services,    34, III
      Office of
 State Department                                  2, VI; 22, I; 28, XI
@@ -9911,18 +11238,11 @@ Utah Reclamation Mitigation and Conservation      43, III
      Commission
 Veterans Affairs Department                       2, VIII; 38, I
   Federal Acquisition Regulation                  48, 8
+
+[[Page 150]]
+
 Veterans' Employment and Training Service,        41, 61; 20, IX
      Office of the Assistant Secretary for
-United States and Mexico, International Boundary  22, XI
-     and Water Commission, United States Section
-Utah Reclamation Mitigation and Conservation      43, III
-     Commission
-Veterans Affairs Department                       2, VIII; 38, I
-  Federal Acquisition Regulation                  48, 8
-Veterans' Employment and Training Service,        41, 61; 20, IX
-   Office of the Assistant Secretary for
-[[Page 132]]
-
 Vice President of the United States, Office of    32, XXVIII
 Vocational and Adult Education, Office of         34, IV
 Wage and Hour Division                            29, V
@@ -9930,7 +11250,7 @@ Water Resources Council                           18, VI
 Workers' Compensation Programs, Office of         20, I
 World Agricultural Outlook Board                  7, XXXVIII
 
-[[Page 133]]
+[[Page 151]]
 
 
 <R03>
@@ -10014,78 +11334,9 @@ Chapter I
 28.66 Revised......................................................69302
 28.69 Revised......................................................69302
 
-[[Page 134]]
+[[Page 152]]
 
 28.86 Removed......................................................69302
 28.87 (a), (b) and (g) introductory text revised...................69302
-28.88 (a), (b) and (d) revised; (e) and (f) added..................69302
-28.89 Revised......................................................69302
-28.95 (a) and (d) revised..........................................69302
-28.97 (b) introductory text, (d) and (e) revised; (c) amended......69303
-28.98 (d) and (e)(1) revised.......................................69303
-28.99 Heading and (b)(1) amended...................................69303
-28.101 Revised.....................................................69303
-28.112 (a)(3) revised..............................................69303
-28.113 (a)(7) revised; (b) and (c) amended.........................69303
-28.121 (c) amended.................................................69303
-28.122 Heading and (e) amended.....................................69303
-28.123 (a)(4) revised; (c) amended.................................69303
-28.131 (d) amended.................................................69303
-28.132 (e) amended.................................................69304
-28.133 (a) through (e) revised.....................................69304
-28.146 (a) amended.................................................69304
-28.160--28.161 (Subpart K) Added...................................69304
-29 Removed.........................................................69305
-81 Revised.........................................................33832
-
-                                  2004
-
-                        No regulations published
-
-                                  2005
-
-4 CFR
-                                                                   70 FR
-                                                                    Page
-Chapter I
-Chapter I Heading revised; nomenclature change.....................17583
-21.0 (a) and (b) redesignated as (a)(1) and (b)(1); new (a)(2) and 
-        (b)(2) added...............................................19681
-21.5 (k) added.....................................................19681
-
-                                  2006
-
-                        No regulations published
-
-                                  2007
-
-4 CFR
-                                                                   72 FR
-                                                                    Page
-Chapter I
-81.5 Heading revised; (b) redesignated as (c); new (b) added.......50643
-81.6 (a) revised...................................................50644
-
-                                  2008
-
-4 CFR
-                                                                   73 FR
-                                                                    Page
-Chapter I
-21 Nomenclature change.............................................32429
-21.0 (e) through (h) redesignated as new (d) through (g); (a)(2), 
-        (b)(2), (c) and new (f) revised............................32429
-21.1 (g) revised...................................................32430
-21.3 (c), (d) and (j) revised......................................32430
-21.4 (b) and (d) revised...........................................32430
-21.5 (b)(1) revised................................................32430
-21.6 Revised.......................................................32430
-21.12 (a) revised..................................................32430
-21.14 (c) revised..................................................32430
-22 Added; interim..................................................36258
-    Regulation at 73 FR 36258 eff. date corrected; interim.........36789
-22.3 (b)(5) revised................................................60610
-22.8 (k) added.....................................................60610
-22.13 (a)(1)(A) and (B) redesignated as (a)(1)(i) and (ii).........60610
-22.15 Revised......
+28.88 (a), (b) and (d) revised; (e) and (f) added...
 </pre></body></html>
